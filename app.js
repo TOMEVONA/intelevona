@@ -3,9 +3,33 @@
    Rendering, filters, Yahoo Finance live fetch (5-min refresh).
    =========================================================== */
 
-(function () {
+(async function () {
   const D = window.SI_DATA;
   if (!D) return console.error("data.js failed to load");
+
+  // Pull live JSON snapshots if available; fall back to data.js seeds on
+  // any failure (network error, malformed JSON, missing file). The site
+  // never breaks, even if a refresh workflow produces bad output.
+  async function tryLoad(url, validator) {
+    try {
+      const res = await fetch(url, { cache: "no-cache" });
+      if (!res.ok) return null;
+      const json = await res.json();
+      return validator(json) ? json : null;
+    } catch (e) { return null; }
+  }
+  const [liveDigest, liveNews, liveSbir, liveFunding, liveJobs] = await Promise.all([
+    tryLoad("data/digest.json",  j => j && Array.isArray(j.themes)),
+    tryLoad("data/news.json",    j => j && Array.isArray(j.articles) && j.articles.length > 0),
+    tryLoad("data/sbir.json",    j => j && Array.isArray(j.awards)   && j.awards.length   > 0),
+    tryLoad("data/funding.json", j => j && Array.isArray(j.rounds)   && j.rounds.length   > 0),
+    tryLoad("data/jobs.json",    j => j && Array.isArray(j.jobs)     && j.jobs.length     > 0)
+  ]);
+  if (liveDigest)  { D.digest = liveDigest; }
+  if (liveNews)    { D.articles = liveNews.articles; }
+  if (liveSbir)    { D.sbir = liveSbir.awards; D.sbirWeekLabel = liveSbir.weekLabel; }
+  if (liveFunding) { D.fundingRounds = liveFunding.rounds; }
+  if (liveJobs)    { D.jobs = liveJobs.jobs; D.jobsUpdatedISO = liveJobs.updated; }
 
   const $  = (s, r = document) => r.querySelector(s);
   const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
@@ -594,9 +618,14 @@
   renderJobFilters();
   renderJobs();
 
-  // Jobs updated stamp (today minus a few hours)
-  const lastJobsUpdate = new Date(); lastJobsUpdate.setHours(lastJobsUpdate.getHours() - 4);
-  $("#jobsUpdated").textContent = lastJobsUpdate.toLocaleString("en-US", { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false });
+  // Jobs updated stamp — use ISO from JSON if present, else default to recent past
+  const jobsStamp = D.jobsUpdatedISO ? new Date(D.jobsUpdatedISO) : (() => {
+    const d = new Date(); d.setHours(d.getHours() - 4); return d;
+  })();
+  $("#jobsUpdated").textContent = jobsStamp.toLocaleString("en-US", { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit", hour12: false });
+
+  // SBIR week label (from JSON if set)
+  if (D.sbirWeekLabel) $("#sbirWeek").textContent = D.sbirWeekLabel;
 
   // Honour deep-link
   const initial = (location.hash || "").replace("#", "");

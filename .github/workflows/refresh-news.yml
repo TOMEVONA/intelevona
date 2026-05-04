@@ -1,0 +1,48 @@
+name: Refresh news (daily 9am EDT)
+
+on:
+  schedule:
+    # 9am EDT = 13:00 UTC (during daylight time, Mar–Nov)
+    # 9am EST = 14:00 UTC (during standard time, Nov–Mar)
+    # We run at both to keep a daily 9am-local cadence year-round; the
+    # script is idempotent so running twice in winter does no harm.
+    - cron: "0 13 * * *"
+    - cron: "0 14 * * *"
+  workflow_dispatch: {}        # lets you trigger manually from the Actions tab
+
+permissions:
+  contents: write              # needed to commit data/news.json + data/digest.json
+
+concurrency:
+  group: refresh-news
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci || npm install
+
+      - name: Fetch + summarise news
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit + push if changed
+        run: |
+          git config user.name  "spaceintel-bot"
+          git config user.email "spaceintel-bot@users.noreply.github.com"
+          if git diff --quiet -- data/news.json data/digest.json; then
+            echo "No changes."
+            exit 0
+          fi
+          git add data/news.json data/digest.json
+          git commit -m "chore(news): daily refresh $(date -u +%Y-%m-%d)"
+          git push

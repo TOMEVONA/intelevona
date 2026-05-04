@@ -1,0 +1,11 @@
+{
+  "updated": "2026-05-04 09:00 EDT",
+  "title": "Week in Orbit",
+  "summary": "Capital is quietly rotating from comms megaconstellations into propulsion and lunar logistics, while DoD continues to write very large cheques for autonomy. SpaceX flew, Blue Origin landed, and SBIR Phase II dollars hit a 12-month high — the analyst class will spend the next two weeks pretending they saw it coming.",
+  "themes": [
+    { "icon": "▣", "title": "Propulsion is the new comms", "body": "Three propulsion rounds closed this week vs. one comms deal — a reversal that's been telegraphed for two quarters. Expect M&A in the hall-thruster cohort by Q3." },
+    { "icon": "◉", "title": "Lunar logistics gets serious", "body": "Two CLPS-adjacent contracts landed and a third lunar lander startup raised at a flat valuation. The cargo-to-the-Moon market is no longer purely a NASA story." },
+    { "icon": "▲", "title": "Defense primes outperform", "body": "BA, LMT and NOC outpaced pure-plays this week as space-resilient budget lines firmed up in the FY27 markup. Small-caps remain rate-sensitive." },
+    { "icon": "◆", "title": "Talent is leaving big-aero", "body": "EVONA tracked 38% week-over-week growth in resumes from primes targeting Series B/C startups. Compensation is no longer the gating factor — schedule risk is." }
+  ]
+}

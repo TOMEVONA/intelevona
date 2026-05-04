@@ -1,0 +1,30 @@
+{
+  "updated": "2026-05-04T14:00:00Z",
+  "rounds": [
+    { "co": "True Anomaly", "amt": 190, "stage": "Series C", "sector": "Defense", "daysAgo": 1, "desc": "Co-orbital security and SDA — DoD pull-through is now the headline.", "link": "https://example.com/f1" },
+    { "co": "Astranis", "amt": 250, "stage": "Strategic", "sector": "Comms", "daysAgo": 3, "desc": "MicroGEO production capital. Convertibles priced aggressively.", "link": "https://example.com/f2" },
+    { "co": "Stoke Space", "amt": 260, "stage": "Series C", "sector": "Launch", "daysAgo": 5, "desc": "Fully-reusable medium-lift; manufacturing scale-up bridge to first orbital.", "link": "https://example.com/f3" },
+    { "co": "K2 Space", "amt": 110, "stage": "Series B", "sector": "Satellites", "daysAgo": 6, "desc": "Megaclass satellite bus for high-power national security missions.", "link": "https://example.com/f4" },
+    { "co": "Apex", "amt": 95, "stage": "Series C", "sector": "Satellites", "daysAgo": 9, "desc": "Productised satellite buses; tape-out of next-gen Aries platform.", "link": "https://example.com/f5" },
+    { "co": "Ursa Major", "amt": 85, "stage": "Series E", "sector": "Propulsion", "daysAgo": 11, "desc": "Hadley and Ridley engine production capacity — defense pull is heavy.", "link": "https://example.com/f6" },
+    { "co": "Albedo Space", "amt": 35, "stage": "Series B", "sector": "EO/Data", "daysAgo": 12, "desc": "VLEO 10cm imagery operator — first commercial cohort customers active.", "link": "https://example.com/f7" },
+    { "co": "Phase Four", "amt": 42, "stage": "Series C", "sector": "Propulsion", "daysAgo": 14, "desc": "RF-thruster line; expanding production to second facility in Texas.", "link": "https://example.com/f8" },
+    { "co": "Hadrian", "amt": 130, "stage": "Series C", "sector": "Manufacturing", "daysAgo": 15, "desc": "Precision component automation — aerospace is now the lead vertical.", "link": "https://example.com/f9" },
+    { "co": "Castelion", "amt": 175, "stage": "Series B", "sector": "Defense", "daysAgo": 17, "desc": "Hypersonic strike systems for the affordable-mass thesis.", "link": "https://example.com/f10" },
+    { "co": "Anduril", "amt": 1500, "stage": "Series F", "sector": "Defense", "daysAgo": 18, "desc": "Pre-IPO; capital pulled forward to fund Roadrunner and ALTIUS lines.", "link": "https://example.com/f11" },
+    { "co": "Impulse Space", "amt": 150, "stage": "Series C", "sector": "Propulsion", "daysAgo": 20, "desc": "Mira and Helios space tugs — orbital logistics buildout continues.", "link": "https://example.com/f12" },
+    { "co": "Slingshot Aerospace", "amt": 70, "stage": "Series C", "sector": "EO/Data", "daysAgo": 22, "desc": "Space domain awareness — DoD ATO progress drove the round timing.", "link": "https://example.com/f13" },
+    { "co": "Varda Space", "amt": 120, "stage": "Series B", "sector": "In-space MFG", "daysAgo": 24, "desc": "Pharmaceutical microgravity manufacturing; capsule cadence increases.", "link": "https://example.com/f14" },
+    { "co": "Aetherflux", "amt": 50, "stage": "Series A", "sector": "Power", "daysAgo": 26, "desc": "Space-based solar power demo — DoD funded the antecedent study.", "link": "https://example.com/f15" },
+    { "co": "Pixxel", "amt": 65, "stage": "Series B", "sector": "EO/Data", "daysAgo": 28, "desc": "Hyperspectral constellation; first defence customers under contract.", "link": "https://example.com/f16" },
+    { "co": "Ramon.Space", "amt": 45, "stage": "Series C", "sector": "Computing", "daysAgo": 32, "desc": "Radiation-hardened space computing — board-level wins with primes.", "link": "https://example.com/f17" },
+    { "co": "Vast Space", "amt": 240, "stage": "Strategic", "sector": "Stations", "daysAgo": 35, "desc": "Haven-1 follow-on; insider-led with limited new investor allocation.", "link": "https://example.com/f18" },
+    { "co": "Lunar Outpost", "amt": 80, "stage": "Series B", "sector": "Lunar", "daysAgo": 39, "desc": "Mobility platforms for CLPS missions; first commercial extension order.", "link": "https://example.com/f19" },
+    { "co": "Firefly Aerospace", "amt": 175, "stage": "Strategic", "sector": "Launch", "daysAgo": 44, "desc": "MLV programme bridge financing; clean-up round before NYSE listing.", "link": "https://example.com/f20" },
+    { "co": "ABL Space", "amt": 60, "stage": "Debt", "sector": "Launch", "daysAgo": 51, "desc": "Venture debt facility, RS1 manifest financing.", "link": "https://example.com/f21" },
+    { "co": "Quindar", "amt": 22, "stage": "Series A", "sector": "Software", "daysAgo": 58, "desc": "Mission-control software; ARR triples year-over-year on commercial deals.", "link": "https://example.com/f22" },
+    { "co": "Loft Orbital", "amt": 200, "stage": "Series D", "sector": "Satellites", "daysAgo": 65, "desc": "Satellites-as-a-service; defense customer concentration rising.", "link": "https://example.com/f23" },
+    { "co": "ICEYE", "amt": 110, "stage": "Series E", "sector": "EO/Data", "daysAgo": 72, "desc": "SAR constellation; allied government contracts dominate revenue mix.", "link": "https://example.com/f24" },
+    { "co": "Sierra Space", "amt": 290, "stage": "Series B", "sector": "Vehicles", "daysAgo": 90, "desc": "Dream Chaser and inflatable habitat parallel programmes.", "link": "https://example.com/f25" }
+  ]
+}

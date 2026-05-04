@@ -1,0 +1,40 @@
+name: Refresh SBIR (Mondays 10am EDT)
+
+on:
+  schedule:
+    # 10am EDT = 14:00 UTC, 10am EST = 15:00 UTC. We run both for year-round coverage.
+    - cron: "0 14 * * 1"
+    - cron: "0 15 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-sbir
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch SBIR awards
+        run: node scripts/fetch-sbir.mjs
+
+      - name: Commit + push if changed
+        run: |
+          git config user.name  "spaceintel-bot"
+          git config user.email "spaceintel-bot@users.noreply.github.com"
+          if git diff --quiet -- data/sbir.json; then
+            echo "No changes."
+            exit 0
+          fi
+          git add data/sbir.json
+          git commit -m "chore(sbir): weekly refresh $(date -u +%Y-%m-%d)"
+          git push
