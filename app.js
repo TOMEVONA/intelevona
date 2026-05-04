@@ -603,9 +603,34 @@
   if (tabs.includes(initial)) selectTab(initial);
 
   // Kick off live data: stocks (and they power the ticker tape)
-  loadStocks();
+  loadStocks().then(updateTopbarRefreshMeta);
 
   // Auto-refresh every 5 min
-  setInterval(() => { loadStocks(); }, 5 * 60 * 1000);
+  setInterval(() => { loadStocks().then(updateTopbarRefreshMeta); }, 5 * 60 * 1000);
   setInterval(() => { if (etfsFirstLoadDone) loadEtfs(); }, 5 * 60 * 1000);
+
+  // Manual refresh button (topbar)
+  let lastManualRefresh = null;
+  function updateTopbarRefreshMeta() {
+    const now = new Date();
+    lastManualRefresh = now;
+    $("#topbarRefreshMeta").textContent = "Live · " + now.toLocaleTimeString("en-US", { hour: "2-digit", minute: "2-digit", hour12: false });
+  }
+  $("#refreshBtn").addEventListener("click", async () => {
+    const btn = $("#refreshBtn");
+    if (btn.disabled) return;
+    btn.classList.add("spinning");
+    btn.disabled = true;
+    $("#topbarRefreshMeta").textContent = "Refreshing…";
+    try {
+      await Promise.all([
+        loadStocks(),
+        etfsFirstLoadDone ? loadEtfs() : Promise.resolve()
+      ]);
+      updateTopbarRefreshMeta();
+    } finally {
+      btn.classList.remove("spinning");
+      btn.disabled = false;
+    }
+  });
 })();
