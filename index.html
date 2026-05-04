@@ -7,7 +7,7 @@
   <meta name="description" content="Space Intel by EVONA — daily intelligence on space industry news, funding rounds, SBIR awards, public stocks, ETFs, and careers." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Michroma&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&family=Michroma&family=Saira:wght@600;700;800;900&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -36,7 +36,12 @@
       </div>
 
       <nav class="nav" role="navigation">
-        <button class="nav-item active" data-tab="news">
+        <button class="nav-item active" data-tab="briefing">
+          <span class="nav-icon">★</span>
+          <span class="nav-label">The Briefing</span>
+        </button>
+        <div class="nav-section">Terminal</div>
+        <button class="nav-item" data-tab="news">
           <span class="nav-icon">◉</span>
           <span class="nav-label">News Feed</span>
         </button>
@@ -81,8 +86,54 @@
         </div>
       </header>
 
+      <!-- Tab: Briefing (default home) -->
+      <section class="tab briefing" id="tab-briefing" data-active="true">
+        <article class="briefing-hero">
+          <div class="briefing-eyebrow">
+            <span class="briefing-mark">★</span>
+            <span class="briefing-label">The Briefing</span>
+            <span class="briefing-issue" id="briefingIssue">No. 14</span>
+            <span class="briefing-date" id="briefingDate">May 4, 2026</span>
+          </div>
+          <h1 class="briefing-headline" id="briefingHeadline"></h1>
+          <p class="briefing-deck" id="briefingDeck"></p>
+        </article>
+
+        <div class="briefing-stats" id="briefingStats"></div>
+
+        <section class="briefing-section">
+          <h2 class="briefing-section-title">Three things that moved</h2>
+          <div class="briefing-stories" id="briefingStories"></div>
+        </section>
+
+        <section class="briefing-section briefing-tickers-section">
+          <h2 class="briefing-section-title">On the tape</h2>
+          <div class="briefing-tickers" id="briefingTickers"></div>
+        </section>
+
+        <section class="briefing-section">
+          <h2 class="briefing-section-title">What we're watching next</h2>
+          <div class="briefing-watchlist" id="briefingWatchlist"></div>
+        </section>
+
+        <section class="briefing-talent" id="briefingTalent"></section>
+
+        <footer class="briefing-foot">
+          <p class="briefing-foot-note" id="briefingFootnote">
+            Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →
+          </p>
+          <div class="briefing-foot-cta">
+            <button class="btn-orange" data-jump="news">Open News Feed</button>
+            <button class="btn-ghost" data-jump="funding">Funding</button>
+            <button class="btn-ghost" data-jump="sbir">SBIR</button>
+            <button class="btn-ghost" data-jump="stocks">Stocks</button>
+            <button class="btn-ghost" data-jump="jobs">Jobs</button>
+          </div>
+        </footer>
+      </section>
+
       <!-- Tab: News -->
-      <section class="tab" id="tab-news" data-active="true">
+      <section class="tab" id="tab-news">
         <div class="digest" id="newsDigest"></div>
 
         <div class="tab-controls">

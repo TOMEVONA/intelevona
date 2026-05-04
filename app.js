@@ -18,18 +18,20 @@
       return validator(json) ? json : null;
     } catch (e) { return null; }
   }
-  const [liveDigest, liveNews, liveSbir, liveFunding, liveJobs] = await Promise.all([
-    tryLoad("data/digest.json",  j => j && Array.isArray(j.themes)),
-    tryLoad("data/news.json",    j => j && Array.isArray(j.articles) && j.articles.length > 0),
-    tryLoad("data/sbir.json",    j => j && Array.isArray(j.awards)   && j.awards.length   > 0),
-    tryLoad("data/funding.json", j => j && Array.isArray(j.rounds)   && j.rounds.length   > 0),
-    tryLoad("data/jobs.json",    j => j && Array.isArray(j.jobs)     && j.jobs.length     > 0)
+  const [liveDigest, liveNews, liveSbir, liveFunding, liveJobs, liveBriefing] = await Promise.all([
+    tryLoad("data/digest.json",   j => j && Array.isArray(j.themes)),
+    tryLoad("data/news.json",     j => j && Array.isArray(j.articles) && j.articles.length > 0),
+    tryLoad("data/sbir.json",     j => j && Array.isArray(j.awards)   && j.awards.length   > 0),
+    tryLoad("data/funding.json",  j => j && Array.isArray(j.rounds)   && j.rounds.length   > 0),
+    tryLoad("data/jobs.json",     j => j && Array.isArray(j.jobs)     && j.jobs.length     > 0),
+    tryLoad("data/briefing.json", j => j && j.headline && Array.isArray(j.stories))
   ]);
-  if (liveDigest)  { D.digest = liveDigest; }
-  if (liveNews)    { D.articles = liveNews.articles; }
-  if (liveSbir)    { D.sbir = liveSbir.awards; D.sbirWeekLabel = liveSbir.weekLabel; }
-  if (liveFunding) { D.fundingRounds = liveFunding.rounds; }
-  if (liveJobs)    { D.jobs = liveJobs.jobs; D.jobsUpdatedISO = liveJobs.updated; }
+  if (liveDigest)   { D.digest = liveDigest; }
+  if (liveNews)     { D.articles = liveNews.articles; }
+  if (liveSbir)     { D.sbir = liveSbir.awards; D.sbirWeekLabel = liveSbir.weekLabel; }
+  if (liveFunding)  { D.fundingRounds = liveFunding.rounds; }
+  if (liveJobs)     { D.jobs = liveJobs.jobs; D.jobsUpdatedISO = liveJobs.updated; }
+  if (liveBriefing) { D.briefing = liveBriefing; }
 
   const $  = (s, r = document) => r.querySelector(s);
   const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
@@ -52,13 +54,14 @@
   };
 
   /* ---------- Sidebar / tab nav ---------- */
-  const tabs = ["news","funding","sbir","stocks","jobs"];
+  const tabs = ["briefing","news","funding","sbir","stocks","jobs"];
   const tabTitles = {
-    news: "News Feed",
-    funding: "Funding & Investment",
-    sbir: "SBIR Phase II Awards",
-    stocks: "Space Stocks",
-    jobs: "EVONA Jobs"
+    briefing: "The Briefing",
+    news:     "News Feed",
+    funding:  "Funding & Investment",
+    sbir:     "SBIR Phase II Awards",
+    stocks:   "Space Stocks",
+    jobs:     "EVONA Jobs"
   };
 
   function selectTab(tab) {
@@ -85,6 +88,117 @@
     });
   }
   tickClock(); setInterval(tickClock, 30000);
+
+  /* ===========================================================
+     Tab 0 — Briefing (front door)
+     =========================================================== */
+  // Apply orange word-level highlights to phrases the briefing flags
+  // by wrapping them in {{...}} markers in the JSON copy. We also auto-
+  // highlight common pattern matches (numbers, $X, percentages, ALLCAPS
+  // tickers) so the editorial pop without the editor having to mark each
+  // term explicitly.
+  function emphasizeText(s) {
+    if (!s) return "";
+    let out = String(s);
+    // Explicit {{phrase}} → <em class="hot">phrase</em>
+    out = out.replace(/\{\{([^}]+)\}\}/g, '<em class="hot">$1</em>');
+    // Highlight $-amounts (e.g. $1.5B, $260M, $27M)
+    out = out.replace(/(\$[\d.]+ ?[BMK])/g, '<em class="hot">$1</em>');
+    // Highlight stock tickers (uppercase 2-5 letters used as standalone words)
+    out = out.replace(/(?<![A-Z])\b([A-Z]{2,5})\b(?![A-Z])/g, m => {
+      const stop = ["DOD","NASA","DARPA","USSF","USAF","MDA","NSSL","SDA","RFI","PDR","MOU","API","CTA","ESA","JAXA","ISRO","PNT","GEO","LEO","RF","UAV","EO","ML","AI","CSG","ATO","CDR","DDG","IPO","FY27","FY","WP","PS","DC","YC","CTL","OSD","ITAR","NDA","ELI5","NMS","FAA","FCC","DC","UV"];
+      return stop.includes(m) ? m : `<em class="hot">${m}</em>`;
+    });
+    return out;
+  }
+
+  function renderBriefing() {
+    const b = D.briefing;
+    if (!b) return;
+
+    if (b.issue)    $("#briefingIssue").textContent = b.issue;
+    if (b.updated)  $("#briefingDate").textContent  = new Date(b.updated).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" });
+    if (b.headline) $("#briefingHeadline").innerHTML = emphasizeText(b.headline);
+    if (b.deck)     $("#briefingDeck").innerHTML     = emphasizeText(b.deck);
+
+    if (Array.isArray(b.stats)) {
+      $("#briefingStats").innerHTML = b.stats.map(s => {
+        const trendCls = s.trend || "flat";
+        const arrow   = trendCls === "up" ? "▲" : trendCls === "down" ? "▼" : "·";
+        return `
+          <div class="briefing-stat">
+            <div class="briefing-stat-label">${s.label}</div>
+            <div class="briefing-stat-value">
+              <span class="stat-trend ${trendCls}">${arrow}</span>${s.value}
+            </div>
+            <div class="briefing-stat-sub">${s.sub || ""}</div>
+          </div>`;
+      }).join("");
+    }
+
+    if (Array.isArray(b.stories)) {
+      $("#briefingStories").innerHTML = b.stories.map(st => `
+        <article class="briefing-story">
+          <div class="briefing-story-text">
+            <div class="briefing-story-kicker">${st.kicker || ""}</div>
+            <h3 class="briefing-story-head">${emphasizeText(st.head)}</h3>
+            <p class="briefing-story-body">${emphasizeText(st.body)}</p>
+          </div>
+          <aside class="briefing-sowhat">${emphasizeText(st.soWhat)}</aside>
+        </article>
+      `).join("");
+    }
+
+    if (Array.isArray(b.tickers)) {
+      $("#briefingTickers").innerHTML = b.tickers.map(t => `
+        <div class="briefing-ticker">
+          <div class="briefing-ticker-sym">${t.sym}</div>
+          <div class="briefing-ticker-note">${emphasizeText(t.note)}</div>
+        </div>
+      `).join("");
+    }
+
+    if (Array.isArray(b.watchlist)) {
+      $("#briefingWatchlist").innerHTML = b.watchlist.map(w => `
+        <div class="briefing-watch">
+          <h4 class="briefing-watch-title">${w.title}</h4>
+          <p class="briefing-watch-body">${emphasizeText(w.body)}</p>
+        </div>
+      `).join("");
+    }
+
+    if (b.talent) {
+      const t = b.talent;
+      $("#briefingTalent").innerHTML = `
+        <div class="briefing-talent-stat">
+          <div class="briefing-talent-num">${t.stat}</div>
+          <div class="briefing-talent-numlabel">${t.statLabel}</div>
+        </div>
+        <div class="briefing-talent-text">
+          <h3 class="briefing-talent-head">${emphasizeText(t.head)}</h3>
+          <p class="briefing-talent-body">${emphasizeText(t.body)}</p>
+          <a class="briefing-talent-cta" href="${t.ctaHref || "#jobs"}">${t.cta || "See open roles →"}</a>
+        </div>`;
+    }
+
+    if (b.footnote) $("#briefingFootnote").textContent = b.footnote;
+
+    // Wire up "jump to tab" buttons in the briefing footer
+    $$(".briefing-foot-cta [data-jump]").forEach(b => {
+      b.addEventListener("click", () => selectTab(b.dataset.jump));
+    });
+    // Talent CTA also routes via tab switcher when it points to a tab anchor
+    const talentCta = $(".briefing-talent-cta");
+    if (talentCta) {
+      talentCta.addEventListener("click", e => {
+        const href = talentCta.getAttribute("href") || "";
+        if (href.startsWith("#")) {
+          e.preventDefault();
+          selectTab(href.slice(1));
+        }
+      });
+    }
+  }
 
   /* ===========================================================
      Tab 1 — News
@@ -608,6 +722,7 @@
   /* ===========================================================
      Init
      =========================================================== */
+  renderBriefing();
   renderDigest();
   renderNewsFilters();
   renderNewsGrid();

@@ -1,0 +1,67 @@
+{
+  "updated": "2026-05-04",
+  "issue": "No. 14",
+  "headline": "Capital pivots. Procurement shifts. Talent walks.",
+  "deck": "Three things moved in space and defense this week. None of them were a launch.",
+  "stats": [
+    { "label": "Capital deployed",      "value": "$2.7B",  "sub": "across 8 disclosed rounds",     "trend": "up"   },
+    { "label": "Biggest cheque",        "value": "$1.5B",  "sub": "Anduril, pre-IPO",              "trend": "flat" },
+    { "label": "SBIR Phase II",         "value": "$27M",   "sub": "12-month high",                 "trend": "up"   },
+    { "label": "News tracked",          "value": "65",     "sub": "across 13 sources",             "trend": "flat" },
+    { "label": "Defense primes",        "value": "+",      "sub": "outpaced pure-plays this week", "trend": "up"   },
+    { "label": "Resumes in motion",     "value": "+38%",   "sub": "WoW, primes → Series B/C",      "trend": "up"   }
+  ],
+  "stories": [
+    {
+      "kicker": "Capital",
+      "head": "Propulsion ate comms's lunch",
+      "body": "Three propulsion rounds priced this week — Stoke ($260M), Ursa Major ($85M), Phase Four ($42M). One comms deal. That's a reversal that's been telegraphed for two quarters and is finally showing up cleanly in printed term sheets, not just Twitter spaces. Astranis pulled $250M strategic on top, and True Anomaly priced a $190M Series C at $1.6B with DoD pull-through that's hard to overstate.",
+      "soWhat": "The next defense logistics layer is being financed in real time. Watch the hall-thruster cohort for M&A by Q3."
+    },
+    {
+      "kicker": "Procurement",
+      "head": "DoD is buying, not building — in writing",
+      "body": "The OSD memo formalising 'commercial-first' acquisition for SDA payloads will get one paragraph in a press release and a thousand in next year's earnings calls. The default has flipped: organic builds now require written justification. Pair it with Saltzman's quote — \"We will not own all the spacecraft we operate\" — and the FY27 markup adding $1.4B to space resilience, and you have the clearest signal in years.",
+      "soWhat": "The contractors that priced this in early are fine. The ones that didn't are explaining, again, why their organic programs slipped this quarter."
+    },
+    {
+      "kicker": "Lunar",
+      "head": "The Moon stopped being a NASA story",
+      "body": "DARPA's LunA-10 Phase 2 selected 11 contractors. Two CLPS-adjacent contracts landed. A third lunar-lander startup raised at a flat valuation — read that what you will. Artemis III crewed slipped to mid-2027 (hardware, not money), but the more interesting Moon story is on the commercial side: cargo-to-the-Moon is now a procurement category, with multiple buyers and competing platforms.",
+      "soWhat": "The lunar economy is multi-buyer. That's a different sentence from the one we wrote last year."
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "Anduril revenue cadence",
+      "body": "Whether the defense-tech IPO window opens or stays jammed is now a single-company question. The next 90 days matter."
+    },
+    {
+      "title": "SBIR Phase II momentum",
+      "body": "$27M last week is a 12-month high. Watch for confirmation or reversion — both are signal."
+    },
+    {
+      "title": "Eastern Med GPS jamming",
+      "body": "Back to pre-2024 levels. Commercial aviators are flying with one foot on the brake. The PNT-alternative cohort gets re-rated upward if this persists."
+    },
+    {
+      "title": "ASTS execution risk",
+      "body": "Bull case is hard to argue against, except for execution. That, depending on your priors, is either everything or nothing."
+    }
+  ],
+  "talent": {
+    "stat": "38%",
+    "statLabel": "Week-over-week growth in resumes from primes to Series B/C",
+    "head": "Talent is leaving big-aero — and it's not about money",
+    "body": "Compensation is not the gating factor. The complaint, almost universally, is schedule risk — the inability to ship anything quickly, the half-decade gap between joining and seeing flight hardware, the meeting that exists to schedule the meeting. The startups absorbing this talent will, in two years, be hard to compete with on a level playing field.",
+    "cta": "EVONA moves people in this market. See open roles →",
+    "ctaHref": "#jobs"
+  },
+  "tickers": [
+    { "sym": "RKLB", "note": "Neutron 12-sec hot-fire. Beck still says first flight 'this year.' Market 60% in." },
+    { "sym": "ASTS", "note": "Three more BlueBirds launched on schedule. The market wants flight rate. They're delivering it." },
+    { "sym": "LMT/NOC/BA", "note": "Primes outpaced pure-plays this week as space-resilient lines firmed up." },
+    { "sym": "LUNR", "note": "Two CLPS-adjacent task orders. Lunar logistics is no longer aspirational." }
+  ],
+  "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
+}
