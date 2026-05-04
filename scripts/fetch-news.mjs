@@ -35,17 +35,46 @@ const parser = new XMLParser({
   textNodeName: "_text"
 });
 
-const stripHtml = s => String(s || "")
+const decodeEntities = s => String(s || "")
+  .replace(/&#(\d+);/g,        (_, n) => String.fromCodePoint(+n))
+  .replace(/&#x([0-9a-f]+);/gi,(_, h) => String.fromCodePoint(parseInt(h, 16)))
+  .replace(/&nbsp;/g,   " ")
+  .replace(/&amp;/g,    "&")
+  .replace(/&quot;/g,   '"')
+  .replace(/&apos;/g,   "'")
+  .replace(/&lt;/g,     "<")
+  .replace(/&gt;/g,     ">")
+  .replace(/&hellip;/g, "…")
+  .replace(/&mdash;/g,  "—")
+  .replace(/&ndash;/g,  "–")
+  .replace(/&rsquo;/g,  "'").replace(/&lsquo;/g, "'")
+  .replace(/&rdquo;/g,  '"').replace(/&ldquo;/g, '"');
+
+const stripHtml = s => decodeEntities(String(s || "")
   .replace(/<!\[CDATA\[(.*?)\]\]>/gs, "$1")
-  .replace(/<[^>]+>/g, " ")
-  .replace(/&nbsp;/g, " ")
-  .replace(/&amp;/g, "&")
-  .replace(/&quot;/g, '"')
-  .replace(/&#39;/g, "'")
-  .replace(/&lt;/g, "<")
-  .replace(/&gt;/g, ">")
+  .replace(/<[^>]+>/g, " "))
+  .replace(/\s*\[…\][\s\S]*$/, "")                        // [...] truncation marker + tail
+  .replace(/\s*The post .* appeared first on.*$/i, "")          // standard WP RSS footer
+  .replace(/\s*Continue reading[\s\S]*$/i, "")
   .replace(/\s+/g, " ")
   .trim();
+
+// Trim to ~max chars but cut at the last sentence boundary if one exists
+// in the back half; otherwise the last word boundary. Adds an ellipsis if
+// we trimmed off content.
+function smartTruncate(text, max) {
+  if (!text) return "";
+  if (text.length <= max) return text;
+  const slice = text.slice(0, max);
+  const lastSentence = Math.max(
+    slice.lastIndexOf(". "),
+    slice.lastIndexOf("! "),
+    slice.lastIndexOf("? ")
+  );
+  if (lastSentence > max * 0.5) return slice.slice(0, lastSentence + 1).trim();
+  const lastSpace = slice.lastIndexOf(" ");
+  return (lastSpace > max * 0.5 ? slice.slice(0, lastSpace) : slice).trim() + "…";
+}
 
 const toISODate = s => {
   if (!s) return null;
@@ -125,7 +154,7 @@ async function fetchSource(src) {
       return items.map(it => ({
         sourceId: src.id,
         title:    it.title,
-        summary:  it.description.slice(0, 280),
+        summary:  smartTruncate(it.description, 280),
         date:     toISODate(it.pubDate) || new Date().toISOString().slice(0, 10),
         link:     it.link
       }));
