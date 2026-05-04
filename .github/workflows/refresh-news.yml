@@ -17,6 +17,11 @@ concurrency:
   group: refresh-news
   cancel-in-progress: false
 
+env:
+  # Opt into Node 24 for the JS actions ahead of the June 2026 default.
+  # Removes the Node 20 deprecation warning; harmless if already on 24.
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -26,9 +31,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm
 
-      - run: npm ci || npm install
+      - run: npm install --no-audit --no-fund
 
       - name: Fetch + summarise news
         env:

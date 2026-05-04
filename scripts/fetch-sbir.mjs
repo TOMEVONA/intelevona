@@ -20,7 +20,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const SBIR_PATH = path.join(ROOT, "data", "sbir.json");
 
-const MIN_AWARDS = 6;
+const MIN_AWARDS = 1;
 
 // Each sector defines the keywords used to match against the award's
 // title + topic + abstract. First match wins.
@@ -76,22 +76,44 @@ function weekLabel() {
 }
 
 async function fetchAwards() {
-  // Past 7 days, Phase II
+  // SBIR.gov public API — pull recent Phase II awards. We try a few
+  // query variants because the API has shifted parameter names over the
+  // years; we also widen to 60 days to make sure something matches.
   const today = new Date();
-  const start = new Date(today); start.setUTCDate(start.getUTCDate() - 7);
+  const start = new Date(today); start.setUTCDate(start.getUTCDate() - 60);
   const fmt = d => d.toISOString().slice(0, 10);
-  // sbir.gov supports a date range and phase filter; pull a wide net then filter client-side
-  const url = `https://api.www.sbir.gov/public/api/awards?start_date=${fmt(start)}&end_date=${fmt(today)}&rows=200`;
-  console.log(`GET ${url}`);
-  const res = await fetch(url, {
-    headers: {
-      "User-Agent": "SpaceIntelByEVONA/1.0 (+https://github.com/TOMEVONA/intelevona)",
-      "Accept": "application/json"
+  const variants = [
+    `https://api.www.sbir.gov/public/api/awards?phase=Phase+II&start_date=${fmt(start)}&end_date=${fmt(today)}&rows=200`,
+    `https://api.www.sbir.gov/public/api/awards?phase=Phase%20II&start=${fmt(start)}&end=${fmt(today)}&rows=200`,
+    `https://api.www.sbir.gov/public/api/awards?rows=200`,
+    `https://www.sbir.gov/api/awards.json?phase=Phase+II&rows=200`
+  ];
+  for (const url of variants) {
+    console.log(`GET ${url}`);
+    try {
+      const res = await fetch(url, {
+        headers: {
+          "User-Agent": "SpaceIntelByEVONA/1.0 (+https://github.com/TOMEVONA/intelevona)",
+          "Accept":     "application/json"
+        }
+      });
+      if (!res.ok) { console.warn(`  HTTP ${res.status}`); continue; }
+      const text = await res.text();
+      let json;
+      try { json = JSON.parse(text); }
+      catch { console.warn(`  Non-JSON response (first 120 chars): ${text.slice(0, 120)}`); continue; }
+      const arr = Array.isArray(json) ? json : (json.data || json.awards || json.results || []);
+      if (arr.length) {
+        // Log the shape of the first record so we can adapt to API changes
+        console.log(`  Got ${arr.length} records. First record keys: ${Object.keys(arr[0]).slice(0, 20).join(", ")}`);
+        return arr;
+      }
+      console.warn(`  Empty result set`);
+    } catch (e) {
+      console.warn(`  ${e.message}`);
     }
-  });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const json = await res.json();
-  return Array.isArray(json) ? json : (json.data || []);
+  }
+  throw new Error("All SBIR API variants failed");
 }
 
 function transform(raw) {

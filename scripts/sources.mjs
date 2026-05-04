@@ -23,7 +23,8 @@ export const SOURCES = [
 
 // Minimum number of fresh articles to count as a successful fetch.
 // If we end up with fewer than this many across all sources, abort
-// and leave existing news.json alone.
-export const MIN_TOTAL_ARTICLES = 20;
+// and leave existing news.json alone. Lenient by design — feed 403s
+// happen and we'd rather merge with existing than nuke the dataset.
+export const MIN_TOTAL_ARTICLES = 5;
 // Max articles per source kept in the final feed.
 export const MAX_PER_SOURCE = 5;

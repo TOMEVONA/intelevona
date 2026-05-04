@@ -136,14 +136,31 @@ async function fetchSource(src) {
   return null;
 }
 
+async function callClaude(prompt, maxTokens = 4096) {
+  const res = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "x-api-key":         ANTHROPIC_API_KEY,
+      "anthropic-version": "2023-06-01",
+      "content-type":      "application/json"
+    },
+    body: JSON.stringify({
+      model:      MODEL,
+      max_tokens: maxTokens,
+      messages:   [{ role: "user", content: prompt }]
+    })
+  });
+  if (!res.ok) {
+    const body = await res.text();
+    throw new Error(`Anthropic API ${res.status}: ${body.slice(0, 200)}`);
+  }
+  const json = await res.json();
+  return (json.content || []).find(c => c.type === "text")?.text || "";
+}
+
 async function rewriteWithClaude(articles) {
   if (!ANTHROPIC_API_KEY) return articles;
-  const { default: Anthropic } = await import("@anthropic-ai/sdk");
-  const client = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
-
-  // Batch articles into chunks so prompts stay reasonable.
   const CHUNK = 12;
-  const out = [];
   for (let i = 0; i < articles.length; i += CHUNK) {
     const batch = articles.slice(i, i + CHUNK);
     const prompt = `You are an industry analyst writing one-sentence summaries of space and defense industry news.
@@ -158,32 +175,22 @@ Articles:
 ${JSON.stringify(batch.map(a => ({ title: a.title, excerpt: a.summary.slice(0, 400) })), null, 2)}`;
 
     try {
-      const msg = await client.messages.create({
-        model: MODEL,
-        max_tokens: 4096,
-        messages: [{ role: "user", content: prompt }]
-      });
-      const text = msg.content.find(c => c.type === "text")?.text || "[]";
+      const text = await callClaude(prompt, 4096);
       const cleaned = text.replace(/^```(?:json)?\s*/i, "").replace(/```\s*$/, "");
       const parsed = JSON.parse(cleaned);
       if (!Array.isArray(parsed) || parsed.length !== batch.length) throw new Error("array length mismatch");
       batch.forEach((a, idx) => {
         a.summary = String(parsed[idx]?.summary || a.summary).trim();
       });
-      out.push(...batch);
     } catch (e) {
       console.warn(`  Claude rewrite failed for batch ${i / CHUNK}: ${e.message} — keeping original summaries`);
-      out.push(...batch);
     }
   }
-  return out;
+  return articles;
 }
 
 async function generateDigest(articles) {
   if (!ANTHROPIC_API_KEY) return null;
-  const { default: Anthropic } = await import("@anthropic-ai/sdk");
-  const client = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
-
   const headlines = articles.slice(0, 40).map(a => `• ${a.title}`).join("\n");
   const prompt = `You are an industry analyst writing the daily intelligence digest for a Bloomberg-style space industry terminal.
 
@@ -191,13 +198,14 @@ Voice: dry, slightly witty, never corporate. Avoid hype words. Sharp, profession
 
 From these recent headlines, write a digest with this exact JSON shape:
 {
-  "title": "Week in Orbit"  // a short evocative title (3-4 words)
+  "title": "Week in Orbit",
   "summary": "2-3 sentence overview of what is moving in the space/defense industry right now",
   "themes": [
-    { "icon": "▣" or "◉" or "▲" or "◆", "title": "short theme title (4-6 words)", "body": "2 sentences of analysis on this theme" },
-    ... 4 themes total
+    { "icon": "▣ or ◉ or ▲ or ◆", "title": "short theme title (4-6 words)", "body": "2 sentences of analysis on this theme" }
   ]
 }
+
+Use exactly 4 themes. Pick from these icons: ▣ ◉ ▲ ◆.
 
 Headlines:
 ${headlines}
@@ -205,12 +213,7 @@ ${headlines}
 Return ONLY the JSON. No prose, no markdown.`;
 
   try {
-    const msg = await client.messages.create({
-      model: MODEL,
-      max_tokens: 2048,
-      messages: [{ role: "user", content: prompt }]
-    });
-    const text = msg.content.find(c => c.type === "text")?.text || "{}";
+    const text = await callClaude(prompt, 2048);
     const cleaned = text.replace(/^```(?:json)?\s*/i, "").replace(/```\s*$/, "");
     const digest = JSON.parse(cleaned);
     digest.updated = new Date().toISOString().replace("T", " ").slice(0, 16) + " UTC";
