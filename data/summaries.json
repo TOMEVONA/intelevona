@@ -1,0 +1,53 @@
+{
+  "updated": "2026-05-04",
+  "tabs": {
+    "news": {
+      "title": "If you're in a rush",
+      "takeaways": [
+        "Vulcan certified for NSSL Phase 3 — Space Force gets its second certified heavy lifter.",
+        "OSD's 'commercial-first' SDA memo formalised a procurement shift in writing; organic builds now require explicit justification.",
+        "Astranis raised $250M strategic; three years on from first GEO-light, the small-GEO thesis is no longer experimental."
+      ]
+    },
+    "funding": {
+      "title": "If you're in a rush",
+      "takeaways": [
+        "$2.7B deployed this week across 8 disclosed rounds — propulsion ate comms's lunch (3 deals vs. 1).",
+        "Anduril pulled forward $1.5B pre-IPO; the defense-tech IPO window now depends on their next revenue print.",
+        "True Anomaly priced a $190M Series C at $1.6B with DoD pull-through — the co-orbital servicing thesis is investable."
+      ]
+    },
+    "sbir": {
+      "title": "If you're in a rush",
+      "takeaways": [
+        "$26.25M awarded this week across 15 Phase II winners — a 12-month high.",
+        "USSF and DARPA dominate (8 of 15 awards); space and AI/ML are the leading sectors.",
+        "Lunar logistics shows up twice (Solis Robotics, Plasma Field Systems) — moon procurement is now a real category."
+      ]
+    },
+    "stocks": {
+      "title": "If you're in a rush",
+      "takeaways": [
+        "Defense primes (LMT, NOC, RTX, BA) outperformed pure-plays as space-resilient budget lines firmed up in the FY27 markup.",
+        "ASTS bull case is hard to argue against on technology — execution risk is the entire question.",
+        "RKLB up on Neutron's 12-second static fire at Wallops; Beck still insists on a first flight 'this year' — the market is ~60% in."
+      ]
+    },
+    "jobs": {
+      "title": "If you're in a rush",
+      "takeaways": [
+        "15 active roles via EVONA — heavy in Upstream (spacecraft systems, GNC, propulsion) and SATCOM (RF, antenna, network).",
+        "Geographic mix is US-led (Long Beach, Reston, Hawthorne, Cape Canaveral) + UK/EU (London, Stevenage, Toulouse) — Europe is hiring.",
+        "Several contract roles open (Avionics Test, Constellation Network) — these typically convert to perm within 6 months."
+      ]
+    },
+    "resources": {
+      "title": "If you're in a rush — start here",
+      "takeaways": [
+        "Switching into space? Open 'How to Navigate Career Shifts' and 'Without Aerospace Engineering' first — both are 5–7 minute reads.",
+        "Got an interview? 'Top 30 Questions' + 'Phone Interview Tips' cover ~80% of what you'll need.",
+        "Need the lay of the land? The 'What Is…' explainers (Satellite, Geospatial Data, Space Engineering) make the rest of the dashboard make sense."
+      ]
+    }
+  }
+}

@@ -18,14 +18,15 @@
       return validator(json) ? json : null;
     } catch (e) { return null; }
   }
-  const [liveDigest, liveNews, liveSbir, liveFunding, liveJobs, liveBriefing, liveResources] = await Promise.all([
+  const [liveDigest, liveNews, liveSbir, liveFunding, liveJobs, liveBriefing, liveResources, liveSummaries] = await Promise.all([
     tryLoad("data/digest.json",    j => j && Array.isArray(j.themes)),
     tryLoad("data/news.json",      j => j && Array.isArray(j.articles)  && j.articles.length  > 0),
     tryLoad("data/sbir.json",      j => j && Array.isArray(j.awards)    && j.awards.length    > 0),
     tryLoad("data/funding.json",   j => j && Array.isArray(j.rounds)    && j.rounds.length    > 0),
     tryLoad("data/jobs.json",      j => j && Array.isArray(j.jobs)      && j.jobs.length      > 0),
     tryLoad("data/briefing.json",  j => j && j.headline && Array.isArray(j.stories)),
-    tryLoad("data/resources.json", j => j && Array.isArray(j.resources) && j.resources.length > 0)
+    tryLoad("data/resources.json", j => j && Array.isArray(j.resources) && j.resources.length > 0),
+    tryLoad("data/summaries.json", j => j && j.tabs && typeof j.tabs === "object")
   ]);
   if (liveDigest)    { D.digest = liveDigest; }
   if (liveNews)      { D.articles = liveNews.articles; }
@@ -34,6 +35,7 @@
   if (liveJobs)      { D.jobs = liveJobs.jobs; D.jobsUpdatedISO = liveJobs.updated; }
   if (liveBriefing)  { D.briefing = liveBriefing; }
   if (liveResources) { D.resources = liveResources; }
+  if (liveSummaries) { D.summaries = liveSummaries; }
 
   const $  = (s, r = document) => r.querySelector(s);
   const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
@@ -788,9 +790,30 @@
   }
 
   /* ===========================================================
+     Tab summaries — "If you're in a rush" cards at the top of each tab
+     =========================================================== */
+  function renderTabSummaries() {
+    const summaries = D.summaries;
+    if (!summaries || !summaries.tabs) return;
+    $$(".tab-summary-slot").forEach(slot => {
+      const tabId = slot.dataset.summary;
+      const s = summaries.tabs[tabId];
+      if (!s || !Array.isArray(s.takeaways)) return;
+      slot.innerHTML = `
+        <aside class="tab-summary">
+          <div class="tab-summary-kicker">▲ ${s.title || "If you're in a rush"}</div>
+          <ul class="tab-summary-list">
+            ${s.takeaways.map(t => `<li>${t}</li>`).join("")}
+          </ul>
+        </aside>`;
+    });
+  }
+
+  /* ===========================================================
      Init
      =========================================================== */
   renderBriefing();
+  renderTabSummaries();
   renderResourceFilters();
   renderResourcesGrid();
   renderDigest();

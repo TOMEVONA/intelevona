@@ -1092,6 +1092,60 @@ button { font-family: inherit; cursor: pointer; }
 .jobs-foot { margin-top: 18px; text-align: center; font-size: 12px; color: var(--muted); }
 .jobs-foot a { color: var(--accent); }
 
+/* ===== Tab summary — "If you're in a rush" ===== */
+.tab-summary {
+  background:
+    radial-gradient(500px 200px at 0% 0%, rgba(255, 107, 26, 0.08), transparent 60%),
+    linear-gradient(180deg, rgba(255, 107, 26, 0.05) 0%, rgba(255, 107, 26, 0.01) 100%);
+  border: 1px solid rgba(255, 107, 26, 0.20);
+  border-left: 3px solid var(--accent-warm);
+  border-radius: var(--radius);
+  padding: 14px 18px 16px;
+  margin: 0 0 16px;
+  position: relative;
+  overflow: hidden;
+}
+.tab-summary::after {
+  content: "";
+  position: absolute; top: -1px; left: 0; right: 0; height: 1px;
+  background: linear-gradient(90deg, var(--accent-warm), transparent);
+  opacity: 0.5;
+}
+.tab-summary-kicker {
+  font-family: "Saira", "Inter", sans-serif;
+  font-size: 10.5px;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  color: var(--accent-warm);
+  font-weight: 700;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.tab-summary-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.tab-summary-list li {
+  position: relative;
+  padding-left: 16px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--text);
+}
+.tab-summary-list li::before {
+  content: "▸";
+  position: absolute;
+  left: 0; top: 1px;
+  color: var(--accent-warm);
+  font-size: 10px;
+}
+
 /* ===== Resources ===== */
 .resources-hero {
   background:
