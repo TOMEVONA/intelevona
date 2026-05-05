@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-05T18:02:59.873Z",
+  "updated": "2026-05-05T18:55:56.865Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement",
+      "summary": "In a 2022 address to the Intelligence and National Security Alliance, the director of the National Reconnaissance Office, Chris Scolese, sounded a warning.",
+      "date": "2026-05-05",
+      "link": "https://spacenews.com/exiting-nro-director-chris-scoleses-legacy-commercial-partnerships-public-engagement/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Loft Orbital expands into full-service constellation deals",
@@ -28,13 +35,6 @@
       "summary": "Artemis 2 was a success in more ways than one. The mission, lasting just over nine days, demonstrated that the Orion spacecraft could safely support a crew on a trip around the moon.",
       "date": "2026-05-05",
       "link": "https://spacenews.com/the-budget-proposal-that-overshadowed-artemis-2/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Extending space-enabled intelligence below the ocean surface",
-      "summary": "Rising pressure to secure strategic waters is driving demand for more persistent monitoring of subsea activity, creating opportunities for satellite-connected autonomous vessels that can watch areas beyond the reach of space-based sensors.",
-      "date": "2026-05-05",
-      "link": "https://spacenews.com/extending-space-enabled-intelligence-below-the-ocean-surface/"
     },
     {
       "sourceId": "tectonic",
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "A tiny world at the edge of our solar system grew a mysterious atmosphere, and we don't know how",
+      "summary": "A trans-Neptunian object was found to possess a surprising thin atmosphere after astronomers witnessed the object occult a distant star.",
+      "date": "2026-05-05",
+      "link": "https://www.space.com/astronomy/solar-system/scientists-find-tiny-object-in-our-solar-system-with-a-mysterious-atmosphere-that-shouldnt-exist"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "Moon lander preps for the lunar surface | Space photo of the day for May 6, 2026",
       "summary": "Blue Origin's MK1 moon lander has passed its tests in the vacuum chamber as NASA continues to develop the hardware needed to return astronauts to the moon.",
       "date": "2026-05-05",
@@ -308,13 +315,6 @@
       "summary": "Want a Star Wars vehicle that can't be taken down with a bit of string? Loaded with extras, this imposing Clone Wars-era Lego Star Wars AT-TE Walker set is $28 off.",
       "date": "2026-05-05",
       "link": "https://www.space.com/entertainment/space-toys-lego/forget-the-at-st-at-20-percent-off-this-lego-star-wars-at-te-is-the-king-of-star-wars-walkers"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Former NASA chief Jim Bridenstine takes over as CEO of Quantum Space",
-      "summary": "Former NASA Administrator Jim Bridenstine is the new CEO of Quantum Space, a company developing maneuverable spacecraft for use by the U.S. military and commercial operators.",
-      "date": "2026-05-05",
-      "link": "https://www.space.com/space-exploration/satellites/former-nasa-chief-jim-bridenstine-takes-over-as-ceo-of-quantum-space"
     },
     {
       "sourceId": "rspace",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA’s Curiosity Rover Frees Its Drill From a Rock",
+      "summary": "Description This series of images shows NASA’s Curiosity Mars rover as it got a rock stuck to the drill on the end of its robotic arm and, after waving the arm and running the drill a few times, finally detached the rock.",
+      "date": "2026-05-05",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA Astronaut to Answer Questions from Students in Florida",
       "summary": "Students in Florida will hear from NASA astronaut Chris Williams as he answers prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11 a.m.",
       "date": "2026-05-05",
@@ -448,13 +455,6 @@
       "summary": "Description NASA’s Juno spacecraft captured this view of Thebe, the second largest of Jupiter’s inner moons, during a close pass on May 1, 2026.",
       "date": "2026-05-05",
       "link": "https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "New NASA HEAT Coloring Book Blends Art, Science, and Cultural Perspectives",
-      "summary": "A new Sun-centered and science-focused coloring book produced by NASA in partnership with the University of Alaska Fairbanks (UAF) is now available for people to learn while showing their artistic side.",
-      "date": "2026-05-05",
-      "link": "https://science.nasa.gov/learning-resources/science-activation/new-nasa-heat-coloring-book-blends-art-science-and-cultural-perspectives/"
     }
   ]
 }
