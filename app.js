@@ -73,8 +73,10 @@
     $("#topbarTitle").textContent = tabTitles[tab];
     history.replaceState(null, "", "#" + tab);
     if ($("#sidebar").classList.contains("open")) $("#sidebar").classList.remove("open");
-    if (tab === "stocks" && !stocksFirstLoadDone) loadStocks();
-    if (tab === "funding" && !etfsFirstLoadDone && currentSubtab === "etfs") loadEtfs();
+    if (tab === "stocks") {
+      if (!stocksFirstLoadDone) loadStocks();
+      if (!etfsFirstLoadDone) loadEtfs();
+    }
   }
   $$(".nav-item").forEach(b => b.addEventListener("click", () => selectTab(b.dataset.tab)));
   $("#menuToggle").addEventListener("click", () => $("#sidebar").classList.toggle("open"));
@@ -346,14 +348,7 @@
     renderRounds();
   }));
 
-  $$(".subtab").forEach(b => b.addEventListener("click", () => {
-    $$(".subtab").forEach(x => x.classList.remove("active"));
-    b.classList.add("active");
-    currentSubtab = b.dataset.sub;
-    $$(".subtab-pane").forEach(p => p.classList.remove("active"));
-    $("#sub-" + b.dataset.sub).classList.add("active");
-    if (currentSubtab === "etfs" && !etfsFirstLoadDone) loadEtfs();
-  }));
+  // (Funding subtabs removed — ETFs now live in the Stocks tab.)
 
   /* ===========================================================
      Tab 3 — SBIR
@@ -778,12 +773,13 @@
   const initial = (location.hash || "").replace("#", "");
   if (tabs.includes(initial)) selectTab(initial);
 
-  // Kick off live data: stocks (and they power the ticker tape)
+  // Kick off live data: stocks + ETFs together (both live on Stocks tab)
   loadStocks().then(updateTopbarRefreshMeta);
+  loadEtfs();
 
   // Auto-refresh every 5 min
   setInterval(() => { loadStocks().then(updateTopbarRefreshMeta); }, 5 * 60 * 1000);
-  setInterval(() => { if (etfsFirstLoadDone) loadEtfs(); }, 5 * 60 * 1000);
+  setInterval(() => { loadEtfs(); }, 5 * 60 * 1000);
 
   // Manual refresh button (topbar)
   let lastManualRefresh = null;

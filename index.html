@@ -152,11 +152,6 @@
 
       <!-- Tab: Funding -->
       <section class="tab" id="tab-funding">
-        <div class="subtabs">
-          <button class="subtab active" data-sub="rounds">Funding Rounds</button>
-          <button class="subtab" data-sub="etfs">Space ETFs</button>
-        </div>
-
         <!-- Rounds -->
         <div class="subtab-pane active" id="sub-rounds">
           <div class="summary-bar">
@@ -195,24 +190,6 @@
           </div>
 
           <div class="rounds-list" id="roundsList"></div>
-        </div>
-
-        <!-- ETFs -->
-        <div class="subtab-pane" id="sub-etfs">
-          <div class="tab-controls">
-            <div class="meta-row left">
-              <span class="meta-label">Live ETF prices via Yahoo Finance</span>
-              <span class="meta-sep">·</span>
-              <span class="meta-label">Auto-refresh</span>
-              <span class="meta-value">5 min</span>
-              <span class="meta-sep">·</span>
-              <span class="meta-label">Last refresh</span>
-              <span class="meta-value" id="etfRefresh">—</span>
-            </div>
-            <button class="chip ghost" id="etfRefreshBtn">⟳ Refresh</button>
-          </div>
-          <div class="etf-grid" id="etfGrid"></div>
-          <p class="disclaimer">Not financial advice. For informational purposes only. Prices are delayed by 15 minutes per Yahoo Finance terms.</p>
         </div>
       </section>
 
@@ -258,27 +235,44 @@
 
       <!-- Tab: Stocks -->
       <section class="tab" id="tab-stocks">
-        <div class="tab-controls">
-          <div class="filter-row" id="stockFilters"></div>
-          <div class="meta-row">
-            <span class="meta-label">Live</span>
-            <span class="status-dot live"></span>
-            <span class="meta-sep">·</span>
-            <span class="meta-label">Refresh</span>
-            <span class="meta-value">5 min</span>
-            <span class="meta-sep">·</span>
-            <span class="meta-label">Last</span>
-            <span class="meta-value" id="stockRefresh">—</span>
-            <span class="meta-sep">·</span>
-            <span class="meta-label">Sort</span>
-            <select class="select" id="stockSort">
-              <option value="changePct">% change</option>
-              <option value="price">price</option>
-              <option value="name">name</option>
-            </select>
+        <!-- ETFs subsection -->
+        <div class="stocks-section">
+          <div class="stocks-section-head">
+            <h3 class="stocks-section-title">Space &amp; Defense ETFs</h3>
+            <div class="meta-row">
+              <span class="meta-label">Live</span>
+              <span class="status-dot live"></span>
+              <span class="meta-sep">·</span>
+              <span class="meta-label">Last</span>
+              <span class="meta-value" id="etfRefresh">—</span>
+              <button class="chip ghost" id="etfRefreshBtn">⟳ Refresh</button>
+            </div>
           </div>
+          <div class="etf-grid" id="etfGrid"></div>
+          <p class="disclaimer">Not financial advice. For informational purposes only. Prices are delayed by 15 minutes per Yahoo Finance terms.</p>
         </div>
-        <div class="stock-grid" id="stockGrid"></div>
+
+        <!-- Individual tickers subsection -->
+        <div class="stocks-section">
+          <div class="stocks-section-head">
+            <h3 class="stocks-section-title">Individual Tickers</h3>
+            <div class="meta-row">
+              <span class="meta-label">Last</span>
+              <span class="meta-value" id="stockRefresh">—</span>
+              <span class="meta-sep">·</span>
+              <span class="meta-label">Sort</span>
+              <select class="select" id="stockSort">
+                <option value="changePct">% change</option>
+                <option value="price">price</option>
+                <option value="name">name</option>
+              </select>
+            </div>
+          </div>
+          <div class="tab-controls" style="margin-top: 6px">
+            <div class="filter-row" id="stockFilters"></div>
+          </div>
+          <div class="stock-grid" id="stockGrid"></div>
+        </div>
       </section>
 
       <!-- Tab: Jobs -->
