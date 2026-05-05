@@ -130,6 +130,23 @@ async function fetchAwards() {
   throw new Error("All SBIR API variants failed");
 }
 
+function awardIdFor(a) {
+  return (a.awardId
+    || (a.proposal_id && `pid-${a.proposal_id}`)
+    || `${(a.firm || a.company || "").toLowerCase().replace(/[^a-z0-9]+/g, "-")}-${a.topic_code || a.topic || ""}`
+  );
+}
+
+function awardDateFor(a) {
+  // Prefer explicit award/proposal date; fall back to today
+  const raw = a.award_date || a.proposal_award_date || a.contract_award_date || a.date_awarded;
+  if (raw) {
+    const d = new Date(raw);
+    if (!isNaN(d)) return d.toISOString().slice(0, 10);
+  }
+  return new Date().toISOString().slice(0, 10);
+}
+
 function transform(raw) {
   return raw
     .filter(a => /Phase II/i.test(a.phase || ""))
@@ -141,6 +158,8 @@ function transform(raw) {
       const co  = a.firm || a.company || "";
       const loc = [a.firm_city || a.city, a.firm_state || a.state].filter(Boolean).join(", ");
       return {
+        awardId:   awardIdFor(a),
+        awardDate: awardDateFor(a),
         co,
         loc,
         sector,
@@ -152,12 +171,42 @@ function transform(raw) {
         link: a.award_link || a.url || "https://www.sbir.gov/sbirsearch/award/all"
       };
     })
-    .filter(Boolean)
-    .sort((x, y) => y.amt - x.amt)
-    .slice(0, 25);
+    .filter(Boolean);
+}
+
+/* Merge fresh awards into existing 90-day window. Keys on awardId so
+   re-runs are idempotent. Drops anything older than 90 days. */
+function mergeAwards(freshAwards, existingAwards) {
+  const cutoff = new Date();
+  cutoff.setUTCDate(cutoff.getUTCDate() - 90);
+  const cutoffISO = cutoff.toISOString().slice(0, 10);
+
+  const byId = new Map();
+  for (const a of existingAwards) {
+    if ((a.awardDate || "") >= cutoffISO) byId.set(awardIdFor(a), a);
+  }
+  let added = 0, refreshed = 0;
+  for (const a of freshAwards) {
+    const id = awardIdFor(a);
+    if (byId.has(id)) refreshed++;
+    else added++;
+    byId.set(id, a);
+  }
+  console.log(`Merge: ${added} new, ${refreshed} refreshed, ${byId.size} total in 90-day window`);
+  return Array.from(byId.values()).sort((a, b) => (b.awardDate || "").localeCompare(a.awardDate || ""));
+}
+
+async function loadExisting() {
+  try {
+    const text = await fs.readFile(SBIR_PATH, "utf8");
+    const json = JSON.parse(text);
+    return Array.isArray(json.awards) ? json.awards : [];
+  } catch { return []; }
 }
 
 async function main() {
+  const existing = await loadExisting();
+
   let raw;
   try {
     raw = await fetchAwards();
@@ -169,18 +218,21 @@ async function main() {
     return;
   }
   console.log(`API returned ${raw.length} raw awards`);
-  const awards = transform(raw);
-  console.log(`Filtered to ${awards.length} Phase II in target sectors`);
+  const fresh = transform(raw);
+  console.log(`Filtered to ${fresh.length} Phase II in target sectors`);
 
-  if (awards.length < MIN_AWARDS) {
-    console.warn(`⚠️  Only ${awards.length} matching awards (min ${MIN_AWARDS}). Leaving existing data/sbir.json untouched.`);
+  if (fresh.length < MIN_AWARDS) {
+    console.warn(`⚠️  Only ${fresh.length} matching awards (min ${MIN_AWARDS}). Leaving existing data/sbir.json untouched.`);
     return;
   }
+
+  // Merge into the 90-day rolling window
+  const merged = mergeAwards(fresh, existing);
 
   const out = {
     updated:   new Date().toISOString(),
     weekLabel: weekLabel(),
-    awards
+    awards:    merged
   };
   await fs.writeFile(SBIR_PATH, JSON.stringify(out, null, 2) + "\n");
   console.log(`Wrote ${SBIR_PATH}`);

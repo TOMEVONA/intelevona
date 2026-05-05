@@ -857,10 +857,18 @@ button { font-family: inherit; cursor: pointer; }
 
 /* ===== SBIR ===== */
 .sbir-header { margin-bottom: 14px; }
+.sbir-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
 .sbir-week {
   font-size: 11px; color: var(--accent); text-transform: uppercase; font-weight: 600; letter-spacing: 1.2px;
-  margin-bottom: 8px;
 }
+.sbir-timeframe { background: var(--panel); }
 .sbir-list { display: flex; flex-direction: column; gap: 8px; }
 .sbir-card {
   background: var(--surface);

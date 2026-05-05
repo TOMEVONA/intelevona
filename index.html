@@ -219,12 +219,19 @@
       <!-- Tab: SBIR -->
       <section class="tab" id="tab-sbir">
         <div class="sbir-header">
-          <div class="sbir-week" id="sbirWeek">Week of Apr 27 – May 3, 2026</div>
+          <div class="sbir-topbar">
+            <div class="sbir-week" id="sbirWeek">Week of Apr 27 – May 3, 2026</div>
+            <div class="sbir-timeframe seg" id="sbirTimeframe" role="tablist">
+              <button class="seg-btn active" data-window="7"  role="tab">This Week</button>
+              <button class="seg-btn"        data-window="30" role="tab">Last Month</button>
+              <button class="seg-btn"        data-window="90" role="tab">Last 3 Months</button>
+            </div>
+          </div>
           <div class="summary-bar two">
             <div class="summary-cell">
               <div class="summary-label">Total Awarded</div>
               <div class="summary-value" id="sbirTotal">—</div>
-              <div class="summary-sub">Phase II, this week</div>
+              <div class="summary-sub" id="sbirRangeLabel">Phase II, this week</div>
             </div>
             <div class="summary-cell">
               <div class="summary-label">Award Count</div>

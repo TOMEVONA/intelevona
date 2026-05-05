@@ -361,10 +361,31 @@
   const sbirSectors = ["All", "Space", "AI/ML", "Cyber", "UAV/Drones", "Aerospace", "Defense"];
   let sbirFilter = "All";
   let sbirSort = "amount";
+  let sbirWindow = 7;   // days; 7 / 30 / 90
+
+  // Awards within the currently-selected timeframe
+  function awardsInWindow() {
+    const cutoff = new Date();
+    cutoff.setUTCDate(cutoff.getUTCDate() - sbirWindow);
+    const cutoffISO = cutoff.toISOString().slice(0, 10);
+    return D.sbir.filter(a => {
+      // Award without an awardDate is treated as "this week" so the seed
+      // data still appears under the default tab.
+      const d = a.awardDate || "9999-12-31";
+      return d >= cutoffISO;
+    });
+  }
+
+  function rangeLabel() {
+    if (sbirWindow === 7)  return "Phase II, last 7 days";
+    if (sbirWindow === 30) return "Phase II, last 30 days";
+    return "Phase II, last 90 days";
+  }
 
   function renderSbirFilters() {
-    const counts = D.sbir.reduce((acc, a) => { acc[a.sector] = (acc[a.sector] || 0) + 1; return acc; }, {});
-    counts.All = D.sbir.length;
+    const inWindow = awardsInWindow();
+    const counts = inWindow.reduce((acc, a) => { acc[a.sector] = (acc[a.sector] || 0) + 1; return acc; }, {});
+    counts.All = inWindow.length;
     $("#sbirFilters").innerHTML = sbirSectors.map(s =>
       `<button class="chip ${s === sbirFilter ? "active" : ""}" data-sector="${s}">${s}<span class="chip-count">${counts[s] || 0}</span></button>`
     ).join("");
@@ -374,15 +395,19 @@
   }
 
   function renderSbir() {
-    let items = D.sbir.filter(a => sbirFilter === "All" || a.sector === sbirFilter);
+    const inWindow = awardsInWindow();
+    let items = inWindow.filter(a => sbirFilter === "All" || a.sector === sbirFilter);
     if (sbirSort === "amount")       items.sort((a, b) => b.amt - a.amt);
     else if (sbirSort === "agency")  items.sort((a, b) => a.agency.localeCompare(b.agency));
     else                              items.sort((a, b) => a.co.localeCompare(b.co));
 
-    const total = D.sbir.reduce((s, x) => s + x.amt, 0);
+    const total = inWindow.reduce((s, x) => s + x.amt, 0);
+    const max   = inWindow.length ? Math.max(...inWindow.map(x => x.amt)) : 0;
+    const avg   = inWindow.length ? total / inWindow.length : 0;
     $("#sbirTotal").textContent = `$${total.toFixed(2)}M`;
-    $("#sbirCount").textContent = D.sbir.length;
-    $("#sbirAvg").textContent   = `avg ${fmtUSD(total / D.sbir.length)} · max ${fmtUSD(Math.max(...D.sbir.map(x => x.amt)))}`;
+    $("#sbirCount").textContent = inWindow.length;
+    $("#sbirAvg").textContent   = inWindow.length ? `avg ${fmtUSD(avg)} · max ${fmtUSD(max)}` : "—";
+    $("#sbirRangeLabel").textContent = rangeLabel();
 
     $("#sbirList").innerHTML = items.map(a => `
       <article class="sbir-card">
@@ -409,6 +434,13 @@
   }
 
   $("#sbirSort").addEventListener("change", e => { sbirSort = e.target.value; renderSbir(); });
+  $$("#sbirTimeframe .seg-btn").forEach(b => b.addEventListener("click", () => {
+    $$("#sbirTimeframe .seg-btn").forEach(x => x.classList.remove("active"));
+    b.classList.add("active");
+    sbirWindow = parseInt(b.dataset.window, 10) || 7;
+    renderSbirFilters();
+    renderSbir();
+  }));
 
   /* ===========================================================
      Tab 4 — Stocks (live Yahoo Finance)
