@@ -18,20 +18,22 @@
       return validator(json) ? json : null;
     } catch (e) { return null; }
   }
-  const [liveDigest, liveNews, liveSbir, liveFunding, liveJobs, liveBriefing] = await Promise.all([
-    tryLoad("data/digest.json",   j => j && Array.isArray(j.themes)),
-    tryLoad("data/news.json",     j => j && Array.isArray(j.articles) && j.articles.length > 0),
-    tryLoad("data/sbir.json",     j => j && Array.isArray(j.awards)   && j.awards.length   > 0),
-    tryLoad("data/funding.json",  j => j && Array.isArray(j.rounds)   && j.rounds.length   > 0),
-    tryLoad("data/jobs.json",     j => j && Array.isArray(j.jobs)     && j.jobs.length     > 0),
-    tryLoad("data/briefing.json", j => j && j.headline && Array.isArray(j.stories))
+  const [liveDigest, liveNews, liveSbir, liveFunding, liveJobs, liveBriefing, liveResources] = await Promise.all([
+    tryLoad("data/digest.json",    j => j && Array.isArray(j.themes)),
+    tryLoad("data/news.json",      j => j && Array.isArray(j.articles)  && j.articles.length  > 0),
+    tryLoad("data/sbir.json",      j => j && Array.isArray(j.awards)    && j.awards.length    > 0),
+    tryLoad("data/funding.json",   j => j && Array.isArray(j.rounds)    && j.rounds.length    > 0),
+    tryLoad("data/jobs.json",      j => j && Array.isArray(j.jobs)      && j.jobs.length      > 0),
+    tryLoad("data/briefing.json",  j => j && j.headline && Array.isArray(j.stories)),
+    tryLoad("data/resources.json", j => j && Array.isArray(j.resources) && j.resources.length > 0)
   ]);
-  if (liveDigest)   { D.digest = liveDigest; }
-  if (liveNews)     { D.articles = liveNews.articles; }
-  if (liveSbir)     { D.sbir = liveSbir.awards; D.sbirWeekLabel = liveSbir.weekLabel; }
-  if (liveFunding)  { D.fundingRounds = liveFunding.rounds; }
-  if (liveJobs)     { D.jobs = liveJobs.jobs; D.jobsUpdatedISO = liveJobs.updated; }
-  if (liveBriefing) { D.briefing = liveBriefing; }
+  if (liveDigest)    { D.digest = liveDigest; }
+  if (liveNews)      { D.articles = liveNews.articles; }
+  if (liveSbir)      { D.sbir = liveSbir.awards; D.sbirWeekLabel = liveSbir.weekLabel; }
+  if (liveFunding)   { D.fundingRounds = liveFunding.rounds; }
+  if (liveJobs)      { D.jobs = liveJobs.jobs; D.jobsUpdatedISO = liveJobs.updated; }
+  if (liveBriefing)  { D.briefing = liveBriefing; }
+  if (liveResources) { D.resources = liveResources; }
 
   const $  = (s, r = document) => r.querySelector(s);
   const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
@@ -54,14 +56,15 @@
   };
 
   /* ---------- Sidebar / tab nav ---------- */
-  const tabs = ["briefing","news","funding","sbir","stocks","jobs"];
+  const tabs = ["briefing","news","funding","sbir","stocks","jobs","resources"];
   const tabTitles = {
-    briefing: "The Briefing",
-    news:     "News Feed",
-    funding:  "Funding & Investment",
-    sbir:     "SBIR Phase II Awards",
-    stocks:   "Space Stocks",
-    jobs:     "EVONA Jobs"
+    briefing:  "The Briefing",
+    news:      "News Feed",
+    funding:   "Funding & Investment",
+    sbir:      "SBIR Phase II Awards",
+    stocks:    "Space Stocks",
+    jobs:      "EVONA Jobs",
+    resources: "Resources"
   };
 
   function selectTab(tab) {
@@ -747,9 +750,49 @@
   }
 
   /* ===========================================================
+     Tab 6 — Resources
+     =========================================================== */
+  let resourceFilter = "all";
+
+  function renderResourceFilters() {
+    const data = D.resources;
+    if (!data) return;
+    const counts = data.resources.reduce((acc, r) => { acc[r.category] = (acc[r.category] || 0) + 1; return acc; }, {});
+    counts.all = data.resources.length;
+    $("#resourceFilters").innerHTML = data.categories.map(c =>
+      `<button class="chip ${c.id === resourceFilter ? "active" : ""}" data-cat="${c.id}">${c.icon} ${c.name}<span class="chip-count">${counts[c.id] || 0}</span></button>`
+    ).join("");
+    $$("#resourceFilters .chip").forEach(b => b.addEventListener("click", () => {
+      resourceFilter = b.dataset.cat;
+      renderResourceFilters();
+      renderResourcesGrid();
+    }));
+  }
+
+  function renderResourcesGrid() {
+    const data = D.resources;
+    if (!data) return;
+    const items = data.resources.filter(r => resourceFilter === "all" || r.category === resourceFilter);
+    const catName = id => (data.categories.find(c => c.id === id) || {}).name || id;
+    $("#resourceCount").textContent = items.length;
+    $("#resourcesGrid").innerHTML = items.map(r => `
+      <article class="resource-card">
+        <div class="resource-top">
+          <span class="resource-cat resource-cat-${r.category}">${catName(r.category)}</span>
+        </div>
+        <h3 class="resource-title">${r.title}</h3>
+        <p class="resource-summary">${r.summary}</p>
+        <a class="resource-link" href="${r.url}" target="_blank" rel="noopener">Read at EVONA →</a>
+      </article>
+    `).join("");
+  }
+
+  /* ===========================================================
      Init
      =========================================================== */
   renderBriefing();
+  renderResourceFilters();
+  renderResourcesGrid();
   renderDigest();
   renderNewsFilters();
   renderNewsGrid();
