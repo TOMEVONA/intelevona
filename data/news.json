@@ -1,40 +1,40 @@
 {
-  "updated": "2026-05-04T17:24:00.980Z",
+  "updated": "2026-05-05T18:02:59.873Z",
   "articles": [
     {
       "sourceId": "spacenews",
-      "title": "Pixxel pushes into orbital data centers for faster geospatial intelligence",
-      "summary": "Indian hyperspectral imaging startup Pixxel plans to test orbital data center technology on a pathfinder satellite designed to deliver geospatial intelligence directly from space.",
-      "date": "2026-05-04",
-      "link": "https://spacenews.com/pixxel-pushes-into-orbital-data-centers-for-faster-geospatial-intelligence/"
+      "title": "Loft Orbital expands into full-service constellation deals",
+      "summary": "EarthDaily Analytics and UAE-backed Altair highlight shift toward ‘constellations as a service’",
+      "date": "2026-05-05",
+      "link": "https://spacenews.com/loft-orbital-expands-into-full-service-constellation-deals/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Global Smallsat Deployment Accelerates, with 16,900 Satellites Projected Through 2035",
-      "summary": "Paris, France – May 2026&#160;– The 11th edition of Novaspace’s&#160;Prospects for the&#160;Small Satellite Market&#160;report forecasts&#160;16,900 small satellites (under 500 kg)&#160;to be launched between 2026 and 2035. This equates to an [&#8230;] The post Global Smallsat De",
-      "date": "2026-05-04",
-      "link": "https://spacenews.com/global-smallsat-deployment-accelerates-with-16900-satellites-projected-through-2035/"
+      "title": "Polish space company Eycore launches first SAR Earth observation satellite",
+      "summary": "WARSAW, Poland — Polish space company Eycore has launched Eycore-1, an Earth observation satellite equipped with the company’s synthetic aperture radar (SAR) technology.",
+      "date": "2026-05-05",
+      "link": "https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Interlune wins NASA contract for helium-3 extraction payload",
-      "summary": "Interlune, a startup with plans to harvest helium-3 from the moon, has won a NASA contract to develop a payload to test ways to extract the isotope from lunar regolith.",
-      "date": "2026-05-04",
-      "link": "https://spacenews.com/interlune-wins-nasa-contract-for-helium-3-extraction-payload/"
+      "title": "Facing AI, data and scale imperatives at the 2026 GEOINT Symposium",
+      "summary": "Each year, the GEOINT Symposium brings together the people who make geospatial intelligence possible — the analysts, engineers, mission commanders, innovators and policy leaders who collectively ensure that decision-makers have the understanding of our world they need when they…",
+      "date": "2026-05-05",
+      "link": "https://spacenews.com/facing-ai-data-and-scale-imperatives-at-the-2026-geoint-symposium/"
     },
     {
       "sourceId": "spacenews",
-      "title": "DARPA chief says agency must harness commercial space boom",
-      "summary": "Director Stephen Winchell says the agency is eyeing a cislunar navigation challenge and is exploring asteroid resource concepts",
-      "date": "2026-05-04",
-      "link": "https://spacenews.com/darpa-chief-says-agency-must-harness-commercial-space-boom/"
+      "title": "The budget proposal that overshadowed Artemis 2",
+      "summary": "Artemis 2 was a success in more ways than one. The mission, lasting just over nine days, demonstrated that the Orion spacecraft could safely support a crew on a trip around the moon.",
+      "date": "2026-05-05",
+      "link": "https://spacenews.com/the-budget-proposal-that-overshadowed-artemis-2/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Space&#8217;s missing half",
-      "summary": "Every generation reshapes how civilization moves goods. Container ships revolutionized the mid-20th century, computing the late 20th century, and as we entered the new millennium so did the internet, and now reusable rockets. Each unlocked new levels of speed, and capability and ",
-      "date": "2026-05-04",
-      "link": "https://spacenews.com/spaces-missing-half/"
+      "title": "Extending space-enabled intelligence below the ocean surface",
+      "summary": "Rising pressure to secure strategic waters is driving demand for more persistent monitoring of subsea activity, creating opportunities for satellite-connected autonomous vessels that can watch areas beyond the reach of space-based sensors.",
+      "date": "2026-05-05",
+      "link": "https://spacenews.com/extending-space-enabled-intelligence-below-the-ocean-surface/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "New deep space radar capability employed early",
+      "summary": "The capability leverages the geography of and partnership amongst the United States, Australia, and the United Kingdom.",
+      "date": "2026-05-04",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4476937/new-deep-space-radar-capability-employed-early/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "Securing the high ground: US-Australian alliance a decisive advantage in space",
       "summary": "During a visit to Australia, Lt. Gen. Gregory Gagnon, commander of the CFC, delivered a blunt assessment of the modern security environment, warning that space has unequivocally become a warfighting domain.",
       "date": "2026-05-01",
@@ -205,116 +212,109 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4472389/historic-cape-canaveral-space-force-station-skid-strip-renovated-for-modern-spa/"
     },
     {
-      "sourceId": "ussf",
-      "title": "Securing the ultimate high ground: how the Space Force is revolutionizing airborne target tracking",
-      "summary": "The USSF is looking to secure the tactical high ground through its Space-Based Airborne Moving Target Indicator program: an initiative designed to provide the joint force with persistent vigilance over the battlefield, tracking airborne threats continuously from space.",
-      "date": "2026-04-27",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4471347/securing-the-ultimate-high-ground-how-the-space-force-is-revolutionizing-airbor/"
+      "sourceId": "dod",
+      "title": "'Project Freedom' Aims to Get Thousands of Commercial Ships Safely Through Strait of Hormuz",
+      "summary": "Project Freedom is a targeted U.S. military mission to break the Iranian blockade of the Strait of Hormuz and restore the safe flow of international shipping and oil.",
+      "date": "2026-05-05",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4477864/project-freedom-aims-to-get-thousands-of-commercial-ships-safely-through-strait/"
     },
     {
       "sourceId": "dod",
-      "title": "Project Flytrap 5.0 Puts Emerging Tech in Warfighters' Hands",
-      "summary": "U.S. infantry soldiers and U.K. paratroopers prepared for the force-on-force phase of Project Flytrap 5.0, an exercise that integrates autonomous and unmanned ground vehicles, first-person view drones and counter-unmanned aerial systems on a simulated battlefield in Europe.",
-      "date": "2026-05-04",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4476789/project-flytrap-50-puts-emerging-tech-in-warfighters-hands/"
+      "title": "82nd Airborne Division Ready to Respond, Support Project Freedom, Caine Says",
+      "summary": "When the president or the secretary of war needs immediate, scalable and lethal combat power anywhere in the world, 82nd Airborne Division paratroopers answer the call, Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, said during a Pentagon press briefing.",
+      "date": "2026-05-05",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4477804/82nd-airborne-division-ready-to-respond-support-project-freedom-caine-says/"
     },
     {
       "sourceId": "dod",
-      "title": "Eerie Company: A New Threat at the Joint Multinational Readiness Center",
-      "summary": "Soldiers assigned to the newly established Eerie Company, 1st Battalion, 4th Infantry Regiment, used first-person-view drone systems to enhance reconnaissance capabilities during Joint Multinational Readiness Center exercises in Hohenfels, Germany.",
-      "date": "2026-05-04",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4476715/eerie-company-a-new-threat-at-the-joint-multinational-readiness-center/"
+      "title": "Enlistees Honored During Recognition Ceremony",
+      "summary": "As the nation commemorates its 250th anniversary throughout 2026, community and military leaders honored the next generation of American defenders during the second annual Our Community Salutes Enlistee Recognition Ceremony at the First Baptist Church in O'Fallon, Ill.",
+      "date": "2026-05-05",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4477810/enlistees-honored-during-recognition-ceremony/"
     },
     {
       "sourceId": "dod",
-      "title": "Exercise Desert Hammer Prepares Citizen Airmen for 'Trial by Fire'",
-      "summary": "Airmen assigned to the 944th Fighter Wing participated in Exercise Desert Hammer 26-2, training designed to build battlefield skills, test mission-essential tasks and prepare reserve airmen for operations beyond base, at Camp Navajo, Ariz.",
-      "date": "2026-05-04",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4476599/exercise-desert-hammer-prepares-citizen-airmen-for-trial-by-fire/"
+      "title": "Coast Guard Great Lakes District Set to Use Autonomous Sail Drones",
+      "summary": "Leveraging a contract awarded by the Coast Guard to enhance maritime domain awareness, the Great Lakes District will deploy autonomous drones to support Coast Guard missions on the Great Lakes.",
+      "date": "2026-05-05",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4477650/coast-guard-great-lakes-district-set-to-use-autonomous-sail-drones/"
     },
     {
       "sourceId": "dod",
-      "title": "King Charles III and Queen Camilla Honor a Shared History of Service and Sacrifice",
-      "summary": "King Charles III and Queen Camilla commemorated the 250th anniversary of American independence with a visit to Arlington National Cemetery for a full honors wreath-laying ceremony at the Tomb of the Unknown Soldier.",
-      "date": "2026-05-01",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4475647/king-charles-iii-and-queen-camilla-honor-a-shared-history-of-service-and-sacrif/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Synchronized Logistics Enable Engineer Unit Deployment",
-      "summary": "Fort Buchanan demonstrated its critical role as a readiness platform when hundreds of soldiers deployed from the installation in Puerto Rico to a continental United States mobilization station in support of a future mission with a combatant command.",
-      "date": "2026-05-01",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4475414/synchronized-logistics-enable-engineer-unit-deployment/"
+      "title": "80 Years After Death, Medal of Honor Recipient Identified, Buried",
+      "summary": "More than 80 years after his death, Medal of Honor recipient Army Capt. Willibald Bianchi's remains were identified by the Defense POW/MIA Accounting Agency, he was buried in his hometown alongside his parents and his sisters.",
+      "date": "2026-05-04",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4477278/80-years-after-death-medal-of-honor-recipient-identified-buried/"
     },
     {
       "sourceId": "viasat",
-      "title": "Lynk, EarthDaily, True Anomaly Launch Satellites on Weekend SpaceX Rideshare Mission",
-      "summary": "SpaceX launched 45 payloads on a mission to loft a South Korean Earth Observation (EO) satellite early Sunday morning, with a number of rideshare customers onboard as well. The primary [&#8230;] The post Lynk, EarthDaily, True Anomaly Launch Satellites on Weekend SpaceX Rideshare",
-      "date": "2026-05-03",
-      "link": "https://www.satellitetoday.com/launch/2026/05/03/lynk-earthdaily-true-anomaly-launch-satellites-on-weekend-spacex-rideshare-mission/"
+      "title": "NRO Makes New Commercial Awards to EarthDaily, Iceye, and Pixxel",
+      "summary": "AURORA, Colo. — The National Reconnaissance Office (NRO) has awarded new contracts for Earth sensing data to three companies under its Strategic Commercial Enhancements (SCE) effort, adding additional satellite companies",
+      "date": "2026-05-04",
+      "link": "https://www.satellitetoday.com/earth-observation/2026/05/04/nro-makes-new-commercial-awards-to-earthdaily-iceye-and-pixxel/"
     },
     {
       "sourceId": "viasat",
-      "title": "Loft to Build 10 EO Satellites for French Constellation With Magellium Artal Group",
-      "summary": "Loft is to play a key role in an ambitious next-generation Earth Observation (EO) constellation project in France. It is to partner with Magellium Artal Group after winning a multi-year [&#8230;] The post Loft to Build 10 EO Satellites for French Constellation With Magellium Arta",
-      "date": "2026-05-01",
-      "link": "https://www.satellitetoday.com/earth-observation/2026/05/01/loft-to-build-10-eo-satellites-for-french-constellation-with-magellium-artal-group/"
+      "title": "STMicroelectronics Expects its Space Business to Reach More than $3B Over Three Years",
+      "summary": "Global semiconductor company STMicroelectronics — a supplier to SpaceX and other space companies – expects to earn more than $3 billion from its space business over the next three years. Remi",
+      "date": "2026-05-04",
+      "link": "https://www.satellitetoday.com/technology/2026/05/04/stmicroelectronics-expects-its-space-business-to-reach-more-than-3b-over-three-years/"
     },
     {
       "sourceId": "viasat",
-      "title": "Orbital Warfare Systems Top Priority for Space Chief Nominee Lt. Gen. Schiess",
-      "summary": "Fielding more systems for orbital warfare has been the top priority of the White House’s nominee to succeed Chief of Space Operations Gen. B. Chance Saltzman. The Trump administration on [&#8230;] The post Orbital Warfare Systems Top Priority for Space Chief Nominee Lt. Gen. Schi",
-      "date": "2026-05-01",
-      "link": "https://www.satellitetoday.com/government-military/2026/05/01/orbital-warfare-systems-top-priority-for-space-chief-nominee-lt-gen-schiess/"
+      "title": "Lockheed Martin Joins Seagate Space and Firefly Aerospace to Develop Sea-Based Launch",
+      "summary": "Lockheed Martin is contributing to a recently announced partnership between Seagate Space and Firefly Aerospace to develop sea-based launch. The three companies will collaborate on an offshore launch platform for",
+      "date": "2026-05-04",
+      "link": "https://www.satellitetoday.com/launch/2026/05/04/lockheed-martin-joins-seagate-space-and-firefly-aerospace-to-develop-sea-based-launch/"
     },
     {
       "sourceId": "viasat",
-      "title": "Sateliot and Telefónica España to Explore 5G Satellite Connectivity for Defense, Military Uses",
-      "summary": "Sateliot has signed an agreement with Telefónica España to use its satellite IoT connectivity to expand Telefónica’s network in remote areas, as well as security and defense uses. Sateliot, based [&#8230;] The post Sateliot and Telefónica España to Explore 5G Satellite Connectivi",
-      "date": "2026-05-01",
-      "link": "https://www.satellitetoday.com/connectivity/2026/05/01/sateliot-and-telefonica-espana-to-explore-5g-satellite-connectivity-for-defense-military-uses/"
+      "title": "Future-Proofing Satellite Networks With ST Engineering iDirect Sales SVP Brian Jakins",
+      "summary": "How do you future-proof your satellite network to thrive in an increasingly connected world? It’s a key question that network operators are asking as they navigate new technologies like 5G,",
+      "date": "2026-05-04",
+      "link": "https://www.satellitetoday.com/partner-content/2026/05/04/future-proofing-satellite-networks-with-st-engineering-idirect-sales-svp-brian-jakins/"
     },
     {
       "sourceId": "viasat",
-      "title": "Lite Coms USG Sales Director George Cerasani Talks Network Resiliency at Modern Day Marine",
-      "summary": "In this conversation at Modern Day Marine, Lite Coms U.S. Government Sales Director George Cerasani discusses how Lite Coms designs its products to provide tactical, multi-orbit connectivity in order to [&#8230;] The post Lite Coms USG Sales Director George Cerasani Talks Network",
-      "date": "2026-04-30",
-      "link": "https://www.satellitetoday.com/partner-content/2026/04/30/lite-coms-usg-sales-director-george-cerasani-talks-network-resiliency-at-modern-day-marine/"
+      "title": "Vantor Nabs $70 Million NGA Award For GEOINT Portal Use",
+      "summary": "Vantor on Monday said it has received a $70 million award from the National Geospatial-Intelligence Agency (NGA) for the first option year of a program that gives the agency and vetted",
+      "date": "2026-05-04",
+      "link": "https://www.satellitetoday.com/earth-observation/2026/05/04/vantor-nabs-70-million-nga-award-for-geoint-portal-use/"
     },
     {
       "sourceId": "spacecom",
-      "title": "Are streamers losing faith in legacy sci-fi franchises?",
-      "summary": "Does the cancellation of 'Starfleet Academy' suggest that lean times are ahead for 'Star Trek' and 'Star Wars'?",
-      "date": "2026-05-04",
-      "link": "https://www.space.com/entertainment/space-movies-shows/are-streamers-losing-faith-in-legacy-sci-fi-franchises"
+      "title": "Moon lander preps for the lunar surface | Space photo of the day for May 6, 2026",
+      "summary": "Blue Origin's MK1 moon lander has passed its tests in the vacuum chamber as NASA continues to develop the hardware needed to return astronauts to the moon.",
+      "date": "2026-05-05",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/moon-lander-preps-for-the-lunar-surface-space-photo-of-the-day-for-may-6-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Will the moon ruin the Eta Aquarid meteor shower this week? Here's what to know",
-      "summary": "A bright waning gibbous moon may wash out this week's Eta Aquarid meteor shower peak — but early risers could still catch a few shooting stars.",
-      "date": "2026-05-04",
-      "link": "https://www.space.com/stargazing/meteor-showers/will-the-moon-ruin-the-eta-aquarid-meteor-shower-this-week-heres-what-to-know"
+      "title": "'SOL Shogunate' is a samurai space opera set on the moon, but with an aerospace engineer making sure it's 'getting the science right'",
+      "summary": "Chaos Manufacturing CEO Guy Costantini and aerospace engineer Taylore McClurg tell us about the process of creating a believable but striking lunar adventure.",
+      "date": "2026-05-05",
+      "link": "https://www.space.com/entertainment/space-games/sol-shogunate-is-a-samurai-space-opera-set-on-the-moon-but-with-an-aerospace-engineer-making-sure-its-getting-the-science-right"
     },
     {
       "sourceId": "spacecom",
-      "title": "Our Milky Way's 'Zone of Avoidance' holds a galaxy supercluster with 30,000 trillion times the sun's mass",
-      "summary": "The Vela Supercluster, in our Milky Way's Zone of Avoidance, is competing gravitationally with other superclusters for the attention of local galaxies.",
-      "date": "2026-05-04",
-      "link": "https://www.space.com/astronomy/galaxies/our-milky-ways-zone-of-avoidance-holds-a-galaxy-supercluster-with-30-000-trillion-times-the-suns-mass"
+      "title": "These 2 companies want to start removing space junk from orbit in 2027",
+      "summary": "Two private companies are partnering up to establish a repeatable debris removal service for low Earth orbit, and they want to debut it in 2027.",
+      "date": "2026-05-05",
+      "link": "https://www.space.com/space-exploration/satellites/these-2-companies-want-to-start-removing-space-junk-from-orbit-in-2027"
     },
     {
       "sourceId": "spacecom",
-      "title": "Lasers take aim at a galaxy far, far away | Space photo of the day for May 4, 2026",
-      "summary": "Looking like a scene out of \"Star Wars,\" this image shows the ESO's Very Large Telescope Interferometer (VLTI) beaming four separate lasers into the sky towards the Tarantula Nebula.",
-      "date": "2026-05-04",
-      "link": "https://www.space.com/astronomy/lasers-take-aim-at-a-galaxy-far-far-away-space-photo-of-the-day-for-may-4-2026"
+      "title": "Forget the AT-ST, at 20% off this Lego Star Wars AT-TE is the king of Star Wars walkers",
+      "summary": "Want a Star Wars vehicle that can't be taken down with a bit of string? Loaded with extras, this imposing Clone Wars-era Lego Star Wars AT-TE Walker set is $28 off.",
+      "date": "2026-05-05",
+      "link": "https://www.space.com/entertainment/space-toys-lego/forget-the-at-st-at-20-percent-off-this-lego-star-wars-at-te-is-the-king-of-star-wars-walkers"
     },
     {
       "sourceId": "spacecom",
-      "title": "What's the best time to see Eta Aquarid meteors in 2026?",
-      "summary": "The Eta Aquarid meteor shower peaks this week, but will you be able to see it?",
-      "date": "2026-05-04",
-      "link": "https://www.space.com/stargazing/meteor-showers/whats-the-best-time-to-see-eta-aquarid-meteors-in-2026"
+      "title": "Former NASA chief Jim Bridenstine takes over as CEO of Quantum Space",
+      "summary": "Former NASA Administrator Jim Bridenstine is the new CEO of Quantum Space, a company developing maneuverable spacecraft for use by the U.S. military and commercial operators.",
+      "date": "2026-05-05",
+      "link": "https://www.space.com/space-exploration/satellites/former-nasa-chief-jim-bridenstine-takes-over-as-ceo-of-quantum-space"
     },
     {
       "sourceId": "rspace",
@@ -388,73 +388,73 @@
     },
     {
       "sourceId": "spacedaily",
-      "title": "Nobody prepares you for the loneliness of being the friend everyone calls when something is wrong, and realizing you don&#8217;t actually know who you would call back",
-      "summary": "The role of being everyone's emergency contact looks like closeness from the outside, but the loneliest part is the slow recognition that you've built a life full of people you support and almost no one you've ever asked to support you back. The post Nobody prepares you for the l",
-      "date": "2026-05-04",
-      "link": "https://spacedaily.com/j-a-y-nobody-prepares-you-for-the-loneliness-of-being-the-friend-everyone-calls-when-something-is-wrong-and-realizing-you-dont-actually-know-who-you-would-call-back/"
+      "title": "Adults who stop reaching out first aren’t always pulling away – sometimes they’ve simply learned that effort rarely travels in both directions",
+      "summary": "There’s a moment that happens for a lot of adults somewhere in their thirties or forties, and it doesn’t make a sound when it arrives. You realize you haven’t messaged a particular friend in three months. You used to message them every week. There was no fight. Nothing happened.",
+      "date": "2026-05-05",
+      "link": "https://spacedaily.com/t-adults-who-stop-reaching-out-first-arent-always-pulling-away-sometimes-theyve-simply-learned-that-effort-rarely-travels-in-both-directions/"
     },
     {
       "sourceId": "spacedaily",
-      "title": "Six things people who grew up lower middle class do automatically as adults that quietly reveal where they came from, even after decades of professional success",
-      "summary": "Class doesn't disappear with a paycheck. It hides in your hands, your fridge, and the way you flinch at a thirty-dollar lunch. The post Six things people who grew up lower middle class do automatically as adults that quietly reveal where they came from, even after decades of prof",
-      "date": "2026-05-04",
-      "link": "https://spacedaily.com/j-a-six-things-people-who-grew-up-lower-middle-class-do-automatically-as-adults-that-quietly-reveal-where-they-came-from-even-after-decades-of-professional-success/"
+      "title": "There’s a specific type of low-quality man who is wonderful to the world and exhausting to the people who actually live with him — and the cruelest part is that the world will never see what you see, and you will spend years carrying a truth nobody will ever believe",
+      "summary": "I’m going to write this article carefully, because I’m writing it for an audience that will include people currently in this situation, and I don’t want to be either glib or melodramatic about something that, in my experience, breaks people slowly and quietly.",
+      "date": "2026-05-05",
+      "link": "https://spacedaily.com/d-theres-a-specific-type-of-low-quality-man-who-is-wonderful-to-the-world-and-exhausting-to-the-people-who-actually-live-with-him-and-the-cruelest-part-is-that-the-world-will-never-see-what-y/"
     },
     {
       "sourceId": "spacedaily",
-      "title": "People who stay sharp well into old age usually aren’t just doing crosswords or taking supplements — they’ve never stopped letting the world surprise them",
-      "summary": "Walk into any pharmacy and you can buy a cognitive aging strategy off the shelf. There are crossword books, ginkgo capsules, omega-3 supplements, branded brain training apps, and several shelves of memory products built around the implicit promise that the right regimen, faithful",
-      "date": "2026-05-04",
-      "link": "https://spacedaily.com/my-dad-is-78-and-hes-sharper-than-people-half-his-age-and-it-isnt-about-crosswords-or-supplements-its-that-he-never-stopped-letting-the-world-surprise-him/"
+      "title": "People who find small talk exhausting aren’t always introverted — some simply find the performance of pleasantness more tiring than the conversation itself",
+      "summary": "I want to describe a specific moment that happens to me, and to a lot of people I know, at the start of every social event I attend. I walk into the room. I see a person I know slightly. They see me. We both register, at almost exactly the same moment, that we’re now",
+      "date": "2026-05-05",
+      "link": "https://spacedaily.com/d-people-who-find-small-talk-exhausting-arent-always-introverted-some-simply-find-the-performance-of-pleasantness-more-tiring-than-the-conversation-itself/"
     },
     {
       "sourceId": "spacedaily",
-      "title": "The hardest part of being childless by circumstance, not choice, often isn&#8217;t the grief everyone expects — it&#8217;s the specific kind of invisibility that comes from living a life the people around you have no template for",
-      "summary": "There&#8217;s a particular kind of woman in her forties who, when asked the standard question — &#8220;Do you have kids?&#8221; — gives a slightly too-quick &#8220;no&#8221; and changes the subject. She isn&#8217;t being rude. She is, in some sense, protecting both of you. She ha",
-      "date": "2026-05-04",
-      "link": "https://spacedaily.com/b-im-44-and-childless-by-circumstance-not-choice-and-the-hardest-part-isnt-the-grief-i-expected-its-the-specific-kind-of-invisibility-that-comes-from-living-a-life-the-people-around-you-h/"
+      "title": "The real cost of staying in a relationship where you can never be right isn’t just the arguments — it’s the quiet erosion of trusting your own judgment",
+      "summary": "I want to tell you about a woman I’ll call S, because that wasn’t her name, and a relationship that lasted about three years in my early thirties. S was, by most measures, a remarkable person.",
+      "date": "2026-05-05",
+      "link": "https://spacedaily.com/d-the-real-cost-of-staying-in-a-relationship-where-you-can-never-be-right-isnt-just-the-arguments-its-the-quiet-erosion-of-trusting-your-own-judgment/"
     },
     {
       "sourceId": "spacedaily",
-      "title": "The grandparents whose grandchildren genuinely want to spend time with them aren’t the ones with the biggest gifts, the most exciting outings, or the warmest house — they’re the ones who make them feel seen",
-      "summary": "You can usually tell which grandparent is the favorite without anyone having to say so. The grandchildren make the choice visible. They angle for the weekends at one house and accept the visits to the other dutifully. They call one grandparent first when something goes wrong at s",
-      "date": "2026-05-04",
-      "link": "https://spacedaily.com/d-psychology-says-the-grandparents-whose-grandchildren-genuinely-want-to-spend-time-with-them-arent-the-ones-with-the-biggest-gifts-the-most-exciting-outings-or-the-warmest-house-theyre-the-ones-wh/"
+      "title": "Few people talk about what it’s like to love an aging parent while also dreading their calls",
+      "summary": "My phone buzzes on a Tuesday morning at 9:14. It’s my mother. I know it’s my mother before I look, because she calls roughly at that time on Tuesdays, after she’s done her morning errands and before she starts thinking about lunch. I look at the phone.",
+      "date": "2026-05-05",
+      "link": "https://spacedaily.com/d-few-people-talk-about-what-its-like-to-love-an-aging-parent-while-also-dreading-their-calls/"
     },
     {
       "sourceId": "nasa",
-      "title": "Breaking Barriers at 3rd Annual Findings from the Field Symposium",
-      "summary": "This year’s Findings from the Field Student Research Symposium welcomed 106 students, grades four through eight, 29 educators, and 15 Subject Matter Experts, and it featured 68 research posters, 14 lightning talks, and 5 discussion sessions.",
-      "date": "2026-05-04",
-      "link": "https://science.nasa.gov/learning-resources/science-activation/breaking-barriers-at-3rd-annual-findings-from-the-field-symposium/"
+      "title": "NASA Astronaut to Answer Questions from Students in Florida",
+      "summary": "Students in Florida will hear from NASA astronaut Chris Williams as he answers prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11 a.m.",
+      "date": "2026-05-05",
+      "link": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/"
     },
     {
       "sourceId": "nasa",
-      "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
-      "summary": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA’s Artemis program. The tests in Chamber A represent a public-private partnership model, with Blue O",
-      "date": "2026-05-04",
-      "link": "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/"
+      "title": "NASA Research Shows Early Life Relied on Rare Metal",
+      "summary": "NASA-funded scientists have discovered that life on Earth over 3 billion years ago relied on the metal molybdenum, which was incredibly scarce in the environment at the time.",
+      "date": "2026-05-05",
+      "link": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/"
     },
     {
       "sourceId": "nasa",
-      "title": "Hubble Spots a Starry Spiral",
-      "summary": "In this new picture from NASA&#8217;s&#160;Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation&#160;Antlia&#160;(the Air Pump). As a nearby spiral galaxy, this targe",
-      "date": "2026-05-04",
-      "link": "https://www.nasa.gov/image-article/hubble-spots-a-starry-spiral/"
+      "title": "Building on America’s 65-Year Legacy of Human Spaceflight",
+      "summary": "On the morning of May 5, 1961, the Mercury-Redstone 3 launch vehicle lifted into the sky from Cape Canaveral, Florida, carrying astronaut Alan B. Shepard Jr.",
+      "date": "2026-05-05",
+      "link": "https://www.nasa.gov/image-article/building-on-americas-65-year-legacy-of-human-spaceflight/"
     },
     {
       "sourceId": "nasa",
-      "title": "For NASA’s TESS, Stellar Eclipses Shed Light on Possible New Worlds",
-      "summary": "A study of NASA’s TESS (Transiting Exoplanet Survey Satellite) data on stellar pairs undergoing mutual eclipses has uncovered more than two dozen candidate exoplanets, or worlds beyond our solar system. This method allows the mission to locate planets it couldn’t otherwise detect",
-      "date": "2026-05-04",
-      "link": "https://science.nasa.gov/missions/tess/for-nasas-tess-stellar-eclipses-shed-light-on-possible-new-worlds/"
+      "title": "NASA’S Juno Misson Captures Jupiter Moon Thebe",
+      "summary": "Description NASA’s Juno spacecraft captured this view of Thebe, the second largest of Jupiter’s inner moons, during a close pass on May 1, 2026.",
+      "date": "2026-05-05",
+      "link": "https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/"
     },
     {
       "sourceId": "nasa",
-      "title": "LAGEOS: An Earth Science Mission Built for Enduring Precision",
-      "summary": "On May 4, 1976, a spacecraft resembling a disco ball entered orbit almost 3,700 miles (6,000 kilometers) above Earth. This shiny, two‑foot‑wide (60‑centimeter) sphere called the Laser Geodynamics Satellite, or LAGEOS, is covered with 426 retroreflectors—small mirrored prisms desi",
-      "date": "2026-05-04",
-      "link": "https://www.nasa.gov/missions/lageos/lageos-an-earth-science-mission-built-for-enduring-precision/"
+      "title": "New NASA HEAT Coloring Book Blends Art, Science, and Cultural Perspectives",
+      "summary": "A new Sun-centered and science-focused coloring book produced by NASA in partnership with the University of Alaska Fairbanks (UAF) is now available for people to learn while showing their artistic side.",
+      "date": "2026-05-05",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/new-nasa-heat-coloring-book-blends-art-science-and-cultural-perspectives/"
     }
   ]
 }
