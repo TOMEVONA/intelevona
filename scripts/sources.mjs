@@ -14,10 +14,13 @@ export const SOURCES = [
   { id: "spacecom",   name: "Space.com",         category: "Space",        feeds: ["https://www.space.com/feeds/all"] },
   { id: "rspace",     name: "r/space",           category: "Space",        feeds: ["https://www.reddit.com/r/space/.rss"] },
   { id: "nga",        name: "NGA",               category: "Intelligence", manual: true },
-  { id: "spacedaily", name: "Space Daily",       category: "Space",        feeds: ["https://www.spacedaily.com/spacedaily.xml"],
-    // SpaceDaily mixes lifestyle and aerospace content — drop anything
-    // whose title hits these keywords (case-insensitive substring match).
-    excludeKeywords: ["health", "diet", "recipe", "celebrity", "hollywood", "fashion", "lifestyle", "horoscope", "gaming"] },
+  { id: "tnw-deeptech", name: "TNW · Deep Tech", category: "Tech", feeds: [
+      "https://thenextweb.com/deep-tech/feed/",
+      "https://thenextweb.com/feed/"   /* fallback to main feed; we filter by /deep-tech/ in the link path below */
+    ],
+    // If the category feed isn't available, the main feed will be used; we
+    // then keep only items whose link path includes /deep-tech/.
+    linkContains: "/deep-tech/" },
   { id: "nasa",       name: "NASA",              category: "Government",   feeds: ["https://www.nasa.gov/feed/"] }
 ];
 

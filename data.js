@@ -50,7 +50,7 @@ window.SI_DATA = (function () {
     { id: "spacecom",   name: "Space.com",          category: "Space",        url: "https://www.space.com" },
     { id: "rspace",     name: "r/space",            category: "Space",        url: "https://www.reddit.com/r/space" },
     { id: "nga",        name: "NGA",                category: "Intelligence", url: "https://www.nga.mil" },
-    { id: "spacedaily", name: "Space Daily",        category: "Space",        url: "https://www.spacedaily.com" },
+    { id: "tnw-deeptech", name: "TNW · Deep Tech",  category: "Tech",         url: "https://thenextweb.com/deep-tech" },
     { id: "nasa",       name: "NASA",               category: "Government",   url: "https://www.nasa.gov" }
   ];
 
@@ -255,22 +255,22 @@ window.SI_DATA = (function () {
       "GitHub repo went up Friday. The README is more candid than usual.", 6,
       "https://www.nga.mil/news/osint-framework-release/"),
 
-    /* Space Daily — only genuine space/defense items per ingest filter */
-    A("spacedaily", "ESA's PROBA-3 formation flight demonstrator hits operational coronagraph mode",
-      "Two satellites flying as one telescope, with millimetre-class station-keeping. The science is bonus; the formation-flight telemetry is the deliverable.", 0,
-      "https://www.spacedaily.com/proba3-coronagraph/"),
-    A("spacedaily", "ISRO confirms NSIL commercial launch slate full through 2027",
-      "Demand is real; capacity is the constraint. Pricing remains aggressive vs. Western providers.", 1,
-      "https://www.spacedaily.com/isro-nsil-2027/"),
-    A("spacedaily", "JAXA's H3 third successful flight cements operational status",
-      "Confidence-building cadence achieved. The Japanese launch market reopens for business.", 3,
-      "https://www.spacedaily.com/h3-third-flight/"),
-    A("spacedaily", "Roscosmos reduces 2026 launch manifest, again",
-      "Down to 12 from 18. Foreign customers, where they remain, are paying upfront.", 4,
-      "https://www.spacedaily.com/roscosmos-2026-manifest/"),
-    A("spacedaily", "ESA picks two finalists for in-orbit servicing demonstration",
-      "European-sovereign capability play. Both bids include US subcontractors; the politics get harder from here.", 6,
-      "https://www.spacedaily.com/esa-ios-finalists/"),
+    /* TNW · Deep Tech — deep-tech category from The Next Web */
+    A("tnw-deeptech", "European deep-tech raises hit a 12-month high — but the cohort is rotating",
+      "VC capital deployed into European deep-tech is up, but the destinations have shifted decisively from B2B SaaS toward defence, energy and dual-use space.", 0,
+      "https://thenextweb.com/deep-tech/european-deep-tech-12-month-high/"),
+    A("tnw-deeptech", "The orbital data centre arms race, explained",
+      "Three pathfinder satellites are testing on-orbit compute this year. The economics only work if you assume Earth-to-orbit bandwidth keeps falling — which, conveniently, it is.", 1,
+      "https://thenextweb.com/deep-tech/orbital-data-centre-explained/"),
+    A("tnw-deeptech", "Why every European AI startup suddenly has a 'sovereign' angle",
+      "EU procurement budgets unlocked sovereign-AI carve-outs this quarter. The angle on the deck didn't exist six months ago. It does now.", 2,
+      "https://thenextweb.com/deep-tech/european-ai-sovereign-angle/"),
+    A("tnw-deeptech", "Quantum networking pilots quietly cluster around defence customers",
+      "Three of four publicly-funded quantum-key distribution pilots in Europe now have an explicit defence end-user. The civil applications are the cover story.", 4,
+      "https://thenextweb.com/deep-tech/quantum-networking-defence-pilots/"),
+    A("tnw-deeptech", "ESA's accelerator now funds dual-use directly — a small but pointed shift",
+      "The 'civil only' framing in early-stage ESA funding has quietly broadened. The MOU is one paragraph; the implication for cap-tables is bigger.", 5,
+      "https://thenextweb.com/deep-tech/esa-accelerator-dual-use/"),
 
     /* NASA */
     A("nasa", "Artemis III crewed lunar landing slips to mid-2027",

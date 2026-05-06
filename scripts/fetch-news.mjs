@@ -141,6 +141,10 @@ async function fetchSource(src) {
         items = items.filter(it => !kws.some(k => it.title.toLowerCase().includes(k)));
       }
 
+      if (src.linkContains) {
+        items = items.filter(it => (it.link || "").includes(src.linkContains));
+      }
+
       // Sort newest first if pubDate is parseable
       items = items.filter(it => it.title && it.link);
       items.sort((a, b) => {
