@@ -1,11 +1,27 @@
 {
-  "updated": "2026-05-04 09:00 EDT",
   "title": "Week in Orbit",
-  "summary": "Capital is quietly rotating from comms megaconstellations into propulsion and lunar logistics, while DoD continues to write very large cheques for autonomy. SpaceX flew, Blue Origin landed, and SBIR Phase II dollars hit a 12-month high — the analyst class will spend the next two weeks pretending they saw it coming.",
+  "summary": "The space industry is buzzing with new partnerships and funding rounds as companies scramble to enhance their capabilities. Meanwhile, budget allocations are on the rise, but not without their share of delays in hypersonic testing.",
   "themes": [
-    { "icon": "▣", "title": "Propulsion is the new comms", "body": "Three propulsion rounds closed this week vs. one comms deal — a reversal that's been telegraphed for two quarters. Expect M&A in the hall-thruster cohort by Q3." },
-    { "icon": "◉", "title": "Lunar logistics gets serious", "body": "Two CLPS-adjacent contracts landed and a third lunar lander startup raised at a flat valuation. The cargo-to-the-Moon market is no longer purely a NASA story." },
-    { "icon": "▲", "title": "Defense primes outperform", "body": "BA, LMT and NOC outpaced pure-plays this week as space-resilient budget lines firmed up in the FY27 markup. Small-caps remain rate-sensitive." },
-    { "icon": "◆", "title": "Talent is leaving big-aero", "body": "EVONA tracked 38% week-over-week growth in resumes from primes targeting Series B/C startups. Compensation is no longer the gating factor — schedule risk is." }
-  ]
+    {
+      "icon": "▣",
+      "title": "Partnerships for LEO Expansion",
+      "body": "Eutelsat and Station Satcom's agreement to scale LEO services signals a growing interest in maritime connectivity. This move could set the stage for more collaborations as the demand for satellite services continues to rise."
+    },
+    {
+      "icon": "◉",
+      "title": "Funding for Innovative Ventures",
+      "body": "China’s Nayuta Space has successfully raised fresh funding for its aerodynamic-recovery rocket, showcasing the ongoing investment in next-gen space technologies. Similarly, True Anomaly's $190M Series C indicates that investors are keen on companies that can deliver tangible advancements."
+    },
+    {
+      "icon": "▲",
+      "title": "Budget Increases Amid Delays",
+      "body": "The FY27 budget markup adds $1.4B to space resilience, reflecting a strong commitment to bolstering national security in space. However, ongoing delays in hypersonic glide-vehicle tests highlight the challenges that still loom over ambitious defense projects."
+    },
+    {
+      "icon": "◆",
+      "title": "A New Era for Defense-Tech",
+      "body": "The defense-tech IPO window is showing signs of life, with companies like Palantir securing substantial extensions on contracts. This resurgence may lead to a wave of new entrants in the market, eager to capitalize on the growing intersection of AI and defense."
+    }
+  ],
+  "updated": "2026-05-06 19:32 UTC"
 }

@@ -1,390 +1,432 @@
 {
-  "updated": "2026-05-06T19:20:05.238Z",
+  "updated": "2026-05-06T19:32:30.126Z",
   "articles": [
     {
       "sourceId": "spacenews",
       "title": "Bringing imagery and communications under one roof",
-      "summary": "As direct-to-smartphone services blur the line between space and terrestrial connectivity, hybrid constellations are bringing communications and imagery closer together in orbit.",
+      "summary": "Hybrid constellations are merging space communications and imagery, as direct-to-smartphone services blur the terrestrial and orbital lines; it's like giving satellites a smartphone upgrade.",
       "date": "2026-05-06",
       "link": "https://spacenews.com/bringing-imagery-and-communications-under-one-roof/"
     },
     {
       "sourceId": "spacenews",
       "title": "Eutelsat and Station Satcom sign agreement to scale LEO services for maritime fleet",
-      "summary": "MILAN – French-led satellite operator Eutelsat and Indian maritime service provider Station Satcom have signed a multi-year agreement to expand Eutelsat-owned OneWeb LEO connectivity services across Station Satcom’s maritime fleet, the companies announced April 30.",
+      "summary": "Eutelsat and Station Satcom are expanding LEO connectivity for maritime fleets, proving that even the high seas can't escape the satellite craze; next stop: underwater Wi-Fi.",
       "date": "2026-05-06",
       "link": "https://spacenews.com/eutelsat-and-station-satcom-sign-agreement-to-scale-leo-services-for-maritime-fleet/"
     },
     {
       "sourceId": "spacenews",
       "title": "China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket",
-      "summary": "Chinese commercial launch startup Nayuta Space has completed consecutive Pre-A financing rounds to support development of its unconventional Xuanniao-R rocket concept.",
+      "summary": "Nayuta Space has secured fresh funding for its Xuanniao-R rocket concept, which sounds like a fancy way to say they’re trying to make a rocket that doesn’t just fall back to Earth.",
       "date": "2026-05-06",
       "link": "https://spacenews.com/chinas-nayuta-space-raises-fresh-funding-for-aerodynamic-recovery-rocket/"
     },
     {
       "sourceId": "spacenews",
       "title": "Riding the orbital data center wave",
-      "summary": "The orbital data center boom is promising opportunities well beyond the pioneers hoping to build colossal, AI-driven computing platforms in space.",
+      "summary": "The orbital data center boom is set to create opportunities beyond just AI-driven computing platforms, because who wouldn’t want to process data in zero gravity?",
       "date": "2026-05-06",
       "link": "https://spacenews.com/riding-the-orbital-data-center-wave/"
     },
     {
       "sourceId": "spacenews",
       "title": "Powering Unified Space Systems Operations",
-      "summary": "In 2025, Space42’s systems helped save over 660 lives across 25 distress events, from earthquakes in Myanmar, Nepal, and Turkey to cyclones in Mozambique and floods in Nigeria. In each",
+      "summary": "Space42's systems reportedly saved over 660 lives in 2025 during various disasters, proving that even in space, the mission is still about saving lives, not just launching rockets.",
       "date": "2026-05-06",
       "link": "https://spacenews.com/powering-unified-space-systems-operations/"
     },
     {
       "sourceId": "tectonic",
       "title": "Anduril and L3Harris team on tactical SDA constellation bid",
-      "summary": "Two firms that don't normally play well bid jointly. Read: Pentagon told them to.",
+      "summary": "Anduril and L3Harris have teamed up on a tactical SDA constellation bid, a classic case of 'if you can’t beat them, join them'—but only because the Pentagon said so.",
       "date": "2026-05-04",
       "link": "https://tectonicdefense.com/anduril-l3harris-sda/"
     },
     {
       "sourceId": "tectonic",
       "title": "FY27 budget markup adds $1.4B to space resilience line",
-      "summary": "A nontrivial pivot from previous markups, which had quietly trimmed the same line. Re-baselining is the new appropriations.",
+      "summary": "The FY27 budget markup adds $1.4B to the space resilience line, marking a significant shift from previous trims; apparently, the new strategy is to just throw more money at it.",
       "date": "2026-05-03",
       "link": "https://tectonicdefense.com/fy27-markup-space/"
     },
     {
       "sourceId": "tectonic",
       "title": "Hypersonic glide-vehicle test slips again — third quarter in a row",
-      "summary": "DoD declined to specify the cause. The phrase 'thermal protection' was conspicuously absent from the press call.",
+      "summary": "The hypersonic glide-vehicle test has slipped for the third quarter in a row, and the absence of 'thermal protection' from the DoD's press call raises more eyebrows than it answers.",
       "date": "2026-05-02",
       "link": "https://tectonicdefense.com/hgv-slip-q3/"
     },
     {
       "sourceId": "tectonic",
       "title": "Sierra Space's Dream Chaser DoD variant clears critical design review",
-      "summary": "An off-ramp from cargo-only into a defense logistics revenue line that, on paper, doesn't exist yet.",
+      "summary": "Sierra Space's Dream Chaser DoD variant has cleared its critical design review, which is great, but we’re still waiting to see if the defense logistics revenue line is more than just a fantasy.",
       "date": "2026-05-01",
       "link": "https://tectonicdefense.com/dream-chaser-cdr/"
     },
     {
       "sourceId": "tectonic",
       "title": "Palantir wins $480M extension on TITAN ground station program",
-      "summary": "Terms unchanged from prior expectations. Investors took the calm reaffirmation as the news.",
+      "summary": "Palantir has won a $480M extension on its TITAN ground station program, and the unchanged terms have investors feeling as calm as a well-timed software update.",
       "date": "2026-04-29",
       "link": "https://tectonicdefense.com/palantir-titan-extension/"
     },
     {
       "sourceId": "piratewires",
       "title": "The Defense-Tech IPO Window Is Cracking Open",
-      "summary": "Two filings in two weeks after eighteen months of nothing. Whether the window stays open depends entirely on Anduril's print, whenever that arrives.",
+      "summary": "The defense-tech IPO window is cracking open with two filings after a long drought, leaving everyone wondering if Anduril will be the one to finally push it wide open.",
       "date": "2026-05-04",
       "link": "https://piratewires.com/defense-ipo-window/"
     },
     {
       "sourceId": "piratewires",
       "title": "Why every YC company is suddenly 'AI for Defense'",
-      "summary": "A cohort that was 'AI for ops' six months ago. The acronym shifted; the deck did not.",
+      "summary": "Every YC company seems to have pivoted to 'AI for Defense,' proving that in the startup world, the buzzword is more important than the actual product.",
       "date": "2026-05-03",
       "link": "https://piratewires.com/yc-defense/"
     },
     {
       "sourceId": "piratewires",
       "title": "Founders Fund's quiet space portfolio review",
-      "summary": "Marc didn't post about it, which is itself the news.",
+      "summary": "Founders Fund quietly reviewed its space portfolio without a peep from Marc, which is the kind of news that says more than a press release ever could.",
       "date": "2026-05-02",
       "link": "https://piratewires.com/ff-space-review/"
     },
     {
       "sourceId": "piratewires",
       "title": "Inside the SpaceX secondary — at $470B",
-      "summary": "The cap table is now a small country. Existing holders are selling slivers; new entrants are paying for narrative, not ownership.",
+      "summary": "SpaceX's secondary market valuation has hit $470B, where sellers are trading slices of a narrative rather than actual ownership.",
       "date": "2026-04-30",
       "link": "https://piratewires.com/spacex-secondary-470b/"
     },
     {
       "sourceId": "piratewires",
       "title": "DC's new defense-tech lobbying vehicle, explained",
-      "summary": "A 501(c)(4) with a board you'd recognise from any Series C. It has a slogan and a Substack.",
+      "summary": "DC has launched a new defense-tech lobbying group that looks like a Series C board meeting, complete with a slogan and a Substack.",
       "date": "2026-04-28",
       "link": "https://piratewires.com/dc-deftech-501c4/"
     },
     {
       "sourceId": "resilience",
       "title": "GPS jamming over Eastern Med returns to pre-2024 levels",
-      "summary": "Commercial aviators are flying with one foot on the brake again. PNT alternatives are no longer 'nice to have.'",
+      "summary": "GPS jamming in the Eastern Med has returned to pre-2024 levels, leaving commercial pilots once again flying with one foot on the brake.",
       "date": "2026-05-04",
       "link": "https://resilience.media/gps-jamming-medlat/"
     },
     {
       "sourceId": "resilience",
       "title": "True Anomaly raises $190M Series C at $1.6B",
-      "summary": "Co-orbital servicing thesis intact. The valuation step-up is more about the contract pipeline than the tech demo cadence.",
+      "summary": "True Anomaly raised $190M at a $1.6B valuation, with the bump more about contracts than the tech, proving that revenue trumps innovation.",
       "date": "2026-05-03",
       "link": "https://resilience.media/true-anomaly-c/"
     },
     {
       "sourceId": "resilience",
       "title": "Slingshot's space domain awareness data hits the .mil cloud",
-      "summary": "Procurement boilerplate that signals two things: the data is good enough, and the pricing argument is over.",
+      "summary": "Slingshot's data for space domain awareness is now in the military cloud, indicating that the data is solid and the price debate is over.",
       "date": "2026-05-02",
       "link": "https://resilience.media/slingshot-mil-cloud/"
     },
     {
       "sourceId": "resilience",
       "title": "Allied space-resilience workshop concludes in The Hague",
-      "summary": "Everyone agreed everyone should do more. The communiqué runs 14 pages and binds nobody.",
+      "summary": "The Allied space-resilience workshop in The Hague ended with a 14-page communiqué that everyone agreed was non-binding, which is a classic diplomatic move.",
       "date": "2026-05-01",
       "link": "https://resilience.media/hague-resilience/"
     },
     {
       "sourceId": "resilience",
       "title": "Russian co-orbital activity flagged near commercial GEO slot",
-      "summary": "Operator declined to name affected satellite. Insurance carriers will name it for them within ten days.",
+      "summary": "Russian co-orbital activity near a commercial GEO slot has been flagged, and insurance companies will soon do the naming for the affected satellite.",
       "date": "2026-04-29",
       "link": "https://resilience.media/co-orbital-geo/"
     },
     {
       "sourceId": "tbpn",
       "title": "Founders mode: SpaceX vs. the rest of aerospace",
-      "summary": "Two-hour interview with a primes-defector turned founder. Quote of the year: 'They asked me to file a memo about the memo.'",
+      "summary": "A former prime contractor's two-hour interview on SpaceX reveals the absurdity of corporate memos, highlighting the culture clash in aerospace.",
       "date": "2026-05-04",
       "link": "https://tbpn.com/founders-mode-spacex/"
     },
     {
       "sourceId": "tbpn",
       "title": "The bull case for ASTS, in 11 charts",
-      "summary": "Charts make a strong case for execution risk being the only risk left. Which, depending on your priors, is either everything or nothing.",
+      "summary": "A bullish case for ASTS is made in 11 charts, suggesting that execution risk is the only risk left—though that could mean everything or nothing.",
       "date": "2026-05-03",
       "link": "https://tbpn.com/asts-bull-charts/"
     },
     {
       "sourceId": "tbpn",
       "title": "Why Meta is hiring satellite engineers",
-      "summary": "It's not for connectivity. Read between the lines and it's compute siting, latency arbitrage and the next decade of edge.",
+      "summary": "Meta is hiring satellite engineers, but not for connectivity; it's really about compute siting and latency arbitrage for the next decade.",
       "date": "2026-05-02",
       "link": "https://tbpn.com/meta-sat-hiring/"
     },
     {
       "sourceId": "tbpn",
       "title": "Klein on Stoke: 'we're three years from a launch oligopoly'",
-      "summary": "Andy Lapsa walks through manufacturing rate, not flight rate. The bottleneck is no longer the rocket.",
+      "summary": "Klein predicts a launch oligopoly in three years, emphasizing that the bottleneck is now manufacturing rates, not the rockets themselves.",
       "date": "2026-05-01",
       "link": "https://tbpn.com/stoke-klein-oligopoly/"
     },
     {
       "sourceId": "tbpn",
       "title": "The TBPN deep-tech survey: 1,200 founders weigh in",
-      "summary": "Half of respondents now identify as 'defense or dual-use' — up from 17% two years ago. Capital follows label.",
+      "summary": "A deep-tech survey reveals that half of founders now identify as 'defense or dual-use', a sharp rise from 17% two years ago, proving that in tech, labels are the new currency.",
       "date": "2026-04-29",
       "link": "https://tbpn.com/deeptech-survey-26/"
     },
     {
       "sourceId": "ussf",
       "title": "New deep space radar capability employed early",
-      "summary": "The capability leverages the geography of and partnership amongst the United States, Australia, and the United Kingdom.",
+      "summary": "The US, Australia, and UK have rolled out a new deep space radar capability, which sounds impressive until you realize it's just a fancy way to say 'we're watching you'.",
       "date": "2026-05-04",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4476937/new-deep-space-radar-capability-employed-early/"
     },
     {
       "sourceId": "ussf",
       "title": "Securing the high ground: US-Australian alliance a decisive advantage in space",
-      "summary": "During a visit to Australia, Lt. Gen. Gregory Gagnon, commander of the CFC, delivered a blunt assessment of the modern security environment, warning that space has unequivocally become a warfighting domain.",
+      "summary": "Lt. Gen. Gregory Gagnon bluntly stated that space is now a warfighting domain during his Australia visit, proving that the final frontier is just another battlefield.",
       "date": "2026-05-01",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4475859/securing-the-high-ground-us-australian-alliance-a-decisive-advantage-in-space/"
     },
     {
       "sourceId": "ussf",
       "title": "Lt. Gen. Douglas A. Schiess nominated to be next US Space Force Chief of Space Operations",
-      "summary": "If confirmed by the Senate, Schiess will become the service’s highest-ranking officer and the third Chief of Space Operations since the Space Force was established in December 2019.",
+      "summary": "Lt. Gen. Douglas A. Schiess has been nominated to lead the Space Force, marking yet another step in the military’s quest to find someone who can handle space traffic.",
       "date": "2026-05-01",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4475197/lt-gen-douglas-a-schiess-nominated-to-be-next-us-space-force-chief-of-space-ope/"
     },
     {
       "sourceId": "ussf",
       "title": "DAF launches plan to bolster AI workforce",
-      "summary": "The DAF recently approved a new strategy to build and maintain a highly skilled AI workforce to secure a technological and competitive advantage.",
+      "summary": "The DAF has unveiled a strategy to enhance its AI workforce, because clearly, the robots need more humans to tell them what to do.",
       "date": "2026-04-28",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4472659/daf-launches-plan-to-bolster-ai-workforce/"
     },
     {
       "sourceId": "ussf",
       "title": "Historic Cape Canaveral Space Force Station Skid Strip renovated for modern space mission needs",
-      "summary": "After a two-year, large-scale renovation, the previously aging runway has been transformed into a modern, unified strip ready to support some of the nation’s heaviest military aircraft and payloads.",
+      "summary": "Cape Canaveral's Skid Strip has been renovated to support modern military needs, which is great news unless you were hoping to see the old runway in a nostalgic light.",
       "date": "2026-04-28",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4472389/historic-cape-canaveral-space-force-station-skid-strip-renovated-for-modern-spa/"
     },
     {
       "sourceId": "dod",
       "title": "Utah National Guard Integrates Air, Ground Capabilities During Exercise Wolverine",
-      "summary": "Exercise Wolverine at Camp Williams, Utah, focused on strengthening joint interaction between Utah Army and Air National Guard units for disaster response and air-to-ground operations to support homeland defense.",
+      "summary": "The Utah National Guard is integrating air and ground capabilities during Exercise Wolverine, proving that teamwork is essential, even when the stakes are just a drill.",
       "date": "2026-05-06",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4478900/utah-national-guard-integrates-air-ground-capabilities-during-exercise-wolverine/"
     },
     {
       "sourceId": "dod",
       "title": "F-22 Raptors Arrive in Japan, Strengthen Indo-Pacific Airpower",
-      "summary": "Air Force F-22 Raptors arrived at Kadena Air Base, Japan, for a rotation designed to strengthen regional interoperability and maintain a persistent, high-tech presence in the Indo-Pacific.",
+      "summary": "F-22 Raptors have landed in Japan to bolster Indo-Pacific airpower, which is just another way of saying the Air Force is keeping its friends close and its enemies closer.",
       "date": "2026-05-06",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4478801/f-22-raptors-arrive-in-japan-strengthen-indo-pacific-airpower/"
     },
     {
       "sourceId": "dod",
       "title": "'Project Freedom' Aims to Get Thousands of Commercial Ships Safely Through Strait of Hormuz",
-      "summary": "Project Freedom is a targeted U.S. military mission to break the Iranian blockade of the Strait of Hormuz and restore the safe flow of international shipping and oil.",
+      "summary": "Project Freedom aims to clear the Iranian blockade in the Strait of Hormuz, turning international shipping into a military operation with a catchy name.",
       "date": "2026-05-05",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4477864/project-freedom-aims-to-get-thousands-of-commercial-ships-safely-through-strait/"
     },
     {
       "sourceId": "dod",
       "title": "82nd Airborne Division Ready to Respond, Support Project Freedom, Caine Says",
-      "summary": "When the president or the secretary of war needs immediate, scalable and lethal combat power anywhere in the world, 82nd Airborne Division paratroopers answer the call, Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, said during a Pentagon press briefing.",
+      "summary": "The 82nd Airborne Division is on standby to support Project Freedom, because when the world needs a quick response, paratroopers are the go-to option.",
       "date": "2026-05-05",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4477804/82nd-airborne-division-ready-to-respond-support-project-freedom-caine-says/"
     },
     {
       "sourceId": "dod",
       "title": "Enlistees Honored During Recognition Ceremony",
-      "summary": "As the nation commemorates its 250th anniversary throughout 2026, community and military leaders honored the next generation of American defenders during the second annual Our Community Salutes Enlistee Recognition Ceremony at the First Baptist Church in O'Fallon, Ill.",
+      "summary": "New enlistees were honored at a recognition ceremony, marking a moment of pride while reminding us that the military is always looking for fresh talent.",
       "date": "2026-05-05",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4477810/enlistees-honored-during-recognition-ceremony/"
     },
     {
       "sourceId": "viasat",
       "title": "SWISSto12 Strikes German Partnership Deal for D2D GEO Satellite",
-      "summary": "Swissto12 has struck a key new partnership deal in Germany which could bring exciting new media broadcast capabilities to Geostationary (GEO) satellites. It will work with German high-performance space subsystem",
+      "summary": "SWISSto12 has secured a partnership in Germany for a D2D GEO satellite, which sounds like a tech upgrade until you realize it’s just more channels for your TV.",
       "date": "2026-05-05",
       "link": "https://www.satellitetoday.com/technology/2026/05/05/swissto12-strikes-german-partnership-deal-for-d2d-geo-satellite/"
     },
     {
       "sourceId": "viasat",
       "title": "Anduril to Work With Impulse Space, K2 Space, Voyager, and Others on Space-Based Interceptor Award",
-      "summary": "Anduril Industries has named a team of collaborators for its recent award to prototype technologies for space-based interceptors, and will work with Impulse Space, Inversion Space, K2 Space, Sandia National",
+      "summary": "Anduril Industries has teamed up with several companies to prototype technologies for space-based interceptors, proving that collaboration is still necessary in a competitive field.",
       "date": "2026-05-05",
       "link": "https://www.satellitetoday.com/government-military/2026/05/05/anduril-to-work-with-impulse-space-k2-space-voyager-and-others-on-space-based-interceptor-award/"
     },
     {
       "sourceId": "viasat",
       "title": "Telesat’s GEO Business Declines 25% in Q1",
-      "summary": "Telesat’s GEO business declined 25% year-over-year in the first quarter of 2026, as the operator works toward the launch of its Lightspeed constellation. CEO Dan Goldberg said this decline in",
+      "summary": "Telesat's GEO business saw a 25% decline in Q1 2026 as it gears up for its Lightspeed constellation, because nothing says 'future' like a shrinking present.",
       "date": "2026-05-05",
       "link": "https://www.satellitetoday.com/finance/2026/05/05/telesats-geo-business-declines-25-in-q1/"
     },
     {
       "sourceId": "viasat",
       "title": "What Amazon’s Globalstar Acquisition Means for MSS Spectrum and D2D Market: Analyst Roundtable",
-      "summary": "After months of rumors in the market that Globalstar was for sale, Amazon moved last month to acquire the company in a deal worth roughly $10.8 billion. Amazon will acquire",
+      "summary": "Amazon's $10.8 billion acquisition of Globalstar raises questions about the MSS spectrum and D2D market, as the tech giant continues its quest for cosmic connectivity.",
       "date": "2026-05-05",
       "link": "https://www.satellitetoday.com/connectivity/2026/05/05/what-amazons-globalstar-acquisition-means-for-mss-spectrum-and-d2d-market-analyst-roundtable/"
     },
     {
       "sourceId": "viasat",
       "title": "NRO Makes New Commercial Awards to EarthDaily, Iceye, and Pixxel",
-      "summary": "AURORA, Colo. — The National Reconnaissance Office (NRO) has awarded new contracts for Earth sensing data to three companies under its Strategic Commercial Enhancements (SCE) effort, adding additional satellite companies",
+      "summary": "The National Reconnaissance Office awarded new contracts for Earth sensing data to EarthDaily, Iceye, and Pixxel, proving that even spies need reliable satellite imagery.",
       "date": "2026-05-04",
       "link": "https://www.satellitetoday.com/earth-observation/2026/05/04/nro-makes-new-commercial-awards-to-earthdaily-iceye-and-pixxel/"
     },
     {
       "sourceId": "spacecom",
       "title": "Europe's 1st reusable spacecraft 'Space Rider' clears key hurdles on the road to launch",
-      "summary": "Space Rider, a novel spacecraft concept from the European Space Agency, is passing key milestones in its tests and qualifications to bring the vehicle to flight readiness.",
+      "summary": "Europe's first reusable spacecraft, Space Rider, is clearing key hurdles for launch, which is great news for anyone who thinks space travel should be less of a one-way trip.",
       "date": "2026-05-06",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/europes-1st-reusable-spacecraft-space-rider-clears-key-hurdles-on-the-road-to-launch"
     },
     {
       "sourceId": "spacecom",
       "title": "'Whatever Russia is testing, it's sophisticated': 2 Russian satellites get within 10 feet of each other in orbit",
-      "summary": "Two Russian satellites got within 10 feet (3 meters) of each other recently, demonstrating a sophisticated set of orbital maneuvering skills.",
+      "summary": "Two Russian satellites demonstrated impressive orbital maneuvering by getting within 10 feet of each other, leaving us to wonder if they were just practicing for a future space tango.",
       "date": "2026-05-06",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/whatever-russia-is-testing-its-sophisticated-2-russian-satellites-get-within-10-feet-of-each-other-in-orbit"
     },
     {
       "sourceId": "spacecom",
       "title": "3 puzzles of our universe could be solved with this new dark matter theory",
-      "summary": "A new recipe of dark matter that interacts with itself could be the solution to three separate and vastly different cosmic puzzles.",
+      "summary": "A new dark matter theory proposes self-interacting particles could solve three cosmic puzzles, because the universe clearly enjoys keeping us on our toes.",
       "date": "2026-05-06",
       "link": "https://www.space.com/astronomy/dark-universe/3-puzzles-of-our-universe-could-be-solved-with-this-new-dark-matter-theory"
     },
     {
       "sourceId": "spacecom",
       "title": "'Thor' hammered down 15 years ago, and it's still the only Marvel movie to do the God of Thunder justice",
-      "summary": "In 2011, Thor proved himself more than worthy in his roaring MCU debut. Since then, the thunder has turned into laughter.",
+      "summary": "'Thor' remains the only Marvel movie that truly captured the God of Thunder, a reminder that even superheroes can have their off days in the cinematic universe.",
       "date": "2026-05-06",
       "link": "https://www.space.com/entertainment/space-movies-shows/thor-hammered-down-15-years-ago-and-its-still-the-only-marvel-movie-to-do-the-god-of-thunder-justice"
     },
     {
       "sourceId": "spacecom",
       "title": "Sci-fi RPG 'Exodus''s combat looks and feels like 'Mass Effect', but the dialogue system could be a big upgrade (video)",
-      "summary": "Jun Aslan and Phaedra share a quiet chat in Archetype Entertainment's latest Community Update.",
+      "summary": "The combat in the sci-fi RPG 'Exodus' resembles 'Mass Effect', but the dialogue system promises to elevate the experience, proving that even space battles need good banter.",
       "date": "2026-05-06",
       "link": "https://www.space.com/entertainment/space-games/sci-fi-rpg-exoduss-combat-looks-and-feels-like-mass-effect-but-the-dialogue-system-could-be-a-big-upgrade-video"
     },
     {
       "sourceId": "rspace",
-      "title": "[OC] Time-lapse of last night's Starship test from South Padre",
-      "summary": "47k upvotes in 6 hours. The flame trench is now load-bearing in the meme economy.",
-      "date": "2026-05-04",
-      "link": "https://www.reddit.com/r/space/comments/1abc/"
+      "title": "I built an Space app",
+      "summary": "A Reddit user proudly announced the creation of a space app, which is a reminder that anyone can shoot for the stars, even if their app is more 'Kerbal' than 'NASA'.",
+      "date": "2026-05-06",
+      "link": "https://www.reddit.com/r/space/comments/1t5n6af/i_built_an_space_app/"
     },
     {
       "sourceId": "rspace",
-      "title": "Why does NASA still use the worm logo in some places and the meatball in others?",
-      "summary": "Top comment, naturally, is from a former PAO who is tired of the question. The answer is, as ever, branding committees.",
-      "date": "2026-05-03",
-      "link": "https://www.reddit.com/r/space/comments/2abc/"
+      "title": "Silly question about orbits",
+      "summary": "A Redditor asked about increasing orbits in Kerbal Space Program, highlighting that even in gaming, the laws of physics still reign supreme.",
+      "date": "2026-05-06",
+      "link": "https://www.reddit.com/r/space/comments/1t5mbru/silly_question_about_orbits/"
     },
     {
       "sourceId": "rspace",
-      "title": "Astrophotographers caught a sprite above Hurricane Bonnie",
-      "summary": "Beautiful image, mildly terrifying meteorology. Mods stickied it for 18 hours.",
-      "date": "2026-05-02",
-      "link": "https://www.reddit.com/r/space/comments/3abc/"
+      "title": "The AI Trade Is Crowded. Space Isn’t.",
+      "summary": "In a crowded AI trade, the space sector remains relatively untapped, suggesting that while everyone is chasing algorithms, some are still looking to the stars.",
+      "date": "2026-05-06",
+      "link": "https://www.reddit.com/r/space/comments/1t5li2d/the_ai_trade_is_crowded_space_isnt/"
     },
     {
       "sourceId": "rspace",
-      "title": "ELI5: How does Starlink avoid the Iridium 33 / Cosmos 2251 problem?",
-      "summary": "Long, well-sourced thread; the answer is 'ground autonomy and lots of fuel.' The follow-up question is 'until?'",
-      "date": "2026-05-01",
-      "link": "https://www.reddit.com/r/space/comments/4abc/"
+      "title": "Anthropic, SpaceX announce compute deal that includes space development",
+      "summary": "Anthropic and SpaceX have struck a compute deal that includes space development, proving that even AI needs a rocket boost sometimes.",
+      "date": "2026-05-06",
+      "link": "https://www.reddit.com/r/space/comments/1t5joco/anthropic_spacex_announce_compute_deal_that/"
     },
     {
       "sourceId": "rspace",
-      "title": "Megathread: Vulcan certification press conference",
-      "summary": "Civil discussion, mostly. The Boeing-vs-Lockheed flame war was contained to one sub-thread.",
-      "date": "2026-04-29",
-      "link": "https://www.reddit.com/r/space/comments/5abc/"
+      "title": "I can't grasp the idea of an infinite universe...",
+      "summary": "A Reddit user grapples with the concept of an infinite universe, reminding us that existential crises can be as vast as space itself.",
+      "date": "2026-05-06",
+      "link": "https://www.reddit.com/r/space/comments/1t5hb0t/i_cant_grasp_the_idea_of_an_infinite_universe/"
     },
     {
       "sourceId": "nga",
       "title": "NGA opens commercial GEOINT broker contract to small business pool",
-      "summary": "Set-aside size is meaningful. Three early-stage geospatial firms are quietly relieved.",
+      "summary": "The NGA has opened a commercial GEOINT broker contract to small businesses, leaving some early-stage firms feeling like they've dodged a bullet.",
       "date": "2026-05-04",
       "link": "https://www.nga.mil/news/commercial-geoint-broker-2026/"
     },
     {
       "sourceId": "nga",
       "title": "Director's address at GEOINT 2026: 'data is no longer the bottleneck'",
-      "summary": "The bottleneck is workflow, integration, and people who can read the output. Vendors are listening — selectively.",
+      "summary": "The NGA director claims data is no longer the bottleneck, which is great news for everyone except those who still can’t read the charts.",
       "date": "2026-05-03",
       "link": "https://www.nga.mil/news/director-address-geoint26/"
     },
     {
       "sourceId": "nga",
       "title": "NGA signals shift toward AI-native analyst workflows",
-      "summary": "RFI dropped quietly last week. The vendors who responded fastest were not the ones with billboards at the conference.",
+      "summary": "NGA is shifting towards AI-native analyst workflows, and the quickest vendors to respond are the ones without the loudest marketing.",
       "date": "2026-05-02",
       "link": "https://www.nga.mil/news/ai-native-rfi/"
     },
     {
       "sourceId": "nga",
       "title": "Joint NGA-NRO foundation data initiative passes pilot phase",
-      "summary": "Two agencies that historically guard their data pipes are sharing some of them. This is a bigger deal than the press release admits.",
+      "summary": "The Joint NGA-NRO data initiative has passed its pilot phase, suggesting that even secretive agencies can learn to share—eventually.",
       "date": "2026-04-30",
       "link": "https://www.nga.mil/news/foundation-data-pilot/"
     },
     {
       "sourceId": "nga",
       "title": "Open-source intelligence integration framework released to public",
-      "summary": "GitHub repo went up Friday. The README is more candid than usual.",
+      "summary": "An open-source intelligence integration framework has been released, and the GitHub README is surprisingly candid, which is refreshing.",
       "date": "2026-04-28",
       "link": "https://www.nga.mil/news/osint-framework-release/"
+    },
+    {
+      "sourceId": "tnw-deeptech",
+      "title": "Google offers EU concessions on news-search ranking to head off a fresh DMA fine",
+      "summary": "Google is making concessions in the EU to avoid a hefty fine, proving that even tech giants can feel the heat from regulators.",
+      "date": "2026-05-06",
+      "link": "https://thenextweb.com/news/google-offers-eu-concessions-on-news-search-ranking-to-head-off-a-fresh-dma-fine"
+    },
+    {
+      "sourceId": "tnw-deeptech",
+      "title": "Supreme Court refuses to pause the order holding Apple in contempt in the Epic case",
+      "summary": "The Supreme Court has denied Apple’s request to pause a contempt order in the Epic case, leaving the tech giant in a legal limbo.",
+      "date": "2026-05-06",
+      "link": "https://thenextweb.com/news/supreme-court-apple-epic-contempt-stay-denial"
+    },
+    {
+      "sourceId": "tnw-deeptech",
+      "title": "Anthropic raises Claude Code and Opus API rate limits, citing SpaceX Colossus 1 deal",
+      "summary": "Anthropic has raised Claude Code and Opus API rate limits thanks to its deal with SpaceX, suggesting that even AI needs a little extra bandwidth.",
+      "date": "2026-05-06",
+      "link": "https://thenextweb.com/news/anthropic-claude-code-rate-limits-spacex-colossus-1"
+    },
+    {
+      "sourceId": "tnw-deeptech",
+      "title": "Ethos lands $22.75m Series A to fix what AI broke about hiring",
+      "summary": "Ethos has secured $22.75 million in Series A funding to address AI's hiring woes, proving that fixing broken systems can be lucrative.",
+      "date": "2026-05-06",
+      "link": "https://thenextweb.com/news/ethos-22-75m-series-a-a16z-ai-expert-matching"
+    },
+    {
+      "sourceId": "tnw-deeptech",
+      "title": "NVIDIA takes warrants for $500m in Corning stock as fibre-optics partnership goes structural",
+      "summary": "NVIDIA has taken warrants for $500 million in Corning stock as part of a fibre-optics partnership, and Corning’s shares are basking in the glow.",
+      "date": "2026-05-06",
+      "link": "https://thenextweb.com/news/nvidia-corning-500m-warrant-fiber-optics-partnership"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "test article",
+      "summary": "this is a test page",
+      "date": "2026-05-06",
+      "link": "https://www.nasa.gov/missions/pandora-missions/test-article-2/"
     },
     {
       "sourceId": "nasa",
@@ -413,13 +455,6 @@
       "summary": "Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible.",
       "date": "2026-05-06",
       "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "New NASA Technology Mimics Extreme Cold of the Lunar Night",
-      "summary": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons.",
-      "date": "2026-05-06",
-      "link": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/"
     }
   ]
 }
