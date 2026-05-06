@@ -450,7 +450,6 @@
         <div class="sbir-side">
           <div class="sbir-amt">$${a.amt.toFixed(2)}M</div>
           <div class="sbir-agency">${a.agency}</div>
-          <a class="sbir-link" href="${a.link}" target="_blank" rel="noopener">Award details →</a>
         </div>
       </article>
     `).join("");
