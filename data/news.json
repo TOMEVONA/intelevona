@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-06T18:06:50.577Z",
+  "updated": "2026-05-06T19:13:59.463Z",
   "articles": [
     {
       "sourceId": "spacenews",
       "title": "Bringing imagery and communications under one roof",
-      "summary": "TAMPA, Fla. — As direct-to-smartphone services blur the line between space and terrestrial connectivity, hybrid constellations are bringing communications and imagery closer together in orbit.",
+      "summary": "As direct-to-smartphone services blur the line between space and terrestrial connectivity, hybrid constellations are bringing communications and imagery closer together in orbit.",
       "date": "2026-05-06",
       "link": "https://spacenews.com/bringing-imagery-and-communications-under-one-roof/"
     },
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "Europe's 1st reusable spacecraft 'Space Rider' clears key hurdles on the road to launch",
+      "summary": "Space Rider, a novel spacecraft concept from the European Space Agency, is passing key milestones in its tests and qualifications to bring the vehicle to flight readiness.",
+      "date": "2026-05-06",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/europes-1st-reusable-spacecraft-space-rider-clears-key-hurdles-on-the-road-to-launch"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "'Whatever Russia is testing, it's sophisticated': 2 Russian satellites get within 10 feet of each other in orbit",
       "summary": "Two Russian satellites got within 10 feet (3 meters) of each other recently, demonstrating a sophisticated set of orbital maneuvering skills.",
       "date": "2026-05-06",
@@ -308,13 +315,6 @@
       "summary": "Jun Aslan and Phaedra share a quiet chat in Archetype Entertainment's latest Community Update.",
       "date": "2026-05-06",
       "link": "https://www.space.com/entertainment/space-games/sci-fi-rpg-exoduss-combat-looks-and-feels-like-mass-effect-but-the-dialogue-system-could-be-a-big-upgrade-video"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Nikon Action 7x50 binoculars review",
-      "summary": "Nikon's new Action 7x50 binoculars: A good buy for astronomy novices",
-      "date": "2026-05-06",
-      "link": "https://www.space.com/stargazing/skywatching-kit/nikon-action-7x50-binoculars-review"
     },
     {
       "sourceId": "rspace",
@@ -388,6 +388,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA Wallops to Host Public Information Session May 13",
+      "summary": "To facilitate discussion and information sharing on activities at NASA’s Wallops Flight Facility in Virginia, a public information session is being held 4–6 p.m., Wednesday, May 13, at the NASA Wallops Visitor Center.",
+      "date": "2026-05-06",
+      "link": "https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-host-public-information-session-may-13/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival",
       "summary": "NASA and SpaceX are targeting 7:16 p.m. EDT Tuesday, May 12, for the next launch to deliver science, supplies, and equipment to the International Space Station. This will be the 34th SpaceX commercial resupply services mission to the orbital outpost for NASA.",
       "date": "2026-05-06",
@@ -413,13 +420,6 @@
       "summary": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons.",
       "date": "2026-05-06",
       "link": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Melting Snow Off Shivelyuch",
-      "summary": "Near-constant activity continues on the volcano in Russia.",
-      "date": "2026-05-06",
-      "link": "https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/"
     }
   ]
 }
