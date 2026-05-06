@@ -350,7 +350,6 @@
         <span class="h-sector">Sector</span>
         <span class="h-date">Date</span>
         <span class="h-desc">Description</span>
-        <span class="h-link"></span>
       </div>`;
     const body = rows.map(r => {
       const stageKey = r.stage.split(" ")[0];
@@ -362,7 +361,6 @@
         <div class="round-sector">${r.sector}</div>
         <div class="round-date">T-${r.daysAgo}d</div>
         <div class="round-desc">${r.desc}</div>
-        <a class="round-link" href="${r.link}" target="_blank" rel="noopener">Source →</a>
       </div>`;
     }).join("");
 

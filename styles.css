@@ -869,7 +869,7 @@ button { font-family: inherit; cursor: pointer; }
 .rounds-list { display: flex; flex-direction: column; gap: 6px; }
 .round-row {
   display: grid;
-  grid-template-columns: 1.4fr 100px 110px 130px 110px 1.6fr 80px;
+  grid-template-columns: 1.4fr 100px 110px 130px 110px 1.6fr;
   align-items: center;
   gap: 12px;
   background: var(--surface);
