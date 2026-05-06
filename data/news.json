@@ -1,40 +1,40 @@
 {
-  "updated": "2026-05-05T18:55:56.865Z",
+  "updated": "2026-05-06T18:06:50.577Z",
   "articles": [
     {
       "sourceId": "spacenews",
-      "title": "Exiting NRO director Chris Scolese’s legacy: commercial partnerships; public engagement",
-      "summary": "In a 2022 address to the Intelligence and National Security Alliance, the director of the National Reconnaissance Office, Chris Scolese, sounded a warning.",
-      "date": "2026-05-05",
-      "link": "https://spacenews.com/exiting-nro-director-chris-scoleses-legacy-commercial-partnerships-public-engagement/"
+      "title": "Bringing imagery and communications under one roof",
+      "summary": "TAMPA, Fla. — As direct-to-smartphone services blur the line between space and terrestrial connectivity, hybrid constellations are bringing communications and imagery closer together in orbit.",
+      "date": "2026-05-06",
+      "link": "https://spacenews.com/bringing-imagery-and-communications-under-one-roof/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Loft Orbital expands into full-service constellation deals",
-      "summary": "EarthDaily Analytics and UAE-backed Altair highlight shift toward ‘constellations as a service’",
-      "date": "2026-05-05",
-      "link": "https://spacenews.com/loft-orbital-expands-into-full-service-constellation-deals/"
+      "title": "Eutelsat and Station Satcom sign agreement to scale LEO services for maritime fleet",
+      "summary": "MILAN – French-led satellite operator Eutelsat and Indian maritime service provider Station Satcom have signed a multi-year agreement to expand Eutelsat-owned OneWeb LEO connectivity services across Station Satcom’s maritime fleet, the companies announced April 30.",
+      "date": "2026-05-06",
+      "link": "https://spacenews.com/eutelsat-and-station-satcom-sign-agreement-to-scale-leo-services-for-maritime-fleet/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Polish space company Eycore launches first SAR Earth observation satellite",
-      "summary": "WARSAW, Poland — Polish space company Eycore has launched Eycore-1, an Earth observation satellite equipped with the company’s synthetic aperture radar (SAR) technology.",
-      "date": "2026-05-05",
-      "link": "https://spacenews.com/polish-space-company-eycore-launches-first-sar-earth-observation-satellite/"
+      "title": "China’s Nayuta Space raises fresh funding for aerodynamic-recovery rocket",
+      "summary": "Chinese commercial launch startup Nayuta Space has completed consecutive Pre-A financing rounds to support development of its unconventional Xuanniao-R rocket concept.",
+      "date": "2026-05-06",
+      "link": "https://spacenews.com/chinas-nayuta-space-raises-fresh-funding-for-aerodynamic-recovery-rocket/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Facing AI, data and scale imperatives at the 2026 GEOINT Symposium",
-      "summary": "Each year, the GEOINT Symposium brings together the people who make geospatial intelligence possible — the analysts, engineers, mission commanders, innovators and policy leaders who collectively ensure that decision-makers have the understanding of our world they need when they…",
-      "date": "2026-05-05",
-      "link": "https://spacenews.com/facing-ai-data-and-scale-imperatives-at-the-2026-geoint-symposium/"
+      "title": "Riding the orbital data center wave",
+      "summary": "The orbital data center boom is promising opportunities well beyond the pioneers hoping to build colossal, AI-driven computing platforms in space.",
+      "date": "2026-05-06",
+      "link": "https://spacenews.com/riding-the-orbital-data-center-wave/"
     },
     {
       "sourceId": "spacenews",
-      "title": "The budget proposal that overshadowed Artemis 2",
-      "summary": "Artemis 2 was a success in more ways than one. The mission, lasting just over nine days, demonstrated that the Orion spacecraft could safely support a crew on a trip around the moon.",
-      "date": "2026-05-05",
-      "link": "https://spacenews.com/the-budget-proposal-that-overshadowed-artemis-2/"
+      "title": "Powering Unified Space Systems Operations",
+      "summary": "In 2025, Space42’s systems helped save over 660 lives across 25 distress events, from earthquakes in Myanmar, Nepal, and Turkey to cyclones in Mozambique and floods in Nigeria. In each",
+      "date": "2026-05-06",
+      "link": "https://spacenews.com/powering-unified-space-systems-operations/"
     },
     {
       "sourceId": "tectonic",
@@ -213,6 +213,20 @@
     },
     {
       "sourceId": "dod",
+      "title": "Utah National Guard Integrates Air, Ground Capabilities During Exercise Wolverine",
+      "summary": "Exercise Wolverine at Camp Williams, Utah, focused on strengthening joint interaction between Utah Army and Air National Guard units for disaster response and air-to-ground operations to support homeland defense.",
+      "date": "2026-05-06",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4478900/utah-national-guard-integrates-air-ground-capabilities-during-exercise-wolverine/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "F-22 Raptors Arrive in Japan, Strengthen Indo-Pacific Airpower",
+      "summary": "Air Force F-22 Raptors arrived at Kadena Air Base, Japan, for a rotation designed to strengthen regional interoperability and maintain a persistent, high-tech presence in the Indo-Pacific.",
+      "date": "2026-05-06",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4478801/f-22-raptors-arrive-in-japan-strengthen-indo-pacific-airpower/"
+    },
+    {
+      "sourceId": "dod",
       "title": "'Project Freedom' Aims to Get Thousands of Commercial Ships Safely Through Strait of Hormuz",
       "summary": "Project Freedom is a targeted U.S. military mission to break the Iranian blockade of the Strait of Hormuz and restore the safe flow of international shipping and oil.",
       "date": "2026-05-05",
@@ -233,18 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4477810/enlistees-honored-during-recognition-ceremony/"
     },
     {
-      "sourceId": "dod",
-      "title": "Coast Guard Great Lakes District Set to Use Autonomous Sail Drones",
-      "summary": "Leveraging a contract awarded by the Coast Guard to enhance maritime domain awareness, the Great Lakes District will deploy autonomous drones to support Coast Guard missions on the Great Lakes.",
+      "sourceId": "viasat",
+      "title": "SWISSto12 Strikes German Partnership Deal for D2D GEO Satellite",
+      "summary": "Swissto12 has struck a key new partnership deal in Germany which could bring exciting new media broadcast capabilities to Geostationary (GEO) satellites. It will work with German high-performance space subsystem",
       "date": "2026-05-05",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4477650/coast-guard-great-lakes-district-set-to-use-autonomous-sail-drones/"
+      "link": "https://www.satellitetoday.com/technology/2026/05/05/swissto12-strikes-german-partnership-deal-for-d2d-geo-satellite/"
     },
     {
-      "sourceId": "dod",
-      "title": "80 Years After Death, Medal of Honor Recipient Identified, Buried",
-      "summary": "More than 80 years after his death, Medal of Honor recipient Army Capt. Willibald Bianchi's remains were identified by the Defense POW/MIA Accounting Agency, he was buried in his hometown alongside his parents and his sisters.",
-      "date": "2026-05-04",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4477278/80-years-after-death-medal-of-honor-recipient-identified-buried/"
+      "sourceId": "viasat",
+      "title": "Anduril to Work With Impulse Space, K2 Space, Voyager, and Others on Space-Based Interceptor Award",
+      "summary": "Anduril Industries has named a team of collaborators for its recent award to prototype technologies for space-based interceptors, and will work with Impulse Space, Inversion Space, K2 Space, Sandia National",
+      "date": "2026-05-05",
+      "link": "https://www.satellitetoday.com/government-military/2026/05/05/anduril-to-work-with-impulse-space-k2-space-voyager-and-others-on-space-based-interceptor-award/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Telesat’s GEO Business Declines 25% in Q1",
+      "summary": "Telesat’s GEO business declined 25% year-over-year in the first quarter of 2026, as the operator works toward the launch of its Lightspeed constellation. CEO Dan Goldberg said this decline in",
+      "date": "2026-05-05",
+      "link": "https://www.satellitetoday.com/finance/2026/05/05/telesats-geo-business-declines-25-in-q1/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "What Amazon’s Globalstar Acquisition Means for MSS Spectrum and D2D Market: Analyst Roundtable",
+      "summary": "After months of rumors in the market that Globalstar was for sale, Amazon moved last month to acquire the company in a deal worth roughly $10.8 billion. Amazon will acquire",
+      "date": "2026-05-05",
+      "link": "https://www.satellitetoday.com/connectivity/2026/05/05/what-amazons-globalstar-acquisition-means-for-mss-spectrum-and-d2d-market-analyst-roundtable/"
     },
     {
       "sourceId": "viasat",
@@ -254,67 +282,39 @@
       "link": "https://www.satellitetoday.com/earth-observation/2026/05/04/nro-makes-new-commercial-awards-to-earthdaily-iceye-and-pixxel/"
     },
     {
-      "sourceId": "viasat",
-      "title": "STMicroelectronics Expects its Space Business to Reach More than $3B Over Three Years",
-      "summary": "Global semiconductor company STMicroelectronics — a supplier to SpaceX and other space companies – expects to earn more than $3 billion from its space business over the next three years. Remi",
-      "date": "2026-05-04",
-      "link": "https://www.satellitetoday.com/technology/2026/05/04/stmicroelectronics-expects-its-space-business-to-reach-more-than-3b-over-three-years/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Lockheed Martin Joins Seagate Space and Firefly Aerospace to Develop Sea-Based Launch",
-      "summary": "Lockheed Martin is contributing to a recently announced partnership between Seagate Space and Firefly Aerospace to develop sea-based launch. The three companies will collaborate on an offshore launch platform for",
-      "date": "2026-05-04",
-      "link": "https://www.satellitetoday.com/launch/2026/05/04/lockheed-martin-joins-seagate-space-and-firefly-aerospace-to-develop-sea-based-launch/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Future-Proofing Satellite Networks With ST Engineering iDirect Sales SVP Brian Jakins",
-      "summary": "How do you future-proof your satellite network to thrive in an increasingly connected world? It’s a key question that network operators are asking as they navigate new technologies like 5G,",
-      "date": "2026-05-04",
-      "link": "https://www.satellitetoday.com/partner-content/2026/05/04/future-proofing-satellite-networks-with-st-engineering-idirect-sales-svp-brian-jakins/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Vantor Nabs $70 Million NGA Award For GEOINT Portal Use",
-      "summary": "Vantor on Monday said it has received a $70 million award from the National Geospatial-Intelligence Agency (NGA) for the first option year of a program that gives the agency and vetted",
-      "date": "2026-05-04",
-      "link": "https://www.satellitetoday.com/earth-observation/2026/05/04/vantor-nabs-70-million-nga-award-for-geoint-portal-use/"
+      "sourceId": "spacecom",
+      "title": "'Whatever Russia is testing, it's sophisticated': 2 Russian satellites get within 10 feet of each other in orbit",
+      "summary": "Two Russian satellites got within 10 feet (3 meters) of each other recently, demonstrating a sophisticated set of orbital maneuvering skills.",
+      "date": "2026-05-06",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/whatever-russia-is-testing-its-sophisticated-2-russian-satellites-get-within-10-feet-of-each-other-in-orbit"
     },
     {
       "sourceId": "spacecom",
-      "title": "A tiny world at the edge of our solar system grew a mysterious atmosphere, and we don't know how",
-      "summary": "A trans-Neptunian object was found to possess a surprising thin atmosphere after astronomers witnessed the object occult a distant star.",
-      "date": "2026-05-05",
-      "link": "https://www.space.com/astronomy/solar-system/scientists-find-tiny-object-in-our-solar-system-with-a-mysterious-atmosphere-that-shouldnt-exist"
+      "title": "3 puzzles of our universe could be solved with this new dark matter theory",
+      "summary": "A new recipe of dark matter that interacts with itself could be the solution to three separate and vastly different cosmic puzzles.",
+      "date": "2026-05-06",
+      "link": "https://www.space.com/astronomy/dark-universe/3-puzzles-of-our-universe-could-be-solved-with-this-new-dark-matter-theory"
     },
     {
       "sourceId": "spacecom",
-      "title": "Moon lander preps for the lunar surface | Space photo of the day for May 6, 2026",
-      "summary": "Blue Origin's MK1 moon lander has passed its tests in the vacuum chamber as NASA continues to develop the hardware needed to return astronauts to the moon.",
-      "date": "2026-05-05",
-      "link": "https://www.space.com/space-exploration/private-spaceflight/moon-lander-preps-for-the-lunar-surface-space-photo-of-the-day-for-may-6-2026"
+      "title": "'Thor' hammered down 15 years ago, and it's still the only Marvel movie to do the God of Thunder justice",
+      "summary": "In 2011, Thor proved himself more than worthy in his roaring MCU debut. Since then, the thunder has turned into laughter.",
+      "date": "2026-05-06",
+      "link": "https://www.space.com/entertainment/space-movies-shows/thor-hammered-down-15-years-ago-and-its-still-the-only-marvel-movie-to-do-the-god-of-thunder-justice"
     },
     {
       "sourceId": "spacecom",
-      "title": "'SOL Shogunate' is a samurai space opera set on the moon, but with an aerospace engineer making sure it's 'getting the science right'",
-      "summary": "Chaos Manufacturing CEO Guy Costantini and aerospace engineer Taylore McClurg tell us about the process of creating a believable but striking lunar adventure.",
-      "date": "2026-05-05",
-      "link": "https://www.space.com/entertainment/space-games/sol-shogunate-is-a-samurai-space-opera-set-on-the-moon-but-with-an-aerospace-engineer-making-sure-its-getting-the-science-right"
+      "title": "Sci-fi RPG 'Exodus''s combat looks and feels like 'Mass Effect', but the dialogue system could be a big upgrade (video)",
+      "summary": "Jun Aslan and Phaedra share a quiet chat in Archetype Entertainment's latest Community Update.",
+      "date": "2026-05-06",
+      "link": "https://www.space.com/entertainment/space-games/sci-fi-rpg-exoduss-combat-looks-and-feels-like-mass-effect-but-the-dialogue-system-could-be-a-big-upgrade-video"
     },
     {
       "sourceId": "spacecom",
-      "title": "These 2 companies want to start removing space junk from orbit in 2027",
-      "summary": "Two private companies are partnering up to establish a repeatable debris removal service for low Earth orbit, and they want to debut it in 2027.",
-      "date": "2026-05-05",
-      "link": "https://www.space.com/space-exploration/satellites/these-2-companies-want-to-start-removing-space-junk-from-orbit-in-2027"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Forget the AT-ST, at 20% off this Lego Star Wars AT-TE is the king of Star Wars walkers",
-      "summary": "Want a Star Wars vehicle that can't be taken down with a bit of string? Loaded with extras, this imposing Clone Wars-era Lego Star Wars AT-TE Walker set is $28 off.",
-      "date": "2026-05-05",
-      "link": "https://www.space.com/entertainment/space-toys-lego/forget-the-at-st-at-20-percent-off-this-lego-star-wars-at-te-is-the-king-of-star-wars-walkers"
+      "title": "Nikon Action 7x50 binoculars review",
+      "summary": "Nikon's new Action 7x50 binoculars: A good buy for astronomy novices",
+      "date": "2026-05-06",
+      "link": "https://www.space.com/stargazing/skywatching-kit/nikon-action-7x50-binoculars-review"
     },
     {
       "sourceId": "rspace",
@@ -388,73 +388,73 @@
     },
     {
       "sourceId": "spacedaily",
-      "title": "Adults who stop reaching out first aren’t always pulling away – sometimes they’ve simply learned that effort rarely travels in both directions",
-      "summary": "There’s a moment that happens for a lot of adults somewhere in their thirties or forties, and it doesn’t make a sound when it arrives. You realize you haven’t messaged a particular friend in three months. You used to message them every week. There was no fight. Nothing happened.",
-      "date": "2026-05-05",
-      "link": "https://spacedaily.com/t-adults-who-stop-reaching-out-first-arent-always-pulling-away-sometimes-theyve-simply-learned-that-effort-rarely-travels-in-both-directions/"
+      "title": "People who run every morning aren’t always chasing fitness – sometimes they’re protecting the only hour of the day that belongs entirely to them",
+      "summary": "It’s 5:40am in Saigon. The city is just starting to stretch. The motorbikes are still rare, the food stalls are flicking on their fluorescent lights, and the river path is empty except for me and a handful of other runners doing the same thing for, I suspect, the same unspoken…",
+      "date": "2026-05-06",
+      "link": "https://spacedaily.com/t-people-who-run-every-morning-arent-always-chasing-fitness-for-some-its-the-only-hour-of-the-day-that-belongs-entirely-to-them/"
     },
     {
       "sourceId": "spacedaily",
-      "title": "There’s a specific type of low-quality man who is wonderful to the world and exhausting to the people who actually live with him — and the cruelest part is that the world will never see what you see, and you will spend years carrying a truth nobody will ever believe",
-      "summary": "I’m going to write this article carefully, because I’m writing it for an audience that will include people currently in this situation, and I don’t want to be either glib or melodramatic about something that, in my experience, breaks people slowly and quietly.",
-      "date": "2026-05-05",
-      "link": "https://spacedaily.com/d-theres-a-specific-type-of-low-quality-man-who-is-wonderful-to-the-world-and-exhausting-to-the-people-who-actually-live-with-him-and-the-cruelest-part-is-that-the-world-will-never-see-what-y/"
+      "title": "The blogs that survived the AI shift weren’t the ones with the best SEO or the smartest pivots — they were the ones whose writers had something to say that an AI couldn’t have generated by accident, and most of us are still figuring out whether that includes us",
+      "summary": "The blogs that survived weren't the ones with the cleanest sites or the smartest content strategies — they were the ones whose writers had a specific, peculiar relationship with their subject that no model could simulate by accident.",
+      "date": "2026-05-06",
+      "link": "https://spacedaily.com/j-a-the-blogs-that-survived-the-ai-shift-werent-the-ones-with-the-best-seo-or-the-smartest-pivots-they-were-the-ones-whose-writers-had-something-to-say-that-an-ai-couldnt-have-generated-by-accident-an/"
     },
     {
       "sourceId": "spacedaily",
-      "title": "People who find small talk exhausting aren’t always introverted — some simply find the performance of pleasantness more tiring than the conversation itself",
-      "summary": "I want to describe a specific moment that happens to me, and to a lot of people I know, at the start of every social event I attend. I walk into the room. I see a person I know slightly. They see me. We both register, at almost exactly the same moment, that we’re now",
-      "date": "2026-05-05",
-      "link": "https://spacedaily.com/d-people-who-find-small-talk-exhausting-arent-always-introverted-some-simply-find-the-performance-of-pleasantness-more-tiring-than-the-conversation-itself/"
+      "title": "Women who grew up being told they were “too sensitive” often become the most mentally tough people in the room after 60 — not because they hardened, but because they spent fifty years developing an emotional fluency that most people never acquire, and fluency in hard feelings is the only toughness that actually lasts",
+      "summary": "She was eight when she first heard it. Family dinner, some small slight, tears she couldn’t stop. And her father, not unkindly but firmly, said the line that would follow her for the next five decades: you’re too sensitive. She heard it from teachers. From boyfriends.",
+      "date": "2026-05-06",
+      "link": "https://spacedaily.com/b-women-who-grew-up-being-told-they-were-too-sensitive-often-become-the-most-mentally-tough-people-in-the-room-after-60-not-because-they-hardened-but-because-they-spent-fifty-years-developi/"
     },
     {
       "sourceId": "spacedaily",
-      "title": "The real cost of staying in a relationship where you can never be right isn’t just the arguments — it’s the quiet erosion of trusting your own judgment",
-      "summary": "I want to tell you about a woman I’ll call S, because that wasn’t her name, and a relationship that lasted about three years in my early thirties. S was, by most measures, a remarkable person.",
-      "date": "2026-05-05",
-      "link": "https://spacedaily.com/d-the-real-cost-of-staying-in-a-relationship-where-you-can-never-be-right-isnt-just-the-arguments-its-the-quiet-erosion-of-trusting-your-own-judgment/"
+      "title": "I’ve been drinking black coffee every morning for thirty years and I only understood why last spring — it was never about the taste, it was the one thing in my day that asked nothing of me and gave me back exactly what it was",
+      "summary": "I noticed it on a Tuesday. Nothing special about the day, nothing special about the cup. I was standing at the kitchen counter, still in yesterday’s t-shirt, watching the steam come off the mug, and a thought arrived uninvited: this is the only thing I do that doesn’t want…",
+      "date": "2026-05-06",
+      "link": "https://spacedaily.com/ive-been-drinking-black-coffee-every-morning-for-thirty-years-and-i-only-understood-why-last-spring-it-was-never-about-the-taste-it-was-the-one-thing-in-my-day-that-asked-nothing-of-me-an/"
     },
     {
       "sourceId": "spacedaily",
-      "title": "Few people talk about what it’s like to love an aging parent while also dreading their calls",
-      "summary": "My phone buzzes on a Tuesday morning at 9:14. It’s my mother. I know it’s my mother before I look, because she calls roughly at that time on Tuesdays, after she’s done her morning errands and before she starts thinking about lunch. I look at the phone.",
-      "date": "2026-05-05",
-      "link": "https://spacedaily.com/d-few-people-talk-about-what-its-like-to-love-an-aging-parent-while-also-dreading-their-calls/"
+      "title": "People who were deeply unhappy at work sometimes discover that retirement may not fix the unhappiness — it may just remove the distraction",
+      "summary": "Ever met someone who counted down the days to retirement, only to find themselves lost and restless six months later? I watched this happen to a colleague at the warehouse where I worked in Melbourne.",
+      "date": "2026-05-06",
+      "link": "https://spacedaily.com/b-people-who-were-deeply-unhappy-at-work-sometimes-discover-that-retirement-doesnt-fix-the-unhappiness-it-just-removes-the-distraction/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Curiosity Rover Frees Its Drill From a Rock",
-      "summary": "Description This series of images shows NASA’s Curiosity Mars rover as it got a rock stuck to the drill on the end of its robotic arm and, after waving the arm and running the drill a few times, finally detached the rock.",
-      "date": "2026-05-05",
-      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/"
+      "title": "NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival",
+      "summary": "NASA and SpaceX are targeting 7:16 p.m. EDT Tuesday, May 12, for the next launch to deliver science, supplies, and equipment to the International Space Station. This will be the 34th SpaceX commercial resupply services mission to the orbital outpost for NASA.",
+      "date": "2026-05-06",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Astronaut to Answer Questions from Students in Florida",
-      "summary": "Students in Florida will hear from NASA astronaut Chris Williams as he answers prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11 a.m.",
-      "date": "2026-05-05",
-      "link": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/"
+      "title": "Unlocking the Mystery of X-ray Dots",
+      "summary": "A new “X-ray dot” found by NASA’s Chandra X-ray Observatory – which could look like this artist’s illustration released on April 28, 2026 – could explain what the hundreds or potentially thousands of these objects are.",
+      "date": "2026-05-06",
+      "link": "https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Research Shows Early Life Relied on Rare Metal",
-      "summary": "NASA-funded scientists have discovered that life on Earth over 3 billion years ago relied on the metal molybdenum, which was incredibly scarce in the environment at the time.",
-      "date": "2026-05-05",
-      "link": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/"
+      "title": "NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars",
+      "summary": "Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible.",
+      "date": "2026-05-06",
+      "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/"
     },
     {
       "sourceId": "nasa",
-      "title": "Building on America’s 65-Year Legacy of Human Spaceflight",
-      "summary": "On the morning of May 5, 1961, the Mercury-Redstone 3 launch vehicle lifted into the sky from Cape Canaveral, Florida, carrying astronaut Alan B. Shepard Jr.",
-      "date": "2026-05-05",
-      "link": "https://www.nasa.gov/image-article/building-on-americas-65-year-legacy-of-human-spaceflight/"
+      "title": "New NASA Technology Mimics Extreme Cold of the Lunar Night",
+      "summary": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons.",
+      "date": "2026-05-06",
+      "link": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’S Juno Misson Captures Jupiter Moon Thebe",
-      "summary": "Description NASA’s Juno spacecraft captured this view of Thebe, the second largest of Jupiter’s inner moons, during a close pass on May 1, 2026.",
-      "date": "2026-05-05",
-      "link": "https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/"
+      "title": "Melting Snow Off Shivelyuch",
+      "summary": "Near-constant activity continues on the volcano in Russia.",
+      "date": "2026-05-06",
+      "link": "https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/"
     }
   ]
 }
