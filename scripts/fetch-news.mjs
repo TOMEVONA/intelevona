@@ -33,7 +33,11 @@ const parser = new XMLParser({
   attributeNamePrefix: "",
   parseTagValue: true,
   trimValues: true,
-  textNodeName: "_text"
+  textNodeName: "_text",
+  // Reddit's RSS contains many HTML entities — disabling automatic
+  // expansion keeps us under fast-xml-parser's anti-DoS cap. We decode
+  // entities ourselves below in stripHtml/decodeEntities.
+  processEntities: false
 });
 
 const decodeEntities = s => String(s || "")
@@ -132,18 +136,24 @@ function parseFeed(xml) {
 
 async function fetchSource(src) {
   if (src.manual || !src.feeds || !src.feeds.length) return null;
-  for (const url of src.feeds) {
+  for (const feed of src.feeds) {
+    // Each feed entry can be a plain URL string OR an object
+    // { url, linkContains?, excludeKeywords? } for per-feed filters.
+    const url = typeof feed === "string" ? feed : feed.url;
+    const linkContains = (typeof feed === "object" && feed.linkContains) || src.linkContains;
+    const excludeKeywords = (typeof feed === "object" && feed.excludeKeywords) || src.excludeKeywords;
+
     try {
       const xml = await fetchFeed(url);
       let items = parseFeed(xml);
 
-      if (src.excludeKeywords) {
-        const kws = src.excludeKeywords.map(k => k.toLowerCase());
+      if (excludeKeywords) {
+        const kws = excludeKeywords.map(k => k.toLowerCase());
         items = items.filter(it => !kws.some(k => it.title.toLowerCase().includes(k)));
       }
 
-      if (src.linkContains) {
-        items = items.filter(it => (it.link || "").includes(src.linkContains));
+      if (linkContains) {
+        items = items.filter(it => (it.link || "").includes(linkContains));
       }
 
       // Sort newest first if pubDate is parseable
@@ -154,6 +164,12 @@ async function fetchSource(src) {
         return db - da;
       });
       items = items.slice(0, MAX_PER_SOURCE);
+
+      // If a feed/filter combo produced zero items, try the next feed URL
+      if (items.length === 0) {
+        console.log(`  [${src.id}] 0 articles from ${url} — trying next feed`);
+        continue;
+      }
 
       console.log(`  [${src.id}] ${items.length} articles`);
       return items.map(it => ({
@@ -233,8 +249,29 @@ async function callClaude(prompt, maxTokens = 4096) {
   return "";  // no LLM configured — caller falls back to RSS excerpt
 }
 
+// Robust JSON extraction — handles markdown code fences, preamble text,
+// and "Here's the JSON:" patterns that GPT-4o-mini sometimes produces.
+function extractJSON(text) {
+  if (!text) return null;
+  let cleaned = text.replace(/^```(?:json)?\s*/i, "").replace(/```\s*$/, "").trim();
+  // First try direct parse
+  try { return JSON.parse(cleaned); } catch (_) {}
+  // Then look for the first [ ... ] (array) or { ... } (object) block
+  const firstArr = cleaned.indexOf("[");
+  const firstObj = cleaned.indexOf("{");
+  const start = Math.min(...[firstArr, firstObj].filter(i => i >= 0));
+  if (start === Infinity) return null;
+  // Find the matching closing bracket from the end
+  const open = cleaned[start];
+  const close = open === "[" ? "]" : "}";
+  const end = cleaned.lastIndexOf(close);
+  if (end <= start) return null;
+  try { return JSON.parse(cleaned.slice(start, end + 1)); }
+  catch (_) { return null; }
+}
+
 async function rewriteWithClaude(articles) {
-  if (!ANTHROPIC_API_KEY) return articles;
+  if (!ANTHROPIC_API_KEY && !GH_MODELS_TOKEN) return articles;
   const CHUNK = 12;
   for (let i = 0; i < articles.length; i += CHUNK) {
     const batch = articles.slice(i, i + CHUNK);
@@ -251,21 +288,22 @@ ${JSON.stringify(batch.map(a => ({ title: a.title, excerpt: a.summary.slice(0, 4
 
     try {
       const text = await callClaude(prompt, 4096);
-      const cleaned = text.replace(/^```(?:json)?\s*/i, "").replace(/```\s*$/, "");
-      const parsed = JSON.parse(cleaned);
-      if (!Array.isArray(parsed) || parsed.length !== batch.length) throw new Error("array length mismatch");
+      const parsed = extractJSON(text);
+      if (!Array.isArray(parsed) || parsed.length !== batch.length) {
+        throw new Error(`array length mismatch (got ${Array.isArray(parsed) ? parsed.length : "non-array"}, expected ${batch.length})`);
+      }
       batch.forEach((a, idx) => {
         a.summary = String(parsed[idx]?.summary || a.summary).trim();
       });
     } catch (e) {
-      console.warn(`  Claude rewrite failed for batch ${i / CHUNK}: ${e.message} — keeping original summaries`);
+      console.warn(`  LLM rewrite failed for batch ${i / CHUNK}: ${e.message} — keeping original summaries`);
     }
   }
   return articles;
 }
 
 async function generateDigest(articles) {
-  if (!ANTHROPIC_API_KEY) return null;
+  if (!ANTHROPIC_API_KEY && !GH_MODELS_TOKEN) return null;
   const headlines = articles.slice(0, 40).map(a => `• ${a.title}`).join("\n");
   const prompt = `You are an industry analyst writing the daily intelligence digest for a Bloomberg-style space industry terminal.
 
@@ -287,10 +325,13 @@ ${headlines}
 
 Return ONLY the JSON. No prose, no markdown.`;
 
+  let text = "";
   try {
-    const text = await callClaude(prompt, 2048);
-    const cleaned = text.replace(/^```(?:json)?\s*/i, "").replace(/```\s*$/, "");
-    const digest = JSON.parse(cleaned);
+    text = await callClaude(prompt, 2048);
+    const digest = extractJSON(text);
+    if (!digest || !Array.isArray(digest.themes)) {
+      throw new Error(`unparseable response (first 120 chars: ${text.slice(0, 120)})`);
+    }
     digest.updated = new Date().toISOString().replace("T", " ").slice(0, 16) + " UTC";
     return digest;
   } catch (e) {

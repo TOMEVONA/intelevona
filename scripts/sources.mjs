@@ -16,11 +16,12 @@ export const SOURCES = [
   { id: "nga",        name: "NGA",               category: "Intelligence", manual: true },
   { id: "tnw-deeptech", name: "TNW · Deep Tech", category: "Tech", feeds: [
       "https://thenextweb.com/deep-tech/feed/",
-      "https://thenextweb.com/feed/"   /* fallback to main feed; we filter by /deep-tech/ in the link path below */
-    ],
-    // If the category feed isn't available, the main feed will be used; we
-    // then keep only items whose link path includes /deep-tech/.
-    linkContains: "/deep-tech/" },
+      "https://thenextweb.com/category/deep-tech/feed/",
+      "https://thenextweb.com/category/deep-tech/feed",
+      // Per-feed config — if the script falls through to the main feed,
+      // filter by URL path containing /deep-tech/.
+      { url: "https://thenextweb.com/feed/", linkContains: "/deep-tech/" }
+    ] },
   { id: "nasa",       name: "NASA",              category: "Government",   feeds: ["https://www.nasa.gov/feed/"] }
 ];
 
