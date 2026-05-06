@@ -3,355 +3,799 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Space Intel by EVONA — Bloomberg for the Space Industry</title>
-  <meta name="description" content="Space Intel by EVONA — daily intelligence on space industry news, funding rounds, SBIR awards, public stocks, ETFs, and careers." />
+  <title>Space Intel by EVONA — Bloomberg for Space</title>
+  <meta name="description" content="The weekly intelligence briefing for the space industry. 13 sources. Live data. Free." />
+  <meta property="og:title" content="Space Intel by EVONA — Bloomberg for Space" />
+  <meta property="og:description" content="Three things that moved. Stripped of hype. Delivered every Monday morning." />
+  <meta property="og:type" content="website" />
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&family=Michroma&family=Saira:wght@600;700;800;900&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css" />
+
+  <style>
+    /* ============================================================
+       Space Intel by EVONA — landing page
+       Self-contained. Mirrors the dashboard's brand tokens.
+       ============================================================ */
+    :root {
+      --bg: #04070d;
+      --surface: #0a0f1a;
+      --panel: #0e1524;
+      --border: #1a2740;
+      --border-soft: #14203a;
+      --text: #e2e8f0;
+      --muted: #64829a;
+      --muted-2: #4a657d;
+
+      --accent-blue:   #1f73ff;
+      --accent-blue-2: #3b8dff;
+      --accent-blue-glow: rgba(31, 115, 255, 0.45);
+
+      --accent-warm:   #ff6b1a;
+      --accent-warm-2: #ff8847;
+      --accent-warm-soft: rgba(255, 107, 26, 0.12);
+      --accent-warm-glow: rgba(255, 107, 26, 0.45);
+
+      --radius: 6px;
+      --radius-lg: 10px;
+
+      --mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: "Inter", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      background:
+        radial-gradient(1400px 600px at 100% -10%, rgba(255, 107, 26, 0.10), transparent 60%),
+        radial-gradient(1000px 500px at -10% 110%, rgba(31, 115, 255, 0.08), transparent 60%),
+        var(--bg);
+      background-attachment: fixed;
+      color: var(--text);
+      font-size: 15px;
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+    a { color: inherit; text-decoration: none; }
+    button, input { font-family: inherit; }
+
+    /* ===== Nav ===== */
+    .nav {
+      position: sticky; top: 0; z-index: 50;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 14px 32px;
+      background: rgba(4, 7, 13, 0.78);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border-soft);
+    }
+    .nav::after {
+      content: ""; position: absolute; bottom: -1px; left: 0; right: 0; height: 1px;
+      background: linear-gradient(90deg, transparent, var(--accent-warm), transparent);
+      opacity: 0.4;
+    }
+    .brand { display: flex; align-items: center; gap: 10px; }
+    .brand-mark { display: grid; place-items: center; filter: drop-shadow(0 0 12px var(--accent-blue-glow)); }
+    .brand-text { line-height: 1; }
+    .brand-title {
+      font-family: "Michroma", "Inter", sans-serif;
+      font-weight: 400; letter-spacing: 2.4px; font-size: 13px; color: #fff;
+    }
+    .brand-sub {
+      font-size: 9.5px; color: var(--muted);
+      letter-spacing: 1.4px; text-transform: uppercase;
+      font-weight: 500; margin-top: 4px;
+    }
+    .nav-cta {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 8px 16px;
+      font-size: 13px; font-weight: 600; letter-spacing: 0.2px;
+      color: var(--accent-blue); border: 1px solid var(--accent-blue);
+      border-radius: var(--radius);
+      transition: all 120ms ease;
+    }
+    .nav-cta:hover { background: var(--accent-blue); color: #fff; box-shadow: 0 0 18px var(--accent-blue-glow); }
+
+    /* ===== Section ===== */
+    section { padding: 90px 32px; max-width: 1180px; margin: 0 auto; }
+    .section-narrow { max-width: 880px; }
+
+    /* ===== Hero ===== */
+    .hero {
+      padding-top: 80px; padding-bottom: 80px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: "";
+      position: absolute; inset: 0;
+      background-image: radial-gradient(rgba(255, 107, 26, 0.06) 1px, transparent 1.4px);
+      background-size: 24px 24px;
+      pointer-events: none;
+      mask-image: radial-gradient(800px 400px at 50% 30%, #000, transparent 70%);
+      -webkit-mask-image: radial-gradient(800px 400px at 50% 30%, #000, transparent 70%);
+    }
+    .hero-eyebrow {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-family: "Saira", "Inter", sans-serif;
+      font-size: 11px; font-weight: 700; letter-spacing: 2.4px; text-transform: uppercase;
+      color: var(--accent-warm);
+      margin-bottom: 28px;
+      filter: drop-shadow(0 0 10px var(--accent-warm-glow));
+    }
+    .hero-eyebrow::before, .hero-eyebrow::after {
+      content: ""; height: 1px; width: 28px;
+      background: linear-gradient(90deg, transparent, var(--accent-warm), transparent);
+    }
+    .hero-headline {
+      font-family: "Saira", "Inter", sans-serif;
+      font-size: clamp(40px, 6.5vw, 84px);
+      font-weight: 800;
+      letter-spacing: -2px;
+      line-height: 0.98;
+      margin: 0 auto 24px;
+      max-width: 16ch;
+    }
+    .hero-headline .l1 {
+      display: block;
+      background: linear-gradient(180deg, #ffffff 0%, #b9c8da 100%);
+      -webkit-background-clip: text; background-clip: text;
+      -webkit-text-fill-color: transparent;
+      color: transparent;
+    }
+    .hero-headline .l2 {
+      display: block;
+      background: linear-gradient(180deg, #ffaa6e 0%, #ff6b1a 60%, #d6480a 100%);
+      -webkit-background-clip: text; background-clip: text;
+      -webkit-text-fill-color: transparent;
+      filter: drop-shadow(0 0 36px var(--accent-warm-glow));
+    }
+    .hero-subhead {
+      font-size: 17px;
+      color: var(--muted);
+      max-width: 60ch;
+      margin: 0 auto 36px;
+      line-height: 1.55;
+    }
+    .hero-subhead b { color: var(--text); font-weight: 600; }
+
+    /* Email form */
+    .form {
+      display: flex; gap: 0;
+      max-width: 520px; margin: 0 auto;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      background: var(--panel);
+      padding: 6px;
+      transition: border-color 200ms ease, box-shadow 200ms ease;
+    }
+    .form:focus-within {
+      border-color: var(--accent-warm);
+      box-shadow: 0 0 0 4px rgba(255, 107, 26, 0.10), 0 8px 32px rgba(255, 107, 26, 0.15);
+    }
+    .form-input {
+      flex: 1;
+      padding: 12px 16px;
+      background: transparent;
+      border: none;
+      color: var(--text);
+      font-size: 15px;
+      outline: none;
+    }
+    .form-input::placeholder { color: var(--muted); }
+    .form-button {
+      padding: 12px 22px;
+      background: var(--accent-warm);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-size: 13.5px;
+      font-weight: 700;
+      letter-spacing: 0.4px;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: background 120ms ease, transform 120ms ease, box-shadow 120ms ease;
+      white-space: nowrap;
+    }
+    .form-button:hover { background: var(--accent-warm-2); transform: translateY(-1px); box-shadow: 0 8px 24px var(--accent-warm-glow); }
+    .form-fineprint {
+      font-size: 12px;
+      color: var(--muted-2);
+      margin-top: 14px;
+      letter-spacing: 0.2px;
+    }
+    .form-success {
+      max-width: 520px; margin: 0 auto;
+      padding: 22px;
+      background: rgba(255, 107, 26, 0.08);
+      border: 1px solid rgba(255, 107, 26, 0.30);
+      border-radius: var(--radius-lg);
+      color: var(--text);
+      font-size: 15.5px;
+      display: none;
+    }
+    .form-success.show { display: block; }
+    .form-success b { color: var(--accent-warm); }
+    .form-error {
+      max-width: 520px; margin: 14px auto 0;
+      color: #f87171;
+      font-size: 13px;
+      display: none;
+    }
+    .form-error.show { display: block; }
+
+    .hero-secondary {
+      margin-top: 22px;
+      font-size: 13.5px;
+      color: var(--muted);
+    }
+    .hero-secondary a {
+      color: var(--accent-blue);
+      font-weight: 500;
+      border-bottom: 1px dashed var(--border);
+      padding-bottom: 1px;
+      transition: color 120ms ease, border-color 120ms ease;
+    }
+    .hero-secondary a:hover { color: var(--accent-blue-2); border-bottom-color: var(--accent-blue); }
+
+    /* ===== Stats strip ===== */
+    .stats {
+      padding-top: 28px; padding-bottom: 28px;
+      max-width: 1180px;
+      border-top: 1px solid var(--border-soft);
+      border-bottom: 1px solid var(--border-soft);
+    }
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 0;
+    }
+    .stat {
+      padding: 22px 18px;
+      text-align: center;
+      border-right: 1px solid var(--border-soft);
+    }
+    .stat:last-child { border-right: none; }
+    .stat-value {
+      font-family: "Saira", var(--mono);
+      font-size: clamp(28px, 3.6vw, 44px);
+      font-weight: 800;
+      letter-spacing: -1px;
+      line-height: 1;
+      margin-bottom: 6px;
+      background: linear-gradient(180deg, #ffffff 0%, #b9c8da 100%);
+      -webkit-background-clip: text; background-clip: text;
+      -webkit-text-fill-color: transparent;
+      color: transparent;
+    }
+    .stat:first-child .stat-value {
+      background: linear-gradient(180deg, #ffaa6e 0%, #ff6b1a 100%);
+      -webkit-background-clip: text; background-clip: text;
+      -webkit-text-fill-color: transparent;
+      filter: drop-shadow(0 0 22px var(--accent-warm-glow));
+    }
+    .stat-label {
+      font-size: 11px;
+      color: var(--muted);
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+
+    /* ===== Section heads ===== */
+    .section-eyebrow {
+      font-family: "Saira", "Inter", sans-serif;
+      font-size: 11px;
+      letter-spacing: 2.4px;
+      text-transform: uppercase;
+      color: var(--accent-warm);
+      font-weight: 700;
+      margin-bottom: 14px;
+      display: flex; align-items: center; gap: 10px;
+    }
+    .section-eyebrow::before {
+      content: "▲"; font-size: 8px; color: var(--accent-warm);
+    }
+    .section-headline {
+      font-family: "Saira", "Inter", sans-serif;
+      font-size: clamp(28px, 3.6vw, 42px);
+      font-weight: 800;
+      letter-spacing: -0.6px;
+      line-height: 1.1;
+      margin: 0 0 18px;
+      max-width: 22ch;
+      background: linear-gradient(180deg, #ffffff 0%, #b9c8da 100%);
+      -webkit-background-clip: text; background-clip: text;
+      -webkit-text-fill-color: transparent;
+      color: transparent;
+    }
+    .section-deck {
+      font-size: 16px;
+      color: var(--muted);
+      max-width: 60ch;
+      line-height: 1.6;
+      margin: 0 0 56px;
+    }
+
+    /* ===== Features ===== */
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+    }
+    .feature {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 26px;
+      display: flex; flex-direction: column; gap: 18px;
+      transition: border-color 200ms ease, transform 200ms ease, box-shadow 200ms ease;
+    }
+    .feature:hover {
+      border-color: rgba(255, 107, 26, 0.35);
+      transform: translateY(-2px);
+      box-shadow: 0 12px 36px rgba(255, 107, 26, 0.12);
+    }
+    .feature-kicker {
+      font-family: "Saira", "Inter", sans-serif;
+      font-size: 10.5px; letter-spacing: 1.6px; text-transform: uppercase;
+      color: var(--accent-warm); font-weight: 700;
+    }
+    .feature-title {
+      font-family: "Saira", "Inter", sans-serif;
+      font-size: 22px; font-weight: 700;
+      letter-spacing: -0.3px;
+      margin: 0;
+      background: linear-gradient(180deg, #ffffff 0%, #cdd9e8 100%);
+      -webkit-background-clip: text; background-clip: text;
+      -webkit-text-fill-color: transparent;
+      color: transparent;
+    }
+    .feature-body { font-size: 14px; color: var(--muted); line-height: 1.6; margin: 0; }
+
+    /* CSS-drawn mockups inside features */
+    .mockup {
+      margin-top: auto;
+      padding: 14px;
+      background: var(--bg);
+      border: 1px solid var(--border-soft);
+      border-radius: var(--radius);
+      font-size: 12px;
+      line-height: 1.4;
+    }
+    .mockup-header {
+      display: flex; align-items: center; gap: 6px;
+      font-family: var(--mono); font-size: 10px;
+      color: var(--muted-2);
+      letter-spacing: 0.6px; text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    .mockup-dot {
+      width: 6px; height: 6px; border-radius: 50%; background: var(--accent-warm);
+      box-shadow: 0 0 6px var(--accent-warm-glow);
+    }
+    .mockup-headline {
+      font-family: "Saira", "Inter", sans-serif;
+      font-size: 14px; font-weight: 700;
+      color: #fff;
+      margin-bottom: 6px;
+      line-height: 1.25;
+    }
+    .mockup-body { font-size: 12px; color: var(--muted); margin-bottom: 10px; }
+    .mockup-sowhat {
+      font-size: 11px; font-style: italic;
+      color: var(--text);
+      padding: 8px 10px;
+      background: rgba(255, 107, 26, 0.08);
+      border-left: 2px solid var(--accent-warm);
+      border-radius: 0 4px 4px 0;
+    }
+    .mockup-sowhat::before {
+      content: "▲ SO WHAT";
+      display: block;
+      font-style: normal; font-size: 9px;
+      color: var(--accent-warm); font-weight: 700; letter-spacing: 1.5px;
+      margin-bottom: 4px;
+    }
+    .mockup-tabs {
+      display: flex; gap: 8px; flex-wrap: wrap;
+      margin-bottom: 10px; padding-bottom: 8px;
+      border-bottom: 1px dashed var(--border-soft);
+      font-family: var(--mono); font-size: 9.5px; color: var(--muted-2);
+      letter-spacing: 0.6px;
+    }
+    .mockup-tabs span.active { color: var(--accent-warm); }
+    .mockup-stockcard {
+      display: flex; justify-content: space-between; align-items: baseline;
+    }
+    .mockup-ticker { font-family: var(--mono); font-weight: 700; color: #fff; font-size: 13px; }
+    .mockup-name { font-size: 10px; color: var(--muted); }
+    .mockup-price { font-family: "Saira", var(--mono); font-weight: 800; font-size: 14px; color: #fff; }
+    .mockup-delta {
+      font-family: var(--mono); font-size: 10px;
+      color: #34d399; padding: 1px 5px;
+      background: rgba(52, 211, 153, 0.10); border-radius: 3px;
+    }
+    .mockup-job {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 8px 0;
+      border-bottom: 1px dashed var(--border-soft);
+      font-size: 11.5px;
+    }
+    .mockup-job:last-child { border-bottom: none; }
+    .mockup-job-title { color: var(--text); font-weight: 500; }
+    .mockup-job-loc { color: var(--muted); font-family: var(--mono); font-size: 10px; }
+
+    /* ===== Sources ===== */
+    .sources {
+      text-align: center;
+      padding: 50px 32px;
+      max-width: 1180px;
+    }
+    .sources-label {
+      font-size: 11px;
+      letter-spacing: 1.6px;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 16px;
+      font-weight: 600;
+    }
+    .sources-list {
+      font-family: var(--mono);
+      font-size: 13px;
+      color: var(--text);
+      line-height: 2;
+      max-width: 880px;
+      margin: 0 auto;
+    }
+    .sources-list span { display: inline-block; padding: 0 6px; }
+    .sources-list span:not(:last-child)::after {
+      content: "·";
+      color: var(--muted-2);
+      margin-left: 12px;
+    }
+
+    /* ===== Final CTA ===== */
+    .cta-final {
+      text-align: center;
+      background:
+        radial-gradient(900px 360px at 50% 0%, rgba(255, 107, 26, 0.18), transparent 70%),
+        linear-gradient(180deg, var(--panel) 0%, var(--surface) 100%);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 70px 32px;
+      max-width: 1180px;
+      margin: 0 auto 60px;
+      position: relative;
+      overflow: hidden;
+    }
+    .cta-final::before {
+      content: ""; position: absolute; top: 0; left: 0; right: 0; height: 1px;
+      background: linear-gradient(90deg, transparent, var(--accent-warm), transparent);
+    }
+    .cta-final .section-headline { margin: 0 auto 14px; }
+    .cta-final .section-deck { margin: 0 auto 32px; }
+    .cta-final .form { margin: 0 auto; }
+
+    /* ===== Footer ===== */
+    footer {
+      border-top: 1px solid var(--border-soft);
+      padding: 24px 32px;
+      max-width: 1180px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 12px;
+      color: var(--muted-2);
+      gap: 18px;
+      flex-wrap: wrap;
+    }
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--accent-warm); }
+    .footer-links { display: flex; gap: 18px; }
+    .footer-text b { color: var(--text); font-weight: 500; }
+
+    /* ===== Responsive ===== */
+    @media (max-width: 980px) {
+      .stats-grid { grid-template-columns: repeat(3, 1fr); }
+      .stat:nth-child(4), .stat:nth-child(5) { border-top: 1px solid var(--border-soft); }
+      .stat:nth-child(3) { border-right: none; }
+      .features-grid { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 640px) {
+      .nav { padding: 12px 18px; }
+      section { padding: 60px 18px; }
+      .hero { padding-top: 50px; }
+      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .stat { border-right: 1px solid var(--border-soft); border-bottom: 1px solid var(--border-soft); }
+      .stat:nth-child(2n) { border-right: none; }
+      .form { flex-direction: column; padding: 8px; gap: 6px; border-radius: var(--radius); }
+      .form-button { width: 100%; }
+      .nav-cta span.long { display: none; }
+      .cta-final { padding: 50px 22px; border-radius: 0; margin: 0 0 0 0; max-width: none; }
+    }
+
+    /* Reduced motion */
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { animation: none !important; transition: none !important; }
+    }
+  </style>
 </head>
 <body>
-  <div class="app">
-    <!-- Sidebar -->
-    <aside class="sidebar" id="sidebar">
-      <div class="brand">
-        <div class="brand-mark" aria-hidden="true">
-          <svg viewBox="0 0 100 100" width="36" height="36">
-            <defs>
-              <linearGradient id="evonaG" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#3b8dff" />
-                <stop offset="100%" stop-color="#1f73ff" />
-              </linearGradient>
-            </defs>
-            <polygon points="50,16 78,32 78,68 50,84 22,68 22,34"
-                     fill="none" stroke="url(#evonaG)" stroke-width="9" stroke-linejoin="miter" />
-            <polygon points="22,34 4,12 26,28" fill="url(#evonaG)" />
-            <polygon points="78,68 96,90 74,72" fill="url(#evonaG)" />
-          </svg>
-        </div>
-        <div class="brand-text">
-          <div class="brand-title">EVONA</div>
-          <div class="brand-sub">Space Intel</div>
-        </div>
+
+  <!-- ===== NAV ===== -->
+  <nav class="nav">
+    <a class="brand" href="/">
+      <div class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 100 100" width="32" height="32">
+          <defs>
+            <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#3b8dff" />
+              <stop offset="100%" stop-color="#1f73ff" />
+            </linearGradient>
+          </defs>
+          <polygon points="50,16 78,32 78,68 50,84 22,68 22,34"
+                   fill="none" stroke="url(#bg)" stroke-width="9" stroke-linejoin="miter" />
+          <polygon points="22,34 4,12 26,28" fill="url(#bg)" />
+          <polygon points="78,68 96,90 74,72" fill="url(#bg)" />
+        </svg>
       </div>
-
-      <nav class="nav" role="navigation">
-        <button class="nav-item active" data-tab="briefing">
-          <span class="nav-icon">★</span>
-          <span class="nav-label">The Briefing</span>
-        </button>
-        <div class="nav-section">Terminal</div>
-        <button class="nav-item" data-tab="news">
-          <span class="nav-icon">◉</span>
-          <span class="nav-label">News Feed</span>
-        </button>
-        <button class="nav-item" data-tab="funding">
-          <span class="nav-icon">$</span>
-          <span class="nav-label">Funding &amp; Investment</span>
-        </button>
-        <button class="nav-item" data-tab="sbir">
-          <span class="nav-icon">▣</span>
-          <span class="nav-label">SBIR Awards</span>
-        </button>
-        <button class="nav-item" data-tab="stocks">
-          <span class="nav-icon">▲</span>
-          <span class="nav-label">Space Stocks</span>
-        </button>
-        <button class="nav-item" data-tab="jobs">
-          <span class="nav-icon">◆</span>
-          <span class="nav-label">EVONA Jobs</span>
-        </button>
-        <button class="nav-item" data-tab="resources">
-          <span class="nav-icon">✱</span>
-          <span class="nav-label">Resources</span>
-        </button>
-      </nav>
-
-      <div class="sidebar-footer">
-        <div class="status-row">
-          <span class="status-dot live"></span>
-          <span class="status-text">Markets live</span>
-        </div>
-        <div class="footer-meta" id="footerClock">—</div>
-        <a class="footer-link" href="https://www.evona.com" target="_blank" rel="noopener">evona.com ↗</a>
+      <div class="brand-text">
+        <div class="brand-title">EVONA</div>
+        <div class="brand-sub">Space Intel</div>
       </div>
-    </aside>
+    </a>
+    <a class="nav-cta" href="/terminal.html">
+      <span class="long">Open the terminal</span>
+      <span aria-hidden="true">→</span>
+    </a>
+  </nav>
 
-    <!-- Main -->
-    <main class="main">
-      <!-- Top bar -->
-      <header class="topbar">
-        <button class="menu-toggle" id="menuToggle" aria-label="Open menu">☰</button>
-        <div class="topbar-title" id="topbarTitle">News Feed</div>
-        <div class="ticker-tape" id="tickerTape" aria-live="polite"></div>
-        <div class="topbar-refresh">
-          <span class="topbar-refresh-meta" id="topbarRefreshMeta">—</span>
-          <button class="refresh-btn" id="refreshBtn" title="Refresh live market data" aria-label="Refresh">⟳</button>
-        </div>
-      </header>
+  <!-- ===== HERO ===== -->
+  <section class="hero">
+    <div class="hero-eyebrow">★ The Briefing · Weekly</div>
+    <h1 class="hero-headline">
+      <span class="l1">Bloomberg for space.</span>
+      <span class="l2">Without the terminal fee.</span>
+    </h1>
+    <p class="hero-subhead">
+      The week's space-industry signal — <b>three things that moved</b>, stripped of hype, delivered every Monday morning. Free access to the live terminal, plus the weekly briefing in your inbox. 13 sources. 90-second read.
+    </p>
 
-      <!-- Tab: Briefing (default home) -->
-      <section class="tab briefing" id="tab-briefing" data-active="true">
-        <article class="briefing-hero">
-          <div class="briefing-eyebrow">
-            <span class="briefing-mark">★</span>
-            <span class="briefing-label">The Briefing</span>
-            <span class="briefing-issue" id="briefingIssue">No. 14</span>
-            <span class="briefing-date" id="briefingDate">May 4, 2026</span>
-          </div>
-          <h1 class="briefing-headline" id="briefingHeadline"></h1>
-          <p class="briefing-deck" id="briefingDeck"></p>
-        </article>
+    <form class="form" id="signupForm" name="briefing-signup" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+      <input type="hidden" name="form-name" value="briefing-signup" />
+      <p style="display:none"><label>Don't fill this out: <input name="bot-field" /></label></p>
+      <input class="form-input" type="email" name="email" id="emailInput" placeholder="you@company.com" required autocomplete="email" />
+      <button class="form-button" type="submit">Unlock the terminal →</button>
+    </form>
+    <div class="form-error" id="formError">Please enter a valid email.</div>
+    <div class="form-success" id="formSuccess">
+      <b>You're in.</b> Sending you to the terminal…
+    </div>
+    <div class="form-fineprint">
+      Free · Live terminal access · Weekly briefing · Unsubscribe one click
+    </div>
+  </section>
 
-        <div class="briefing-stats" id="briefingStats"></div>
+  <!-- ===== STATS STRIP ===== -->
+  <section class="stats">
+    <div class="stats-grid">
+      <div class="stat">
+        <div class="stat-value">13</div>
+        <div class="stat-label">Sources tracked</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value">65</div>
+        <div class="stat-label">Articles this week</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value">$2.7B</div>
+        <div class="stat-label">Funding rounds tracked</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value">35</div>
+        <div class="stat-label">SBIR Phase II winners</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value">23</div>
+        <div class="stat-label">Stocks live-priced</div>
+      </div>
+    </div>
+  </section>
 
-        <section class="briefing-section">
-          <h2 class="briefing-section-title">Three things that moved</h2>
-          <div class="briefing-stories" id="briefingStories"></div>
-        </section>
+  <!-- ===== FEATURES ===== -->
+  <section>
+    <div class="section-eyebrow">What you get</div>
+    <h2 class="section-headline">Three deliveries. No filler.</h2>
+    <p class="section-deck">
+      The briefing is editorial. The terminal is data. The talent feed is hiring intent. They're all sourced, dated and free — because EVONA already pays for the data we sit on top of.
+    </p>
 
-        <section class="briefing-section briefing-tickers-section">
-          <h2 class="briefing-section-title">On the tape</h2>
-          <div class="briefing-tickers" id="briefingTickers"></div>
-        </section>
+    <div class="features-grid">
 
-        <section class="briefing-section">
-          <h2 class="briefing-section-title">What we're watching next</h2>
-          <div class="briefing-watchlist" id="briefingWatchlist"></div>
-        </section>
-
-        <section class="briefing-talent" id="briefingTalent"></section>
-
-        <footer class="briefing-foot">
-          <p class="briefing-foot-note" id="briefingFootnote">
-            Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →
+      <article class="feature">
+        <div>
+          <div class="feature-kicker">▲ The weekly briefing</div>
+          <h3 class="feature-title">Three things that moved</h3>
+          <p class="feature-body">
+            Stripped of hype. Delivered to your inbox every Monday morning. The signal, not the feed.
           </p>
-          <div class="briefing-foot-cta">
-            <button class="btn-orange" data-jump="news">Open News Feed</button>
-            <button class="btn-ghost" data-jump="funding">Funding</button>
-            <button class="btn-ghost" data-jump="sbir">SBIR</button>
-            <button class="btn-ghost" data-jump="stocks">Stocks</button>
-            <button class="btn-ghost" data-jump="jobs">Jobs</button>
-          </div>
-        </footer>
-      </section>
-
-      <!-- Tab: News -->
-      <section class="tab" id="tab-news">
-        <div class="tab-summary-slot" data-summary="news"></div>
-        <div class="digest" id="newsDigest"></div>
-
-        <div class="tab-controls">
-          <div class="filter-row" id="newsFilters"></div>
-          <div class="meta-row">
-            <span class="meta-label">Sources</span>
-            <span class="meta-value">13</span>
-            <span class="meta-sep">·</span>
-            <span class="meta-label">Articles</span>
-            <span class="meta-value" id="newsCount">—</span>
-          </div>
         </div>
-
-        <div class="news-grid" id="newsGrid"></div>
-      </section>
-
-      <!-- Tab: Funding -->
-      <section class="tab" id="tab-funding">
-        <div class="tab-summary-slot" data-summary="funding"></div>
-        <!-- Rounds -->
-        <div class="subtab-pane active" id="sub-rounds">
-          <div class="summary-bar">
-            <div class="summary-cell">
-              <div class="summary-label">Capital Deployed</div>
-              <div class="summary-value" id="capDeployed">—</div>
-              <div class="summary-sub" id="capDeployedRange">—</div>
-            </div>
-            <div class="summary-cell">
-              <div class="summary-label">Deal Count</div>
-              <div class="summary-value" id="dealCount">—</div>
-              <div class="summary-sub">disclosed rounds</div>
-            </div>
-            <div class="summary-cell">
-              <div class="summary-label">Avg Deal Size</div>
-              <div class="summary-value" id="avgDeal">—</div>
-              <div class="summary-sub">excl. mega-rounds &gt;$500M</div>
-            </div>
-            <div class="summary-cell summary-chart-cell">
-              <div class="summary-label">Sector Mix</div>
-              <div class="sector-bar" id="sectorBar"></div>
-              <div class="sector-legend" id="sectorLegend"></div>
-            </div>
+        <div class="mockup" aria-hidden="true">
+          <div class="mockup-header">
+            <span class="mockup-dot"></span>
+            <span>★ The Briefing · No. 14</span>
           </div>
-
-          <div class="tab-controls">
-            <div class="filter-row" id="fundingRange">
-              <button class="chip active" data-range="7">Last 7 Days</button>
-              <button class="chip" data-range="30">Last 30 Days</button>
-              <button class="chip" data-range="ytd">Year to Date</button>
-            </div>
-            <div class="meta-row">
-              <span class="meta-label">Updated</span>
-              <span class="meta-value">Mon 10:00 EDT</span>
-            </div>
-          </div>
-
-          <div class="rounds-list" id="roundsList"></div>
+          <div class="mockup-headline">Capital pivots. Procurement shifts.</div>
+          <div class="mockup-body">$2.7B deployed across 8 disclosed rounds. Propulsion ate comms's lunch — three deals vs. one.</div>
+          <div class="mockup-sowhat">The next defense logistics layer is being financed in real time.</div>
         </div>
-      </section>
+      </article>
 
-      <!-- Tab: SBIR -->
-      <section class="tab" id="tab-sbir">
-        <div class="tab-summary-slot" data-summary="sbir"></div>
-        <div class="sbir-header">
-          <div class="sbir-topbar">
-            <div class="sbir-week" id="sbirWeek">Week of Apr 27 – May 3, 2026</div>
-            <div class="sbir-timeframe seg" id="sbirTimeframe" role="tablist">
-              <button class="seg-btn active" data-window="7"  role="tab">This Week</button>
-              <button class="seg-btn"        data-window="30" role="tab">Last Month</button>
-              <button class="seg-btn"        data-window="90" role="tab">Last 3 Months</button>
-            </div>
+      <article class="feature">
+        <div>
+          <div class="feature-kicker">◉ The live terminal</div>
+          <h3 class="feature-title">Every signal, one page</h3>
+          <p class="feature-body">
+            Live stock prices. Recent SBIR Phase II awards. Funding rounds. News from 13 sources. EVONA's open roles. Dense, fast, free.
+          </p>
+        </div>
+        <div class="mockup" aria-hidden="true">
+          <div class="mockup-tabs">
+            <span class="active">Briefing</span>
+            <span>News</span>
+            <span>Funding</span>
+            <span>SBIR</span>
+            <span>Stocks</span>
+            <span>Jobs</span>
           </div>
-          <div class="summary-bar two">
-            <div class="summary-cell">
-              <div class="summary-label">Total Awarded</div>
-              <div class="summary-value" id="sbirTotal">—</div>
-              <div class="summary-sub" id="sbirRangeLabel">Phase II, this week</div>
+          <div class="mockup-stockcard">
+            <div>
+              <div class="mockup-ticker">RKLB</div>
+              <div class="mockup-name">Rocket Lab USA</div>
             </div>
-            <div class="summary-cell">
-              <div class="summary-label">Award Count</div>
-              <div class="summary-value" id="sbirCount">—</div>
-              <div class="summary-sub" id="sbirAvg">—</div>
+            <div style="text-align:right">
+              <div class="mockup-price">$28.42</div>
+              <div class="mockup-delta">▲ +3.18%</div>
             </div>
           </div>
         </div>
+      </article>
 
-        <div class="tab-controls">
-          <div class="filter-row" id="sbirFilters"></div>
-          <div class="meta-row">
-            <span class="meta-label">Sort</span>
-            <select class="select" id="sbirSort">
-              <option value="amount">Amount, high → low</option>
-              <option value="agency">Agency</option>
-              <option value="company">Company</option>
-            </select>
+      <article class="feature">
+        <div>
+          <div class="feature-kicker">◆ Built by recruiters</div>
+          <h3 class="feature-title">We see hiring before the data</h3>
+          <p class="feature-body">
+            EVONA places the engineers building the space economy. We see hiring patterns six weeks before they show up in the headlines. The briefing reflects that.
+          </p>
+        </div>
+        <div class="mockup" aria-hidden="true">
+          <div class="mockup-header">
+            <span class="mockup-dot"></span>
+            <span>OPEN ROLES — VIA EVONA</span>
+          </div>
+          <div class="mockup-job">
+            <span class="mockup-job-title">Senior Spacecraft Systems Engineer</span>
+            <span class="mockup-job-loc">Long Beach, CA</span>
+          </div>
+          <div class="mockup-job">
+            <span class="mockup-job-title">Lead GNC Software Engineer</span>
+            <span class="mockup-job-loc">Mountain View, CA</span>
+          </div>
+          <div class="mockup-job">
+            <span class="mockup-job-title">Director of Geospatial Analytics</span>
+            <span class="mockup-job-loc">Washington, DC</span>
           </div>
         </div>
+      </article>
 
-        <div class="sbir-list" id="sbirList"></div>
-      </section>
+    </div>
+  </section>
 
-      <!-- Tab: Stocks -->
-      <section class="tab" id="tab-stocks">
-        <div class="tab-summary-slot" data-summary="stocks"></div>
-        <!-- ETFs subsection -->
-        <div class="stocks-section">
-          <div class="stocks-section-head">
-            <h3 class="stocks-section-title">Space &amp; Defense ETFs</h3>
-            <div class="meta-row">
-              <span class="meta-label">Live</span>
-              <span class="status-dot live"></span>
-              <span class="meta-sep">·</span>
-              <span class="meta-label">Last</span>
-              <span class="meta-value" id="etfRefresh">—</span>
-              <button class="chip ghost" id="etfRefreshBtn">⟳ Refresh</button>
-            </div>
-          </div>
-          <div class="etf-grid" id="etfGrid"></div>
-          <p class="disclaimer">Not financial advice. For informational purposes only. Prices are delayed by 15 minutes per Yahoo Finance terms.</p>
-        </div>
+  <!-- ===== SOURCES ===== -->
+  <section class="sources">
+    <div class="sources-label">Aggregates daily from</div>
+    <div class="sources-list">
+      <span>SpaceNews</span><span>Pirate Wires</span><span>Tectonic Defense</span><span>TBPN</span><span>U.S. Space Force</span><span>Dept. of Defense</span><span>Via Satellite</span><span>Space.com</span><span>r/space</span><span>NGA</span><span>Space Daily</span><span>Resilience Media</span><span>NASA</span>
+    </div>
+  </section>
 
-        <!-- Individual tickers subsection -->
-        <div class="stocks-section">
-          <div class="stocks-section-head">
-            <h3 class="stocks-section-title">Individual Tickers</h3>
-            <div class="meta-row">
-              <span class="meta-label">Last</span>
-              <span class="meta-value" id="stockRefresh">—</span>
-              <span class="meta-sep">·</span>
-              <span class="meta-label">Sort</span>
-              <select class="select" id="stockSort">
-                <option value="changePct">% change</option>
-                <option value="price">price</option>
-                <option value="name">name</option>
-              </select>
-            </div>
-          </div>
-          <div class="tab-controls" style="margin-top: 6px">
-            <div class="filter-row" id="stockFilters"></div>
-          </div>
-          <div class="stock-grid" id="stockGrid"></div>
-        </div>
-      </section>
+  <!-- ===== FINAL CTA ===== -->
+  <section class="cta-final section-narrow">
+    <h2 class="section-headline" style="max-width: 26ch;">One email a week. The space industry, condensed.</h2>
+    <p class="section-deck" style="max-width: 50ch;">
+      No "transformative." No "groundbreaking." Just three things that moved and one number you'll quote on Tuesday.
+    </p>
+    <form class="form" id="signupForm2" name="briefing-signup" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+      <input type="hidden" name="form-name" value="briefing-signup" />
+      <p style="display:none"><label>Don't fill this out: <input name="bot-field" /></label></p>
+      <input class="form-input" type="email" name="email" placeholder="you@company.com" required autocomplete="email" />
+      <button class="form-button" type="submit">Unlock access →</button>
+    </form>
+  </section>
 
-      <!-- Tab: Jobs -->
-      <section class="tab" id="tab-jobs">
-        <div class="tab-summary-slot" data-summary="jobs"></div>
-        <div class="jobs-header">
-          <div>
-            <h2 class="jobs-title">Careers in Space — Open Roles via EVONA</h2>
-            <p class="jobs-sub">Curated openings across launch, satellites, geospatial, downstream and infrastructure. Cached server-side, refreshed every 6 hours.</p>
-          </div>
-          <a class="btn-orange" href="https://www.evona.com/spacejobs/" target="_blank" rel="noopener">View all jobs →</a>
-        </div>
+  <!-- ===== FOOTER ===== -->
+  <footer>
+    <div class="footer-text">
+      <b>Space Intel</b> by EVONA · Built in Bristol · Not financial advice · © 2026 EVONA
+    </div>
+    <div class="footer-links">
+      <a href="/terminal.html">Terminal</a>
+      <a href="https://www.evona.com" target="_blank" rel="noopener">EVONA →</a>
+    </div>
+  </footer>
 
-        <div class="tab-controls">
-          <div class="filter-row" id="jobFilters"></div>
-          <div class="meta-row">
-            <span class="meta-label">Last updated</span>
-            <span class="meta-value" id="jobsUpdated">—</span>
-            <span class="meta-sep">·</span>
-            <span class="meta-label">Type</span>
-            <div class="seg" id="jobTypeSeg">
-              <button class="seg-btn active" data-type="all">All</button>
-              <button class="seg-btn" data-type="permanent">Permanent</button>
-              <button class="seg-btn" data-type="contract">Contract</button>
-            </div>
-          </div>
-        </div>
+  <script>
+    /* ============================================================
+       Form handling — both forms post to Netlify Forms, set the
+       'evona_unlocked' localStorage flag so terminal.html admits the
+       visitor, then redirect to the terminal.
+       Returning visitors with the flag already set are auto-bounced
+       straight to /terminal.html — they shouldn't see the gate twice.
+       ============================================================ */
 
-        <div class="jobs-grid" id="jobsGrid"></div>
+    // Auto-redirect already-unlocked visitors
+    try {
+      if (localStorage.getItem("evona_unlocked")) {
+        // Don't loop the redirect if they came back deliberately via #signout
+        if (location.hash !== "#stay") {
+          location.replace("/terminal.html");
+        }
+      }
+    } catch (e) { /* private browsing — ignore */ }
 
-        <div class="jobs-foot">
-          <a href="https://www.evona.com/spacejobs/" target="_blank" rel="noopener">View all jobs at evona.com/spacejobs ↗</a>
-        </div>
-      </section>
+    function unlockAndRedirect(email) {
+      try {
+        localStorage.setItem("evona_unlocked", email);
+        localStorage.setItem("evona_unlocked_at", new Date().toISOString());
+      } catch (e) { /* ignore */ }
+      // Background submit to Netlify Forms (don't block the redirect)
+      const body = new URLSearchParams();
+      body.append("form-name", "briefing-signup");
+      body.append("email", email);
+      fetch("/", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: body.toString()
+      }).catch(() => {});
+      // Brief success state, then redirect
+      setTimeout(() => location.href = "/terminal.html", 700);
+    }
 
-      <!-- Tab: Resources -->
-      <section class="tab" id="tab-resources">
-        <div class="tab-summary-slot" data-summary="resources"></div>
-        <div class="resources-hero">
-          <div>
-            <div class="resources-eyebrow">
-              <span>✱</span>
-              <span>Resource Library</span>
-            </div>
-            <h2 class="resources-title">Guidance, guides, and how-to from EVONA</h2>
-            <p class="resources-deck">Curated knowledge from <a href="https://www.evona.com/blog/" target="_blank" rel="noopener">evona.com/blog</a> — career advice, interview prep, CV/LinkedIn craft, industry explainers, and sector deep-dives. Sharp, sourced, and updated as new pieces drop.</p>
-          </div>
-          <a class="btn-orange" href="https://www.evona.com/blog/" target="_blank" rel="noopener">Visit EVONA Insights →</a>
-        </div>
+    function wireForm(form, errorEl, successEl) {
+      if (!form) return;
+      form.addEventListener("submit", (e) => {
+        e.preventDefault();
+        if (errorEl) errorEl.classList.remove("show");
+        const input = form.querySelector("input[type=email]");
+        const email = (input.value || "").trim();
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+          if (errorEl) errorEl.classList.add("show");
+          return;
+        }
+        if (form.id === "signupForm") {
+          form.style.display = "none";
+          document.querySelector(".form-fineprint").style.display = "none";
+          successEl?.classList.add("show");
+        } else {
+          form.querySelector("button").textContent = "Unlocking…";
+          form.querySelector("button").disabled = true;
+        }
+        unlockAndRedirect(email);
+      });
+    }
 
-        <div class="tab-controls">
-          <div class="filter-row" id="resourceFilters"></div>
-          <div class="meta-row">
-            <span class="meta-label">Articles</span>
-            <span class="meta-value" id="resourceCount">—</span>
-            <span class="meta-sep">·</span>
-            <span class="meta-label">Source</span>
-            <span class="meta-value">evona.com/blog</span>
-          </div>
-        </div>
-
-        <div class="resources-grid" id="resourcesGrid"></div>
-
-        <div class="jobs-foot">
-          <a href="https://www.evona.com/blog/" target="_blank" rel="noopener">Read more on EVONA Insights ↗</a>
-        </div>
-      </section>
-    </main>
-  </div>
-
-  <script src="data.js"></script>
-  <script src="app.js"></script>
+    wireForm(
+      document.getElementById("signupForm"),
+      document.getElementById("formError"),
+      document.getElementById("formSuccess")
+    );
+    wireForm(document.getElementById("signupForm2"), null, null);
+  </script>
 </body>
 </html>

@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Space Intel by EVONA — Bloomberg for the Space Industry</title>
+  <meta name="description" content="Space Intel by EVONA — daily intelligence on space industry news, funding rounds, SBIR awards, public stocks, ETFs, and careers." />
+
+  <!-- Gate: redirect unauth'd visitors to landing page. Runs first
+       so nothing else loads if they're not signed up. -->
+  <script>
+    (function () {
+      try {
+        if (!localStorage.getItem("evona_unlocked")) {
+          location.replace("/");
+        }
+      } catch (e) {
+        location.replace("/");
+      }
+    })();
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&family=Michroma&family=Saira:wght@600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="/" title="Back to landing page">
+        <div class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 100 100" width="36" height="36">
+            <defs>
+              <linearGradient id="evonaG" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#3b8dff" />
+                <stop offset="100%" stop-color="#1f73ff" />
+              </linearGradient>
+            </defs>
+            <polygon points="50,16 78,32 78,68 50,84 22,68 22,34"
+                     fill="none" stroke="url(#evonaG)" stroke-width="9" stroke-linejoin="miter" />
+            <polygon points="22,34 4,12 26,28" fill="url(#evonaG)" />
+            <polygon points="78,68 96,90 74,72" fill="url(#evonaG)" />
+          </svg>
+        </div>
+        <div class="brand-text">
+          <div class="brand-title">EVONA</div>
+          <div class="brand-sub">Space Intel</div>
+        </div>
+      </a>
+
+      <nav class="nav" role="navigation">
+        <button class="nav-item active" data-tab="briefing">
+          <span class="nav-icon">★</span>
+          <span class="nav-label">The Briefing</span>
+        </button>
+        <div class="nav-section">Terminal</div>
+        <button class="nav-item" data-tab="news">
+          <span class="nav-icon">◉</span>
+          <span class="nav-label">News Feed</span>
+        </button>
+        <button class="nav-item" data-tab="funding">
+          <span class="nav-icon">$</span>
+          <span class="nav-label">Funding &amp; Investment</span>
+        </button>
+        <button class="nav-item" data-tab="sbir">
+          <span class="nav-icon">▣</span>
+          <span class="nav-label">SBIR Awards</span>
+        </button>
+        <button class="nav-item" data-tab="stocks">
+          <span class="nav-icon">▲</span>
+          <span class="nav-label">Space Stocks</span>
+        </button>
+        <button class="nav-item" data-tab="jobs">
+          <span class="nav-icon">◆</span>
+          <span class="nav-label">EVONA Jobs</span>
+        </button>
+        <button class="nav-item" data-tab="resources">
+          <span class="nav-icon">✱</span>
+          <span class="nav-label">Resources</span>
+        </button>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="status-row">
+          <span class="status-dot live"></span>
+          <span class="status-text">Markets live</span>
+        </div>
+        <div class="footer-meta" id="footerClock">—</div>
+        <a class="footer-link" href="https://www.evona.com" target="_blank" rel="noopener">evona.com ↗</a>
+        <div class="signed-in" id="signedIn">
+          <div class="signed-in-label">Signed in as</div>
+          <div class="signed-in-email" id="signedInEmail" title="">—</div>
+          <button class="signed-in-out" id="signoutBtn">Sign out</button>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main -->
+    <main class="main">
+      <!-- Top bar -->
+      <header class="topbar">
+        <button class="menu-toggle" id="menuToggle" aria-label="Open menu">☰</button>
+        <div class="topbar-title" id="topbarTitle">News Feed</div>
+        <div class="ticker-tape" id="tickerTape" aria-live="polite"></div>
+        <div class="topbar-refresh">
+          <span class="topbar-refresh-meta" id="topbarRefreshMeta">—</span>
+          <button class="refresh-btn" id="refreshBtn" title="Refresh live market data" aria-label="Refresh">⟳</button>
+        </div>
+      </header>
+
+      <!-- Tab: Briefing (default home) -->
+      <section class="tab briefing" id="tab-briefing" data-active="true">
+        <article class="briefing-hero">
+          <div class="briefing-eyebrow">
+            <span class="briefing-mark">★</span>
+            <span class="briefing-label">The Briefing</span>
+            <span class="briefing-issue" id="briefingIssue">No. 14</span>
+            <span class="briefing-date" id="briefingDate">May 4, 2026</span>
+          </div>
+          <h1 class="briefing-headline" id="briefingHeadline"></h1>
+          <p class="briefing-deck" id="briefingDeck"></p>
+        </article>
+
+        <div class="briefing-stats" id="briefingStats"></div>
+
+        <section class="briefing-section">
+          <h2 class="briefing-section-title">Three things that moved</h2>
+          <div class="briefing-stories" id="briefingStories"></div>
+        </section>
+
+        <section class="briefing-section briefing-tickers-section">
+          <h2 class="briefing-section-title">On the tape</h2>
+          <div class="briefing-tickers" id="briefingTickers"></div>
+        </section>
+
+        <section class="briefing-section">
+          <h2 class="briefing-section-title">What we're watching next</h2>
+          <div class="briefing-watchlist" id="briefingWatchlist"></div>
+        </section>
+
+        <section class="briefing-talent" id="briefingTalent"></section>
+
+        <footer class="briefing-foot">
+          <p class="briefing-foot-note" id="briefingFootnote">
+            Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →
+          </p>
+          <div class="briefing-foot-cta">
+            <button class="btn-orange" data-jump="news">Open News Feed</button>
+            <button class="btn-ghost" data-jump="funding">Funding</button>
+            <button class="btn-ghost" data-jump="sbir">SBIR</button>
+            <button class="btn-ghost" data-jump="stocks">Stocks</button>
+            <button class="btn-ghost" data-jump="jobs">Jobs</button>
+          </div>
+        </footer>
+      </section>
+
+      <!-- Tab: News -->
+      <section class="tab" id="tab-news">
+        <div class="tab-summary-slot" data-summary="news"></div>
+        <div class="digest" id="newsDigest"></div>
+
+        <div class="tab-controls">
+          <div class="filter-row" id="newsFilters"></div>
+          <div class="meta-row">
+            <span class="meta-label">Sources</span>
+            <span class="meta-value">13</span>
+            <span class="meta-sep">·</span>
+            <span class="meta-label">Articles</span>
+            <span class="meta-value" id="newsCount">—</span>
+          </div>
+        </div>
+
+        <div class="news-grid" id="newsGrid"></div>
+      </section>
+
+      <!-- Tab: Funding -->
+      <section class="tab" id="tab-funding">
+        <div class="tab-summary-slot" data-summary="funding"></div>
+        <!-- Rounds -->
+        <div class="subtab-pane active" id="sub-rounds">
+          <div class="summary-bar">
+            <div class="summary-cell">
+              <div class="summary-label">Capital Deployed</div>
+              <div class="summary-value" id="capDeployed">—</div>
+              <div class="summary-sub" id="capDeployedRange">—</div>
+            </div>
+            <div class="summary-cell">
+              <div class="summary-label">Deal Count</div>
+              <div class="summary-value" id="dealCount">—</div>
+              <div class="summary-sub">disclosed rounds</div>
+            </div>
+            <div class="summary-cell">
+              <div class="summary-label">Avg Deal Size</div>
+              <div class="summary-value" id="avgDeal">—</div>
+              <div class="summary-sub">excl. mega-rounds &gt;$500M</div>
+            </div>
+            <div class="summary-cell summary-chart-cell">
+              <div class="summary-label">Sector Mix</div>
+              <div class="sector-bar" id="sectorBar"></div>
+              <div class="sector-legend" id="sectorLegend"></div>
+            </div>
+          </div>
+
+          <div class="tab-controls">
+            <div class="filter-row" id="fundingRange">
+              <button class="chip active" data-range="7">Last 7 Days</button>
+              <button class="chip" data-range="30">Last 30 Days</button>
+              <button class="chip" data-range="ytd">Year to Date</button>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Updated</span>
+              <span class="meta-value">Mon 10:00 EDT</span>
+            </div>
+          </div>
+
+          <div class="rounds-list" id="roundsList"></div>
+        </div>
+      </section>
+
+      <!-- Tab: SBIR -->
+      <section class="tab" id="tab-sbir">
+        <div class="tab-summary-slot" data-summary="sbir"></div>
+        <div class="sbir-header">
+          <div class="sbir-topbar">
+            <div class="sbir-week" id="sbirWeek">Week of Apr 27 – May 3, 2026</div>
+            <div class="sbir-timeframe seg" id="sbirTimeframe" role="tablist">
+              <button class="seg-btn active" data-window="7"  role="tab">This Week</button>
+              <button class="seg-btn"        data-window="30" role="tab">Last Month</button>
+              <button class="seg-btn"        data-window="90" role="tab">Last 3 Months</button>
+            </div>
+          </div>
+          <div class="summary-bar two">
+            <div class="summary-cell">
+              <div class="summary-label">Total Awarded</div>
+              <div class="summary-value" id="sbirTotal">—</div>
+              <div class="summary-sub" id="sbirRangeLabel">Phase II, this week</div>
+            </div>
+            <div class="summary-cell">
+              <div class="summary-label">Award Count</div>
+              <div class="summary-value" id="sbirCount">—</div>
+              <div class="summary-sub" id="sbirAvg">—</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-controls">
+          <div class="filter-row" id="sbirFilters"></div>
+          <div class="meta-row">
+            <span class="meta-label">Sort</span>
+            <select class="select" id="sbirSort">
+              <option value="amount">Amount, high → low</option>
+              <option value="agency">Agency</option>
+              <option value="company">Company</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="sbir-list" id="sbirList"></div>
+      </section>
+
+      <!-- Tab: Stocks -->
+      <section class="tab" id="tab-stocks">
+        <div class="tab-summary-slot" data-summary="stocks"></div>
+        <!-- ETFs subsection -->
+        <div class="stocks-section">
+          <div class="stocks-section-head">
+            <h3 class="stocks-section-title">Space &amp; Defense ETFs</h3>
+            <div class="meta-row">
+              <span class="meta-label">Live</span>
+              <span class="status-dot live"></span>
+              <span class="meta-sep">·</span>
+              <span class="meta-label">Last</span>
+              <span class="meta-value" id="etfRefresh">—</span>
+              <button class="chip ghost" id="etfRefreshBtn">⟳ Refresh</button>
+            </div>
+          </div>
+          <div class="etf-grid" id="etfGrid"></div>
+          <p class="disclaimer">Not financial advice. For informational purposes only. Prices are delayed by 15 minutes per Yahoo Finance terms.</p>
+        </div>
+
+        <!-- Individual tickers subsection -->
+        <div class="stocks-section">
+          <div class="stocks-section-head">
+            <h3 class="stocks-section-title">Individual Tickers</h3>
+            <div class="meta-row">
+              <span class="meta-label">Last</span>
+              <span class="meta-value" id="stockRefresh">—</span>
+              <span class="meta-sep">·</span>
+              <span class="meta-label">Sort</span>
+              <select class="select" id="stockSort">
+                <option value="changePct">% change</option>
+                <option value="price">price</option>
+                <option value="name">name</option>
+              </select>
+            </div>
+          </div>
+          <div class="tab-controls" style="margin-top: 6px">
+            <div class="filter-row" id="stockFilters"></div>
+          </div>
+          <div class="stock-grid" id="stockGrid"></div>
+        </div>
+      </section>
+
+      <!-- Tab: Jobs -->
+      <section class="tab" id="tab-jobs">
+        <div class="tab-summary-slot" data-summary="jobs"></div>
+        <div class="jobs-header">
+          <div>
+            <h2 class="jobs-title">Careers in Space — Open Roles via EVONA</h2>
+            <p class="jobs-sub">Curated openings across launch, satellites, geospatial, downstream and infrastructure. Cached server-side, refreshed every 6 hours.</p>
+          </div>
+          <a class="btn-orange" href="https://www.evona.com/spacejobs/" target="_blank" rel="noopener">View all jobs →</a>
+        </div>
+
+        <div class="tab-controls">
+          <div class="filter-row" id="jobFilters"></div>
+          <div class="meta-row">
+            <span class="meta-label">Last updated</span>
+            <span class="meta-value" id="jobsUpdated">—</span>
+            <span class="meta-sep">·</span>
+            <span class="meta-label">Type</span>
+            <div class="seg" id="jobTypeSeg">
+              <button class="seg-btn active" data-type="all">All</button>
+              <button class="seg-btn" data-type="permanent">Permanent</button>
+              <button class="seg-btn" data-type="contract">Contract</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="jobs-grid" id="jobsGrid"></div>
+
+        <div class="jobs-foot">
+          <a href="https://www.evona.com/spacejobs/" target="_blank" rel="noopener">View all jobs at evona.com/spacejobs ↗</a>
+        </div>
+      </section>
+
+      <!-- Tab: Resources -->
+      <section class="tab" id="tab-resources">
+        <div class="tab-summary-slot" data-summary="resources"></div>
+        <div class="resources-hero">
+          <div>
+            <div class="resources-eyebrow">
+              <span>✱</span>
+              <span>Resource Library</span>
+            </div>
+            <h2 class="resources-title">Guidance, guides, and how-to from EVONA</h2>
+            <p class="resources-deck">Curated knowledge from <a href="https://www.evona.com/blog/" target="_blank" rel="noopener">evona.com/blog</a> — career advice, interview prep, CV/LinkedIn craft, industry explainers, and sector deep-dives. Sharp, sourced, and updated as new pieces drop.</p>
+          </div>
+          <a class="btn-orange" href="https://www.evona.com/blog/" target="_blank" rel="noopener">Visit EVONA Insights →</a>
+        </div>
+
+        <div class="tab-controls">
+          <div class="filter-row" id="resourceFilters"></div>
+          <div class="meta-row">
+            <span class="meta-label">Articles</span>
+            <span class="meta-value" id="resourceCount">—</span>
+            <span class="meta-sep">·</span>
+            <span class="meta-label">Source</span>
+            <span class="meta-value">evona.com/blog</span>
+          </div>
+        </div>
+
+        <div class="resources-grid" id="resourcesGrid"></div>
+
+        <div class="jobs-foot">
+          <a href="https://www.evona.com/blog/" target="_blank" rel="noopener">Read more on EVONA Insights ↗</a>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

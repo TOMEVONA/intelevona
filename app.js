@@ -96,6 +96,29 @@
   }
   tickClock(); setInterval(tickClock, 30000);
 
+  /* ---------- Signed-in display + sign-out ---------- */
+  (function () {
+    let signedEmail = null;
+    try { signedEmail = localStorage.getItem("evona_unlocked"); } catch (e) {}
+    if (signedEmail) {
+      const el = $("#signedInEmail");
+      if (el) {
+        el.textContent = signedEmail;
+        el.title = signedEmail;  // tooltip shows full email if truncated
+      }
+    }
+    const btn = $("#signoutBtn");
+    if (btn) {
+      btn.addEventListener("click", () => {
+        try {
+          localStorage.removeItem("evona_unlocked");
+          localStorage.removeItem("evona_unlocked_at");
+        } catch (e) {}
+        location.href = "/#stay";  // #stay prevents auto-redirect back to terminal
+      });
+    }
+  })();
+
   /* ===========================================================
      Tab 0 — Briefing (front door)
      =========================================================== */
