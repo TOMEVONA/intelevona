@@ -44,6 +44,7 @@ jobs:
 
       - name: Commit + push if changed
         run: |
+          set -e
           git config user.name  "spaceintel-bot"
           git config user.email "spaceintel-bot@users.noreply.github.com"
           if git diff --quiet -- data/news.json data/digest.json; then
@@ -52,4 +53,16 @@ jobs:
           fi
           git add data/news.json data/digest.json
           git commit -m "chore(news): daily refresh $(date -u +%Y-%m-%d)"
-          git push
+          # Retry on remote-moved conflict (someone else pushed during our run)
+          for i in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main || { echo "Rebase failed."; exit 1; }
+            if git push; then
+              echo "Pushed on attempt $i."
+              exit 0
+            fi
+            echo "Push attempt $i failed; remote moved. Retrying…"
+            sleep 4
+          done
+          echo "All push attempts exhausted."
+          exit 1
