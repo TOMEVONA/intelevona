@@ -25,7 +25,8 @@ const NEWS_PATH   = path.join(ROOT, "data", "news.json");
 const DIGEST_PATH = path.join(ROOT, "data", "digest.json");
 
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY || "";
-const MODEL             = process.env.MODEL || "claude-haiku-4-5-20251001";
+const GH_MODELS_TOKEN   = process.env.GH_MODELS_TOKEN || "";
+const MODEL             = process.env.MODEL || (ANTHROPIC_API_KEY ? "claude-haiku-4-5-20251001" : "openai/gpt-4o-mini");
 
 const parser = new XMLParser({
   ignoreAttributes: false,
@@ -169,7 +170,12 @@ async function fetchSource(src) {
   return null;
 }
 
-async function callClaude(prompt, maxTokens = 4096) {
+/* ---------- LLM helpers ---------------------------------------
+   Tries Anthropic first (best at editorial voice); falls back to
+   GitHub Models (free, OpenAI-compatible). callClaude is the unified
+   entry point — name kept for backwards compatibility.
+   ------------------------------------------------------------- */
+async function callAnthropic(prompt, maxTokens) {
   const res = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
     headers: {
@@ -183,12 +189,48 @@ async function callClaude(prompt, maxTokens = 4096) {
       messages:   [{ role: "user", content: prompt }]
     })
   });
-  if (!res.ok) {
-    const body = await res.text();
-    throw new Error(`Anthropic API ${res.status}: ${body.slice(0, 200)}`);
-  }
+  if (!res.ok) throw new Error(`Anthropic ${res.status}: ${(await res.text()).slice(0, 200)}`);
   const json = await res.json();
   return (json.content || []).find(c => c.type === "text")?.text || "";
+}
+
+async function callGitHubModels(prompt, maxTokens) {
+  // Try the modern endpoint first; fall back to legacy Azure-hosted.
+  const endpoints = [
+    "https://models.github.ai/inference/chat/completions",
+    "https://models.inference.ai.azure.com/chat/completions"
+  ];
+  let lastErr;
+  for (const url of endpoints) {
+    try {
+      const res = await fetch(url, {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${GH_MODELS_TOKEN}`,
+          "Content-Type":  "application/json"
+        },
+        body: JSON.stringify({
+          model:       MODEL,
+          messages:    [{ role: "user", content: prompt }],
+          max_tokens:  maxTokens,
+          temperature: 0.4
+        })
+      });
+      if (!res.ok) {
+        lastErr = new Error(`GitHub Models ${res.status} at ${url.replace(/^https?:\/\//, "")}: ${(await res.text()).slice(0, 200)}`);
+        continue;
+      }
+      const json = await res.json();
+      return (json.choices?.[0]?.message?.content || "").trim();
+    } catch (e) { lastErr = e; }
+  }
+  throw lastErr || new Error("GitHub Models: all endpoints failed");
+}
+
+async function callClaude(prompt, maxTokens = 4096) {
+  if (ANTHROPIC_API_KEY) return callAnthropic(prompt, maxTokens);
+  if (GH_MODELS_TOKEN)   return callGitHubModels(prompt, maxTokens);
+  return "";  // no LLM configured — caller falls back to RSS excerpt
 }
 
 async function rewriteWithClaude(articles) {
@@ -287,18 +329,19 @@ async function main() {
 
   console.log(`\nTotal articles: ${articles.length}`);
 
-  if (ANTHROPIC_API_KEY) {
-    console.log("Rewriting summaries with Claude…");
+  const provider = ANTHROPIC_API_KEY ? "Anthropic" : (GH_MODELS_TOKEN ? "GitHub Models" : null);
+  if (provider) {
+    console.log(`Rewriting summaries with ${provider} (model: ${MODEL})…`);
     articles = await rewriteWithClaude(articles);
 
-    console.log("Generating digest…");
+    console.log(`Generating digest with ${provider}…`);
     const digest = await generateDigest(articles);
     if (digest) {
       await fs.writeFile(DIGEST_PATH, JSON.stringify(digest, null, 2) + "\n");
       console.log(`Wrote ${DIGEST_PATH}`);
     }
   } else {
-    console.log("ANTHROPIC_API_KEY not set — skipping summary rewrite and digest generation");
+    console.log("No LLM configured (ANTHROPIC_API_KEY / GH_MODELS_TOKEN) — keeping RSS summaries");
   }
 
   const out = {
