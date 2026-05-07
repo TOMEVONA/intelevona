@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-07",
   "issue": "No. 16",
-  "headline": "Funding flows. Contracts prioritize speed. Talent shifts.",
-  "deck": "This week saw significant funding rounds and strategic hires, reflecting the evolving landscape of aerospace and defense.",
+  "headline": "Military budgets swell. Startups scramble. Space remains messy.",
+  "deck": "This week saw increased military funding alongside startup funding rounds, revealing the complex landscape of space economics.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "FUNDING",
-      "head": "Skyroot raises $60 million for launch ambitions",
-      "body": "Skyroot Aerospace has secured $60 million ahead of its inaugural orbital launch attempt, reflecting investor confidence in its capabilities. The funding will be pivotal as it gears up to compete in the increasingly crowded launch market, where every dollar counts as much as every launch. With this cash injection, Skyroot aims to solidify its position in the Indian space sector.",
-      "soWhat": "Investors are clearly betting on the next wave of launch providers, but the real question is whether Skyroot can deliver results or just more promises."
+      "kicker": "BUDGET",
+      "head": "FY27 budget adds $1.4B for space resilience",
+      "body": "The FY27 budget markup has allocated an additional $1.4 billion to space resilience, signaling a government preference for financial solutions over strategic ones. This funding could enhance capabilities in satellite communications and surveillance, but it also raises questions about the efficiency of spending in a sector often plagued by delays. If only bureaucratic hurdles could be addressed as quickly as cash flows.",
+      "soWhat": "When the government throws money at a problem, it often leads to more questions than answers—like whether any of this cash will actually result in timely deliveries."
     },
     {
-      "kicker": "CONTRACTING",
-      "head": "National security contracts favor speed over cost",
-      "body": "A recent shift in national security contracting priorities now emphasizes speed over price, a change that could reshape bidding strategies. This comes as the Pentagon seeks faster delivery of capabilities amid rising global tensions. Companies that can deliver quickly will likely see an uptick in contracts, while those focused solely on cost may find themselves sidelined.",
-      "soWhat": "This is a refreshing pivot for the defense sector, but it may lead to a new set of problems if rushed contracts result in subpar performance."
+      "kicker": "STARTUPS",
+      "head": "True Anomaly raises $190M, valuation hits $1.6B",
+      "body": "True Anomaly successfully closed a $190 million Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, tapping into the increasing demand for defense-related technologies. With the DoD's growing interest, True Anomaly is well-positioned to capitalize on government contracts, but it still faces the challenge of proving its technology in a competitive landscape.",
+      "soWhat": "A healthy valuation is great, but True Anomaly needs to deliver results, not just promises—especially when Uncle Sam is watching."
     },
     {
-      "kicker": "TECH",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly has successfully raised $190 million in its Series C round, achieving a valuation of $1.6 billion. This funding will enhance its capabilities in co-orbital security and space domain awareness, areas that are becoming increasingly critical for national defense. With the DoD's growing interest in satellite security, True Anomaly is well-positioned to capitalize on government contracts.",
-      "soWhat": "The funding reflects a broader trend where revenue generation is prioritized over mere technological advancement, a signal that the market is maturing."
+      "kicker": "COLLABORATION",
+      "head": "Anduril and L3Harris team up for SDA bid",
+      "body": "Anduril and L3Harris have joined forces for a tactical Space Development Agency constellation bid, showcasing a collaborative approach to defense contracts. This partnership reflects a broader trend in the industry, where companies are increasingly aligning to meet government needs. Given the stakes involved, this could either propel them to success or leave them tangled in red tape.",
+      "soWhat": "In defense contracting, playing nice is often more effective than going it alone—especially when the government’s attention is on your every move."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Anthropic's partnership with SpaceX",
-      "body": "If Anthropic adopts SpaceX's orbital data centers, it could redefine cloud computing in space, impacting traditional data centers."
+      "title": "Keep an eye on True Anomaly's execution",
+      "body": "With $190M in fresh capital, True Anomaly must now demonstrate its capabilities quickly to maintain investor confidence."
     },
     {
-      "title": "Watch for Starfighters' air-launch platform progress",
-      "body": "With Blue Origin veterans on board, Starfighters may accelerate its air-launch platform, potentially shaking up the small satellite launch market."
+      "title": "Odin Space's LA office impact",
+      "body": "Odin Space's move to Los Angeles could signal a shift in the orbital debris conversation—Hollywood might not be the only place for drama."
     },
     {
-      "title": "Palantir's TITAN extension may signal more defense contracts",
-      "body": "The $480M extension on the TITAN program could lead to further lucrative contracts in the defense sector, as Palantir expands its footprint."
+      "title": "Watch for Palantir's TITAN integration",
+      "body": "Palantir's $480M extension on the TITAN program will be closely monitored for its effectiveness in enhancing military capabilities."
     },
     {
-      "title": "Sierra Space's Dream Chaser variant could attract attention",
-      "body": "Clearing the critical design review is just the start; the real test will be whether it meets military needs effectively."
+      "title": "Anticipate more defense-tech IPOs",
+      "body": "With the defense-tech IPO window slightly ajar, expect more startups to consider going public, potentially reshaping the landscape."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as it struggles to find a path to profitability."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's extension on the TITAN program is boosting investor confidence in its defense sector capabilities."
+      "note": "Palantir's $480M TITAN extension has investors cautiously optimistic, but execution remains the true test."
     },
     {
-      "sym": "SKYT",
-      "note": "Skyroot's funding success may signal a new player in the competitive launch market."
+      "sym": "TRU",
+      "note": "True Anomaly's recent funding round boosts its profile, but results will determine if it can sustain this momentum."
     },
     {
-      "sym": "SFT",
-      "note": "Starfighters' hiring spree suggests it’s serious about its air-launch ambitions, but execution will be key."
+      "sym": "AND",
+      "note": "Anduril's partnership with L3Harris could strengthen its position in the defense sector, but competition is fierce."
+    },
+    {
+      "sym": "ASTS",
+      "note": "ASTS's bullish case rests on execution risk, which could either validate or invalidate its current valuation."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
