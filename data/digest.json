@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with new partnerships and funding rounds as companies scramble to enhance their capabilities. Meanwhile, budget allocations are on the rise, but not without their share of delays in hypersonic testing.",
+  "summary": "The space and defense sectors are buzzing with activity as companies pivot towards new technologies and partnerships. Funding rounds are closing, and the Pentagon is keen on integrating advanced capabilities, all while keeping an eye on the geopolitical chessboard.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Partnerships for LEO Expansion",
-      "body": "Eutelsat and Station Satcom's agreement to scale LEO services signals a growing interest in maritime connectivity. This move could set the stage for more collaborations as the demand for satellite services continues to rise."
+      "title": "Funding Fuels New Ventures",
+      "body": "Skyroot's recent $60 million raise signals investor confidence ahead of its orbital launch, while True Anomaly's $190 million Series C highlights the growing appetite for space startups. With the Defense-Tech IPO window slightly ajar, expect more capital to flow into innovative aerospace solutions."
     },
     {
       "icon": "◉",
-      "title": "Funding for Innovative Ventures",
-      "body": "China’s Nayuta Space has successfully raised fresh funding for its aerodynamic-recovery rocket, showcasing the ongoing investment in next-gen space technologies. Similarly, True Anomaly's $190M Series C indicates that investors are keen on companies that can deliver tangible advancements."
+      "title": "Military's Tech Transformation",
+      "body": "The Pentagon's budget markup adds $1.4 billion to space resilience, underscoring a commitment to modernize capabilities amidst evolving threats. As AI and satellite technologies advance, the military's reliance on these tools is becoming increasingly evident."
     },
     {
       "icon": "▲",
-      "title": "Budget Increases Amid Delays",
-      "body": "The FY27 budget markup adds $1.4B to space resilience, reflecting a strong commitment to bolstering national security in space. However, ongoing delays in hypersonic glide-vehicle tests highlight the challenges that still loom over ambitious defense projects."
+      "title": "Geopolitical Tensions Rise",
+      "body": "Russian co-orbital activities near commercial GEO slots raise alarms about space security, while GPS jamming in the Eastern Mediterranean returns to pre-2024 levels. The U.S.-Australian alliance is touted as a crucial countermeasure in securing space dominance."
     },
     {
       "icon": "◆",
-      "title": "A New Era for Defense-Tech",
-      "body": "The defense-tech IPO window is showing signs of life, with companies like Palantir securing substantial extensions on contracts. This resurgence may lead to a wave of new entrants in the market, eager to capitalize on the growing intersection of AI and defense."
+      "title": "Industry Talent Shifts",
+      "body": "Sierra Space's Dream Chaser variant clears a critical design review, bolstered by a team of Blue Origin veterans at Starfighters. As companies seek experienced talent to navigate the complexities of space operations, the battle for skilled professionals is heating up."
     }
   ],
-  "updated": "2026-05-06 19:32 UTC"
+  "updated": "2026-05-07 12:46 UTC"
 }

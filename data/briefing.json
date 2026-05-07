@@ -1,52 +1,82 @@
 {
-  "updated": "2026-05-06",
-  "issue": "No. 15",
-  "headline": "Compute moves to orbit. Maritime gets coverage. China ships.",
-  "deck": "Three quiet shifts this week — none of them launches, all of them re-rate part of the value chain.",
+  "updated": "2026-05-07",
+  "issue": "No. 16",
+  "headline": "Funding flows. Contracts prioritize speed. Talent shifts.",
+  "deck": "This week saw significant funding rounds and strategic hires, reflecting the evolving landscape of aerospace and defense.",
   "stats": [
-    { "label": "Capital deployed",      "value": "$2.7B",  "sub": "rolling 7 days · 8 rounds",     "trend": "up"   },
-    { "label": "Biggest cheque",        "value": "$1.5B",  "sub": "Anduril, pre-IPO",              "trend": "flat" },
-    { "label": "SBIR Phase II",         "value": "$27M",   "sub": "this week · 12-mo high",        "trend": "up"   },
-    { "label": "News tracked",          "value": "65",     "sub": "across 13 sources",             "trend": "flat" },
-    { "label": "Defense primes",        "value": "+",      "sub": "still outpacing pure-plays",    "trend": "up"   },
-    { "label": "Resumes in motion",     "value": "+38%",   "sub": "WoW, primes → Series B/C",      "trend": "up"   }
+    {
+      "label": "Capital deployed",
+      "value": "$810M",
+      "sub": "rolling 7 days · 4 rounds",
+      "trend": "up"
+    },
+    {
+      "label": "Biggest cheque",
+      "value": "$260M",
+      "sub": "Stoke Space, this week",
+      "trend": "flat"
+    },
+    {
+      "label": "SBIR Phase II",
+      "value": "$15M",
+      "sub": "this week · 9 winners",
+      "trend": "up"
+    },
+    {
+      "label": "News tracked",
+      "value": "65",
+      "sub": "across 13 sources",
+      "trend": "flat"
+    },
+    {
+      "label": "Defense primes",
+      "value": "+",
+      "sub": "still outpacing pure-plays",
+      "trend": "up"
+    },
+    {
+      "label": "Resumes in motion",
+      "value": "+38%",
+      "sub": "WoW, primes → Series B/C",
+      "trend": "up"
+    }
   ],
   "stories": [
     {
-      "kicker": "Compute",
-      "head": "The constellation cohort just discovered orbital data centres",
-      "body": "Pixxel announced a pathfinder testing orbital data centre tech for geospatial intelligence. Space42 reported its systems saved 660+ lives across 25 distress events in 2025. SpaceNews ran a feature on 'riding the orbital data centre wave.' All in the same news window. The pitch is no longer 'we make satellites' — it's 'we provide compute, and the satellite happens to be the form factor.'",
-      "soWhat": "Compute is the next 'where is the value' question for the LEO cohort. Vertical integration, not just operational efficiency."
+      "kicker": "FUNDING",
+      "head": "Skyroot raises $60 million for launch ambitions",
+      "body": "Skyroot Aerospace has secured $60 million ahead of its inaugural orbital launch attempt, reflecting investor confidence in its capabilities. The funding will be pivotal as it gears up to compete in the increasingly crowded launch market, where every dollar counts as much as every launch. With this cash injection, Skyroot aims to solidify its position in the Indian space sector.",
+      "soWhat": "Investors are clearly betting on the next wave of launch providers, but the real question is whether Skyroot can deliver results or just more promises."
     },
     {
-      "kicker": "Connectivity",
-      "head": "Direct-to-smartphone is bleeding into maritime",
-      "body": "Eutelsat and Station Satcom signed a multi-year deal to scale OneWeb LEO services across Indian maritime fleets. SpaceNews ran a piece on hybrid constellations bringing imagery and comms 'under one roof.' Together they signal that the line between space and terrestrial connectivity is blurring in places — like blue-water shipping — that used to be VSAT-only.",
-      "soWhat": "Maritime SATCOM operators are about to get a re-rate, in either direction. Watch the contract churn."
+      "kicker": "CONTRACTING",
+      "head": "National security contracts favor speed over cost",
+      "body": "A recent shift in national security contracting priorities now emphasizes speed over price, a change that could reshape bidding strategies. This comes as the Pentagon seeks faster delivery of capabilities amid rising global tensions. Companies that can deliver quickly will likely see an uptick in contracts, while those focused solely on cost may find themselves sidelined.",
+      "soWhat": "This is a refreshing pivot for the defense sector, but it may lead to a new set of problems if rushed contracts result in subpar performance."
     },
     {
-      "kicker": "Sovereignty",
-      "head": "China's commercial launch cohort keeps printing",
-      "body": "Nayuta Space closed consecutive Pre-A rounds for an unconventional aerodynamic-recovery rocket. DARPA Director Stephen Winchell separately said the agency must 'harness the commercial space boom' and is exploring cislunar navigation. The Western and Chinese commercial-launch ecosystems are widening their gap, but only one side talks about it openly.",
-      "soWhat": "The next launch decade will not be a one-bloc story. Investment frameworks built on that assumption need to update."
+      "kicker": "TECH",
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly has successfully raised $190 million in its Series C round, achieving a valuation of $1.6 billion. This funding will enhance its capabilities in co-orbital security and space domain awareness, areas that are becoming increasingly critical for national defense. With the DoD's growing interest in satellite security, True Anomaly is well-positioned to capitalize on government contracts.",
+      "soWhat": "The funding reflects a broader trend where revenue generation is prioritized over mere technological advancement, a signal that the market is maturing."
     }
   ],
   "watchlist": [
     {
-      "title": "Anduril's IPO timing",
-      "body": "Defense-tech window still depends on a single-company print. The next 90 days remain the question."
+      "title": "Keep an eye on Anthropic's partnership with SpaceX",
+      "body": "If Anthropic adopts SpaceX's orbital data centers, it could redefine cloud computing in space, impacting traditional data centers."
     },
     {
-      "title": "Orbital data centre RFI activity",
-      "body": "When the first government RFI lands, the cohort already shipping pathfinders takes the lead. Watch for it."
+      "title": "Watch for Starfighters' air-launch platform progress",
+      "body": "With Blue Origin veterans on board, Starfighters may accelerate its air-launch platform, potentially shaking up the small satellite launch market."
     },
     {
-      "title": "Maritime SATCOM contract churn",
-      "body": "Eutelsat–Station Satcom is the first signed regional deal of its kind this quarter. Watch which fleet operator signs next."
+      "title": "Palantir's TITAN extension may signal more defense contracts",
+      "body": "The $480M extension on the TITAN program could lead to further lucrative contracts in the defense sector, as Palantir expands its footprint."
     },
     {
-      "title": "ASTS execution risk",
-      "body": "Bull case is hard to argue against on technology — execution remains the entire question."
+      "title": "Sierra Space's Dream Chaser variant could attract attention",
+      "body": "Clearing the critical design review is just the start; the real test will be whether it meets military needs effectively."
     }
   ],
   "talent": {
@@ -58,10 +88,22 @@
     "ctaHref": "#jobs"
   },
   "tickers": [
-    { "sym": "RKLB",       "note": "Neutron 12-second hot-fire still the headline. Beck still says first flight 'this year.'" },
-    { "sym": "ASTS",       "note": "Flight rate is now the deliverable, not the question." },
-    { "sym": "LMT/NOC/BA", "note": "Primes still outpacing pure-plays as space-resilient lines firm up." },
-    { "sym": "PL/BKSY",    "note": "EO operators get re-rated if the orbital-data-centre thesis sticks. Watch the geospatial cohort." }
+    {
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains under pressure as it struggles to find a path to profitability."
+    },
+    {
+      "sym": "PLTR",
+      "note": "Palantir's extension on the TITAN program is boosting investor confidence in its defense sector capabilities."
+    },
+    {
+      "sym": "SKYT",
+      "note": "Skyroot's funding success may signal a new player in the competitive launch market."
+    },
+    {
+      "sym": "SFT",
+      "note": "Starfighters' hiring spree suggests it’s serious about its air-launch ambitions, but execution will be key."
+    }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
 }
