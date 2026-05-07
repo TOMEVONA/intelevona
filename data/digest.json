@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is navigating a complex landscape as military interests clash with bureaucratic hurdles, while private firms continue to chase scalability and innovation. Meanwhile, funding for space resilience is on the rise, hinting at a growing recognition of the strategic importance of space.",
+  "summary": "The space and defense sectors are experiencing a mix of growth and bureaucratic headwinds. As companies pivot towards new opportunities, the military's appetite for innovation faces challenges from regulatory frameworks.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Military and Bureaucratic Tensions",
-      "body": "The military space boom is facing friction in the Beltway, highlighting the challenges of aligning strategic goals with legislative processes. As defense budgets swell, the tug-of-war between innovation and regulation becomes increasingly evident."
+      "title": "NASA's Moon Base Ventures",
+      "body": "Redwire is eyeing landers and power systems to support NASA's lunar ambitions. This move underscores the increasing commercial interest in lunar infrastructure as the agency ramps up its Artemis program."
     },
     {
       "icon": "◉",
-      "title": "Funding and Scalability in Space",
-      "body": "With the FY27 budget markup adding $1.4B to space resilience, investors are keenly watching how companies like Terran Orbital navigate scalability. The influx of capital could either fuel rapid growth or exacerbate existing inefficiencies."
+      "title": "Military Space Dynamics",
+      "body": "The anticipated military space boom is encountering friction within the Beltway, highlighting the complexities of defense procurement. As budgets increase, so do the challenges of aligning innovation with governmental processes."
     },
     {
       "icon": "▲",
-      "title": "New Partnerships and Initiatives",
-      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, reflecting a trend of collaboration in an increasingly competitive landscape. These partnerships may prove crucial as companies seek to leverage shared expertise and resources."
+      "title": "Funding and Investments Surge",
+      "body": "Palantir's $480M extension and True Anomaly's $190M Series C reflect a robust funding environment for space-tech ventures. This trend indicates a growing confidence in the commercial viability of space applications."
     },
     {
       "icon": "◆",
-      "title": "Emerging Technologies and Trends",
-      "body": "The recent surge in AI-focused defense startups signals a shift in technological priorities within the sector. As firms like Anthropic consider utilizing SpaceX's orbital data center, the intersection of AI and space capabilities is set to redefine operational paradigms."
+      "title": "AI's Role in Defense",
+      "body": "The integration of AI into defense strategies is gaining momentum, as evidenced by the DAF's AI workforce plan. This shift suggests a recognition that advanced technologies will be crucial in maintaining competitive advantages in space."
     }
   ],
-  "updated": "2026-05-07 18:17 UTC"
+  "updated": "2026-05-07 19:20 UTC"
 }

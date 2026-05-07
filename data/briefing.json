@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-07",
   "issue": "No. 16",
-  "headline": "Military budgets swell. Startups scramble. Space remains messy.",
-  "deck": "This week saw increased military funding alongside startup funding rounds, revealing the complex landscape of space economics.",
+  "headline": "Funding flows. Space bureaucracy lingers. Debris cleanup begins.",
+  "deck": "This week highlights funding trends and bureaucratic hurdles in military space.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "BUDGET",
-      "head": "FY27 budget adds $1.4B for space resilience",
-      "body": "The FY27 budget markup has allocated an additional $1.4 billion to space resilience, signaling a government preference for financial solutions over strategic ones. This funding could enhance capabilities in satellite communications and surveillance, but it also raises questions about the efficiency of spending in a sector often plagued by delays. If only bureaucratic hurdles could be addressed as quickly as cash flows.",
-      "soWhat": "When the government throws money at a problem, it often leads to more questions than answers—like whether any of this cash will actually result in timely deliveries."
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured $190M in a Series C round to enhance its co-orbital security capabilities, a timely boost as the DoD increasingly emphasizes space domain awareness. The company’s valuation now sits at $1.6B, proving that in this market, revenue trumps mere ambition. With the DoD's increasing focus on space, True Anomaly is well-positioned to capitalize on upcoming contracts.",
+      "soWhat": "The military's appetite for space security is growing, and True Anomaly's funding suggests they might be the new go-to for co-orbital solutions."
     },
     {
-      "kicker": "STARTUPS",
-      "head": "True Anomaly raises $190M, valuation hits $1.6B",
-      "body": "True Anomaly successfully closed a $190 million Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, tapping into the increasing demand for defense-related technologies. With the DoD's growing interest, True Anomaly is well-positioned to capitalize on government contracts, but it still faces the challenge of proving its technology in a competitive landscape.",
-      "soWhat": "A healthy valuation is great, but True Anomaly needs to deliver results, not just promises—especially when Uncle Sam is watching."
+      "kicker": "BUREAUCRACY",
+      "head": "Military space ambitions face bureaucratic hurdles",
+      "body": "Despite a booming military space sector, bureaucratic delays are hindering progress, as highlighted by recent discussions in Washington. The FY27 budget has earmarked an additional $1.4B for space resilience, yet the path from funding to deployment is still fraught with red tape. This friction could slow down critical advancements in national security capabilities, as agencies scramble to align their priorities.",
+      "soWhat": "When money meets bureaucracy, the real question is whether the military can turn cash into capability without getting stuck in meetings."
     },
     {
-      "kicker": "COLLABORATION",
-      "head": "Anduril and L3Harris team up for SDA bid",
-      "body": "Anduril and L3Harris have joined forces for a tactical Space Development Agency constellation bid, showcasing a collaborative approach to defense contracts. This partnership reflects a broader trend in the industry, where companies are increasingly aligning to meet government needs. Given the stakes involved, this could either propel them to success or leave them tangled in red tape.",
-      "soWhat": "In defense contracting, playing nice is often more effective than going it alone—especially when the government’s attention is on your every move."
+      "kicker": "CLEANUP",
+      "head": "Odin Space opens LA office for debris cleanup",
+      "body": "Odin Space has opened a new office in Los Angeles, targeting the growing problem of sub-centimeter orbital debris. As the space economy expands, so does the need for effective debris management, and Odin aims to position itself as a leader in this niche. The move comes as various stakeholders recognize that cleaning up space is as critical as launching new assets.",
+      "soWhat": "With debris becoming a pressing issue, Odin's focus on cleanup might just make them the unsung heroes of the next space race."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on True Anomaly's execution",
-      "body": "With $190M in fresh capital, True Anomaly must now demonstrate its capabilities quickly to maintain investor confidence."
+      "title": "Watch for more military funding shifts",
+      "body": "As the FY27 budget discussions continue, expect more funding adjustments impacting space resilience and security initiatives."
     },
     {
-      "title": "Odin Space's LA office impact",
-      "body": "Odin Space's move to Los Angeles could signal a shift in the orbital debris conversation—Hollywood might not be the only place for drama."
+      "title": "Keep an eye on True Anomaly contracts",
+      "body": "With their recent funding, True Anomaly is poised to win significant contracts in the co-orbital space domain awareness sector."
     },
     {
-      "title": "Watch for Palantir's TITAN integration",
-      "body": "Palantir's $480M extension on the TITAN program will be closely monitored for its effectiveness in enhancing military capabilities."
+      "title": "Odin Space's LA office developments",
+      "body": "Monitor Odin Space's progress in debris cleanup as they ramp up operations in Los Angeles."
     },
     {
-      "title": "Anticipate more defense-tech IPOs",
-      "body": "With the defense-tech IPO window slightly ajar, expect more startups to consider going public, potentially reshaping the landscape."
+      "title": "Potential delays in hypersonic tests",
+      "body": "The ongoing delays in hypersonic glide-vehicle tests could signal deeper issues in defense technology development."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension has investors cautiously optimistic, but execution remains the true test."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains under pressure as it struggles to find a stable revenue model post-flight."
     },
     {
-      "sym": "TRU",
-      "note": "True Anomaly's recent funding round boosts its profile, but results will determine if it can sustain this momentum."
+      "sym": "PLTR",
+      "note": "Palantir's $480M extension on the TITAN program keeps investors calm, but the software firm still faces execution risks."
+    },
+    {
+      "sym": "SLS",
+      "note": "Sierra Space's Dream Chaser variant passed its critical design review, but execution remains the real test."
     },
     {
       "sym": "AND",
-      "note": "Anduril's partnership with L3Harris could strengthen its position in the defense sector, but competition is fierce."
-    },
-    {
-      "sym": "ASTS",
-      "note": "ASTS's bullish case rests on execution risk, which could either validate or invalidate its current valuation."
+      "note": "Anduril's partnership with L3Harris on SDA constellation bids may be the key to future defense contracts."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
