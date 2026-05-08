@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-07",
-  "issue": "No. 16",
-  "headline": "Funding flows. Space bureaucracy lingers. Debris cleanup begins.",
-  "deck": "This week highlights funding trends and bureaucratic hurdles in military space.",
+  "updated": "2026-05-08",
+  "issue": "No. 17",
+  "headline": "Funding flows. Contracts expand. Diplomacy signs.",
+  "deck": "This week, space firms are diversifying their portfolios while governments are signing treaties like it's 1999.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -18,8 +18,8 @@
     },
     {
       "label": "SBIR Phase II",
-      "value": "$15M",
-      "sub": "this week · 9 winners",
+      "value": "$12M",
+      "sub": "this week · 7 winners",
       "trend": "up"
     },
     {
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190M in a Series C round to enhance its co-orbital security capabilities, a timely boost as the DoD increasingly emphasizes space domain awareness. The company’s valuation now sits at $1.6B, proving that in this market, revenue trumps mere ambition. With the DoD's increasing focus on space, True Anomaly is well-positioned to capitalize on upcoming contracts.",
-      "soWhat": "The military's appetite for space security is growing, and True Anomaly's funding suggests they might be the new go-to for co-orbital solutions."
+      "head": "True Anomaly raises $190M, eyes co-orbital security",
+      "body": "True Anomaly secured $190 million in a Series C funding round, valuing the company at $1.6 billion. This capital will bolster its capabilities in co-orbital security and space domain awareness, areas that are becoming increasingly critical for national defense. With the DoD's growing interest, this funding could be a game-changer for their operational reach.",
+      "soWhat": "When the government starts pulling through, it's like finding a $20 bill in your winter coat—unexpected but very welcome."
     },
     {
-      "kicker": "BUREAUCRACY",
-      "head": "Military space ambitions face bureaucratic hurdles",
-      "body": "Despite a booming military space sector, bureaucratic delays are hindering progress, as highlighted by recent discussions in Washington. The FY27 budget has earmarked an additional $1.4B for space resilience, yet the path from funding to deployment is still fraught with red tape. This friction could slow down critical advancements in national security capabilities, as agencies scramble to align their priorities.",
-      "soWhat": "When money meets bureaucracy, the real question is whether the military can turn cash into capability without getting stuck in meetings."
+      "kicker": "CONTRACTS",
+      "head": "Rocket Lab scores big with launch contract",
+      "body": "Rocket Lab announced its largest launch contract to date, though the exact dollar amount remains undisclosed. This comes as the company also looks to acquire a space robotics firm, indicating a strategy to broaden its service offerings beyond just launches. The dual focus on launches and robotics suggests Rocket Lab is positioning itself for a more integrated role in space operations.",
+      "soWhat": "If Rocket Lab can pull off both, they'll be the Swiss Army knife of small satellite launches, which is a pretty nifty tool to have."
     },
     {
-      "kicker": "CLEANUP",
-      "head": "Odin Space opens LA office for debris cleanup",
-      "body": "Odin Space has opened a new office in Los Angeles, targeting the growing problem of sub-centimeter orbital debris. As the space economy expands, so does the need for effective debris management, and Odin aims to position itself as a leader in this niche. The move comes as various stakeholders recognize that cleaning up space is as critical as launching new assets.",
-      "soWhat": "With debris becoming a pressing issue, Odin's focus on cleanup might just make them the unsung heroes of the next space race."
+      "kicker": "DIPLOMACY",
+      "head": "Paraguay joins Artemis Accords, diplomacy heats up",
+      "body": "Paraguay recently signed the Artemis Accords, becoming the sixth country to do so. This move illustrates a growing trend where nations are aligning themselves with U.S. space policy, which could influence future international collaborations and competition. With space treaties becoming the new diplomatic currency, expect more countries to follow suit.",
+      "soWhat": "When signing treaties becomes the new cool, you know the space race is less about rockets and more about alliances."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for more military funding shifts",
-      "body": "As the FY27 budget discussions continue, expect more funding adjustments impacting space resilience and security initiatives."
+      "title": "Keep an eye on Rocket Lab's acquisition",
+      "body": "The outcome of Rocket Lab's potential acquisition could redefine its market position and service capabilities."
     },
     {
-      "title": "Keep an eye on True Anomaly contracts",
-      "body": "With their recent funding, True Anomaly is poised to win significant contracts in the co-orbital space domain awareness sector."
+      "title": "Sierra Space's Dream Chaser moves forward",
+      "body": "With the critical design review passed, all eyes will be on whether Sierra Space can deliver on its promises."
     },
     {
-      "title": "Odin Space's LA office developments",
-      "body": "Monitor Odin Space's progress in debris cleanup as they ramp up operations in Los Angeles."
+      "title": "Palantir's TITAN extension implications",
+      "body": "The $480 million extension on the TITAN program could set the stage for future contracts and influence investor sentiment."
     },
     {
-      "title": "Potential delays in hypersonic tests",
-      "body": "The ongoing delays in hypersonic glide-vehicle tests could signal deeper issues in defense technology development."
+      "title": "Watch for more countries signing treaties",
+      "body": "As more nations join the Artemis Accords, we could see shifts in international space collaboration and competition."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as it struggles to find a stable revenue model post-flight."
+      "sym": "RKLB",
+      "note": "Rocket Lab's stock may react positively to its largest launch contract announcement."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program keeps investors calm, but the software firm still faces execution risks."
+      "note": "Palantir's $480M TITAN extension indicates strong government ties, which could stabilize its stock."
     },
     {
-      "sym": "SLS",
-      "note": "Sierra Space's Dream Chaser variant passed its critical design review, but execution remains the real test."
+      "sym": "ANET",
+      "note": "True Anomaly's Series C funding may boost interest in defense tech, impacting related stocks."
     },
     {
-      "sym": "AND",
-      "note": "Anduril's partnership with L3Harris on SDA constellation bids may be the key to future defense contracts."
+      "sym": "ASTS",
+      "note": "Astranis secured $250M for microGEO production, which could enhance its market position."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

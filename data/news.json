@@ -1,87 +1,87 @@
 {
-  "updated": "2026-05-07T19:20:50.091Z",
+  "updated": "2026-05-08T17:02:30.633Z",
   "articles": [
     {
       "sourceId": "spacenews",
-      "title": "Redwire pursues opportunities in landers and power systems for NASA’s moon base plans",
-      "summary": "Redwire is eyeing lunar landers to support NASA's moon base ambitions, proving that even in space, everyone wants a piece of the lunar pie.",
-      "date": "2026-05-07",
-      "link": "https://spacenews.com/redwire-pursues-opportunities-in-landers-and-power-systems-for-nasas-moon-base-plans/"
+      "title": "Paraguay signs the Artemis Accords",
+      "summary": "Paraguay signed the Artemis Accords, becoming the sixth country to do so in a recent flurry of diplomatic activity, proving that space treaties are the new hot trend in international relations.",
+      "date": "2026-05-08",
+      "link": "https://spacenews.com/paraguay-signs-the-artemis-accords/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Military space boom meets Beltway friction",
-      "summary": "The military space sector is ready to move fast, but bureaucratic hurdles might just be the ultimate speed bump.",
-      "date": "2026-05-07",
-      "link": "https://spacenews.com/military-space-boom-meets-beltway-friction/"
+      "title": "Rocket Lab announces large launch contract and plans to acquire space robotics company",
+      "summary": "Rocket Lab announced its largest launch contract to date while eyeing a space robotics acquisition, suggesting that the company is diversifying its portfolio faster than you can say 'launch pad'.",
+      "date": "2026-05-08",
+      "link": "https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/"
     },
     {
       "sourceId": "spacenews",
-      "title": "CEO Series: Terran Orbital’s Peter Krauss on understanding scalability in space",
-      "summary": "Terran Orbital's CEO discusses scalability in space, suggesting that understanding culture is just as important as understanding gravity.",
-      "date": "2026-05-07",
-      "link": "https://spacenews.com/ceo-series-terran-orbitals-peter-krauss-on-understanding-scalability-in-space/"
+      "title": "SatVu zooms in on energy facilities in Cuba, India and Australia",
+      "summary": "SatVu released thermal imagery of energy facilities in Cuba, India, and Australia, reminding us that while satellites can see everything, they still can’t solve geopolitical tensions.",
+      "date": "2026-05-08",
+      "link": "https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Odin Space opens U.S. office in Los Angeles",
-      "summary": "Odin Space is setting up shop in Los Angeles to tackle sub-centimeter orbital debris, because someone has to clean up the cosmic clutter.",
-      "date": "2026-05-07",
-      "link": "https://spacenews.com/odin-space-opens-u-s-office-in-los-angeles/"
+      "title": "Lunar Outpost raises $30 million",
+      "summary": "Lunar Outpost raised $30 million to redesign lunar rovers for NASA's Artemis architecture, which is essentially a fancy way of saying they need to make their moon buggies more NASA-friendly.",
+      "date": "2026-05-08",
+      "link": "https://spacenews.com/lunar-outpost-raises-30-million/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Roadmap for a space-to-space economy",
-      "summary": "While launches steal the spotlight, it's the satellites quietly orbiting that truly fuel the space economy—talk about a classic case of overlooked labor.",
+      "title": "Rocket Lab joins Raytheon on space interceptor program for Golden Dome",
+      "summary": "Rocket Lab is collaborating with Raytheon on a space interceptor program while also securing a contract for hypersonic test flights, proving that multitasking is key in the space race.",
       "date": "2026-05-07",
-      "link": "https://spacenews.com/roadmap-for-a-space-to-space-economy/"
+      "link": "https://spacenews.com/rocket-lab-joins-raytheon-on-space-interceptor-program-for-golden-dome/"
     },
     {
       "sourceId": "tectonic",
       "title": "Anduril and L3Harris team on tactical SDA constellation bid",
-      "summary": "Anduril and L3Harris are teaming up on a tactical SDA constellation bid, reinforcing the idea that collaboration is often the best defense strategy.",
+      "summary": "Anduril and L3Harris are teaming up on a tactical SDA constellation bid, highlighting that in defense, synergy is often more valuable than solo acts.",
       "date": "2026-05-04",
       "link": "https://tectonicdefense.com/anduril-l3harris-sda/"
     },
     {
       "sourceId": "tectonic",
       "title": "FY27 budget markup adds $1.4B to space resilience line",
-      "summary": "The FY27 budget has added $1.4B for space resilience, indicating that the government prefers cash over clever solutions when faced with uncertainty.",
+      "summary": "The FY27 budget markup added $1.4B for space resilience, indicating that when it comes to uncertainty, the government prefers a financial cushion over innovative thinking.",
       "date": "2026-05-03",
       "link": "https://tectonicdefense.com/fy27-markup-space/"
     },
     {
       "sourceId": "tectonic",
       "title": "Hypersonic glide-vehicle test slips again — third quarter in a row",
-      "summary": "The hypersonic glide-vehicle test has been delayed for the third quarter in a row, leading many to wonder if they’re testing the concept of 'hypersonic' or just 'hypothetical'.",
+      "summary": "The hypersonic glide-vehicle test has been delayed for the third consecutive quarter, leading to speculation about whether the program is more about testing timelines than actual technology.",
       "date": "2026-05-02",
       "link": "https://tectonicdefense.com/hgv-slip-q3/"
     },
     {
       "sourceId": "tectonic",
       "title": "Sierra Space's Dream Chaser DoD variant clears critical design review",
-      "summary": "Sierra Space's Dream Chaser DoD variant has passed its critical design review, but delivering on promises is the real test.",
+      "summary": "Sierra Space's Dream Chaser DoD variant passed its critical design review, but the real challenge will be sticking the landing on its promises.",
       "date": "2026-05-01",
       "link": "https://tectonicdefense.com/dream-chaser-cdr/"
     },
     {
       "sourceId": "tectonic",
       "title": "Palantir wins $480M extension on TITAN ground station program",
-      "summary": "Palantir's $480M extension on the TITAN ground station program has investors feeling calm—until the next software hiccup shakes their confidence.",
+      "summary": "Palantir secured a $480M extension on the TITAN ground station program, leaving investors feeling secure—at least until the next software glitch throws a wrench in the works.",
       "date": "2026-04-29",
       "link": "https://tectonicdefense.com/palantir-titan-extension/"
     },
     {
       "sourceId": "piratewires",
       "title": "The Defense-Tech IPO Window Is Cracking Open",
-      "summary": "The defense-tech IPO window is creaking open with two new filings, leaving everyone wondering if Anduril has the right key to unlock it.",
+      "summary": "The defense-tech IPO window is creaking open with two new filings, prompting speculation about whether Anduril has the right key to make it all the way through.",
       "date": "2026-05-04",
       "link": "https://piratewires.com/defense-ipo-window/"
     },
     {
       "sourceId": "piratewires",
       "title": "Why every YC company is suddenly 'AI for Defense'",
-      "summary": "YC startups are jumping on the 'AI for Defense' bandwagon, proving that catchy phrases often eclipse genuine innovation in the startup world.",
+      "summary": "YC startups are suddenly all about 'AI for Defense', proving that buzzwords can sometimes overshadow actual innovation in the startup ecosystem.",
       "date": "2026-05-03",
       "link": "https://piratewires.com/yc-defense/"
     },
@@ -172,184 +172,184 @@
     {
       "sourceId": "tbpn",
       "title": "The TBPN deep-tech survey: 1,200 founders weigh in",
-      "summary": "A deep-tech survey shows half of founders now identify as 'defense or dual-use', up from 17% two years ago, suggesting tech entrepreneurs are increasingly eyeing military contracts like kids at a candy store.",
+      "summary": "A survey reveals that half of deep-tech founders now see themselves as 'defense or dual-use', a jump from 17% two years ago, indicating a sweet tooth for military contracts among tech entrepreneurs.",
       "date": "2026-04-29",
       "link": "https://tbpn.com/deeptech-survey-26/"
     },
     {
       "sourceId": "ussf",
       "title": "New deep space radar capability employed early",
-      "summary": "The US, Australia, and UK have rolled out a new deep space radar capability, proving that even in space, geography and partnerships still matter—who knew interstellar alliances could be so strategic?",
+      "summary": "The US, Australia, and UK have kicked off a new deep space radar capability, proving that international partnerships can be as crucial as the technology itself.",
       "date": "2026-05-04",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4476937/new-deep-space-radar-capability-employed-early/"
     },
     {
       "sourceId": "ussf",
       "title": "Securing the high ground: US-Australian alliance a decisive advantage in space",
-      "summary": "Lt. Gen. Gregory Gagnon bluntly stated that space is now a warfighting domain during his visit to Australia, confirming that the final frontier is no longer just for science fiction.",
+      "summary": "Lt. Gen. Gregory Gagnon warned in Australia that space is now a warfighting domain, which is a fancy way of saying that the final frontier is no longer just for astronauts.",
       "date": "2026-05-01",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4475859/securing-the-high-ground-us-australian-alliance-a-decisive-advantage-in-space/"
     },
     {
       "sourceId": "ussf",
       "title": "Lt. Gen. Douglas A. Schiess nominated to be next US Space Force Chief of Space Operations",
-      "summary": "Lt. Gen. Douglas A. Schiess has been nominated to be the next Chief of Space Operations for the Space Force, marking yet another chapter in the ongoing saga of military space leadership.",
+      "summary": "Lt. Gen. Douglas A. Schiess has been nominated to be the next Chief of Space Operations for the Space Force, which is a title that sounds more like a sci-fi movie than a military role.",
       "date": "2026-05-01",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4475197/lt-gen-douglas-a-schiess-nominated-to-be-next-us-space-force-chief-of-space-ope/"
     },
     {
       "sourceId": "ussf",
       "title": "DAF launches plan to bolster AI workforce",
-      "summary": "The DAF has launched a plan to bolster its AI workforce, proving that even the military knows the future is about algorithms, not just artillery.",
+      "summary": "The DAF has launched a plan to enhance its AI workforce, because in the race for technological superiority, it seems that hiring smart people is still a winning strategy.",
       "date": "2026-04-28",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4472659/daf-launches-plan-to-bolster-ai-workforce/"
     },
     {
       "sourceId": "ussf",
       "title": "Historic Cape Canaveral Space Force Station Skid Strip renovated for modern space mission needs",
-      "summary": "Cape Canaveral's Skid Strip has undergone a major renovation to meet modern space mission needs, transforming from a relic of the past into a runway fit for military heavyweights.",
+      "summary": "Cape Canaveral Space Force Station's runway has been renovated to support heavy military aircraft, proving that even runways need a makeover to keep up with modern missions.",
       "date": "2026-04-28",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4472389/historic-cape-canaveral-space-force-station-skid-strip-renovated-for-modern-spa/"
     },
     {
       "sourceId": "dod",
       "title": "Joint Force Provides Post-Typhoon Relief in Pacific",
-      "summary": "Sailors and Marines from the USS Boxer Amphibious Ready Group are aiding recovery efforts in the Pacific after Super Typhoon Sinlaku, showing that the military's reach extends beyond just combat.",
+      "summary": "The USS Boxer Amphibious Ready Group is providing post-Typhoon relief in the Pacific, reminding us that the military's capabilities extend far beyond just blowing things up.",
       "date": "2026-05-07",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4479923/joint-force-provides-post-typhoon-relief-in-pacific/"
     },
     {
       "sourceId": "dod",
       "title": "Bumblebee V1 System Sharpens 10th Mountain Division's Counter-Drone Edge",
-      "summary": "The 10th Mountain Division is training with the Bumblebee V1 counter-drone system, proving that in modern warfare, even bees have a role to play in keeping the skies clear.",
+      "summary": "The 10th Mountain Division is training with the Bumblebee V1 counter-drone system, showing that even in modern warfare, it takes a buzz to keep the skies clear.",
       "date": "2026-05-07",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4479880/bumblebee-v1-system-sharpens-10th-mountain-divisions-counter-drone-edge/"
     },
     {
       "sourceId": "dod",
       "title": "Pentagon Lab Day Demonstrates Best of War Department Research",
-      "summary": "Pentagon Lab Day showcased cutting-edge research from the War Department, reminding everyone that while the military may be about might, it's also about brains.",
+      "summary": "Pentagon Lab Day highlighted military research, reinforcing the notion that while the military flexes its muscles, it also flexes its brain.",
       "date": "2026-05-06",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4479499/pentagon-lab-day-demonstrates-best-of-war-department-research/"
     },
     {
       "sourceId": "dod",
       "title": "Site Selections Announced for Directed-Energy Counter-Drone Program",
-      "summary": "The Joint Interagency Task Force 401 has selected five sites for a directed-energy counter-drone program, because sometimes you need a little zap to keep the skies safe.",
+      "summary": "The Joint Interagency Task Force 401 has selected five sites for a directed-energy counter-drone program, because nothing says 'air superiority' like a little zap.",
       "date": "2026-05-06",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4479463/site-selections-announced-for-directed-energy-counter-drone-program/"
     },
     {
       "sourceId": "dod",
       "title": "Utah National Guard Integrates Air, Ground Capabilities During Exercise Wolverine",
-      "summary": "Exercise Wolverine in Utah focused on joint operations between Army and Air National Guard units, proving that teamwork makes the dream work—even in disaster response.",
+      "summary": "Exercise Wolverine in Utah showcased the integration of air and ground capabilities, proving that even in military exercises, teamwork is still the name of the game.",
       "date": "2026-05-06",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4478900/utah-national-guard-integrates-air-ground-capabilities-during-exercise-wolverine/"
     },
     {
       "sourceId": "viasat",
+      "title": "Skyroot Secures $60M in Funding, Becoming India’s First Space ‘Unicorn’",
+      "summary": "Skyroot Aerospace has secured $60 million in funding, marking its status as India's first space 'unicorn', which is a fancy term for a startup that has hit the big time.",
+      "date": "2026-05-07",
+      "link": "https://www.satellitetoday.com/finance/2026/05/07/skyroot-secures-60m-in-funding-becoming-indias-first-space-unicorn/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "HawkEye 360 Raises $416M, Pricing at High End for IPO",
+      "summary": "HawkEye 360 raised $416 million in its IPO, becoming the second space company to go public this year; apparently, investors are still keen on satellite spy tech despite the competition for their dollars.",
+      "date": "2026-05-07",
+      "link": "https://www.satellitetoday.com/finance/2026/05/07/hawkeye-360-raises-416m-pricing-at-high-end-for-ipo/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Spire Says New German Facility Can Produce Up to 100 Satellites Per Year",
+      "summary": "Spire has opened a new satellite manufacturing facility in Munich with a capacity of up to 100 satellites per year; it seems that Germany is not just about beer and sausages anymore.",
+      "date": "2026-05-07",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/05/07/spire-says-new-german-facility-can-produce-up-to-100-satellites-per-year/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "MDA Space Satellite Revenue Grows 40% in Q1, Greenley Says ‘No Change’ Due to Globalstar Deal",
+      "summary": "MDA Space reported a 32% year-over-year revenue growth in Q1, with satellite manufacturing up over 40%, but Globalstar’s deal didn’t change the game; some things just keep ticking along.",
+      "date": "2026-05-07",
+      "link": "https://www.satellitetoday.com/finance/2026/05/07/mda-space-satellite-revenue-grows-40-in-q1-greenley-says-no-change-due-to-globalstar-deal/"
+    },
+    {
+      "sourceId": "viasat",
       "title": "Enabled by AI, NGA Director Focused on Mission, Transformation, and Workforce",
-      "summary": "The new NGA Director aims to ensure the agency adapts to evolving threats and technologies, as if the future of intelligence doesn't already sound like a sci-fi plot.",
+      "summary": "The new director of the NGA is focused on mission and workforce transformation, leveraging AI to keep pace with evolving threats; because nothing says 'we're prepared' like a buzzword-laden strategy.",
       "date": "2026-05-06",
       "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/05/06/enabled-by-ai-nga-director-focused-on-mission-transformation-and-workforce/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Telespazio to Distribute Greenerwave Multi-Orbit Terminals to European Defense Market",
-      "summary": "Telespazio will distribute Greenerwave's multi-orbit terminals in Europe, proving that even defense contractors are getting greener, one terminal at a time.",
-      "date": "2026-05-06",
-      "link": "https://www.satellitetoday.com/technology/2026/05/06/telespazio-to-distribute-greenerwave-multi-orbit-terminals-to-european-defense-market/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Verizon Details ‘Satellite-Everywhere’ for Disaster Response, Expands Satellite Fleet",
-      "summary": "Verizon is expanding its satellite fleet for disaster response, because nothing says 'preparedness' like having a satellite for every possible calamity.",
-      "date": "2026-05-06",
-      "link": "https://www.satellitetoday.com/connectivity/2026/05/06/verizon-details-satellite-everywhere-for-disaster-response-expands-satellite-fleet/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Astranis Raises $300M in Series E as Part of $450M in New Capital",
-      "summary": "Astranis has raised $300 million in Series E funding to speed up satellite production, which is great news for anyone who thinks the sky is the limit.",
-      "date": "2026-05-06",
-      "link": "https://www.satellitetoday.com/finance/2026/05/06/astranis-raises-300m-in-series-e-and-additional-access-to-capital/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "SWISSto12 Strikes German Partnership Deal for D2D GEO Satellite",
-      "summary": "SWISSto12 has partnered with a German firm to enhance GEO satellite media capabilities, as if broadcasting wasn't already complicated enough.",
-      "date": "2026-05-05",
-      "link": "https://www.satellitetoday.com/technology/2026/05/05/swissto12-strikes-german-partnership-deal-for-d2d-geo-satellite/"
+      "sourceId": "spacecom",
+      "title": "Blue Origin tests 1st moon lander ahead of lunar launch later this year (photo)",
+      "summary": "Blue Origin is testing its first lunar lander in preparation for its upcoming moon mission; it’s nice to see they’re still committed to going where no one has gone before, even if it’s just for a quick visit.",
+      "date": "2026-05-08",
+      "link": "https://www.space.com/space-exploration/artemis/blue-origin-tests-1st-moon-lander-ahead-of-lunar-launch-later-this-year-photo"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Saros' nails the cosmic horror and bullet-hell action assignments, but it falls short as a roguelite",
-      "summary": "'Saros' nails cosmic horror but stumbles as a roguelite, proving that even video games can have an identity crisis.",
-      "date": "2026-05-07",
-      "link": "https://www.space.com/entertainment/space-games/saros-nails-the-cosmic-horror-and-bullet-hell-action-assignments-but-it-falls-short-as-a-roguelite"
+      "title": "'Star Fox' is returning this summer with a shiny 'Star Fox 64' remake for Nintendo Switch 2 full of unique features",
+      "summary": "'Star Fox' is getting a shiny remake for Nintendo Switch 2 this summer; because who doesn’t want to relive their childhood traumas of space combat in high definition?",
+      "date": "2026-05-08",
+      "link": "https://www.space.com/entertainment/space-games/star-fox-is-returning-this-summer-with-a-shiny-star-fox-64-remake-for-nintendo-switch-2-full-of-unique-features"
     },
     {
       "sourceId": "spacecom",
-      "title": "Where does Earth's mysterious 'ring current' come from? NASA and the US Space Force are launching a mission to find out",
-      "summary": "NASA and the US Space Force are launching a mission to study Earth's mysterious 'ring current', because who doesn't love a good cosmic mystery?",
-      "date": "2026-05-07",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/where-does-earths-mysterious-ring-current-come-from-nasa-and-the-us-space-force-are-launching-a-mission-to-find-out"
+      "title": "The charred hull of Artemis 2's Orion | Space photo of the day for May 8, 2026",
+      "summary": "NASA's Artemis 2 Orion spacecraft returned from its lunar flight, looking a bit worse for wear; charred hulls are just part of the charm of space travel, I suppose.",
+      "date": "2026-05-08",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/the-charred-hull-of-artemis-2s-orion-space-photo-of-the-day-for-may-8-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Star Wars: Galactic Racer': Release date, trailers, gameplay & everything we know about the return of podracing",
-      "summary": "'Star Wars: Galactic Racer' is set to revive podracing, because clearly, we needed more ways to race fictional vehicles.",
-      "date": "2026-05-07",
-      "link": "https://www.space.com/entertainment/space-games/star-wars-galactic-racer-release-date-trailers-gameplay-and-everything-we-know-about-the-return-of-podracing"
+      "title": "Learn the night sky without an app: May's easiest star-hops for beginners",
+      "summary": "May's bright stars and classic constellations offer a chance to learn the night sky without apps; because sometimes, the old ways are just too retro to resist.",
+      "date": "2026-05-08",
+      "link": "https://www.space.com/stargazing/learn-the-night-sky-without-an-app-mays-easiest-star-hops-for-beginners"
     },
     {
       "sourceId": "spacecom",
-      "title": "Moon joy at Jupiter | Space photo of the day for May 7, 2026",
-      "summary": "NASA's Juno spacecraft snapped a photo of Jupiter's moon Thebe, reminding us that even moons deserve their moment in the spotlight.",
-      "date": "2026-05-07",
-      "link": "https://www.space.com/astronomy/jupiter/moon-joy-at-jupiter-space-photo-of-the-day-for-may-7-2026"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Here's what 6 years of driving on Mars did to the wheels on NASA's Curiosity rover (video)",
-      "summary": "A new video shows the wear and tear on NASA's Curiosity rover's wheels after six years on Mars, proving that even robots can't escape the ravages of time.",
-      "date": "2026-05-07",
-      "link": "https://www.space.com/astronomy/mars/heres-what-6-years-of-driving-on-mars-did-to-the-wheels-on-nasas-curiosity-rover-video"
+      "title": "Scientists found 10,000 possible exoplanets hiding in NASA data",
+      "summary": "Scientists have identified 10,091 candidate exoplanets in NASA data; it's like a cosmic game of 'Where's Waldo?' but with potentially habitable worlds.",
+      "date": "2026-05-08",
+      "link": "https://www.space.com/science/astrophysics/scientists-found-10-000-possible-exoplanets-hiding-in-nasa-data"
     },
     {
       "sourceId": "rspace",
-      "title": "Using asteroid early orbital data for rapid mars missions",
-      "summary": "A new method using early asteroid orbital data could speed up Mars missions, because who wouldn't want to get to Mars faster?",
-      "date": "2026-05-07",
-      "link": "https://www.reddit.com/r/space/comments/1t6i446/using_asteroid_early_orbital_data_for_rapid_mars/"
+      "title": "NASA Fuel Cell Tests Pave Way for Energy Storage on Moon",
+      "summary": "NASA's fuel cell tests could pave the way for energy storage on the Moon; because nothing says 'sustainable lunar colonization' like a solid battery plan.",
+      "date": "2026-05-08",
+      "link": "https://www.reddit.com/r/space/comments/1t7dl64/nasa_fuel_cell_tests_pave_way_for_energy_storage/"
     },
     {
       "sourceId": "rspace",
-      "title": "Congratulations to the Artemis II crew – but the case for sending astronauts into space is rapidly shrinking",
-      "summary": "The Artemis II crew is congratulated, but the rationale for sending humans to space is increasingly looking like a tough sell.",
-      "date": "2026-05-07",
-      "link": "https://www.reddit.com/r/space/comments/1t6hgow/congratulations_to_the_artemis_ii_crew_but_the/"
+      "title": "What is the future for Canadian human space travel? Below is a look into Canadas possible path forward",
+      "summary": "A look into Canada's potential future in human space travel reveals a collaborative spirit with the USA; because when it comes to space, it’s all about teamwork, eh?",
+      "date": "2026-05-08",
+      "link": "https://www.reddit.com/r/space/comments/1t7cbw2/what_is_the_future_for_canadian_human_space/"
     },
     {
       "sourceId": "rspace",
-      "title": "Fact here to pheonix a* and ton618 size comparison",
-      "summary": "Comparing the sizes of Phoenix A* and Ton 618 highlights the absurdity of cosmic scale, where size really does matter—sort of.",
-      "date": "2026-05-07",
-      "link": "https://www.reddit.com/r/space/comments/1t6e2t7/fact_here_to_pheonix_a_and_ton618_size_comparison/"
+      "title": "Next-gen Mars helicopter rotor blades exceed Mach 1",
+      "summary": "Next-gen Mars helicopter rotor blades have exceeded Mach 1; because if you're going to fly on Mars, you might as well do it in style.",
+      "date": "2026-05-08",
+      "link": "https://www.reddit.com/r/space/comments/1t74e5j/nextgen_mars_helicopter_rotor_blades_exceed_mach_1/"
     },
     {
       "sourceId": "rspace",
-      "title": "Inside the Eagle Nebula - A Cosmic Star Factory.",
-      "summary": "The Eagle Nebula has been identified as a cosmic star factory, reminding us that even in space, production lines can be quite beautiful.",
-      "date": "2026-05-07",
-      "link": "https://www.reddit.com/r/space/comments/1t6e1ub/inside_the_eagle_nebula_a_cosmic_star_factory/"
+      "title": "NASA’s Simulated Mars Mission Marks 200 Days Inside Habitat - NASA",
+      "summary": "NASA's simulated Mars mission has hit the 200-day mark, proving that isolation is just as challenging on Earth as it would be on Mars.",
+      "date": "2026-05-08",
+      "link": "https://www.reddit.com/r/space/comments/1t6zit6/nasas_simulated_mars_mission_marks_200_days/"
     },
     {
       "sourceId": "rspace",
-      "title": "Starship Booster 19 performs a 14 seconds Static Fire",
-      "summary": "Starship Booster 19 completed a 14-second static fire test, proving that sometimes, a brief moment of fire is all you need to keep the dream alive.",
-      "date": "2026-05-07",
-      "link": "https://www.reddit.com/r/space/comments/1t6d2g8/starship_booster_19_performs_a_14_seconds_static/"
+      "title": "[Official] Dramatic drone view of SuperHeavy B19's quarter minute static fire (beware volume).",
+      "summary": "A dramatic drone captured SpaceX's SuperHeavy B19 static fire, reminding us that rocket launches are still the best reality show on air.",
+      "date": "2026-05-08",
+      "link": "https://www.reddit.com/r/space/comments/1t6wgu6/official_dramatic_drone_view_of_superheavy_b19s/"
     },
     {
       "sourceId": "nga",
@@ -361,100 +361,100 @@
     {
       "sourceId": "nga",
       "title": "Director's address at GEOINT 2026: 'data is no longer the bottleneck'",
-      "summary": "The NGA director announced that data is no longer the bottleneck, which is great news for everyone except those still wrestling with spreadsheets, who must feel very alone.",
+      "summary": "The NGA director claims data is no longer the bottleneck, which is great news for everyone except those still wrestling with spreadsheets.",
       "date": "2026-05-03",
       "link": "https://www.nga.mil/news/director-address-geoint26/"
     },
     {
       "sourceId": "nga",
       "title": "NGA signals shift toward AI-native analyst workflows",
-      "summary": "NGA is shifting towards AI-native analyst workflows, and vendors who adapt fastest are likely the ones who keep their mouths shut, which is a refreshing change.",
+      "summary": "NGA is shifting toward AI-native analyst workflows, and vendors who adapt fastest may find silence is golden.",
       "date": "2026-05-02",
       "link": "https://www.nga.mil/news/ai-native-rfi/"
     },
     {
       "sourceId": "nga",
       "title": "Joint NGA-NRO foundation data initiative passes pilot phase",
-      "summary": "The Joint NGA-NRO data initiative has passed its pilot phase, proving that even secretive agencies can learn to cooperate when they want, like cats reluctantly sharing a sunbeam.",
+      "summary": "The Joint NGA-NRO data initiative has passed its pilot phase, proving even secretive agencies can cooperate when they want.",
       "date": "2026-04-30",
       "link": "https://www.nga.mil/news/foundation-data-pilot/"
     },
     {
       "sourceId": "nga",
       "title": "Open-source intelligence integration framework released to public",
-      "summary": "An open-source intelligence integration framework has been released, and its surprisingly straightforward GitHub README is a refreshing change, like finding a clear map in a maze.",
+      "summary": "An open-source intelligence integration framework has been released, and its clear GitHub README is like finding a map in a maze.",
       "date": "2026-04-28",
       "link": "https://www.nga.mil/news/osint-framework-release/"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Tesla trademarked a supercar badge for a car it promised nine years ago. The logo is the most tangible thing about the Roadster.",
-      "summary": "Tesla trademarked a supercar badge for a car it promised nine years ago, which is fitting since the logo is the most tangible thing about the Roadster.",
-      "date": "2026-05-07",
-      "link": "https://thenextweb.com/news/tesla-roadster-trademark-badge-nine-year-delay"
+      "title": "Trump’s H-1B proposal would push entry-level tech salary floor near $162,000",
+      "summary": "Trump's H-1B proposal would raise entry-level tech salary floors to near $162,000, making San Francisco's cost of living seem like a bargain.",
+      "date": "2026-05-08",
+      "link": "https://thenextweb.com/news/trump-h1b-wage-rule-tech-salary-floor"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Meta takes Ofcom to the High Court over how the UK calculates Online Safety Act bills",
-      "summary": "Meta is challenging Ofcom in the High Court over the calculation of Online Safety Act bills, proving that even tech giants can get nervous about their invoices.",
-      "date": "2026-05-07",
-      "link": "https://thenextweb.com/news/meta-judicial-review-ofcom-online-safety-act-fees-may-2026"
+      "title": "Intel’s stock tripled under Lip-Bu Tan. He still has not told most employees the plan.",
+      "summary": "Intel's stock has tripled under CEO Lip-Bu Tan, who still hasn't shared a plan with most employees, raising questions about transparency.",
+      "date": "2026-05-08",
+      "link": "https://thenextweb.com/news/intel-tan-relationships-manufacturing-turnaround"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Google’s $100 Fitbit Air has no screen. The product it is actually selling is a $10-a-month AI health coach.",
-      "summary": "Google launched a $100 Fitbit Air with no screen, essentially selling a $10-a-month AI health coach wrapped in a device that looks like a paperweight.",
-      "date": "2026-05-07",
-      "link": "https://thenextweb.com/news/google-fitbit-air-screenless-whoop-health-coach"
+      "title": "The AI industry’s model and agent skill repositories are full of malware. The infrastructure built to accelerate development is now the vector for compromising it.",
+      "summary": "The AI industry's model repositories are full of malware, turning the tools meant to accelerate development into vectors for compromise.",
+      "date": "2026-05-08",
+      "link": "https://thenextweb.com/news/hugging-face-clawhub-malware-ai-supply-chain"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "A data centre fire in Almere disabled a university, a transport emergency system, and the assumption that physical infrastructure is someone else’s problem",
-      "summary": "A data centre fire in Almere disabled a university and a transport emergency system, illustrating that physical infrastructure can be as fragile as our digital ambitions.",
-      "date": "2026-05-07",
-      "link": "https://thenextweb.com/news/northc-data-centre-fire-almere-dutch-infrastructure"
+      "title": "Coinbase cut 700 jobs on Monday, lost $394 million on Thursday, and went dark on Friday because a data centre overheated",
+      "summary": "Coinbase cut 700 jobs, reported a $394 million loss, and then went dark for seven hours due to an overheated data center, a trifecta of bad luck.",
+      "date": "2026-05-08",
+      "link": "https://thenextweb.com/news/coinbase-aws-outage-layoffs-worst-week"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "The largest education data breach in history was not an attack on a school. It was an attack on a vendor.",
-      "summary": "The largest education data breach in history was not an attack on a school but on a vendor, which is a reminder that sometimes the weakest link is the one you least suspect.",
-      "date": "2026-05-07",
-      "link": "https://thenextweb.com/news/the-largest-education-data-breach-in-history-was-not-an-attack-on-a-school-it-was-an-attack-on-a-vendor"
+      "title": "will.i.am taught 75 college students to build AI agents. The tech industry spent the same semester firing 73,000 people.",
+      "summary": "While the tech industry laid off over 73,000 workers, will.i.am was busy teaching 75 students to build AI agents, perhaps a sign of the times.",
+      "date": "2026-05-08",
+      "link": "https://thenextweb.com/news/will-i-am-agentic-self-ai-course-asu"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Sends Mars Helicopter Blades Beyond Mach 1",
-      "summary": "NASA's next-gen Mars helicopter rotor blades have officially broken the sound barrier during testing, proving they can handle a bit of Martian wind resistance; who knew flying on Mars would be so much like a high-speed car chase?",
-      "date": "2026-05-07",
-      "link": "https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/"
+      "title": "Glowing Views from the Space Station",
+      "summary": "NASA astronaut Chris Williams snapped a picture of the Milky Way from the ISS, reminding us that even in space, light pollution is a universal problem.",
+      "date": "2026-05-08",
+      "link": "https://www.nasa.gov/image-article/glowing-views-from-the-space-station/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast",
-      "summary": "The next-gen Mars helicopter rotor blades are being tested for supersonic speeds, suggesting NASA is preparing for a Martian version of Top Gun; just hope the Martian winds don't turn out to be as unpredictable as the Earth’s.",
-      "date": "2026-05-07",
-      "link": "https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/"
+      "title": "NASA Names Brian Hughes to Launch Operations Role",
+      "summary": "NASA has appointed Brian Hughes as the new senior director of launch operations, proving that the agency is still serious about getting rockets off the ground.",
+      "date": "2026-05-08",
+      "link": "https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1",
-      "summary": "NASA's rotor blades for Mars helicopters have surpassed Mach 1 during tests, marking a significant leap in aerial exploration; now if only they could figure out how to land without a parachute.",
-      "date": "2026-05-07",
-      "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/"
+      "title": "NASA Fuel Cell Tests Pave Way for Energy Storage on Moon",
+      "summary": "NASA's fuel cell tests for lunar energy storage look like a soda can convention gone wrong, but they might just be the key to moon power.",
+      "date": "2026-05-08",
+      "link": "https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/"
     },
     {
       "sourceId": "nasa",
-      "title": "Industry Moon Lander Training Cabin Lands at NASA for Artemis",
-      "summary": "NASA has received a full-scale mock-up of a crew cabin for its Artemis lunar lander, ready for training and testing; because nothing says 'we're going to the Moon' like a really big cardboard box.",
-      "date": "2026-05-07",
-      "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/"
+      "title": "Tracy Arm’s Post-Tsunami Landscape",
+      "summary": "A tsunami in Tracy Arm has left a landscape stripped of vegetation, which is a dramatic reminder that nature can be both beautiful and brutal.",
+      "date": "2026-05-08",
+      "link": "https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/"
     },
     {
       "sourceId": "nasa",
-      "title": "A Light in the Dark",
-      "summary": "A stunning image from Artemis II shows Earth's edge glowing against the dark void of space, a reminder that even in the vastness of the universe, we still manage to leave the lights on.",
+      "title": "Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research",
+      "summary": "NASA Armstrong is adding more aircraft to its fleet, ensuring that the legacy of flight research continues, because apparently, the sky is still not the limit.",
       "date": "2026-05-07",
-      "link": "https://www.nasa.gov/image-article/a-light-in-the-dark/"
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/"
     }
   ]
 }

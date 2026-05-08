@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are experiencing a mix of growth and bureaucratic headwinds. As companies pivot towards new opportunities, the military's appetite for innovation faces challenges from regulatory frameworks.",
+  "summary": "The space industry is buzzing with activity as new contracts, funding rounds, and international agreements reshape the landscape. Notable movements include Rocket Lab's expansion plans and the U.S. bolstering its space resilience budget.",
   "themes": [
     {
       "icon": "▣",
-      "title": "NASA's Moon Base Ventures",
-      "body": "Redwire is eyeing landers and power systems to support NASA's lunar ambitions. This move underscores the increasing commercial interest in lunar infrastructure as the agency ramps up its Artemis program."
-    },
-    {
-      "icon": "◉",
-      "title": "Military Space Dynamics",
-      "body": "The anticipated military space boom is encountering friction within the Beltway, highlighting the complexities of defense procurement. As budgets increase, so do the challenges of aligning innovation with governmental processes."
+      "title": "International Agreements Heat Up",
+      "body": "Paraguay's signing of the Artemis Accords marks another step in the global push for lunar cooperation. This move could signal a shift in how smaller nations engage with major space powers."
     },
     {
       "icon": "▲",
-      "title": "Funding and Investments Surge",
-      "body": "Palantir's $480M extension and True Anomaly's $190M Series C reflect a robust funding environment for space-tech ventures. This trend indicates a growing confidence in the commercial viability of space applications."
+      "title": "Funding and Acquisitions on the Rise",
+      "body": "Rocket Lab's large launch contract and acquisition plans highlight a trend of consolidation and investment in space robotics. Meanwhile, Lunar Outpost's $30 million raise suggests a growing appetite for lunar infrastructure."
     },
     {
       "icon": "◆",
-      "title": "AI's Role in Defense",
-      "body": "The integration of AI into defense strategies is gaining momentum, as evidenced by the DAF's AI workforce plan. This shift suggests a recognition that advanced technologies will be crucial in maintaining competitive advantages in space."
+      "title": "Defense and Space Convergence",
+      "body": "The collaboration between Anduril and L3Harris on a tactical SDA constellation illustrates the increasing overlap between defense tech and space capabilities. As the Pentagon seeks to enhance its space posture, expect more such partnerships."
+    },
+    {
+      "icon": "◉",
+      "title": "Hypersonic Hiccups Persist",
+      "body": "The continued delays in hypersonic glide-vehicle tests raise questions about the pace of U.S. advancements in this critical area. With three consecutive quarters of setbacks, the pressure is on to deliver results."
     }
   ],
-  "updated": "2026-05-07 19:20 UTC"
+  "updated": "2026-05-08 17:02 UTC"
 }
