@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity, from new contracts to strategic partnerships. Notably, the U.S. military is doubling down on satellite communications while private firms continue to jockey for position in the burgeoning space market.",
+  "summary": "The space industry is buzzing with new contracts and strategic partnerships, while the specter of budget increases looms large. Meanwhile, the ongoing challenges in hypersonic testing remind us that not all advancements come easily.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Military Contracts on the Rise",
-      "body": "Viasat's $307 million contract for Marine Corps satellite communications underscores a growing trend of defense spending in space. This aligns with the recent $1.4 billion increase in the FY27 budget for space resilience, indicating a robust appetite for satellite capabilities."
-    },
-    {
-      "icon": "▲",
-      "title": "Private Sector Expansion",
-      "body": "Rocket Lab's plans to acquire a robotics company signal a broader trend of consolidation in the space industry. Meanwhile, True Anomaly's $190 million Series C funding round highlights investor confidence in emerging space technologies."
-    },
-    {
-      "icon": "◆",
-      "title": "International Collaboration Gains Traction",
-      "body": "Paraguay's signing of the Artemis Accords reflects a growing international consensus on space governance. Additionally, the conclusion of the Allied space-resilience workshop in The Hague suggests that nations are increasingly prioritizing cooperative strategies in space."
+      "title": "Contract Wins and Partnerships",
+      "body": "Viasat's $307 million contract with the Marine Corps highlights the ongoing demand for robust satellite communications. Additionally, Rocket Lab's plans to acquire a robotics company signal a push towards integrating more advanced technologies into launch operations."
     },
     {
       "icon": "◉",
-      "title": "Challenges in Hypersonic Development",
-      "body": "The continued delays in hypersonic glide-vehicle testing raise questions about the U.S. military's pace in this critical area. As the third consecutive slip occurs, it appears that the race for hypersonic capabilities may be more complicated than anticipated."
+      "title": "International Agreements on Space",
+      "body": "Paraguay's signing of the Artemis Accords indicates a growing global consensus on cooperative space exploration. This trend could reshape international partnerships and policy frameworks in the coming years."
+    },
+    {
+      "icon": "▲",
+      "title": "Budget Increases for Space Resilience",
+      "body": "The FY27 budget markup's $1.4 billion boost for space resilience underscores a heightened focus on safeguarding national interests in orbit. This funding may pave the way for more innovative defense solutions and infrastructure."
+    },
+    {
+      "icon": "◆",
+      "title": "Hypersonic Testing Delays",
+      "body": "The continued delays in hypersonic glide-vehicle testing serve as a sobering reminder of the complexities involved in cutting-edge defense technologies. As the third quarter slips by without progress, stakeholders may need to reassess timelines and expectations."
     }
   ],
-  "updated": "2026-05-09 15:38 UTC"
+  "updated": "2026-05-09 16:37 UTC"
 }

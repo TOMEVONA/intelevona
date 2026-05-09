@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-09",
   "issue": "No. 18",
-  "headline": "Defense contracts grow. Startups flourish. Space diplomacy expands.",
-  "deck": "Military budgets remain a solid revenue source while funding rounds surge for space startups.",
+  "headline": "Military contracts swell. Space diplomacy expands. Cash flows.",
+  "deck": "This week highlights robust military spending and a flurry of international agreements.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "CONTRACTS",
-      "head": "Viasat secures $307M for Marine Corps comms",
-      "body": "Viasat has landed a $307 million contract to provide satellite communications for the Marine Corps, reaffirming that defense budgets are a steady business model. This deal highlights the enduring appeal of military contracts for tech firms, especially as other sectors face uncertainty.",
-      "soWhat": "If you're looking for reliable revenue, the military seems to be the safest bet in town."
+      "head": "Viasat secures hefty Marine Corps contract",
+      "body": "Viasat has won a $307 million contract to provide satellite communications for the Marine Corps, underscoring that military budgets still have room for a few more zeros. This contract is part of the ongoing trend of defense spending that prioritizes connectivity in modern warfare. With military budgets tightening elsewhere, this win might just be a sign of shifting priorities.",
+      "soWhat": "If Viasat can keep landing these contracts, it might just become the poster child for military spending resilience."
+    },
+    {
+      "kicker": "ACQUISITIONS",
+      "head": "Rocket Lab’s growth strategy includes acquisitions",
+      "body": "Rocket Lab announced its largest launch contract to date and plans to acquire a space robotics company, suggesting that sometimes you have to buy your friends to grow. The contract is part of a broader strategy to solidify its position in the launch market, which is becoming increasingly competitive. The acquisition could provide Rocket Lab with the necessary tech boost to enhance its service offerings.",
+      "soWhat": "If Rocket Lab can integrate the robotics expertise effectively, it might just leapfrog competitors still focusing on pure launch services."
     },
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly has successfully raised $190 million in a Series C funding round, pushing its valuation to $1.6 billion. The funding will bolster its capabilities in co-orbital security and space domain awareness, indicating that the DoD's appetite for these services is growing.",
-      "soWhat": "In a world where revenue often trumps innovation, True Anomaly's success underscores the military's growing reliance on commercial space solutions."
-    },
-    {
-      "kicker": "DIPLOMACY",
-      "head": "Paraguay signs Artemis Accords, joins space club",
-      "body": "Paraguay has officially signed the Artemis Accords, becoming the sixth nation to do so recently. This move suggests that space diplomacy is becoming a key component of international relations, as countries jockey for position in the new frontier.",
-      "soWhat": "If space is the new geopolitical battleground, then signing these accords is like getting a VIP pass to the after-party."
+      "head": "True Anomaly raises $190M amid defense focus",
+      "body": "True Anomaly has successfully raised $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, which are increasingly critical for defense applications. This round highlights the growing investor interest in companies that can address national security challenges in space.",
+      "soWhat": "With defense budgets expanding, True Anomaly’s focus could position it as a key player in the next wave of military tech."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Rocket Lab's acquisition plans",
-      "body": "Rocket Lab's intention to acquire a space robotics company could signal a shift in their strategic focus, potentially reshaping their launch capabilities."
+      "title": "Keep an eye on Rocket Lab’s acquisition",
+      "body": "The integration of a robotics company could redefine Rocket Lab's service capabilities and competitive landscape."
     },
     {
-      "title": "Hypersonic glide-vehicle tests continue to delay",
-      "body": "With another delay in hypersonic tests, the credibility of this program is increasingly in question; investors will be watching closely."
+      "title": "Palantir’s TITAN extension implications",
+      "body": "The $480 million extension could signal increasing demand for ground station capabilities in defense."
     },
     {
-      "title": "Sierra Space's Dream Chaser faces scrutiny",
-      "body": "After passing its critical design review, the pressure is on Sierra Space to deliver, as stakeholders want more than just passing grades."
+      "title": "Paraguay's Artemis Accords signing effects",
+      "body": "As the sixth country to sign, Paraguay’s involvement may spur more nations to join the Accords."
     },
     {
-      "title": "Palantir's TITAN extension may indicate defense trends",
-      "body": "The $480 million extension on the TITAN program suggests that defense contractors are prioritizing data solutions, which could set the stage for future contracts."
+      "title": "Watch for hypersonic testing delays",
+      "body": "The ongoing delays in hypersonic glide-vehicle tests could impact future defense projects and funding."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "RKLB",
-      "note": "Rocket Lab's largest launch contract yet could redefine its market position."
+      "note": "Rocket Lab's stock may see volatility as it announces its largest launch contract."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension shows the enduring demand for data in defense."
+      "note": "Palantir's extension on the TITAN program could bolster investor confidence."
     },
     {
-      "sym": "ANOM",
-      "note": "True Anomaly's $190M raise indicates strong investor confidence in co-orbital security."
+      "sym": "ANET",
+      "note": "True Anomaly's funding round might catch the eye of investors looking for defense tech plays."
     },
     {
       "sym": "VSAT",
-      "note": "Viasat's $307M contract proves military budgets are still a lucrative market."
+      "note": "Viasat's new military contract could provide a much-needed boost to its stock performance."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
