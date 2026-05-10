@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with new contracts and strategic partnerships, while the specter of budget increases looms large. Meanwhile, the ongoing challenges in hypersonic testing remind us that not all advancements come easily.",
+  "summary": "The space and defense sectors are buzzing with activity, from international agreements on asteroid missions to significant funding rounds for emerging players. Meanwhile, traditional defense contractors are busy securing lucrative contracts, and the Space Force is gearing up for a new leadership era.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Contract Wins and Partnerships",
-      "body": "Viasat's $307 million contract with the Marine Corps highlights the ongoing demand for robust satellite communications. Additionally, Rocket Lab's plans to acquire a robotics company signal a push towards integrating more advanced technologies into launch operations."
+      "title": "International Collaborations Heat Up",
+      "body": "ESA and JAXA's finalized agreement on the Apophis asteroid mission marks a notable step in global space cooperation. Paraguay's signing of the Artemis Accords further indicates a growing interest in joining the lunar exploration club."
     },
     {
       "icon": "◉",
-      "title": "International Agreements on Space",
-      "body": "Paraguay's signing of the Artemis Accords indicates a growing global consensus on cooperative space exploration. This trend could reshape international partnerships and policy frameworks in the coming years."
+      "title": "Defense Contracts on the Rise",
+      "body": "Viasat's $307 million contract with the Marine Corps underscores the ongoing demand for satellite communications in military operations. Meanwhile, Palantir's $480 million extension on the TITAN program shows that data management remains a hot commodity."
     },
     {
       "icon": "▲",
-      "title": "Budget Increases for Space Resilience",
-      "body": "The FY27 budget markup's $1.4 billion boost for space resilience underscores a heightened focus on safeguarding national interests in orbit. This funding may pave the way for more innovative defense solutions and infrastructure."
+      "title": "Emerging Players Securing Funding",
+      "body": "True Anomaly's $190 million Series C funding round highlights the appetite for innovative space startups. Similarly, Skyroot's emergence as India's first space unicorn signals a shift in the global investment landscape."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Testing Delays",
-      "body": "The continued delays in hypersonic glide-vehicle testing serve as a sobering reminder of the complexities involved in cutting-edge defense technologies. As the third quarter slips by without progress, stakeholders may need to reassess timelines and expectations."
+      "title": "Leadership Changes in Space Force",
+      "body": "The nomination of Lt. Gen. Douglas A. Schiess as the next Chief of Space Operations suggests a strategic pivot for the Space Force. As the organization evolves, its focus on AI and operational readiness will likely shape future initiatives."
     }
   ],
-  "updated": "2026-05-09 16:37 UTC"
+  "updated": "2026-05-10 16:13 UTC"
 }

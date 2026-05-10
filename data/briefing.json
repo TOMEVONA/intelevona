@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-09",
-  "issue": "No. 18",
-  "headline": "Military contracts swell. Space diplomacy expands. Cash flows.",
-  "deck": "This week highlights robust military spending and a flurry of international agreements.",
+  "updated": "2026-05-10",
+  "issue": "No. 19",
+  "headline": "Contracts grow. Budgets swell. Space gets serious.",
+  "deck": "This week, military contracts and funding rounds highlight a robust defense focus in space.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -18,8 +18,8 @@
     },
     {
       "label": "SBIR Phase II",
-      "value": "$7M",
-      "sub": "this week · 4 winners",
+      "value": "$3M",
+      "sub": "this week · 2 winners",
       "trend": "up"
     },
     {
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "CONTRACTS",
-      "head": "Viasat secures hefty Marine Corps contract",
-      "body": "Viasat has won a $307 million contract to provide satellite communications for the Marine Corps, underscoring that military budgets still have room for a few more zeros. This contract is part of the ongoing trend of defense spending that prioritizes connectivity in modern warfare. With military budgets tightening elsewhere, this win might just be a sign of shifting priorities.",
-      "soWhat": "If Viasat can keep landing these contracts, it might just become the poster child for military spending resilience."
-    },
-    {
-      "kicker": "ACQUISITIONS",
-      "head": "Rocket Lab’s growth strategy includes acquisitions",
-      "body": "Rocket Lab announced its largest launch contract to date and plans to acquire a space robotics company, suggesting that sometimes you have to buy your friends to grow. The contract is part of a broader strategy to solidify its position in the launch market, which is becoming increasingly competitive. The acquisition could provide Rocket Lab with the necessary tech boost to enhance its service offerings.",
-      "soWhat": "If Rocket Lab can integrate the robotics expertise effectively, it might just leapfrog competitors still focusing on pure launch services."
+      "head": "Viasat lands $307 million military communications deal",
+      "body": "Viasat has secured a $307 million contract with the Marine Corps for satellite communications, ensuring the military's connectivity during operations. This win underscores the increasing reliance on satellite networks for defense, as traditional communication methods face challenges. With the growing demand for secure communication, this contract is a significant boost to Viasat's portfolio.",
+      "soWhat": "If the Marines need reliable Wi-Fi, it’s clear that terrestrial options are running thin."
     },
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid defense focus",
-      "body": "True Anomaly has successfully raised $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, which are increasingly critical for defense applications. This round highlights the growing investor interest in companies that can address national security challenges in space.",
-      "soWhat": "With defense budgets expanding, True Anomaly’s focus could position it as a key player in the next wave of military tech."
+      "head": "True Anomaly raises $190 million for co-orbital security",
+      "body": "True Anomaly has successfully raised $190 million in a Series C funding round, bringing its valuation to $1.6 billion. This funding will enhance its capabilities in co-orbital security and space domain awareness, areas increasingly prioritized by the Department of Defense. With defense budgets tightening, this cash injection may be just what True Anomaly needs to secure government contracts.",
+      "soWhat": "In a world where space is the new frontier for conflict, cash flow is the only thing that seems to matter."
+    },
+    {
+      "kicker": "COLLABORATION",
+      "head": "ESA and JAXA finalize Apophis mission agreement",
+      "body": "The European Space Agency (ESA) and Japan's JAXA have finalized an agreement to study the asteroid Apophis during its 2029 flyby. This collaboration highlights a strategic partnership in planetary defense, allowing both agencies to pool resources and expertise. As asteroid threats become more pressing, such partnerships are essential for global space safety.",
+      "soWhat": "If we can’t dodge asteroids, at least we can do it together."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Rocket Lab’s acquisition",
-      "body": "The integration of a robotics company could redefine Rocket Lab's service capabilities and competitive landscape."
+      "title": "Keep an eye on Anduril and L3Harris",
+      "body": "Their joint tactical SDA constellation bid could reshape military space operations."
     },
     {
-      "title": "Palantir’s TITAN extension implications",
-      "body": "The $480 million extension could signal increasing demand for ground station capabilities in defense."
+      "title": "Watch for updates on the FY27 budget",
+      "body": "The added $1.4 billion for space resilience indicates a shift in government priorities."
     },
     {
-      "title": "Paraguay's Artemis Accords signing effects",
-      "body": "As the sixth country to sign, Paraguay’s involvement may spur more nations to join the Accords."
+      "title": "Sierra Space's Dream Chaser variant launch",
+      "body": "With its critical design review cleared, the pressure is on for Sierra Space to deliver."
     },
     {
-      "title": "Watch for hypersonic testing delays",
-      "body": "The ongoing delays in hypersonic glide-vehicle tests could impact future defense projects and funding."
+      "title": "Palantir's TITAN program extension",
+      "body": "The $480 million extension signals continued confidence in Palantir’s defense capabilities."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "RKLB",
-      "note": "Rocket Lab's stock may see volatility as it announces its largest launch contract."
+      "sym": "VSAT",
+      "note": "Viasat's $307 million contract is a significant boost to its military portfolio."
+    },
+    {
+      "sym": "TRUE",
+      "note": "True Anomaly's $190 million raise shows strong interest in co-orbital security."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's extension on the TITAN program could bolster investor confidence."
+      "note": "Palantir's TITAN program extension keeps its defense narrative alive."
     },
     {
-      "sym": "ANET",
-      "note": "True Anomaly's funding round might catch the eye of investors looking for defense tech plays."
-    },
-    {
-      "sym": "VSAT",
-      "note": "Viasat's new military contract could provide a much-needed boost to its stock performance."
+      "sym": "SIEG",
+      "note": "Sierra Space's Dream Chaser variant is under scrutiny after passing its design review."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
