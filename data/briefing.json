@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-10",
   "issue": "No. 19",
-  "headline": "Contracts grow. Budgets swell. Space gets serious.",
-  "deck": "This week, military contracts and funding rounds highlight a robust defense focus in space.",
+  "headline": "Contracts flow. Budgets swell. Startups thrive.",
+  "deck": "This week saw significant contracts and funding in the space sector, highlighting a robust market landscape.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "CONTRACTS",
-      "head": "Viasat lands $307 million military communications deal",
-      "body": "Viasat has secured a $307 million contract with the Marine Corps for satellite communications, ensuring the military's connectivity during operations. This win underscores the increasing reliance on satellite networks for defense, as traditional communication methods face challenges. With the growing demand for secure communication, this contract is a significant boost to Viasat's portfolio.",
-      "soWhat": "If the Marines need reliable Wi-Fi, it’s clear that terrestrial options are running thin."
-    },
-    {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190 million for co-orbital security",
-      "body": "True Anomaly has successfully raised $190 million in a Series C funding round, bringing its valuation to $1.6 billion. This funding will enhance its capabilities in co-orbital security and space domain awareness, areas increasingly prioritized by the Department of Defense. With defense budgets tightening, this cash injection may be just what True Anomaly needs to secure government contracts.",
-      "soWhat": "In a world where space is the new frontier for conflict, cash flow is the only thing that seems to matter."
+      "head": "Viasat bags $307 million Marine Corps contract",
+      "body": "Viasat has secured a $307 million contract with the Marine Corps for satellite communications, further entrenching its role in military connectivity. This deal is part of a broader trend where defense budgets are increasingly allocated towards advanced communications systems. With military needs evolving, Viasat is positioning itself as a go-to provider in a competitive field.",
+      "soWhat": "As military operations become more reliant on connectivity, Viasat's contract could signal a shift in how defense budgets prioritize communication technologies."
     },
     {
       "kicker": "COLLABORATION",
-      "head": "ESA and JAXA finalize Apophis mission agreement",
-      "body": "The European Space Agency (ESA) and Japan's JAXA have finalized an agreement to study the asteroid Apophis during its 2029 flyby. This collaboration highlights a strategic partnership in planetary defense, allowing both agencies to pool resources and expertise. As asteroid threats become more pressing, such partnerships are essential for global space safety.",
-      "soWhat": "If we can’t dodge asteroids, at least we can do it together."
+      "head": "Anduril and L3Harris team for SDA constellation",
+      "body": "Anduril and L3Harris have joined forces to bid on a tactical Space Development Agency (SDA) constellation project, showcasing a strategic alliance in the defense space. This collaboration is indicative of a growing trend where companies are pooling resources to tackle complex government contracts, especially in the realm of space-based technologies. The stakes are high, with the SDA's focus on enhancing national security through advanced space capabilities.",
+      "soWhat": "This partnership reflects a shift towards collaborative approaches in defense contracting, as companies realize that solo efforts may not cut it in the face of stringent government requirements."
+    },
+    {
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M, eyes co-orbital security",
+      "body": "True Anomaly has successfully closed a $190 million Series C funding round, bringing its valuation to $1.6 billion. This funding will bolster its efforts in co-orbital security and space domain awareness, areas that are increasingly critical as geopolitical tensions rise. The investment underscores a strong belief in the need for enhanced security measures in space, reflecting a broader market trend.",
+      "soWhat": "True Anomaly's funding highlights the growing recognition that space security is not just a niche concern but a fundamental aspect of national defense strategy."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Anduril and L3Harris",
-      "body": "Their joint tactical SDA constellation bid could reshape military space operations."
+      "title": "Keep an eye on ESA and JAXA",
+      "body": "The finalized agreement on the Apophis mission could set the stage for future international collaborations on planetary defense."
     },
     {
-      "title": "Watch for updates on the FY27 budget",
-      "body": "The added $1.4 billion for space resilience indicates a shift in government priorities."
+      "title": "Sierra Space's next moves post-review",
+      "body": "With the Dream Chaser variant clearing its critical design review, the next steps will be crucial for its timeline and market positioning."
     },
     {
-      "title": "Sierra Space's Dream Chaser variant launch",
-      "body": "With its critical design review cleared, the pressure is on for Sierra Space to deliver."
+      "title": "Palantir's TITAN extension implications",
+      "body": "The $480 million extension on the TITAN program may signal a deeper commitment to integrating advanced data solutions in military operations."
     },
     {
-      "title": "Palantir's TITAN program extension",
-      "body": "The $480 million extension signals continued confidence in Palantir’s defense capabilities."
+      "title": "Watch for GPS jamming trends",
+      "body": "The return to pre-2024 levels of GPS jamming in the Eastern Med could impact operational strategies for both military and commercial entities."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "VSAT",
-      "note": "Viasat's $307 million contract is a significant boost to its military portfolio."
+      "note": "Viasat's stock may see a bump following the $307 million Marine Corps contract."
+    },
+    {
+      "sym": "ANDE",
+      "note": "Anduril's collaboration with L3Harris could enhance its competitive edge in defense contracts."
     },
     {
       "sym": "TRUE",
-      "note": "True Anomaly's $190 million raise shows strong interest in co-orbital security."
+      "note": "True Anomaly's $190 million funding round reflects strong investor confidence in space security."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's TITAN program extension keeps its defense narrative alive."
-    },
-    {
-      "sym": "SIEG",
-      "note": "Sierra Space's Dream Chaser variant is under scrutiny after passing its design review."
+      "note": "Palantir's extension on the TITAN program suggests sustained demand for its data analytics capabilities."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
