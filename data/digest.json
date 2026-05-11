@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity, from international collaborations on asteroid missions to significant defense contracts. Meanwhile, budget allocations and technological advancements continue to shape the landscape.",
+  "summary": "The space industry is buzzing with activity as companies pivot towards satellite technology and defense budgets are being recalibrated. Meanwhile, the specter of funding challenges looms large over ambitious projects.",
   "themes": [
     {
       "icon": "▣",
-      "title": "International Collaborations Flourish",
-      "body": "ESA and JAXA's finalized agreement on the Apophis mission underscores the growing trend of cross-border partnerships in space exploration. Paraguay's signing of the Artemis Accords further illustrates the expanding global commitment to lunar endeavors."
+      "title": "Satellite Imagery Innovations",
+      "body": "BlackSky's Lyn Chassagne emphasizes the role of satellite imagery in problem-solving, highlighting a growing trend among companies to leverage data for actionable insights. This shift could redefine how businesses and governments approach decision-making in a data-driven world."
     },
     {
       "icon": "▲",
-      "title": "Defense Contracts on the Rise",
-      "body": "Viasat's $307 million contract with the Marine Corps highlights the increasing demand for satellite communications in defense operations. Additionally, Palantir's $480 million extension on the TITAN program signals continued investment in ground station capabilities."
+      "title": "Capital Raises and New Ventures",
+      "body": "Creotech's $118 million capital raise for a new satellite factory signals a robust interest in expanding satellite manufacturing capabilities. Similarly, Cowboy's $275 million funding to develop rockets with orbital data centers underscores the increasing appetite for innovative space solutions."
     },
     {
       "icon": "◆",
-      "title": "Budget Boost for Space Resilience",
-      "body": "The FY27 budget markup's $1.4 billion addition to the space resilience line indicates a growing recognition of the need for robust space capabilities. This funding could enhance the U.S. position in an increasingly contested orbital environment."
+      "title": "Defense Budget Dynamics",
+      "body": "The failure to pass a defense budget is being viewed as a self-inflicted wound in the space race, potentially stalling critical projects. However, the recent $1.4 billion addition to the space resilience line in the FY27 budget markup suggests that some funding priorities are being reassessed."
     },
     {
       "icon": "◉",
-      "title": "Technological Developments Persist",
-      "body": "Sierra Space's Dream Chaser variant has cleared a critical design review, marking a step forward in reusable spacecraft technology. Meanwhile, MDA Space's ongoing work on the Gateway robotic arm continues to pave the way for lunar infrastructure."
+      "title": "Collaborative Defense Initiatives",
+      "body": "Anduril and L3Harris teaming up for a tactical SDA constellation bid reflects a trend of collaboration among defense contractors to enhance space capabilities. This partnership could set a precedent for future joint ventures aimed at bolstering national security in the orbital arena."
     }
   ],
-  "updated": "2026-05-10 16:38 UTC"
+  "updated": "2026-05-11 19:19 UTC"
 }

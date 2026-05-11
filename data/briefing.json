@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-10",
-  "issue": "No. 19",
-  "headline": "Contracts flow. Budgets swell. Startups thrive.",
-  "deck": "This week saw significant contracts and funding in the space sector, highlighting a robust market landscape.",
+  "updated": "2026-05-11",
+  "issue": "No. 20",
+  "headline": "Funding flows. Tactical tests. Space strategies.",
+  "deck": "This week highlights significant funding rounds and military developments in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -18,8 +18,8 @@
     },
     {
       "label": "SBIR Phase II",
-      "value": "$3M",
-      "sub": "this week · 2 winners",
+      "value": "$0K",
+      "sub": "this week · 0 winners",
       "trend": "up"
     },
     {
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "CONTRACTS",
-      "head": "Viasat bags $307 million Marine Corps contract",
-      "body": "Viasat has secured a $307 million contract with the Marine Corps for satellite communications, further entrenching its role in military connectivity. This deal is part of a broader trend where defense budgets are increasingly allocated towards advanced communications systems. With military needs evolving, Viasat is positioning itself as a go-to provider in a competitive field.",
-      "soWhat": "As military operations become more reliant on connectivity, Viasat's contract could signal a shift in how defense budgets prioritize communication technologies."
-    },
-    {
-      "kicker": "COLLABORATION",
-      "head": "Anduril and L3Harris team for SDA constellation",
-      "body": "Anduril and L3Harris have joined forces to bid on a tactical Space Development Agency (SDA) constellation project, showcasing a strategic alliance in the defense space. This collaboration is indicative of a growing trend where companies are pooling resources to tackle complex government contracts, especially in the realm of space-based technologies. The stakes are high, with the SDA's focus on enhancing national security through advanced space capabilities.",
-      "soWhat": "This partnership reflects a shift towards collaborative approaches in defense contracting, as companies realize that solo efforts may not cut it in the face of stringent government requirements."
-    },
-    {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M, eyes co-orbital security",
-      "body": "True Anomaly has successfully closed a $190 million Series C funding round, bringing its valuation to $1.6 billion. This funding will bolster its efforts in co-orbital security and space domain awareness, areas that are increasingly critical as geopolitical tensions rise. The investment underscores a strong belief in the need for enhanced security measures in space, reflecting a broader market trend.",
-      "soWhat": "True Anomaly's funding highlights the growing recognition that space security is not just a niche concern but a fundamental aspect of national defense strategy."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly has secured $190 million in a Series C funding round aimed at enhancing its co-orbital security capabilities. The company’s valuation now sits at $1.6 billion, underscoring the growing demand for space domain awareness technologies. With the Department of Defense increasingly focused on securing space assets, True Anomaly is well-positioned to capitalize on this trend.",
+      "soWhat": "If the DoD is pulling through for you, it might be time to start thinking about how to scale quickly."
+    },
+    {
+      "kicker": "DEFENSE",
+      "head": "Special Ops tests mobile satellite imagery platform",
+      "body": "The U.S. Special Operations Forces are currently testing a mobile platform that provides direct access to satellite imagery, integrating tactical operations with real-time data. This move reflects a broader trend of military units adopting commercial technologies, including apps, to enhance situational awareness on the field. The implications for future battlefield strategies could be significant.",
+      "soWhat": "When the military starts using apps for tactical decisions, it’s only a matter of time before they start asking for user reviews."
+    },
+    {
+      "kicker": "MANUFACTURING",
+      "head": "Creotech plans $118M satellite factory investment",
+      "body": "Creotech, the Polish aerospace company, is planning to raise $118 million to build a new satellite manufacturing facility. This investment is notable for Poland, a country that is still developing its aerospace capabilities, and could position Creotech as a key player in the European satellite market. The emphasis on local manufacturing aligns with broader European goals for strategic autonomy in space.",
+      "soWhat": "If Creotech can pull this off, it might just prove that you don't need to be a tech giant to make a dent in the satellite market."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on ESA and JAXA",
-      "body": "The finalized agreement on the Apophis mission could set the stage for future international collaborations on planetary defense."
+      "title": "Keep an eye on tactical SDA developments",
+      "body": "The ongoing tests by Special Operations Forces could lead to faster adoption of satellite technologies in military operations."
     },
     {
-      "title": "Sierra Space's next moves post-review",
-      "body": "With the Dream Chaser variant clearing its critical design review, the next steps will be crucial for its timeline and market positioning."
+      "title": "Creotech's funding strategy unfolds",
+      "body": "As Creotech seeks to raise capital, the effectiveness of its approach may influence other European startups in the space sector."
     },
     {
-      "title": "Palantir's TITAN extension implications",
-      "body": "The $480 million extension on the TITAN program may signal a deeper commitment to integrating advanced data solutions in military operations."
+      "title": "True Anomaly's growth trajectory",
+      "body": "With a significant funding boost, True Anomaly's next moves will be crucial in determining its market position in co-orbital security."
     },
     {
-      "title": "Watch for GPS jamming trends",
-      "body": "The return to pre-2024 levels of GPS jamming in the Eastern Med could impact operational strategies for both military and commercial entities."
+      "title": "Watch for defense budget developments",
+      "body": "The ongoing discussions around the defense budget could have lasting impacts on funding and priorities in the space sector."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "VSAT",
-      "note": "Viasat's stock may see a bump following the $307 million Marine Corps contract."
-    },
-    {
-      "sym": "ANDE",
-      "note": "Anduril's collaboration with L3Harris could enhance its competitive edge in defense contracts."
-    },
-    {
-      "sym": "TRUE",
-      "note": "True Anomaly's $190 million funding round reflects strong investor confidence in space security."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains volatile as it navigates regulatory hurdles and funding needs."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's extension on the TITAN program suggests sustained demand for its data analytics capabilities."
+      "note": "Palantir's $480M extension on the TITAN program solidifies its role in ground station technologies."
+    },
+    {
+      "sym": "ASTS",
+      "note": "AST SpaceMobile faces execution risks, but bullish sentiment remains due to its unique market position."
+    },
+    {
+      "sym": "COWBOY",
+      "note": "Cowboy's $275M funding round for rocket development signals a growing interest in dual-use space technologies."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
