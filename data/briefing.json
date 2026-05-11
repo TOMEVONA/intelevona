@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-11",
   "issue": "No. 20",
-  "headline": "Funding flows. Tactical tests. Space strategies.",
-  "deck": "This week highlights significant funding rounds and military developments in the space sector.",
+  "headline": "Funding flows. Budgets stall. Partnerships form.",
+  "deck": "This week highlights significant funding in satellite manufacturing and defense tech, while budget concerns linger.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly has secured $190 million in a Series C funding round aimed at enhancing its co-orbital security capabilities. The company’s valuation now sits at $1.6 billion, underscoring the growing demand for space domain awareness technologies. With the Department of Defense increasingly focused on securing space assets, True Anomaly is well-positioned to capitalize on this trend.",
-      "soWhat": "If the DoD is pulling through for you, it might be time to start thinking about how to scale quickly."
+      "head": "Cowboy Space raises $275 million for rockets",
+      "body": "Cowboy Space has secured $275 million to develop rockets featuring orbital data center upper stages, a move that underscores the growing demand for integrated data solutions in space. This funding reflects a broader trend where investors are willing to back companies that promise to merge data with launch capabilities, even if the tech isn't fully baked yet.",
+      "soWhat": "Investors seem to be betting on the idea that data in orbit is the new gold rush, but the question remains—how many of these projects can actually deliver?"
     },
     {
-      "kicker": "DEFENSE",
-      "head": "Special Ops tests mobile satellite imagery platform",
-      "body": "The U.S. Special Operations Forces are currently testing a mobile platform that provides direct access to satellite imagery, integrating tactical operations with real-time data. This move reflects a broader trend of military units adopting commercial technologies, including apps, to enhance situational awareness on the field. The implications for future battlefield strategies could be significant.",
-      "soWhat": "When the military starts using apps for tactical decisions, it’s only a matter of time before they start asking for user reviews."
+      "kicker": "BUDGETS",
+      "head": "Defense budget impasse raises alarms for space",
+      "body": "The failure to pass a defense budget is drawing attention as a self-inflicted wound in the space race, with implications for funding critical space initiatives. The FY27 budget markup included a $1.4 billion boost for space resilience, but without a finalized budget, the actual allocation remains uncertain, leaving many projects in limbo.",
+      "soWhat": "In a sector where every dollar counts, this budget gridlock could stall progress and embolden adversaries who are not waiting on Congress."
     },
     {
-      "kicker": "MANUFACTURING",
-      "head": "Creotech plans $118M satellite factory investment",
-      "body": "Creotech, the Polish aerospace company, is planning to raise $118 million to build a new satellite manufacturing facility. This investment is notable for Poland, a country that is still developing its aerospace capabilities, and could position Creotech as a key player in the European satellite market. The emphasis on local manufacturing aligns with broader European goals for strategic autonomy in space.",
-      "soWhat": "If Creotech can pull this off, it might just prove that you don't need to be a tech giant to make a dent in the satellite market."
+      "kicker": "TECH",
+      "head": "Palantir secures $480M for ground station program",
+      "body": "Palantir has won a $480 million extension on its TITAN ground station program, further entrenching its role in defense data management. This extension comes as the military increasingly relies on advanced software solutions to manage vast amounts of satellite data, highlighting the growing importance of software in defense strategies.",
+      "soWhat": "Palantir's ability to secure such significant contracts suggests that software is becoming the backbone of modern military operations, even as hardware struggles to keep pace."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on tactical SDA developments",
-      "body": "The ongoing tests by Special Operations Forces could lead to faster adoption of satellite technologies in military operations."
+      "title": "Creotech's satellite factory funding efforts",
+      "body": "Creotech is looking to raise $118 million for a new satellite factory in Poland, which could influence European satellite manufacturing dynamics."
     },
     {
-      "title": "Creotech's funding strategy unfolds",
-      "body": "As Creotech seeks to raise capital, the effectiveness of its approach may influence other European startups in the space sector."
+      "title": "Anduril and L3Harris collaboration",
+      "body": "The partnership between Anduril and L3Harris for a tactical SDA constellation bid could reshape defense satellite strategies."
     },
     {
-      "title": "True Anomaly's growth trajectory",
-      "body": "With a significant funding boost, True Anomaly's next moves will be crucial in determining its market position in co-orbital security."
+      "title": "True Anomaly's Series C implications",
+      "body": "True Anomaly's $190 million Series C funding may signal increased interest in co-orbital security solutions from the Defense Department."
     },
     {
-      "title": "Watch for defense budget developments",
-      "body": "The ongoing discussions around the defense budget could have lasting impacts on funding and priorities in the space sector."
+      "title": "Astranis' strategic funding for comms",
+      "body": "Astranis' $250 million strategic funding round might accelerate its microGEO production, impacting the small satellite communications market."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates regulatory hurdles and funding needs."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program solidifies its role in ground station technologies."
-    },
-    {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile faces execution risks, but bullish sentiment remains due to its unique market position."
+      "note": "Palantir's $480M extension shows the military's reliance on data management software."
     },
     {
       "sym": "COWBOY",
-      "note": "Cowboy's $275M funding round for rocket development signals a growing interest in dual-use space technologies."
+      "note": "Cowboy Space's $275M funding reflects investor confidence in data-driven launch technologies."
+    },
+    {
+      "sym": "CREO",
+      "note": "Creotech's plans for a satellite factory could shift the European manufacturing landscape."
+    },
+    {
+      "sym": "TRUAN",
+      "note": "True Anomaly's latest funding round positions it as a key player in co-orbital security."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
