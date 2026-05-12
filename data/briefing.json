@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-12",
   "issue": "No. 21",
-  "headline": "Funding flows. Contracts signed. Delays persist.",
-  "deck": "This week saw significant funding rounds and contract awards, while delays continue to plague hypersonic tests.",
+  "headline": "Funding flows. Tests stumble. Partnerships form.",
+  "deck": "This week saw fresh capital in space, but not all tests hit the mark.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190 million in a Series C funding round, pushing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, with the Department of Defense increasingly pulling in private sector capabilities. This funding suggests that investors are betting heavily on the need for enhanced security in low Earth orbit.",
-      "soWhat": "With the DoD's appetite for co-orbital capabilities growing, True Anomaly is positioned to capitalize on a lucrative market, provided it can deliver."
-    },
-    {
-      "kicker": "CONTRACT",
-      "head": "Space Force awards TrustPoint $4 million for navigation",
-      "body": "The Space Force has awarded TrustPoint a $4 million contract to develop a C-band navigation system as a GPS alternative. This contract underscores the military's focus on redundancy in navigation systems, especially as GPS vulnerabilities become more apparent. TrustPoint's work could be pivotal in ensuring reliable navigation in contested environments.",
-      "soWhat": "TrustPoint's win signals a shift toward more resilient navigation solutions, which could reshape how military operations are conducted in the future."
+      "body": "True Anomaly secured $190 million in Series C funding, valuing the company at $1.6 billion. This round underscores the demand for co-orbital security solutions as the Department of Defense leans into satellite defense. Investors are clearly betting on the notion that protecting space assets is the new frontier.",
+      "soWhat": "If the DoD is the headline, True Anomaly might just be the headline act."
     },
     {
       "kicker": "TECH",
-      "head": "Star Catcher raises $65 million for power-beaming tech",
-      "body": "Star Catcher has raised $65 million to validate its power-beaming technology aimed at satellites. This funding comes at a time when the potential for satellite-based power delivery is gaining traction among investors. The company's approach could redefine how power is distributed in space, moving beyond traditional methods.",
-      "soWhat": "If Star Catcher can prove its technology works, it may open up an entirely new market for satellite services, making conventional power delivery feel antiquated."
+      "head": "Sierra Space’s Dream Chaser variant clears review",
+      "body": "Sierra Space announced that its Dream Chaser DoD variant has passed a critical design review, a milestone that suggests the company is on track for future government contracts. The Dream Chaser's design aims to provide cargo and crew transportation, which could be a game-changer for military logistics in space.",
+      "soWhat": "Let’s just hope it doesn’t end up like the sequel no one asked for."
+    },
+    {
+      "kicker": "CONTRACTS",
+      "head": "Space Force awards TrustPoint $4M for navigation",
+      "body": "The Space Force has awarded TrustPoint a $4 million contract to develop a C-band navigation system aimed at enhancing low Earth orbit navigation. This contract is part of a broader push to create alternatives to GPS, which has become a bit like diet soda—always trying to find its moment in the spotlight.",
+      "soWhat": "If GPS is the gold standard, TrustPoint is just trying to be the next best alternative."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for TrustPoint's navigation demo results",
-      "body": "The results of TrustPoint's navigation demonstration could set the stage for future military contracts, especially as GPS alternatives gain traction."
+      "title": "Watch for more co-orbital funding rounds",
+      "body": "As True Anomaly leads the charge, expect other players in co-orbital security to seek capital, especially with rising geopolitical tensions."
     },
     {
-      "title": "True Anomaly's next moves post-funding",
-      "body": "With $190 million in the bank, True Anomaly's strategy for scaling operations will be closely scrutinized by both investors and competitors."
+      "title": "Sierra Space's next steps post-review",
+      "body": "With the Dream Chaser variant cleared, watch for announcements on partnerships or contracts that could follow, especially with the DoD."
     },
     {
-      "title": "Sierra Space's Dream Chaser development updates",
-      "body": "As Sierra Space moves forward with its Dream Chaser variant for the DoD, any updates could signal shifts in government contracting priorities."
+      "title": "TrustPoint's navigation system progress",
+      "body": "Keep an eye on TrustPoint's development timeline; if they can deliver on this contract, it could set the stage for more lucrative deals."
     },
     {
-      "title": "Anticipate more funding in power tech",
-      "body": "The interest in power-beaming technologies is likely to attract further investment, especially as Star Catcher validates its approach."
+      "title": "Potential IPOs in defense-tech",
+      "body": "As the defense-tech IPO window creaks open, companies like Anduril may be looking to capitalize, so prepare for valuation gymnastics."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it continues to face operational challenges."
+      "note": "Virgin Galactic continues to hover around $5, with no clear flight plan in sight."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480 million extension on the TITAN program highlights its stronghold in government contracts."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480M extension on the TITAN program shows that software is still a lucrative space play."
     },
     {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's bullish case suggests it may finally be overcoming execution risks."
+      "sym": "AER",
+      "note": "Aerojet Rocketdyne is bouncing back this week, but investors should still check the launch schedule."
     },
     {
-      "sym": "SLS",
-      "note": "NASA's Space Launch System continues to face scrutiny as its next launch date remains uncertain."
+      "sym": "LMT",
+      "note": "Lockheed Martin's stock remains steady as defense budgets increase, but watch for any contract delays."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

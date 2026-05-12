@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with new contracts, funding rounds, and a few hiccups in hypersonic testing. As the U.S. government increases its budget for space resilience, private players are scrambling to secure their foothold in the ever-competitive landscape.",
+  "summary": "This week, the space industry is buzzing with fresh funding rounds and new partnerships, while the Space Force continues to invest in navigation and resilience. Meanwhile, the hypersonic program remains in a holding pattern, much like a plane circling the airport.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Frenzy in Space Tech",
-      "body": "Star Catcher’s recent $65 million raise and True Anomaly’s $190 million Series C highlight the growing investor appetite for space infrastructure. As the industry matures, expect more capital flowing into innovative solutions that promise to reshape our orbital landscape."
+      "title": "Funding Flurry in Space",
+      "body": "Star Catcher and True Anomaly have both secured significant investments, signaling a growing interest in in-orbit infrastructure and data services. This influx of capital suggests investors are keen to capitalize on the burgeoning market for space resources."
     },
     {
       "icon": "◉",
-      "title": "Government Contracts Galore",
-      "body": "The Space Force's $4 million award to TrustPoint for LEO navigation is just one of many recent contracts aimed at enhancing U.S. capabilities in space. With the FY27 budget adding $1.4 billion for space resilience, government spending is set to fuel further advancements."
+      "title": "Space Force's Strategic Moves",
+      "body": "With a $4 million award to TrustPoint for LEO navigation and an additional $1.4 billion earmarked for space resilience in the FY27 budget, the Space Force is clearly doubling down on its operational capabilities. These investments reflect a strategic pivot towards enhancing situational awareness and navigation in increasingly crowded orbits."
     },
     {
       "icon": "▲",
-      "title": "Laser Communications Take Center Stage",
-      "body": "Transcelestial's testing of space-to-ground laser communications technologies could redefine data transmission in space. As bandwidth demands grow, this technology may provide the necessary boost to keep pace with increasing satellite deployments."
+      "title": "Testing Times for Hypersonics",
+      "body": "The hypersonic glide-vehicle program has once again slipped its testing schedule, marking the third consecutive quarter of delays. This raises questions about the program's viability and the broader implications for U.S. defense capabilities in a rapidly evolving threat landscape."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Hiccups Persist",
-      "body": "The latest hypersonic glide-vehicle test slipping for the third consecutive quarter raises questions about the pace of U.S. advancements in this critical area. While the stakes are high, the delays suggest that the road to hypersonic capability is still fraught with challenges."
+      "title": "New Players in the Game",
+      "body": "As Anduril and L3Harris team up for a tactical SDA constellation bid, the competitive landscape is shifting with new entrants looking to disrupt traditional aerospace dynamics. This collaboration hints at a trend where established defense contractors are increasingly partnering with tech innovators to stay relevant."
     }
   ],
-  "updated": "2026-05-12 19:22 UTC"
+  "updated": "2026-05-12 20:18 UTC"
 }
