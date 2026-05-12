@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is seeing a mix of capital raises and strategic partnerships, with a focus on satellite technology and defense applications. Meanwhile, budgetary concerns loom large as the defense sector grapples with funding uncertainties.",
+  "summary": "The space industry is buzzing with new contracts, funding rounds, and a few hiccups in hypersonic testing. As the U.S. government increases its budget for space resilience, private players are scrambling to secure their foothold in the ever-competitive landscape.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Capital Raises and Investments",
-      "body": "Creotech's $118 million capital raise for a new satellite factory signals a growing appetite for production capabilities. Similarly, Cowboy's $275 million round emphasizes the trend of integrating orbital data with launch systems."
+      "title": "Funding Frenzy in Space Tech",
+      "body": "Star Catcher’s recent $65 million raise and True Anomaly’s $190 million Series C highlight the growing investor appetite for space infrastructure. As the industry matures, expect more capital flowing into innovative solutions that promise to reshape our orbital landscape."
     },
     {
       "icon": "◉",
-      "title": "Defense Budget Woes",
-      "body": "The failure to pass a defense budget could hinder the U.S. space race, potentially stalling critical programs. The recent $1.4 billion addition to the space resilience line may not be enough to offset these concerns."
+      "title": "Government Contracts Galore",
+      "body": "The Space Force's $4 million award to TrustPoint for LEO navigation is just one of many recent contracts aimed at enhancing U.S. capabilities in space. With the FY27 budget adding $1.4 billion for space resilience, government spending is set to fuel further advancements."
     },
     {
       "icon": "▲",
-      "title": "Partnerships in Space Tech",
-      "body": "Anduril and L3Harris's collaboration on a tactical SDA constellation bid highlights the increasing importance of joint ventures in space technology. Such alliances are becoming essential for navigating the complex landscape of defense needs."
+      "title": "Laser Communications Take Center Stage",
+      "body": "Transcelestial's testing of space-to-ground laser communications technologies could redefine data transmission in space. As bandwidth demands grow, this technology may provide the necessary boost to keep pace with increasing satellite deployments."
     },
     {
       "icon": "◆",
-      "title": "Shifting Focus on AI and Data",
-      "body": "The rise of AI applications in defense, as evidenced by the growing interest from YC companies, reflects a pivotal shift in how data is leveraged in military contexts. Operational AI's limitations in Earth observation data further underscore the challenges ahead."
+      "title": "Hypersonic Hiccups Persist",
+      "body": "The latest hypersonic glide-vehicle test slipping for the third consecutive quarter raises questions about the pace of U.S. advancements in this critical area. While the stakes are high, the delays suggest that the road to hypersonic capability is still fraught with challenges."
     }
   ],
-  "updated": "2026-05-11 20:24 UTC"
+  "updated": "2026-05-12 19:22 UTC"
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-11",
-  "issue": "No. 20",
-  "headline": "Funding flows. Budgets stall. Partnerships form.",
-  "deck": "This week highlights significant funding in satellite manufacturing and defense tech, while budget concerns linger.",
+  "updated": "2026-05-12",
+  "issue": "No. 21",
+  "headline": "Funding flows. Contracts signed. Delays persist.",
+  "deck": "This week saw significant funding rounds and contract awards, while delays continue to plague hypersonic tests.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "Cowboy Space raises $275 million for rockets",
-      "body": "Cowboy Space has secured $275 million to develop rockets featuring orbital data center upper stages, a move that underscores the growing demand for integrated data solutions in space. This funding reflects a broader trend where investors are willing to back companies that promise to merge data with launch capabilities, even if the tech isn't fully baked yet.",
-      "soWhat": "Investors seem to be betting on the idea that data in orbit is the new gold rush, but the question remains—how many of these projects can actually deliver?"
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured $190 million in a Series C funding round, pushing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, with the Department of Defense increasingly pulling in private sector capabilities. This funding suggests that investors are betting heavily on the need for enhanced security in low Earth orbit.",
+      "soWhat": "With the DoD's appetite for co-orbital capabilities growing, True Anomaly is positioned to capitalize on a lucrative market, provided it can deliver."
     },
     {
-      "kicker": "BUDGETS",
-      "head": "Defense budget impasse raises alarms for space",
-      "body": "The failure to pass a defense budget is drawing attention as a self-inflicted wound in the space race, with implications for funding critical space initiatives. The FY27 budget markup included a $1.4 billion boost for space resilience, but without a finalized budget, the actual allocation remains uncertain, leaving many projects in limbo.",
-      "soWhat": "In a sector where every dollar counts, this budget gridlock could stall progress and embolden adversaries who are not waiting on Congress."
+      "kicker": "CONTRACT",
+      "head": "Space Force awards TrustPoint $4 million for navigation",
+      "body": "The Space Force has awarded TrustPoint a $4 million contract to develop a C-band navigation system as a GPS alternative. This contract underscores the military's focus on redundancy in navigation systems, especially as GPS vulnerabilities become more apparent. TrustPoint's work could be pivotal in ensuring reliable navigation in contested environments.",
+      "soWhat": "TrustPoint's win signals a shift toward more resilient navigation solutions, which could reshape how military operations are conducted in the future."
     },
     {
       "kicker": "TECH",
-      "head": "Palantir secures $480M for ground station program",
-      "body": "Palantir has won a $480 million extension on its TITAN ground station program, further entrenching its role in defense data management. This extension comes as the military increasingly relies on advanced software solutions to manage vast amounts of satellite data, highlighting the growing importance of software in defense strategies.",
-      "soWhat": "Palantir's ability to secure such significant contracts suggests that software is becoming the backbone of modern military operations, even as hardware struggles to keep pace."
+      "head": "Star Catcher raises $65 million for power-beaming tech",
+      "body": "Star Catcher has raised $65 million to validate its power-beaming technology aimed at satellites. This funding comes at a time when the potential for satellite-based power delivery is gaining traction among investors. The company's approach could redefine how power is distributed in space, moving beyond traditional methods.",
+      "soWhat": "If Star Catcher can prove its technology works, it may open up an entirely new market for satellite services, making conventional power delivery feel antiquated."
     }
   ],
   "watchlist": [
     {
-      "title": "Creotech's satellite factory funding efforts",
-      "body": "Creotech is looking to raise $118 million for a new satellite factory in Poland, which could influence European satellite manufacturing dynamics."
+      "title": "Watch for TrustPoint's navigation demo results",
+      "body": "The results of TrustPoint's navigation demonstration could set the stage for future military contracts, especially as GPS alternatives gain traction."
     },
     {
-      "title": "Anduril and L3Harris collaboration",
-      "body": "The partnership between Anduril and L3Harris for a tactical SDA constellation bid could reshape defense satellite strategies."
+      "title": "True Anomaly's next moves post-funding",
+      "body": "With $190 million in the bank, True Anomaly's strategy for scaling operations will be closely scrutinized by both investors and competitors."
     },
     {
-      "title": "True Anomaly's Series C implications",
-      "body": "True Anomaly's $190 million Series C funding may signal increased interest in co-orbital security solutions from the Defense Department."
+      "title": "Sierra Space's Dream Chaser development updates",
+      "body": "As Sierra Space moves forward with its Dream Chaser variant for the DoD, any updates could signal shifts in government contracting priorities."
     },
     {
-      "title": "Astranis' strategic funding for comms",
-      "body": "Astranis' $250 million strategic funding round might accelerate its microGEO production, impacting the small satellite communications market."
+      "title": "Anticipate more funding in power tech",
+      "body": "The interest in power-beaming technologies is likely to attract further investment, especially as Star Catcher validates its approach."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains volatile as it continues to face operational challenges."
+    },
+    {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension shows the military's reliance on data management software."
+      "note": "Palantir's $480 million extension on the TITAN program highlights its stronghold in government contracts."
     },
     {
-      "sym": "COWBOY",
-      "note": "Cowboy Space's $275M funding reflects investor confidence in data-driven launch technologies."
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's bullish case suggests it may finally be overcoming execution risks."
     },
     {
-      "sym": "CREO",
-      "note": "Creotech's plans for a satellite factory could shift the European manufacturing landscape."
-    },
-    {
-      "sym": "TRUAN",
-      "note": "True Anomaly's latest funding round positions it as a key player in co-orbital security."
+      "sym": "SLS",
+      "note": "NASA's Space Launch System continues to face scrutiny as its next launch date remains uncertain."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
