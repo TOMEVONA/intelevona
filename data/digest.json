@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space industry is buzzing with fresh funding rounds and new partnerships, while the Space Force continues to invest in navigation and resilience. Meanwhile, the hypersonic program remains in a holding pattern, much like a plane circling the airport.",
+  "summary": "This week, the space industry is buzzing with competition and collaborations, as companies vie for attention and funding. Notable developments include new lunar navigation efforts and a flurry of activity around satellite cancellations and launches.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Flurry in Space",
-      "body": "Star Catcher and True Anomaly have both secured significant investments, signaling a growing interest in in-orbit infrastructure and data services. This influx of capital suggests investors are keen to capitalize on the burgeoning market for space resources."
+      "title": "Competition Heats Up",
+      "body": "Rocketeers are making their mark at the IREC, showcasing innovations and vying for investor interest. Meanwhile, SpaceX's upcoming Starship version 3 launch adds fuel to the competitive fire."
     },
     {
       "icon": "◉",
-      "title": "Space Force's Strategic Moves",
-      "body": "With a $4 million award to TrustPoint for LEO navigation and an additional $1.4 billion earmarked for space resilience in the FY27 budget, the Space Force is clearly doubling down on its operational capabilities. These investments reflect a strategic pivot towards enhancing situational awareness and navigation in increasingly crowded orbits."
+      "title": "Lunar Navigation Ventures",
+      "body": "Northrop Grumman is setting its sights on the lunar navigation market with a Webb-derived guidance system, indicating a strategic pivot towards lunar operations. This move could position them well as lunar missions ramp up."
     },
     {
       "icon": "▲",
-      "title": "Testing Times for Hypersonics",
-      "body": "The hypersonic glide-vehicle program has once again slipped its testing schedule, marking the third consecutive quarter of delays. This raises questions about the program's viability and the broader implications for U.S. defense capabilities in a rapidly evolving threat landscape."
+      "title": "Satellite Cancellations Continue",
+      "body": "SES and Eutelsat's decision to cancel GEO expansion satellites highlights the ongoing challenges in the satellite market. As operators reassess their strategies, the implications for future satellite deployments remain uncertain."
     },
     {
       "icon": "◆",
-      "title": "New Players in the Game",
-      "body": "As Anduril and L3Harris team up for a tactical SDA constellation bid, the competitive landscape is shifting with new entrants looking to disrupt traditional aerospace dynamics. This collaboration hints at a trend where established defense contractors are increasingly partnering with tech innovators to stay relevant."
+      "title": "Funding and Collaborations",
+      "body": "Varda's partnership with United Therapeutics for microgravity drug research exemplifies the growing interest in space-based applications. Additionally, Palantir's $480M extension on the TITAN program signals robust demand for ground station capabilities."
     }
   ],
-  "updated": "2026-05-12 20:18 UTC"
+  "updated": "2026-05-13 19:25 UTC"
 }
