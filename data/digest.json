@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space industry is buzzing with competition and collaborations, as companies vie for attention and funding. Notable developments include new lunar navigation efforts and a flurry of activity around satellite cancellations and launches.",
+  "summary": "The space industry is buzzing with activity, from lunar navigation ambitions to the latest in satellite cancellations. Meanwhile, the budget is looking a bit more generous for space resilience, and the competition is heating up as various players vie for dominance in the sector.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Competition Heats Up",
-      "body": "Rocketeers are making their mark at the IREC, showcasing innovations and vying for investor interest. Meanwhile, SpaceX's upcoming Starship version 3 launch adds fuel to the competitive fire."
+      "title": "Lunar Navigation Takes Shape",
+      "body": "Northrop Grumman is setting its sights on the lunar navigation market with a new guidance system derived from the Webb telescope. This could signal a shift in how we approach lunar missions, blending terrestrial tech with celestial navigation."
     },
     {
       "icon": "◉",
-      "title": "Lunar Navigation Ventures",
-      "body": "Northrop Grumman is setting its sights on the lunar navigation market with a Webb-derived guidance system, indicating a strategic pivot towards lunar operations. This move could position them well as lunar missions ramp up."
+      "title": "Satellite Cancellations Raise Eyebrows",
+      "body": "SES and Eutelsat's decision to cancel GEO expansion satellites highlights the shifting dynamics in satellite deployment strategies. As LEO services gain traction, the GEO market might need to rethink its value proposition."
     },
     {
       "icon": "▲",
-      "title": "Satellite Cancellations Continue",
-      "body": "SES and Eutelsat's decision to cancel GEO expansion satellites highlights the ongoing challenges in the satellite market. As operators reassess their strategies, the implications for future satellite deployments remain uncertain."
+      "title": "Budget Boost for Space Resilience",
+      "body": "The recent FY27 budget markup adds $1.4 billion to the space resilience line, reflecting a growing recognition of the need for robust capabilities. This funding could pave the way for advancements that enhance national security in orbit."
     },
     {
       "icon": "◆",
-      "title": "Funding and Collaborations",
-      "body": "Varda's partnership with United Therapeutics for microgravity drug research exemplifies the growing interest in space-based applications. Additionally, Palantir's $480M extension on the TITAN program signals robust demand for ground station capabilities."
+      "title": "Competition in the Launch Arena",
+      "body": "With SpaceX setting a date for its first Starship version 3 launch, the competition among launch providers is intensifying. The stakes are high as other rocketeers scramble to capture market attention and secure contracts."
     }
   ],
-  "updated": "2026-05-13 19:25 UTC"
+  "updated": "2026-05-13 20:22 UTC"
 }
