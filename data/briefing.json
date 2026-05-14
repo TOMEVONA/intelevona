@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-14",
   "issue": "No. 23",
-  "headline": "Funding flows. Budgets stall. Innovation lingers.",
-  "deck": "This week saw mixed signals with funding surges and budget stagnation.",
+  "headline": "Acquisitions accelerate. Budgets expand. Delays persist.",
+  "deck": "This week, companies are consolidating while budgets for space resilience grow, but some tests still can't seem to get off the ground.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
+      "kicker": "ACQUISITIONS",
+      "head": "Intuitive Machines buys ground station for lunar Wi-Fi",
+      "body": "Intuitive Machines is acquiring a ground station company to enhance its lunar communications network, emphasizing the importance of connectivity in space. This move comes amid their ongoing lunar mission preparations, reinforcing that even lunar landers need reliable Wi-Fi. The financial details remain undisclosed, but it signals a strategic pivot towards robust communication infrastructure.",
+      "soWhat": "With lunar missions on the rise, expect more companies to prioritize ground infrastructure—because even space needs solid customer support."
+    },
+    {
+      "kicker": "DEFENSE",
+      "head": "Golden Dome chief defends $1.2 trillion interceptor plan",
+      "body": "Gen. Michael Guetlein is pushing back against the Congressional Budget Office's $1.2 trillion estimate for his space interceptor plans, arguing that affordability is the real challenge in the space race. This public defense highlights the ongoing tension between ambitious defense projects and fiscal realities, as military budgets face scrutiny. The stakes are high, and the clock is ticking.",
+      "soWhat": "This isn’t just about numbers; it’s a reminder that the real battle is convincing Congress to fund your vision amidst rising costs."
+    },
+    {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid defense pull",
-      "body": "True Anomaly secured $190M in a Series C round, pushing its valuation to $1.6 billion. The funding highlights the growing demand for co-orbital security solutions, especially as the DoD emphasizes space domain awareness. With the defense sector's appetite for innovative security solutions, True Anomaly is well-positioned to capitalize.",
-      "soWhat": "It's a reminder that in defense, cash often flows more freely than actual innovation."
-    },
-    {
-      "kicker": "ACQUISITION",
-      "head": "Iridium's acquisition of Aireon raises eyebrows",
-      "body": "Iridium is acquiring the remaining stake in Aireon for an undisclosed amount, aiming to enhance its aviation safety services. This move is akin to adding lifeguards to a crowded pool, as Iridium already has a solid footing in satellite communications. The integration could streamline operations, but the real question is whether it will effectively address the market's growing safety demands.",
-      "soWhat": "In a saturated market, simply expanding services may not guarantee success."
-    },
-    {
-      "kicker": "BUDGET",
-      "head": "NASA's flat budget reflects stagnation",
-      "body": "The House Appropriations Committee has approved a spending bill that keeps NASA's budget flat, a move that could hinder ambitious projects. With no increase in funding, NASA may struggle to meet its long-term goals, especially as competitors ramp up their own space initiatives. This stagnation could stifle innovation at a time when the industry needs it most.",
-      "soWhat": "In space, a flat budget is often the first step toward a downward spiral."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly has successfully raised $190 million in a Series C round, bringing its valuation to $1.6 billion. This funding round signals strong interest in co-orbital security and space domain awareness, areas that are increasingly relevant as geopolitical tensions rise. The DoD's interest in their technology is a clear endorsement of their mission.",
+      "soWhat": "In a world of space threats, investors are betting big on security solutions—because who doesn’t want a safety net in orbit?"
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on AST SpaceMobile's launch plans",
-      "body": "The potential use of ULA's Vulcan rocket could diversify AST SpaceMobile's launch options, impacting its timeline and costs."
-    },
-    {
-      "title": "Palantir's TITAN extension implications",
-      "body": "The $480M extension on the TITAN program could signal increased demand for ground station capabilities in a data-driven defense landscape."
-    },
-    {
-      "title": "Sierra Space's Dream Chaser developments",
-      "body": "With the Dream Chaser DoD variant clearing its design review, its future missions could reshape logistics in space."
+      "title": "Monitor AST SpaceMobile's Vulcan launch plans",
+      "body": "If AST SpaceMobile partners with ULA for launches, it could reshape their satellite deployment strategy and impact market dynamics."
     },
     {
       "title": "Watch for hypersonic test delays",
-      "body": "The continued delays in hypersonic glide-vehicle tests could signal deeper issues in defense project management and execution."
+      "body": "The continued slips in hypersonic glide-vehicle tests could further erode confidence in defense timelines and budgets."
+    },
+    {
+      "title": "Palantir's TITAN program extension implications",
+      "body": "With a $480 million extension on the TITAN program, Palantir's role in defense logistics could expand significantly."
+    },
+    {
+      "title": "Keep an eye on Sierra Space's Dream Chaser",
+      "body": "Following its critical design review pass, the next steps for Sierra Space will be crucial in determining its future in the DoD market."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates its operational challenges."
+      "sym": "TAN",
+      "note": "Intuitive Machines' acquisition indicates a growing focus on ground infrastructure, which could affect TAN's market position."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's recent contract extensions highlight its growing influence in defense analytics."
-    },
-    {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's potential launch plans could impact its stock performance in the coming weeks."
+      "note": "Palantir's $480M TITAN extension suggests sustained demand for its defense solutions amid budget pressures."
     },
     {
       "sym": "SLS",
-      "note": "NASA's flat budget may put further pressure on the SLS program's future funding."
+      "note": "Sierra Space's Dream Chaser passing its design review could position it well against competitors in government contracts."
+    },
+    {
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's potential Vulcan launches may provide a competitive edge in the satellite market."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

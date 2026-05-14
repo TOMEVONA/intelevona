@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space industry is navigating a mix of budgetary constraints and strategic partnerships, with a notable focus on resilience and safety. Meanwhile, the hypersonic glide-vehicle program continues to stumble, raising questions about readiness.",
+  "summary": "A mix of acquisitions and budget adjustments are stirring the pot in the space and defense sectors this week. Meanwhile, the hypersonic glide-vehicle program continues to test the limits of patience, and the commercial space landscape remains as competitive as ever.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Budgetary Tightrope Walk",
-      "body": "House appropriators have approved a spending bill that keeps NASA's budget flat, while the FY27 budget markup adds $1.4 billion to space resilience. This juxtaposition highlights the ongoing struggle to balance innovation with fiscal responsibility."
+      "title": "Acquisitions on the Rise",
+      "body": "Iridium's takeover of Aireon signals a strategic pivot toward enhancing aviation safety through space-based systems. Intuitive Machines' planned acquisition of a ground station company further illustrates the trend of consolidation in the industry."
     },
     {
       "icon": "◉",
-      "title": "Mergers and Acquisitions Buzz",
-      "body": "Iridium's acquisition of Aireon signals a strategic move to bolster aviation safety services, while Palantir's $480 million extension on the TITAN program reflects the growing importance of data in defense. Expect more consolidation as companies seek to enhance their capabilities."
+      "title": "Budget Boosts Space Resilience",
+      "body": "The FY27 budget markup's $1.4 billion increase for space resilience reflects growing concerns about national security in the orbital domain. This funding could bolster efforts to counteract threats, particularly in light of recent Russian activities near commercial GEO slots."
     },
     {
       "icon": "▲",
-      "title": "Hypersonic Hurdles Persist",
-      "body": "For the third consecutive quarter, the hypersonic glide-vehicle test has slipped, casting doubt on the program's timeline and efficacy. This ongoing delay underscores the complexities of developing cutting-edge military technologies."
+      "title": "Hypersonic Hiccups Persist",
+      "body": "For the third consecutive quarter, hypersonic glide-vehicle tests have slipped, raising eyebrows about the program's trajectory. The delays may prompt a reevaluation of timelines and expectations in a field where speed is of the essence."
     },
     {
       "icon": "◆",
-      "title": "Space Partnerships Evolving",
-      "body": "Anduril and L3Harris are teaming up on a tactical SDA constellation bid, demonstrating a trend towards collaboration in the defense sector. As the landscape shifts, expect more alliances to form in pursuit of advanced capabilities."
+      "title": "Commercial Space Competition Heats Up",
+      "body": "With companies like True Anomaly raising significant capital and Palantir extending its ground station program, the commercial space sector is buzzing with activity. Meanwhile, AST SpaceMobile's potential use of ULA’s Vulcan rocket underscores the ongoing race to secure launch capabilities."
     }
   ],
-  "updated": "2026-05-14 19:23 UTC"
+  "updated": "2026-05-14 20:17 UTC"
 }
