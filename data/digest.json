@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity, from lunar navigation ambitions to the latest in satellite cancellations. Meanwhile, the budget is looking a bit more generous for space resilience, and the competition is heating up as various players vie for dominance in the sector.",
+  "summary": "This week, the space industry is navigating a mix of budgetary constraints and strategic partnerships, with a notable focus on resilience and safety. Meanwhile, the hypersonic glide-vehicle program continues to stumble, raising questions about readiness.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Lunar Navigation Takes Shape",
-      "body": "Northrop Grumman is setting its sights on the lunar navigation market with a new guidance system derived from the Webb telescope. This could signal a shift in how we approach lunar missions, blending terrestrial tech with celestial navigation."
+      "title": "Budgetary Tightrope Walk",
+      "body": "House appropriators have approved a spending bill that keeps NASA's budget flat, while the FY27 budget markup adds $1.4 billion to space resilience. This juxtaposition highlights the ongoing struggle to balance innovation with fiscal responsibility."
     },
     {
       "icon": "◉",
-      "title": "Satellite Cancellations Raise Eyebrows",
-      "body": "SES and Eutelsat's decision to cancel GEO expansion satellites highlights the shifting dynamics in satellite deployment strategies. As LEO services gain traction, the GEO market might need to rethink its value proposition."
+      "title": "Mergers and Acquisitions Buzz",
+      "body": "Iridium's acquisition of Aireon signals a strategic move to bolster aviation safety services, while Palantir's $480 million extension on the TITAN program reflects the growing importance of data in defense. Expect more consolidation as companies seek to enhance their capabilities."
     },
     {
       "icon": "▲",
-      "title": "Budget Boost for Space Resilience",
-      "body": "The recent FY27 budget markup adds $1.4 billion to the space resilience line, reflecting a growing recognition of the need for robust capabilities. This funding could pave the way for advancements that enhance national security in orbit."
+      "title": "Hypersonic Hurdles Persist",
+      "body": "For the third consecutive quarter, the hypersonic glide-vehicle test has slipped, casting doubt on the program's timeline and efficacy. This ongoing delay underscores the complexities of developing cutting-edge military technologies."
     },
     {
       "icon": "◆",
-      "title": "Competition in the Launch Arena",
-      "body": "With SpaceX setting a date for its first Starship version 3 launch, the competition among launch providers is intensifying. The stakes are high as other rocketeers scramble to capture market attention and secure contracts."
+      "title": "Space Partnerships Evolving",
+      "body": "Anduril and L3Harris are teaming up on a tactical SDA constellation bid, demonstrating a trend towards collaboration in the defense sector. As the landscape shifts, expect more alliances to form in pursuit of advanced capabilities."
     }
   ],
-  "updated": "2026-05-13 20:22 UTC"
+  "updated": "2026-05-14 19:23 UTC"
 }

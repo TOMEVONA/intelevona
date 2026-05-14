@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-13",
-  "issue": "No. 22",
-  "headline": "Funding flows. Competition grows. Satellites shrink.",
-  "deck": "This week highlights funding trends and strategic shifts in space.",
+  "updated": "2026-05-14",
+  "issue": "No. 23",
+  "headline": "Funding flows. Budgets stall. Innovation lingers.",
+  "deck": "This week saw mixed signals with funding surges and budget stagnation.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly has secured $190 million in a Series C funding round, emphasizing its focus on co-orbital security and space domain awareness. The funding signals a strong pull from the Department of Defense, which is increasingly prioritizing space security. With a valuation of $1.6 billion, True Anomaly is positioning itself as a key player in the defense sector.",
-      "soWhat": "In a space sector where cash flow is king, True Anomaly's funding highlights the growing urgency for co-orbital security solutions."
+      "head": "True Anomaly raises $190M amid defense pull",
+      "body": "True Anomaly secured $190M in a Series C round, pushing its valuation to $1.6 billion. The funding highlights the growing demand for co-orbital security solutions, especially as the DoD emphasizes space domain awareness. With the defense sector's appetite for innovative security solutions, True Anomaly is well-positioned to capitalize.",
+      "soWhat": "It's a reminder that in defense, cash often flows more freely than actual innovation."
     },
     {
-      "kicker": "CANCELLATIONS",
-      "head": "SES and Eutelsat cancel GEO expansion satellites",
-      "body": "SES has joined Eutelsat in scrapping plans for GEO expansion satellites, a move that reflects the shifting dynamics in satellite communications. This decision comes as both companies reassess their strategies amid mounting competition and changing market demands. As a result, stakeholders are left wondering where the growth will come from in an increasingly crowded satellite landscape.",
-      "soWhat": "When even established players are hitting the brakes, it suggests the GEO market may be more fragile than previously thought."
+      "kicker": "ACQUISITION",
+      "head": "Iridium's acquisition of Aireon raises eyebrows",
+      "body": "Iridium is acquiring the remaining stake in Aireon for an undisclosed amount, aiming to enhance its aviation safety services. This move is akin to adding lifeguards to a crowded pool, as Iridium already has a solid footing in satellite communications. The integration could streamline operations, but the real question is whether it will effectively address the market's growing safety demands.",
+      "soWhat": "In a saturated market, simply expanding services may not guarantee success."
     },
     {
-      "kicker": "LAUNCH",
-      "head": "SpaceX sets date for Starship version 3 launch",
-      "body": "SpaceX has announced a launch date for its much-anticipated Starship version 3, a critical component for NASA's lunar ambitions. This launch is expected to take place in the coming weeks, as SpaceX aims to solidify its position as the go-to launch provider for lunar missions. However, with previous delays fresh in everyone's mind, skepticism remains about whether this date will hold.",
-      "soWhat": "If SpaceX can actually launch on time, it might just silence some of the critics—at least temporarily."
+      "kicker": "BUDGET",
+      "head": "NASA's flat budget reflects stagnation",
+      "body": "The House Appropriations Committee has approved a spending bill that keeps NASA's budget flat, a move that could hinder ambitious projects. With no increase in funding, NASA may struggle to meet its long-term goals, especially as competitors ramp up their own space initiatives. This stagnation could stifle innovation at a time when the industry needs it most.",
+      "soWhat": "In space, a flat budget is often the first step toward a downward spiral."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on lunar navigation systems",
-      "body": "Northrop Grumman's entry into the lunar navigation market could reshape how future missions are conducted."
+      "title": "Keep an eye on AST SpaceMobile's launch plans",
+      "body": "The potential use of ULA's Vulcan rocket could diversify AST SpaceMobile's launch options, impacting its timeline and costs."
     },
     {
-      "title": "Defense-tech IPO window remains open",
-      "body": "With the recent buzz around defense-tech IPOs, companies like Anduril may soon be looking to capitalize."
+      "title": "Palantir's TITAN extension implications",
+      "body": "The $480M extension on the TITAN program could signal increased demand for ground station capabilities in a data-driven defense landscape."
     },
     {
-      "title": "True Anomaly's next moves",
-      "body": "After a hefty funding round, True Anomaly's strategy for co-orbital security will be closely watched."
+      "title": "Sierra Space's Dream Chaser developments",
+      "body": "With the Dream Chaser DoD variant clearing its design review, its future missions could reshape logistics in space."
     },
     {
-      "title": "SES and Eutelsat's next steps",
-      "body": "The cancellation of GEO satellites raises questions about SES and Eutelsat's future strategies in satellite communications."
+      "title": "Watch for hypersonic test delays",
+      "body": "The continued delays in hypersonic glide-vehicle tests could signal deeper issues in defense project management and execution."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates operational challenges."
-    },
-    {
-      "sym": "LMT",
-      "note": "Lockheed Martin's focus on space defense is gaining traction, aligning with government priorities."
-    },
-    {
-      "sym": "NOC",
-      "note": "Northrop Grumman's lunar navigation system could signal a significant pivot in its market strategy."
+      "note": "Virgin Galactic's stock remains volatile as it navigates its operational challenges."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program underscores its strong foothold in defense contracts."
+      "note": "Palantir's recent contract extensions highlight its growing influence in defense analytics."
+    },
+    {
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's potential launch plans could impact its stock performance in the coming weeks."
+    },
+    {
+      "sym": "SLS",
+      "note": "NASA's flat budget may put further pressure on the SLS program's future funding."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
