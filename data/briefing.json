@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-14",
-  "issue": "No. 23",
-  "headline": "Acquisitions accelerate. Budgets expand. Delays persist.",
-  "deck": "This week, companies are consolidating while budgets for space resilience grow, but some tests still can't seem to get off the ground.",
+  "updated": "2026-05-15",
+  "issue": "No. 24",
+  "headline": "IPO ambitions. Ground stations. Satellite constellations.",
+  "deck": "This week, we see a mix of IPO aspirations and strategic acquisitions in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "ACQUISITIONS",
-      "head": "Intuitive Machines buys ground station for lunar Wi-Fi",
-      "body": "Intuitive Machines is acquiring a ground station company to enhance its lunar communications network, emphasizing the importance of connectivity in space. This move comes amid their ongoing lunar mission preparations, reinforcing that even lunar landers need reliable Wi-Fi. The financial details remain undisclosed, but it signals a strategic pivot towards robust communication infrastructure.",
-      "soWhat": "With lunar missions on the rise, expect more companies to prioritize ground infrastructure—because even space needs solid customer support."
+      "kicker": "IPO",
+      "head": "MinoSpace eyes $736 million IPO for expansion",
+      "body": "Chinese satellite maker MinoSpace is seeking $736 million in its upcoming IPO to expand its satellite constellation. This move reflects the ongoing appetite for satellite services, particularly in the commercial sector. If successful, MinoSpace could join the ranks of other notable Chinese space firms looking to capitalize on the growing demand for data services.",
+      "soWhat": "MinoSpace's IPO could signal a shift in investor sentiment towards Chinese tech, but it remains to be seen if they can deliver on their growth promises."
     },
     {
-      "kicker": "DEFENSE",
-      "head": "Golden Dome chief defends $1.2 trillion interceptor plan",
-      "body": "Gen. Michael Guetlein is pushing back against the Congressional Budget Office's $1.2 trillion estimate for his space interceptor plans, arguing that affordability is the real challenge in the space race. This public defense highlights the ongoing tension between ambitious defense projects and fiscal realities, as military budgets face scrutiny. The stakes are high, and the clock is ticking.",
-      "soWhat": "This isn’t just about numbers; it’s a reminder that the real battle is convincing Congress to fund your vision amidst rising costs."
+      "kicker": "ACQUISITION",
+      "head": "Intuitive Machines buys ground station firm",
+      "body": "Intuitive Machines has announced its acquisition of a ground station company to enhance its lunar communications capabilities. The financial details were not disclosed, but this move is part of Intuitive's broader strategy to ensure reliable communication for its lunar missions. Given the challenges of lunar operations, a robust ground station network is crucial.",
+      "soWhat": "This acquisition underscores the increasing importance of ground infrastructure in supporting lunar ambitions, a lesson that many companies still overlook."
     },
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly has successfully raised $190 million in a Series C round, bringing its valuation to $1.6 billion. This funding round signals strong interest in co-orbital security and space domain awareness, areas that are increasingly relevant as geopolitical tensions rise. The DoD's interest in their technology is a clear endorsement of their mission.",
-      "soWhat": "In a world of space threats, investors are betting big on security solutions—because who doesn’t want a safety net in orbit?"
+      "kicker": "CONSTELLATIONS",
+      "head": "Cowboy Space files for 20,000 satellites",
+      "body": "Cowboy Space has filed plans for a constellation of up to 20,000 satellites, aiming to create a massive orbital data center network. This ambitious proposal highlights the trend of scaling satellite constellations to meet burgeoning data demands. While the feasibility remains in question, the sheer number indicates a belief that more satellites can solve more problems.",
+      "soWhat": "In a world where bandwidth is king, Cowboy's plans could either be visionary or a classic case of overreach—time will tell."
     }
   ],
   "watchlist": [
     {
-      "title": "Monitor AST SpaceMobile's Vulcan launch plans",
-      "body": "If AST SpaceMobile partners with ULA for launches, it could reshape their satellite deployment strategy and impact market dynamics."
+      "title": "Virgin Galactic's commercial service timeline",
+      "body": "Virgin Galactic insists on launching commercial flights by year-end; skepticism remains about their ability to meet this deadline."
     },
     {
-      "title": "Watch for hypersonic test delays",
-      "body": "The continued slips in hypersonic glide-vehicle tests could further erode confidence in defense timelines and budgets."
+      "title": "Hypersonic glide-vehicle test delays",
+      "body": "With the hypersonic glide-vehicle test slipping again, the defense sector may need to rethink its timelines and expectations."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "With a $480 million extension on the TITAN program, Palantir's role in defense logistics could expand significantly."
+      "title": "Palantir's TITAN program extension",
+      "body": "Palantir's $480M extension on the TITAN program could indicate a shift in defense procurement strategies focusing on software solutions."
     },
     {
-      "title": "Keep an eye on Sierra Space's Dream Chaser",
-      "body": "Following its critical design review pass, the next steps for Sierra Space will be crucial in determining its future in the DoD market."
+      "title": "True Anomaly's growth trajectory",
+      "body": "True Anomaly's recent $190M Series C could position it as a key player in co-orbital security, especially with DoD backing."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "TAN",
-      "note": "Intuitive Machines' acquisition indicates a growing focus on ground infrastructure, which could affect TAN's market position."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's commercial service promises to begin this year—if they can avoid another delay."
+    },
+    {
+      "sym": "MNO",
+      "note": "MinoSpace's IPO could reshape the competitive landscape in satellite services if it gets off the ground."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension suggests sustained demand for its defense solutions amid budget pressures."
+      "note": "Palantir's extension on TITAN signals ongoing confidence in software-driven defense solutions."
     },
     {
       "sym": "SLS",
-      "note": "Sierra Space's Dream Chaser passing its design review could position it well against competitors in government contracts."
-    },
-    {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's potential Vulcan launches may provide a competitive edge in the satellite market."
+      "note": "Sierra Space's Dream Chaser variant has passed a critical review; now, can it deliver on launch expectations?"
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

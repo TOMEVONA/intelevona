@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "A mix of acquisitions and budget adjustments are stirring the pot in the space and defense sectors this week. Meanwhile, the hypersonic glide-vehicle program continues to test the limits of patience, and the commercial space landscape remains as competitive as ever.",
+  "summary": "The space industry is buzzing with activity, from international collaborations to ambitious commercial ventures. As companies jockey for position, the stakes are high, with funding and strategic partnerships shaping the landscape.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Acquisitions on the Rise",
-      "body": "Iridium's takeover of Aireon signals a strategic pivot toward enhancing aviation safety through space-based systems. Intuitive Machines' planned acquisition of a ground station company further illustrates the trend of consolidation in the industry."
+      "title": "International Collaborations Heat Up",
+      "body": "The upcoming ESA-China SMILE mission aims to shed light on Earth's magnetic shield, showcasing a growing trend of international partnerships in space exploration. Meanwhile, the US-Australian alliance is being touted as a strategic advantage in the ever-competitive space domain."
     },
     {
       "icon": "◉",
-      "title": "Budget Boosts Space Resilience",
-      "body": "The FY27 budget markup's $1.4 billion increase for space resilience reflects growing concerns about national security in the orbital domain. This funding could bolster efforts to counteract threats, particularly in light of recent Russian activities near commercial GEO slots."
+      "title": "Commercial Ventures on the Rise",
+      "body": "Virgin Galactic is sticking to its guns, promising to launch commercial services this year, while Cowboy Space's audacious plan for 20,000 orbital data centers raises eyebrows and questions about space congestion. These moves signal a shift towards a more commercialized space economy."
     },
     {
       "icon": "▲",
-      "title": "Hypersonic Hiccups Persist",
-      "body": "For the third consecutive quarter, hypersonic glide-vehicle tests have slipped, raising eyebrows about the program's trajectory. The delays may prompt a reevaluation of timelines and expectations in a field where speed is of the essence."
+      "title": "Funding Frenzy Continues",
+      "body": "Chinese satellite maker MinoSpace is eyeing a hefty $736 million IPO, while True Anomaly just secured $190 million in Series C funding, suggesting investors are still keen on space ventures despite economic uncertainties. The Defense-Tech IPO window is showing signs of life, hinting at a potential resurgence in public offerings."
     },
     {
       "icon": "◆",
-      "title": "Commercial Space Competition Heats Up",
-      "body": "With companies like True Anomaly raising significant capital and Palantir extending its ground station program, the commercial space sector is buzzing with activity. Meanwhile, AST SpaceMobile's potential use of ULA’s Vulcan rocket underscores the ongoing race to secure launch capabilities."
+      "title": "Defense and Resilience in Focus",
+      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, underscoring the increasing emphasis on securing space assets. Additionally, Anduril and L3Harris are teaming up for a tactical SDA constellation bid, reflecting the growing intersection of defense needs and space capabilities."
     }
   ],
-  "updated": "2026-05-14 20:17 UTC"
+  "updated": "2026-05-15 18:16 UTC"
 }
