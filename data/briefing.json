@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-15",
   "issue": "No. 24",
-  "headline": "IPO ambitions. Ground stations. Satellite constellations.",
-  "deck": "This week, we see a mix of IPO aspirations and strategic acquisitions in the space sector.",
+  "headline": "Funding flows. Satellites multiply. Tests delay.",
+  "deck": "This week sees significant funding for space startups and continued delays in hypersonic tests.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "IPO",
-      "head": "MinoSpace eyes $736 million IPO for expansion",
-      "body": "Chinese satellite maker MinoSpace is seeking $736 million in its upcoming IPO to expand its satellite constellation. This move reflects the ongoing appetite for satellite services, particularly in the commercial sector. If successful, MinoSpace could join the ranks of other notable Chinese space firms looking to capitalize on the growing demand for data services.",
-      "soWhat": "MinoSpace's IPO could signal a shift in investor sentiment towards Chinese tech, but it remains to be seen if they can deliver on their growth promises."
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly has successfully closed a $190 million Series C round, boosting its valuation to $1.6 billion. The funding is aimed at enhancing its co-orbital security capabilities, which are increasingly in demand as the U.S. military ramps up its focus on space defense. With DoD contracts now a headline feature, True Anomaly is positioning itself as a key player in the burgeoning market for space situational awareness.",
+      "soWhat": "The influx of capital shows that defense is still a reliable revenue stream, even as the broader market grapples with uncertainty."
     },
     {
-      "kicker": "ACQUISITION",
-      "head": "Intuitive Machines buys ground station firm",
-      "body": "Intuitive Machines has announced its acquisition of a ground station company to enhance its lunar communications capabilities. The financial details were not disclosed, but this move is part of Intuitive's broader strategy to ensure reliable communication for its lunar missions. Given the challenges of lunar operations, a robust ground station network is crucial.",
-      "soWhat": "This acquisition underscores the increasing importance of ground infrastructure in supporting lunar ambitions, a lesson that many companies still overlook."
+      "kicker": "COLLABORATION",
+      "head": "ESA-China SMILE mission finally set for May launch",
+      "body": "After a decade of planning, the ESA-China SMILE mission is scheduled to launch on May 19 to study Earth's magnetosphere. This joint effort highlights the complexities of international collaboration in space, often slower than expected but crucial for scientific advancement. With a focus on understanding space weather, the mission could yield insights relevant to satellite operations and terrestrial technology.",
+      "soWhat": "If this mission succeeds, it might just justify the decade-long wait, but don’t hold your breath for immediate results."
     },
     {
-      "kicker": "CONSTELLATIONS",
-      "head": "Cowboy Space files for 20,000 satellites",
-      "body": "Cowboy Space has filed plans for a constellation of up to 20,000 satellites, aiming to create a massive orbital data center network. This ambitious proposal highlights the trend of scaling satellite constellations to meet burgeoning data demands. While the feasibility remains in question, the sheer number indicates a belief that more satellites can solve more problems.",
-      "soWhat": "In a world where bandwidth is king, Cowboy's plans could either be visionary or a classic case of overreach—time will tell."
+      "kicker": "TECHNOLOGY",
+      "head": "Hypersonic glide-vehicle tests slip for third time",
+      "body": "The hypersonic glide-vehicle test has been delayed for the third consecutive quarter, underscoring the challenges facing this high-stakes technology. With the Pentagon investing heavily in hypersonics, including a notable increase of $1.4 billion in the FY27 budget for space resilience, the repeated delays raise questions about the effectiveness of current development strategies. Meanwhile, competitors are likely taking notes as the U.S. struggles to keep pace.",
+      "soWhat": "This is becoming the poster child for defense project procrastination—let's hope they don’t run out of excuses."
     }
   ],
   "watchlist": [
     {
-      "title": "Virgin Galactic's commercial service timeline",
-      "body": "Virgin Galactic insists on launching commercial flights by year-end; skepticism remains about their ability to meet this deadline."
+      "title": "MinoSpace IPO could shake up satellite market",
+      "body": "With MinoSpace seeking $736 million in its IPO, the move could intensify competition in the satellite sector, especially among Chinese manufacturers."
     },
     {
-      "title": "Hypersonic glide-vehicle test delays",
-      "body": "With the hypersonic glide-vehicle test slipping again, the defense sector may need to rethink its timelines and expectations."
+      "title": "Virgin Galactic's commercial flights on the horizon",
+      "body": "Virgin Galactic insists it will begin commercial flights this year, which could finally provide a revenue stream after years of delays."
     },
     {
-      "title": "Palantir's TITAN program extension",
-      "body": "Palantir's $480M extension on the TITAN program could indicate a shift in defense procurement strategies focusing on software solutions."
+      "title": "Anduril and L3Harris tactical bid heats up",
+      "body": "The partnership between Anduril and L3Harris for a tactical SDA constellation could set new standards in defense satellite architecture."
     },
     {
-      "title": "True Anomaly's growth trajectory",
-      "body": "True Anomaly's recent $190M Series C could position it as a key player in co-orbital security, especially with DoD backing."
+      "title": "Palantir's TITAN program extension implications",
+      "body": "Palantir's $480 million extension on the TITAN program indicates sustained demand for its data solutions in military applications."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's commercial service promises to begin this year—if they can avoid another delay."
+      "note": "Virgin Galactic's stock remains under pressure as it reiterates plans for commercial service this year."
     },
     {
       "sym": "MNO",
-      "note": "MinoSpace's IPO could reshape the competitive landscape in satellite services if it gets off the ground."
+      "note": "MinoSpace's upcoming IPO could reshape the satellite landscape with $736 million in potential funding."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's extension on TITAN signals ongoing confidence in software-driven defense solutions."
+      "note": "Palantir's extension on the TITAN program highlights its entrenched position in defense contracting."
     },
     {
       "sym": "SLS",
-      "note": "Sierra Space's Dream Chaser variant has passed a critical review; now, can it deliver on launch expectations?"
+      "note": "Sierra Space's Dream Chaser variant passing its design review is a small win in a sea of delays."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
