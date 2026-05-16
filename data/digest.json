@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space industry is buzzing with a mix of international collaborations and ambitious commercial ventures. From satellite IPOs to new defense partnerships, the landscape is shifting—though not without its hiccups.",
+  "summary": "This week, the space industry is buzzing with contracts, launches, and a few delays. As the Space Force invests heavily in satellite capabilities, commercial players are also making strides in both space and defense sectors.",
   "themes": [
     {
       "icon": "▣",
-      "title": "International Collaborations Heat Up",
-      "body": "The upcoming ESA-China SMILE mission underscores the growing trend of cross-border partnerships in space exploration. Such collaborations may be the key to tackling complex scientific challenges, but they also highlight geopolitical nuances."
+      "title": "Government Contracts Galore",
+      "body": "Northrop Grumman's $398 million satellite contract from the Space Force underscores the ongoing push for enhanced military space capabilities. Meanwhile, Palantir's $480 million extension on the TITAN ground station program signals a robust appetite for data integration in defense."
     },
     {
       "icon": "◉",
-      "title": "Commercial Ventures on the Rise",
-      "body": "Virgin Galactic's reaffirmation of its commercial service plans signals a cautious optimism in the space tourism sector. Meanwhile, Cowboy's audacious proposal for 20,000 orbital data centers raises eyebrows and questions about the sustainability of such ambitions."
+      "title": "Commercial Launches Continue",
+      "body": "SpaceX's CRS-34 mission to the ISS reinforces its dominance in cargo delivery, while Virgin Galactic is still trying to convince us that commercial space tourism is just around the corner. The real question remains: will the market be ready for these services when they finally arrive?"
     },
     {
       "icon": "▲",
-      "title": "Defense Spending Gets a Boost",
-      "body": "The FY27 budget markup adding $1.4 billion to space resilience reflects a growing recognition of space as a critical domain for national security. As threats evolve, so too does the funding landscape, with companies like Anduril and L3Harris vying for lucrative contracts."
+      "title": "International Collaborations on the Rise",
+      "body": "The upcoming ESA-China SMILE mission highlights an increasing trend of international partnerships in space exploration. Such collaborations may become essential as nations navigate the complexities of space governance and shared scientific goals."
     },
     {
       "icon": "◆",
-      "title": "IPO Activity Signals Market Confidence",
-      "body": "Chinese satellite maker MinoSpace's $736 million IPO attempt suggests a renewed appetite for investment in space ventures. This comes amid a broader trend of defense-tech companies eyeing the public markets, hinting at a potential thaw in the IPO freeze."
+      "title": "Emerging Players and Innovations",
+      "body": "True Anomaly's $190 million Series C round reflects the growing interest in space domain awareness, while Anduril and L3Harris's tactical SDA constellation bid showcases the melding of defense tech with space capabilities. As new players enter the field, the competitive landscape is set to shift."
     }
   ],
-  "updated": "2026-05-15 19:10 UTC"
+  "updated": "2026-05-16 16:13 UTC"
 }

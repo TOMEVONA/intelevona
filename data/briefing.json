@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-15",
-  "issue": "No. 24",
-  "headline": "Funding flows. Satellites multiply. Tests delay.",
-  "deck": "This week sees significant funding for space startups and continued delays in hypersonic tests.",
+  "updated": "2026-05-16",
+  "issue": "No. 25",
+  "headline": "Northrop Grumman scores big. SpaceX delivers again. True Anomaly raises cash.",
+  "deck": "This week, major contracts and funding rounds highlight the shifting dynamics in space procurement and investment.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
+      "kicker": "CONTRACTS",
+      "head": "Northrop Grumman grabs $398 million from Space Force",
+      "body": "The Space Force has awarded Northrop Grumman a $398 million contract for a satellite aimed at testing protected communications. This move underscores the military's ongoing need for reliable communication channels in space—because even the cosmos can’t survive on spotty Wi-Fi. With this contract, Northrop is solidifying its role as a key player in defense-related space operations.",
+      "soWhat": "It’s a reminder that in the space game, reliable communications are as vital as rocket launches."
+    },
+    {
+      "kicker": "LAUNCHES",
+      "head": "SpaceX completes another successful cargo mission",
+      "body": "SpaceX successfully launched the CRS-34 cargo mission to the ISS, delivering nearly 3,000 kilograms of supplies. This mission continues to demonstrate SpaceX's operational reliability, as astronauts can't live on freeze-dried food alone. With each successful launch, SpaceX inches closer to normalizing its role as the go-to logistics provider for low Earth orbit.",
+      "soWhat": "SpaceX's consistent performance is making it harder for competitors to justify their own launch delays."
+    },
+    {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly has successfully closed a $190 million Series C round, boosting its valuation to $1.6 billion. The funding is aimed at enhancing its co-orbital security capabilities, which are increasingly in demand as the U.S. military ramps up its focus on space defense. With DoD contracts now a headline feature, True Anomaly is positioning itself as a key player in the burgeoning market for space situational awareness.",
-      "soWhat": "The influx of capital shows that defense is still a reliable revenue stream, even as the broader market grapples with uncertainty."
-    },
-    {
-      "kicker": "COLLABORATION",
-      "head": "ESA-China SMILE mission finally set for May launch",
-      "body": "After a decade of planning, the ESA-China SMILE mission is scheduled to launch on May 19 to study Earth's magnetosphere. This joint effort highlights the complexities of international collaboration in space, often slower than expected but crucial for scientific advancement. With a focus on understanding space weather, the mission could yield insights relevant to satellite operations and terrestrial technology.",
-      "soWhat": "If this mission succeeds, it might just justify the decade-long wait, but don’t hold your breath for immediate results."
-    },
-    {
-      "kicker": "TECHNOLOGY",
-      "head": "Hypersonic glide-vehicle tests slip for third time",
-      "body": "The hypersonic glide-vehicle test has been delayed for the third consecutive quarter, underscoring the challenges facing this high-stakes technology. With the Pentagon investing heavily in hypersonics, including a notable increase of $1.4 billion in the FY27 budget for space resilience, the repeated delays raise questions about the effectiveness of current development strategies. Meanwhile, competitors are likely taking notes as the U.S. struggles to keep pace.",
-      "soWhat": "This is becoming the poster child for defense project procrastination—let's hope they don’t run out of excuses."
+      "head": "True Anomaly raises $190 million for co-orbital security",
+      "body": "True Anomaly secured $190 million in a Series C funding round, pushing its valuation to $1.6 billion. This funding will bolster its capabilities in co-orbital security and space domain awareness, reflecting a growing interest in safeguarding assets in orbit. The infusion of capital comes at a time when the DoD is increasingly focused on ensuring the security of its space assets.",
+      "soWhat": "In a sector where cash flow often trumps innovation, True Anomaly's funding is a clear signal that investors are betting on security over shiny tech."
     }
   ],
   "watchlist": [
     {
-      "title": "MinoSpace IPO could shake up satellite market",
-      "body": "With MinoSpace seeking $736 million in its IPO, the move could intensify competition in the satellite sector, especially among Chinese manufacturers."
+      "title": "Keep an eye on the ESA-China SMILE mission",
+      "body": "Launching on May 19, this mission could provide valuable data on Earth's magnetic shield, which might influence future space missions."
     },
     {
-      "title": "Virgin Galactic's commercial flights on the horizon",
-      "body": "Virgin Galactic insists it will begin commercial flights this year, which could finally provide a revenue stream after years of delays."
+      "title": "Virgin Galactic's commercial service launch",
+      "body": "With claims to begin commercial service this year, it will be interesting to see if they can finally deliver on the promise of suborbital tourism."
     },
     {
-      "title": "Anduril and L3Harris tactical bid heats up",
-      "body": "The partnership between Anduril and L3Harris for a tactical SDA constellation could set new standards in defense satellite architecture."
+      "title": "Anduril and L3Harris constellation bid progress",
+      "body": "The collaboration on a tactical SDA constellation could reshape defense capabilities, so expect updates as the bid develops."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "Palantir's $480 million extension on the TITAN program indicates sustained demand for its data solutions in military applications."
+      "title": "Palantir's TITAN program extension impact",
+      "body": "With a $480 million extension, Palantir's software prowess in defense will be under scrutiny as they continue to secure government contracts."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as it reiterates plans for commercial service this year."
+      "sym": "NOC",
+      "note": "Northrop Grumman's contract win underscores its strong position in defense procurement."
     },
     {
-      "sym": "MNO",
-      "note": "MinoSpace's upcoming IPO could reshape the satellite landscape with $736 million in potential funding."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's insistence on starting commercial flights this year raises questions about their operational readiness."
+    },
+    {
+      "sym": "TRUE",
+      "note": "True Anomaly's funding round reflects a growing focus on co-orbital security solutions."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's extension on the TITAN program highlights its entrenched position in defense contracting."
-    },
-    {
-      "sym": "SLS",
-      "note": "Sierra Space's Dream Chaser variant passing its design review is a small win in a sea of delays."
+      "note": "Palantir's TITAN extension shows that software contracts are becoming as critical as hardware in defense."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
