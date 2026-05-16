@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-16",
   "issue": "No. 25",
-  "headline": "Northrop Grumman scores big. SpaceX delivers again. True Anomaly raises cash.",
-  "deck": "This week, major contracts and funding rounds highlight the shifting dynamics in space procurement and investment.",
+  "headline": "Contracts signed. Budgets increased. Startups funded.",
+  "deck": "This week saw significant contracts awarded and funding rounds closed, underscoring the financial undercurrents in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "CONTRACTS",
-      "head": "Northrop Grumman grabs $398 million from Space Force",
-      "body": "The Space Force has awarded Northrop Grumman a $398 million contract for a satellite aimed at testing protected communications. This move underscores the military's ongoing need for reliable communication channels in space—because even the cosmos can’t survive on spotty Wi-Fi. With this contract, Northrop is solidifying its role as a key player in defense-related space operations.",
-      "soWhat": "It’s a reminder that in the space game, reliable communications are as vital as rocket launches."
-    },
-    {
-      "kicker": "LAUNCHES",
-      "head": "SpaceX completes another successful cargo mission",
-      "body": "SpaceX successfully launched the CRS-34 cargo mission to the ISS, delivering nearly 3,000 kilograms of supplies. This mission continues to demonstrate SpaceX's operational reliability, as astronauts can't live on freeze-dried food alone. With each successful launch, SpaceX inches closer to normalizing its role as the go-to logistics provider for low Earth orbit.",
-      "soWhat": "SpaceX's consistent performance is making it harder for competitors to justify their own launch delays."
+      "head": "Northrop Grumman bags $398M Space Force deal",
+      "body": "The Space Force awarded Northrop Grumman a $398 million contract for a new communications satellite, reinforcing the notion that in the space industry, contracts are often more about political connections than technical prowess. This deal highlights the ongoing trend of military spending in space as the U.S. looks to bolster its strategic capabilities.",
+      "soWhat": "For Northrop, this is a hefty win, but it also raises questions about the sustainability of such contracts when the competition is heating up."
     },
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190 million for co-orbital security",
-      "body": "True Anomaly secured $190 million in a Series C funding round, pushing its valuation to $1.6 billion. This funding will bolster its capabilities in co-orbital security and space domain awareness, reflecting a growing interest in safeguarding assets in orbit. The infusion of capital comes at a time when the DoD is increasingly focused on ensuring the security of its space assets.",
-      "soWhat": "In a sector where cash flow often trumps innovation, True Anomaly's funding is a clear signal that investors are betting on security over shiny tech."
+      "head": "True Anomaly raises $190M amidst defense pull",
+      "body": "True Anomaly secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The focus on co-orbital security and space domain awareness (SDA) is timely, given the heightened interest in national security applications in space. This round illustrates how defense needs are driving investment in innovative space solutions.",
+      "soWhat": "With defense pulling through, True Anomaly is positioning itself well, but the real challenge will be delivering on expectations in a crowded field."
+    },
+    {
+      "kicker": "LAUNCHES",
+      "head": "SpaceX sends 3,000 kg to ISS with CRS-34",
+      "body": "SpaceX successfully launched its CRS-34 cargo mission to the ISS, delivering nearly 3,000 kilograms of supplies. This mission is part of NASA's ongoing partnership with SpaceX, which has now become a regular occurrence. The launch reflects SpaceX's operational reliability and its critical role in supporting the ISS.",
+      "soWhat": "While this is just another day at the office for SpaceX, it underscores how dependent NASA has become on commercial partners for routine operations."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on the ESA-China SMILE mission",
-      "body": "Launching on May 19, this mission could provide valuable data on Earth's magnetic shield, which might influence future space missions."
+      "title": "Watch for ESA-China SMILE launch",
+      "body": "The upcoming ESA-China SMILE mission could set a precedent for future international collaborations in space research."
     },
     {
-      "title": "Virgin Galactic's commercial service launch",
-      "body": "With claims to begin commercial service this year, it will be interesting to see if they can finally deliver on the promise of suborbital tourism."
+      "title": "Virgin Galactic's commercial service timeline",
+      "body": "If Virgin Galactic actually begins commercial service this year, we might finally see if the space tourism market is viable."
     },
     {
-      "title": "Anduril and L3Harris constellation bid progress",
-      "body": "The collaboration on a tactical SDA constellation could reshape defense capabilities, so expect updates as the bid develops."
+      "title": "Anduril and L3Harris tactical SDA bid",
+      "body": "Their collaboration could signal a shift in how tactical space capabilities are developed and deployed."
     },
     {
-      "title": "Palantir's TITAN program extension impact",
-      "body": "With a $480 million extension, Palantir's software prowess in defense will be under scrutiny as they continue to secure government contracts."
+      "title": "Palantir's TITAN program extension",
+      "body": "With a $480 million extension, Palantir's role in defense remains critical, but it will be interesting to see how they manage the increased scrutiny."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "NOC",
-      "note": "Northrop Grumman's contract win underscores its strong position in defense procurement."
+      "note": "Northrop Grumman's $398M contract reinforces its position in military space."
     },
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's insistence on starting commercial flights this year raises questions about their operational readiness."
+      "note": "Virgin Galactic's insistence on starting commercial flights this year raises eyebrows."
     },
     {
-      "sym": "TRUE",
-      "note": "True Anomaly's funding round reflects a growing focus on co-orbital security solutions."
+      "sym": "TSLA",
+      "note": "SpaceX's valuation hit $470B, but can it maintain this momentum amid growing competition?"
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's TITAN extension shows that software contracts are becoming as critical as hardware in defense."
+      "note": "Palantir's $480M contract extension suggests a solidified role in defense, but expectations are rising."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

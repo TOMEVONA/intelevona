@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space industry is buzzing with contracts, launches, and a few delays. As the Space Force invests heavily in satellite capabilities, commercial players are also making strides in both space and defense sectors.",
+  "summary": "The space and defense sectors are buzzing with activity as contracts are awarded, missions launched, and new technologies emerge. Notably, funding for space resilience is on the rise, while commercial ventures continue to jockey for position in a competitive landscape.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Government Contracts Galore",
-      "body": "Northrop Grumman's $398 million satellite contract from the Space Force underscores the ongoing push for enhanced military space capabilities. Meanwhile, Palantir's $480 million extension on the TITAN ground station program signals a robust appetite for data integration in defense."
-    },
-    {
-      "icon": "◉",
-      "title": "Commercial Launches Continue",
-      "body": "SpaceX's CRS-34 mission to the ISS reinforces its dominance in cargo delivery, while Virgin Galactic is still trying to convince us that commercial space tourism is just around the corner. The real question remains: will the market be ready for these services when they finally arrive?"
+      "title": "Funding for Space Resilience",
+      "body": "The recent FY27 budget markup adds $1.4 billion to the space resilience line, indicating a growing recognition of the need for robust space capabilities. This influx of cash may bolster initiatives aimed at countering emerging threats in orbit."
     },
     {
       "icon": "▲",
-      "title": "International Collaborations on the Rise",
-      "body": "The upcoming ESA-China SMILE mission highlights an increasing trend of international partnerships in space exploration. Such collaborations may become essential as nations navigate the complexities of space governance and shared scientific goals."
+      "title": "Commercial Launches Keep Coming",
+      "body": "SpaceX's CRS-34 cargo mission to the ISS underscores the ongoing reliance on commercial partners for resupply missions. Meanwhile, Virgin Galactic's commitment to begin commercial service this year suggests that space tourism is still very much alive, despite previous delays."
     },
     {
       "icon": "◆",
-      "title": "Emerging Players and Innovations",
-      "body": "True Anomaly's $190 million Series C round reflects the growing interest in space domain awareness, while Anduril and L3Harris's tactical SDA constellation bid showcases the melding of defense tech with space capabilities. As new players enter the field, the competitive landscape is set to shift."
+      "title": "International Collaborations on the Rise",
+      "body": "The joint ESA-China SMILE mission aims to deepen our understanding of Earth's magnetic shield, showcasing the potential for international partnerships in space research. This trend may signal a shift towards collaborative rather than competitive approaches in certain areas of space exploration."
+    },
+    {
+      "icon": "◉",
+      "title": "Hypersonic Developments Stumble",
+      "body": "The hypersonic glide-vehicle test has slipped for the third consecutive quarter, raising questions about the pace of progress in this critical area. Such delays could have implications for national security and defense strategies that rely on advanced speed capabilities."
     }
   ],
-  "updated": "2026-05-16 16:13 UTC"
+  "updated": "2026-05-16 17:33 UTC"
 }
