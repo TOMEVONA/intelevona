@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity as contracts are awarded, missions launched, and new technologies emerge. Notably, funding for space resilience is on the rise, while commercial ventures continue to jockey for position in a competitive landscape.",
+  "summary": "This week, the space and defense sectors are buzzing with contract awards and strategic partnerships, while the specter of budget adjustments looms large. As companies jockey for position in a rapidly evolving landscape, the stakes for innovation and resilience have never been higher.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding for Space Resilience",
-      "body": "The recent FY27 budget markup adds $1.4 billion to the space resilience line, indicating a growing recognition of the need for robust space capabilities. This influx of cash may bolster initiatives aimed at countering emerging threats in orbit."
-    },
-    {
-      "icon": "▲",
-      "title": "Commercial Launches Keep Coming",
-      "body": "SpaceX's CRS-34 cargo mission to the ISS underscores the ongoing reliance on commercial partners for resupply missions. Meanwhile, Virgin Galactic's commitment to begin commercial service this year suggests that space tourism is still very much alive, despite previous delays."
-    },
-    {
-      "icon": "◆",
-      "title": "International Collaborations on the Rise",
-      "body": "The joint ESA-China SMILE mission aims to deepen our understanding of Earth's magnetic shield, showcasing the potential for international partnerships in space research. This trend may signal a shift towards collaborative rather than competitive approaches in certain areas of space exploration."
+      "title": "Mars Communications Orbiter RFP",
+      "body": "NASA has released its final request for proposals for a Mars communications orbiter, signaling a push for robust interplanetary communication. This could set the stage for future missions and collaborations in deep space exploration."
     },
     {
       "icon": "◉",
-      "title": "Hypersonic Developments Stumble",
-      "body": "The hypersonic glide-vehicle test has slipped for the third consecutive quarter, raising questions about the pace of progress in this critical area. Such delays could have implications for national security and defense strategies that rely on advanced speed capabilities."
+      "title": "Space Force Contracts Galore",
+      "body": "Northrop Grumman's $398 million satellite contract from the Space Force highlights the ongoing investment in military space capabilities. Meanwhile, Sierra Space's Dream Chaser variant has cleared a critical design review, indicating a competitive landscape for defense contracts."
+    },
+    {
+      "icon": "▲",
+      "title": "Funding and Budget Adjustments",
+      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, reflecting a growing recognition of the importance of secure space operations. This influx of cash may fuel innovation but also raises questions about prioritization amid competing defense needs."
+    },
+    {
+      "icon": "◆",
+      "title": "Private Sector Moves",
+      "body": "True Anomaly's $190 million Series C funding round underscores the increasing interest in commercial space ventures. As companies like Cowboy Space propose massive satellite constellations, the race for data services in orbit is heating up."
     }
   ],
-  "updated": "2026-05-16 17:33 UTC"
+  "updated": "2026-05-17 14:27 UTC"
 }
