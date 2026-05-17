@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-17",
   "issue": "No. 26",
-  "headline": "Northrop Grumman wins big. SpaceX stays busy.",
-  "deck": "This week saw significant contracts and funding in the space sector.",
+  "headline": "NASA RFPs. Northrop Grumman wins. True Anomaly raises.",
+  "deck": "This week saw significant contracts and funding shifts in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "CONTRACTS",
-      "head": "Northrop Grumman cashes in with $398M deal",
-      "body": "The Space Force awarded Northrop Grumman a substantial $398 million contract for satellite services, reinforcing their position in the lucrative military satellite market. This deal comes amid ongoing discussions about budget cuts, suggesting that Northrop may be securing its future cash flows while they still can. Meanwhile, competitors are left to ponder how to fill the gap left by such a sizable award.",
-      "soWhat": "In a tightening budget environment, locking in big contracts now could be the difference between thriving and just surviving."
+      "head": "Northrop Grumman bags $398 million satellite deal",
+      "body": "The U.S. Space Force awarded Northrop Grumman a $398 million contract for satellite testing, underscoring the company's ongoing role in the military space landscape. This win comes as the Space Force continues to prioritize satellite capabilities amidst shifting defense needs. As competition heats up, Grumman's established relationships may prove more valuable than cutting-edge tech.",
+      "soWhat": "In a sector where new entrants often steal the spotlight, established players like Northrop Grumman are still cashing in on their legacy."
     },
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid defense boom",
-      "body": "True Anomaly successfully closed a $190 million Series C round, bringing their valuation to $1.6 billion. This funding will bolster their efforts in co-orbital security and space domain awareness, areas that the DoD is increasingly prioritizing. With defense spending on the rise, True Anomaly's timing couldn’t be better as they position themselves to capture a larger share of the market.",
-      "soWhat": "Investors are clearly betting on defense as the new gold rush, and True Anomaly is riding that wave well."
+      "head": "True Anomaly raises $190 million Series C",
+      "body": "True Anomaly secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, appealing to defense budgets eager to bolster capabilities. Investors seem to be betting that co-orbital threats will remain a top priority for the DoD.",
+      "soWhat": "True Anomaly's funding shows that even in a crowded market, niche players can thrive by aligning closely with defense needs."
     },
     {
-      "kicker": "TECHNOLOGY",
-      "head": "Sierra Space's Dream Chaser clears design review",
-      "body": "Sierra Space's Dream Chaser variant for the DoD has cleared its critical design review, a key milestone that could pave the way for more government contracts. This vehicle aims to provide cargo and crew transport capabilities, potentially tapping into a market that’s looking for alternatives to traditional solutions. The successful review indicates that Sierra is on track to meet the growing demand for flexible space transport options.",
-      "soWhat": "If Sierra can deliver on its promises, it might just carve out a niche in a crowded market dominated by SpaceX."
+      "kicker": "BIDS",
+      "head": "NASA issues RFP for Mars communications orbiter",
+      "body": "NASA released its final RFP for a Mars communications orbiter, inviting bids from companies eager to enhance interplanetary communication. This move indicates a continued commitment to Mars exploration, with potential contracts likely exceeding previous missions' budgets. The stakes are high as firms scramble to showcase their best ideas.",
+      "soWhat": "With the competition for Mars contracts heating up, expect to see some wild proposals that may or may not involve sending Wi-Fi to the Red Planet."
     }
   ],
   "watchlist": [
     {
-      "title": "SpaceX's valuation scrutiny continues",
-      "body": "With SpaceX's secondary market valuation hitting $470 billion, investors will be watching closely for any signs of instability or overvaluation."
+      "title": "Keep an eye on SpaceX's valuation",
+      "body": "With its secondary market valuation hitting $470 billion, SpaceX is a bellwether for investor sentiment in aerospace."
     },
     {
-      "title": "Upcoming Mars communications RFP results",
-      "body": "NASA's final RFP for the Mars communications orbiter will reveal which players are serious about interplanetary communications."
+      "title": "Anduril and L3Harris collaboration",
+      "body": "Their joint bid for the SDA constellation could signal a shift in how defense contractors approach satellite projects."
     },
     {
-      "title": "Potential shifts in SDA program funding",
-      "body": "As York Space navigates the reshaping of SDA programs, expect to see ripple effects on funding priorities across the sector."
+      "title": "FY27 budget implications",
+      "body": "The additional $1.4 billion for space resilience could reshape procurement strategies across the defense sector."
     },
     {
-      "title": "Hypersonic testing delays raise concerns",
-      "body": "With hypersonic glide-vehicle tests slipping for the third consecutive quarter, stakeholders will be reassessing timelines and expectations."
+      "title": "Watch for GPS jamming trends",
+      "body": "The return of GPS jamming in the Eastern Med could prompt new strategies in navigation and satellite operations."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "NOC",
-      "note": "Northrop Grumman's recent $398M contract signals strong demand for military satellite capabilities."
+      "note": "Northrop Grumman's new contract reflects its stronghold in military space."
     },
     {
-      "sym": "SPACEX",
-      "note": "SpaceX remains busy with its CRS-34 cargo mission, reaffirming its operational dominance."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains under pressure as commercial spaceflight faces delays."
     },
     {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M raise highlights the growing investor interest in defense-oriented space technologies."
+      "sym": "PLTR",
+      "note": "Palantir's $480 million extension signals continued confidence in its defense capabilities."
     },
     {
-      "sym": "SIE",
-      "note": "Sierra Space's Dream Chaser clears a crucial design review, potentially setting the stage for future contracts."
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's bullish case hinges on execution; investors are watching closely."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

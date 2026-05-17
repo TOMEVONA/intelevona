@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space and defense sectors are buzzing with contract awards and strategic partnerships, while the specter of budget adjustments looms large. As companies jockey for position in a rapidly evolving landscape, the stakes for innovation and resilience have never been higher.",
+  "summary": "This week, the space and defense sectors are buzzing with contract awards and strategic partnerships, while the specter of budget discussions looms large. As companies jockey for position in a rapidly evolving landscape, the focus remains on resilience and innovation.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Mars Communications Orbiter RFP",
-      "body": "NASA has released its final request for proposals for a Mars communications orbiter, signaling a push for robust interplanetary communication. This could set the stage for future missions and collaborations in deep space exploration."
+      "title": "Contracts and Collaborations",
+      "body": "Northrop Grumman's $398 million satellite contract from the Space Force highlights ongoing government investment in space capabilities. Meanwhile, Anduril and L3Harris are teaming up for a tactical SDA constellation bid, indicating a trend towards strategic partnerships in defense."
     },
     {
       "icon": "◉",
-      "title": "Space Force Contracts Galore",
-      "body": "Northrop Grumman's $398 million satellite contract from the Space Force highlights the ongoing investment in military space capabilities. Meanwhile, Sierra Space's Dream Chaser variant has cleared a critical design review, indicating a competitive landscape for defense contracts."
+      "title": "Budget Boost for Space Resilience",
+      "body": "The recent FY27 budget markup adds $1.4 billion to the space resilience line, underscoring a commitment to fortifying U.S. capabilities. This influx of funds could catalyze further innovation and competition among space players."
     },
     {
       "icon": "▲",
-      "title": "Funding and Budget Adjustments",
-      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, reflecting a growing recognition of the importance of secure space operations. This influx of cash may fuel innovation but also raises questions about prioritization amid competing defense needs."
+      "title": "Mars Communications Orbiter RFP",
+      "body": "NASA's release of the final RFP for a Mars communications orbiter signals a renewed focus on interplanetary infrastructure. This initiative could pave the way for enhanced data relay capabilities as we prepare for future missions."
     },
     {
       "icon": "◆",
-      "title": "Private Sector Moves",
-      "body": "True Anomaly's $190 million Series C funding round underscores the increasing interest in commercial space ventures. As companies like Cowboy Space propose massive satellite constellations, the race for data services in orbit is heating up."
+      "title": "Hypersonic Test Delays",
+      "body": "The continued delays in hypersonic glide-vehicle tests mark a concerning trend for U.S. defense capabilities, with this being the third consecutive quarter of setbacks. As competitors advance, the pressure mounts to deliver on these critical technologies."
     }
   ],
-  "updated": "2026-05-17 14:27 UTC"
+  "updated": "2026-05-17 14:52 UTC"
 }
