@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space and defense sectors are buzzing with contract awards and strategic partnerships, while the specter of budget discussions looms large. As companies jockey for position in a rapidly evolving landscape, the focus remains on resilience and innovation.",
+  "summary": "The space industry is buzzing with funding rounds and strategic partnerships as companies vie for dominance in the evolving landscape. Meanwhile, the U.S. government is ramping up its budget for space resilience amidst increasing competition and infrastructure challenges.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Contracts and Collaborations",
-      "body": "Northrop Grumman's $398 million satellite contract from the Space Force highlights ongoing government investment in space capabilities. Meanwhile, Anduril and L3Harris are teaming up for a tactical SDA constellation bid, indicating a trend towards strategic partnerships in defense."
+      "title": "Funding Frenzy Continues",
+      "body": "Tomorrow.io's latest $35 million injection and True Anomaly's $190 million Series C highlight a robust appetite for investment in space tech. This influx of capital suggests investors are betting on the long-term viability of commercial space ventures."
     },
     {
       "icon": "◉",
-      "title": "Budget Boost for Space Resilience",
-      "body": "The recent FY27 budget markup adds $1.4 billion to the space resilience line, underscoring a commitment to fortifying U.S. capabilities. This influx of funds could catalyze further innovation and competition among space players."
+      "title": "Military Focus on Space Operations",
+      "body": "The Pentagon's increased budget for space resilience and the collaboration between Anduril and L3Harris on a tactical SDA constellation signal a shift towards prioritizing military capabilities in orbit. As the next war is expected to be fought in space, these developments underscore the urgency of enhancing U.S. space operations."
     },
     {
       "icon": "▲",
-      "title": "Mars Communications Orbiter RFP",
-      "body": "NASA's release of the final RFP for a Mars communications orbiter signals a renewed focus on interplanetary infrastructure. This initiative could pave the way for enhanced data relay capabilities as we prepare for future missions."
+      "title": "Satellite Launch Proliferation Ahead",
+      "body": "A new CSF report forecasts over 7,000 satellites launched annually by the mid-2030s, raising questions about the adequacy of U.S. launch infrastructure. This anticipated surge will likely strain existing capabilities and necessitate innovative solutions."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Test Delays",
-      "body": "The continued delays in hypersonic glide-vehicle tests mark a concerning trend for U.S. defense capabilities, with this being the third consecutive quarter of setbacks. As competitors advance, the pressure mounts to deliver on these critical technologies."
+      "title": "Geopolitical Tensions in Space",
+      "body": "Increased Russian co-orbital activity near commercial GEO slots and GPS jamming incidents highlight the growing geopolitical stakes in space. As nations assert their presence, the implications for commercial operations and security are becoming increasingly complex."
     }
   ],
-  "updated": "2026-05-17 14:52 UTC"
+  "updated": "2026-05-18 16:29 UTC"
 }

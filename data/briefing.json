@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-17",
-  "issue": "No. 26",
-  "headline": "NASA RFPs. Northrop Grumman wins. True Anomaly raises.",
-  "deck": "This week saw significant contracts and funding shifts in the space sector.",
+  "updated": "2026-05-18",
+  "issue": "No. 27",
+  "headline": "Funding flows. Space traffic resumes. Satellites multiply.",
+  "deck": "This week sees renewed investments and legislative shifts in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "CONTRACTS",
-      "head": "Northrop Grumman bags $398 million satellite deal",
-      "body": "The U.S. Space Force awarded Northrop Grumman a $398 million contract for satellite testing, underscoring the company's ongoing role in the military space landscape. This win comes as the Space Force continues to prioritize satellite capabilities amidst shifting defense needs. As competition heats up, Grumman's established relationships may prove more valuable than cutting-edge tech.",
-      "soWhat": "In a sector where new entrants often steal the spotlight, established players like Northrop Grumman are still cashing in on their legacy."
-    },
-    {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190 million Series C",
-      "body": "True Anomaly secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, appealing to defense budgets eager to bolster capabilities. Investors seem to be betting that co-orbital threats will remain a top priority for the DoD.",
-      "soWhat": "True Anomaly's funding shows that even in a crowded market, niche players can thrive by aligning closely with defense needs."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured $190 million in its Series C funding round, underscoring the growing demand for co-orbital security solutions. The company is positioning itself as a key player in space domain awareness, benefiting from a notable pull-through from the Department of Defense. With this funding, True Anomaly aims to enhance its capabilities in a market where competition is heating up.",
+      "soWhat": "Investors are clearly betting that space security will be a priority, even if the tech behind it still feels like a work in progress."
     },
     {
-      "kicker": "BIDS",
-      "head": "NASA issues RFP for Mars communications orbiter",
-      "body": "NASA released its final RFP for a Mars communications orbiter, inviting bids from companies eager to enhance interplanetary communication. This move indicates a continued commitment to Mars exploration, with potential contracts likely exceeding previous missions' budgets. The stakes are high as firms scramble to showcase their best ideas.",
-      "soWhat": "With the competition for Mars contracts heating up, expect to see some wild proposals that may or may not involve sending Wi-Fi to the Red Planet."
+      "kicker": "LEGISLATION",
+      "head": "House restores funding for TraCSS amid traffic concerns",
+      "body": "In a surprising turn, the House has restored funding for the Traffic Coordination and Surveillance System (TraCSS), a move that reflects growing concerns about space traffic management. This funding could help avert potential collisions as satellite launches are projected to exceed 7,000 annually by the mid-2030s. The decision highlights a shift in priorities as lawmakers grapple with the implications of a crowded orbital environment.",
+      "soWhat": "Bureaucracies can change their minds—who knew? This could mean a more structured approach to space traffic, which some might argue is long overdue."
+    },
+    {
+      "kicker": "PARTNERSHIP",
+      "head": "Anduril teams with L3Harris for tactical SDA constellation",
+      "body": "Anduril and L3Harris have teamed up to bid for a tactical Space Development Agency constellation, signaling a collaborative effort to enhance U.S. capabilities in space. This partnership comes at a time when the government is ramping up its focus on space resilience, as evidenced by the recent $1.4 billion increase in the FY27 budget for this purpose. Their combined expertise could provide a competitive edge in defense contracts.",
+      "soWhat": "In a sector where collaboration can make or break a bid, this partnership might just be the tactical advantage they need to navigate the complex defense landscape."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on SpaceX's valuation",
-      "body": "With its secondary market valuation hitting $470 billion, SpaceX is a bellwether for investor sentiment in aerospace."
+      "title": "SpaceX valuation hits $470 billion",
+      "body": "With SpaceX's secondary market valuation soaring, expect more discussions about its impact on the broader aerospace investment landscape."
     },
     {
-      "title": "Anduril and L3Harris collaboration",
-      "body": "Their joint bid for the SDA constellation could signal a shift in how defense contractors approach satellite projects."
+      "title": "Hypersonic glide-vehicle test delays continue",
+      "body": "As the hypersonic glide-vehicle test slips for the third consecutive quarter, the implications for defense readiness are becoming increasingly concerning."
     },
     {
-      "title": "FY27 budget implications",
-      "body": "The additional $1.4 billion for space resilience could reshape procurement strategies across the defense sector."
+      "title": "Tomorrow.io's funding brings total to $210 million",
+      "body": "Tomorrow.io's recent $35 million funding round may signal a growing interest in weather satellites, potentially reshaping the market."
     },
     {
-      "title": "Watch for GPS jamming trends",
-      "body": "The return of GPS jamming in the Eastern Med could prompt new strategies in navigation and satellite operations."
+      "title": "Founders Fund reviews space portfolio",
+      "body": "The Founders Fund's quiet portfolio review could indicate strategic shifts in their investment focus, especially in the defense sector."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "NOC",
-      "note": "Northrop Grumman's new contract reflects its stronghold in military space."
+      "sym": "PLTR",
+      "note": "Palantir's $480M extension on the TITAN program keeps it firmly in the defense spotlight."
     },
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as commercial spaceflight faces delays."
+      "note": "Virgin Galactic's recent activities are under scrutiny as it struggles to find its footing post-IPO."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480 million extension signals continued confidence in its defense capabilities."
+      "sym": "SFTW",
+      "note": "Momentus is navigating a rocky path as it aims for operational milestones amid funding challenges."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's bullish case hinges on execution; investors are watching closely."
+      "note": "AST SpaceMobile's bullish case in recent charts suggests it's more about execution than just ambition."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

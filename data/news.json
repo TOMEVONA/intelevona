@@ -1,87 +1,87 @@
 {
-  "updated": "2026-05-17T14:52:34.236Z",
+  "updated": "2026-05-18T16:29:46.457Z",
   "articles": [
     {
       "sourceId": "spacenews",
-      "title": "NASA releases final RFP for Mars communications orbiter",
-      "summary": "Mars just got a bit more exclusive; hope the bidders packed their best ideas.",
-      "date": "2026-05-16",
-      "link": "https://spacenews.com/nasa-releases-final-rfp-for-mars-communications-orbiter/"
+      "title": "Inside Golden Dome’s push to court commercial tech firms and investors",
+      "summary": "Golden Dome is courting commercial tech firms to make national defense more affordable, but good luck convincing them space economics are anything but a black hole.",
+      "date": "2026-05-18",
+      "link": "https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/"
     },
     {
       "sourceId": "spacenews",
-      "title": "York Space defends growth strategy as SDA programs are reshaped",
-      "summary": "Nothing like a little reorganization to keep investors on their toes.",
-      "date": "2026-05-16",
-      "link": "https://spacenews.com/york-space-defends-growth-strategy-as-sda-programs-are-reshaped/"
+      "title": "Tomorrow.io adds $35 million to DeepSky funding round",
+      "summary": "Tomorrow.io has added $35 million to its funding round, bringing its total to $210 million, because who doesn't want to launch a weather satellite or two?",
+      "date": "2026-05-18",
+      "link": "https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Space Force awards Northrop Grumman $398 million satellite contract",
-      "summary": "Northrop Grumman just secured a $398 million ticket to the satellite testing ground.",
-      "date": "2026-05-16",
-      "link": "https://spacenews.com/space-force-awards-northrop-grumman-398-million-satellite-contract/"
+      "title": "House bill restores funding for TraCSS",
+      "summary": "A House bill is restoring funding for TraCSS, proving that even bureaucracies can have second thoughts about letting space traffic go unmanaged.",
+      "date": "2026-05-18",
+      "link": "https://spacenews.com/house-bill-restores-funding-for-tracss/"
     },
     {
       "sourceId": "spacenews",
-      "title": "SpaceX launches CRS-34 cargo mission to ISS",
-      "summary": "SpaceX continues its routine of making space look easy, one cargo mission at a time.",
-      "date": "2026-05-15",
-      "link": "https://spacenews.com/spacex-launches-crs-34-cargo-mission-to-iss/"
+      "title": "New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure",
+      "summary": "The CSF predicts over 7,000 satellites could be launched annually by the mid-2030s, which should make for some interesting game of orbital dodgeball.",
+      "date": "2026-05-18",
+      "link": "https://spacenews.com/new-csf-report-sees-up-to-7000-satellites-launched-annually-by-mid-2030s-highlights-the-challenges-with-us-launch-infrastructure/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Starlink Mobile challengers back proposed telco-led D2D joint venture",
-      "summary": "In a twist, the telecom giants are finding unity in their disunity over satellite connections.",
-      "date": "2026-05-15",
-      "link": "https://spacenews.com/starlink-mobile-challengers-back-proposed-telco-led-d2d-joint-venture/"
+      "title": "The next war will be won — or lost — in orbit",
+      "summary": "The next war might be fought in orbit, which is a fancy way of saying that space is the new high ground — and it’s getting crowded.",
+      "date": "2026-05-18",
+      "link": "https://spacenews.com/the-next-war-will-be-won-or-lost-in-orbit/"
     },
     {
       "sourceId": "tectonic",
       "title": "Anduril and L3Harris team on tactical SDA constellation bid",
-      "summary": "Anduril and L3Harris are proving that even in the void of space, paperwork still looms large.",
+      "summary": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, reminding us that even in space, collaboration is the name of the game.",
       "date": "2026-05-04",
       "link": "https://tectonicdefense.com/anduril-l3harris-sda/"
     },
     {
       "sourceId": "tectonic",
       "title": "FY27 budget markup adds $1.4B to space resilience line",
-      "summary": "The FY27 budget is now a little more padded for those who dare to reach for the stars.",
+      "summary": "The FY27 budget markup adds $1.4B for space resilience, which is a polite way of saying the government is finally taking its space toys seriously.",
       "date": "2026-05-03",
       "link": "https://tectonicdefense.com/fy27-markup-space/"
     },
     {
       "sourceId": "tectonic",
       "title": "Hypersonic glide-vehicle test slips again — third quarter in a row",
-      "summary": "The hypersonic glide-vehicle test schedule is starting to resemble a slow-motion chase scene.",
+      "summary": "The hypersonic glide-vehicle test has slipped again, making it the aerospace equivalent of a perpetual motion machine — always in motion but never quite getting anywhere.",
       "date": "2026-05-02",
       "link": "https://tectonicdefense.com/hgv-slip-q3/"
     },
     {
       "sourceId": "tectonic",
       "title": "Sierra Space's Dream Chaser DoD variant clears critical design review",
-      "summary": "Sierra Space's Dream Chaser variant has passed the review; now let’s see if it can fly.",
+      "summary": "Sierra Space's Dream Chaser DoD variant has passed its critical design review, which is a bit like getting a gold star in a class where flying is still unproven.",
       "date": "2026-05-01",
       "link": "https://tectonicdefense.com/dream-chaser-cdr/"
     },
     {
       "sourceId": "tectonic",
       "title": "Palantir wins $480M extension on TITAN ground station program",
-      "summary": "Palantir’s $480M extension is just another chapter in the saga of defense unpredictability.",
+      "summary": "Palantir has snagged a $480M extension on the TITAN ground station program, continuing its trend of being the defense contractor that just won't quit.",
       "date": "2026-04-29",
       "link": "https://tectonicdefense.com/palantir-titan-extension/"
     },
     {
       "sourceId": "piratewires",
       "title": "The Defense-Tech IPO Window Is Cracking Open",
-      "summary": "The IPO window may be cracking, but the stakes are higher than ever.",
+      "summary": "The IPO window for defense tech is cracking open, but with rising stakes, it’s more of a cautious peek than a full-on leap.",
       "date": "2026-05-04",
       "link": "https://piratewires.com/defense-ipo-window/"
     },
     {
       "sourceId": "piratewires",
       "title": "Why every YC company is suddenly 'AI for Defense'",
-      "summary": "‘AI for Defense’ is the latest trend, proving that even jargon has its fashion cycles.",
+      "summary": "Every YC company is suddenly touting 'AI for Defense', proving that buzzwords are the ultimate fashion accessory in the startup world.",
       "date": "2026-05-03",
       "link": "https://piratewires.com/yc-defense/"
     },
@@ -172,184 +172,184 @@
     {
       "sourceId": "tbpn",
       "title": "The TBPN deep-tech survey: 1,200 founders weigh in",
-      "summary": "A new survey shows 50% of deep-tech founders now identify as 'defense or dual-use', a sharp rise from 17% two years ago; apparently, military chic is the new black in startup circles.",
+      "summary": "A survey reveals that 50% of deep-tech founders now identify as 'defense or dual-use', up from 17% two years ago; apparently, the military aesthetic is in vogue for startups.",
       "date": "2026-04-29",
       "link": "https://tbpn.com/deeptech-survey-26/"
     },
     {
       "sourceId": "ussf",
       "title": "DAF updates religious accommodation process, eliminates Religious Resolution Teams",
-      "summary": "The DAF has revised its religious accommodation process for Airmen and Guardians, eliminating Religious Resolution Teams; because nothing says 'freedom' like a bureaucratic overhaul.",
+      "summary": "The DAF has streamlined its religious accommodation process by eliminating Religious Resolution Teams; because who needs more bureaucracy in the military?",
       "date": "2026-05-15",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4493798/daf-updates-religious-accommodation-process-eliminates-religious-resolution-tea/"
     },
     {
       "sourceId": "ussf",
       "title": "DAF selects partner for commercialized on-base lodging",
-      "summary": "The DAF has chosen a commercial partner to revamp on-base lodging across the U.S. and its territories; finally, military housing might get a touch of the hospitality industry.",
+      "summary": "The DAF has chosen a commercial partner to revamp its on-base lodging across the U.S.; because nothing says military efficiency like outsourcing.",
       "date": "2026-05-13",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4485915/daf-selects-partner-for-commercialized-on-base-lodging/"
     },
     {
       "sourceId": "ussf",
       "title": "2026 USO Guardian of the Year: STARCOM instructor helps shape next generation of Guardians",
-      "summary": "The USO honored Gudgeon for his quick thinking during medical emergencies involving trainees; proving that sometimes the best training is just knowing how to save a life.",
+      "summary": "The USO honored Gudgeon for his quick thinking during medical emergencies involving trainees; proving that sometimes, saving lives is part of the curriculum.",
       "date": "2026-05-13",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4485330/2026-uso-guardian-of-the-year-starcom-instructor-helps-shape-next-generation-of/"
     },
     {
       "sourceId": "ussf",
       "title": "Space Force releases officer career development path",
-      "summary": "The Space Force has released a career development path for officers, emphasizing a multidisciplinary approach before specialization; because who doesn’t want a little bit of everything in space?",
+      "summary": "The Space Force has released a career development path for officers, emphasizing a multidisciplinary foundation; because space is complicated and so is career advancement.",
       "date": "2026-05-08",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4480451/space-force-releases-officer-career-development-path/"
     },
     {
       "sourceId": "ussf",
       "title": "New deep space radar capability employed early",
-      "summary": "A new deep space radar capability is being utilized early, thanks to collaboration among the U.S., Australia, and the U.K.; apparently, space is the new frontier for international teamwork.",
+      "summary": "A new deep space radar capability is being utilized early, thanks to U.S., Australia, and U.K. collaboration; apparently, space is the new frontier for international teamwork.",
       "date": "2026-05-04",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4476937/new-deep-space-radar-capability-employed-early/"
     },
     {
       "sourceId": "dod",
       "title": "Hegseth Welcomes Ford Carrier Strike Group Home After Record-Breaking Deployment",
-      "summary": "Secretary of War Pete Hegseth welcomed home the USS Gerald R. Ford Carrier Strike Group after a record-breaking deployment; it seems the sailors have set a new standard for 'long-distance relationships'.",
+      "summary": "Secretary of War Pete Hegseth welcomed home the USS Gerald R. Ford Carrier Strike Group after a record-breaking deployment; it's nice to see sailors back on solid ground.",
       "date": "2026-05-16",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4494266/hegseth-welcomes-ford-carrier-strike-group-home-after-record-breaking-deployment/"
     },
     {
       "sourceId": "dod",
       "title": "Pentagon Marks Armed Forces Day With Special Flag",
-      "summary": "The Pentagon celebrated Armed Forces Day by unveiling a special America 250 version of the Betsy Ross flag; because nothing says 'we appreciate you' like a new flag design.",
+      "summary": "The Pentagon celebrated Armed Forces Day with a new America 250 version of the Betsy Ross flag; because nothing says patriotism like a flag redesign.",
       "date": "2026-05-16",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4493962/pentagon-marks-armed-forces-day-with-special-flag/"
     },
     {
       "sourceId": "dod",
       "title": "Future USS Cleveland Sailors Attend Commissioning Week Events",
-      "summary": "Sailors from the future USS Cleveland participated in commissioning week events in their namesake city; it’s nice to see that even ships get a celebratory welcome party.",
+      "summary": "Sailors of the future USS Cleveland are engaging with their namesake city ahead of the ship's commissioning; community engagement is the new pre-launch checklist.",
       "date": "2026-05-15",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4493526/future-uss-cleveland-sailors-attend-commissioning-week-events/"
     },
     {
       "sourceId": "dod",
       "title": "Africom Commander Says Continent at 'Crossroads' of Global Commerce, Security",
-      "summary": "Africom Commander Gen. Dagvin R.M. Anderson warned Congress that Africa is at a 'crossroads' of global commerce and security, highlighting the continent's rising geopolitical significance.",
+      "summary": "Africom's commander warned Congress that Africa is at a 'crossroads' of global commerce and security, facing challenges from bad actors; it seems the continent's rise is a double-edged sword.",
       "date": "2026-05-14",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4487504/africom-commander-says-continent-at-crossroads-of-global-commerce-security/"
     },
     {
       "sourceId": "dod",
       "title": "Centcom Commander Says Epic Fury Crippled Iran, Enhanced Military Partnerships in Region",
-      "summary": "Centcom Commander claimed Operation Epic Fury has severely weakened Iran's military capabilities; it seems 'crippling' is the new buzzword for military success.",
+      "summary": "Centcom's commander claimed Operation Epic Fury has crippled Iran's military capabilities; apparently, the U.S. is still in the business of reshaping regional power dynamics.",
       "date": "2026-05-14",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4487365/centcom-commander-says-epic-fury-crippled-iran-enhanced-military-partnerships-i/"
     },
     {
       "sourceId": "viasat",
       "title": "What Will the Golden Dome Cost? Gen. Guetlein Pushes Back on CBO Cost Estimate",
-      "summary": "Gen. Guetlein disputed a CBO estimate on the Golden Dome program's costs, indicating that budget estimates are as contentious as the programs they evaluate.",
+      "summary": "Gen. Guetlein has pushed back against a CBO cost estimate for the Golden Dome program; because who doesn't love a good budgetary disagreement?",
       "date": "2026-05-15",
       "link": "https://www.satellitetoday.com/government-military/2026/05/15/what-will-the-golden-dome-cost-gen-guetlein-pushes-back-on-cbo-cost-estimate/"
     },
     {
       "sourceId": "viasat",
       "title": "IFC Market in China and India is On Cusp of Growth, Valour Predicts",
-      "summary": "Valour Consultancy predicts significant growth in the in-flight connectivity market in China and India, which is great news for anyone who enjoys Wi-Fi at 30,000 feet.",
+      "summary": "Valour Consultancy predicts significant growth for In-Flight Connectivity markets in China and India, likely making the skies a bit more entertaining.",
       "date": "2026-05-15",
       "link": "https://www.satellitetoday.com/mobility/2026/05/15/ifc-market-in-china-and-india-is-on-cusp-of-growth-valour-predicts/"
     },
     {
       "sourceId": "viasat",
       "title": "Cowboy Space Files for 20,000-Satellite Constellation for Data Center Services",
-      "summary": "Cowboy Space has filed plans for a 20,000-satellite constellation aimed at providing data center services from space, because why not put data centers in orbit?",
+      "summary": "Cowboy Space has filed plans for a 20,000-satellite constellation aimed at providing data center services from orbit, because why not put data centers in space?",
       "date": "2026-05-15",
       "link": "https://www.satellitetoday.com/technology/2026/05/15/cowboy-space-files-for-20000-satellite-constellation-for-data-center-services/"
     },
     {
       "sourceId": "viasat",
       "title": "Iceye Delivers SAR Capability to Polish Armed Forces",
-      "summary": "Iceye has handed over a radar satellite constellation to the Polish Armed Forces, proving that even militaries can get their satellite fix in under a year.",
+      "summary": "Iceye has delivered radar satellite control to the Polish Armed Forces in under a year, proving that sometimes speed is as important as stealth.",
       "date": "2026-05-15",
       "link": "https://www.satellitetoday.com/government-military/2026/05/15/iceye-delivers-sar-capability-to-polish-armed-forces/"
     },
     {
       "sourceId": "viasat",
       "title": "Kymeta Terminals to be Integrated Into Red Cat Uncrewed Surface Vessels",
-      "summary": "Kymeta is integrating its satellite communication terminals into Red Cat's uncrewed surface vessels, which sounds like a step towards a very high-tech pirate ship.",
+      "summary": "Kymeta is integrating its satellite communication terminals into Red Cat's uncrewed surface vessels, which is just a fancy way to say they're making boats smarter.",
       "date": "2026-05-15",
       "link": "https://www.satellitetoday.com/technology/2026/05/15/kymeta-terminals-to-be-integrated-into-red-cat-uncrewed-surface-vessels/"
     },
     {
       "sourceId": "spacecom",
-      "title": "Venus and a slender crescent moon steal the show after sunset on May 18",
-      "summary": "Venus and a crescent moon put on a celestial show after sunset, reminding us that even in the vastness of space, some things are still just pretty.",
-      "date": "2026-05-17",
-      "link": "https://www.space.com/stargazing/venus-and-a-slender-crescent-moon-steal-the-show-after-sunset-on-may-18-2026"
+      "title": "This amazing NASA video shows the exact moment the Artemis 2 Orion capsule broke free of its service module, and we can't stop watching it",
+      "summary": "A new NASA video captures the moment the Artemis 2 Orion capsule separated from its service module, reminding us that even in space, breakups can be dramatic.",
+      "date": "2026-05-18",
+      "link": "https://www.space.com/space-exploration/artemis/this-amazing-nasa-video-shows-the-exact-moment-the-artemis-2-orion-capsule-broke-free-of-its-service-module-and-we-cant-stop-watching-it"
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX Dragon capsule delivers science and supplies to space station",
-      "summary": "A SpaceX Dragon capsule successfully delivered 6,500 pounds of supplies to the ISS, which is basically a grocery run for astronauts.",
-      "date": "2026-05-17",
-      "link": "https://www.space.com/space-exploration/international-space-station/spacex-dragon-capsule-delivers-science-and-supplies-to-space-station"
+      "title": "SpaceX Starship Flight 12 launch updates: 1st-ever Starship V3 test gets new launch date",
+      "summary": "SpaceX has set a new launch date for its Starship V3 test flight, proving that even rockets need a little time to prepare for their big debut.",
+      "date": "2026-05-18",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-18-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Watch an asteroid the size of a blue whale hurtle towards Earth live online May 18",
-      "summary": "An asteroid the size of a blue whale will be live-streamed as it approaches Earth, because nothing says 'safe' like watching a giant rock hurtle towards us.",
-      "date": "2026-05-17",
-      "link": "https://www.space.com/astronomy/asteroids/watch-an-asteroid-the-size-of-a-blue-whale-hurtle-towards-earth-live-online-may-18"
+      "title": "Northern lights may be visible in several US states tonight as 3 CMEs race toward Earth",
+      "summary": "Three coronal mass ejections are heading towards Earth, potentially lighting up the northern U.S. skies with auroras, because who doesn’t love a good light show?",
+      "date": "2026-05-18",
+      "link": "https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-us-states-may-18-20-as-cmes-race-toward-earth"
     },
     {
       "sourceId": "spacecom",
-      "title": "Giant radio telescope sees Artemis 2 astronauts on Orion flying around the moon. 'There are 4 people in those pixels.'",
-      "summary": "A giant radio telescope tracked the Artemis 2 mission around the moon, proving that even telescopes can get a little starstruck.",
-      "date": "2026-05-17",
-      "link": "https://www.space.com/space-exploration/artemis/giant-radio-telescope-sees-artemis-2-astronauts-on-orion-flying-around-the-moon-there-are-4-people-in-those-pixels"
+      "title": "Artemis 2 moon astronauts snap gorgeous shot of swirling stars | Space photo of the day for May 18, 2026",
+      "summary": "Astronauts aboard Artemis 2 captured a stunning photo of swirling stars, reminding us that even in space, the view can be breathtaking.",
+      "date": "2026-05-18",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-snap-gorgeous-shot-of-swirling-stars-space-photo-of-the-day-for-may-18-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Get $341 off the limited X edition of the Vaonis Vespera II at Walmart",
-      "summary": "Walmart is offering a discount on the limited X edition of the Vaonis Vespera II, which is probably the only time you'll hear 'limited edition' and 'Walmart' in the same sentence.",
-      "date": "2026-05-16",
-      "link": "https://www.space.com/stargazing/skywatching-kit/get-usd341-off-the-limited-x-edition-of-the-vaonis-vespera-ii-at-walmart"
+      "title": "Manhattanhenge 2026 is coming this month: Here's when and where to see the sunset spectacle",
+      "summary": "Manhattanhenge 2026 is approaching, offering New Yorkers a chance to witness the sun perfectly align with the city's grid, because urban planning has its perks.",
+      "date": "2026-05-18",
+      "link": "https://www.space.com/stargazing/manhattanhenge-2026-is-coming-this-month-heres-when-and-where-to-see-the-sunset-spectacle"
     },
     {
       "sourceId": "rspace",
-      "title": "Temperate super-Earth found orbiting nearby red dwarf Ross 318",
-      "summary": "A temperate super-Earth has been discovered orbiting the nearby red dwarf Ross 318, which is just what we need: more places to consider colonizing.",
-      "date": "2026-05-17",
-      "link": "https://www.reddit.com/r/space/comments/1tfqyvk/temperate_superearth_found_orbiting_nearby_red/"
+      "title": "SwRI findings reconsider the existence of Europa’s vapor plumes",
+      "summary": "New findings from SwRI challenge the existence of vapor plumes on Europa, which is a bit of a letdown for those hoping for alien water fountains.",
+      "date": "2026-05-18",
+      "link": "https://www.reddit.com/r/space/comments/1tgpzfd/swri_findings_reconsider_the_existence_of_europas/"
     },
     {
       "sourceId": "rspace",
-      "title": "Milky way Galaxy and a moving satellite from My campsite, pic my phone .",
-      "summary": "A photo captures the Milky Way and a moving satellite from a campsite, which is a reminder that nature and technology can coexist, at least until the Wi-Fi drops.",
-      "date": "2026-05-17",
-      "link": "https://www.reddit.com/r/space/comments/1tfoqsf/milky_way_galaxy_and_a_moving_satellite_from_my/"
+      "title": "how do astronuts know that they are upside down",
+      "summary": "A Reddit thread ponders how astronauts know they're upside down in space, which is a question that could use a little less gravity and a bit more common sense.",
+      "date": "2026-05-18",
+      "link": "https://www.reddit.com/r/space/comments/1tgnc6x/how_do_astronuts_know_that_they_are_upside_down/"
     },
     {
       "sourceId": "rspace",
-      "title": "6 months of the sun in 60 seconds (CCOR-1)",
-      "summary": "A time-lapse video condenses six months of solar activity into 60 seconds, because who has the time to watch the sun in real-time?",
-      "date": "2026-05-17",
-      "link": "https://www.reddit.com/r/space/comments/1tfklba/6_months_of_the_sun_in_60_seconds_ccor1/"
+      "title": "Closeup of booster and core stage engines of a Soyuz-2.1a during launch",
+      "summary": "A close-up image of a Soyuz-2.1a's booster and core stage engines during launch reminds us that sometimes the real beauty is in the details of engineering.",
+      "date": "2026-05-18",
+      "link": "https://www.reddit.com/r/space/comments/1tgjgd5/closeup_of_booster_and_core_stage_engines_of_a/"
     },
     {
       "sourceId": "rspace",
-      "title": "What will human biology and space medicine be like in the future? (Desc)",
-      "summary": "As theories about human biology in space evolve, the prospect of colonizing distant planets raises questions about our ability to adapt, or if we'll just end up with interplanetary health insurance nightmares.",
-      "date": "2026-05-17",
-      "link": "https://www.reddit.com/r/space/comments/1tfkht3/what_will_human_biology_and_space_medicine_be/"
+      "title": "Fly me (more efficiently) to the Moon",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/malcolm58\"> /u/malcolm58 </a> <br/> <span><a href=\"https://connectsci.au/news/news-parent/9380/Fly-me-more-efficiently-to-the-Moon?searchresult=1\">[link]</a></span> &#32; <span><a…",
+      "date": "2026-05-18",
+      "link": "https://www.reddit.com/r/space/comments/1tgiya3/fly_me_more_efficiently_to_the_moon/"
     },
     {
       "sourceId": "rspace",
-      "title": "Germany gets ahead in the new space race",
-      "summary": "Germany is making strides in the new space race, proving that sometimes all it takes is a little ambition and a good sense of timing to catch up with the big players.",
+      "title": "What is the future after the Artemis Program and the 70+ moon landings?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>NASA released a document saying they plan on completing over 70 moon landings after Artemis. I was supprised how many upvotes the post got. As much as I would love for this to happen it&#39;s really not even remotely plausible.",
       "date": "2026-05-17",
-      "link": "https://www.reddit.com/r/space/comments/1tfeufw/germany_gets_ahead_in_the_new_space_race/"
+      "link": "https://www.reddit.com/r/space/comments/1tg607q/what_is_the_future_after_the_artemis_program_and/"
     },
     {
       "sourceId": "nga",
@@ -388,73 +388,73 @@
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "How workplace infrastructure supports business performance",
-      "summary": "Workplace infrastructure is touted as critical for business performance, which is a polite way of saying that without it, companies are just one bad day away from chaos.",
-      "date": "2026-05-17",
-      "link": "https://thenextweb.com/news/how-workplace-infrastructure-supports-business-performance"
+      "title": "Omnia and Casa dos Ventos sign $2bn power deal anchoring TikTok’s Brazil data centre",
+      "summary": "The Pátria-controlled data-centre developer is buying renewable power from Brazil’s largest independent generator to underwrite a 200 MW campus in Pecém, the first ByteDance facility in Latin America.",
+      "date": "2026-05-18",
+      "link": "https://thenextweb.com/news/omnia-casa-dos-ventos-tiktok-brazil-data-centre"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "ArXiv will ban researchers for a year if they submit papers they did not bother to read",
-      "summary": "ArXiv plans to ban researchers for a year if they submit papers they didn't read, which might finally encourage some actual reading in the age of unchecked AI.",
-      "date": "2026-05-17",
-      "link": "https://thenextweb.com/news/arxiv-ai-slop-ban-researchers-preprint"
+      "title": "Your next pipeline miss may start in AI Search",
+      "summary": "Across the B2B SaaS teams I work with, a pattern is starting to repeat. Pipeline feels less predictable. Sales cycles stretch. Conversion conversations require more explanation than before. At the same time, traffic often looks stable – sometimes even growing.",
+      "date": "2026-05-18",
+      "link": "https://thenextweb.com/news/your-next-pipeline-miss-may-start-in-ai-search"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Trump calls Taiwan arms deal a “negotiating chip” after three days with Xi in Beijing",
-      "summary": "Trump labeled a $14 billion arms deal for Taiwan as a 'negotiating chip' after talks with Xi, effectively turning American security commitments into a game of geopolitical poker.",
-      "date": "2026-05-17",
-      "link": "https://thenextweb.com/news/trump-xi-summit-taiwan-arms-deal-beijing"
+      "title": "NextEra agrees $67bn all-stock deal for Dominion in largest power acquisition ever",
+      "summary": "The all-stock takeover, the largest power acquisition ever, gives NextEra the utility that runs Northern Virginia’s data-centre belt and consolidates the bidding power on the demand side of the AI-electricity trade.",
+      "date": "2026-05-18",
+      "link": "https://thenextweb.com/news/nextera-dominion-67-billion-utility-merger-ai"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "GM, Ford, and Stellantis have cut 20,000 white-collar jobs. AI is about to accelerate the trend.",
-      "summary": "GM, Ford, and Stellantis have cut 20,000 white-collar jobs, with AI poised to accelerate this trend, suggesting that the future of work might be less about people and more about algorithms.",
-      "date": "2026-05-17",
-      "link": "https://thenextweb.com/news/detroit-three-automakers-20000-white-collar-jobs-ai"
+      "title": "Musk’s xAI promised employees $420 for their tax data. Two months later, nothing.",
+      "summary": "Elon Musk’s AI lab promised employees a 420-dollar payment for handing over their personal tax data to train Grok ahead of the April 15 deadline. Two months on, Bloomberg reports, the money has not been paid.",
+      "date": "2026-05-18",
+      "link": "https://thenextweb.com/news/musks-xai-promised-employees-420-for-their-tax-data-two-months-later-nothing"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Cerebras just had the biggest US tech IPO since Snowflake. SpaceX, OpenAI, and Anthropic are next.",
-      "summary": "Cerebras just had the biggest US tech IPO since Snowflake, setting the stage for SpaceX, OpenAI, and Anthropic to follow suit, assuming they can remember how to file the paperwork.",
-      "date": "2026-05-17",
-      "link": "https://thenextweb.com/news/cerebras-ipo-spacex-openai-anthropic-listings"
+      "title": "Decart raises $300M to put a real-time world model in front of Amazon’s chips",
+      "summary": "Radical Ventures led the round, with Nvidia, Sequoia, Benchmark, Adobe, and Toyota alongside. Andrej Karpathy, Michael Eisner, and the Nintendo family are angels. Total raised is now over $450m.",
+      "date": "2026-05-18",
+      "link": "https://thenextweb.com/news/decart-300-million-radical-ventures-world-models"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Beacon of Light",
+      "summary": "NASA's James Webb Space Telescope captured a bright image of galaxy M77, showcasing the intense glow from gas spiraling into a black hole; it's like the universe's version of a dramatic spotlight moment.",
+      "date": "2026-05-18",
+      "link": "https://www.nasa.gov/image-article/beacon-of-light/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station",
-      "summary": "SpaceX launched its 34th cargo mission to the ISS, delivering scientific experiments, because apparently, the station needs more stuff to do in zero gravity.",
+      "summary": "SpaceX launched its 34th resupply mission to the International Space Station, delivering scientific experiments; at this rate, the ISS might start charging rent for all the cargo it hosts.",
       "date": "2026-05-15",
       "link": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/"
     },
     {
       "sourceId": "nasa",
       "title": "Curiosity Shakes Loose a Pesky Rock",
-      "summary": "Curiosity's Mars rover finally dislodged a stubborn rock after an engineering tango, proving that even robots can have bad days.",
+      "summary": "NASA's Curiosity rover dislodged a rock on Mars after a prolonged struggle, proving that even robots can have bad days; perhaps it just needed a little more motivation—or a better drill.",
       "date": "2026-05-15",
       "link": "https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/"
     },
     {
       "sourceId": "nasa",
       "title": "Hubble Sights Galaxy in Transition",
-      "summary": "The Hubble Space Telescope captured a galaxy that looks like it’s trying to be a spiral but forgot its arms, a cosmic case of identity crisis.",
+      "summary": "The Hubble Space Telescope captured an unusual galaxy with a bright center but no clear spiral arms, leaving astronomers scratching their heads; it's like a mystery novel with a missing chapter.",
       "date": "2026-05-15",
       "link": "https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/"
     },
     {
       "sourceId": "nasa",
       "title": "Picturing Earth in a New Light",
-      "summary": "A new analysis shows where artificial light at night is booming and where it's fading, suggesting that some places are getting brighter while others are just going dark.",
+      "summary": "A recent study revealed changes in artificial light at night, highlighting areas of both increase and decrease; it's a reminder that even our glow can be a bit fickle.",
       "date": "2026-05-15",
       "link": "https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Draws on Industry for Mars Telecommunications Network",
-      "summary": "NASA is looking for industry partners to help build a Mars Telecommunications Network, because sending data from Mars should be as easy as sending a text—just with a longer delay.",
-      "date": "2026-05-14",
-      "link": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/"
     }
   ]
 }
