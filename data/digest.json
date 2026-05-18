@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with funding rounds and strategic partnerships as companies vie for dominance in the evolving landscape. Meanwhile, the U.S. government is ramping up its budget for space resilience amidst increasing competition and infrastructure challenges.",
+  "summary": "The space industry is buzzing with funding rounds and strategic partnerships as companies and governments alike gear up for an increasingly crowded orbital environment. Meanwhile, the specter of military operations in space looms larger, with implications for both commercial and defense sectors.",
   "themes": [
     {
       "icon": "▣",
       "title": "Funding Frenzy Continues",
-      "body": "Tomorrow.io's latest $35 million injection and True Anomaly's $190 million Series C highlight a robust appetite for investment in space tech. This influx of capital suggests investors are betting on the long-term viability of commercial space ventures."
+      "body": "Tomorrow.io's recent $35 million funding boost highlights the ongoing investment trend in space tech, while True Anomaly's $190 million Series C round underscores the appetite for innovative solutions. As the space economy expands, expect more players to vie for a slice of the financial pie."
     },
     {
       "icon": "◉",
-      "title": "Military Focus on Space Operations",
-      "body": "The Pentagon's increased budget for space resilience and the collaboration between Anduril and L3Harris on a tactical SDA constellation signal a shift towards prioritizing military capabilities in orbit. As the next war is expected to be fought in space, these developments underscore the urgency of enhancing U.S. space operations."
+      "title": "Military Operations in Space",
+      "body": "The narrative that the next war will be fought in orbit is gaining traction, with the Pentagon emphasizing the importance of space resilience. Partnerships like Anduril and L3Harris's tactical SDA constellation bid reflect a shift towards integrating commercial capabilities into defense strategies."
     },
     {
       "icon": "▲",
-      "title": "Satellite Launch Proliferation Ahead",
-      "body": "A new CSF report forecasts over 7,000 satellites launched annually by the mid-2030s, raising questions about the adequacy of U.S. launch infrastructure. This anticipated surge will likely strain existing capabilities and necessitate innovative solutions."
+      "title": "Launch Infrastructure Challenges",
+      "body": "A recent CSF report warns of potential bottlenecks with the projected surge of over 7,000 satellites by the mid-2030s, raising questions about the US's launch infrastructure readiness. As demand escalates, the industry must address these logistical hurdles or risk falling behind."
     },
     {
       "icon": "◆",
-      "title": "Geopolitical Tensions in Space",
-      "body": "Increased Russian co-orbital activity near commercial GEO slots and GPS jamming incidents highlight the growing geopolitical stakes in space. As nations assert their presence, the implications for commercial operations and security are becoming increasingly complex."
+      "title": "Emerging Defense-Tech Landscape",
+      "body": "The defense-tech IPO window appears to be cracking open, with a noticeable uptick in interest from venture capitalists. This shift is further evidenced by the rise of AI-focused defense startups, indicating a blend of traditional defense with cutting-edge technology."
     }
   ],
-  "updated": "2026-05-18 16:29 UTC"
+  "updated": "2026-05-18 16:45 UTC"
 }
