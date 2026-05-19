@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-19",
   "issue": "No. 28",
-  "headline": "Funding flows. FCC approvals. Tactical collaborations.",
-  "deck": "This week saw significant funding rounds and strategic partnerships shaping the space landscape.",
+  "headline": "Funding flows. Strategies shift. Bureaucracy hums.",
+  "deck": "This week, space startups secure significant funding while government priorities evolve.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190M in a Series C round, valuing the company at $1.6B. The funding aims to bolster its co-orbital security and space domain awareness capabilities, with a clear nod to increased DoD interest in these areas. This follows their recent contracts with the Pentagon, signaling a robust pull-through from government needs.",
-      "soWhat": "With cash flow now firmly in hand, True Anomaly may just become the go-to for co-orbital defense—if they can navigate the bureaucracy."
+      "body": "True Anomaly has successfully raised $190 million in a Series C funding round, pushing its valuation to $1.6 billion. The investment underscores the growing demand for co-orbital security solutions, particularly from defense sectors. With the Department of Defense's increasing focus on space domain awareness, True Anomaly is well-positioned to capitalize on this trend.",
+      "soWhat": "In a world where cash flow trumps tech, True Anomaly's funding suggests that investors are betting on the necessity of security over flashy innovations."
     },
     {
       "kicker": "STRATEGY",
-      "head": "Portal Space partners with Quindar for military missions",
-      "body": "Portal Space has enlisted Quindar for ground mission support as it prepares to launch its maneuverable spacecraft aimed at military applications. This partnership is part of a broader trend where startups are actively courting government contracts to solidify their market positions. The move aligns with the increasing military focus on agile space solutions.",
-      "soWhat": "If Portal can actually launch on time, they might just redefine military space operations—assuming they can maneuver through the red tape."
+      "head": "Contrivian challenges multi-orbit satellite strategies",
+      "body": "Startup Contrivian is making waves by arguing that LEO satellites may outperform multi-orbit setups by simplifying networking challenges. This approach could disrupt established players who have invested heavily in complex multi-orbit architectures, potentially reshaping market dynamics. As satellite networks become increasingly congested, Contrivian's strategy could resonate with customers looking for straightforward solutions.",
+      "soWhat": "If simplicity wins in space, expect a shake-up among those who thought complexity was the key to success."
     },
     {
-      "kicker": "TECHNOLOGY",
-      "head": "Vast diversifies into high-power satellite buses",
-      "body": "Vast has announced a new line of high-power satellite buses, expanding beyond its initial focus on commercial space stations. This strategic pivot comes as the demand for robust satellite infrastructure continues to grow, particularly for national security missions. The company is aiming to capture a slice of the lucrative defense market.",
-      "soWhat": "Vast's shift suggests that even companies known for one thing are willing to pivot—perhaps a reminder that in space, versatility is key."
+      "kicker": "PROCUREMENT",
+      "head": "Portal Space partners with Quindar for military missions",
+      "body": "Portal Space has contracted Quindar for ground mission support as it prepares to launch maneuverable spacecraft designed for military applications. This partnership highlights the increasing demand for flexibility in military space operations, especially as geopolitical tensions rise. The financial terms of the deal remain undisclosed, but the implications for future military contracts could be significant.",
+      "soWhat": "With more military players seeking maneuverability, the procurement landscape is likely to favor those who can adapt quickly—good luck to the slow movers."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on FCC satellite approvals",
-      "body": "With Lynk Global's recent FCC nod for direct-to-device testing, expect more companies to push for regulatory green lights next week."
+      "title": "Keep an eye on the FCC's next moves",
+      "body": "With Lynk and Anterix's recent FCC approval, expect more regulatory developments that could impact satellite communications."
     },
     {
-      "title": "Upcoming budget discussions on space resilience",
-      "body": "The $1.4B addition to the FY27 budget for space resilience could influence procurement strategies—watch for shifts in contractor priorities."
+      "title": "Sierra Space's Dream Chaser launch timeline",
+      "body": "After passing its critical design review, the timeline for the Dream Chaser's launch could provide insights into future military transport capabilities."
     },
     {
-      "title": "Sierra Space's Dream Chaser development",
-      "body": "Having cleared its critical design review, the Dream Chaser DoD variant will be closely watched as it moves toward production—challenges ahead."
+      "title": "Budget discussions for FY27 heat up",
+      "body": "The additional $1.4 billion for space resilience in the FY27 budget could lead to increased competition for government contracts."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "With a $480M extension on the TITAN program, Palantir's role in military data operations will likely expand, impacting competitors in the space."
+      "title": "SpaceX secondary market valuation implications",
+      "body": "SpaceX's secondary market valuation of $470 billion might influence investor sentiment across the space sector, especially for upcoming IPOs."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it struggles to demonstrate consistent progress post-launch."
-    },
-    {
-      "sym": "PLTR",
-      "note": "Palantir's recent contract extension highlights its resilience in the defense sector, despite broader market pressures."
-    },
-    {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's bullish case suggests potential, but execution risk looms large as they scale operations."
+      "note": "The bullish case for ASTS suggests execution risk is the only hurdle left—no pressure."
     },
     {
-      "sym": "SFTW",
-      "note": "Stable Road Acquisition's path to merging with Momentus is still unclear—investors are growing restless."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480M extension on the TITAN project shows that government contracts are the gift that keeps on giving."
+    },
+    {
+      "sym": "K2",
+      "note": "K2 Space's $110M Series B indicates strong interest in high-power satellite solutions for national security."
+    },
+    {
+      "sym": "SPACEX",
+      "note": "SpaceX's secondary market valuation of $470B makes it the elephant in the room for any investment discussions."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

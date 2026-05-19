@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is seeing a blend of new entrants challenging traditional satellite paradigms and established players enhancing their capabilities. Meanwhile, defense tech is inching closer to an IPO revival, with a notable focus on resilience and infrastructure.",
+  "summary": "The space industry is seeing a mix of innovation and regulatory maneuvers as startups challenge established norms and government budgets expand. Meanwhile, the hypersonic program continues to stumble, and new partnerships are forming to enhance satellite capabilities.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Challengers to Satellite Norms",
-      "body": "A startup is taking aim at the multi-orbit strategies that have long dominated satellite deployment. This could signal a shift in how companies approach orbital architecture and market competition."
+      "title": "Startups vs. Established Players",
+      "body": "A new startup is shaking up the satellite industry’s multi-orbit strategy, suggesting that the old playbook might be due for a rewrite. This could lead to a more competitive landscape as traditional players scramble to adapt."
     },
     {
       "icon": "▲",
-      "title": "Defense Tech Funding Surge",
-      "body": "The FY27 budget markup has added $1.4 billion to space resilience efforts, highlighting a growing recognition of the need for robust space capabilities. This influx of cash could accelerate innovation and partnerships in the sector."
+      "title": "Government Funding Boost",
+      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, signaling a strong commitment to enhancing national security through space. This influx of cash could catalyze innovation and partnerships across the sector."
     },
     {
       "icon": "◉",
-      "title": "New Collaborations in Space",
-      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, indicating a trend toward collaboration among defense contractors. Such partnerships may streamline development and enhance operational capabilities."
+      "title": "Hypersonic Hiccups Persist",
+      "body": "The hypersonic glide-vehicle program has once again slipped, marking the third consecutive quarter of delays. This raises questions about the program's viability and the broader implications for U.S. defense capabilities."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Hiccups Continue",
-      "body": "The latest hypersonic glide-vehicle test has slipped for the third consecutive quarter, raising questions about the pace of development in this critical area. This delay could have implications for national security and defense strategies."
+      "title": "Strategic Partnerships Forming",
+      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, showcasing a trend of collaboration among defense tech firms. Such alliances could reshape the competitive landscape as they pool resources and expertise."
     }
   ],
-  "updated": "2026-05-19 16:26 UTC"
+  "updated": "2026-05-19 16:48 UTC"
 }
