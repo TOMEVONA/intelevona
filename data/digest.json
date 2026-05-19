@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with funding rounds and strategic partnerships as companies and governments alike gear up for an increasingly crowded orbital environment. Meanwhile, the specter of military operations in space looms larger, with implications for both commercial and defense sectors.",
+  "summary": "The space industry is seeing a blend of new entrants challenging traditional satellite paradigms and established players enhancing their capabilities. Meanwhile, defense tech is inching closer to an IPO revival, with a notable focus on resilience and infrastructure.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Frenzy Continues",
-      "body": "Tomorrow.io's recent $35 million funding boost highlights the ongoing investment trend in space tech, while True Anomaly's $190 million Series C round underscores the appetite for innovative solutions. As the space economy expands, expect more players to vie for a slice of the financial pie."
-    },
-    {
-      "icon": "◉",
-      "title": "Military Operations in Space",
-      "body": "The narrative that the next war will be fought in orbit is gaining traction, with the Pentagon emphasizing the importance of space resilience. Partnerships like Anduril and L3Harris's tactical SDA constellation bid reflect a shift towards integrating commercial capabilities into defense strategies."
+      "title": "Challengers to Satellite Norms",
+      "body": "A startup is taking aim at the multi-orbit strategies that have long dominated satellite deployment. This could signal a shift in how companies approach orbital architecture and market competition."
     },
     {
       "icon": "▲",
-      "title": "Launch Infrastructure Challenges",
-      "body": "A recent CSF report warns of potential bottlenecks with the projected surge of over 7,000 satellites by the mid-2030s, raising questions about the US's launch infrastructure readiness. As demand escalates, the industry must address these logistical hurdles or risk falling behind."
+      "title": "Defense Tech Funding Surge",
+      "body": "The FY27 budget markup has added $1.4 billion to space resilience efforts, highlighting a growing recognition of the need for robust space capabilities. This influx of cash could accelerate innovation and partnerships in the sector."
+    },
+    {
+      "icon": "◉",
+      "title": "New Collaborations in Space",
+      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, indicating a trend toward collaboration among defense contractors. Such partnerships may streamline development and enhance operational capabilities."
     },
     {
       "icon": "◆",
-      "title": "Emerging Defense-Tech Landscape",
-      "body": "The defense-tech IPO window appears to be cracking open, with a noticeable uptick in interest from venture capitalists. This shift is further evidenced by the rise of AI-focused defense startups, indicating a blend of traditional defense with cutting-edge technology."
+      "title": "Hypersonic Hiccups Continue",
+      "body": "The latest hypersonic glide-vehicle test has slipped for the third consecutive quarter, raising questions about the pace of development in this critical area. This delay could have implications for national security and defense strategies."
     }
   ],
-  "updated": "2026-05-18 16:45 UTC"
+  "updated": "2026-05-19 16:26 UTC"
 }

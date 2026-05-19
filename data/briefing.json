@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-18",
-  "issue": "No. 27",
-  "headline": "Funding flows. Satellites surge. Defense budgets rise.",
-  "deck": "This week saw significant funding and government interest in space resilience and satellite technology.",
+  "updated": "2026-05-19",
+  "issue": "No. 28",
+  "headline": "Funding flows. FCC approvals. Tactical collaborations.",
+  "deck": "This week saw significant funding rounds and strategic partnerships shaping the space landscape.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly's $190M Series C proves demand",
-      "body": "True Anomaly raised $190 million in a Series C round, bringing its valuation to $1.6 billion. This funding will bolster its co-orbital security and space domain awareness capabilities, directly addressing the Department of Defense's pressing needs. With the Pentagon increasingly focused on countering threats in orbit, True Anomaly is positioned to capitalize on this trend.",
-      "soWhat": "It's clear that the military's appetite for space security is only growing, and True Anomaly is right in the crosshairs of that demand."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured $190M in a Series C round, valuing the company at $1.6B. The funding aims to bolster its co-orbital security and space domain awareness capabilities, with a clear nod to increased DoD interest in these areas. This follows their recent contracts with the Pentagon, signaling a robust pull-through from government needs.",
+      "soWhat": "With cash flow now firmly in hand, True Anomaly may just become the go-to for co-orbital defense—if they can navigate the bureaucracy."
     },
     {
-      "kicker": "CONTRACTS",
-      "head": "House restores funding for TraCSS, space traffic woes persist",
-      "body": "The House has reinstated funding for the Traffic Coordination and Safety System (TraCSS), aiming to tackle the anticipated congestion of 7,000+ satellites by the mid-2030s. This legislative move comes as the commercial satellite market expands rapidly, with more players entering the fray. The funding restoration signals a recognition of the complexities involved in space traffic management.",
-      "soWhat": "If Congress is willing to put money where its mouth is, we might actually see some order in the cosmic chaos."
+      "kicker": "STRATEGY",
+      "head": "Portal Space partners with Quindar for military missions",
+      "body": "Portal Space has enlisted Quindar for ground mission support as it prepares to launch its maneuverable spacecraft aimed at military applications. This partnership is part of a broader trend where startups are actively courting government contracts to solidify their market positions. The move aligns with the increasing military focus on agile space solutions.",
+      "soWhat": "If Portal can actually launch on time, they might just redefine military space operations—assuming they can maneuver through the red tape."
     },
     {
-      "kicker": "COLLABORATION",
-      "head": "Anduril and L3Harris team up for SDA constellation",
-      "body": "Anduril and L3Harris have joined forces to bid on a tactical Space Development Agency (SDA) constellation, highlighting a strategic collaboration in the defense sector. This partnership aims to leverage both companies' strengths in advanced technology and defense capabilities. The SDA's push for a more resilient space architecture makes this bid particularly timely.",
-      "soWhat": "When big players unite, it often means the stakes are high, and the competition is getting serious."
+      "kicker": "TECHNOLOGY",
+      "head": "Vast diversifies into high-power satellite buses",
+      "body": "Vast has announced a new line of high-power satellite buses, expanding beyond its initial focus on commercial space stations. This strategic pivot comes as the demand for robust satellite infrastructure continues to grow, particularly for national security missions. The company is aiming to capture a slice of the lucrative defense market.",
+      "soWhat": "Vast's shift suggests that even companies known for one thing are willing to pivot—perhaps a reminder that in space, versatility is key."
     }
   ],
   "watchlist": [
     {
-      "title": "Monitor TraCSS funding developments",
-      "body": "As the House restores funding, watch for implications on satellite deployment and traffic management strategies."
+      "title": "Keep an eye on FCC satellite approvals",
+      "body": "With Lynk Global's recent FCC nod for direct-to-device testing, expect more companies to push for regulatory green lights next week."
     },
     {
-      "title": "True Anomaly's next moves post-funding",
-      "body": "With fresh capital, True Anomaly's strategic decisions will be critical in shaping its market position."
+      "title": "Upcoming budget discussions on space resilience",
+      "body": "The $1.4B addition to the FY27 budget for space resilience could influence procurement strategies—watch for shifts in contractor priorities."
     },
     {
-      "title": "SpaceX secondary market valuation trends",
-      "body": "SpaceX's secondary market valuation at $470 billion could influence investor sentiment and future funding rounds."
+      "title": "Sierra Space's Dream Chaser development",
+      "body": "Having cleared its critical design review, the Dream Chaser DoD variant will be closely watched as it moves toward production—challenges ahead."
     },
     {
-      "title": "Upcoming SBIR Phase II awards announcements",
-      "body": "New awards could signal shifts in defense priorities and emerging technologies in the space sector."
+      "title": "Palantir's TITAN program extension implications",
+      "body": "With a $480M extension on the TITAN program, Palantir's role in military data operations will likely expand, impacting competitors in the space."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile amid ongoing discussions about its commercial viability."
+      "note": "Virgin Galactic's stock remains volatile as it struggles to demonstrate consistent progress post-launch."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480 million extension on the TITAN program showcases its resilience in the defense sector."
+      "note": "Palantir's recent contract extension highlights its resilience in the defense sector, despite broader market pressures."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's bullish case suggests execution risk is the only hurdle left, which is a mixed bag."
+      "note": "AST SpaceMobile's bullish case suggests potential, but execution risk looms large as they scale operations."
     },
     {
       "sym": "SFTW",
-      "note": "Spire Global's recent funding rounds highlight ongoing investor interest in satellite data services."
+      "note": "Stable Road Acquisition's path to merging with Momentus is still unclear—investors are growing restless."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
