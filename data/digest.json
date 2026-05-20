@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is seeing a mix of innovation and regulatory maneuvers as startups challenge established norms and government budgets expand. Meanwhile, the hypersonic program continues to stumble, and new partnerships are forming to enhance satellite capabilities.",
+  "summary": "The space industry is grappling with supply chain vulnerabilities while simultaneously pushing forward with ambitious projects. As companies pivot to microgravity testing and advanced satellite constellations, the competition for dominance in low Earth orbit continues to heat up.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Startups vs. Established Players",
-      "body": "A new startup is shaking up the satellite industry’s multi-orbit strategy, suggesting that the old playbook might be due for a rewrite. This could lead to a more competitive landscape as traditional players scramble to adapt."
-    },
-    {
-      "icon": "▲",
-      "title": "Government Funding Boost",
-      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, signaling a strong commitment to enhancing national security through space. This influx of cash could catalyze innovation and partnerships across the sector."
+      "title": "Supply Chain Woes Persist",
+      "body": "A recent report highlights the U.S. space sector's troubling reliance on Chinese manufacturing, raising red flags for national security. This dependency could complicate efforts to enhance domestic production capabilities."
     },
     {
       "icon": "◉",
-      "title": "Hypersonic Hiccups Persist",
-      "body": "The hypersonic glide-vehicle program has once again slipped, marking the third consecutive quarter of delays. This raises questions about the program's viability and the broader implications for U.S. defense capabilities."
+      "title": "Microgravity Testing Gains Momentum",
+      "body": "Sierra Space's Dream Chaser variant has passed a critical design review, signaling progress in the race for microgravity capabilities. Meanwhile, Starfighters is gearing up its Texas facility for flight tests, indicating a renewed focus on practical applications."
+    },
+    {
+      "icon": "▲",
+      "title": "Budget Boost for Space Resilience",
+      "body": "The FY27 budget markup's $1.4 billion allocation for space resilience suggests a growing recognition of the strategic importance of space. This funding could bolster U.S. capabilities amid increasing global competition."
     },
     {
       "icon": "◆",
-      "title": "Strategic Partnerships Forming",
-      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, showcasing a trend of collaboration among defense tech firms. Such alliances could reshape the competitive landscape as they pool resources and expertise."
+      "title": "Data Bottlenecks in LEO",
+      "body": "The 'cardinality wall' presents a significant challenge for data management in low Earth orbit constellations, threatening to stifle growth. As satellite networks expand, addressing this bottleneck will be crucial for operational efficiency."
     }
   ],
-  "updated": "2026-05-19 16:48 UTC"
+  "updated": "2026-05-20 16:33 UTC"
 }

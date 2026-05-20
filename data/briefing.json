@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-19",
-  "issue": "No. 28",
-  "headline": "Funding flows. Strategies shift. Bureaucracy hums.",
-  "deck": "This week, space startups secure significant funding while government priorities evolve.",
+  "updated": "2026-05-20",
+  "issue": "No. 29",
+  "headline": "Supply chains struggle. Budgets expand. Companies pivot.",
+  "deck": "This week, space supply chains and funding strategies are under scrutiny as companies adapt to shifting demands.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly has successfully raised $190 million in a Series C funding round, pushing its valuation to $1.6 billion. The investment underscores the growing demand for co-orbital security solutions, particularly from defense sectors. With the Department of Defense's increasing focus on space domain awareness, True Anomaly is well-positioned to capitalize on this trend.",
-      "soWhat": "In a world where cash flow trumps tech, True Anomaly's funding suggests that investors are betting on the necessity of security over flashy innovations."
+      "kicker": "SUPPLY",
+      "head": "U.S. space supply chains lean on China",
+      "body": "A recent report highlights that U.S. space supply chains are heavily reliant on Chinese manufacturing and Taiwanese semiconductors, raising concerns about national security and supply chain resilience. This reliance has implications for companies like SpaceX and Boeing, which may face disruptions if geopolitical tensions escalate. As the industry pushes for more domestic production, the question remains: can they scale up fast enough?",
+      "soWhat": "If the supply chain is a house of cards, it’s starting to look like a game of Jenga."
     },
     {
-      "kicker": "STRATEGY",
-      "head": "Contrivian challenges multi-orbit satellite strategies",
-      "body": "Startup Contrivian is making waves by arguing that LEO satellites may outperform multi-orbit setups by simplifying networking challenges. This approach could disrupt established players who have invested heavily in complex multi-orbit architectures, potentially reshaping market dynamics. As satellite networks become increasingly congested, Contrivian's strategy could resonate with customers looking for straightforward solutions.",
-      "soWhat": "If simplicity wins in space, expect a shake-up among those who thought complexity was the key to success."
+      "kicker": "BUDGET",
+      "head": "FY27 budget adds $1.4B for space resilience",
+      "body": "The FY27 budget markup includes a significant $1.4 billion increase for space resilience initiatives, reflecting a growing recognition of the strategic importance of space assets. This funding surge could benefit companies like True Anomaly and Ursa Major, which are positioned to support national security missions. The government seems to be finally acknowledging that space is not just a nice-to-have.",
+      "soWhat": "It’s about time the budget reflects the reality that space isn’t going away; it’s just getting more crowded."
     },
     {
-      "kicker": "PROCUREMENT",
-      "head": "Portal Space partners with Quindar for military missions",
-      "body": "Portal Space has contracted Quindar for ground mission support as it prepares to launch maneuverable spacecraft designed for military applications. This partnership highlights the increasing demand for flexibility in military space operations, especially as geopolitical tensions rise. The financial terms of the deal remain undisclosed, but the implications for future military contracts could be significant.",
-      "soWhat": "With more military players seeking maneuverability, the procurement landscape is likely to favor those who can adapt quickly—good luck to the slow movers."
+      "kicker": "TECH",
+      "head": "Sierra Space's Dream Chaser variant clears design review",
+      "body": "Sierra Space's Dream Chaser variant for the Department of Defense has successfully passed its critical design review, which is a necessary step toward eventual production. The company aims to leverage this milestone to secure further contracts, especially as the DoD looks to diversify its space capabilities. However, the real challenge lies in turning this approval into an actual launch.",
+      "soWhat": "Passing a review is like getting a parking ticket; it’s a step forward, but you still might not get where you want to go."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on the FCC's next moves",
-      "body": "With Lynk and Anterix's recent FCC approval, expect more regulatory developments that could impact satellite communications."
+      "title": "Watch for True Anomaly's next steps",
+      "body": "With a fresh $190M Series C, True Anomaly’s moves could reshape co-orbital security strategies."
     },
     {
-      "title": "Sierra Space's Dream Chaser launch timeline",
-      "body": "After passing its critical design review, the timeline for the Dream Chaser's launch could provide insights into future military transport capabilities."
+      "title": "Sierra Space's launch plans",
+      "body": "Following the design review, the timeline for Dream Chaser's launch will be critical to monitor."
     },
     {
-      "title": "Budget discussions for FY27 heat up",
-      "body": "The additional $1.4 billion for space resilience in the FY27 budget could lead to increased competition for government contracts."
+      "title": "Implications of GPS jamming resurgence",
+      "body": "The return of GPS jamming in the Eastern Med could impact military operations and insurance assessments."
     },
     {
-      "title": "SpaceX secondary market valuation implications",
-      "body": "SpaceX's secondary market valuation of $470 billion might influence investor sentiment across the space sector, especially for upcoming IPOs."
+      "title": "Palantir's TITAN extension impact",
+      "body": "The $480M extension for the TITAN program could signal further consolidation in ground station capabilities."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "ASTS",
-      "note": "The bullish case for ASTS suggests execution risk is the only hurdle left—no pressure."
+      "sym": "SPCE",
+      "note": "Virgin Galactic’s stock remains stagnant as commercial operations still feel like a distant dream."
     },
     {
-      "sym": "PALANTIR",
-      "note": "Palantir's $480M extension on the TITAN project shows that government contracts are the gift that keeps on giving."
+      "sym": "PLTR",
+      "note": "Palantir's $480M extension shows that government contracts are still a reliable revenue stream."
     },
     {
-      "sym": "K2",
-      "note": "K2 Space's $110M Series B indicates strong interest in high-power satellite solutions for national security."
+      "sym": "SIE",
+      "note": "Sierra Space's recent design review success is a positive sign, but execution will be the real test."
     },
     {
-      "sym": "SPACEX",
-      "note": "SpaceX's secondary market valuation of $470B makes it the elephant in the room for any investment discussions."
+      "sym": "AER",
+      "note": "Airbus's focus on satellite production may pay off as demand for LEO constellations grows."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
