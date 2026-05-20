@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is grappling with supply chain vulnerabilities while simultaneously pushing forward with ambitious projects. As companies pivot to microgravity testing and advanced satellite constellations, the competition for dominance in low Earth orbit continues to heat up.",
+  "summary": "The space industry is grappling with supply chain vulnerabilities while also pushing forward with ambitious projects like microgravity flight testing and tactical satellite constellations. Meanwhile, the budgetary landscape is shifting, with increased funding aimed at enhancing space resilience.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Supply Chain Woes Persist",
-      "body": "A recent report highlights the U.S. space sector's troubling reliance on Chinese manufacturing, raising red flags for national security. This dependency could complicate efforts to enhance domestic production capabilities."
+      "title": "Supply Chain Concerns Persist",
+      "body": "A report highlights the U.S. space supply chains' heavy reliance on Chinese manufacturing, raising red flags about future operational stability. As geopolitical tensions simmer, expect calls for domestic production to intensify."
     },
     {
       "icon": "◉",
-      "title": "Microgravity Testing Gains Momentum",
-      "body": "Sierra Space's Dream Chaser variant has passed a critical design review, signaling progress in the race for microgravity capabilities. Meanwhile, Starfighters is gearing up its Texas facility for flight tests, indicating a renewed focus on practical applications."
+      "title": "Microgravity Testing Gains Traction",
+      "body": "Sierra Space and Starfighters are ramping up efforts in microgravity flight testing, signaling a renewed focus on experimental capabilities. This could pave the way for more innovative applications in low Earth orbit."
     },
     {
       "icon": "▲",
       "title": "Budget Boost for Space Resilience",
-      "body": "The FY27 budget markup's $1.4 billion allocation for space resilience suggests a growing recognition of the strategic importance of space. This funding could bolster U.S. capabilities amid increasing global competition."
+      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, reflecting a growing recognition of the strategic importance of space. This funding could bolster efforts against emerging threats, particularly in satellite operations."
     },
     {
       "icon": "◆",
-      "title": "Data Bottlenecks in LEO",
-      "body": "The 'cardinality wall' presents a significant challenge for data management in low Earth orbit constellations, threatening to stifle growth. As satellite networks expand, addressing this bottleneck will be crucial for operational efficiency."
+      "title": "Defense-Tech IPOs on the Horizon",
+      "body": "The defense-tech IPO window is showing signs of life, with several companies eyeing public offerings. This could reshape the investment landscape, drawing more capital into the space sector as it matures."
     }
   ],
-  "updated": "2026-05-20 16:33 UTC"
+  "updated": "2026-05-20 16:49 UTC"
 }

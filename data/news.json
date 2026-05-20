@@ -1,87 +1,87 @@
 {
-  "updated": "2026-05-20T16:33:41.480Z",
+  "updated": "2026-05-20T16:49:52.405Z",
   "articles": [
     {
       "sourceId": "spacenews",
       "title": "Orbital Data Centers: Power and Thermal Management for Scalable Architectures",
-      "summary": "Redwire's whitepaper highlights the importance of power generation and thermal management as orbital data centers transition from idea to implementation; because who doesn't love a good power struggle in space?",
+      "summary": "Redwire's new whitepaper highlights the importance of scalable power and thermal management for emerging orbital data centers, proving that space isn't just about rockets anymore; it's also about keeping the lights on.",
       "date": "2026-05-20",
       "link": "https://spacenews.com/scalable-power-and-thermal-architectures-key-to-enabling-orbital-data-centers/"
     },
     {
       "sourceId": "spacenews",
       "title": "Starfighters turns Texas facility toward microgravity flight testing",
-      "summary": "Starfighters Space is repurposing its Texas facility for microgravity flight testing in response to NASA's interest in commercial parabolic capabilities; because nothing says 'serious business' like testing in zero gravity.",
+      "summary": "Starfighters Space is repurposing its Texas facility for microgravity flight testing, responding to NASA's interest in commercial parabolic capabilities; apparently, the F-104s are not just for nostalgia.",
       "date": "2026-05-20",
       "link": "https://spacenews.com/starfighters-turns-texas-facility-toward-microgravity-flight-testing/"
     },
     {
       "sourceId": "spacenews",
       "title": "Report finds U.S. space supply chains rely heavily on Chinese manufacturing",
-      "summary": "A report reveals the U.S. space supply chains' heavy reliance on Chinese manufacturing, along with Taiwanese semiconductors; turns out, the space race is a bit more global than we thought.",
+      "summary": "A report reveals that U.S. space supply chains are heavily dependent on Chinese manufacturing, which is a bit like relying on your ex for a ride to the airport; risky and possibly regrettable.",
       "date": "2026-05-20",
       "link": "https://spacenews.com/report-finds-u-s-space-supply-chains-rely-heavily-on-chinese-manufacturing/"
     },
     {
       "sourceId": "spacenews",
       "title": "The cardinality wall: The hidden data bottleneck for LEO constellations",
-      "summary": "The satellite industry faces a data bottleneck as thousands of spacecraft operate in low Earth orbit, complicating everything from broadband to national security; it’s like trying to find a signal in a crowded bar.",
+      "summary": "The satellite industry faces a 'cardinality wall' as thousands of spacecraft crowd low Earth orbit, raising concerns about data bottlenecks; it seems the more the merrier isn't always true in space.",
       "date": "2026-05-20",
       "link": "https://spacenews.com/the-cardinality-wall-the-hidden-data-bottleneck-for-leo-constellations/"
     },
     {
       "sourceId": "spacenews",
       "title": "Isaacman expects Chinese crewed mission around the moon in 2027",
-      "summary": "NASA's head predicts a Chinese crewed mission around the moon by 2027, escalating the U.S.-China space race narrative; because nothing fuels competition like a good lunar landing.",
+      "summary": "NASA's head expects China to launch a crewed mission around the moon by 2027, intensifying the space race narrative; it looks like the moon is becoming the hottest new destination for geopolitical rivalry.",
       "date": "2026-05-20",
       "link": "https://spacenews.com/isaacman-expects-chinese-crewed-mission-around-the-moon-in-2027/"
     },
     {
       "sourceId": "tectonic",
       "title": "Anduril and L3Harris team on tactical SDA constellation bid",
-      "summary": "Anduril and L3Harris are collaborating on a tactical SDA constellation bid, proving that teamwork in space is as crucial as not losing the Wi-Fi signal at a coffee shop.",
+      "summary": "Anduril and L3Harris are teaming up on a tactical SDA constellation bid, proving that collaboration in space is as essential as not losing your Wi-Fi connection during a Zoom call.",
       "date": "2026-05-04",
       "link": "https://tectonicdefense.com/anduril-l3harris-sda/"
     },
     {
       "sourceId": "tectonic",
       "title": "FY27 budget markup adds $1.4B to space resilience line",
-      "summary": "The FY27 budget markup adds $1.4B for space resilience, signaling a newfound appreciation for cosmic assets; apparently, the government is finally waking up to the vastness of its investments.",
+      "summary": "The FY27 budget markup adds $1.4B for space resilience, indicating a newfound government appreciation for cosmic assets; it seems they're finally realizing space isn't just a nice-to-have.",
       "date": "2026-05-03",
       "link": "https://tectonicdefense.com/fy27-markup-space/"
     },
     {
       "sourceId": "tectonic",
       "title": "Hypersonic glide-vehicle test slips again — third quarter in a row",
-      "summary": "Hypersonic glide-vehicle tests have been delayed again for the third quarter, suggesting they might want to consider a new marketing slogan: 'hypersonic patience'.",
+      "summary": "Hypersonic glide-vehicle tests have been delayed for the third consecutive quarter, suggesting they might need to rethink their approach; perhaps 'hypersonic delay' is the new trend.",
       "date": "2026-05-02",
       "link": "https://tectonicdefense.com/hgv-slip-q3/"
     },
     {
       "sourceId": "tectonic",
       "title": "Sierra Space's Dream Chaser DoD variant clears critical design review",
-      "summary": "Sierra Space's Dream Chaser DoD variant has passed its critical design review, now just needs to figure out the actual launch; it’s like getting a diploma but forgetting to enroll in classes.",
+      "summary": "Sierra Space's Dream Chaser DoD variant has passed its critical design review, now it just needs to figure out the actual launch; it's like getting a gold star but forgetting to show up for class.",
       "date": "2026-05-01",
       "link": "https://tectonicdefense.com/dream-chaser-cdr/"
     },
     {
       "sourceId": "tectonic",
       "title": "Palantir wins $480M extension on TITAN ground station program",
-      "summary": "Palantir has secured a $480M extension on its TITAN ground station program, proving that some contracts are harder to shake off than a bad cold.",
+      "summary": "Palantir has secured a $480M extension on its TITAN ground station program, proving that some contracts are stickier than a toddler with a lollipop.",
       "date": "2026-04-29",
       "link": "https://tectonicdefense.com/palantir-titan-extension/"
     },
     {
       "sourceId": "piratewires",
       "title": "The Defense-Tech IPO Window Is Cracking Open",
-      "summary": "The defense-tech IPO window is slightly opening, with investors intrigued but cautious; it’s like peeking through the blinds to see if it’s worth stepping outside.",
+      "summary": "The defense-tech IPO window is cracking open, with investors intrigued yet cautious; it's like a first date where everyone knows it's probably going to be awkward.",
       "date": "2026-05-04",
       "link": "https://piratewires.com/defense-ipo-window/"
     },
     {
       "sourceId": "piratewires",
       "title": "Why every YC company is suddenly 'AI for Defense'",
-      "summary": "Every YC company is now branding itself as 'AI for Defense', demonstrating that when innovation stalls, slapping 'AI' on it is the new go-to move.",
+      "summary": "Every YC company is now branding itself as 'AI for Defense', revealing that when innovation stalls, slapping 'AI' on it is the new go-to strategy; it's the business equivalent of adding 'organic' to a product label.",
       "date": "2026-05-03",
       "link": "https://piratewires.com/yc-defense/"
     },
@@ -172,210 +172,210 @@
     {
       "sourceId": "tbpn",
       "title": "The TBPN deep-tech survey: 1,200 founders weigh in",
-      "summary": "A survey reveals that 50% of deep-tech founders now identify as 'defense or dual-use', a sharp rise from 17% two years ago; apparently, the military aesthetic is trending among startups.",
+      "summary": "A survey shows 50% of deep-tech founders now identify as 'defense or dual-use', up from 17% two years ago; apparently, military chic is the new black in startup culture.",
       "date": "2026-04-29",
       "link": "https://tbpn.com/deeptech-survey-26/"
     },
     {
       "sourceId": "ussf",
       "title": "ICBM test launch verifies system reliability",
-      "summary": "The Air Force conducted a routine test launch of an unarmed Minuteman III missile, proving that even ICBMs need a regular check-up; reliability is the name of the game.",
+      "summary": "The Air Force conducted a routine test launch of an unarmed Minuteman III ICBM, reminding us that some things never go out of style, like missile tests.",
       "date": "2026-05-20",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4497045/icbm-test-launch-verifies-system-reliability/"
     },
     {
       "sourceId": "ussf",
       "title": "SECAF visits Space Systems Command to meet with Air and Space Force leaders and industry professionals",
-      "summary": "SECAF Troy Meink visited Space Systems Command for briefings and discussions, proving that even in defense, face time still matters more than Zoom calls.",
+      "summary": "SECAF Troy Meink visited Space Systems Command for mission briefings and pep talks, proving that even in defense, a little inspiration goes a long way.",
       "date": "2026-05-20",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4496851/secaf-visits-space-systems-command-to-meet-with-air-and-space-force-leaders-and/"
     },
     {
       "sourceId": "ussf",
       "title": "SLD 30 celebrates 5th anniversary",
-      "summary": "SLD 30 marked its 5th anniversary as the USSF's West Coast hub for space launch, showcasing its transformation into a multi-nodal platform; five years in, and it's still not just a pretty launch pad.",
+      "summary": "SLD 30 celebrated its 5th anniversary as the USSF's West Coast launch hub, marking its transformation into a multi-nodal platform that’s apparently busier than a coffee shop on Monday morning.",
       "date": "2026-05-18",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4494851/sld-30-celebrates-5th-anniversary/"
     },
     {
       "sourceId": "ussf",
       "title": "DAF updates religious accommodation process, eliminates Religious Resolution Teams",
-      "summary": "The DAF has updated its religious accommodation process, ditching Religious Resolution Teams; it seems even spiritual matters are getting streamlined these days.",
+      "summary": "The DAF updated its religious accommodation process, eliminating Religious Resolution Teams, because who needs more bureaucracy when you can simplify?",
       "date": "2026-05-15",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4493798/daf-updates-religious-accommodation-process-eliminates-religious-resolution-tea/"
     },
     {
       "sourceId": "ussf",
       "title": "DAF selects partner for commercialized on-base lodging",
-      "summary": "The DAF has chosen a commercial partner to revamp on-base lodging across the U.S.; because who doesn't want a hotel experience with a side of military decor?",
+      "summary": "The DAF has selected a partner for commercialized on-base lodging, which sounds like a fancy way to say they're finally getting their act together on military housing.",
       "date": "2026-05-13",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4485915/daf-selects-partner-for-commercialized-on-base-lodging/"
     },
     {
       "sourceId": "dod",
-      "title": "Air Force Pilots Receive Distinguished Flying Cross for Midnight Hammer Heroics",
-      "summary": "Six F-16 pilots received the Distinguished Flying Cross for their heroic actions, proving that sometimes, flying in formation is just as much about bravery as it is about style.",
-      "date": "2026-05-14",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4486752/air-force-pilots-receive-distinguished-flying-cross-for-midnight-hammer-heroics/"
+      "title": "Joint Interagency Task Force 401 Awards $500 Million Counter-UAS Contract",
+      "summary": "JIATF 401 awarded a $500 million contract for counter-UAS operations, ensuring that when it comes to drones, they’re ready to throw money at the problem.",
+      "date": "2026-05-18",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4495165/joint-interagency-task-force-401-awards-500-million-counter-uas-contract/"
     },
     {
       "sourceId": "dod",
-      "title": "Senior Leaders Update Congress on Special Ops Community",
-      "summary": "Senior military leaders updated Congress on the special operations community, reminding everyone that transparency is key, even when discussing secret missions.",
-      "date": "2026-05-13",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4485654/senior-leaders-update-congress-on-special-ops-community/"
+      "title": "At Fort Campbell, Hegseth Underscores Significance of Purple Hearts, Enlistments",
+      "summary": "At Fort Campbell, Secretary of War Pete Hegseth administered enlistment oaths and pinned Purple Hearts, proving that some traditions are still alive and well in the military.",
+      "date": "2026-05-18",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4495094/at-fort-campbell-hegseth-underscores-significance-of-purple-hearts-enlistments/"
     },
     {
       "sourceId": "dod",
-      "title": "U.S., Multinational Allies Launch Exercise Salaknib's Second Phase in the Philippines",
-      "summary": "The U.S. Army and multinational allies launched the second phase of Exercise Salaknib in the Philippines, proving that joint exercises are the new way to build camaraderie—one drill at a time.",
-      "date": "2026-05-13",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4485638/us-multinational-allies-launch-exercise-salaknibs-second-phase-in-the-philippin/"
+      "title": "Army Advances Barracks Modernization Efforts to Improve Quality of Life",
+      "summary": "The Army is ramping up barracks modernization efforts to improve soldiers' quality of life, because nothing says 'professionalism' like a decent roof over your head.",
+      "date": "2026-05-18",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4494938/army-advances-barracks-modernization-efforts-to-improve-quality-of-life/"
     },
     {
       "sourceId": "dod",
-      "title": "Army, Forest Service Complete Annual Prescribed Burn in Hawaii",
-      "summary": "The Army and Forest Service completed their annual prescribed burn in Hawaii, tackling invasive vegetation while ensuring military training areas stay intact; it's a win-win for nature and national security.",
-      "date": "2026-05-13",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4485405/army-forest-service-complete-annual-prescribed-burn-in-hawaii/"
+      "title": "Fueling the Fight: USNS Kanawha Completes Strategic Deployment",
+      "summary": "The USNS Kanawha returned from a 204-day deployment, reminding us that replenishment oilers are the unsung heroes of naval logistics, just like the friend who always brings snacks.",
+      "date": "2026-05-18",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4494772/fueling-the-fight-usns-kanawha-completes-strategic-deployment/"
     },
     {
       "sourceId": "dod",
-      "title": "Joint Interagency Task Force Enables Standardized Counter-UAS Assessment",
-      "summary": "JIATF 401 supported the Army's counter-UAS assessment during Project Flytrap 5.0 in Lithuania, proving that even drones need a good old-fashioned evaluation from time to time.",
-      "date": "2026-05-12",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4484863/joint-interagency-task-force-enables-standardized-counter-uas-assessment/"
+      "title": "High-Pressure Field Artillery Creates Bonds Between Soldiers",
+      "summary": "Field artillery soldiers are forming tight-knit bonds driven by trust, proving that behind every big gun is a family-like crew that knows how to fire together.",
+      "date": "2026-05-18",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4494912/high-pressure-field-artillery-creates-bonds-between-soldiers/"
     },
     {
       "sourceId": "viasat",
       "title": "HackerOne Exec Explains Key Security Trends in the Age of AI",
-      "summary": "A HackerOne exec highlighted how generative AI has become a new tool for hackers, suggesting that in cybersecurity, the bad guys are always one innovation ahead.",
+      "summary": "HackerOne execs are discussing how generative AI is becoming a new weapon for hackers, because in the age of tech, the bad guys are always one step ahead.",
       "date": "2026-05-20",
       "link": "https://www.satellitetoday.com/cybersecurity/2026/05/20/hackerone-exec-explains-key-security-trends-in-the-age-of-ai/"
     },
     {
       "sourceId": "viasat",
       "title": "Securing the Return to the Moon",
-      "summary": "NASA is warning about the future of lunar missions amidst simultaneous events that could serve as cautionary tales; it's like watching a slow-motion train wreck in space exploration.",
+      "summary": "NASA is trying to secure a return to the Moon, which is a nice way of saying they’re still figuring out how to not crash land again.",
       "date": "2026-05-20",
       "link": "https://www.satellitetoday.com/opinion/2026/05/20/securing-the-return-to-the-moon/"
     },
     {
       "sourceId": "viasat",
       "title": "Sandhoo Named SDA Director, PAE for Missile Warning and Tracking",
-      "summary": "Gurpartap Sandhoo has officially been named the director of the Space Development Agency after a stint as acting director; let's hope he has a better plan than just 'more satellites'.",
+      "summary": "Gurpartap Sandhoo officially took the helm of the Space Development Agency, proving that acting roles can sometimes lead to actual jobs.",
       "date": "2026-05-20",
       "link": "https://www.satellitetoday.com/people/2026/05/19/sandhoo-named-sda-director-pae-for-missile-warning-and-tracking/"
     },
     {
       "sourceId": "viasat",
       "title": "Northrop Grumman’s First MRV Readies for Summer Launch to Expand the Space Servicing Toolkit",
-      "summary": "Northrop Grumman is gearing up to launch its first next-gen space vehicle for on-orbit refueling this summer; because who doesn't want to fill up their satellite at a cosmic gas station?",
+      "summary": "Northrop Grumman is prepping its first MRV for launch this summer, because who doesn’t want a space vehicle that can refuel other satellites?",
       "date": "2026-05-19",
       "link": "https://www.satellitetoday.com/technology/2026/05/19/northrop-grummans-first-mrv-readies-for-summer-launch-to-expand-the-space-servicing-toolkit/"
     },
     {
       "sourceId": "viasat",
       "title": "Eutelsat Network Solutions Adds Get SAT Aero Blade Terminal to Lineup",
-      "summary": "Eutelsat Network Solutions has added the Get SAT Aero Blade terminal to its offerings for government clients; it's like giving defense contractors a shiny new toy for their multi-orbit ambitions.",
+      "summary": "Eutelsat Network Solutions is adding the Get SAT Aero Blade terminal to its offerings, which sounds like a fancy name for a satellite gadget.",
       "date": "2026-05-19",
       "link": "https://www.satellitetoday.com/technology/2026/05/19/eutelsat-network-solutions-adds-get-sat-aero-blade-terminal-to-lineup/"
     },
     {
       "sourceId": "spacecom",
       "title": "Is Earth getting brighter at night? It's complicated, new NASA 'Black Marble project' images reveal",
-      "summary": "NASA's Black Marble project suggests that Earth might be getting brighter at night, but it’s hard to tell if that’s progress or just more streetlights.",
+      "summary": "NASA's Black Marble project suggests Earth is getting brighter at night, which might just be the result of more humans staying up late.",
       "date": "2026-05-20",
       "link": "https://www.space.com/astronomy/earth/is-earth-getting-brighter-at-night-its-complicated-new-nasa-black-marble-project-images-reveal"
     },
     {
       "sourceId": "spacecom",
       "title": "The moon shines with a swarm of stars on May 21 as Jupiter, Venus and Mercury line-up nearby",
-      "summary": "The moon and a trio of planets lined up for a celestial photo op on May 21; it’s the kind of cosmic event that makes you wish for a better camera.",
+      "summary": "On May 21, the moon and a trio of planets will line up, proving that celestial bodies can coordinate better than most of us.",
       "date": "2026-05-20",
       "link": "https://www.space.com/stargazing/the-moon-shines-with-a-swarm-of-stars-on-may-21-as-jupiter-venus-and-mercury-line-up-nearby"
     },
     {
       "sourceId": "spacecom",
       "title": "An astronaut's view of Argentina's snow-capped mountains | Space photo of the day for May 20, 2026",
-      "summary": "An astronaut captured stunning images of Argentina's snow-capped mountains, proving that Earth is a real looker from space; who knew we had such great views?",
+      "summary": "An astronaut's photo of Argentina's mountains reminds us that Earth is quite the looker, even from space.",
       "date": "2026-05-20",
       "link": "https://www.space.com/astronomy/earth/an-astronauts-view-of-argentinas-blue-lakes-and-snow-capped-mountains-space-photo-of-the-day-for-may-20-2026"
     },
     {
       "sourceId": "spacecom",
       "title": "NASA's Psyche probe takes awesome images of Mars on way to (possibly) precious asteroid",
-      "summary": "NASA's Psyche probe snapped some impressive photos of Mars while en route to an asteroid; it’s like a cosmic tourist taking selfies on the way to a fancy dinner.",
+      "summary": "NASA's Psyche probe snapped some photos of Mars on its way to an asteroid, because who doesn't love a good space selfie?",
       "date": "2026-05-20",
       "link": "https://www.space.com/space-exploration/missions/nasas-psyche-probe-takes-amazing-photos-of-mars-on-way-to-possibly-precious-asteroid"
     },
     {
       "sourceId": "spacecom",
       "title": "The universe's 'most relaxed' galaxy cluster was shaped by cosmic violence, new study finds",
-      "summary": "A new study reveals that the universe's 'most relaxed' galaxy cluster was shaped by cosmic violence, which is a bit like saying a peaceful park was built on the ruins of a battlefield.",
+      "summary": "A study reveals that the universe's 'most relaxed' galaxy cluster was shaped by cosmic violence, which sounds like a cosmic oxymoron.",
       "date": "2026-05-20",
       "link": "https://www.space.com/astronomy/galaxies/the-universes-most-relaxed-galaxy-cluster-was-shaped-by-cosmic-violence-new-study-finds"
     },
     {
       "sourceId": "rspace",
       "title": "NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind - NASA Science",
-      "summary": "NASA's new Shock Detectives project is enlisting volunteers to study solar wind; it's like crowd-sourcing for space weather, because why not?",
+      "summary": "NASA's new Shock Detectives project is enlisting volunteers to study solar wind, because science is always better with a crowd.",
       "date": "2026-05-20",
       "link": "https://www.reddit.com/r/space/comments/1tiq081/nasas_new_shock_detectives_project_invites/"
     },
     {
       "sourceId": "rspace",
       "title": "In the far future, relativistic vault ships could be used to protect the biosphere and knowledge from catastrophe",
-      "summary": "Future relativistic vault ships could protect Earth's biosphere from catastrophe, echoing the concept of a modern-day Svalbard seed vault; talk about putting all your eggs in a cosmic basket.",
+      "summary": "In the distant future, relativistic vault ships could protect Earth's biosphere, which sounds like a sci-fi plot waiting to happen.",
       "date": "2026-05-20",
       "link": "https://www.reddit.com/r/space/comments/1tihgy7/in_the_far_future_relativistic_vault_ships_could/"
     },
     {
       "sourceId": "rspace",
       "title": "Mars Technology Institute Featured in New Red Planet Live Interview",
-      "summary": "The Mars Technology Institute was featured in a recent interview, likely discussing how to make Mars less of a barren wasteland and more of a tourist destination.",
+      "summary": "The Mars Technology Institute was featured in a new interview, proving that Mars is still the most popular celestial destination.",
       "date": "2026-05-20",
       "link": "https://www.reddit.com/r/space/comments/1ti66nx/mars_technology_institute_featured_in_new_red/"
     },
     {
       "sourceId": "rspace",
       "title": "Northwestern University researchers found that massive red supergiant stars appear to be \"missing\" before exploding. Webb telescope revealed one was hidden by thick dust, supporting the theory that many are obscured rather than collapsing silently into black holes.",
-      "summary": "Northwestern researchers found that red supergiant stars may be hiding before they explode, suggesting a dusty secret life rather than a quiet demise into black holes.",
+      "summary": "Northwestern researchers found that red supergiant stars often hide behind dust before exploding, suggesting they don't always go quietly into black holes; apparently, even stars enjoy a little mystery before their big moment.",
       "date": "2026-05-19",
       "link": "https://www.reddit.com/r/space/comments/1ti0yfu/northwestern_university_researchers_found_that/"
     },
     {
       "sourceId": "rspace",
       "title": "Voyager 1: Still Talking to Earth After Nearly 49 Years in Interstellar Space",
-      "summary": "Voyager 1 continues to send signals back to Earth nearly 49 years after launch, proving that even in interstellar space, some conversations just never end.",
+      "summary": "Voyager 1 continues to communicate with Earth after nearly 49 years in interstellar space, proving that sometimes, the quietest voices can be the most persistent.",
       "date": "2026-05-19",
       "link": "https://www.reddit.com/r/space/comments/1thwdv1/voyager_1_still_talking_to_earth_after_nearly_49/"
     },
     {
       "sourceId": "nga",
       "title": "NGA opens commercial GEOINT broker contract to small business pool",
-      "summary": "The NGA has opened a GEOINT broker contract to small businesses, which could either be a game changer or a bureaucratic obstacle course.",
+      "summary": "The NGA has opened a GEOINT broker contract to small businesses, which could either democratize access or turn into a bureaucratic maze—place your bets.",
       "date": "2026-05-04",
       "link": "https://www.nga.mil/news/commercial-geoint-broker-2026/"
     },
     {
       "sourceId": "nga",
       "title": "Director's address at GEOINT 2026: 'data is no longer the bottleneck'",
-      "summary": "The NGA's director declared data is no longer the bottleneck, leaving analysts to ponder if they should celebrate or just keep their old tech on life support.",
+      "summary": "The NGA's director claims data is no longer the bottleneck, leaving analysts to wonder if they should celebrate or just keep their old tech plugged in for a while longer.",
       "date": "2026-05-03",
       "link": "https://www.nga.mil/news/director-address-geoint26/"
     },
     {
       "sourceId": "nga",
       "title": "NGA signals shift toward AI-native analyst workflows",
-      "summary": "The NGA is moving towards AI-native analyst workflows, forcing vendors to innovate or prepare for the inevitable chaos of change.",
+      "summary": "The NGA is shifting towards AI-native analyst workflows, challenging vendors to either innovate or brace for the chaos that often accompanies change.",
       "date": "2026-05-02",
       "link": "https://www.nga.mil/news/ai-native-rfi/"
     },
     {
       "sourceId": "nga",
       "title": "Joint NGA-NRO foundation data initiative passes pilot phase",
-      "summary": "The Joint NGA-NRO data initiative has passed its pilot phase, showing that even the most secretive agencies can collaborate when there's a shiny goal involved.",
+      "summary": "The Joint NGA-NRO data initiative has passed its pilot phase, proving that even the most secretive agencies can play nice when there's a shiny goal on the table.",
       "date": "2026-04-30",
       "link": "https://www.nga.mil/news/foundation-data-pilot/"
     },
@@ -389,70 +389,70 @@
     {
       "sourceId": "tnw-deeptech",
       "title": "Primer secures $100M Series C to fuel US expansion and autonomous AI payments",
-      "summary": "Primer secured $100M in Series C funding to expand its AI payments platform in the US, proving that even payment startups can dream big.",
+      "summary": "Primer secured $100M in Series C funding to expand its AI payments platform in the US, proving that even payment startups need a little cash to keep the innovation wheels turning.",
       "date": "2026-05-20",
       "link": "https://thenextweb.com/news/primer-secures-100m-series-c-autonomous-ai-payments"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "Figma builds its own AI assistant that can design alongside you on the canvas",
-      "summary": "Figma is launching an AI assistant that can design alongside users, which might finally put an end to the age-old debate about whether designers need help.",
+      "summary": "Figma is launching its own AI assistant for collaborative design, allowing users to generate and edit designs with natural language; because why not let AI join the creative chaos?",
       "date": "2026-05-20",
       "link": "https://thenextweb.com/news/figma-builds-its-own-ai-assistant-that-can-design-alongside-you-on-the-canvas"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "GitHub confirms hackers stole thousands of internal code repositories after employee installed a poisoned VS Code extension",
-      "summary": "GitHub confirmed hackers stole thousands of internal code repositories after an employee installed a poisoned VS Code extension, highlighting the irony of self-inflicted wounds in tech.",
+      "summary": "GitHub confirmed that hackers stole thousands of internal code repositories after an employee installed a poisoned VS Code extension, highlighting the dangers of living in a code-sharing utopia.",
       "date": "2026-05-20",
       "link": "https://thenextweb.com/news/github-confirms-hackers-stole-thousands-of-internal-code-repositories-after-employee-installed-a-poisoned-vs-code-extension"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "French companies bid $10bn for one of the EU’s five planned AI gigafactory sites",
-      "summary": "A French consortium is bidding $10bn for an EU AI gigafactory site, positioning itself against multi-state proposals, because why not make it a one-country showdown?",
+      "summary": "A French consortium has bid $10bn for one of the EU’s planned AI gigafactory sites, positioning itself against multi-state proposals; it’s a classic case of ‘go big or go home’ on the tech frontier.",
       "date": "2026-05-20",
       "link": "https://thenextweb.com/news/french-companies-bid-10bn-eu-ai-gigafactory-aion"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "ChatGPT, Claude, Gemini and Grok are not ready to brief American voters",
-      "summary": "Research shows ChatGPT, Claude, Gemini, and Grok are not ready to brief American voters, suggesting that the election will happen regardless of their readiness.",
+      "summary": "Research shows that ChatGPT, Claude, Gemini, and Grok are not ready to brief American voters, leaving a new generation to navigate the election landscape with less-than-reliable guidance.",
       "date": "2026-05-20",
       "link": "https://thenextweb.com/news/chatbots-midterms-2026-news-accuracy-information-integrity"
     },
     {
       "sourceId": "nasa",
       "title": "I Am Artemis: Tim Goddard",
-      "summary": "NASA's Artemis II astronauts were retrieved from their Orion spacecraft by U.S. Navy divers, proving that even in space, a good recovery team is essential.",
+      "summary": "NASA's Artemis II astronauts were retrieved from their Orion spacecraft by U.S. Navy divers, reminding us that space missions often end with a splashdown rather than a touchdown.",
       "date": "2026-05-20",
       "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tim-goddard/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA’s Fermi Glimpses Power Source of Supercharged Supernovae",
-      "summary": "NASA’s Fermi Gamma-ray Space Telescope spotted a rare supernova, reminding us that the universe still has a few surprises left up its sleeve.",
+      "summary": "NASA’s Fermi Gamma-ray Space Telescope identified a rare supernova, proving that even in the vastness of space, some things still manage to shine a little too brightly.",
       "date": "2026-05-20",
       "link": "https://science.nasa.gov/missions/fermi/nasas-fermi-glimpses-power-source-of-supercharged-supernovae/"
     },
     {
       "sourceId": "nasa",
       "title": "Fire Chars Santa Rosa Island",
-      "summary": "A fire has charred parts of Santa Rosa Island, adding 'arsonist' to the list of threats facing California's national parks.",
+      "summary": "A fire has charred parts of Santa Rosa Island, demonstrating that even California's national parks aren't immune to the whims of nature and human negligence.",
       "date": "2026-05-20",
       "link": "https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA’s Psyche Mission Images Mars’ Huygens Crater",
-      "summary": "NASA’s Psyche mission captured enhanced-color images of Mars’ Huygens Crater, showing that even distant planets can have a flair for the dramatic.",
+      "summary": "NASA's Psyche mission captured enhanced images of Mars’ Huygens Crater, showing that even in the cosmic game of hide-and-seek, some craters are just too big to miss.",
       "date": "2026-05-19",
       "link": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach",
-      "summary": "During a close approach, NASA’s Psyche spacecraft photographed wind-blown craters on Mars, proving that even the Red Planet has its own version of erosion.",
+      "summary": "During a close approach, NASA's Psyche spacecraft photographed wind-blown craters on Mars, reminding us that even in the cold vacuum of space, weather still has its way.",
       "date": "2026-05-19",
       "link": "https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/"
     }
