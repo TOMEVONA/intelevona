@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-21",
   "issue": "No. 30",
-  "headline": "Funding flows. Satellites launch. Space is crowded.",
-  "deck": "This week saw significant funding rounds and strategic partnerships shaping the space landscape.",
+  "headline": "Funding flows. Space Force plans. Delays persist.",
+  "deck": "This week highlights significant funding rounds and strategic military plans.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190M in a Series C funding round, bringing its valuation to $1.6B. The funds will bolster its efforts in co-orbital security and space domain awareness, with a clear nod toward DoD partnerships. It seems that the Department of Defense is keen on keeping its satellites safe from the increasingly crowded skies.",
-      "soWhat": "With the DoD's backing, True Anomaly is positioned to play a crucial role in the future of space security, potentially outpacing competitors who lack such direct ties."
+      "body": "True Anomaly secured $190M in Series C funding, raising its valuation to $1.6B. The investment underscores the DoD's increasing focus on co-orbital security and space domain awareness. This cash infusion will likely accelerate their development of advanced satellite capabilities.",
+      "soWhat": "In a sector where cash is king, True Anomaly's funding reflects the Pentagon's appetite for solutions that tackle emerging threats in space."
     },
     {
-      "kicker": "COLLABORATION",
-      "head": "Anduril and L3Harris team up for SDA constellation",
-      "body": "Anduril and L3Harris are joining forces to bid on a tactical Space Development Agency (SDA) constellation, a move that highlights the growing trend of collaboration in the defense sector. This partnership could leverage L3Harris's satellite experience and Anduril's tech-savvy approach, making for a formidable combination. With defense budgets swelling, this bid is likely to attract significant attention.",
-      "soWhat": "This collaboration signals a shift toward more integrated approaches in defense tech, where partnerships may become as critical as the technologies themselves."
+      "kicker": "STRATEGY",
+      "head": "Space Force eyes 2027 for in-space refueling demos",
+      "body": "The U.S. Space Force is planning to demonstrate in-space refueling and satellite servicing by 2027, as part of its USSF-23 mission. This initiative is expected to reshape operational logistics in geostationary orbit, a critical area for military and commercial interests alike.",
+      "soWhat": "If successful, this could reduce reliance on ground-based logistics, making space operations more sustainable and efficient—if they can actually get it off the ground."
     },
     {
-      "kicker": "BUDGET",
-      "head": "FY27 budget boosts space resilience funding by $1.4B",
-      "body": "The FY27 budget markup has allocated an additional $1.4B for space resilience, reflecting a heightened focus on safeguarding U.S. space assets. This increase is part of a broader strategy to enhance capabilities amid rising geopolitical tensions. As space becomes more contested, this funding could be a game-changer for national security priorities.",
-      "soWhat": "Expect a flurry of proposals and initiatives as companies scramble to align with this newfound funding focus, potentially reshaping the competitive landscape."
+      "kicker": "DELAY",
+      "head": "Hypersonic glide-vehicle tests delayed again",
+      "body": "For the third consecutive quarter, hypersonic glide-vehicle tests have been postponed, raising eyebrows in defense circles. These delays may signal deeper issues within the development pipeline, as the U.S. races to maintain its technological edge.",
+      "soWhat": "At this rate, hypersonic capabilities might become the new 'just wait until next year' mantra in defense procurement."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on LatConnect 60's funding",
-      "body": "With an accelerated growth investment round announced, LatConnect 60's push for a high-resolution satellite constellation could redefine AUKUS-related capabilities."
+      "title": "Keep an eye on True Anomaly's next moves",
+      "body": "With $190M in new funding, True Anomaly's strategy will be crucial to watch as they expand their capabilities in co-orbital security."
     },
     {
-      "title": "Watch for SpaceX's Starship updates",
-      "body": "As SpaceX emphasizes Starship's role in its growth, any delays or successes will be critical indicators of its future trajectory."
+      "title": "Space Force's 2027 timeline could shift",
+      "body": "As the Space Force gears up for its 2027 demonstrations, any delays could impact broader military readiness and satellite servicing strategies."
     },
     {
-      "title": "Anticipate more defense-tech IPOs",
-      "body": "With the defense-tech IPO window cracking open, expect a surge of startups looking to capitalize on this trend in the coming weeks."
+      "title": "Anduril and L3Harris collaboration outcomes",
+      "body": "Their joint bid for a tactical SDA constellation could set a precedent for future partnerships in space defense."
     },
     {
-      "title": "Monitor Sierra Space's Dream Chaser developments",
-      "body": "Having cleared critical design reviews, any news on the Dream Chaser's launch timeline will be pivotal for its market positioning."
+      "title": "Palantir's TITAN program extension implications",
+      "body": "With a $480M extension, Palantir’s grip on ground station operations may influence future defense data strategies."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPACEX",
-      "note": "Valued at $470B, SpaceX's secondary market valuation reflects investor confidence despite ongoing challenges."
+      "note": "Valuation hits $470B as Starship remains critical to growth."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program underscores its sticky defense contracts."
+      "sym": "TRUE",
+      "note": "True Anomaly's valuation jumps to $1.6B post-Series C funding."
     },
     {
-      "sym": "LATC",
-      "note": "LatConnect 60's funding round could signal a shift in satellite capabilities aligned with AUKUS."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480M TITAN extension shows enduring demand for its ground station tech."
     },
     {
-      "sym": "SIE",
-      "note": "Sierra Space's Dream Chaser passing its design review is a crucial step, but launch remains the real test."
+      "sym": "L3H",
+      "note": "L3Harris teams with Anduril, signaling a trend toward collaborative defense solutions."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

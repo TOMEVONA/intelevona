@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity, from SpaceX's ambitious growth plans to the latest in satellite technology and military readiness. As companies refine their offerings, the competition for contracts and innovation continues to heat up.",
+  "summary": "The space industry is buzzing with investment and innovation, as companies pivot to meet both defense and commercial demands. Meanwhile, the specter of regulatory challenges looms large over ambitious satellite projects.",
   "themes": [
     {
       "icon": "▣",
-      "title": "SpaceX's Financial Spotlight",
-      "body": "SpaceX's recent IPO filing reveals its financials, shedding light on its valuation and growth strategy. With a staggering $470 billion valuation, the company is positioning itself as a dominant force in the aerospace sector."
+      "title": "SpaceX's Growth Trajectory",
+      "body": "With Starship as its centerpiece, SpaceX is positioning itself for a significant leap forward. The recent IPO filing reveals just how much the company is banking on this ambitious rocket."
     },
     {
       "icon": "◉",
-      "title": "Military Satellite Developments",
-      "body": "The Space Force is pushing for in-space refueling and satellite servicing demonstrations by 2027, indicating a shift towards more sustainable space operations. Meanwhile, Anduril and L3Harris are teaming up for a tactical satellite constellation bid, highlighting the growing importance of collaboration in defense tech."
+      "title": "Defense Budgets on the Rise",
+      "body": "The FY27 budget markup has added $1.4 billion to space resilience, signaling a renewed focus on national security in space. This could be a boon for companies like Anduril and L3Harris as they vie for contracts."
     },
     {
       "icon": "▲",
-      "title": "Investment in Space Resilience",
-      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, signaling a commitment to enhancing national security through space capabilities. This financial boost comes at a time when geopolitical tensions are prompting increased scrutiny of space operations."
+      "title": "Satellite Constellation Investments",
+      "body": "LatConnect 60 is ramping up investments for its SWIR satellite constellation, aligning with AUKUS objectives. This reflects a broader trend where nations are prioritizing advanced satellite capabilities."
     },
     {
       "icon": "◆",
-      "title": "Emerging Players in Space",
-      "body": "True Anomaly's recent $190 million Series C funding round underscores the influx of capital into the space sector, as new players seek to carve out niches. Meanwhile, LatConnect 60 is accelerating its investment in an AUKUS-aligned satellite constellation, reflecting a strategic focus on regional partnerships."
+      "title": "Hypersonic Hiccups Continue",
+      "body": "The hypersonic glide-vehicle test has slipped yet again, marking the third consecutive quarter of delays. This raises questions about the pace of innovation in a field that many consider crucial for future defense strategies."
     }
   ],
-  "updated": "2026-05-21 16:20 UTC"
+  "updated": "2026-05-21 16:38 UTC"
 }
