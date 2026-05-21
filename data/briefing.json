@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-20",
-  "issue": "No. 29",
-  "headline": "Funding flows. Supply chains stress. Data bottlenecks loom.",
-  "deck": "This week, investors are placing bets while supply chain vulnerabilities become glaringly apparent.",
+  "updated": "2026-05-21",
+  "issue": "No. 30",
+  "headline": "Funding flows. Satellites launch. Space is crowded.",
+  "deck": "This week saw significant funding rounds and strategic partnerships shaping the space landscape.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M at $1.6B valuation",
-      "body": "True Anomaly secured $190M in a Series C funding round, bringing its valuation to $1.6B. This capital will bolster its co-orbital security and space domain awareness capabilities, tapping into rising DoD demand. With a growing focus on national security, this funding round underscores the shift towards space-based defense solutions.",
-      "soWhat": "The cash flow in this sector is impressive, but it raises questions about how much innovation is genuinely happening versus just financial maneuvering."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured $190M in a Series C funding round, bringing its valuation to $1.6B. The funds will bolster its efforts in co-orbital security and space domain awareness, with a clear nod toward DoD partnerships. It seems that the Department of Defense is keen on keeping its satellites safe from the increasingly crowded skies.",
+      "soWhat": "With the DoD's backing, True Anomaly is positioned to play a crucial role in the future of space security, potentially outpacing competitors who lack such direct ties."
     },
     {
-      "kicker": "SUPPLY CHAINS",
-      "head": "U.S. space supply chains depend on China",
-      "body": "A recent report highlights the heavy dependence of U.S. space supply chains on Chinese manufacturing. This reliance is likened to trusting your ex for a ride, underscoring the risks involved. With geopolitical tensions rising, this could become a critical vulnerability for U.S. aerospace firms.",
-      "soWhat": "If the chips fall the wrong way, we might see a scramble for domestic alternatives that could disrupt timelines and budgets."
+      "kicker": "COLLABORATION",
+      "head": "Anduril and L3Harris team up for SDA constellation",
+      "body": "Anduril and L3Harris are joining forces to bid on a tactical Space Development Agency (SDA) constellation, a move that highlights the growing trend of collaboration in the defense sector. This partnership could leverage L3Harris's satellite experience and Anduril's tech-savvy approach, making for a formidable combination. With defense budgets swelling, this bid is likely to attract significant attention.",
+      "soWhat": "This collaboration signals a shift toward more integrated approaches in defense tech, where partnerships may become as critical as the technologies themselves."
     },
     {
-      "kicker": "TECHNOLOGY",
-      "head": "Cardinality wall threatens LEO satellite operations",
-      "body": "The satellite industry is facing a 'cardinality wall' as thousands of spacecraft crowd low Earth orbit, leading to potential data bottlenecks. This issue could hinder operational efficiency for companies like SpaceX and OneWeb, who are racing to deploy their constellations. As the congestion increases, the industry must innovate to manage the growing data demands.",
-      "soWhat": "More satellites might mean less data utility, which is a paradox that could trip up even the most ambitious launch schedules."
+      "kicker": "BUDGET",
+      "head": "FY27 budget boosts space resilience funding by $1.4B",
+      "body": "The FY27 budget markup has allocated an additional $1.4B for space resilience, reflecting a heightened focus on safeguarding U.S. space assets. This increase is part of a broader strategy to enhance capabilities amid rising geopolitical tensions. As space becomes more contested, this funding could be a game-changer for national security priorities.",
+      "soWhat": "Expect a flurry of proposals and initiatives as companies scramble to align with this newfound funding focus, potentially reshaping the competitive landscape."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Starfighters' microgravity testing",
-      "body": "Starfighters Space's pivot to microgravity flight testing could attract new contracts from NASA, making it a player in commercial parabolic capabilities."
+      "title": "Keep an eye on LatConnect 60's funding",
+      "body": "With an accelerated growth investment round announced, LatConnect 60's push for a high-resolution satellite constellation could redefine AUKUS-related capabilities."
     },
     {
-      "title": "Monitor Palantir's TITAN program extension",
-      "body": "Palantir's $480M extension on the TITAN program suggests continued government investment in ground station capabilities, which may lead to more lucrative contracts."
+      "title": "Watch for SpaceX's Starship updates",
+      "body": "As SpaceX emphasizes Starship's role in its growth, any delays or successes will be critical indicators of its future trajectory."
     },
     {
-      "title": "Watch for updates on hypersonic testing delays",
-      "body": "The ongoing delays in hypersonic glide-vehicle tests could impact defense spending and timelines, forcing a reevaluation of priorities in the sector."
+      "title": "Anticipate more defense-tech IPOs",
+      "body": "With the defense-tech IPO window cracking open, expect a surge of startups looking to capitalize on this trend in the coming weeks."
     },
     {
-      "title": "Track Sierra Space's Dream Chaser progress",
-      "body": "With the Dream Chaser DoD variant passing its design review, its eventual launch could shift logistics strategies for military operations in space."
+      "title": "Monitor Sierra Space's Dream Chaser developments",
+      "body": "Having cleared critical design reviews, any news on the Dream Chaser's launch timeline will be pivotal for its market positioning."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates its path to commercial spaceflight."
+      "sym": "SPACEX",
+      "note": "Valued at $470B, SpaceX's secondary market valuation reflects investor confidence despite ongoing challenges."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's extension on the TITAN program highlights its sticky government contracts."
+      "note": "Palantir's $480M extension on the TITAN program underscores its sticky defense contracts."
     },
     {
-      "sym": "TRUE",
-      "note": "True Anomaly's recent funding round reflects a growing interest in co-orbital security."
+      "sym": "LATC",
+      "note": "LatConnect 60's funding round could signal a shift in satellite capabilities aligned with AUKUS."
     },
     {
-      "sym": "SFT",
-      "note": "Starfighters' shift to microgravity testing could position it favorably for upcoming NASA contracts."
+      "sym": "SIE",
+      "note": "Sierra Space's Dream Chaser passing its design review is a crucial step, but launch remains the real test."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
