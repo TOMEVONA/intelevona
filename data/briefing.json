@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-23",
   "issue": "No. 32",
-  "headline": "Funding flows. Launches resume. Hypersonics stall.",
-  "deck": "This week sees a mix of funding successes and program delays, with some companies finally getting back to business.",
+  "headline": "Blue Origin recovers. SpaceX stumbles. Defense budgets swell.",
+  "deck": "This week, Blue Origin resumes launches while the Space Force doles out hundreds of millions.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "LAUNCHES",
-      "head": "Blue Origin resumes New Glenn launches after investigation",
-      "body": "Blue Origin has completed its investigation into the New Glenn launch failure, allowing launches to resume. This comes after a significant delay, during which the company presumably avoided the phrase 'technical difficulties.' The New Glenn rocket is crucial for Blue Origin, which has invested over $2.5 billion in its development.",
-      "soWhat": "If Blue Origin can avoid future setbacks, they might just stay relevant in a market that’s increasingly unforgiving."
+      "kicker": "INVESTIGATION",
+      "head": "Blue Origin finds its launch button, finally",
+      "body": "After a thorough investigation, Blue Origin has cleared the way to resume New Glenn launches. The company had been grounded since a failure earlier this year, but it appears they’ve finally located the elusive 'launch' button. With a backlog of customers waiting, this could be a much-needed boost for a company that has faced its share of delays.",
+      "soWhat": "If only finding the right button was the hardest part of launching a rocket."
     },
     {
-      "kicker": "MILITARY",
-      "head": "Space Force awards $437M for satellite network",
-      "body": "The Space Force has awarded Viasat and SES a $437 million contract to build four small satellites aimed at enhancing military communications. This investment underscores the military's ongoing push for more robust satellite infrastructure, as the demand for secure communications continues to grow.",
-      "soWhat": "With military budgets expanding, companies that can deliver quickly on these contracts might find themselves in a very lucrative position."
+      "kicker": "BUDGET",
+      "head": "Space Force awards $437M for military satellite network",
+      "body": "The Space Force has awarded Viasat and SES a hefty $437 million for a military satellite network, reinforcing the trend of serious cash flow into space infrastructure. This contract is part of a broader push to enhance military capabilities in orbit, proving that the budget is indeed always on the table. With global tensions rising, expect more of these sizable contracts to flow.",
+      "soWhat": "If only Congress could be as decisive about terrestrial budgets as they are about space."
     },
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid defense focus",
-      "body": "True Anomaly has successfully raised $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The funding is aimed at bolstering co-orbital security and space domain awareness, a hot topic given the geopolitical climate. The company is now well-positioned to capitalize on increasing defense spending.",
-      "soWhat": "In a sector where cash flow often trumps innovation, True Anomaly’s funding success might just set a precedent for others looking to ride the defense wave."
+      "head": "True Anomaly raises $190M amid defense boom",
+      "body": "True Anomaly has successfully raised $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, sectors that are becoming increasingly vital as geopolitical tensions escalate. With DoD backing, this cash infusion signals strong confidence in their business model.",
+      "soWhat": "In space, cash flow trumps tech hype, and True Anomaly just proved it."
     }
   ],
   "watchlist": [
     {
-      "title": "SpaceX's Starship V3 performance review",
-      "body": "With SpaceX's first Starship V3 launch hitting most test objectives, expect scrutiny on its reliability as future missions loom."
+      "title": "NASA's reorganization impacts future missions",
+      "body": "NASA's recent restructuring could lead to shifts in mission priorities, potentially affecting upcoming contracts and partnerships."
     },
     {
-      "title": "NASA’s reorganization impacts future projects",
-      "body": "NASA's recent reorganization could lead to shifts in project priorities, making it essential to watch how this affects ongoing missions."
+      "title": "AUKUS partners ramp up space capabilities",
+      "body": "As Australia builds its dual-use space infrastructure, expect increased collaboration among AUKUS partners, which could reshape regional dynamics."
     },
     {
-      "title": "Hypersonic test delays continue",
-      "body": "With the third consecutive delay in hypersonic glide-vehicle tests, the focus may shift to more practical technologies in defense."
+      "title": "Palantir's TITAN extension to influence ground ops",
+      "body": "With a $480 million extension on the TITAN program, Palantir's influence on military ground operations is set to expand, impacting procurement strategies."
     },
     {
-      "title": "Anduril and L3Harris collaboration",
-      "body": "The partnership between Anduril and L3Harris for a tactical SDA constellation could reshape the competitive landscape in military satellites."
+      "title": "Hypersonic tests delayed again",
+      "body": "With hypersonic glide-vehicle tests slipping for the third consecutive quarter, the timeline for operational capabilities is becoming increasingly uncertain."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic remains under pressure as commercial spaceflight expectations continue to shift."
+      "note": "Virgin Galactic's stock remains stagnant as they await news on their next flight."
     },
     {
       "sym": "LMT",
-      "note": "Lockheed Martin's stock is buoyed by defense contracts, with the Space Force's $437M award adding to its portfolio."
+      "note": "Lockheed Martin's defense contracts continue to swell, reflecting increased government spending."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program highlights the stickiness of defense contracts in uncertain times."
+      "note": "Palantir's stock is buoyed by the recent $480M extension of their TITAN program."
     },
     {
-      "sym": "AER",
-      "note": "Aerojet Rocketdyne's performance in upcoming contracts will be closely watched after recent funding rounds in the sector."
+      "sym": "SXI",
+      "note": "Sierra Space's Dream Chaser variant passes design review, but execution remains the real test."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

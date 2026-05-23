@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as major players navigate launches, military contracts, and strategic partnerships. From Blue Origin's investigation closure to SpaceX's latest Starship launch, the landscape is shifting rapidly.",
+  "summary": "A week marked by significant developments in military satellite contracts and corporate maneuvering, as SpaceX and Blue Origin both make strides in their respective projects. Meanwhile, the Space Force and NASA are reshaping their strategic priorities amidst a backdrop of evolving global threats.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Military Contracts on the Rise",
-      "body": "The Space Force's recent $437 million award to Viasat and SES underscores a growing emphasis on military satellite networks. This trend reflects an ongoing commitment to bolster national security through enhanced space capabilities."
-    },
-    {
-      "icon": "▲",
-      "title": "Launch Developments Heat Up",
-      "body": "SpaceX's debut of Starship V3 marks a significant milestone in its ambitious launch schedule. Meanwhile, Blue Origin's investigation into the New Glenn failure wraps up, potentially paving the way for future launches."
-    },
-    {
-      "icon": "◆",
-      "title": "Strategic Partnerships Emerge",
-      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, highlighting the trend of collaboration in the defense sector. This partnership reflects a strategic pivot towards dual-use technologies amid rising geopolitical tensions."
+      "title": "Military Satellite Network Expansion",
+      "body": "The Space Force's hefty $437 million contract with Viasat and SES signals a robust push towards enhancing military satellite capabilities. This investment reflects an increasing recognition of the need for resilient space infrastructure amid growing geopolitical tensions."
     },
     {
       "icon": "◉",
-      "title": "Budget Increases for Space Resilience",
-      "body": "The FY27 budget markup adding $1.4 billion to space resilience initiatives signals a robust commitment to fortifying U.S. capabilities in space. As threats evolve, so too does the funding landscape, prioritizing resilience and modernization."
+      "title": "Blue Origin's Launch Recovery",
+      "body": "After a thorough investigation into the New Glenn launch failure, Blue Origin is poised to regain its footing in the competitive launch market. The resolution of this setback could be pivotal for its future contracts and credibility."
+    },
+    {
+      "icon": "▲",
+      "title": "SpaceX's Starship V3 Launch",
+      "body": "SpaceX's launch of the first Starship V3 marks another milestone in its ambitious plans for space exploration and commercial ventures. This development not only showcases their technological prowess but also sets the stage for future endeavors in the burgeoning space economy."
+    },
+    {
+      "icon": "◆",
+      "title": "AUKUS and Strategic Space Infrastructure",
+      "body": "The focus on building Australia’s dual-use space infrastructure underscores the strategic importance of collaboration within the AUKUS alliance. This initiative is a clear indication of how nations are leveraging space capabilities to bolster defense and resilience."
     }
   ],
-  "updated": "2026-05-23 14:42 UTC"
+  "updated": "2026-05-23 14:57 UTC"
 }
