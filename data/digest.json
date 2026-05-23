@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space and defense sectors are buzzing with strategic partnerships and financial maneuvers. From Australia’s dual-use infrastructure to SpaceX's IPO, the landscape is shifting, albeit with a few hiccups along the way.",
+  "summary": "The space industry is buzzing with activity as major players navigate launches, military contracts, and strategic partnerships. From Blue Origin's investigation closure to SpaceX's latest Starship launch, the landscape is shifting rapidly.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Australia's Strategic Space Moves",
-      "body": "Australia is ramping up its dual-use space infrastructure, leveraging AUKUS to bolster strategic resilience. This development signals a growing recognition of the importance of space capabilities in national security."
-    },
-    {
-      "icon": "◉",
-      "title": "SpaceX's Financial Unveiling",
-      "body": "SpaceX's recent IPO filing sheds light on its ambitious Starlink Mobile, positioning it as a potential competitor in the wireless market. Investors are keenly watching how this could reshape telecommunications."
+      "title": "Military Contracts on the Rise",
+      "body": "The Space Force's recent $437 million award to Viasat and SES underscores a growing emphasis on military satellite networks. This trend reflects an ongoing commitment to bolster national security through enhanced space capabilities."
     },
     {
       "icon": "▲",
-      "title": "Rocket Lab's Expanding Footprint",
-      "body": "Rocket Lab continues to make headlines, launching its ninth Synspective satellite and securing a GEO satellite production contract from the U.S. Space Force. This momentum underscores the company’s growing role in the satellite ecosystem."
+      "title": "Launch Developments Heat Up",
+      "body": "SpaceX's debut of Starship V3 marks a significant milestone in its ambitious launch schedule. Meanwhile, Blue Origin's investigation into the New Glenn failure wraps up, potentially paving the way for future launches."
     },
     {
       "icon": "◆",
-      "title": "Defense-Tech IPO Buzz",
-      "body": "The defense-tech sector is showing signs of life with the potential opening of the IPO window, as evidenced by Palantir's $480M extension on the TITAN program. This could signal a shift in investment focus towards defense capabilities amid rising geopolitical tensions."
+      "title": "Strategic Partnerships Emerge",
+      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, highlighting the trend of collaboration in the defense sector. This partnership reflects a strategic pivot towards dual-use technologies amid rising geopolitical tensions."
+    },
+    {
+      "icon": "◉",
+      "title": "Budget Increases for Space Resilience",
+      "body": "The FY27 budget markup adding $1.4 billion to space resilience initiatives signals a robust commitment to fortifying U.S. capabilities in space. As threats evolve, so too does the funding landscape, prioritizing resilience and modernization."
     }
   ],
-  "updated": "2026-05-22 15:53 UTC"
+  "updated": "2026-05-23 14:42 UTC"
 }

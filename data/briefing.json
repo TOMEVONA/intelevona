@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-22",
-  "issue": "No. 31",
-  "headline": "Australia builds space infrastructure. SpaceX eyes wireless. Rocket Lab wins big.",
-  "deck": "This week saw strategic moves in space infrastructure and defense contracts.",
+  "updated": "2026-05-23",
+  "issue": "No. 32",
+  "headline": "Funding flows. Launches resume. Hypersonics stall.",
+  "deck": "This week sees a mix of funding successes and program delays, with some companies finally getting back to business.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "DEFENSE",
-      "head": "Rocket Lab scores $90M Space Force contract",
-      "body": "Rocket Lab secured a $90 million contract from the U.S. Space Force for GEO satellite production, marking a significant win in the defense sector. This comes as the company prepares to sell $3 billion in stock, clearly showing that launching satellites is just one part of their strategy. The contract reinforces the trend of defense contracts becoming increasingly lucrative for smaller aerospace firms.",
-      "soWhat": "If defense contracts are the new gold rush, Rocket Lab just struck it rich while others are still panning for pennies."
+      "kicker": "LAUNCHES",
+      "head": "Blue Origin resumes New Glenn launches after investigation",
+      "body": "Blue Origin has completed its investigation into the New Glenn launch failure, allowing launches to resume. This comes after a significant delay, during which the company presumably avoided the phrase 'technical difficulties.' The New Glenn rocket is crucial for Blue Origin, which has invested over $2.5 billion in its development.",
+      "soWhat": "If Blue Origin can avoid future setbacks, they might just stay relevant in a market that’s increasingly unforgiving."
     },
     {
-      "kicker": "INFRASTRUCTURE",
-      "head": "Australia's DARC site aims for 2027 readiness",
-      "body": "Australia's DARC site is now tracking for AUKUS partners, with full operational capability expected by 2027. This initiative is part of a broader strategy to enhance dual-use space infrastructure for strategic resilience. It’s a refreshing change to see international cooperation in space that doesn’t involve a rocket launch.",
-      "soWhat": "If this goes as planned, Australia might just become the new go-to partner for space collaboration—no launch required."
+      "kicker": "MILITARY",
+      "head": "Space Force awards $437M for satellite network",
+      "body": "The Space Force has awarded Viasat and SES a $437 million contract to build four small satellites aimed at enhancing military communications. This investment underscores the military's ongoing push for more robust satellite infrastructure, as the demand for secure communications continues to grow.",
+      "soWhat": "With military budgets expanding, companies that can deliver quickly on these contracts might find themselves in a very lucrative position."
     },
     {
-      "kicker": "IPO",
-      "head": "SpaceX positions Starlink Mobile for urban market",
-      "body": "SpaceX's recent IPO filing has positioned Starlink Mobile as a serious competitor in the urban wireless market, hinting at a valuation that could shake up the crowded telecom landscape. With the secondary market valuation of SpaceX hitting $470 billion, the stakes are high for this satellite-based service. It suggests that even in a saturated market, there’s still room for disruption.",
-      "soWhat": "If Starlink can pull this off, it could redefine urban connectivity—just don’t expect to see any towers."
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M amid defense focus",
+      "body": "True Anomaly has successfully raised $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The funding is aimed at bolstering co-orbital security and space domain awareness, a hot topic given the geopolitical climate. The company is now well-positioned to capitalize on increasing defense spending.",
+      "soWhat": "In a sector where cash flow often trumps innovation, True Anomaly’s funding success might just set a precedent for others looking to ride the defense wave."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for Rocket Lab stock performance",
-      "body": "With the recent contract win and stock sale, Rocket Lab's market performance will be worth monitoring as investors react."
+      "title": "SpaceX's Starship V3 performance review",
+      "body": "With SpaceX's first Starship V3 launch hitting most test objectives, expect scrutiny on its reliability as future missions loom."
     },
     {
-      "title": "AUKUS partners' next moves",
-      "body": "The operational readiness of Australia's DARC site could set the stage for more collaborative defense projects among AUKUS partners."
+      "title": "NASA’s reorganization impacts future projects",
+      "body": "NASA's recent reorganization could lead to shifts in project priorities, making it essential to watch how this affects ongoing missions."
     },
     {
-      "title": "Starlink Mobile's market entry",
-      "body": "Keep an eye on how Starlink Mobile positions itself against traditional telecom providers—this could shift market dynamics."
+      "title": "Hypersonic test delays continue",
+      "body": "With the third consecutive delay in hypersonic glide-vehicle tests, the focus may shift to more practical technologies in defense."
     },
     {
-      "title": "True Anomaly's growth trajectory",
-      "body": "After raising $190M, True Anomaly's developments in co-orbital security will be a key area to watch in the coming weeks."
+      "title": "Anduril and L3Harris collaboration",
+      "body": "The partnership between Anduril and L3Harris for a tactical SDA constellation could reshape the competitive landscape in military satellites."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "RKLB",
-      "note": "Rocket Lab's stock is likely to react positively to its new Space Force contract."
+      "sym": "SPCE",
+      "note": "Virgin Galactic remains under pressure as commercial spaceflight expectations continue to shift."
     },
     {
-      "sym": "SPAC",
-      "note": "SpaceX's valuation continues to stir interest, especially with its IPO filing."
+      "sym": "LMT",
+      "note": "Lockheed Martin's stock is buoyed by defense contracts, with the Space Force's $437M award adding to its portfolio."
     },
     {
-      "sym": "TRU",
-      "note": "True Anomaly's recent funding round positions it well for future defense contracts."
+      "sym": "PLTR",
+      "note": "Palantir's $480M extension on the TITAN program highlights the stickiness of defense contracts in uncertain times."
     },
     {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's bullish case suggests it might finally be time to execute."
+      "sym": "AER",
+      "note": "Aerojet Rocketdyne's performance in upcoming contracts will be closely watched after recent funding rounds in the sector."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
