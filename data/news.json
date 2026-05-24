@@ -1,87 +1,87 @@
 {
-  "updated": "2026-05-24T14:28:13.371Z",
+  "updated": "2026-05-24T14:59:08.823Z",
   "articles": [
     {
       "sourceId": "spacenews",
       "title": "NASA to add missions to SpaceX commercial crew contract",
-      "summary": "NASA is adding more missions to SpaceX’s commercial crew contract, likely because Boeing's spacecraft is still stuck in certification limbo.",
+      "summary": "NASA plans to add more missions to SpaceX’s commercial crew contract, ensuring a backup plan in case Boeing's spacecraft remains grounded indefinitely.",
       "date": "2026-05-24",
       "link": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/"
     },
     {
       "sourceId": "spacenews",
       "title": "Blue Origin completes investigation into New Glenn launch failure",
-      "summary": "Blue Origin has wrapped up its investigation into the New Glenn launch failure, which means the rocket is cleared for takeoff—again.",
+      "summary": "Blue Origin has wrapped up its investigation into the New Glenn launch failure, allowing the rocket to resume its journey to nowhere—hopefully with fewer detours.",
       "date": "2026-05-23",
       "link": "https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/"
     },
     {
       "sourceId": "spacenews",
       "title": "SpaceX launches first Starship V3",
-      "summary": "SpaceX launched its first Starship V3, successfully checking off most of its test objectives, proving that practice does make perfect.",
+      "summary": "SpaceX successfully launched its first Starship V3, completing most test objectives, which is a nice change of pace from their usual 'we're still learning' mantra.",
       "date": "2026-05-23",
       "link": "https://spacenews.com/spacex-launches-first-starship-v3/"
     },
     {
       "sourceId": "spacenews",
       "title": "Space Force awards Viasat, SES $437 million for military satellite network",
-      "summary": "The Space Force has awarded Viasat and SES $437 million to build four military satellites, because nothing says 'security' like a few more geostationary eyes.",
+      "summary": "The Space Force awarded Viasat and SES $437 million to build four small satellites, proving that even in military tech, size isn't everything.",
       "date": "2026-05-22",
       "link": "https://spacenews.com/space-force-awards-viasat-ses-437-million-for-military-satellite-network/"
     },
     {
       "sourceId": "spacenews",
       "title": "NASA unveils sweeping reorganization",
-      "summary": "NASA has announced a major reorganization, which is a fancy way of saying it's time to shuffle the deck chairs on the space Titanic.",
+      "summary": "NASA's sweeping reorganization combines mission directorates and personnel, because nothing says efficiency like a good reshuffle.",
       "date": "2026-05-22",
       "link": "https://spacenews.com/nasa-unveils-sweeping-reorganization/"
     },
     {
       "sourceId": "tectonic",
       "title": "Anduril and L3Harris team on tactical SDA constellation bid",
-      "summary": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, proving that even in defense, teamwork makes the dream work—unless you're a satellite.",
+      "summary": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, demonstrating that collaboration is key—unless you're a satellite, apparently.",
       "date": "2026-05-04",
       "link": "https://tectonicdefense.com/anduril-l3harris-sda/"
     },
     {
       "sourceId": "tectonic",
       "title": "FY27 budget markup adds $1.4B to space resilience line",
-      "summary": "The FY27 budget has added $1.4 billion for space resilience, finally realizing that space isn't just a backdrop for Hollywood blockbusters.",
+      "summary": "The FY27 budget has added $1.4 billion for space resilience, finally acknowledging that space is more than just a pretty backdrop for sci-fi films.",
       "date": "2026-05-03",
       "link": "https://tectonicdefense.com/fy27-markup-space/"
     },
     {
       "sourceId": "tectonic",
       "title": "Hypersonic glide-vehicle test slips again — third quarter in a row",
-      "summary": "Hypersonic glide-vehicle tests have been delayed yet again, making it feel more like 'hypothetical' than 'hypersonic' at this point.",
+      "summary": "Hypersonic glide-vehicle tests have been postponed again, making the term 'hypothetical' feel more appropriate than 'hypersonic' these days.",
       "date": "2026-05-02",
       "link": "https://tectonicdefense.com/hgv-slip-q3/"
     },
     {
       "sourceId": "tectonic",
       "title": "Sierra Space's Dream Chaser DoD variant clears critical design review",
-      "summary": "Sierra Space's Dream Chaser DoD variant has passed its critical design review, now if only it could pass the launch part without drama.",
+      "summary": "Sierra Space's Dream Chaser DoD variant passed its critical design review, now if only it could launch without turning into a soap opera.",
       "date": "2026-05-01",
       "link": "https://tectonicdefense.com/dream-chaser-cdr/"
     },
     {
       "sourceId": "tectonic",
       "title": "Palantir wins $480M extension on TITAN ground station program",
-      "summary": "Palantir has snagged a $480 million extension on its TITAN program, proving that some contracts are stickier than a toddler's favorite snack.",
+      "summary": "Palantir secured a $480 million extension on its TITAN program, proving that some contracts are stickier than a toddler's favorite snack.",
       "date": "2026-04-29",
       "link": "https://tectonicdefense.com/palantir-titan-extension/"
     },
     {
       "sourceId": "piratewires",
       "title": "The Defense-Tech IPO Window Is Cracking Open",
-      "summary": "The defense-tech IPO window is cracking open, and investors are approaching it like a buffet with a side of food safety concerns.",
+      "summary": "The defense-tech IPO window is cracking open, with investors eyeing it like a buffet—just hoping the food safety concerns don't spoil the feast.",
       "date": "2026-05-04",
       "link": "https://piratewires.com/defense-ipo-window/"
     },
     {
       "sourceId": "piratewires",
       "title": "Why every YC company is suddenly 'AI for Defense'",
-      "summary": "Every YC company is now branding itself as 'AI for Defense', suggesting that when innovation stalls, just add 'AI' and call it a day.",
+      "summary": "Every YC company is now branding itself as 'AI for Defense', suggesting that when innovation stalls, slapping 'AI' on it is the new go-to strategy.",
       "date": "2026-05-03",
       "link": "https://piratewires.com/yc-defense/"
     },
@@ -172,84 +172,84 @@
     {
       "sourceId": "tbpn",
       "title": "The TBPN deep-tech survey: 1,200 founders weigh in",
-      "summary": "A survey reveals half of deep-tech founders now see themselves as 'defense or dual-use', indicating military chic is the latest startup trend.",
+      "summary": "A survey shows half of deep-tech founders now identify as 'defense or dual-use', suggesting military chic is the new black in startup circles.",
       "date": "2026-04-29",
       "link": "https://tbpn.com/deeptech-survey-26/"
     },
     {
       "sourceId": "ussf",
       "title": "DAF leaders outline readiness, modernization priorities in FY27 budget testimony",
-      "summary": "DAF leaders presented their FY27 budget priorities to the House Armed Services Committee, outlining readiness and modernization plans.",
+      "summary": "Department of the Air Force leaders laid out their fiscal year 2027 budget priorities, proving that planning for the future is still a thing.",
       "date": "2026-05-21",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4497991/daf-leaders-outline-readiness-modernization-priorities-in-fy27-budget-testimony/"
     },
     {
       "sourceId": "ussf",
       "title": "ICBM test launch verifies system reliability",
-      "summary": "Air Force Global Strike Command successfully tested an unarmed Minuteman III ICBM from Vandenberg Space Force Base, reaffirming system reliability.",
+      "summary": "The Air Force conducted a routine test launch of an unarmed Minuteman III missile, reminding us that reliability is key, even in the nuclear game.",
       "date": "2026-05-20",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4497045/icbm-test-launch-verifies-system-reliability/"
     },
     {
       "sourceId": "ussf",
       "title": "SECAF visits Space Systems Command to meet with Air and Space Force leaders and industry professionals",
-      "summary": "SECAF Troy Meink visited Space Systems Command, engaging with Air and Space Force leaders and industry professionals in Los Angeles.",
+      "summary": "SECAF Troy Meink visited Space Systems Command, where mission briefings and inspirational discussions were the order of the day, because who doesn’t love a good pep talk?",
       "date": "2026-05-20",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4496851/secaf-visits-space-systems-command-to-meet-with-air-and-space-force-leaders-and/"
     },
     {
       "sourceId": "ussf",
       "title": "SLD 30 celebrates 5th anniversary",
-      "summary": "SLD 30 marked its 5th anniversary as the USSF's West Coast hub for space launch and strategic testing, showcasing its operational evolution.",
+      "summary": "SLD 30 marked its 5th anniversary as a space launch hub, evolving from legacy wing to a multi-nodal platform, because why not add more nodes?",
       "date": "2026-05-18",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4494851/sld-30-celebrates-5th-anniversary/"
     },
     {
       "sourceId": "ussf",
       "title": "DAF updates religious accommodation process, eliminates Religious Resolution Teams",
-      "summary": "The DAF modified its religious accommodation process, eliminating Religious Resolution Teams in the latest update to DAFI 52-201.",
+      "summary": "The DAF has revamped its religious accommodation process, ditching Religious Resolution Teams, perhaps in favor of a more streamlined approach.",
       "date": "2026-05-15",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4493798/daf-updates-religious-accommodation-process-eliminates-religious-resolution-tea/"
     },
     {
       "sourceId": "dod",
       "title": "Hegseth Tells West Point Cadets They Are Ready to Lead",
-      "summary": "Secretary of War Pete Hegseth reassured West Point cadets that they are prepared to lead, citing trust from both him and the president.",
+      "summary": "Secretary of War Pete Hegseth reassured West Point graduates of their readiness to lead, which is comforting, unless you’re still figuring out where the bathroom is.",
       "date": "2026-05-23",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4499909/hegseth-tells-west-point-cadets-they-are-ready-to-lead/"
     },
     {
       "sourceId": "dod",
       "title": "For Old Guard Soldiers, 'Flags In' Is a Personal Mission",
-      "summary": "Old Guard Soldiers honored fallen heroes by placing flags at Arlington National Cemetery ahead of Memorial Day.",
+      "summary": "Old Guard Soldiers honored fallen heroes by placing flags at Arlington National Cemetery, proving that some traditions never go out of style.",
       "date": "2026-05-22",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4499458/for-old-guard-soldiers-flags-in-is-a-personal-mission/"
     },
     {
       "sourceId": "dod",
       "title": "War Department's 'Patriot Pipeline' Flows Talent to Arsenal of Freedom",
-      "summary": "The War Department introduced Project Patriot Pipeline to streamline training and workforce development for military personnel.",
+      "summary": "The War Department's 'Patriot Pipeline' initiative aims to streamline training and workforce efforts, because who doesn’t love a good pipeline?",
       "date": "2026-05-21",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4499103/war-departments-patriot-pipeline-flows-talent-to-arsenal-of-freedom/"
     },
     {
       "sourceId": "dod",
       "title": "Top Special Ops Civilian Recounts Successes, Lays Out Vision for Future",
-      "summary": "Derrick Anderson outlined the future vision for Special Ops at the 2026 convention, focusing on recent successes and key priorities.",
+      "summary": "Derrick Anderson laid out a vision for the future of Special Ops, focusing on five key areas, which sounds suspiciously like a PowerPoint presentation.",
       "date": "2026-05-21",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4499105/top-special-ops-civilian-recounts-successes-lays-out-vision-for-future/"
     },
     {
       "sourceId": "dod",
       "title": "Special Ops Conference Discusses Optimizing Human Performance",
-      "summary": "Experts at the Special Ops Conference emphasized the importance of health checks and AI tracking for optimizing human performance.",
+      "summary": "Experts at the Special Ops Conference emphasized the importance of early health checks and AI tracking to protect operators, because prevention is cheaper than a crisis.",
       "date": "2026-05-21",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4498839/special-ops-conference-discusses-optimizing-human-performance/"
     },
     {
       "sourceId": "viasat",
       "title": "ST Engineering iDirect’s New CEO Kuppanna Talks Ground Tech’s Cloud-Native, Interoperable Future",
-      "summary": "ST Engineering iDirect appointed Sridhar Kuppanna as CEO to steer the company through the evolving ground tech market.",
+      "summary": "ST Engineering iDirect appointed Sridhar Kuppanna as CEO, navigating the dynamic ground tech market, which is just a fancy way of saying they’re trying to keep up with Starlink.",
       "date": "2026-05-22",
       "link": "https://www.satellitetoday.com/technology/2026/05/22/st-engineering-idirects-new-ceo-kuppanna-talks-ground-techs-cloud-native-interoperable-future/"
     },
@@ -318,6 +318,13 @@
     },
     {
       "sourceId": "rspace",
+      "title": "Jupiter photo from my 90/900 telescope",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1tmedmv/jupiter_photo_from_my_90900_telescope/\"> <img src=\"https://preview.redd.it/ahgtwtbsm33h1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5f9e18898b567ee22c4ae9ca6fa5e53f1886c43d\" alt=\"Jupiter photo from…",
+      "date": "2026-05-24",
+      "link": "https://www.reddit.com/r/space/comments/1tmedmv/jupiter_photo_from_my_90900_telescope/"
+    },
+    {
+      "sourceId": "rspace",
       "title": "NANOGrav used 68 millisecond pulsars as a galaxy-sized gravitational wave detector and found the background hum of the entire universe (ApJ Letters, June 2023)",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>In June 2023, the NANOGrav collaboration announced evidence for the gravitational wave background — a slow, omnipresent ripple in spacetime produced by the collective signal of every supermassive black hole binary in the observable universe.",
       "date": "2026-05-24",
@@ -340,16 +347,9 @@
     {
       "sourceId": "rspace",
       "title": "Apollo 15 astronaut Jim Irwin with the Lunar Roving Vehicle on the Moon during his 1971 mission.",
-      "summary": "Apollo 15 astronaut Jim Irwin is seen with the Lunar Roving Vehicle on the Moon during his 1971 mission, reminding us that moonwalks were once a thing before they became just a footnote in a space race.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1tm33dr/apollo_15_astronaut_jim_irwin_with_the_lunar/\"> <img src=\"https://preview.redd.it/10ywn8f4u03h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25ffe480a348507fd285e07f8caf9d4135e30bfd\" alt=\"Apollo 15…",
       "date": "2026-05-24",
       "link": "https://www.reddit.com/r/space/comments/1tm33dr/apollo_15_astronaut_jim_irwin_with_the_lunar/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "The Core of Sharpless 171",
-      "summary": "The Core of Sharpless 171 has been captured in stunning imagery, proving that even in the vastness of space, there are still things we can point at and say, 'Look, that’s pretty neat!'",
-      "date": "2026-05-24",
-      "link": "https://www.reddit.com/r/space/comments/1tm13mu/the_core_of_sharpless_171/"
     },
     {
       "sourceId": "nga",
@@ -389,70 +389,70 @@
     {
       "sourceId": "tnw-deeptech",
       "title": "Former Citadel quants raised $78M for the AI operating system Wall Street’s wealth managers didn’t have",
-      "summary": "Moment, the fintech company founded by former Citadel quants, has raised $78 million to build the AI operating system Wall Street’s wealth managers didn’t know they needed, proving finance can still be surprising.",
+      "summary": "Moment, the fintech company founded by a cohort of former Citadel Securities quantitative traders and researchers, has raised $78 million. The round was led by Index Ventures with participation from existing investors Andreessen Horowitz and Avra.",
       "date": "2026-05-24",
       "link": "https://thenextweb.com/news/moment-78-million-citadel-quants-ai-trading-wealth-management"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "AI is killing the cheap smartphone. The memory that powers your phone now goes to data centres instead.",
-      "summary": "AI is killing the cheap smartphone as memory shifts to data centers, making us wonder if our phones will soon be just glorified calculators; nostalgia for the good old days is officially in.",
+      "summary": "In 1985, the best computer a reasonably affluent American could buy was the IBM PC AT, which cost $19,400 in today’s money. Today, a Tecno Spark Go costs $30 in a Nairobi market stall and runs a processor billions of times faster.",
       "date": "2026-05-24",
       "link": "https://thenextweb.com/news/ai-killing-cheap-smartphone-dram-memory-crisis"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "Stellantis wants to build Chinese EVs in Canada and Mexico. Just not in the US.",
-      "summary": "Stellantis plans to build Chinese EVs in Canada and Mexico, but not in the U.S., leaving us to ponder what exactly is happening in the American auto market that makes it less appealing than its neighbors.",
+      "summary": "Stellantis CEO Antonio Filosa said on Thursday that the company sees opportunity to produce and sell Chinese-branded vehicles in Mexico and potentially Canada. In the United States, the answer is different. “Now there is no space in the United States.",
       "date": "2026-05-24",
       "link": "https://thenextweb.com/news/stellantis-leapmotor-chinese-evs-mexico-canada-brampton"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "DeepSeek made its 75% discount permanent. The AI price war just escalated.",
-      "summary": "DeepSeek has made its 75% discount permanent, escalating the AI price war; it seems the race to the bottom is now a marathon, and everyone forgot to bring their wallets.",
+      "summary": "DeepSeek has made permanent the 75% price discount on its flagship V4 Pro model. The promotion was originally scheduled to expire on 31 May. The Chinese AI startup’s pricing now ranges from $0.003625 to $0.87 per million tokens, down from $0.0145 to $3.48.",
       "date": "2026-05-24",
       "link": "https://thenextweb.com/news/deepseek-v4-pro-75-percent-price-cut-permanent"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "SpaceX’s IPO filing reveals Musk’s clean energy contradiction. xAI burns gas while Tesla sells solar.",
-      "summary": "SpaceX’s IPO filing reveals Musk’s clean energy contradiction, as xAI runs on gas while Tesla sells solar; it’s a classic case of 'do as I say, not as I do' in the world of tech.",
+      "summary": "The SpaceX IPO prospectus, filed on Wednesday, contains a vision for terawatt-scale space-based solar power. It also reveals, through what it does not say, that Elon Musk’s AI company xAI is running its data centres on unregulated natural gas turbines, with plans to buy $2.8…",
       "date": "2026-05-23",
       "link": "https://thenextweb.com/news/musk-spacex-ipo-solar-xai-data-centres-fossil-fuel"
     },
     {
       "sourceId": "nasa",
       "title": "Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling",
-      "summary": "NASA is looking for creative partners to help tell its mission stories, which is a polite way of saying they need someone to make rocket science sound sexy.",
+      "summary": "NASA is on the hunt for creatives to help tell the story of its various missions, proving that even space exploration needs a good PR team. Who knew rocket science could also be about storytelling?",
       "date": "2026-05-22",
       "link": "https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station",
-      "summary": "NASA will broadcast a Roscosmos spacewalk outside the ISS, proving that even in space, there are still people who want to watch others work.",
+      "summary": "NASA will broadcast a spacewalk by two Roscosmos cosmonauts outside the ISS, reminding us that even in space, someone has to do the dirty work. It's like a cosmic version of watching paint dry, but with more floating tools.",
       "date": "2026-05-22",
       "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/"
     },
     {
       "sourceId": "nasa",
       "title": "Webb Studies Star Clusters",
-      "summary": "The James Webb Space Telescope has turned its gaze to Messier 51, revealing nearly 9,000 star clusters, because who doesn't want to count stars from 27 million light years away?",
+      "summary": "The James Webb Space Telescope has captured images of star clusters in the Messier 51 galaxy, because why not peer into the cosmic abyss while we’re at it? It's like a celestial Instagram feed, but with way more light years involved.",
       "date": "2026-05-22",
       "link": "https://www.nasa.gov/image-article/webb-studies-star-clusters/"
     },
     {
       "sourceId": "nasa",
       "title": "Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness",
-      "summary": "NASA's ground crews are keeping aircraft ready for high-stakes missions, which is just another way of saying that someone has to make sure the planes actually fly.",
+      "summary": "NASA's ground crews are keeping aircraft ready for everything from research flights to high-altitude missions, proving that behind every successful launch is a team of people who really hate delays. It's all about the unsung heroes.",
       "date": "2026-05-22",
       "link": "https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA to Compete Contract for Jet Propulsion Laboratory Management",
-      "summary": "NASA plans to put the management contract for the Jet Propulsion Laboratory up for bid, ensuring that even space agencies can embrace the joys of competitive procurement.",
+      "summary": "NASA is set to compete the management contract for the Jet Propulsion Laboratory, ensuring that accountability remains a priority in its space endeavors. Because nothing says 'we're serious' like a good old-fashioned bidding war.",
       "date": "2026-05-22",
       "link": "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/"
     }

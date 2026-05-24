@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity, from NASA's expanded contracts to SpaceX's latest Starship launch. Meanwhile, military satellite networks are getting a hefty budget boost, and the hypersonic test program continues to stumble.",
+  "summary": "The space and defense sectors are buzzing with activity this week, from NASA's expanded contracts to SpaceX's latest Starship launch. Meanwhile, military satellite networks are getting a hefty financial boost as the industry gears up for a more resilient future.",
   "themes": [
     {
       "icon": "▣",
-      "title": "NASA Expands Contracts",
-      "body": "NASA's decision to add missions to SpaceX's commercial crew contract signals a growing reliance on private partnerships. This move could streamline operations but also raises questions about long-term sustainability."
-    },
-    {
-      "icon": "◉",
-      "title": "Military Satellite Spending Surge",
-      "body": "The Space Force's $437 million award to Viasat and SES highlights an increasing focus on military satellite networks. With an additional $1.4 billion earmarked for space resilience in the FY27 budget, the defense sector is clearly prioritizing space capabilities."
+      "title": "NASA's Contract Expansion",
+      "body": "NASA is adding missions to its commercial crew contract with SpaceX, signaling a commitment to maintain a steady flow of astronauts to the ISS. This move also underscores the agency's reliance on private partners for operational capabilities."
     },
     {
       "icon": "▲",
-      "title": "Hypersonic Testing Woes",
-      "body": "The hypersonic glide-vehicle test has slipped yet again, marking the third consecutive quarter of delays. This trend raises concerns about the reliability of these advanced systems amid escalating global competition."
+      "title": "Military Satellite Investments",
+      "body": "The Space Force's $437 million award to Viasat and SES for a military satellite network highlights the increasing prioritization of satellite resilience. As geopolitical tensions rise, such investments are becoming essential for national security."
     },
     {
       "icon": "◆",
-      "title": "Emerging Players in Space",
-      "body": "True Anomaly's recent $190 million Series C funding round underscores the growing interest in space startups. As the industry evolves, established players like SpaceX may soon face more competition from these agile newcomers."
+      "title": "Blue Origin's Investigation Closure",
+      "body": "Blue Origin has wrapped up its investigation into the New Glenn launch failure, which is a relief for a company that has faced its share of challenges. The resolution may pave the way for renewed confidence in their future launch capabilities."
+    },
+    {
+      "icon": "◉",
+      "title": "Hypersonic Testing Delays",
+      "body": "The ongoing delays in hypersonic glide-vehicle tests, now slipping for the third consecutive quarter, raise questions about the U.S. military's readiness in this critical area. As adversaries advance, the pressure is on to accelerate these developments."
     }
   ],
-  "updated": "2026-05-24 14:28 UTC"
+  "updated": "2026-05-24 14:59 UTC"
 }
