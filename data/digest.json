@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "A week marked by significant developments in military satellite contracts and corporate maneuvering, as SpaceX and Blue Origin both make strides in their respective projects. Meanwhile, the Space Force and NASA are reshaping their strategic priorities amidst a backdrop of evolving global threats.",
+  "summary": "The space and defense sectors are buzzing with activity, from NASA's expanded contracts to SpaceX's latest Starship launch. Meanwhile, military satellite networks are getting a hefty budget boost, and the hypersonic test program continues to stumble.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Military Satellite Network Expansion",
-      "body": "The Space Force's hefty $437 million contract with Viasat and SES signals a robust push towards enhancing military satellite capabilities. This investment reflects an increasing recognition of the need for resilient space infrastructure amid growing geopolitical tensions."
+      "title": "NASA Expands Contracts",
+      "body": "NASA's decision to add missions to SpaceX's commercial crew contract signals a growing reliance on private partnerships. This move could streamline operations but also raises questions about long-term sustainability."
     },
     {
       "icon": "◉",
-      "title": "Blue Origin's Launch Recovery",
-      "body": "After a thorough investigation into the New Glenn launch failure, Blue Origin is poised to regain its footing in the competitive launch market. The resolution of this setback could be pivotal for its future contracts and credibility."
+      "title": "Military Satellite Spending Surge",
+      "body": "The Space Force's $437 million award to Viasat and SES highlights an increasing focus on military satellite networks. With an additional $1.4 billion earmarked for space resilience in the FY27 budget, the defense sector is clearly prioritizing space capabilities."
     },
     {
       "icon": "▲",
-      "title": "SpaceX's Starship V3 Launch",
-      "body": "SpaceX's launch of the first Starship V3 marks another milestone in its ambitious plans for space exploration and commercial ventures. This development not only showcases their technological prowess but also sets the stage for future endeavors in the burgeoning space economy."
+      "title": "Hypersonic Testing Woes",
+      "body": "The hypersonic glide-vehicle test has slipped yet again, marking the third consecutive quarter of delays. This trend raises concerns about the reliability of these advanced systems amid escalating global competition."
     },
     {
       "icon": "◆",
-      "title": "AUKUS and Strategic Space Infrastructure",
-      "body": "The focus on building Australia’s dual-use space infrastructure underscores the strategic importance of collaboration within the AUKUS alliance. This initiative is a clear indication of how nations are leveraging space capabilities to bolster defense and resilience."
+      "title": "Emerging Players in Space",
+      "body": "True Anomaly's recent $190 million Series C funding round underscores the growing interest in space startups. As the industry evolves, established players like SpaceX may soon face more competition from these agile newcomers."
     }
   ],
-  "updated": "2026-05-23 14:57 UTC"
+  "updated": "2026-05-24 14:28 UTC"
 }
