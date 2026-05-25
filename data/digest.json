@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity this week, from NASA's expanded contracts to SpaceX's latest Starship launch. Meanwhile, military satellite networks are getting a hefty financial boost as the industry gears up for a more resilient future.",
+  "summary": "As the space sector gears up for a busy launch season, regulatory frameworks and geopolitical dynamics continue to shape the landscape. Meanwhile, funding flows and technological advancements hint at a competitive future for both commercial and defense-oriented ventures.",
   "themes": [
     {
       "icon": "▣",
-      "title": "NASA's Contract Expansion",
-      "body": "NASA is adding missions to its commercial crew contract with SpaceX, signaling a commitment to maintain a steady flow of astronauts to the ISS. This move also underscores the agency's reliance on private partners for operational capabilities."
+      "title": "Regulatory Challenges in Space",
+      "body": "Northern Norway's readiness for launches contrasts sharply with the EU's sluggish Arctic policy. This disconnect could hinder collaborative efforts in a region increasingly vital for strategic interests."
     },
     {
       "icon": "▲",
-      "title": "Military Satellite Investments",
-      "body": "The Space Force's $437 million award to Viasat and SES for a military satellite network highlights the increasing prioritization of satellite resilience. As geopolitical tensions rise, such investments are becoming essential for national security."
-    },
-    {
-      "icon": "◆",
-      "title": "Blue Origin's Investigation Closure",
-      "body": "Blue Origin has wrapped up its investigation into the New Glenn launch failure, which is a relief for a company that has faced its share of challenges. The resolution may pave the way for renewed confidence in their future launch capabilities."
+      "title": "China's Lunar Ambitions",
+      "body": "With the arrival of the Shenzhou-23 crew at Tiangong, China's lunar aspirations are becoming clearer. Their 2030 lunar landing goal is ambitious, but the timeline may face challenges as international competition heats up."
     },
     {
       "icon": "◉",
-      "title": "Hypersonic Testing Delays",
-      "body": "The ongoing delays in hypersonic glide-vehicle tests, now slipping for the third consecutive quarter, raise questions about the U.S. military's readiness in this critical area. As adversaries advance, the pressure is on to accelerate these developments."
+      "title": "Funding Boosts for Space Resilience",
+      "body": "The FY27 budget markup adds a notable $1.4 billion for space resilience initiatives. This funding reflects a growing recognition of the need for robust defense capabilities in an increasingly contested space environment."
+    },
+    {
+      "icon": "◆",
+      "title": "Commercial Ventures Gain Momentum",
+      "body": "NASA's decision to expand its commercial crew contract with SpaceX signals confidence in private sector capabilities. Meanwhile, True Anomaly's recent funding round underscores the growing interest in innovative space solutions."
     }
   ],
-  "updated": "2026-05-24 14:59 UTC"
+  "updated": "2026-05-25 15:55 UTC"
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-24",
-  "issue": "No. 33",
-  "headline": "NASA diversifies contracts. Blue Origin resumes flights. Space Force invests.",
-  "deck": "This week sees NASA expanding its reliance on SpaceX, while Blue Origin finally clears the air on New Glenn. Meanwhile, the Space Force is throwing cash at satellite networks.",
+  "updated": "2026-05-25",
+  "issue": "No. 34",
+  "headline": "Funding flows. Contracts expand. Launches resume.",
+  "deck": "This week, funding rounds and contract expansions signal a steady pulse in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "CONTRACTS",
-      "head": "NASA adds missions to SpaceX crew contract",
-      "body": "NASA has decided to add more missions to its existing commercial crew contract with SpaceX, ensuring a backup plan if Boeing's CST-100 Starliner remains grounded. This move underscores NASA’s growing reliance on SpaceX, especially as Boeing’s spacecraft struggles with delays. The exact number of missions added hasn’t been disclosed, but it signals a clear preference for SpaceX’s operational reliability.",
-      "soWhat": "Boeing's woes are becoming SpaceX's gain, and it’s hard to see how Boeing can recover from this without a major overhaul."
-    },
-    {
-      "kicker": "FAILURES",
-      "head": "Blue Origin clears New Glenn launch failure investigation",
-      "body": "Blue Origin has completed its investigation into the New Glenn launch failure, allowing the rocket to resume preparations for future flights. The company is now hoping to avoid further detours, but the timeline for the next launch remains unclear. This comes after a series of setbacks that have kept New Glenn from its intended trajectory.",
-      "soWhat": "Resuming flights is one thing; actually launching successfully is another. Blue Origin still has a long road ahead to regain trust."
-    },
-    {
       "kicker": "FUNDING",
-      "head": "Space Force awards $437M to Viasat and SES",
-      "body": "The Space Force has awarded a $437 million contract to Viasat and SES to develop a military satellite network involving four small satellites. This funding reflects a shift towards smaller, more agile satellite solutions in military applications, which could change the landscape of defense communications. The move is also a clear signal that the Space Force is prioritizing resilience over sheer size.",
-      "soWhat": "In an age of budget constraints, smaller satellites might just be the new black for military procurement."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly has secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, a timely investment as the DoD increasingly prioritizes these capabilities. This cash influx follows the trend of defense-oriented startups attracting significant capital.",
+      "soWhat": "True Anomaly's funding highlights that even in a crowded market, defense-related ventures can still draw hefty checks—perhaps investors are finally realizing that space isn't just for satellites anymore."
+    },
+    {
+      "kicker": "CONTRACTS",
+      "head": "NASA expands SpaceX crew contract amid Boeing delays",
+      "body": "NASA has decided to add more missions to its commercial crew contract with SpaceX, a move prompted by ongoing delays in Boeing's Starliner certification. This contract expansion is part of a broader strategy to diversify crew transport options, crucial for maintaining a reliable access to the ISS. The specifics of the additional missions remain under wraps, but they underscore NASA's commitment to reducing reliance on a single provider.",
+      "soWhat": "This is a classic case of risk management in action; when one rocket stumbles, it's prudent to lean on the one that’s already flying—at least until the other one learns to walk."
+    },
+    {
+      "kicker": "LAUNCHES",
+      "head": "Blue Origin resumes launches after New Glenn investigation",
+      "body": "Blue Origin has completed its investigation into the New Glenn launch failure and is set to resume launches, a relief for a company that has faced scrutiny over its operational delays. This comes at a critical time as the launch market tightens, with competitors like SpaceX and Astra ramping up their capabilities. The company’s ability to bounce back will be closely watched by both investors and clients alike.",
+      "soWhat": "Resuming launches is a necessary step for Blue Origin, but it also raises the question: can they maintain momentum, or will they find themselves back in the launch pad waiting room?"
     }
   ],
   "watchlist": [
     {
-      "title": "SpaceX's next Starship launch",
-      "body": "With the successful launch of Starship V3, keep an eye on how quickly SpaceX can iterate and address any remaining issues."
+      "title": "Keep an eye on hypersonic testing delays",
+      "body": "Continued delays in hypersonic glide-vehicle tests could hinder U.S. defense advancements, prompting a closer look at alternative technologies."
     },
     {
-      "title": "True Anomaly's Series C impact",
-      "body": "True Anomaly's $190M raise could signal a shift in co-orbital security priorities, especially with DoD involvement."
+      "title": "Sierra Space's Dream Chaser progress",
+      "body": "With the Dream Chaser DoD variant passing its critical design review, the next steps will be crucial for its viability in upcoming missions."
     },
     {
-      "title": "NASA's reorganization outcomes",
-      "body": "Watch for the effects of NASA's sweeping reorganization on project timelines and inter-agency collaboration."
+      "title": "Palantir's TITAN program extension",
+      "body": "The $480 million extension of Palantir's TITAN program suggests ongoing confidence in its ground station capabilities amidst a competitive landscape."
     },
     {
-      "title": "Blue Origin's next steps",
-      "body": "As Blue Origin prepares for its next launch, the industry will be watching closely to see if they can finally deliver."
+      "title": "Arctic policy updates from the EU",
+      "body": "The EU's upcoming Arctic policy revisions could impact future space operations in the region, particularly for companies eyeing commercial opportunities."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains stagnant as it awaits news on commercial flights, with investors growing impatient."
+      "note": "Virgin Galactic's stock remains stagnant as commercial flights continue to face uncertainty."
     },
     {
-      "sym": "LMT",
-      "note": "Lockheed Martin's stock is holding steady, but the company must adapt to the shifting dynamics of military satellite contracts."
+      "sym": "ASTR",
+      "note": "Astranis' recent $250M funding round indicates investor confidence in its microGEO ambitions despite market challenges."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program suggests its software remains critical for military operations."
+      "note": "Palantir's stock sees a slight uptick following its TITAN program extension, reflecting investor optimism."
     },
     {
-      "sym": "AAPL",
-      "note": "Apple's interest in satellite technology could complicate the competitive landscape, as it eyes potential partnerships."
+      "sym": "BOEING",
+      "note": "Boeing's delays in Starliner certification have put pressure on its stock, as investors worry about losing ground to SpaceX."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
