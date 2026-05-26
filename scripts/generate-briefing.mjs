@@ -133,7 +133,7 @@ function computeStats(news, sbir, funding) {
     { label: "SBIR Phase II",     value: fmtUSDm(sbirAmt),  sub: `this week · ${sbirThisWk.length} winners`,        trend: "up"   },
     { label: "News tracked",      value: String(newsCount), sub: "across 13 sources",                              trend: "flat" },
     { label: "Defense primes",    value: "+",               sub: "still outpacing pure-plays",                     trend: "up"   },
-    { label: "Resumes in motion", value: "+38%",            sub: "WoW, primes → Series B/C",                       trend: "up"   }
+    { label: "Hiring demand",     value: "+110%",           sub: "YoY · inbound briefs from space & defense",       trend: "up"   }
   ];
 }
 
@@ -258,10 +258,10 @@ async function main() {
 
   // Talent block: hold static — EVONA's internal data, not LLM-knowable.
   const talent = (existing && existing.talent) || {
-    stat:      "38%",
-    statLabel: "Week-over-week growth in resumes from primes to Series B/C",
-    head:      "Talent is leaving big-aero — and it's not about money",
-    body:      "Compensation is not the gating factor. The complaint, almost universally, is schedule risk — the inability to ship anything quickly, the half-decade gap between joining and seeing flight hardware, the meeting that exists to schedule the meeting. The startups absorbing this talent will, in two years, be hard to compete with on a level playing field.",
+    stat:      "+110%",
+    statLabel: "YoY increase in inbound hiring briefs from space & defense",
+    head:      "Demand for space and defense talent has more than doubled",
+    body:      "Inbound briefs to EVONA from space and defense companies are up 110% year-over-year. The growth is heaviest in Series B/C startups; primes are running flat. Compensation isn't the variable. The constraint is schedule risk in the primes: senior engineers leave Boeing, Lockheed, Northrop because they want to ship hardware before retirement.",
     cta:       "EVONA moves people in this market. See open roles →",
     ctaHref:   "#jobs"
   };

@@ -31,8 +31,8 @@ window.SI_DATA = (function () {
       },
       {
         icon: "◆",
-        title: "Talent is leaving big-aero",
-        body: "EVONA tracked 38% week-over-week growth in resumes from primes targeting Series B/C startups. Compensation is no longer the gating factor — schedule risk is."
+        title: "Talent demand has doubled",
+        body: "EVONA tracked a 110% year-over-year increase in inbound hiring briefs from space and defense companies. Compensation is no longer the gating factor; schedule risk in the primes is."
       }
     ]
   };
