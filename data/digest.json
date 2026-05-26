@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is witnessing a mix of advancements and challenges, with new contracts and technologies emerging alongside regulatory hurdles. As the U.S. government increases its budget for space resilience, Europe’s smallsat sector struggles to gain traction.",
+  "summary": "The space and defense sectors are seeing a mix of innovation and regulatory challenges. From military budget increases in Europe to new propulsion technologies, the landscape is as dynamic as ever.",
   "themes": [
     {
       "icon": "▣",
-      "title": "DARPA's Rocket Propellant Push",
-      "body": "Voyager's recent DARPA contract for solid rocket propellant technology signals a continued interest in enhancing propulsion capabilities. This could bolster U.S. defense capabilities, but the path to practical application remains complex."
+      "title": "Military Budgets and Space Growth",
+      "body": "The surge in military budgets could provide a much-needed boost to Europe’s entrepreneurial space sector, but only if spending accelerates. As nations prioritize defense, the question remains whether this will translate into tangible support for emerging companies."
     },
     {
       "icon": "◉",
-      "title": "Europe's Small Satellite Struggles",
-      "body": "Regulatory barriers and limited access to capital are stifling growth in Europe's smallsat industry, which could hinder its competitive edge. Without a concerted effort to streamline these issues, the region risks falling behind in the burgeoning space economy."
+      "title": "Propulsion Innovations on the Rise",
+      "body": "Voyager's recent DARPA contract for solid rocket propellant technology underscores a renewed focus on propulsion advancements. Meanwhile, Chinese startup Mega Engine is making strides with its reusable staged-combustion rocket engine, hinting at a competitive edge."
     },
     {
       "icon": "▲",
-      "title": "Chinese Advances in Rocket Tech",
-      "body": "Mega Engine's progress on a reusable staged-combustion rocket engine highlights China's ambitions in the space race. This development could shift the balance of power, particularly if it leads to more cost-effective launch options."
+      "title": "Regulatory Hurdles Persist",
+      "body": "Europe's smallsat industry continues to grapple with access to capital and regulatory challenges, stifling its growth potential. This stagnation contrasts sharply with the rapid developments seen in other regions."
     },
     {
       "icon": "◆",
-      "title": "Space Force Budget Boost",
-      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, reflecting a growing recognition of the importance of space security. This funding could catalyze innovations and partnerships in the defense sector, particularly as threats evolve."
+      "title": "New Ventures and Investments",
+      "body": "True Anomaly's recent $190M Series C funding round highlights the growing interest in space domain awareness technologies. As the defense-tech IPO window begins to crack open, more startups may find themselves in the spotlight."
     }
   ],
-  "updated": "2026-05-26 16:48 UTC"
+  "updated": "2026-05-26 17:24 UTC"
 }

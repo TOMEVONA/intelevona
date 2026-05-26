@@ -1,87 +1,87 @@
 {
-  "updated": "2026-05-26T16:48:01.159Z",
+  "updated": "2026-05-26T17:24:41.233Z",
   "articles": [
     {
       "sourceId": "spacenews",
+      "title": "Starcloud orders Starlink lasers for orbital data center network",
+      "summary": "Starcloud has ordered optical terminals from SpaceX for a global data-relay network using Starlink, further entwining their fates in the orbital data center saga.",
+      "date": "2026-05-26",
+      "link": "https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "The surge in military budgets can help Europe’s entrepreneurial space sector — if spending speeds up",
+      "summary": "European defense spending is on the rise, but panelists warn that without clearing bureaucratic hurdles, the entrepreneurial space sector might remain stuck in neutral.",
+      "date": "2026-05-26",
+      "link": "https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/"
+    },
+    {
+      "sourceId": "spacenews",
       "title": "Voyager wins DARPA contract for solid rocket propellant technology",
-      "summary": "The $16.5 million award is for ‘thrust-control technology’ designed to make solid propulsion systems more adaptable across different missions and weapons programs The post Voyager wins DARPA contract for solid rocket propellant technology appeared first on SpaceNews .",
+      "summary": "Voyager has secured a $16.5 million DARPA contract for solid rocket propellant technology, proving that even rocket science needs a little thrust control.",
       "date": "2026-05-26",
       "link": "https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/"
     },
     {
       "sourceId": "spacenews",
       "title": "Regulations and access to capital continue to hinder Europe’s smallsat industry",
-      "summary": "Burdensome regulations and limited access to capital continue to act as a drag on Europe’s smallsat sector despite proposed new legislation and an influx of defense spending.",
+      "summary": "Europe’s smallsat industry is still struggling under the weight of regulations and capital access issues, despite a fresh influx of defense spending that feels more like a tease.",
       "date": "2026-05-26",
       "link": "https://spacenews.com/regulations-and-access-to-capital-continue-to-hinder-europes-smallsat-industry/"
     },
     {
       "sourceId": "spacenews",
       "title": "Chinese startup Mega Engine advances reusable staged-combustion rocket engine",
-      "summary": "A new Chinese commercial rocket engine startup has conducted a successful long-duration hot fire test of a closed-cycle kerosene-liquid oxygen engine. The post Chinese startup Mega Engine advances reusable staged-combustion rocket engine appeared first on SpaceNews .",
+      "summary": "Chinese startup Mega Engine has successfully tested a reusable staged-combustion rocket engine, reminding us that while the West debates, the East is busy launching.",
       "date": "2026-05-26",
       "link": "https://spacenews.com/chinese-startup-mega-engine-advances-reusable-staged-combustion-rocket-engine/"
     },
     {
-      "sourceId": "spacenews",
-      "title": "Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites",
-      "summary": "The companies will explore integrating Orbit Fab’s refueling interface with electric propulsion systems developed by Thales Alenia Space The post Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites appeared first on SpaceNews .",
-      "date": "2026-05-26",
-      "link": "https://spacenews.com/orbit-fab-thales-alenia-to-study-refueling-for-electric-propulsion-satellites/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
-      "summary": "Two companies best known for brokering payload space on SpaceX rideshare launches have each purchased Falcon 9 launches to meet the growing demand for such missions.",
-      "date": "2026-05-26",
-      "link": "https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/"
-    },
-    {
       "sourceId": "tectonic",
       "title": "Anduril and L3Harris team on tactical SDA constellation bid",
-      "summary": "Anduril and L3Harris are collaborating on a tactical SDA constellation bid, proving that teamwork makes the dream work—unless you're in orbit, where it's every satellite for itself.",
+      "summary": "Anduril and L3Harris are teaming up on a tactical SDA constellation bid, proving that in space, collaboration is key—unless you’re a satellite, then it’s every pixel for itself.",
       "date": "2026-05-04",
       "link": "https://tectonicdefense.com/anduril-l3harris-sda/"
     },
     {
       "sourceId": "tectonic",
       "title": "FY27 budget markup adds $1.4B to space resilience line",
-      "summary": "The FY27 budget has added $1.4 billion for space resilience, finally acknowledging that space is more than just a cosmic backdrop for sci-fi movies; it's a battleground.",
+      "summary": "The FY27 budget has added $1.4 billion for space resilience, finally recognizing that space is not just a backdrop for sci-fi but a strategic battleground.",
       "date": "2026-05-03",
       "link": "https://tectonicdefense.com/fy27-markup-space/"
     },
     {
       "sourceId": "tectonic",
       "title": "Hypersonic glide-vehicle test slips again — third quarter in a row",
-      "summary": "Hypersonic glide-vehicle tests have been delayed yet again, making 'hypothetical' feel like the new buzzword; at this rate, they might need a new marketing team.",
+      "summary": "Hypersonic glide-vehicle tests have been delayed yet again, making 'hypothetical' the new status quo; perhaps they should consider a new slogan.",
       "date": "2026-05-02",
       "link": "https://tectonicdefense.com/hgv-slip-q3/"
     },
     {
       "sourceId": "tectonic",
       "title": "Sierra Space's Dream Chaser DoD variant clears critical design review",
-      "summary": "Sierra Space's Dream Chaser DoD variant has passed its critical design review, now let’s hope the actual launch goes smoother than the paperwork process.",
+      "summary": "Sierra Space's Dream Chaser DoD variant has cleared its critical design review, now let’s see if the launch can avoid the bureaucratic black hole.",
       "date": "2026-05-01",
       "link": "https://tectonicdefense.com/dream-chaser-cdr/"
     },
     {
       "sourceId": "tectonic",
       "title": "Palantir wins $480M extension on TITAN ground station program",
-      "summary": "Palantir has snagged a $480 million extension on its TITAN program, proving that some contracts stick around longer than the average sitcom.",
+      "summary": "Palantir has extended its TITAN ground station program by $480 million, proving that some contracts have more staying power than your average TV series.",
       "date": "2026-04-29",
       "link": "https://tectonicdefense.com/palantir-titan-extension/"
     },
     {
       "sourceId": "piratewires",
       "title": "The Defense-Tech IPO Window Is Cracking Open",
-      "summary": "The defense-tech IPO window is starting to open, with investors eyeing it like a buffet; just hope the food safety concerns don’t spoil the feast.",
+      "summary": "The defense-tech IPO window is creaking open, with investors eyeing it like a buffet, just hoping the menu doesn’t include any food safety issues.",
       "date": "2026-05-04",
       "link": "https://piratewires.com/defense-ipo-window/"
     },
     {
       "sourceId": "piratewires",
       "title": "Why every YC company is suddenly 'AI for Defense'",
-      "summary": "Every YC company is now branding itself as 'AI for Defense', indicating that when innovation stalls, slapping 'AI' on it is the new trend.",
+      "summary": "Every YC company seems to be rebranding as 'AI for Defense', suggesting that when innovation stalls, a sprinkle of AI dust is the go-to solution.",
       "date": "2026-05-03",
       "link": "https://piratewires.com/yc-defense/"
     },
@@ -172,182 +172,182 @@
     {
       "sourceId": "tbpn",
       "title": "The TBPN deep-tech survey: 1,200 founders weigh in",
-      "summary": "A survey reveals that half of deep-tech founders now identify with defense, making military chic the new black in startup culture; who knew the camo look could be so appealing to VCs?",
+      "summary": "A survey shows half of deep-tech founders now align with defense, proving that military aesthetics are the latest trend for startup investors; who knew camouflage could be so fashionable?",
       "date": "2026-04-29",
       "link": "https://tbpn.com/deeptech-survey-26/"
     },
     {
       "sourceId": "ussf",
       "title": "Space Force leaders connect with public, present 'Always Above' at Western Kentucky University",
-      "summary": "Space Force leaders engaged with the public at Western Kentucky University, showcasing their mission and capabilities; apparently, 'Always Above' is better than 'Always Watching'—who knew?",
+      "summary": "Space Force leaders presented their mission at Western Kentucky University, revealing that their public relations strategy is as polished as their spacecraft.",
       "date": "2026-05-26",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4500361/space-force-leaders-connect-with-public-present-always-above-at-western-kentuck/"
     },
     {
       "sourceId": "ussf",
       "title": "DAF leaders outline readiness, modernization priorities in FY27 budget testimony",
-      "summary": "Department of the Air Force leaders detailed their FY27 budget priorities to Congress, making it clear that funding is as crucial as ever; it's always about the money, even in the sky.",
+      "summary": "DAF and War Department leaders laid out their priorities for the FY27 budget, which is basically a polite way of saying 'we need more money for shiny toys'.",
       "date": "2026-05-21",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4497991/daf-leaders-outline-readiness-modernization-priorities-in-fy27-budget-testimony/"
     },
     {
       "sourceId": "ussf",
       "title": "ICBM test launch verifies system reliability",
-      "summary": "The Air Force conducted a routine test launch of an unarmed Minuteman III missile, confirming system reliability; because nothing says 'we're ready' like a good ol' missile test.",
+      "summary": "The Air Force conducted a routine test launch of an unarmed Minuteman III missile, reminding us that even in testing, the stakes are always high.",
       "date": "2026-05-20",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4497045/icbm-test-launch-verifies-system-reliability/"
     },
     {
       "sourceId": "ussf",
       "title": "SECAF visits Space Systems Command to meet with Air and Space Force leaders and industry professionals",
-      "summary": "SECAF Troy Meink visited Space Systems Command for mission briefings and discussions with early career personnel; a classic case of 'let's inspire the future while we figure out the present.'",
+      "summary": "SECAF Troy Meink visited Space Systems Command for a day of briefings and pep talks, proving that even in defense, motivational speeches are a key component of leadership.",
       "date": "2026-05-20",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4496851/secaf-visits-space-systems-command-to-meet-with-air-and-space-force-leaders-and/"
     },
     {
       "sourceId": "ussf",
       "title": "SLD 30 celebrates 5th anniversary",
-      "summary": "SLD 30 celebrated its 5th anniversary as the USSF's West Coast hub for space launch, marking its transformation into a strategic testing powerhouse; five years in, and it's still not just a pretty launchpad.",
+      "summary": "SLD 30 celebrated its 5th anniversary as a launch hub, marking its transformation from a legacy base to a strategic player in the space race, because who doesn’t love a good makeover?",
       "date": "2026-05-18",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4494851/sld-30-celebrates-5th-anniversary/"
     },
     {
       "sourceId": "dod",
       "title": "Gold Star Spouse Turns Grief Into Advocacy",
-      "summary": "At the Coca-Cola 600, a Gold Star spouse honored fallen service members by having their names on cars, blending speed with remembrance; NASCAR just got a little more meaningful.",
+      "summary": "At the Coca-Cola 600, a Gold Star spouse turned grief into advocacy, showing that even in motorsports, there's room for remembrance amid the roar of engines.",
       "date": "2026-05-25",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4500140/gold-star-spouse-turns-grief-into-advocacy/"
     },
     {
       "sourceId": "dod",
       "title": "On Memorial Day, Commander in Chief, Secretary of War, Honor Nation's Fallen",
-      "summary": "President Trump highlighted the sacrifices of over a million service members as the U.S. approaches its 250th anniversary; a sobering reminder that freedom isn't free, but it sure comes with a hefty price tag.",
+      "summary": "On Memorial Day, President Trump emphasized the sacrifices of over a million service members, reminding us that history is often a somber affair, even when celebrated.",
       "date": "2026-05-25",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4500104/on-memorial-day-commander-in-chief-secretary-of-war-honor-nations-fallen/"
     },
     {
       "sourceId": "dod",
       "title": "Hegseth Tells West Point Cadets They Are Ready to Lead",
-      "summary": "Secretary of War Pete Hegseth reassured West Point cadets of their readiness to lead, proving that confidence is key—even if reality might be a tad more complicated.",
+      "summary": "Secretary of War Pete Hegseth reassured West Point cadets of their readiness to lead, which is a nice way of saying 'we're counting on you to fix our messes'.",
       "date": "2026-05-23",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4499909/hegseth-tells-west-point-cadets-they-are-ready-to-lead/"
     },
     {
       "sourceId": "dod",
       "title": "For Old Guard Soldiers, 'Flags In' Is a Personal Mission",
-      "summary": "Old Guard Soldiers honored fallen heroes by placing flags at Arlington National Cemetery ahead of Memorial Day; because sometimes, a simple gesture speaks louder than words.",
+      "summary": "Old Guard Soldiers honored fallen heroes by placing flags at Arlington Cemetery, proving that some traditions are as enduring as the sacrifices they commemorate.",
       "date": "2026-05-22",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4499458/for-old-guard-soldiers-flags-in-is-a-personal-mission/"
     },
     {
       "sourceId": "dod",
       "title": "War Department's 'Patriot Pipeline' Flows Talent to Arsenal of Freedom",
-      "summary": "The War Department's 'Patriot Pipeline' aims to streamline training and workforce initiatives, proving that even in defense, efficiency is the name of the game.",
+      "summary": "Undersecretary Anthony J. Tata announced Project Patriot Pipeline to streamline military training, which sounds efficient until you realize it's still the government.",
       "date": "2026-05-21",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4499103/war-departments-patriot-pipeline-flows-talent-to-arsenal-of-freedom/"
     },
     {
       "sourceId": "viasat",
       "title": "ST Engineering iDirect’s New CEO Kuppanna Talks Ground Tech’s Cloud-Native, Interoperable Future",
-      "summary": "ST Engineering iDirect appointed Sridhar Kuppanna as CEO, aiming to navigate the evolving ground tech market; in a world of constant change, good luck keeping up.",
+      "summary": "ST Engineering iDirect's new CEO Sridhar Kuppanna is steering the company through a shifting ground tech landscape, where adaptability is the name of the game.",
       "date": "2026-05-22",
       "link": "https://www.satellitetoday.com/technology/2026/05/22/st-engineering-idirects-new-ceo-kuppanna-talks-ground-techs-cloud-native-interoperable-future/"
     },
     {
       "sourceId": "viasat",
       "title": "UK Inaugurates New Space Domain Awareness Software Borealis",
-      "summary": "The UK has launched its Borealis space domain awareness software six months early, proving that sometimes deadlines are merely suggestions.",
+      "summary": "The UK has launched its Borealis space domain awareness software six months early, presumably to keep an eye on its satellites before they can hide behind a cloud of bureaucracy.",
       "date": "2026-05-22",
       "link": "https://www.satellitetoday.com/government-military/2026/05/22/uk-inaugurates-new-space-domain-awareness-software-borealis/"
     },
     {
       "sourceId": "viasat",
       "title": "Rocket Lab to Build First GEO Satellites for Space Force Space Domain Awareness Mission",
-      "summary": "Rocket Lab has landed a $90 million contract to build two GEO satellites for the U.S. Space Force, marking its entrance into the high-stakes world of military space ops.",
+      "summary": "Rocket Lab has landed a $90 million contract to build two GEO satellites for the U.S. Space Force, proving that even in defense, the sky isn't the limit.",
       "date": "2026-05-22",
       "link": "https://www.satellitetoday.com/government-military/2026/05/22/rocket-lab-to-build-first-geo-satellites-for-space-force-space-domain-awareness-mission/"
     },
     {
       "sourceId": "viasat",
       "title": "Viasat Completes D2D Demo in Uzbekistan",
-      "summary": "Viasat successfully demonstrated direct-to-device messaging in Uzbekistan, proving that even in remote areas, you can still ignore your friends with style.",
+      "summary": "Viasat has completed a direct-to-device demo in Uzbekistan, showing that even in remote places, smartphones can still find a way to annoy you.",
       "date": "2026-05-22",
       "link": "https://www.satellitetoday.com/connectivity/2026/05/22/viasat-completes-d2d-demo-in-uzbekistan/"
     },
     {
       "sourceId": "viasat",
       "title": "LatConnect 60 Looks to Raise Up to $20M in Growth Round to Fund SWIR Constellation",
-      "summary": "LatConnect 60 is seeking up to $20 million to fund its short-wave infrared satellite constellation, because who doesn't want to shoot for the stars with a little extra cash?",
+      "summary": "LatConnect 60 is seeking up to $20 million to fund its SWIR satellite constellation, because who doesn't want to see the world in even more wavelengths?",
       "date": "2026-05-21",
       "link": "https://www.satellitetoday.com/earth-observation/2026/05/21/latconnect-60-looks-to-raise-up-to-20m-in-growth-round-to-fund-swir-constellation/"
     },
     {
       "sourceId": "spacecom",
       "title": "'Redshift' blends James Webb Space Telescope, Artemis 2 and Pink Floyd into a cosmic journey through light and sound (video, photos)",
-      "summary": "'Redshift' combines the James Webb Space Telescope, Artemis 2, and Pink Floyd into an artistic experience that’s probably best enjoyed under the influence.",
+      "summary": "'Redshift' combines art and space in a way that makes you wonder if Pink Floyd really did have a hand in the universe's design.",
       "date": "2026-05-26",
       "link": "https://www.space.com/entertainment/redshift-blends-james-webb-space-telescope-artemis-2-and-pink-floyd-into-a-cosmic-journey-through-light-and-sound-video-photos"
     },
     {
       "sourceId": "spacecom",
       "title": "Seeing double with the Artemis 2 rocket boosters | Space photo of the day for May 26, 2026",
-      "summary": "The Artemis 2 rocket boosters were spotted mid-air after separation, proving that even rockets need a little space from each other sometimes.",
+      "summary": "The Artemis 2 rocket boosters were photographed mid-air after separation, proving that even rockets need a little space from each other.",
       "date": "2026-05-26",
       "link": "https://www.space.com/space-exploration/human-spaceflight/seeing-double-with-the-artemis-2-rocket-boosters-space-photo-of-the-day-for-25-2026"
     },
     {
       "sourceId": "spacecom",
       "title": "Could a cosmic uncertainty principle help explain dark matter?",
-      "summary": "A new cosmic uncertainty principle might explain dark matter without introducing any new physics, which is a relief for scientists who prefer their theories tidy.",
+      "summary": "A new theory suggests the universe might have its own uncertainty principle to explain dark energy, because why not add more mystery to the cosmos?",
       "date": "2026-05-26",
       "link": "https://www.space.com/science/particle-physics/could-a-cosmic-uncertainty-principle-help-explain-dark-matter"
     },
     {
       "sourceId": "spacecom",
       "title": "Unusual red northern lights over Japan suggest some solar storms are stronger than we thought",
-      "summary": "Crimson auroras over Japan suggest some solar storms are stronger than previously thought, leaving researchers to wonder what else they’ve underestimated in the universe.",
+      "summary": "Researchers found that unusual red northern lights over Japan suggest some solar storms are packing more punch than previously thought, making auroras the new heavyweight champions.",
       "date": "2026-05-26",
       "link": "https://www.space.com/astronomy/sun/unusual-red-northern-lights-over-japan-suggest-some-solar-storms-are-stronger-than-we-thought"
     },
     {
       "sourceId": "spacecom",
       "title": "HBO's 'Lanterns' does have some green in it after all, as latest trailer shows Hal Jordan unleashing the power of the ring (video)",
-      "summary": "HBO's 'Lanterns' trailer reveals Hal Jordan wielding the universe's most powerful weapon, which is a bit ironic considering how many times the franchise has been rebooted.",
+      "summary": "HBO's 'Lanterns' trailer shows Hal Jordan wielding the most powerful weapon in the universe, which is probably just a fancy way of saying he has a really good lawyer.",
       "date": "2026-05-26",
       "link": "https://www.space.com/entertainment/space-movies-shows/hbos-lanterns-does-have-some-green-in-it-after-all-as-latest-trailer-shows-hal-jordan-unleashing-the-power-of-the-ring-video"
     },
     {
       "sourceId": "rspace",
       "title": "Star-planet interaction in the Proxima system (Proxima d has a stronger magnetic field than Earth)",
-      "summary": "Proxima d's stronger magnetic field than Earth raises questions about star-planet interactions, proving that even in the cosmos, some relationships are more complicated than they appear.",
+      "summary": "Proxima d boasts a stronger magnetic field than Earth, which might make it the universe's best-kept secret for those who like their planets with a little extra magnetism.",
       "date": "2026-05-26",
       "link": "https://www.reddit.com/r/space/comments/1to8j00/starplanet_interaction_in_the_proxima_system/"
     },
     {
       "sourceId": "rspace",
       "title": "[issinfo.net] I built a Starlink real-time visualiser",
-      "summary": "A Reddit user has built a real-time visualizer for Starlink, proving that even satellite internet can be turned into a spectator sport.",
+      "summary": "A Reddit user built a real-time visualizer for Starlink, proving that even space enthusiasts have too much time on their hands.",
       "date": "2026-05-26",
       "link": "https://www.reddit.com/r/space/comments/1to3fhe/issinfonet_i_built_a_starlink_realtime_visualiser/"
     },
     {
       "sourceId": "rspace",
       "title": "Scientists want to send a roly-poly robot filled with 'dandelion drones' to investigate hidden tunnels on Mars.",
-      "summary": "Scientists propose sending a roly-poly robot filled with 'dandelion drones' to explore Martian tunnels, because why send one thing when you can send a whole team of tiny explorers?",
+      "summary": "Scientists are planning to send a roly-poly robot filled with 'dandelion drones' to explore hidden tunnels on Mars, because nothing says 'serious research' like a robot that rolls around.",
       "date": "2026-05-26",
       "link": "https://www.reddit.com/r/space/comments/1to1d8a/scientists_want_to_send_a_rolypoly_robot_filled/"
     },
     {
       "sourceId": "rspace",
       "title": "The growing space race to design gym equipment for astronauts.",
-      "summary": "The space race now includes gym equipment designed for astronauts, proving that even in zero gravity, fitness fads are hard to escape.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1to0whg/the_growing_space_race_to_design_gym_equipment/\"> <img src=\"https://external-preview.redd.it/o3v3jKRj1bWeecwyH_fYy0poaljndZEy-UYfm06hSQo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=db502181ef3d5f5fbba…",
       "date": "2026-05-26",
       "link": "https://www.reddit.com/r/space/comments/1to0whg/the_growing_space_race_to_design_gym_equipment/"
     },
     {
       "sourceId": "rspace",
       "title": "“NASA Perseverance found evidence of ancient water activity on Mars”",
-      "summary": "NASA's Perseverance rover has found evidence of ancient water activity on Mars, because who doesn't love a good splash in the cosmic backyard?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><blockquote> </blockquote> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/-TheCe1-\"> /u/-TheCe1- </a> <br/> <span><a…",
       "date": "2026-05-26",
       "link": "https://www.reddit.com/r/space/comments/1to0swp/nasa_perseverance_found_evidence_of_ancient_water/"
     },
@@ -388,71 +388,71 @@
     },
     {
       "sourceId": "tnw-deeptech",
+      "title": "The Netherlands just blocked a US company from buying the cloud provider that runs Dutch digital identity",
+      "summary": "The Dutch government has imposed a “complete prohibition” on the acquisition of Solvinity, a Dutch cloud provider, by Kyndryl, the American IT infrastructure company spun out of IBM in 2021.",
+      "date": "2026-05-26",
+      "link": "https://thenextweb.com/news/the-netherlands-just-blocked-a-us-company-from-buying-the-cloud-provider-that-runs-dutch-digital-identity"
+    },
+    {
+      "sourceId": "tnw-deeptech",
+      "title": "Dropbox founder Drew Houston steps down as CEO after 19 years as the company he built gets squeezed by Google and Apple",
+      "summary": "Drew Houston, the co-founder who built Dropbox from a Y Combinator demo into a company with more than 700 million registered users, is stepping down as chief executive. Ashraf Alkarmi, Dropbox’s current head of product, has been named co-CEO effective immediately.",
+      "date": "2026-05-26",
+      "link": "https://thenextweb.com/news/dropbox-ceo-drew-houston-steps-down-ashraf-alkarmi"
+    },
+    {
+      "sourceId": "tnw-deeptech",
       "title": "Brussels plans to ringfence two-thirds of EU mobile-satellite spectrum for European firms",
-      "summary": "Brussels plans to reserve two-thirds of EU mobile-satellite spectrum for local firms, leaving Starlink and Kuiper to scrabble for the leftovers.",
+      "summary": "The proposal expected to be announced on Wednesday would leave Starlink and Amazon’s Kuiper able to bid only for the remaining third of the bloc’s 2 GHz mobile-satellite band.",
       "date": "2026-05-26",
       "link": "https://thenextweb.com/news/eu-mobile-satellite-spectrum-two-thirds-european-firms"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "Stord raises $250 million to give independent brands the shipping speed they need to compete with Amazon",
-      "summary": "Stord has raised $250 million to help independent brands compete with Amazon, proving that logistics is the new black.",
+      "summary": "Stord, a logistics technology company that helps retailers manage inventory, checkout, and fulfillment, has raised $250 million in a Series F round that values the company at $3 billion.",
       "date": "2026-05-26",
       "link": "https://thenextweb.com/news/stord-raises-250-million-to-give-independent-brands-the-shipping-speed-they-need-to-compete-with-amazon"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "xAI told staff to stop mingling with Cursor employees, weeks after they started working together",
-      "summary": "Elon Musk's xAI has instructed staff to limit mingling with Cursor employees, because why share ideas when you can just share the same office?",
+      "summary": "Elon Musk’s xAI has told employees to limit their contact with staff from Cursor , the AI coding startup that SpaceX has an option to acquire for $60 billion.",
       "date": "2026-05-26",
       "link": "https://thenextweb.com/news/xai-cursor-gun-jumping-antitrust-spacex-ipo"
     },
     {
-      "sourceId": "tnw-deeptech",
-      "title": "Ferrari stock drops 7% after Luce EV reveal as investors question design and strategy",
-      "summary": "Ferrari's stock dropped 7% after the Luce EV reveal, as investors seem less than thrilled with the design and strategy.",
-      "date": "2026-05-26",
-      "link": "https://thenextweb.com/news/ferrari-stock-drops-7-after-luce-ev-reveal-as-investors-question-design-and-strategy"
-    },
-    {
-      "sourceId": "tnw-deeptech",
-      "title": "Spotify tests narrated magazine articles inside the audiobook tier",
-      "summary": "Spotify is testing narrated magazine articles within its audiobook tier, because why not add more to the audio buffet?",
-      "date": "2026-05-26",
-      "link": "https://thenextweb.com/news/spotify-narrated-magazine-articles-launch"
-    },
-    {
       "sourceId": "nasa",
       "title": "Chennai City Lights",
-      "summary": "Chennai's skyline glows under LED streetlights as seen from the ISS, proving that even from space, urban planning can look like a light show gone right.",
+      "summary": "Chennai's metropolitan glow is captured from the ISS, showcasing urban development in India, or perhaps just a really bright city planning strategy.",
       "date": "2026-05-26",
       "link": "https://www.nasa.gov/image-article/chennai-city-lights/"
     },
     {
       "sourceId": "nasa",
       "title": "New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe",
-      "summary": "NASA's PUEO mission aims to detect the universe's most energetic particles, because why not probe the extreme when you can barely handle the mundane?",
+      "summary": "NASA's PUEO mission is set to hunt for high-energy particles in the Antarctic ice, proving that even ice sheets can be cosmic detectives.",
       "date": "2026-05-26",
       "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/"
     },
     {
       "sourceId": "nasa",
       "title": "A Full Moon Checkup",
-      "summary": "Landsat 9 checks in on the Moon each full Moon to keep its data sharp, reminding us that even satellites need a little lunar therapy.",
+      "summary": "Landsat 9 conducts monthly lunar checkups during full moons, because even satellites need a little lunar TLC to stay in shape.",
       "date": "2026-05-26",
       "link": "https://science.nasa.gov/earth/earth-observatory/a-full-moon-checkup/"
     },
     {
       "sourceId": "nasa",
       "title": "Jaclyn Kagey Shapes Humanity’s Return to the Moon",
-      "summary": "Jaclyn Kagey is prepping astronauts for a lunar return as part of NASA’s Artemis program, where getting boots on the Moon is just another Tuesday.",
+      "summary": "Jaclyn Kagey is prepping astronauts for lunar excursions, reminding us that getting to the Moon requires more than just a good rocket.",
       "date": "2026-05-26",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/jaclyn-kagey-shapes-humanitys-return-to-the-moon/"
     },
     {
       "sourceId": "nasa",
       "title": "An Early “Decoration Day” Celebration",
-      "summary": "Charleston held a Decoration Day event in 1865 to honor Civil War troops, proving that the past knows how to throw a tribute party long before it was trendy.",
+      "summary": "Charleston's 1865 Decoration Day event honored Civil War soldiers, showing that even back then, people knew how to throw a heartfelt remembrance.",
       "date": "2026-05-25",
       "link": "https://science.nasa.gov/earth/earth-observatory/an-early-decoration-day-celebration/"
     }

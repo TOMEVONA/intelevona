@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-26",
   "issue": "No. 35",
-  "headline": "Funding flows. Contracts signed. Regulations loom.",
-  "deck": "This week, DARPA awards and funding rounds highlight industry dynamics amidst regulatory challenges.",
+  "headline": "Funding flows. Budgets rise. Innovation stalls.",
+  "deck": "This week sees a mix of funding successes and budget increases amid ongoing regulatory challenges.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "CONTRACTS",
-      "head": "Voyager bags $16.5M DARPA contract for rockets",
-      "body": "Voyager has secured a $16.5 million DARPA contract aimed at developing thrust-control technology for solid rocket propulsion systems. This contract is intended to enhance adaptability across various missions, which might just make solid rockets a bit less... solid in their application. If successful, this could open the door for broader use in defense and commercial sectors.",
-      "soWhat": "If Voyager can deliver, we might see a shift in how solid propulsion is integrated into diverse missions, which could rattle the status quo in propulsion tech."
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly has secured $190 million in Series C funding, pushing its valuation to $1.6 billion. The cash is aimed at enhancing co-orbital security and space domain awareness capabilities, which the DoD seems to be particularly interested in. This funding round underscores the growing importance of security in space as geopolitical tensions rise.",
+      "soWhat": "If the DoD is pulling through for True Anomaly, it suggests they see co-orbital threats as a real concern—not just a future worry."
     },
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid security concerns",
-      "body": "True Anomaly has closed a $190 million Series C round, pushing its valuation to $1.6 billion as it focuses on co-orbital security and space domain awareness. The funding reflects a growing recognition of the need for enhanced security in space, particularly as geopolitical tensions rise. This cash infusion will likely accelerate the development of their capabilities.",
-      "soWhat": "The defense pull-through is real; True Anomaly's success could signal a trend where security needs drive funding, overshadowing traditional innovation metrics."
+      "kicker": "CONTRACTS",
+      "head": "Voyager gets $16.5M DARPA boost for propellant tech",
+      "body": "Voyager has clinched a $16.5 million contract from DARPA focused on solid rocket propellant technology. This contract highlights the ongoing need for improved propulsion systems, particularly as competition in the defense sector heats up. It seems even rocket science needs a little extra funding to keep pace with modern demands.",
+      "soWhat": "The fact that DARPA is investing in propellant technology suggests they’re not just looking for quick fixes but are preparing for a long-term strategy in aerospace capabilities."
     },
     {
       "kicker": "REGULATIONS",
-      "head": "Europe's smallsat sector struggles with regulations",
-      "body": "Despite a proposed legislative overhaul, Europe's small satellite industry continues to be hampered by stringent regulations and limited access to capital. These challenges persist even as defense spending increases, indicating a disconnect between funding and operational flexibility. Companies in the sector are feeling the squeeze, with many calling for more supportive regulatory frameworks.",
-      "soWhat": "If Europe can't untangle its regulatory mess, it risks losing its competitive edge in the smallsat market to more agile players elsewhere."
+      "head": "European smallsat sector struggles despite budget boosts",
+      "body": "Despite a surge in military budgets, Europe's small satellite industry remains bogged down by regulatory hurdles and capital access issues. Panelists at a recent conference warned that without addressing these bureaucratic challenges, the potential benefits of increased defense spending may remain unrealized. It's a classic case of having the money but not being able to spend it effectively.",
+      "soWhat": "If Europe can't clear these regulatory hurdles, they risk losing ground to more agile competitors in the U.S. and Asia."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for more DARPA contracts next week",
-      "body": "With DARPA's recent focus on propulsion, expect more contracts that could reshape propulsion technologies."
+      "title": "Watch for DARPA's next funding trends",
+      "body": "With Voyager's recent contract, DARPA might be doubling down on propulsion technology, potentially signaling future funding opportunities."
+    },
+    {
+      "title": "Keep an eye on European defense budgets",
+      "body": "As military budgets rise, any shifts in regulatory frameworks could either unlock or stifle the smallsat sector's growth."
     },
     {
       "title": "True Anomaly's next moves post-funding",
-      "body": "Investors will be keen to see how True Anomaly deploys its new capital in a tightening security market."
+      "body": "Investors will be keen to see how True Anomaly utilizes its new funding to ramp up capabilities in co-orbital security."
     },
     {
-      "title": "Regulatory changes in Europe on the horizon",
-      "body": "Proposed legislation could either ease or exacerbate the challenges facing Europe's smallsat sector; keep an eye on developments."
-    },
-    {
-      "title": "Potential IPOs in defense-tech brewing",
-      "body": "As the defense-tech IPO window cracks open, companies may rush to capitalize before it slams shut again."
+      "title": "Impact of SpaceX's valuation on the market",
+      "body": "SpaceX's secondary market valuation at $470 billion could influence investor sentiment and funding dynamics across the space sector."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it approaches its next test flight."
+      "note": "Virgin Galactic's stock remains stagnant as commercial spaceflight ambitions face headwinds."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program shows its sticking power in defense contracts."
-    },
-    {
-      "sym": "SSTK",
-      "note": "Stoke Space's $260M round indicates strong investor appetite for reusable launch solutions."
+      "note": "Palantir's $480 million extension on the TITAN program shows that some defense contracts are more reliable than others."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's bullish case highlights execution risk as its only hurdle, a risky bet."
+      "note": "AST SpaceMobile's bullish case may hinge on execution risk, which could either make or break their future."
+    },
+    {
+      "sym": "SLS",
+      "note": "NASA's Space Launch System continues to face scrutiny as the agency balances budget and timeline pressures."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
