@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "As the space sector gears up for a busy launch season, regulatory frameworks and geopolitical dynamics continue to shape the landscape. Meanwhile, funding flows and technological advancements hint at a competitive future for both commercial and defense-oriented ventures.",
+  "summary": "The space industry is witnessing a mix of advancements and challenges, with new contracts and technologies emerging alongside regulatory hurdles. As the U.S. government increases its budget for space resilience, Europe’s smallsat sector struggles to gain traction.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Regulatory Challenges in Space",
-      "body": "Northern Norway's readiness for launches contrasts sharply with the EU's sluggish Arctic policy. This disconnect could hinder collaborative efforts in a region increasingly vital for strategic interests."
-    },
-    {
-      "icon": "▲",
-      "title": "China's Lunar Ambitions",
-      "body": "With the arrival of the Shenzhou-23 crew at Tiangong, China's lunar aspirations are becoming clearer. Their 2030 lunar landing goal is ambitious, but the timeline may face challenges as international competition heats up."
+      "title": "DARPA's Rocket Propellant Push",
+      "body": "Voyager's recent DARPA contract for solid rocket propellant technology signals a continued interest in enhancing propulsion capabilities. This could bolster U.S. defense capabilities, but the path to practical application remains complex."
     },
     {
       "icon": "◉",
-      "title": "Funding Boosts for Space Resilience",
-      "body": "The FY27 budget markup adds a notable $1.4 billion for space resilience initiatives. This funding reflects a growing recognition of the need for robust defense capabilities in an increasingly contested space environment."
+      "title": "Europe's Small Satellite Struggles",
+      "body": "Regulatory barriers and limited access to capital are stifling growth in Europe's smallsat industry, which could hinder its competitive edge. Without a concerted effort to streamline these issues, the region risks falling behind in the burgeoning space economy."
+    },
+    {
+      "icon": "▲",
+      "title": "Chinese Advances in Rocket Tech",
+      "body": "Mega Engine's progress on a reusable staged-combustion rocket engine highlights China's ambitions in the space race. This development could shift the balance of power, particularly if it leads to more cost-effective launch options."
     },
     {
       "icon": "◆",
-      "title": "Commercial Ventures Gain Momentum",
-      "body": "NASA's decision to expand its commercial crew contract with SpaceX signals confidence in private sector capabilities. Meanwhile, True Anomaly's recent funding round underscores the growing interest in innovative space solutions."
+      "title": "Space Force Budget Boost",
+      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, reflecting a growing recognition of the importance of space security. This funding could catalyze innovations and partnerships in the defense sector, particularly as threats evolve."
     }
   ],
-  "updated": "2026-05-25 15:55 UTC"
+  "updated": "2026-05-26 16:48 UTC"
 }
