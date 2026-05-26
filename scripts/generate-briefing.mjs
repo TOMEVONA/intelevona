@@ -133,7 +133,7 @@ function computeStats(news, sbir, funding) {
     { label: "SBIR Phase II",     value: fmtUSDm(sbirAmt),  sub: `this week · ${sbirThisWk.length} winners`,        trend: "up"   },
     { label: "News tracked",      value: String(newsCount), sub: "across 13 sources",                              trend: "flat" },
     { label: "Defense primes",    value: "+",               sub: "still outpacing pure-plays",                     trend: "up"   },
-    { label: "Hiring demand",     value: "+110%",           sub: "YoY · inbound briefs from space & defense",       trend: "up"   }
+    { label: "Hiring demand",     value: "2.0×",            sub: "Job orders YoY · 2 starters per head, 8-yr first", trend: "up"   }
   ];
 }
 
@@ -258,10 +258,10 @@ async function main() {
 
   // Talent block: hold static — EVONA's internal data, not LLM-knowable.
   const talent = (existing && existing.talent) || {
-    stat:      "+110%",
-    statLabel: "YoY increase in inbound hiring briefs from space & defense",
-    head:      "Demand for space and defense talent has more than doubled",
-    body:      "Inbound briefs to EVONA from space and defense companies are up 110% year-over-year. The growth is heaviest in Series B/C startups; primes are running flat. Compensation isn't the variable. The constraint is schedule risk in the primes: senior engineers leave Boeing, Lockheed, Northrop because they want to ship hardware before retirement.",
+    stat:      "2.0×",
+    statLabel: "Job orders YoY · plus 2 starters per head, an 8-year first",
+    head:      "Demand has doubled. So has our hit rate.",
+    body:      "EVONA's job orders are up 2.0× year-over-year, and for the first time in our eight-year history we're placing two new starters per EVONA staff member. The first number says demand is real. The second says we're converting it, which in recruitment is the only number that actually matters. Growth is heaviest in Series B/C startups; primes are running flat. Compensation isn't the variable. The constraint is schedule risk in the primes: senior engineers leave Boeing, Lockheed, Northrop because they want to ship hardware before retirement.",
     cta:       "EVONA moves people in this market. See open roles →",
     ctaHref:   "#jobs"
   };

@@ -31,8 +31,8 @@ window.SI_DATA = (function () {
       },
       {
         icon: "◆",
-        title: "Talent demand has doubled",
-        body: "EVONA tracked a 110% year-over-year increase in inbound hiring briefs from space and defense companies. Compensation is no longer the gating factor; schedule risk in the primes is."
+        title: "Demand has doubled, hit rate too",
+        body: "EVONA's job orders are up 2.0× year-over-year, and for the first time in our eight-year history we're placing two new starters per EVONA staff member. Compensation is no longer the gating factor; schedule risk in the primes is."
       }
     ]
   };
