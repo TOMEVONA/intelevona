@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-27",
   "issue": "No. 36",
-  "headline": "European red tape slows space ambitions.",
-  "deck": "EU Space Act faces criticism for hindering competitiveness.",
+  "headline": "EU Act stifles. SpinLaunch pivots. True Anomaly cashes.",
+  "deck": "This week, European regulations face backlash while True Anomaly raises significant capital.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "REGULATIONS",
-      "head": "EU Space Act could bog down industry growth.",
-      "body": "European space industry experts are warning that the EU Space Act may introduce bureaucratic hurdles that could stifle competitiveness. As the space race heats up globally, this legislation could prove to be more of a hindrance than a help. The irony is that while the EU aims to bolster its space industry, it may inadvertently be creating red tape that rivals the complexity of rocket science.",
-      "soWhat": "If the EU wants to play in the big leagues, it might want to streamline its regulations instead of adding layers that could ground innovation."
+      "head": "EU Space Act could slow competitiveness",
+      "body": "European industry insiders are expressing concerns that the EU Space Act's bureaucratic nature could hinder competitiveness in the space sector. This is reminiscent of worrying that a traffic jam will ruin your road trip—only the stakes are much higher. With companies like Kongsberg NanoAvionics eyeing sovereign satellite constellations, the timing of these regulations could not be worse.",
+      "soWhat": "If the EU can't streamline its regulations, it risks losing its competitive edge to more agile players elsewhere."
     },
     {
-      "kicker": "GEOPOLITICS",
-      "head": "SpinLaunch eyes opportunity amid geopolitical shifts.",
-      "body": "SpinLaunch's CEO has identified geopolitical changes as a potential growth avenue for the space sector. The company, known for its kinetic launch technology, sees a chance to capitalize on the shifting dynamics of international relations, suggesting that sometimes the best launchpad is a political one. This could be a savvy move in a landscape where traditional launch methods face increasing scrutiny.",
-      "soWhat": "If SpinLaunch can navigate the political landscape as deftly as it does its launches, it might just redefine how we think about entry into orbit."
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M amid defense pull",
+      "body": "True Anomaly secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The capital will strengthen its capabilities in co-orbital security and space domain awareness, areas that are becoming increasingly critical to national security. With the DoD's growing interest in these technologies, True Anomaly is positioned to benefit from rising defense budgets.",
+      "soWhat": "In a sector where cash flow often trumps tech, this funding signals that True Anomaly is playing the long game—defense contracts are the new gold rush."
     },
     {
-      "kicker": "CONTRACTS",
-      "head": "Kongsberg NanoAvionics aims for sovereign constellations.",
-      "body": "Kongsberg NanoAvionics has set its sights on building and supporting sovereign satellite constellations after securing a significant contract. This move underscores a growing trend where nations are prioritizing self-sufficiency in space capabilities. As governments look to bolster their own space assets, Kongsberg is positioning itself as a key player in a market that could see increased demand for national pride over partnership.",
-      "soWhat": "If Kongsberg's gamble pays off, we might see a resurgence of nationalistic space programs that could reshape the competitive landscape."
+      "kicker": "COLLABORATION",
+      "head": "Anduril and L3Harris team up for SDA",
+      "body": "Anduril and L3Harris have announced a partnership to bid on a tactical Space Development Agency constellation. This collaboration highlights a growing trend where defense contractors are realizing that in space, teamwork is essential—unless, of course, you're a satellite with a vendetta. As the SDA focuses on resilient architectures, this bid could reshape the competitive landscape.",
+      "soWhat": "Expect more partnerships like this as companies seek to pool resources and expertise to meet ambitious government contracts."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for EU Space Act developments.",
-      "body": "As industry experts weigh in, any amendments to the EU Space Act could significantly impact competitiveness."
+      "title": "Watch for EU Space Act backlash",
+      "body": "With industry insiders raising alarms, expect a pushback from companies that could lead to regulatory revisions."
     },
     {
-      "title": "SpinLaunch's next funding round.",
-      "body": "If geopolitical strategies continue to align, expect SpinLaunch to leverage this for a strong fundraising push."
+      "title": "True Anomaly's next moves post-funding",
+      "body": "Now that True Anomaly has cash, watch for strategic partnerships that could enhance its market position."
     },
     {
-      "title": "Kongsberg's contract details emerge.",
-      "body": "The specifics of Kongsberg's new contract may reveal insights into government priorities for national space capabilities."
+      "title": "Anduril's bid outcomes",
+      "body": "The outcome of the Anduril and L3Harris bid could signal shifts in how defense contracts are awarded in the future."
     },
     {
-      "title": "Palantir's TITAN program expansion.",
-      "body": "With a $480 million extension, Palantir's focus on the TITAN program could signal a shift in defense data management."
+      "title": "Palantir's TITAN program extension",
+      "body": "Palantir's $480 million extension may indicate a trend where legacy systems continue to dominate despite newer entrants."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates the post-launch landscape."
+      "sym": "SPACEX",
+      "note": "SpaceX's secondary market valuation hit $470 billion, making it the most valuable private aerospace company."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's extension on the TITAN program shows resilience in defense contracting."
+      "sym": "TRUE",
+      "note": "True Anomaly’s $190M raise underscores the growing demand for co-orbital security solutions."
     },
     {
-      "sym": "SSTK",
-      "note": "Stoke Space's Series C funding reflects growing interest in reusable launch technologies."
+      "sym": "KONGS",
+      "note": "Kongsberg NanoAvionics aims to build sovereign constellations, a move that could disrupt the small satellite market."
     },
     {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M Series C highlights the increasing focus on co-orbital security."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480M extension on the TITAN program shows that some contracts age like fine wine."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
