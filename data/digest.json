@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are seeing a mix of innovation and regulatory challenges. From military budget increases in Europe to new propulsion technologies, the landscape is as dynamic as ever.",
+  "summary": "The space industry is navigating a landscape marked by geopolitical tensions and regulatory hurdles, with European players voicing concerns over competitiveness. Meanwhile, funding and partnerships continue to shape the trajectory of defense and commercial space initiatives.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Military Budgets and Space Growth",
-      "body": "The surge in military budgets could provide a much-needed boost to Europe’s entrepreneurial space sector, but only if spending accelerates. As nations prioritize defense, the question remains whether this will translate into tangible support for emerging companies."
+      "title": "EU Space Act Concerns",
+      "body": "The European space industry is raising alarms that the proposed EU Space Act could hinder its competitiveness against global players. This regulatory scrutiny comes at a time when agility is crucial for maintaining relevance in a fast-evolving sector."
     },
     {
       "icon": "◉",
-      "title": "Propulsion Innovations on the Rise",
-      "body": "Voyager's recent DARPA contract for solid rocket propellant technology underscores a renewed focus on propulsion advancements. Meanwhile, Chinese startup Mega Engine is making strides with its reusable staged-combustion rocket engine, hinting at a competitive edge."
+      "title": "Geopolitics and Space Opportunities",
+      "body": "As geopolitical dynamics shift, companies like SpinLaunch are positioning themselves to capitalize on new opportunities. The evolving landscape suggests that innovation may be the best defense against external pressures."
     },
     {
       "icon": "▲",
-      "title": "Regulatory Hurdles Persist",
-      "body": "Europe's smallsat industry continues to grapple with access to capital and regulatory challenges, stifling its growth potential. This stagnation contrasts sharply with the rapid developments seen in other regions."
+      "title": "Funding for Space Resilience",
+      "body": "The recent FY27 budget markup, which adds $1.4 billion to space resilience, reflects a growing recognition of the need for robust defense capabilities in orbit. This influx of capital could spur advancements in technologies that ensure operational continuity."
     },
     {
       "icon": "◆",
-      "title": "New Ventures and Investments",
-      "body": "True Anomaly's recent $190M Series C funding round highlights the growing interest in space domain awareness technologies. As the defense-tech IPO window begins to crack open, more startups may find themselves in the spotlight."
+      "title": "Tactical Constellation Collaborations",
+      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, signaling a trend toward collaborative approaches in defense space initiatives. Such partnerships may be essential for navigating the complexities of modern military requirements."
     }
   ],
-  "updated": "2026-05-26 17:24 UTC"
+  "updated": "2026-05-27 16:42 UTC"
 }
