@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is navigating a complex landscape where geopolitical tensions and regulatory frameworks are reshaping competitiveness. Meanwhile, funding continues to flow into innovative ventures, signaling a cautious optimism amid the challenges.",
+  "summary": "The space and defense sectors are buzzing with activity as new players enter the in-orbit servicing market and military initiatives gain traction in Europe. Meanwhile, budget allocations and technological advancements continue to shape the landscape.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Regulatory Concerns in Europe",
-      "body": "The EU Space Act is raising alarms among European space firms, who fear it could hinder their competitive edge in a rapidly evolving market. As the industry grapples with these regulations, the emphasis on agility becomes even more critical."
-    },
-    {
-      "icon": "◉",
-      "title": "Geopolitical Shifts Open Opportunities",
-      "body": "As global tensions rise, companies like SpinLaunch are finding new avenues for growth, capitalizing on the shifting dynamics of space access. This could lead to innovative solutions that challenge traditional launch methods."
+      "title": "In-Orbit Servicing Takes Off",
+      "body": "Revolv Space's deal with Infinite Orbits marks a notable entry into the in-orbit servicing market, signaling a growing recognition of its potential. This sector could redefine how we think about satellite longevity and maintenance."
     },
     {
       "icon": "▲",
-      "title": "Funding Flows into Space Ventures",
-      "body": "Recent investments, including True Anomaly's $190M Series C, highlight a growing confidence in the space sector's potential. With the Defense-Tech IPO window showing signs of life, expect more startups to vie for a piece of the action."
+      "title": "Military Space Command Initiatives",
+      "body": "Germany's push for a European military space command reflects a broader trend of nations seeking to bolster their defense capabilities in space. As geopolitical tensions rise, expect more collaborative efforts among European nations."
     },
     {
       "icon": "◆",
-      "title": "Military and Commercial Collaborations",
-      "body": "The partnership between Anduril and L3Harris on a tactical SDA constellation bid underscores the increasing overlap between military needs and commercial capabilities. This trend could redefine how defense and space industries collaborate in the future."
+      "title": "Budget Boost for Space Resilience",
+      "body": "The FY27 budget markup's $1.4 billion addition to space resilience underscores a strategic pivot towards safeguarding space assets. This funding could enhance the U.S. military's operational capabilities in an increasingly contested environment."
+    },
+    {
+      "icon": "◉",
+      "title": "Hypersonic Tests Continue to Slip",
+      "body": "The repeated delays in hypersonic glide-vehicle tests raise questions about the pace of U.S. advancements in this critical area. As rivals make strides, the pressure mounts to deliver on these ambitious programs."
     }
   ],
-  "updated": "2026-05-27 17:00 UTC"
+  "updated": "2026-05-28 16:58 UTC"
 }

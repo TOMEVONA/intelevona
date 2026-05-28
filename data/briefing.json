@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-27",
-  "issue": "No. 36",
-  "headline": "EU Act stifles. SpinLaunch pivots. True Anomaly cashes.",
-  "deck": "This week, European regulations face backlash while True Anomaly raises significant capital.",
+  "updated": "2026-05-28",
+  "issue": "No. 37",
+  "headline": "Germany pushes space command. True Anomaly raises funds. SpaceX valuation soars.",
+  "deck": "This week highlights European military ambitions and substantial funding rounds in space tech.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "REGULATIONS",
-      "head": "EU Space Act could slow competitiveness",
-      "body": "European industry insiders are expressing concerns that the EU Space Act's bureaucratic nature could hinder competitiveness in the space sector. This is reminiscent of worrying that a traffic jam will ruin your road trip—only the stakes are much higher. With companies like Kongsberg NanoAvionics eyeing sovereign satellite constellations, the timing of these regulations could not be worse.",
-      "soWhat": "If the EU can't streamline its regulations, it risks losing its competitive edge to more agile players elsewhere."
-    },
-    {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid defense pull",
-      "body": "True Anomaly secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The capital will strengthen its capabilities in co-orbital security and space domain awareness, areas that are becoming increasingly critical to national security. With the DoD's growing interest in these technologies, True Anomaly is positioned to benefit from rising defense budgets.",
-      "soWhat": "In a sector where cash flow often trumps tech, this funding signals that True Anomaly is playing the long game—defense contracts are the new gold rush."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured $190 million in a Series C funding round, boosting its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, with the Department of Defense driving interest. As military contracts become a lifeline, True Anomaly's growth may be less about innovation and more about strategic timing.",
+      "soWhat": "This funding underscores the shift towards defense-centric space solutions, where funding isn't just about technology but survival in a crowded market."
     },
     {
       "kicker": "COLLABORATION",
-      "head": "Anduril and L3Harris team up for SDA",
-      "body": "Anduril and L3Harris have announced a partnership to bid on a tactical Space Development Agency constellation. This collaboration highlights a growing trend where defense contractors are realizing that in space, teamwork is essential—unless, of course, you're a satellite with a vendetta. As the SDA focuses on resilient architectures, this bid could reshape the competitive landscape.",
-      "soWhat": "Expect more partnerships like this as companies seek to pool resources and expertise to meet ambitious government contracts."
+      "head": "Anduril and L3Harris team for tactical SDA constellation",
+      "body": "Anduril and L3Harris have partnered to bid on a tactical Space Development Agency constellation, highlighting the increasing importance of collaboration in defense contracting. The push for a more integrated approach to space operations reflects a broader trend in defense procurement. In a world where solo acts fade, teamwork is the new rock star.",
+      "soWhat": "This collaboration signals that the future of space defense will rely heavily on partnerships, not lone wolves, to meet complex operational demands."
+    },
+    {
+      "kicker": "INITIATIVE",
+      "head": "Germany advocates for European military space command",
+      "body": "Germany is pushing for a European military space command to enhance operational efficiency, signaling a potential shift in the continent's approach to defense. This initiative aims to streamline operations and could lead to a unified strategy among EU nations. If successful, it might finally make the European space sector less of a patchwork quilt and more of a cohesive unit.",
+      "soWhat": "This move could reshape the European defense landscape, but it also raises questions about national sovereignty and collaboration—who will really play nice?"
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for EU Space Act backlash",
-      "body": "With industry insiders raising alarms, expect a pushback from companies that could lead to regulatory revisions."
+      "title": "Keep an eye on True Anomaly's progress",
+      "body": "With $190M in new funding, True Anomaly's next steps could influence the co-orbital security landscape significantly."
     },
     {
-      "title": "True Anomaly's next moves post-funding",
-      "body": "Now that True Anomaly has cash, watch for strategic partnerships that could enhance its market position."
-    },
-    {
-      "title": "Anduril's bid outcomes",
-      "body": "The outcome of the Anduril and L3Harris bid could signal shifts in how defense contracts are awarded in the future."
+      "title": "Germany's military command initiative unfolds",
+      "body": "Watch for developments in Germany's push for a military space command; it could set a precedent for EU defense policy."
     },
     {
       "title": "Palantir's TITAN program extension",
-      "body": "Palantir's $480 million extension may indicate a trend where legacy systems continue to dominate despite newer entrants."
+      "body": "Palantir's $480M extension on the TITAN program may signal increasing reliance on data analytics in defense strategies."
+    },
+    {
+      "title": "Sierra Space's Dream Chaser execution",
+      "body": "Sierra Space's progress on the Dream Chaser DoD variant will be closely watched as it moves from design to execution."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPACEX",
-      "note": "SpaceX's secondary market valuation hit $470 billion, making it the most valuable private aerospace company."
-    },
-    {
-      "sym": "TRUE",
-      "note": "True Anomaly’s $190M raise underscores the growing demand for co-orbital security solutions."
-    },
-    {
-      "sym": "KONGS",
-      "note": "Kongsberg NanoAvionics aims to build sovereign constellations, a move that could disrupt the small satellite market."
+      "note": "SpaceX's secondary market valuation has hit $470B, making it a prime example of how hype can inflate valuations."
     },
     {
       "sym": "PALANTIR",
-      "note": "Palantir's $480M extension on the TITAN program shows that some contracts age like fine wine."
+      "note": "Palantir's recent $480M extension on the TITAN program shows that some contracts mature into valuable assets."
+    },
+    {
+      "sym": "TRUEANOMALY",
+      "note": "True Anomaly's $190M Series C funding illustrates that cash flow often trumps actual technological innovation."
+    },
+    {
+      "sym": "ASTS",
+      "note": "The bullish case for ASTS suggests execution risk is the only hurdle left, which is either a blessing or a curse."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
