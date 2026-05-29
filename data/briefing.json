@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-29",
   "issue": "No. 38",
-  "headline": "Funding flows. Rockets explode. Geospatial warfare intensifies.",
-  "deck": "This week saw a mix of funding rounds, explosive tests, and military applications of spatial data.",
+  "headline": "Space Force spends big. Startups scramble. IPOs loom.",
+  "deck": "This week saw hefty contracts and rising interest in defense tech funding.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
+      "kicker": "CONTRACTS",
+      "head": "SpaceX nets $4.16 billion for tracking satellites",
+      "body": "The Space Force awarded SpaceX $4.16 billion to develop a satellite network for airborne target tracking, reinforcing their preference for established players over competitive bidding. This contract underscores the military's reliance on SpaceX's capabilities, leaving other contenders in the dust.",
+      "soWhat": "When you've got the government as a loyal customer, who needs a competitive market?"
+    },
+    {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190 million in a Series C funding round, focusing on co-orbital security and space domain awareness. The funding is a clear signal that the Department of Defense is keen on enhancing its capabilities in this area, as evidenced by the recent influx of defense contracts. With a valuation now at $1.6 billion, True Anomaly is positioning itself as a key player in a rapidly growing market.",
-      "soWhat": "The defense pull-through here suggests that even in space, cash flow trumps pure tech innovation—investors want to see tangible military applications."
+      "head": "True Anomaly raises $190 million amid defense push",
+      "body": "True Anomaly secured a $190 million Series C round, drawing attention to its co-orbital security and space domain awareness services. This funding reflects a strong pull from the Department of Defense, as the military increasingly turns to private firms for advanced capabilities.",
+      "soWhat": "In defense, it seems that cash flow is now a better indicator of innovation than actual tech prowess."
     },
     {
-      "kicker": "EXPLOSIONS",
-      "head": "Blue Origin's New Glenn rocket explodes during test",
-      "body": "A Blue Origin New Glenn rocket exploded during a hotfire test at Cape Canaveral, reminding everyone that not all tests go as planned. This incident raises questions about the reliability of the rocket, which is crucial for its upcoming missions. With SpaceX dominating the launch market, Blue Origin's setbacks could further delay its entry into the competitive landscape.",
-      "soWhat": "In a market where reliability is paramount, this explosion may set Blue Origin back in the race against SpaceX, which is already a few laps ahead."
-    },
-    {
-      "kicker": "WARFARE",
-      "head": "Spatial data weaponized in US-Iran conflict",
-      "body": "The use of spatial data as a weapon in the ongoing US-Iran conflict underscores the blurring lines between military and civil applications. As both sides leverage geospatial intelligence, companies providing this data are likely to see increased demand. The geopolitical implications of this trend could reshape how nations approach conflict in the digital age.",
-      "soWhat": "As maps become battlefields, firms in geospatial tech may find themselves on the front lines, raising the stakes for their products and services."
+      "kicker": "TECH",
+      "head": "Bellatrix and TelePIX aim for air-breathing VLEO demo",
+      "body": "Bellatrix and TelePIX are targeting a 2028 demonstration of air-breathing very low Earth orbit (VLEO) imaging technology. This ambitious project highlights the growing interest in using atmospheric propulsion for space applications, a concept that could challenge traditional launch methods.",
+      "soWhat": "If this works, it could redefine how we think about getting payloads into orbit—assuming they don't run out of air first."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Bellatrix and TelePIX",
-      "body": "Their planned 2028 air-breathing engine demonstration could redefine propulsion in very low Earth orbit."
+      "title": "Keep an eye on SpaceX's next moves",
+      "body": "With a massive contract in hand, SpaceX's strategy will be crucial to watch as they balance military and commercial interests."
     },
     {
-      "title": "Watch for Anduril and L3Harris partnership",
-      "body": "Their tactical SDA constellation bid could signal a new wave of collaboration in defense tech."
+      "title": "True Anomaly's growth trajectory",
+      "body": "The influx of capital could accelerate True Anomaly's development timeline, making them a key player in co-orbital security."
     },
     {
-      "title": "Monitor GPS jamming trends",
-      "body": "With jamming returning to pre-2024 levels, expect implications for both military and commercial aviation."
+      "title": "Upcoming defense-tech IPOs",
+      "body": "As the defense-tech IPO window opens, expect a flurry of activity as companies rush to capitalize before regulatory hurdles arise."
     },
     {
-      "title": "Follow Palantir's TITAN program extension",
-      "body": "The $480 million extension indicates continued confidence in Palantir's capabilities in military applications."
+      "title": "Sierra Space's next steps post-design review",
+      "body": "Having cleared a critical design review, Sierra Space's Dream Chaser variant will be under pressure to deliver on its promises in the coming months."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates its path to commercial space tourism."
-    },
-    {
-      "sym": "LMT",
-      "note": "Lockheed Martin's shares are buoyed by the $1.4B budget increase for space resilience."
+      "note": "Virgin Galactic's stock remains stagnant as they await meaningful revenue."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's stock is riding high on the $480M TITAN extension, proving its worth in defense."
+      "note": "Palantir's $480 million extension on TITAN shows they’re still a defense favorite."
     },
     {
-      "sym": "AER",
-      "note": "Aerojet Rocketdyne's future looks uncertain as competitors ramp up their propulsion technologies."
+      "sym": "KLR",
+      "note": "Kleos Space continues to navigate the complexities of satellite deployment amid competitive pressures."
+    },
+    {
+      "sym": "SFT",
+      "note": "Stoke Space's $260 million round positions them well for future launches, but execution risk remains."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
