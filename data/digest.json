@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity as new players enter the in-orbit servicing market and military initiatives gain traction in Europe. Meanwhile, budget allocations and technological advancements continue to shape the landscape.",
+  "summary": "The space and defense sectors are buzzing with activity, from budget boosts to new partnerships. Startups are eyeing defense contracts while established players grapple with setbacks and advancements.",
   "themes": [
     {
       "icon": "▣",
-      "title": "In-Orbit Servicing Takes Off",
-      "body": "Revolv Space's deal with Infinite Orbits marks a notable entry into the in-orbit servicing market, signaling a growing recognition of its potential. This sector could redefine how we think about satellite longevity and maintenance."
-    },
-    {
-      "icon": "▲",
-      "title": "Military Space Command Initiatives",
-      "body": "Germany's push for a European military space command reflects a broader trend of nations seeking to bolster their defense capabilities in space. As geopolitical tensions rise, expect more collaborative efforts among European nations."
-    },
-    {
-      "icon": "◆",
-      "title": "Budget Boost for Space Resilience",
-      "body": "The FY27 budget markup's $1.4 billion addition to space resilience underscores a strategic pivot towards safeguarding space assets. This funding could enhance the U.S. military's operational capabilities in an increasingly contested environment."
+      "title": "Defense Contracts on the Rise",
+      "body": "The Space Force's new playbook aims to streamline access for startups seeking defense business, indicating a shift towards greater commercial integration. Meanwhile, the FY27 budget markup adds $1.4 billion to space resilience, highlighting the growing importance of defense in space."
     },
     {
       "icon": "◉",
-      "title": "Hypersonic Tests Continue to Slip",
-      "body": "The repeated delays in hypersonic glide-vehicle tests raise questions about the pace of U.S. advancements in this critical area. As rivals make strides, the pressure mounts to deliver on these ambitious programs."
+      "title": "Rocketry Setbacks and Advances",
+      "body": "China is gearing up to launch its latest batch of reusable rockets, showcasing its continued ambition in space. In contrast, the New Glenn rocket's explosion at Cape Canaveral serves as a stark reminder of the inherent risks in this high-stakes industry."
+    },
+    {
+      "icon": "▲",
+      "title": "Data as a Strategic Asset",
+      "body": "The utilization of spatial data in the US-Iran conflict underscores its emerging role as a weapon of war. This trend is further reflected in companies like Slingshot, which are strategically positioning themselves to provide military-grade space domain awareness."
+    },
+    {
+      "icon": "◆",
+      "title": "Investment Trends in Space",
+      "body": "True Anomaly's recent $190 million Series C funding round signals robust investor interest in space tech. Additionally, the defense-tech IPO window appears to be inching open, suggesting a potential wave of public offerings in the near future."
     }
   ],
-  "updated": "2026-05-28 16:58 UTC"
+  "updated": "2026-05-29 16:47 UTC"
 }

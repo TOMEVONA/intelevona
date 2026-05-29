@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-28",
-  "issue": "No. 37",
-  "headline": "Germany pushes space command. True Anomaly raises funds. SpaceX valuation soars.",
-  "deck": "This week highlights European military ambitions and substantial funding rounds in space tech.",
+  "updated": "2026-05-29",
+  "issue": "No. 38",
+  "headline": "Funding flows. Rockets explode. Geospatial warfare intensifies.",
+  "deck": "This week saw a mix of funding rounds, explosive tests, and military applications of spatial data.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190 million in a Series C funding round, boosting its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, with the Department of Defense driving interest. As military contracts become a lifeline, True Anomaly's growth may be less about innovation and more about strategic timing.",
-      "soWhat": "This funding underscores the shift towards defense-centric space solutions, where funding isn't just about technology but survival in a crowded market."
+      "body": "True Anomaly secured $190 million in a Series C funding round, focusing on co-orbital security and space domain awareness. The funding is a clear signal that the Department of Defense is keen on enhancing its capabilities in this area, as evidenced by the recent influx of defense contracts. With a valuation now at $1.6 billion, True Anomaly is positioning itself as a key player in a rapidly growing market.",
+      "soWhat": "The defense pull-through here suggests that even in space, cash flow trumps pure tech innovation—investors want to see tangible military applications."
     },
     {
-      "kicker": "COLLABORATION",
-      "head": "Anduril and L3Harris team for tactical SDA constellation",
-      "body": "Anduril and L3Harris have partnered to bid on a tactical Space Development Agency constellation, highlighting the increasing importance of collaboration in defense contracting. The push for a more integrated approach to space operations reflects a broader trend in defense procurement. In a world where solo acts fade, teamwork is the new rock star.",
-      "soWhat": "This collaboration signals that the future of space defense will rely heavily on partnerships, not lone wolves, to meet complex operational demands."
+      "kicker": "EXPLOSIONS",
+      "head": "Blue Origin's New Glenn rocket explodes during test",
+      "body": "A Blue Origin New Glenn rocket exploded during a hotfire test at Cape Canaveral, reminding everyone that not all tests go as planned. This incident raises questions about the reliability of the rocket, which is crucial for its upcoming missions. With SpaceX dominating the launch market, Blue Origin's setbacks could further delay its entry into the competitive landscape.",
+      "soWhat": "In a market where reliability is paramount, this explosion may set Blue Origin back in the race against SpaceX, which is already a few laps ahead."
     },
     {
-      "kicker": "INITIATIVE",
-      "head": "Germany advocates for European military space command",
-      "body": "Germany is pushing for a European military space command to enhance operational efficiency, signaling a potential shift in the continent's approach to defense. This initiative aims to streamline operations and could lead to a unified strategy among EU nations. If successful, it might finally make the European space sector less of a patchwork quilt and more of a cohesive unit.",
-      "soWhat": "This move could reshape the European defense landscape, but it also raises questions about national sovereignty and collaboration—who will really play nice?"
+      "kicker": "WARFARE",
+      "head": "Spatial data weaponized in US-Iran conflict",
+      "body": "The use of spatial data as a weapon in the ongoing US-Iran conflict underscores the blurring lines between military and civil applications. As both sides leverage geospatial intelligence, companies providing this data are likely to see increased demand. The geopolitical implications of this trend could reshape how nations approach conflict in the digital age.",
+      "soWhat": "As maps become battlefields, firms in geospatial tech may find themselves on the front lines, raising the stakes for their products and services."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on True Anomaly's progress",
-      "body": "With $190M in new funding, True Anomaly's next steps could influence the co-orbital security landscape significantly."
+      "title": "Keep an eye on Bellatrix and TelePIX",
+      "body": "Their planned 2028 air-breathing engine demonstration could redefine propulsion in very low Earth orbit."
     },
     {
-      "title": "Germany's military command initiative unfolds",
-      "body": "Watch for developments in Germany's push for a military space command; it could set a precedent for EU defense policy."
+      "title": "Watch for Anduril and L3Harris partnership",
+      "body": "Their tactical SDA constellation bid could signal a new wave of collaboration in defense tech."
     },
     {
-      "title": "Palantir's TITAN program extension",
-      "body": "Palantir's $480M extension on the TITAN program may signal increasing reliance on data analytics in defense strategies."
+      "title": "Monitor GPS jamming trends",
+      "body": "With jamming returning to pre-2024 levels, expect implications for both military and commercial aviation."
     },
     {
-      "title": "Sierra Space's Dream Chaser execution",
-      "body": "Sierra Space's progress on the Dream Chaser DoD variant will be closely watched as it moves from design to execution."
+      "title": "Follow Palantir's TITAN program extension",
+      "body": "The $480 million extension indicates continued confidence in Palantir's capabilities in military applications."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPACEX",
-      "note": "SpaceX's secondary market valuation has hit $470B, making it a prime example of how hype can inflate valuations."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains volatile as it navigates its path to commercial space tourism."
     },
     {
-      "sym": "PALANTIR",
-      "note": "Palantir's recent $480M extension on the TITAN program shows that some contracts mature into valuable assets."
+      "sym": "LMT",
+      "note": "Lockheed Martin's shares are buoyed by the $1.4B budget increase for space resilience."
     },
     {
-      "sym": "TRUEANOMALY",
-      "note": "True Anomaly's $190M Series C funding illustrates that cash flow often trumps actual technological innovation."
+      "sym": "PLTR",
+      "note": "Palantir's stock is riding high on the $480M TITAN extension, proving its worth in defense."
     },
     {
-      "sym": "ASTS",
-      "note": "The bullish case for ASTS suggests execution risk is the only hurdle left, which is either a blessing or a curse."
+      "sym": "AER",
+      "note": "Aerojet Rocketdyne's future looks uncertain as competitors ramp up their propulsion technologies."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
