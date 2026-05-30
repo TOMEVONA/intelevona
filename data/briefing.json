@@ -1,8 +1,8 @@
 {
   "updated": "2026-05-30",
   "issue": "No. 39",
-  "headline": "Space Force spends big. Startups strategize. Investors eye IPOs.",
-  "deck": "This week saw significant defense contracts and funding rounds, revealing the tight-knit web of aerospace and defense.",
+  "headline": "Space Force spends big. Startups strategize. Data becomes warfare.",
+  "deck": "This week saw hefty contracts, strategic guidance for startups, and the weaponization of spatial data.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "CONTRACTS",
-      "head": "SpaceX cashes in with $4.16 billion contract",
-      "body": "The Space Force awarded SpaceX a hefty $4.16 billion to develop a satellite network for tracking airborne threats. This contract underscores the importance of established relationships in defense procurement, where familiarity often trumps competitive bids. SpaceX continues to solidify its role as a go-to contractor for the military.",
-      "soWhat": "In a world where new entrants struggle, SpaceX’s dominance in defense contracts is a reminder that sometimes it pays to be the well-connected insider."
+      "head": "Space Force hands SpaceX $4.16 billion contract",
+      "body": "The U.S. Space Force awarded SpaceX a substantial $4.16 billion to develop a satellite network for tracking airborne threats. This contract underscores the government's increasing reliance on private aerospace capabilities, as SpaceX continues to dominate the defense sector. With this deal, SpaceX solidifies its position as a key player in national security.",
+      "soWhat": "When the government spends this much on one player, it raises questions about competition and the future of smaller contractors."
+    },
+    {
+      "kicker": "STARTUPS",
+      "head": "Space Force offers startups a playbook for defense contracts",
+      "body": "The Space Force's COMSO chief shared insights on securing defense contracts, emphasizing that charm and clarity can sometimes outweigh technical prowess. This guidance comes at a time when startups are scrambling for a foothold in the lucrative defense sector, especially as the FY27 budget earmarks an additional $1.4 billion for space resilience.",
+      "soWhat": "If charm is the new currency, we might see a wave of slick pitches that prioritize marketing over substance."
     },
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid defense focus",
-      "body": "True Anomaly secured $190 million in a Series C funding round, valuing the co-orbital security firm at $1.6 billion. With the Department of Defense increasingly pulling through for such startups, this funding signals a growing appetite for innovative solutions in space domain awareness. Investors are clearly betting on the military's need for enhanced security measures.",
-      "soWhat": "True Anomaly's success reflects a broader trend: as defense budgets swell, startups offering niche solutions are becoming the new darlings of venture capital."
-    },
-    {
-      "kicker": "INNOVATION",
-      "head": "Sierra Space's Dream Chaser clears design review",
-      "body": "Sierra Space's Dream Chaser variant for the Department of Defense has passed its critical design review, paving the way for further development. This spacecraft is designed to support various military missions, but the real test will be its ability to meet stringent timelines and budget constraints. The stakes are high as expectations mount.",
-      "soWhat": "Clearing a design review is just the first hurdle; the real challenge lies in execution, where many promising projects stumble."
+      "head": "True Anomaly raises $190M amid defense pull-through",
+      "body": "True Anomaly secured $190 million in a Series C funding round, reaching a valuation of $1.6 billion. The company focuses on co-orbital security and space domain awareness, capitalizing on the Department of Defense's increasing interest in these capabilities. This funding reflects the broader trend of cash flow favoring companies with defense applications.",
+      "soWhat": "In space, it seems that the money is flowing toward security rather than exploration—perhaps a sign of the times."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on SpaceX's next moves",
-      "body": "With a $4.16 billion contract under its belt, SpaceX's strategic decisions will be crucial for its future defense projects."
+      "title": "SpaceX's satellite network development timeline",
+      "body": "With a $4.16 billion contract in hand, all eyes will be on SpaceX's execution timeline and potential delays."
     },
     {
-      "title": "True Anomaly's growth trajectory",
-      "body": "Investors will be watching how True Anomaly leverages its recent funding to expand its market presence in co-orbital security."
+      "title": "Defense-tech IPOs gaining traction",
+      "body": "The defense-tech IPO window is opening, and investors will be keen to see which companies capitalize on it first."
     },
     {
-      "title": "Sierra Space's next steps post-review",
-      "body": "The real test now for Sierra Space is how quickly it can progress from design to actual deployment, especially under tight defense timelines."
+      "title": "True Anomaly's market positioning",
+      "body": "As True Anomaly expands, its ability to deliver on promises will be scrutinized—investors will want to see results."
     },
     {
-      "title": "Potential IPOs in defense-tech",
-      "body": "With the defense-tech IPO window cracking open, startups might soon need to decide between staying private or taking the plunge into public markets."
+      "title": "China's rocket launch readiness",
+      "body": "With new rockets ready to launch, the space race dynamics may shift, especially in the context of U.S.-China relations."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates funding challenges and operational delays."
+      "sym": "SPACEX",
+      "note": "SpaceX's $4.16B contract with the Space Force further cements its dominance in the defense sector."
+    },
+    {
+      "sym": "TRUE",
+      "note": "True Anomaly's $190M Series C indicates strong investor confidence in defense-related space technologies."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480 million extension on the TITAN program shows its enduring relevance in defense contracts."
-    },
-    {
-      "sym": "SLS",
-      "note": "Sierra Space's progress on the Dream Chaser might influence market perceptions of its long-term viability."
+      "note": "Palantir's $480M extension on its TITAN program shows that long-term contracts can keep companies afloat."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's latest charts suggest a promising outlook, but execution remains the key variable."
+      "note": "ASTS is in the spotlight as its bull case is illustrated in 11 charts—investors are cautiously optimistic."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
