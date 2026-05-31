@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-30",
-  "issue": "No. 39",
-  "headline": "Space Force spends big. Startups strategize. Data becomes warfare.",
-  "deck": "This week saw hefty contracts, strategic guidance for startups, and the weaponization of spatial data.",
+  "updated": "2026-05-31",
+  "issue": "No. 40",
+  "headline": "SpaceX cashes in. Blue Origin stumbles. VCs circle.",
+  "deck": "This week highlights major defense contracts and funding rounds, with a side of timing mishaps.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "CONTRACTS",
-      "head": "Space Force hands SpaceX $4.16 billion contract",
-      "body": "The U.S. Space Force awarded SpaceX a substantial $4.16 billion to develop a satellite network for tracking airborne threats. This contract underscores the government's increasing reliance on private aerospace capabilities, as SpaceX continues to dominate the defense sector. With this deal, SpaceX solidifies its position as a key player in national security.",
-      "soWhat": "When the government spends this much on one player, it raises questions about competition and the future of smaller contractors."
+      "head": "SpaceX nets $4.16B for airborne tracking network",
+      "body": "The Space Force awarded SpaceX a $4.16 billion contract to develop a satellite network for tracking airborne threats, further solidifying its role in the defense sector. This contract follows a pattern where defense budgets seem to have no ceiling, especially when it comes to SpaceX. With this win, SpaceX continues to demonstrate that its value proposition extends beyond just launching rockets.",
+      "soWhat": "If SpaceX keeps landing these contracts, it might just become the military’s favorite child—watch out, Blue Origin."
     },
     {
-      "kicker": "STARTUPS",
-      "head": "Space Force offers startups a playbook for defense contracts",
-      "body": "The Space Force's COMSO chief shared insights on securing defense contracts, emphasizing that charm and clarity can sometimes outweigh technical prowess. This guidance comes at a time when startups are scrambling for a foothold in the lucrative defense sector, especially as the FY27 budget earmarks an additional $1.4 billion for space resilience.",
-      "soWhat": "If charm is the new currency, we might see a wave of slick pitches that prioritize marketing over substance."
+      "kicker": "EXPLOSIONS",
+      "head": "Blue Origin's timing fails spectacularly post-launch order",
+      "body": "Blue Origin received a national security launch task order just hours before a New Glenn explosion, a reminder that in aerospace, timing is everything—especially when it involves rocket launches. The company is still trying to recover from this setback, as it also grapples with the implications for future contracts. As they say, failure is not an option, but it seems Blue Origin is testing that theory.",
+      "soWhat": "If this keeps up, Blue Origin may need to rethink its marketing strategy—'We launch rockets, and sometimes they explode.'"
     },
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid defense pull-through",
-      "body": "True Anomaly secured $190 million in a Series C funding round, reaching a valuation of $1.6 billion. The company focuses on co-orbital security and space domain awareness, capitalizing on the Department of Defense's increasing interest in these capabilities. This funding reflects the broader trend of cash flow favoring companies with defense applications.",
-      "soWhat": "In space, it seems that the money is flowing toward security rather than exploration—perhaps a sign of the times."
+      "head": "True Anomaly raises $190M amid defense hype",
+      "body": "True Anomaly secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. This funding comes as the company focuses on co-orbital security and space domain awareness, areas that are increasingly prioritized by the DoD. Investors seem to be betting that cash will flow as fast as the threats in space.",
+      "soWhat": "In a world where cash often trumps innovation, True Anomaly's funding is a clear signal that defense dollars are the new gold."
     }
   ],
   "watchlist": [
     {
-      "title": "SpaceX's satellite network development timeline",
-      "body": "With a $4.16 billion contract in hand, all eyes will be on SpaceX's execution timeline and potential delays."
+      "title": "SpaceX's next contract could be bigger",
+      "body": "With the recent $4.16 billion deal, the market will be watching for further contracts as SpaceX continues to expand its defense portfolio."
     },
     {
-      "title": "Defense-tech IPOs gaining traction",
-      "body": "The defense-tech IPO window is opening, and investors will be keen to see which companies capitalize on it first."
+      "title": "Blue Origin's recovery strategy",
+      "body": "Expect Blue Origin to outline a clear recovery strategy in the wake of the New Glenn explosion, as they need to reassure stakeholders."
     },
     {
-      "title": "True Anomaly's market positioning",
-      "body": "As True Anomaly expands, its ability to deliver on promises will be scrutinized—investors will want to see results."
+      "title": "True Anomaly's next funding round",
+      "body": "With $190 million in hand, True Anomaly may be looking for strategic partnerships or additional funding to scale operations further."
     },
     {
-      "title": "China's rocket launch readiness",
-      "body": "With new rockets ready to launch, the space race dynamics may shift, especially in the context of U.S.-China relations."
+      "title": "Defense budget discussions heat up",
+      "body": "As FY27 budget discussions progress, expect more insights into how much cash will flow into space resilience projects."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPACEX",
-      "note": "SpaceX's $4.16B contract with the Space Force further cements its dominance in the defense sector."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains stagnant, reflecting investor skepticism over its commercial viability."
     },
     {
-      "sym": "TRUE",
-      "note": "True Anomaly's $190M Series C indicates strong investor confidence in defense-related space technologies."
+      "sym": "BLDE",
+      "note": "Blade Air Mobility is still trying to pivot from hype to real revenue—good luck with that."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on its TITAN program shows that long-term contracts can keep companies afloat."
+      "note": "Palantir's $480M extension on the TITAN program shows that some contracts age like fine wine."
     },
     {
-      "sym": "ASTS",
-      "note": "ASTS is in the spotlight as its bull case is illustrated in 11 charts—investors are cautiously optimistic."
+      "sym": "AAPL",
+      "note": "Apple's interest in satellite technology is worth watching, as it could signal a new direction for consumer tech."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity as the Space Force continues to invest heavily in satellite capabilities, while startups scramble to navigate the defense landscape. Meanwhile, international developments and technological advancements hint at a rapidly evolving strategic environment.",
+  "summary": "This week saw a mix of strategic moves and setbacks in the space and defense sectors. SpaceX continues to dominate with substantial contracts, while Blue Origin's recent mishap raises questions about its reliability.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Space Force's Big Bet",
-      "body": "The Space Force's $4.16 billion award to SpaceX for airborne target tracking satellites underscores a pivotal shift towards reliance on commercial partnerships. This move not only boosts SpaceX's already impressive portfolio but also signals the military's increasing trust in private sector innovation."
+      "title": "SpaceX's Expanding Empire",
+      "body": "With a $4.16 billion contract from the Space Force for a satellite network and plans for Starfall reentry vehicles, SpaceX is solidifying its role as a key player in defense. Their ability to secure funding and contracts suggests a robust pipeline, despite the occasional turbulence."
     },
     {
       "icon": "◉",
-      "title": "Startups Eye Defense Market",
-      "body": "With the Space Force's commercial gatekeeper offering guidance, defense startups are eager to tap into government contracts. The playbook may help demystify the often opaque world of defense procurement, but the competition will remain fierce."
+      "title": "Blue Origin's Launch Woes",
+      "body": "The explosion of Blue Origin's New Glenn launch pad just hours after receiving a national security task order raises eyebrows about its operational readiness. This incident could have ripple effects on its commercial and governmental partnerships."
     },
     {
       "icon": "▲",
-      "title": "China's Rocket Ambitions",
-      "body": "China's imminent launches of new reusable rockets highlight its determination to expand its presence in space. As geopolitical tensions simmer, these advancements may shift the balance of power in orbital capabilities."
+      "title": "Defense Budgets on the Rise",
+      "body": "The FY27 budget markup adding $1.4 billion to space resilience indicates a growing recognition of the need for robust space capabilities. This influx of cash may also signal increased competition among startups vying for defense contracts."
     },
     {
       "icon": "◆",
-      "title": "Funding Flows in Space Tech",
-      "body": "True Anomaly's recent $190 million Series C round illustrates the growing investor appetite for space technology firms. As defense needs evolve, capital is increasingly directed towards companies that can offer innovative solutions in this critical sector."
+      "title": "Emerging Players in Space Tech",
+      "body": "Startups like True Anomaly and Bellatrix are making headlines with significant funding rounds and ambitious projects. As the Defense-Tech IPO window opens, these companies could reshape the landscape, provided they can navigate the complexities of government contracts."
     }
   ],
-  "updated": "2026-05-30 15:02 UTC"
+  "updated": "2026-05-31 14:50 UTC"
 }
