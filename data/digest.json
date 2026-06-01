@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week saw a mix of strategic moves and setbacks in the space and defense sectors. SpaceX continues to dominate with substantial contracts, while Blue Origin's recent mishap raises questions about its reliability.",
+  "summary": "The space industry is witnessing a mix of strategic partnerships and regulatory shifts, with Northrop Grumman and Apex teaming up on interceptors while spaceport facility bonds become law. Meanwhile, China's launch activities continue unabated, and the launch market feels the strain from recent setbacks.",
   "themes": [
     {
       "icon": "▣",
-      "title": "SpaceX's Expanding Empire",
-      "body": "With a $4.16 billion contract from the Space Force for a satellite network and plans for Starfall reentry vehicles, SpaceX is solidifying its role as a key player in defense. Their ability to secure funding and contracts suggests a robust pipeline, despite the occasional turbulence."
+      "title": "Partnerships in Space Defense",
+      "body": "Northrop Grumman's collaboration with Apex on space-based interceptors signals a growing emphasis on defensive capabilities in orbit. This trend is likely to attract further partnerships as nations prioritize space security."
     },
     {
       "icon": "◉",
-      "title": "Blue Origin's Launch Woes",
-      "body": "The explosion of Blue Origin's New Glenn launch pad just hours after receiving a national security task order raises eyebrows about its operational readiness. This incident could have ripple effects on its commercial and governmental partnerships."
+      "title": "Regulatory Changes Ahead",
+      "body": "The recent passage of spaceport facility bonds could reshape how space infrastructure is financed, potentially unlocking new investment avenues. This legislative shift may also encourage more private players to enter the market."
     },
     {
       "icon": "▲",
-      "title": "Defense Budgets on the Rise",
-      "body": "The FY27 budget markup adding $1.4 billion to space resilience indicates a growing recognition of the need for robust space capabilities. This influx of cash may also signal increased competition among startups vying for defense contracts."
+      "title": "China's Launch Surge",
+      "body": "China's unexpected launch of the Long March 12B, coupled with its test of direct-to-device satellites, underscores its aggressive push in space capabilities. Such developments may heighten competitive tensions in the global space race."
     },
     {
       "icon": "◆",
-      "title": "Emerging Players in Space Tech",
-      "body": "Startups like True Anomaly and Bellatrix are making headlines with significant funding rounds and ambitious projects. As the Defense-Tech IPO window opens, these companies could reshape the landscape, provided they can navigate the complexities of government contracts."
+      "title": "Launch Market Woes",
+      "body": "The failure of Blue Origin's New Glenn rocket adds to the ongoing challenges facing the launch market, which is already grappling with capacity constraints. Stakeholders will need to reassess timelines and strategies as reliability issues persist."
     }
   ],
-  "updated": "2026-05-31 14:50 UTC"
+  "updated": "2026-06-01 18:43 UTC"
 }

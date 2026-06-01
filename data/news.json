@@ -1,59 +1,59 @@
 {
-  "updated": "2026-05-31T15:15:38.440Z",
+  "updated": "2026-06-01T18:43:30.146Z",
   "articles": [
     {
       "sourceId": "spacenews",
-      "title": "FAA documents outline SpaceX plans for Starfall reentry vehicles",
-      "summary": "FAA documents reveal SpaceX's plans for reentry vehicles to support in-space manufacturing, because why not add reentry to the list of things we can make in space.",
-      "date": "2026-05-31",
-      "link": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/"
+      "title": "Northrop Grumman partners with Apex on space-based interceptors for Golden Dome",
+      "summary": "Northrop Grumman has partnered with Apex to develop space-based interceptors for the Golden Dome project, which sounds like a fancy name for a satellite defense initiative.",
+      "date": "2026-06-01",
+      "link": "https://spacenews.com/northrop-grumman-partners-with-apex-on-space-based-interceptors-for-golden-dome/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Blue Origin gets national security launch task order hours before New Glenn explosion",
-      "summary": "Blue Origin received a national security launch task order just hours before the New Glenn rocket exploded, proving that timing is everything—except when it isn’t.",
-      "date": "2026-05-30",
-      "link": "https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/"
+      "title": "Spaceport facility bonds are now law – and they fundamentally change space infrastructure finance",
+      "summary": "New legislation now allows for spaceport facility bonds, potentially reshaping how we finance our trips to the final frontier, because who doesn't love a good bond?",
+      "date": "2026-06-01",
+      "link": "https://spacenews.com/spaceport-facility-bonds-are-now-law-and-they-fundamentally-change-space-infrastructure-finance/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking",
-      "summary": "Space Force awarded SpaceX $4.16 billion to build a satellite network for tracking airborne threats, because keeping an eye on the skies is apparently a full-time job now.",
-      "date": "2026-05-29",
-      "link": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/"
+      "title": "China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight",
+      "summary": "China's Long March 12B rocket made a surprise debut launch, delivering the Qianfan satellites to orbit without any fanfare, because why bother with a press release?",
+      "date": "2026-06-01",
+      "link": "https://spacenews.com/china-conducts-surprise-launch-of-long-march-12b-delivers-qianfan-satellites-on-debut-flight/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Space Force’s commercial gatekeeper offers a playbook for startups seeking defense business",
-      "summary": "Space Force's COMSO chief outlined a playbook for startups seeking defense contracts, emphasizing that patience and military value matter more than just flashy tech.",
-      "date": "2026-05-29",
-      "link": "https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/"
+      "title": "New Glenn failure worsens constrained launch market",
+      "summary": "The New Glenn rocket's explosion has further tightened an already constrained launch market, proving that some rockets are better at self-destruction than liftoff.",
+      "date": "2026-06-01",
+      "link": "https://spacenews.com/new-glenn-failure-worsens-constrained-launch-market/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration",
-      "summary": "Bellatrix and TelePIX are planning a 2028 imaging demonstration in very low Earth orbit, which sounds like a great way to see if the Earth looks different from lower down.",
-      "date": "2026-05-29",
-      "link": "https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/"
+      "title": "China launches test direct-to-device satellites for multiple projects",
+      "summary": "China launched four new test satellites for direct-to-device internet, demonstrating that when it comes to satellite launches, they don't believe in taking breaks.",
+      "date": "2026-06-01",
+      "link": "https://spacenews.com/china-launches-test-direct-to-device-satellites-for-multiple-projects/"
     },
     {
       "sourceId": "tectonic",
       "title": "Anduril and L3Harris team on tactical SDA constellation bid",
-      "summary": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, highlighting that collaboration is essential—unless you're trying to steal the spotlight from Musk.",
+      "summary": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, because nothing says teamwork like trying to outmaneuver Musk.",
       "date": "2026-05-04",
       "link": "https://tectonicdefense.com/anduril-l3harris-sda/"
     },
     {
       "sourceId": "tectonic",
       "title": "FY27 budget markup adds $1.4B to space resilience line",
-      "summary": "The FY27 budget markup adds $1.4 billion for space resilience, finally treating space like the strategic battleground it is, rather than just a celestial playground.",
+      "summary": "The FY27 budget markup adds $1.4 billion for space resilience, finally acknowledging that space is not just for stargazing but also for strategic posturing.",
       "date": "2026-05-03",
       "link": "https://tectonicdefense.com/fy27-markup-space/"
     },
     {
       "sourceId": "tectonic",
       "title": "Hypersonic glide-vehicle test slips again — third quarter in a row",
-      "summary": "Hypersonic glide-vehicle tests have been delayed again, making their reliability as predictable as a cat's mood—good luck planning around that.",
+      "summary": "Hypersonic glide-vehicle tests have been delayed yet again, making their reliability as predictable as a cat's mood—good luck planning around that.",
       "date": "2026-05-02",
       "link": "https://tectonicdefense.com/hgv-slip-q3/"
     },
@@ -67,7 +67,7 @@
     {
       "sourceId": "tectonic",
       "title": "Palantir wins $480M extension on TITAN ground station program",
-      "summary": "Palantir secured a $480 million extension on its TITAN program, proving that some contracts can age like fine wine, while others resemble expired yogurt.",
+      "summary": "Palantir has secured a $480 million extension on its TITAN ground station program, proving that some contracts can age like fine wine, while others resemble expired yogurt.",
       "date": "2026-04-29",
       "link": "https://tectonicdefense.com/palantir-titan-extension/"
     },
@@ -172,289 +172,289 @@
     {
       "sourceId": "tbpn",
       "title": "The TBPN deep-tech survey: 1,200 founders weigh in",
-      "summary": "A survey reveals that half of deep-tech founders are now eyeing defense, making military chic the latest trend in startup culture; who knew camouflage could be so fashionable?",
+      "summary": "A survey shows half of deep-tech founders are now eyeing defense, proving that military chic is the new black in startup culture.",
       "date": "2026-04-29",
       "link": "https://tbpn.com/deeptech-survey-26/"
     },
     {
       "sourceId": "ussf",
-      "title": "Vice president, SecAF congratulate class of 2026",
-      "summary": "Vice President JD Vance and SecAF Troy Meink congratulated over 900 graduates at the U.S. Air Force Academy's Class of 2026 ceremony; it's nice to see someone else get a diploma for flying high.",
-      "date": "2026-05-29",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4503619/vice-president-secaf-congratulate-class-of-2026/"
+      "title": "DAF selects partner for commercialized on-base lodging",
+      "summary": "The DAF has chosen a commercial partner to revamp its on-base lodging, because nothing says 'military efficiency' like outsourcing hospitality.",
+      "date": "2026-05-13",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4485915/daf-selects-partner-for-commercialized-on-base-lodging/"
     },
     {
       "sourceId": "ussf",
-      "title": "Space Force leaders connect with public, present 'Always Above' at Western Kentucky University",
-      "summary": "Space Force leaders participated in a panel at Western Kentucky University to discuss their mission and capabilities; apparently, 'Always Above' is their motto and not just a reminder to avoid low-flying drones.",
-      "date": "2026-05-26",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4500361/space-force-leaders-connect-with-public-present-always-above-at-western-kentuck/"
+      "title": "2026 USO Guardian of the Year: STARCOM instructor helps shape next generation of Guardians",
+      "summary": "The USO honored Gudgeon for his quick thinking during medical emergencies, reminding us that sometimes the real heroes wear camo.",
+      "date": "2026-05-13",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4485330/2026-uso-guardian-of-the-year-starcom-instructor-helps-shape-next-generation-of/"
     },
     {
       "sourceId": "ussf",
-      "title": "DAF leaders outline readiness, modernization priorities in FY27 budget testimony",
-      "summary": "DAF leaders testified before Congress on the FY27 budget, outlining readiness and modernization priorities; it seems the budget is always ready for a makeover.",
-      "date": "2026-05-21",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4497991/daf-leaders-outline-readiness-modernization-priorities-in-fy27-budget-testimony/"
+      "title": "Space Force releases officer career development path",
+      "summary": "The Space Force has released a career development framework for officers, ensuring they can juggle space ops and cyber like a circus performer.",
+      "date": "2026-05-08",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4480451/space-force-releases-officer-career-development-path/"
     },
     {
       "sourceId": "ussf",
-      "title": "ICBM test launch verifies system reliability",
-      "summary": "The Air Force Global Strike Command conducted a routine test launch of an unarmed Minuteman III missile, verifying system reliability; it’s reassuring to know that some things still work as intended.",
-      "date": "2026-05-20",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4497045/icbm-test-launch-verifies-system-reliability/"
+      "title": "New deep space radar capability employed early",
+      "summary": "A new deep space radar capability is being utilized early, showcasing the benefits of a transpacific friendship between the U.S., Australia, and the UK.",
+      "date": "2026-05-04",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4476937/new-deep-space-radar-capability-employed-early/"
     },
     {
       "sourceId": "ussf",
-      "title": "SECAF visits Space Systems Command to meet with Air and Space Force leaders and industry professionals",
-      "summary": "SECAF Troy Meink visited Space Systems Command for discussions with Air and Space Force leaders; nothing like a little face time to remind everyone who’s in charge of the stars.",
-      "date": "2026-05-20",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4496851/secaf-visits-space-systems-command-to-meet-with-air-and-space-force-leaders-and/"
+      "title": "Securing the high ground: US-Australian alliance a decisive advantage in space",
+      "summary": "Lt. Gen. Gagnon warned that space is now a warfighting domain, which is a polite way of saying 'the final frontier just got a lot less friendly'.",
+      "date": "2026-05-01",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4475859/securing-the-high-ground-us-australian-alliance-a-decisive-advantage-in-space/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "2026 MHS Conference Keynote Speaker Thanks Military Medicine for His Recovery",
+      "summary": "Medal of Honor recipient Florent Groberg shared his recovery story at the Military Health System Conference, proving that survival is the ultimate leadership lesson.",
+      "date": "2026-06-01",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4505223/2026-mhs-conference-keynote-speaker-thanks-military-medicine-for-his-recovery/"
     },
     {
       "sourceId": "dod",
       "title": "Hegseth Outlines U.S. Vision For Indo-Pacific at Annual Asia Defense Summit",
-      "summary": "Secretary of War Pete Hegseth outlined the U.S. vision for the Indo-Pacific at the Asia Defense Summit; it looks like the Pacific is still a hotbed for strategic real estate.",
+      "summary": "Secretary Hegseth laid out the U.S. vision for the Indo-Pacific at a defense summit, because nothing says strategy like a good PowerPoint in Singapore.",
       "date": "2026-05-30",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4504672/hegseth-outlines-us-vision-for-indo-pacific-at-annual-asia-defense-summit/"
     },
     {
       "sourceId": "dod",
       "title": "Texas Military Department Partners With Civilian Agencies for 2026 SAREX",
-      "summary": "The Texas Military Department partnered with civilian agencies for the 2026 Search and Rescue Exercise, celebrating 12 years of interagency collaboration; it’s nice when everyone can play nice in the sandbox.",
+      "summary": "The Texas Military Department teamed up with civilian agencies for a Search and Rescue Exercise, proving that teamwork makes the dream work—even in a state as big as Texas.",
       "date": "2026-05-29",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4504346/texas-military-department-partners-with-civilian-agencies-for-2026-sarex/"
     },
     {
       "sourceId": "dod",
       "title": "44th Medical Brigade Integrates Drones Into Medical Resupply Operations",
-      "summary": "The 44th Medical Brigade is integrating drones into medical resupply operations, enhancing battlefield support; because why not deliver medical supplies with a side of aerial acrobatics?",
+      "summary": "The 44th Medical Brigade is integrating drones into medical resupply operations, because why walk when you can fly your band-aids in?",
       "date": "2026-05-29",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4503788/44th-medical-brigade-integrates-drones-into-medical-resupply-operations/"
     },
     {
       "sourceId": "dod",
       "title": "War Department Signs $9.7B Technology Deal With Dell for Microsoft Services",
-      "summary": "The War Department signed a $9.7 billion contract with Dell for Microsoft Services, expected to save $422 million annually; it’s comforting to know they’re still getting a deal on tech.",
+      "summary": "The War Department signed a $9.7 billion deal with Dell for Microsoft Services, a classic case of 'if you can't beat 'em, outsource to 'em'.",
       "date": "2026-05-28",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4502292/war-department-signs-97b-technology-deal-with-dell-for-microsoft-services/"
     },
     {
-      "sourceId": "dod",
-      "title": "Personal Property Activity Expands PCS Support Across Joint Force",
-      "summary": "The Personal Property Activity is ramping up support for service members during peak PCS season with a 24/7 call center; because moving is stressful enough without having to figure out who to call.",
-      "date": "2026-05-28",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4501024/personal-property-activity-expands-pcs-support-across-joint-force/"
-    },
-    {
       "sourceId": "viasat",
       "title": "SpaceX Gets Nearly $4.2 Billion Nod From Space Force For Initial SB-AMTI",
-      "summary": "SpaceX received nearly $4.2 billion from the Space Force for initial SB-AMTI contracts; it seems the stars are aligning nicely for Elon and his space ambitions.",
+      "summary": "SpaceX received nearly $4.2 billion from the Space Force for initial SB-AMTI work, which is just another day at the office for Elon Musk.",
       "date": "2026-05-29",
       "link": "https://www.satellitetoday.com/government-military/2026/05/29/spacex-gets-nearly-4-2-billion-nod-from-space-force-for-initial-sb-amti/"
     },
     {
       "sourceId": "viasat",
       "title": "Sateliot Wins New Telenor IoT Deal",
-      "summary": "Sateliot secured an IoT partnership with Telenor, proving that even satellites need a good telecom buddy to thrive in the Nordic chill.",
+      "summary": "Sateliot has struck an IoT partnership deal with Telenor, expanding its satellite reach in the Nordic region; it's nice to see someone still investing in satellite tech while others are busy exploding rockets.",
       "date": "2026-05-29",
       "link": "https://www.satellitetoday.com/connectivity/2026/05/29/sateliot-wins-new-telenor-iot-deal/"
     },
     {
       "sourceId": "viasat",
       "title": "Viasat Full Year ‘26 Takeaways: Record Revenue, Equatys Moves Forward",
-      "summary": "Viasat reported record revenue for 2026, yet somehow still managed to miss the stabilization boat in maritime and broadband—classic overachievement.",
+      "summary": "Viasat reported record revenue for 2026 but failed to stabilize its maritime and fixed broadband sectors; perhaps they should consider a new strategy beyond just breaking records.",
       "date": "2026-05-29",
       "link": "https://www.satellitetoday.com/finance/2026/05/29/viasat-full-year-26-takeaways-record-revenue-equatys-moves-forward/"
     },
     {
       "sourceId": "viasat",
       "title": "Blue Origin’s Launch Pad Explosion Could Impact Timelines for Commercial Customers, NASA Missions",
-      "summary": "Blue Origin's New Glenn rocket faced a launch pad explosion, which is a dramatic way to remind commercial customers that space is not for the faint of heart.",
+      "summary": "Blue Origin's New Glenn rocket faced a significant setback after an explosion at Cape Canaveral, likely delaying both commercial launches and NASA missions; nothing like a little pyrotechnics to spice up a launch schedule.",
       "date": "2026-05-29",
       "link": "https://www.satellitetoday.com/launch/2026/05/29/blue-origins-launch-pad-explosion-could-impact-timelines-for-commercial-customers-nasa-missions/"
     },
     {
       "sourceId": "viasat",
       "title": "EU Targets User Terminal Tech Advancements Ahead of IRIS²",
-      "summary": "The EU is seeking innovative user terminal tech for the IRIS² constellation, because who doesn’t love a good tender in the name of space efficiency?",
+      "summary": "The EU is seeking innovative user terminal tech proposals for its IRIS² satellite constellation; because if there's one thing Europe loves, it's making sure its satellites are well-connected.",
       "date": "2026-05-29",
       "link": "https://www.satellitetoday.com/technology/2026/05/28/eu-targets-user-terminal-tech-advancements-ahead-of-iris%c2%b2/"
     },
     {
       "sourceId": "spacecom",
-      "title": "Watch this bio-inspired Mars rover concept 'swim' through sand on curved wheels (video)",
-      "summary": "A bio-inspired Mars rover concept mimics the sandfish lizard, proving that nature still has better ideas for space travel than most engineers.",
-      "date": "2026-05-31",
-      "link": "https://www.space.com/technology/watch-this-bio-inspired-mars-rover-concept-swim-through-sand-on-curved-wheels-video"
+      "title": "Rocket goes boom, satellite cameras zoom: Explosive Blue Origin damage is visible from space",
+      "summary": "Satellite imagery revealed the extensive damage from Blue Origin's launch pad explosion, proving that sometimes you can see a disaster from space; who knew rocket science came with a side of aerial photography?",
+      "date": "2026-06-01",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-goes-boom-satellite-cameras-zoom-explosive-blue-origin-damage-is-visible-from-space"
     },
     {
       "sourceId": "spacecom",
-      "title": "The 11 best cozy sci-fi games for those chill cosmic vibes",
-      "summary": "A list of cozy sci-fi games invites players to chill in space, because sometimes the universe is just too vast for actual conflict.",
-      "date": "2026-05-31",
-      "link": "https://www.space.com/entertainment/space-games/the-11-best-cozy-sci-fi-games-for-those-chill-cosmic-vibes"
+      "title": "NASA's X-59 jet is ready to break the sound barrier for the 1st time this month",
+      "summary": "NASA's X-59 jet is poised to break the sound barrier for the first time this month, which is great news for those who enjoy the sound of progress—just not the sound of a sonic boom.",
+      "date": "2026-06-01",
+      "link": "https://www.space.com/technology/aerospace/nasas-x-59-jet-is-ready-to-break-the-sound-barrier-for-the-1st-time-this-month"
     },
     {
       "sourceId": "spacecom",
-      "title": "Can solar sails really send humans out into interstellar space?",
-      "summary": "The feasibility of solar sails for interstellar travel is being discussed, which sounds like a great way to avoid awkward small talk on long journeys.",
-      "date": "2026-05-31",
-      "link": "https://www.space.com/astronomy/can-solar-sails-really-send-humans-out-into-interstellar-space"
+      "title": "It had the power! The weird origins of He-Man, Skeletor, and the 'Masters of the Universe'",
+      "summary": "Mattel's He-Man and Skeletor have a surprisingly convoluted origin story, which is fitting for a franchise that has always been a bit of a mash-up; perhaps they should have stuck to simpler plots.",
+      "date": "2026-06-01",
+      "link": "https://www.space.com/entertainment/it-had-the-power-the-weird-origins-of-he-man-skeletor-and-the-masters-of-the-universe"
     },
     {
       "sourceId": "spacecom",
-      "title": "'For All Mankind' star Wrenn Schmidt on her character's journey from NASA's mission control to the slammer (interview)",
-      "summary": "'For All Mankind' star Wrenn Schmidt discusses her character's prison time, reminding us that even astronauts can have a rocky career trajectory.",
-      "date": "2026-05-30",
-      "link": "https://www.space.com/entertainment/space-movies-shows/for-all-mankind-star-wrenn-schmidt-on-her-characters-journey-from-nasas-mission-control-to-the-slammer-interview"
+      "title": "The 2025 hurricane season was devastating. Will 2026 be calmer?",
+      "summary": "NOAA predicts a below-normal number of named storms for the 2026 hurricane season, which is a relief for those who prefer their weather events less dramatic and more predictable.",
+      "date": "2026-06-01",
+      "link": "https://www.space.com/astronomy/earth/the-2025-hurricane-season-was-devastating-will-2026-be-calmer"
     },
     {
       "sourceId": "spacecom",
-      "title": "This Week In Space podcast: Episode 212 — Kabooms, Starship, and a Moon Base",
-      "summary": "This Week In Space podcast covered Blue Origin's New Glenn loss, because nothing says 'space news' like a good old-fashioned rocket mishap.",
-      "date": "2026-05-30",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-212-kabooms-starship-and-a-moon-base"
+      "title": "Manhattanhenge is back! | Space photo of the day for June 1, 2026",
+      "summary": "Manhattanhenge returns for 2026, offering city dwellers a chance to witness the sun perfectly align with the streets; it's the one time New Yorkers can appreciate the sun without getting sunburned.",
+      "date": "2026-06-01",
+      "link": "https://www.space.com/stargazing/manhattanhenge-is-back-space-photo-of-the-day-for-june-1-2026"
     },
     {
       "sourceId": "rspace",
-      "title": "The meteor that blew up over Massachusetts on Saturday was a good reminder that space is way busier than most of us think about day to day.",
-      "summary": "A meteor exploded over Massachusetts, a reminder that space debris is like a surprise party—nobody really wants it but it happens anyway.",
-      "date": "2026-05-31",
-      "link": "https://www.reddit.com/r/space/comments/1tsw8bf/the_meteor_that_blew_up_over_massachusetts_on/"
+      "title": "Amazon's satellite internet chief addresses Blue Origin explosion: Read the memo",
+      "summary": "Amazon's satellite internet chief addressed the Blue Origin explosion in a memo, reminding us that even in chaos, corporate communication must remain calm and collected; after all, someone has to keep it professional.",
+      "date": "2026-06-01",
+      "link": "https://www.reddit.com/r/space/comments/1ttyt54/amazons_satellite_internet_chief_addresses_blue/"
     },
     {
       "sourceId": "rspace",
-      "title": "Dashcam in Central New York captures video of meteor heard entering atmosphere near Boston",
-      "summary": "A dashcam captured a meteor entering the atmosphere near Boston, proving that even in the age of smartphones, some cosmic events still go viral.",
-      "date": "2026-05-31",
-      "link": "https://www.reddit.com/r/space/comments/1tsuvlj/dashcam_in_central_new_york_captures_video_of/"
+      "title": "FAA documents outline SpaceX plans for Starfall reentry vehicles",
+      "summary": "FAA documents reveal SpaceX's plans for Starfall reentry vehicles, showing that while rockets may explode, the paperwork is still moving forward; nothing says 'business as usual' like regulatory compliance.",
+      "date": "2026-06-01",
+      "link": "https://www.reddit.com/r/space/comments/1ttxoxf/faa_documents_outline_spacex_plans_for_starfall/"
     },
     {
       "sourceId": "rspace",
-      "title": "Meteor explodes over United States, triggering sonic boom",
-      "summary": "A meteor explosion over the U.S. triggered a sonic boom, showcasing that space rocks can make quite the entrance, even if they aren't invited.",
-      "date": "2026-05-31",
-      "link": "https://www.reddit.com/r/space/comments/1tsndtb/meteor_explodes_over_united_states_triggering/"
+      "title": "New high res satellite imagery showing the damage to LC-36 by New Glenn's May 28 explosion with a before and after comparison",
+      "summary": "New high-resolution satellite imagery shows the damage from New Glenn's explosion at LC-36, providing a stark reminder that in the world of aerospace, one moment of failure can be captured for posterity.",
+      "date": "2026-06-01",
+      "link": "https://www.reddit.com/r/space/comments/1ttqdnw/new_high_res_satellite_imagery_showing_the_damage/"
     },
     {
       "sourceId": "rspace",
-      "title": "Huge booms reported as meteor travelling at 75,000mph shakes US buildings | US News | Sky News",
-      "summary": "A meteor traveling at 75,000 mph reportedly shook buildings across the US, proving that even the sky isn't immune to causing a ruckus.",
-      "date": "2026-05-31",
-      "link": "https://www.reddit.com/r/space/comments/1tslx1u/huge_booms_reported_as_meteor_travelling_at/"
+      "title": "Planet Mass and composition allocation determined entirely by AU, Stellar Mass, Stellar Rotation and Disc mass",
+      "summary": "A model linking planet mass and composition to various stellar factors has been shared, which is great, but it sounds like a cosmic version of 'it's complicated'.",
+      "date": "2026-06-01",
+      "link": "https://www.reddit.com/r/space/comments/1tthbcw/planet_mass_and_composition_allocation_determined/"
     },
     {
       "sourceId": "rspace",
-      "title": "Meteor explodes over Boston",
-      "summary": "A meteor exploded over Boston, reminding residents that sometimes the sky really does fall—just not in a way that requires an umbrella.",
-      "date": "2026-05-30",
-      "link": "https://www.reddit.com/r/space/comments/1tscoea/meteor_explodes_over_boston/"
+      "title": "Article: Scientists used a method from ecology to identify whether icy moons could hold conditions for life",
+      "summary": "Scientists have applied ecological methods to assess the potential habitability of icy moons, proving that life’s search can be as unpredictable as a nature documentary.",
+      "date": "2026-06-01",
+      "link": "https://www.reddit.com/r/space/comments/1ttekld/article_scientists_used_a_method_from_ecology_to/"
     },
     {
       "sourceId": "nga",
       "title": "NGA opens commercial GEOINT broker contract to small business pool",
-      "summary": "The NGA has opened its GEOINT broker contract to small businesses, which is like letting kids into a candy store—good luck managing the chaos.",
+      "summary": "The NGA has opened its GEOINT broker contract to small businesses, effectively turning the intelligence community into a chaotic startup incubator.",
       "date": "2026-05-04",
       "link": "https://www.nga.mil/news/commercial-geoint-broker-2026/"
     },
     {
       "sourceId": "nga",
       "title": "Director's address at GEOINT 2026: 'data is no longer the bottleneck'",
-      "summary": "NGA's director claims data is no longer the bottleneck, which is reassuring until you remember that humans are still the unpredictable variable.",
+      "summary": "NGA's director claims data is no longer the bottleneck, which is comforting until you realize human error still reigns supreme.",
       "date": "2026-05-03",
       "link": "https://www.nga.mil/news/director-address-geoint26/"
     },
     {
       "sourceId": "nga",
       "title": "NGA signals shift toward AI-native analyst workflows",
-      "summary": "The NGA is moving toward AI-native analyst workflows, suggesting that if you're not evolving, you're basically a VHS rental store in a Netflix world.",
+      "summary": "The NGA is shifting towards AI-native analyst workflows, a move that makes traditional methods feel as outdated as dial-up internet.",
       "date": "2026-05-02",
       "link": "https://www.nga.mil/news/ai-native-rfi/"
     },
     {
       "sourceId": "nga",
       "title": "Joint NGA-NRO foundation data initiative passes pilot phase",
-      "summary": "The Joint NGA-NRO data initiative has passed its pilot phase, showing that even the most secretive agencies can collaborate when tech is on the table.",
+      "summary": "The Joint NGA-NRO data initiative has successfully passed its pilot phase, proving that even the most secretive agencies can play nice when tech is involved.",
       "date": "2026-04-30",
       "link": "https://www.nga.mil/news/foundation-data-pilot/"
     },
     {
       "sourceId": "nga",
       "title": "Open-source intelligence integration framework released to public",
-      "summary": "An open-source intelligence integration framework has been released, potentially the most thrilling government document since the Constitution—if that’s your thing.",
+      "summary": "An open-source intelligence integration framework has been released, which might just be the most exciting government document since the last time someone said 'classified'.",
       "date": "2026-04-28",
       "link": "https://www.nga.mil/news/osint-framework-release/"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Apple destroyed the mid-tier watch market. Now it’s coming for the $200 billion eyewear industry.",
-      "summary": "Apple's entry into the eyewear market is poised to disrupt the $200 billion industry, just as it did with watches, proving that no market is safe.",
-      "date": "2026-05-31",
-      "link": "https://thenextweb.com/news/apple-smart-glasses-eyewear-market-disruption-watch-playbook"
+      "title": "Anthropic’s IPO filing means Salesforce’s early AI bet is about to become its most profitable investment",
+      "summary": "Salesforce's investment in Anthropic is shaping up to be a lucrative gamble, as the company's IPO filing suggests a big payoff is on the horizon.",
+      "date": "2026-06-01",
+      "link": "https://thenextweb.com/news/salesforce-anthropic-investment-5-billion-ipo"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Tesla has 42 robotaxis in Texas. Waymo has 577. The gap is now public record.",
-      "summary": "Tesla has 42 robotaxis in Texas, while Waymo boasts 577, highlighting that in the race for autonomous vehicles, some are lapping others.",
-      "date": "2026-05-31",
-      "link": "https://thenextweb.com/news/tesla-robotaxi-fleet-42-vehicles-waymo-577-texas"
+      "title": "Quantinuum boosts its IPO to $1.46 billion as orders hit double-digit multiples of available shares",
+      "summary": "Quantinuum has boosted its IPO to $1.46 billion due to overwhelming investor demand, proving that quantum computing is still the hottest ticket in town.",
+      "date": "2026-06-01",
+      "link": "https://thenextweb.com/news/quantinuum-ipo-upsized-quantum-computing-14-billion"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "LG Electronics stock jumped 24% in a day after unveiling Google-based car tech that cuts automaker costs",
-      "summary": "LG Electronics' stock soared 24% after unveiling Google-based car tech, proving that in the automotive world, a good idea can really rev up investor interest.",
-      "date": "2026-05-31",
-      "link": "https://thenextweb.com/news/lg-electronics-stock-surge-google-android-automotive"
+      "title": "Anthropic files confidentially for an IPO, potentially beating OpenAI to Wall Street after eclipsing it in valuation",
+      "summary": "Anthropic has confidentially filed for an IPO, potentially leapfrogging OpenAI, which is a classic case of 'first to market' versus 'first to file'.",
+      "date": "2026-06-01",
+      "link": "https://thenextweb.com/news/anthropic-ipo-confidential-filing-openai-race-965-billion"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "The people who trained Tesla’s self-driving AI won’t ride in it",
-      "summary": "Former Tesla data labelers are hesitant to ride in the company's self-driving cars, suggesting that even insiders might prefer to keep their feet on the ground.",
-      "date": "2026-05-31",
-      "link": "https://thenextweb.com/news/tesla-insiders-dont-trust-fsd-self-driving-reuters"
+      "title": "Florida becomes the first state to sue OpenAI, naming Altman personally and calling ChatGPT a defective product",
+      "summary": "Florida has sued OpenAI and its CEO Sam Altman, marking a legal showdown that suggests AI might be the new frontier for product liability.",
+      "date": "2026-06-01",
+      "link": "https://thenextweb.com/news/florida-sues-openai-altman-chatgpt-safety-children"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "DuckDuckGo installs jumped 18% after Google killed the blue links. On Apple devices, the spike hit 70%.",
-      "summary": "DuckDuckGo saw a spike in app installs after Google changed its search results, illustrating that sometimes, people just want a little privacy in their browsing.",
-      "date": "2026-05-31",
-      "link": "https://thenextweb.com/news/duckduckgo-user-surge-google-ai-search-overhaul"
+      "title": "A strike at one Michigan axle plant could choke production of GM’s most profitable vehicles",
+      "summary": "A strike at a Michigan axle plant threatens GM's production of its most profitable vehicles, reminding us that labor disputes can be as disruptive as a supply chain crisis.",
+      "date": "2026-06-01",
+      "link": "https://thenextweb.com/news/uaw-strike-gm-truck-axle-supplier-dauch"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA to Conduct Low-Altitude Flights Near Houston",
+      "summary": "NASA is set to conduct low-altitude flights near Houston for a student research program, proving that education can indeed take to the skies—if only temporarily.",
+      "date": "2026-06-01",
+      "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-near-houston/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Pretty in Pink",
+      "summary": "A new image of the Westerlund 2 star cluster showcases data from both the Chandra X-ray Observatory and the James Webb Space Telescope, reminding us that space is a colorful place, even when it's mostly dark.",
+      "date": "2026-06-01",
+      "link": "https://www.nasa.gov/image-article/pretty-in-pink-2/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Space Out This Summer with Variety of NASA STEM Activities",
+      "summary": "NASA is rolling out a variety of STEM activities this summer, encouraging everyone to explore the cosmos—because who doesn't want to daydream about space while avoiding the heat?",
+      "date": "2026-06-01",
+      "link": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Gravity Waves From Super Typhoon Sinlaku",
+      "summary": "Satellites have captured gravity waves generated by Super Typhoon Sinlaku, illustrating that even nature can throw a curveball to our understanding of atmospheric phenomena.",
+      "date": "2026-06-01",
+      "link": "https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
-      "summary": "NASA has selected seven companies for infrastructure upgrades at Johnson Space Center, which is basically a fancy way of saying they need new bathrooms and better Wi-Fi.",
+      "summary": "NASA has awarded contracts to seven companies for infrastructure improvements at the Johnson Space Center, proving that even space agencies need a little renovation from time to time.",
       "date": "2026-05-29",
       "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters",
-      "summary": "NASA is hosting a public event with the Crew-11 astronauts, proving that even space travelers need a little time in the spotlight after their adventures.",
-      "date": "2026-05-29",
-      "link": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Roman Space Telescope Primary Mirror Gets Last Look",
-      "summary": "Engineers have finished inspecting the primary mirror for NASA’s Roman Space Telescope, which is a big deal if you’re into staring at the universe.",
-      "date": "2026-05-29",
-      "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Hubble Spies Faint Irregular Galaxy",
-      "summary": "The Hubble Space Telescope has captured an image of the faint irregular galaxy ESO 490-017, reminding us that the universe is full of things we can barely see.",
-      "date": "2026-05-29",
-      "link": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Hubble Captures M88 on Journey to Center of Virgo Cluster",
-      "summary": "Hubble has snapped a shot of Messier 88, an active spiral galaxy, as it makes its leisurely journey towards the center of the Virgo Cluster, because why rush?",
-      "date": "2026-05-29",
-      "link": "https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/"
     }
   ]
 }
