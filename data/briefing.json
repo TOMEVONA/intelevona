@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-01",
   "issue": "No. 41",
-  "headline": "Funding flows. Rockets explode. Defense budgets swell.",
-  "deck": "This week sees a mix of funding successes and launch failures, alongside shifting defense priorities.",
+  "headline": "Funding flows. Launches fail. Defense partners up.",
+  "deck": "This week highlights funding successes amid launch failures and new defense collaborations.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "DEFENSE",
-      "head": "Northrop Grumman's Golden Dome partnership raises eyebrows",
-      "body": "Northrop Grumman has partnered with Apex to develop space-based interceptors for the Golden Dome project, a satellite defense initiative that sounds more like a fancy restaurant than a military strategy. While financial details are scarce, the collaboration hints at a significant investment in space-based defense capabilities amidst growing geopolitical tensions. This move comes as the U.S. ramps up its focus on countering emerging threats.",
-      "soWhat": "When major players like Northrop Grumman start naming projects after domes, it suggests a serious commitment to space defense and a potential pivot in military spending."
+      "kicker": "PARTNERSHIP",
+      "head": "Northrop Grumman teams with Apex for interceptors",
+      "body": "Northrop Grumman has partnered with Apex to develop space-based interceptors for the Golden Dome program, marking another chapter in defense contracting. While the exact financial terms remain under wraps, Apex recently raised $95 million in a Series C round, which likely helps grease the wheels for this collaboration. This partnership could position them as key players in the growing space-based defense sector.",
+      "soWhat": "Defense contractors are getting cozy, but the real question is whether this will lead to actual capabilities or just more PowerPoint slides."
     },
     {
-      "kicker": "FINANCE",
-      "head": "Spaceport bonds become law, changing finance game",
-      "body": "New legislation allowing spaceport facility bonds has been enacted, fundamentally shifting how space infrastructure projects can be financed. This could open the floodgates for private investment in spaceports, which have historically relied on public funding and limited capital. The implications for future space tourism and commercial launches could be significant, as investors look for more flexible financing options.",
-      "soWhat": "If spaceports can finally attract private capital, we might see a rapid expansion in launch facilities—just don’t expect them to be as glamorous as the Golden Dome."
+      "kicker": "LEGISLATION",
+      "head": "Spaceport bonds become law, changing financing game",
+      "body": "New legislation has officially made spaceport facility bonds law, potentially reshaping how we finance space infrastructure. This could open up a $1 billion market for spaceports, as companies look to capitalize on this new funding mechanism. The implications for private spaceports are significant, as they may now attract more investment without the usual financial hurdles.",
+      "soWhat": "If spaceports get funded like municipal projects, we might see a boom in launches—if only someone could figure out how to launch without blowing things up first."
     },
     {
-      "kicker": "LAUNCH",
-      "head": "New Glenn failure tightens launch market even more",
-      "body": "The explosion of Blue Origin's New Glenn rocket has further constrained an already tight launch market, with industry players now scrambling for alternatives. This incident follows a series of setbacks in the launch sector, exacerbating the supply-demand imbalance that has left many companies in a lurch. With competitors like SpaceX and Rocket Lab continuing to dominate, the pressure is on for Blue Origin to recover quickly.",
-      "soWhat": "When rockets are better at self-destruction than liftoff, it’s a clear signal that the launch market is going to remain a high-stakes game for the foreseeable future."
+      "kicker": "FAILURE",
+      "head": "New Glenn failure tightens already strained launch market",
+      "body": "The explosion of Blue Origin's New Glenn rocket has exacerbated an already constrained launch market, which was already feeling the pinch from increasing competition. With the launch market tightening further, companies are scrambling to find reliable alternatives. The failure comes at a time when SpaceX continues to dominate, leaving others to ponder their next moves.",
+      "soWhat": "In a market where reliability is king, Blue Origin's misstep could mean more contracts for SpaceX and a longer road to recovery for competitors."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for more spaceport bond developments",
-      "body": "As the implications of the new spaceport bonds unfold, expect to see companies jockeying for position in this newly accessible financing landscape."
+      "title": "True Anomaly's Series C implications",
+      "body": "With True Anomaly raising $190 million, watch for increased focus on co-orbital security solutions as the DoD pushes for more robust defense technologies."
     },
     {
-      "title": "New developments in hypersonic testing",
-      "body": "With hypersonic glide-vehicle tests slipping again, the next few weeks will be crucial for understanding the reliability of this technology."
+      "title": "Sierra Space's Dream Chaser next steps",
+      "body": "Having cleared its critical design review, Sierra Space's Dream Chaser will now have to prove it can deliver without becoming another cautionary tale in the industry."
     },
     {
-      "title": "Impacts of True Anomaly's funding round",
-      "body": "True Anomaly's $190 million Series C could signal a shift in how the DoD approaches co-orbital security and satellite defense."
+      "title": "China's launch frequency to watch",
+      "body": "China's recent launches show no signs of slowing down; keep an eye on how this affects U.S. market dynamics and procurement strategies."
     },
     {
-      "title": "Sierra Space's Dream Chaser progress",
-      "body": "With the Dream Chaser DoD variant clearing its design review, keep an eye on its development timeline—delays can be deadly."
+      "title": "Palantir's TITAN extension impact",
+      "body": "Palantir's $480 million extension on the TITAN program signals confidence in ground station capabilities, likely influencing future defense tech investments."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "NOC",
-      "note": "Northrop Grumman's new defense partnership may boost its stock as military contracts ramp up."
+      "note": "Northrop Grumman's partnership with Apex may bolster its defense portfolio, but execution will be key."
     },
     {
-      "sym": "BRK.A",
-      "note": "Blue Origin's setbacks in the launch market could impact Berkshire Hathaway's investments in aerospace."
+      "sym": "BLUE",
+      "note": "Blue Origin's New Glenn failure raises questions about its future in the launch market."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program highlights its strong foothold in defense tech."
+      "note": "Palantir's $480 million TITAN extension underscores its stronghold in defense data solutions."
     },
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic is watching the spaceport bond developments closely as it plans for future commercial operations."
+      "sym": "STRK",
+      "note": "Stoke Space's $260 million Series C could be the lifeline it needs to achieve its ambitious launch goals."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

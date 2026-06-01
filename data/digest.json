@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is witnessing a mix of strategic partnerships and regulatory shifts, with Northrop Grumman and Apex teaming up on interceptors while spaceport facility bonds become law. Meanwhile, China's launch activities continue unabated, and the launch market feels the strain from recent setbacks.",
+  "summary": "The space and defense sectors are buzzing with activity as partnerships form and budgets expand, while launch failures and geopolitical maneuvers add complexity to the landscape. Notably, the recent spaceport finance law could reshape infrastructure investments, and China’s surprise satellite launches signal its growing ambitions.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Partnerships in Space Defense",
-      "body": "Northrop Grumman's collaboration with Apex on space-based interceptors signals a growing emphasis on defensive capabilities in orbit. This trend is likely to attract further partnerships as nations prioritize space security."
-    },
-    {
-      "icon": "◉",
-      "title": "Regulatory Changes Ahead",
-      "body": "The recent passage of spaceport facility bonds could reshape how space infrastructure is financed, potentially unlocking new investment avenues. This legislative shift may also encourage more private players to enter the market."
+      "title": "Shifts in Space Infrastructure Finance",
+      "body": "The new spaceport facility bonds law is poised to fundamentally alter how space infrastructure projects are financed, potentially unlocking new capital flows. This could lead to a more robust and diversified investment landscape in the sector."
     },
     {
       "icon": "▲",
-      "title": "China's Launch Surge",
-      "body": "China's unexpected launch of the Long March 12B, coupled with its test of direct-to-device satellites, underscores its aggressive push in space capabilities. Such developments may heighten competitive tensions in the global space race."
+      "title": "China's Expanding Satellite Program",
+      "body": "China's recent surprise launch of the Long March 12B, alongside its test of direct-to-device satellites, highlights its aggressive push in the space race. Such developments may further challenge the U.S. and its allies in terms of technological parity."
     },
     {
       "icon": "◆",
-      "title": "Launch Market Woes",
-      "body": "The failure of Blue Origin's New Glenn rocket adds to the ongoing challenges facing the launch market, which is already grappling with capacity constraints. Stakeholders will need to reassess timelines and strategies as reliability issues persist."
+      "title": "Challenges in the Launch Market",
+      "body": "The failure of Blue Origin's New Glenn rocket adds to the already constrained launch market, raising concerns about capacity and reliability. As demand for launches grows, these setbacks could have ripple effects on timelines and customer commitments."
+    },
+    {
+      "icon": "◉",
+      "title": "Defense Budgets and Tech Partnerships",
+      "body": "The FY27 budget markup, which adds $1.4 billion to space resilience, underscores the increasing prioritization of space in defense strategy. Meanwhile, partnerships like Anduril and L3Harris on tactical SDA constellation bids signal a trend toward collaborative innovation in defense technology."
     }
   ],
-  "updated": "2026-06-01 18:43 UTC"
+  "updated": "2026-06-01 19:18 UTC"
 }
