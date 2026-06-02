@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-02",
   "issue": "No. 42",
-  "headline": "Funding surges. Space traffic intensifies. Budgets expand.",
-  "deck": "This week saw a flurry of funding and strategic partnerships as the space industry gears up for a more crowded orbital environment.",
+  "headline": "Funding flows. Space security rises. Traffic jams persist.",
+  "deck": "This week highlights a surge in funding for space security and traffic management challenges, alongside notable partnerships.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "Impulse Space raises $500 million for orbital Ubers",
-      "body": "Impulse Space has secured $500 million to accelerate production of its orbital transfer vehicles. This investment highlights the increasing demand for in-space transportation, as companies look to facilitate satellite deployments and other missions. With this cash infusion, Impulse is positioning itself as a key player in the growing market for space logistics.",
-      "soWhat": "The race for in-space transport is heating up, and those not in the driver’s seat might find themselves left behind in the orbital traffic jam."
+      "head": "Impulse Space raises $500 million for orbital taxis",
+      "body": "Impulse Space has secured $500 million, capitalizing on the burgeoning demand for orbital transportation services. This funding reflects a broader trend where investors are betting on the commercial viability of space taxis, an area previously thought to be a niche market. The influx of cash underscores the growing realization that transporting goods and personnel to orbit is not just a novelty, but a necessity.",
+      "soWhat": "If you thought space was just for satellites, think again—orbital taxis are now a serious business."
     },
     {
       "kicker": "ACQUISITION",
-      "head": "Voyager acquires Astrobotic for lunar ambitions",
-      "body": "Voyager Technologies is set to acquire lunar lander developer Astrobotic for up to $300 million. This move underscores the ongoing interest in lunar exploration and the commercial opportunities surrounding it. Astrobotic’s expertise in lunar landings could bolster Voyager's portfolio as it aims to capitalize on the moon's potential resources.",
-      "soWhat": "As lunar real estate heats up, expect more acquisitions as companies scramble to stake their claims before the land rush really begins."
+      "head": "Voyager to acquire Astrobotic for lunar ambitions",
+      "body": "Voyager has announced its acquisition of lunar lander developer Astrobotic, a move that positions the company to capitalize on the upcoming lunar missions. Astrobotic's experience in landing payloads on the Moon aligns well with Voyager's strategic goals, especially as NASA ramps up its Artemis program. The deal's financial details remain under wraps, but it’s clear that lunar real estate is heating up.",
+      "soWhat": "In a game where landing on the Moon is the new gold rush, partnering with a proven player is a smart, if not essential, move."
     },
     {
       "kicker": "BUDGET",
-      "head": "USFY27 budget adds $1.4B for space resilience",
-      "body": "The recent FY27 budget markup includes an additional $1.4 billion allocated for space resilience initiatives. This increase signals a recognition of the growing threats to satellite operations and the need for enhanced protective measures. The funding aims to bolster capabilities in space traffic management and satellite safety.",
-      "soWhat": "With more money flowing into space resilience, the real challenge will be translating dollars into effective strategies that prevent orbital collisions."
+      "head": "FY27 budget adds $1.4B for space resilience",
+      "body": "The latest markup for the FY27 budget reveals a $1.4 billion increase in funding dedicated to space resilience. This marks a significant shift as defense priorities now explicitly recognize the importance of securing space assets. The implications for contractors and startups in the space sector are profound, as they may soon find themselves at the forefront of national security strategies.",
+      "soWhat": "When the government starts throwing money at space resilience, it’s time to dust off those proposals and get in line."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on True Anomaly's Series C",
-      "body": "True Anomaly's recent $190 million funding round could indicate a shift towards co-orbital security solutions, which are becoming increasingly critical."
+      "title": "True Anomaly's Series C implications",
+      "body": "With a $190 million Series C, True Anomaly's valuation of $1.6 billion indicates strong investor confidence in co-orbital security solutions."
     },
     {
-      "title": "Watch for Anduril and L3Harris partnership outcomes",
-      "body": "Their collaboration on a tactical SDA constellation bid could reshape the competitive landscape in space surveillance and defense."
+      "title": "Sierra Space's Dream Chaser progress",
+      "body": "Clearing the critical design review is a positive step, but the real test will be whether it can actually make it to orbit."
     },
     {
-      "title": "Impacts of GPS jamming on commercial operations",
-      "body": "With GPS jamming returning to pre-2024 levels, insurers and operators will need to reassess risks and operational strategies in affected regions."
+      "title": "Anduril and L3Harris collaboration insights",
+      "body": "Their joint bid on the tactical SDA constellation could reshape how the military approaches space situational awareness."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "The $480 million extension on the TITAN ground station program may signal a longer-term commitment to data-driven defense solutions."
+      "title": "Palantir's TITAN extension impact",
+      "body": "With a $480 million contract extension, Palantir's grip on government contracts shows no signs of weakening, reinforcing its position in the defense sector."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "IMPULSE",
-      "note": "Impulse's $500 million raise positions it for a pivotal role in space logistics."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains under pressure as their commercial flights continue to face delays."
     },
     {
-      "sym": "VOYAGER",
-      "note": "Voyager's acquisition of Astrobotic for $300 million highlights the lunar land rush."
+      "sym": "AAPL",
+      "note": "Apple's interest in satellite technology is becoming clearer, as they hire engineers to bolster their capabilities."
     },
     {
-      "sym": "PALANTIR",
-      "note": "Palantir's $480 million TITAN extension indicates strong defense demand."
+      "sym": "LMT",
+      "note": "Lockheed Martin's continued investment in space resilience is becoming a key differentiator in their defense contracts."
     },
     {
-      "sym": "TRUE",
-      "note": "True Anomaly’s $190 million Series C reflects rising interest in co-orbital security."
+      "sym": "PLTR",
+      "note": "Palantir's recent contract extensions suggest they are the go-to for complex defense data analytics."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
