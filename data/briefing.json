@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-01",
-  "issue": "No. 41",
-  "headline": "Funding flows. Launches fail. Defense partners up.",
-  "deck": "This week highlights funding successes amid launch failures and new defense collaborations.",
+  "updated": "2026-06-02",
+  "issue": "No. 42",
+  "headline": "Funding surges. Space traffic intensifies. Budgets expand.",
+  "deck": "This week saw a flurry of funding and strategic partnerships as the space industry gears up for a more crowded orbital environment.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "PARTNERSHIP",
-      "head": "Northrop Grumman teams with Apex for interceptors",
-      "body": "Northrop Grumman has partnered with Apex to develop space-based interceptors for the Golden Dome program, marking another chapter in defense contracting. While the exact financial terms remain under wraps, Apex recently raised $95 million in a Series C round, which likely helps grease the wheels for this collaboration. This partnership could position them as key players in the growing space-based defense sector.",
-      "soWhat": "Defense contractors are getting cozy, but the real question is whether this will lead to actual capabilities or just more PowerPoint slides."
+      "kicker": "FUNDING",
+      "head": "Impulse Space raises $500 million for orbital Ubers",
+      "body": "Impulse Space has secured $500 million to accelerate production of its orbital transfer vehicles. This investment highlights the increasing demand for in-space transportation, as companies look to facilitate satellite deployments and other missions. With this cash infusion, Impulse is positioning itself as a key player in the growing market for space logistics.",
+      "soWhat": "The race for in-space transport is heating up, and those not in the driver’s seat might find themselves left behind in the orbital traffic jam."
     },
     {
-      "kicker": "LEGISLATION",
-      "head": "Spaceport bonds become law, changing financing game",
-      "body": "New legislation has officially made spaceport facility bonds law, potentially reshaping how we finance space infrastructure. This could open up a $1 billion market for spaceports, as companies look to capitalize on this new funding mechanism. The implications for private spaceports are significant, as they may now attract more investment without the usual financial hurdles.",
-      "soWhat": "If spaceports get funded like municipal projects, we might see a boom in launches—if only someone could figure out how to launch without blowing things up first."
+      "kicker": "ACQUISITION",
+      "head": "Voyager acquires Astrobotic for lunar ambitions",
+      "body": "Voyager Technologies is set to acquire lunar lander developer Astrobotic for up to $300 million. This move underscores the ongoing interest in lunar exploration and the commercial opportunities surrounding it. Astrobotic’s expertise in lunar landings could bolster Voyager's portfolio as it aims to capitalize on the moon's potential resources.",
+      "soWhat": "As lunar real estate heats up, expect more acquisitions as companies scramble to stake their claims before the land rush really begins."
     },
     {
-      "kicker": "FAILURE",
-      "head": "New Glenn failure tightens already strained launch market",
-      "body": "The explosion of Blue Origin's New Glenn rocket has exacerbated an already constrained launch market, which was already feeling the pinch from increasing competition. With the launch market tightening further, companies are scrambling to find reliable alternatives. The failure comes at a time when SpaceX continues to dominate, leaving others to ponder their next moves.",
-      "soWhat": "In a market where reliability is king, Blue Origin's misstep could mean more contracts for SpaceX and a longer road to recovery for competitors."
+      "kicker": "BUDGET",
+      "head": "USFY27 budget adds $1.4B for space resilience",
+      "body": "The recent FY27 budget markup includes an additional $1.4 billion allocated for space resilience initiatives. This increase signals a recognition of the growing threats to satellite operations and the need for enhanced protective measures. The funding aims to bolster capabilities in space traffic management and satellite safety.",
+      "soWhat": "With more money flowing into space resilience, the real challenge will be translating dollars into effective strategies that prevent orbital collisions."
     }
   ],
   "watchlist": [
     {
-      "title": "True Anomaly's Series C implications",
-      "body": "With True Anomaly raising $190 million, watch for increased focus on co-orbital security solutions as the DoD pushes for more robust defense technologies."
+      "title": "Keep an eye on True Anomaly's Series C",
+      "body": "True Anomaly's recent $190 million funding round could indicate a shift towards co-orbital security solutions, which are becoming increasingly critical."
     },
     {
-      "title": "Sierra Space's Dream Chaser next steps",
-      "body": "Having cleared its critical design review, Sierra Space's Dream Chaser will now have to prove it can deliver without becoming another cautionary tale in the industry."
+      "title": "Watch for Anduril and L3Harris partnership outcomes",
+      "body": "Their collaboration on a tactical SDA constellation bid could reshape the competitive landscape in space surveillance and defense."
     },
     {
-      "title": "China's launch frequency to watch",
-      "body": "China's recent launches show no signs of slowing down; keep an eye on how this affects U.S. market dynamics and procurement strategies."
+      "title": "Impacts of GPS jamming on commercial operations",
+      "body": "With GPS jamming returning to pre-2024 levels, insurers and operators will need to reassess risks and operational strategies in affected regions."
     },
     {
-      "title": "Palantir's TITAN extension impact",
-      "body": "Palantir's $480 million extension on the TITAN program signals confidence in ground station capabilities, likely influencing future defense tech investments."
+      "title": "Palantir's TITAN program extension implications",
+      "body": "The $480 million extension on the TITAN ground station program may signal a longer-term commitment to data-driven defense solutions."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "NOC",
-      "note": "Northrop Grumman's partnership with Apex may bolster its defense portfolio, but execution will be key."
+      "sym": "IMPULSE",
+      "note": "Impulse's $500 million raise positions it for a pivotal role in space logistics."
     },
     {
-      "sym": "BLUE",
-      "note": "Blue Origin's New Glenn failure raises questions about its future in the launch market."
+      "sym": "VOYAGER",
+      "note": "Voyager's acquisition of Astrobotic for $300 million highlights the lunar land rush."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480 million TITAN extension underscores its stronghold in defense data solutions."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480 million TITAN extension indicates strong defense demand."
     },
     {
-      "sym": "STRK",
-      "note": "Stoke Space's $260 million Series C could be the lifeline it needs to achieve its ambitious launch goals."
+      "sym": "TRUE",
+      "note": "True Anomaly’s $190 million Series C reflects rising interest in co-orbital security."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

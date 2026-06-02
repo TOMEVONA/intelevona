@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity as partnerships form and budgets expand, while launch failures and geopolitical maneuvers add complexity to the landscape. Notably, the recent spaceport finance law could reshape infrastructure investments, and China’s surprise satellite launches signal its growing ambitions.",
+  "summary": "The space sector is bustling with activity as governments and private firms alike prioritize resilience and security in orbit. Notably, funding continues to flow into space ventures, while the race for space traffic management intensifies amidst rising geopolitical tensions.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Shifts in Space Infrastructure Finance",
-      "body": "The new spaceport facility bonds law is poised to fundamentally alter how space infrastructure projects are financed, potentially unlocking new capital flows. This could lead to a more robust and diversified investment landscape in the sector."
-    },
-    {
-      "icon": "▲",
-      "title": "China's Expanding Satellite Program",
-      "body": "China's recent surprise launch of the Long March 12B, alongside its test of direct-to-device satellites, highlights its aggressive push in the space race. Such developments may further challenge the U.S. and its allies in terms of technological parity."
-    },
-    {
-      "icon": "◆",
-      "title": "Challenges in the Launch Market",
-      "body": "The failure of Blue Origin's New Glenn rocket adds to the already constrained launch market, raising concerns about capacity and reliability. As demand for launches grows, these setbacks could have ripple effects on timelines and customer commitments."
+      "title": "Space Security Spending Surge",
+      "body": "Governments are increasingly recognizing the need for robust space security, with the global SSA market projected to hit $61 billion. This trend is underscored by a $1.4 billion boost in the FY27 budget dedicated to enhancing space resilience."
     },
     {
       "icon": "◉",
-      "title": "Defense Budgets and Tech Partnerships",
-      "body": "The FY27 budget markup, which adds $1.4 billion to space resilience, underscores the increasing prioritization of space in defense strategy. Meanwhile, partnerships like Anduril and L3Harris on tactical SDA constellation bids signal a trend toward collaborative innovation in defense technology."
+      "title": "Traffic Management Takes Center Stage",
+      "body": "As orbital congestion becomes a pressing issue, the importance of establishing an equilibrium state for space traffic management is gaining traction. This could pave the way for new regulatory frameworks and technologies to ensure safer operations in crowded orbits."
+    },
+    {
+      "icon": "▲",
+      "title": "Funding Flows into Space Ventures",
+      "body": "Impulse Space's recent $500 million raise and True Anomaly's $190 million Series C highlight the growing investor appetite for space-related technologies. This influx of capital suggests that the space economy is maturing, attracting serious players with deep pockets."
+    },
+    {
+      "icon": "◆",
+      "title": "Geopolitical Tensions in Orbit",
+      "body": "With reports of Russian co-orbital activities near commercial GEO slots, the stakes for space security are rising. This development signals a potential escalation in the competition for strategic advantages in space, further complicating the landscape for satellite operators."
     }
   ],
-  "updated": "2026-06-01 19:18 UTC"
+  "updated": "2026-06-02 17:28 UTC"
 }
