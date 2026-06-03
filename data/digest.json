@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity, from satellite innovations to budget increases aimed at resilience. Meanwhile, the commercial space landscape continues to evolve, with notable funding rounds and strategic partnerships making headlines.",
+  "summary": "The space industry is experiencing a mix of strategic partnerships and funding rounds, with a notable focus on resilience and data capabilities. Meanwhile, the military's interest in commercial space and AI continues to reshape traditional defense frameworks.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Satellite Innovations Abound",
-      "body": "Muon Space's unveiling of a Starship-class satellite platform signals a push towards orbital data centers, while Murata's exploration of Xona's timing service hints at telecom's growing reliance on space tech. These developments could redefine how data is managed in orbit."
-    },
-    {
-      "icon": "▲",
-      "title": "Defense Budgets on the Rise",
-      "body": "The FY27 budget markup's $1.4 billion boost for space resilience reflects a growing recognition of the strategic importance of space in defense. This could pave the way for enhanced capabilities, especially as threats evolve."
-    },
-    {
-      "icon": "◆",
-      "title": "Commercial Space Gains Traction",
-      "body": "With Palantir's $480 million extension on the TITAN program and True Anomaly's $190 million Series C, the commercial sector is clearly gaining momentum. The increasing interest from venture capitalists suggests a belief that space is not just a frontier, but a lucrative market."
+      "title": "Funding Rounds Galore",
+      "body": "True Anomaly's $190M Series C and Impulse Space's $500M Series D highlight a robust appetite for investment in space tech. These rounds suggest investors are betting on the future of orbital data and tactical capabilities."
     },
     {
       "icon": "◉",
-      "title": "Geopolitical Tensions in Orbit",
-      "body": "Russian co-orbital activity near commercial GEO slots raises concerns about the security of space assets, while GPS jamming in the Eastern Mediterranean returns to pre-2024 levels. These developments underscore the need for robust space situational awareness."
+      "title": "Military Meets Commercial Space",
+      "body": "The NRO's acknowledgment of commercial space and AI's impact on spy satellites signals a shift in how defense agencies view their operational frameworks. Partnerships like Anduril and L3Harris's tactical SDA constellation bid further blur the lines between private and public sector capabilities."
+    },
+    {
+      "icon": "▲",
+      "title": "European Space Defense Gaps",
+      "body": "While Europe is rearming in various sectors, its space capabilities seem to be lagging. This could create vulnerabilities as geopolitical tensions rise and reliance on space assets becomes more critical."
+    },
+    {
+      "icon": "◆",
+      "title": "Launch Delays and Design Reviews",
+      "body": "Blue Origin's New Glenn launch timeline is once again in question, and Sierra Space's Dream Chaser has just cleared a critical design review. These developments underscore the ongoing challenges and milestones in the race to operationalize new space vehicles."
     }
   ],
-  "updated": "2026-06-03 18:02 UTC"
+  "updated": "2026-06-03 18:20 UTC"
 }
