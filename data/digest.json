@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as governments ramp up investments in space security and resilience, while private firms continue to attract significant funding. Meanwhile, the quest for effective space traffic management grows more urgent amid rising orbital congestion.",
+  "summary": "The space and defense sectors are buzzing with activity, from satellite innovations to budget increases aimed at resilience. Meanwhile, the commercial space landscape continues to evolve, with notable funding rounds and strategic partnerships making headlines.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Frenzy Continues",
-      "body": "Impulse Space's recent $500 million raise underscores a growing trend of capital flowing into the space sector. Meanwhile, True Anomaly's $190 million Series C reflects investor confidence in space technology's future."
-    },
-    {
-      "icon": "◉",
-      "title": "Space Traffic Management Urgency",
-      "body": "With the SSA market projected to hit $61 billion, the need for effective space traffic management is becoming critical. The recent discussions on equilibrium states highlight the industry's recognition of orbital safety as a priority."
+      "title": "Satellite Innovations Abound",
+      "body": "Muon Space's unveiling of a Starship-class satellite platform signals a push towards orbital data centers, while Murata's exploration of Xona's timing service hints at telecom's growing reliance on space tech. These developments could redefine how data is managed in orbit."
     },
     {
       "icon": "▲",
       "title": "Defense Budgets on the Rise",
-      "body": "The FY27 budget markup adding $1.4 billion to space resilience is a clear indicator of defense priorities shifting towards space. This aligns with ongoing military collaborations, like the Anduril and L3Harris tactical SDA constellation bid."
+      "body": "The FY27 budget markup's $1.4 billion boost for space resilience reflects a growing recognition of the strategic importance of space in defense. This could pave the way for enhanced capabilities, especially as threats evolve."
     },
     {
       "icon": "◆",
-      "title": "Innovations in Accessibility",
-      "body": "The UK's exploration of a space station mission for astronauts with physical disabilities marks a significant step towards inclusivity in space exploration. This initiative could pave the way for broader participation in future missions."
+      "title": "Commercial Space Gains Traction",
+      "body": "With Palantir's $480 million extension on the TITAN program and True Anomaly's $190 million Series C, the commercial sector is clearly gaining momentum. The increasing interest from venture capitalists suggests a belief that space is not just a frontier, but a lucrative market."
+    },
+    {
+      "icon": "◉",
+      "title": "Geopolitical Tensions in Orbit",
+      "body": "Russian co-orbital activity near commercial GEO slots raises concerns about the security of space assets, while GPS jamming in the Eastern Mediterranean returns to pre-2024 levels. These developments underscore the need for robust space situational awareness."
     }
   ],
-  "updated": "2026-06-02 18:03 UTC"
+  "updated": "2026-06-03 18:02 UTC"
 }

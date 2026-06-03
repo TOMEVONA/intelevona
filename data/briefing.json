@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-02",
-  "issue": "No. 42",
-  "headline": "Funding flows. Space security rises. Traffic jams persist.",
-  "deck": "This week highlights a surge in funding for space security and traffic management challenges, alongside notable partnerships.",
+  "updated": "2026-06-03",
+  "issue": "No. 43",
+  "headline": "Funding flows. Space strategies. Europe lags.",
+  "deck": "This week highlights funding trends and geopolitical gaps in space.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "Impulse Space raises $500 million for orbital taxis",
-      "body": "Impulse Space has secured $500 million, capitalizing on the burgeoning demand for orbital transportation services. This funding reflects a broader trend where investors are betting on the commercial viability of space taxis, an area previously thought to be a niche market. The influx of cash underscores the growing realization that transporting goods and personnel to orbit is not just a novelty, but a necessity.",
-      "soWhat": "If you thought space was just for satellites, think again—orbital taxis are now a serious business."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly has secured $190M in Series C funding, bringing its valuation to $1.6B. The company focuses on co-orbital security and space domain awareness, with the Department of Defense showing strong interest in its capabilities. As threats in orbit become more pronounced, True Anomaly’s funding suggests a growing recognition of the need for robust security measures.",
+      "soWhat": "This funding is less about innovation and more about responding to urgent military needs; cash flows where the risk is highest."
     },
     {
-      "kicker": "ACQUISITION",
-      "head": "Voyager to acquire Astrobotic for lunar ambitions",
-      "body": "Voyager has announced its acquisition of lunar lander developer Astrobotic, a move that positions the company to capitalize on the upcoming lunar missions. Astrobotic's experience in landing payloads on the Moon aligns well with Voyager's strategic goals, especially as NASA ramps up its Artemis program. The deal's financial details remain under wraps, but it’s clear that lunar real estate is heating up.",
-      "soWhat": "In a game where landing on the Moon is the new gold rush, partnering with a proven player is a smart, if not essential, move."
+      "kicker": "STRATEGY",
+      "head": "Europe's space defense strategy remains underdeveloped",
+      "body": "Despite ramping up military capabilities across various domains, Europe seems to be neglecting its space defense strategy. This oversight is akin to bringing a knife to a gunfight, as highlighted by the lack of coordinated efforts among EU nations. With geopolitical tensions rising, the absence of a unified space defense strategy could leave Europe vulnerable.",
+      "soWhat": "If Europe can't get its act together in space, it risks being left behind in the next phase of military modernization."
     },
     {
-      "kicker": "BUDGET",
-      "head": "FY27 budget adds $1.4B for space resilience",
-      "body": "The latest markup for the FY27 budget reveals a $1.4 billion increase in funding dedicated to space resilience. This marks a significant shift as defense priorities now explicitly recognize the importance of securing space assets. The implications for contractors and startups in the space sector are profound, as they may soon find themselves at the forefront of national security strategies.",
-      "soWhat": "When the government starts throwing money at space resilience, it’s time to dust off those proposals and get in line."
+      "kicker": "INNOVATION",
+      "head": "Muon Space unveils Starship-class satellite platform",
+      "body": "Muon Space has introduced a Starship-class satellite platform aimed at the orbital data center market, with a launch scheduled for 2028. This ambitious project comes as the demand for data processing in space grows, but the timeline raises eyebrows about market readiness. The company is positioning itself as a player in a competitive field that includes established giants.",
+      "soWhat": "If Muon Space takes too long to launch, it might find itself in a crowded market where first-mover advantage is key."
     }
   ],
   "watchlist": [
     {
-      "title": "True Anomaly's Series C implications",
-      "body": "With a $190 million Series C, True Anomaly's valuation of $1.6 billion indicates strong investor confidence in co-orbital security solutions."
+      "title": "Keep an eye on Blue Origin's launch plans",
+      "body": "Blue Origin's aim to resume New Glenn launches by year-end could impact the competitive landscape for heavy-lift capabilities."
     },
     {
-      "title": "Sierra Space's Dream Chaser progress",
-      "body": "Clearing the critical design review is a positive step, but the real test will be whether it can actually make it to orbit."
+      "title": "Monitor Anduril and L3Harris collaboration",
+      "body": "Their tactical SDA constellation bid could set a precedent for future collaborations in defense-focused satellite systems."
     },
     {
-      "title": "Anduril and L3Harris collaboration insights",
-      "body": "Their joint bid on the tactical SDA constellation could reshape how the military approaches space situational awareness."
+      "title": "Watch for updates on the FY27 budget",
+      "body": "The $1.4B addition to space resilience funding indicates a prioritization of space in national security, which could affect procurement strategies."
     },
     {
-      "title": "Palantir's TITAN extension impact",
-      "body": "With a $480 million contract extension, Palantir's grip on government contracts shows no signs of weakening, reinforcing its position in the defense sector."
+      "title": "True Anomaly's market positioning",
+      "body": "As True Anomaly's funding solidifies its position, competitors will need to respond to its growing influence in co-orbital security."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as their commercial flights continue to face delays."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480M extension on the TITAN program underscores its grip on government contracts."
     },
     {
-      "sym": "AAPL",
-      "note": "Apple's interest in satellite technology is becoming clearer, as they hire engineers to bolster their capabilities."
+      "sym": "MUON",
+      "note": "Muon Space's ambitious satellite platform could either be a smart move or a costly miscalculation."
     },
     {
-      "sym": "LMT",
-      "note": "Lockheed Martin's continued investment in space resilience is becoming a key differentiator in their defense contracts."
+      "sym": "BLUEORIGIN",
+      "note": "Blue Origin's plans to resume launches suggest that the company is still in the game despite delays."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's recent contract extensions suggest they are the go-to for complex defense data analytics."
+      "sym": "TRUEANOMALY",
+      "note": "True Anomaly's $190M raise shows that defense needs are driving investment, not just innovation."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
