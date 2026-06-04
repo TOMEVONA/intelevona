@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is experiencing a mix of strategic partnerships and funding rounds, with a notable focus on resilience and data capabilities. Meanwhile, the military's interest in commercial space and AI continues to reshape traditional defense frameworks.",
+  "summary": "The space industry is abuzz with IPO ambitions, nuclear propulsion developments, and the ongoing push for space computing. Meanwhile, military applications of space technology continue to attract significant investment and attention.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Rounds Galore",
-      "body": "True Anomaly's $190M Series C and Impulse Space's $500M Series D highlight a robust appetite for investment in space tech. These rounds suggest investors are betting on the future of orbital data and tactical capabilities."
+      "title": "IPO Fever in Space",
+      "body": "SpaceX's potential $75 billion IPO is drawing eyes, while other firms like Applied Aerospace & Defense are also looking to capitalize on the market. This could signal a broader trend of financial optimism in the sector, albeit with a side of skepticism about the sustainability of such valuations."
     },
     {
       "icon": "◉",
-      "title": "Military Meets Commercial Space",
-      "body": "The NRO's acknowledgment of commercial space and AI's impact on spy satellites signals a shift in how defense agencies view their operational frameworks. Partnerships like Anduril and L3Harris's tactical SDA constellation bid further blur the lines between private and public sector capabilities."
+      "title": "Nuclear Propulsion Progress",
+      "body": "NASA's efforts to streamline nuclear electric propulsion development are gaining momentum, promising a new era of deep space exploration. As the agency pushes forward, it raises questions about the balance between innovation and safety in the nuclear realm."
     },
     {
       "icon": "▲",
-      "title": "European Space Defense Gaps",
-      "body": "While Europe is rearming in various sectors, its space capabilities seem to be lagging. This could create vulnerabilities as geopolitical tensions rise and reliance on space assets becomes more critical."
+      "title": "Space Computing Initiatives",
+      "body": "China's institutional framework for space computing is a clear signal of its ambitions in this critical area, which could reshape global competition. As nations race to establish dominance, the implications for data processing and satellite operations are significant."
     },
     {
       "icon": "◆",
-      "title": "Launch Delays and Design Reviews",
-      "body": "Blue Origin's New Glenn launch timeline is once again in question, and Sierra Space's Dream Chaser has just cleared a critical design review. These developments underscore the ongoing challenges and milestones in the race to operationalize new space vehicles."
+      "title": "Military Space Investments",
+      "body": "With a $1.4 billion boost to the space resilience budget and Anduril teaming with L3Harris for tactical SDA constellations, military interest in space tech is intensifying. This trend reflects a growing recognition of space as a critical domain for national security."
     }
   ],
-  "updated": "2026-06-03 18:20 UTC"
+  "updated": "2026-06-04 16:23 UTC"
 }

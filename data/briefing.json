@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-03",
-  "issue": "No. 43",
-  "headline": "Funding flows. Satellites launch. Defense budgets swell.",
-  "deck": "This week saw significant funding rounds and strategic developments in the space sector.",
+  "updated": "2026-06-04",
+  "issue": "No. 44",
+  "headline": "AstroForge rebounds. SpaceX eyes IPO. True Anomaly raises funds.",
+  "deck": "This week, AstroForge makes a comeback, while True Anomaly secures significant funding amidst a crowded space market.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid co-orbital buzz",
-      "body": "True Anomaly secured a $190M Series C, bringing its valuation to $1.6B. This funding underscores the growing interest in co-orbital security as the DoD pushes for enhanced space domain awareness. With the defense sector's appetite for such capabilities, True Anomaly is well-positioned to capitalize on government contracts.",
-      "soWhat": "In a crowded space, cash is king, and True Anomaly's funding suggests that defense budgets are prioritizing space security more than ever."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly has completed a $190 million Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, tapping into increased DoD interest in space safety. This round adds significant firepower to its existing capabilities.",
+      "soWhat": "In a landscape where cash is king, True Anomaly’s funding is a reminder that security concerns are driving investment more than tech novelty."
     },
     {
-      "kicker": "LAUNCH",
-      "head": "Blue Origin aims for New Glenn liftoff by year-end",
-      "body": "Blue Origin has announced plans to resume New Glenn launches by the end of the year, following damage assessments that revealed less severe issues than anticipated. This comes after a prolonged lull in their launch schedule, raising questions about their operational reliability.",
-      "soWhat": "If Blue Origin can pull off this timeline, it might just restore some investor confidence—but that's a big if in the world of launch schedules."
+      "kicker": "TECH",
+      "head": "AstroForge completes DeepSpace-2 spacecraft",
+      "body": "AstroForge has successfully completed its DeepSpace-2 spacecraft, learning from its previous misadventure. This project aims to mine asteroids, a venture that’s as ambitious as it is risky. The company is reportedly using insights from its past failures to refine its approach.",
+      "soWhat": "If failures are the best teachers, AstroForge just graduated with honors; expect them to be more cautious yet bold in their next steps."
     },
     {
-      "kicker": "STRATEGY",
-      "head": "Muon Space unveils ambitious satellite data center plan",
-      "body": "Muon Space has revealed a Starship-class satellite platform aimed at establishing orbital data centers, with a target launch in 2028. The company is betting that housing data centers in space will be a lucrative market, tapping into the growing need for cloud services.",
-      "soWhat": "If Muon can make this work, they might just redefine where data lives—but launching a satellite is one thing; making it profitable is another."
+      "kicker": "IPO",
+      "head": "SpaceX plans $75B IPO, stirring market buzz",
+      "body": "SpaceX is gearing up for an IPO that aims to raise at least $75 billion, a figure that would make it one of the largest tech IPOs in history. Investors are already speculating on the impact this could have on the broader aerospace market and its competitors.",
+      "soWhat": "A $75 billion IPO could reshape investor sentiment in the space sector, making every launch and contract win feel like a stock tip."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on GPS alternatives",
-      "body": "With Murata exploring Xona's satellite timing service, GPS backup solutions may gain traction, impacting traditional navigation systems."
+      "title": "Keep an eye on SpaceX's IPO timeline",
+      "body": "The timing of SpaceX's IPO could influence funding trends across the industry, as investors may rush to capitalize on perceived 'hot' sectors."
     },
     {
-      "title": "European space capabilities under scrutiny",
-      "body": "As Europe ramps up defense spending, the lack of investment in space capabilities could become a critical oversight."
+      "title": "AstroForge's next steps post-DeepSpace-2",
+      "body": "How AstroForge leverages its recent success could set the tone for future asteroid mining endeavors, potentially attracting more venture interest."
     },
     {
-      "title": "Palantir's TITAN program extension",
-      "body": "With a $480M extension on the TITAN ground station program, Palantir's dominance in government contracts seems solidified, warranting close observation."
+      "title": "Anduril and L3Harris tactical SDA bid",
+      "body": "This partnership could signal a shift in how defense contractors approach space, especially in the realm of satellite defense."
     },
     {
-      "title": "Hypersonic test delays persist",
-      "body": "The continued delays in hypersonic glide-vehicle tests could signal deeper issues in defense tech timelines, affecting related contracts."
+      "title": "Watch for True Anomaly's next moves",
+      "body": "With fresh funding, True Anomaly is poised to expand its capabilities, which could disrupt the status quo in co-orbital security."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
+      "sym": "TSLA",
+      "note": "Tesla's stock remains buoyed by SpaceX's IPO buzz, reflecting investor optimism in Elon Musk's ventures."
+    },
+    {
+      "sym": "SPCE",
+      "note": "Virgin Galactic is feeling the heat as SpaceX preps for its IPO, reminding everyone that the space race is more than just rockets."
+    },
+    {
       "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension shows they're still the go-to for government contracts."
+      "note": "Palantir's $480M contract extension illustrates that data analytics in defense is still a lucrative game."
     },
     {
-      "sym": "MUON",
-      "note": "Muon Space's ambitious satellite data center plans could disrupt cloud services if successful."
-    },
-    {
-      "sym": "BLUE",
-      "note": "Blue Origin's New Glenn launch timeline is a test of their operational resilience."
-    },
-    {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M funding indicates robust investor confidence in space security."
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's recent bull case shows the precarious balance between execution and risk in the satellite sector."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
