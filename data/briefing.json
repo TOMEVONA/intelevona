@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-04",
   "issue": "No. 44",
-  "headline": "AstroForge rebounds. SpaceX eyes IPO. True Anomaly raises funds.",
-  "deck": "This week, AstroForge makes a comeback, while True Anomaly secures significant funding amidst a crowded space market.",
+  "headline": "SpaceX IPO looms. Funding flows. Defense collaborations abound.",
+  "deck": "This week, SpaceX's IPO plans dominate while funding rounds and defense partnerships keep the industry buzzing.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly has completed a $190 million Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, tapping into increased DoD interest in space safety. This round adds significant firepower to its existing capabilities.",
-      "soWhat": "In a landscape where cash is king, True Anomaly’s funding is a reminder that security concerns are driving investment more than tech novelty."
-    },
-    {
-      "kicker": "TECH",
-      "head": "AstroForge completes DeepSpace-2 spacecraft",
-      "body": "AstroForge has successfully completed its DeepSpace-2 spacecraft, learning from its previous misadventure. This project aims to mine asteroids, a venture that’s as ambitious as it is risky. The company is reportedly using insights from its past failures to refine its approach.",
-      "soWhat": "If failures are the best teachers, AstroForge just graduated with honors; expect them to be more cautious yet bold in their next steps."
+      "body": "True Anomaly secured a $190 million Series C round, valuing the company at $1.6 billion. The funding will bolster its capabilities in co-orbital security and space domain awareness, tapping into the DoD's increasing appetite for advanced space solutions. This round highlights the defense sector's ongoing commitment to enhancing national security through space.",
+      "soWhat": "The cash influx indicates that defense priorities are shifting firmly towards space, a trend that could reshape the competitive landscape."
     },
     {
       "kicker": "IPO",
-      "head": "SpaceX plans $75B IPO, stirring market buzz",
-      "body": "SpaceX is gearing up for an IPO that aims to raise at least $75 billion, a figure that would make it one of the largest tech IPOs in history. Investors are already speculating on the impact this could have on the broader aerospace market and its competitors.",
-      "soWhat": "A $75 billion IPO could reshape investor sentiment in the space sector, making every launch and contract win feel like a stock tip."
+      "head": "SpaceX aims for $75 billion IPO valuation",
+      "body": "SpaceX is gearing up to raise at least $75 billion in its upcoming IPO, which would value the company at over $1.75 trillion. This ambitious figure comes despite the occasional satellite loss, and it underscores the market's confidence in SpaceX's long-term vision. Investors are clearly betting on Starship's future, even as it remains grounded.",
+      "soWhat": "If successful, this IPO could redefine capital access in the space sector, but it also raises questions about sustainable valuation in a high-risk industry."
+    },
+    {
+      "kicker": "COLLABORATION",
+      "head": "Anduril and L3Harris join forces for SDA bid",
+      "body": "Anduril and L3Harris are collaborating on a tactical Space Development Agency constellation bid, signaling a strategic pooling of resources in defense tech. The partnership aims to leverage each company's strengths in autonomous systems and satellite communications. As the defense sector continues to consolidate, this move could set a precedent for future collaborations.",
+      "soWhat": "In an environment where competition is fierce, alliances like this may become essential for survival, especially in high-stakes government contracts."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on SpaceX's IPO timeline",
-      "body": "The timing of SpaceX's IPO could influence funding trends across the industry, as investors may rush to capitalize on perceived 'hot' sectors."
+      "title": "Watch for SpaceX IPO details next week",
+      "body": "As SpaceX finalizes its IPO plans, investors will be keen to see how its valuation will affect the broader market."
     },
     {
-      "title": "AstroForge's next steps post-DeepSpace-2",
-      "body": "How AstroForge leverages its recent success could set the tone for future asteroid mining endeavors, potentially attracting more venture interest."
+      "title": "Sierra Space's Dream Chaser moves closer to launch",
+      "body": "With its critical design review cleared, the Dream Chaser's path to operational status could reshape cargo delivery in low Earth orbit."
     },
     {
-      "title": "Anduril and L3Harris tactical SDA bid",
-      "body": "This partnership could signal a shift in how defense contractors approach space, especially in the realm of satellite defense."
+      "title": "Palantir's TITAN program extension implications",
+      "body": "Palantir's $480 million extension on the TITAN program suggests ongoing confidence in its ground station capabilities, which may attract further government contracts."
     },
     {
-      "title": "Watch for True Anomaly's next moves",
-      "body": "With fresh funding, True Anomaly is poised to expand its capabilities, which could disrupt the status quo in co-orbital security."
+      "title": "True Anomaly's Series C impacts defense investments",
+      "body": "The success of True Anomaly's funding round could lead to increased investment interest in co-orbital security solutions."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "TSLA",
-      "note": "Tesla's stock remains buoyed by SpaceX's IPO buzz, reflecting investor optimism in Elon Musk's ventures."
+      "sym": "SPACEX",
+      "note": "SpaceX's IPO plans could redefine capital access in aerospace."
     },
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic is feeling the heat as SpaceX preps for its IPO, reminding everyone that the space race is more than just rockets."
+      "sym": "PALANTIR",
+      "note": "Palantir's TITAN program extension solidifies its foothold in military contracts."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480M contract extension illustrates that data analytics in defense is still a lucrative game."
+      "sym": "TRUE",
+      "note": "True Anomaly's $190M funding signals a robust demand for space security."
     },
     {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's recent bull case shows the precarious balance between execution and risk in the satellite sector."
+      "sym": "SIE",
+      "note": "Sierra Space's Dream Chaser clears a critical hurdle, inching closer to launch."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
