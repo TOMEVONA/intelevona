@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-04",
-  "issue": "No. 44",
-  "headline": "SpaceX IPO looms. Funding flows. Defense collaborations abound.",
-  "deck": "This week, SpaceX's IPO plans dominate while funding rounds and defense partnerships keep the industry buzzing.",
+  "updated": "2026-06-05",
+  "issue": "No. 45",
+  "headline": "Funding flows. Satellites multiply. Defense budgets swell.",
+  "deck": "This week saw significant funding rounds and strategic partnerships in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured a $190 million Series C round, valuing the company at $1.6 billion. The funding will bolster its capabilities in co-orbital security and space domain awareness, tapping into the DoD's increasing appetite for advanced space solutions. This round highlights the defense sector's ongoing commitment to enhancing national security through space.",
-      "soWhat": "The cash influx indicates that defense priorities are shifting firmly towards space, a trend that could reshape the competitive landscape."
-    },
-    {
-      "kicker": "IPO",
-      "head": "SpaceX aims for $75 billion IPO valuation",
-      "body": "SpaceX is gearing up to raise at least $75 billion in its upcoming IPO, which would value the company at over $1.75 trillion. This ambitious figure comes despite the occasional satellite loss, and it underscores the market's confidence in SpaceX's long-term vision. Investors are clearly betting on Starship's future, even as it remains grounded.",
-      "soWhat": "If successful, this IPO could redefine capital access in the space sector, but it also raises questions about sustainable valuation in a high-risk industry."
+      "head": "Apex's valuation skyrockets to $2.3 billion",
+      "body": "Apex has raised $200 million, pushing its valuation to $2.3 billion. This surge indicates a strong demand for satellite technology, particularly in a market where productized satellite buses are gaining traction. Investors seem to believe that the satellite game is not just about the number of launches but the efficiency of the platforms.",
+      "soWhat": "Apex's rise suggests that investors are betting heavily on the commodification of satellite technology, which could make the market even more competitive."
     },
     {
       "kicker": "COLLABORATION",
-      "head": "Anduril and L3Harris join forces for SDA bid",
-      "body": "Anduril and L3Harris are collaborating on a tactical Space Development Agency constellation bid, signaling a strategic pooling of resources in defense tech. The partnership aims to leverage each company's strengths in autonomous systems and satellite communications. As the defense sector continues to consolidate, this move could set a precedent for future collaborations.",
-      "soWhat": "In an environment where competition is fierce, alliances like this may become essential for survival, especially in high-stakes government contracts."
+      "head": "Anduril and L3Harris unite for SDA bid",
+      "body": "Anduril and L3Harris have partnered to pursue a tactical Space Development Agency (SDA) constellation bid. This collaboration reflects a growing trend where defense contractors are pooling resources to tackle complex satellite challenges, especially in a landscape where the stakes are high, and budgets are expanding.",
+      "soWhat": "When big players team up, it’s often a sign that the competition is heating up—and that might mean more lucrative contracts down the line."
+    },
+    {
+      "kicker": "TESTING",
+      "head": "Exploration Company inches closer to Nyx launch",
+      "body": "The Exploration Company has successfully completed a drop test of its Nyx capsule, with plans for a test flight in 2028. This is a small but meaningful step towards proving that their ambitious lunar plans are more than just PowerPoint slides. As companies race to establish a presence on the Moon, every test counts.",
+      "soWhat": "If they can keep this momentum, they might just beat the rush to the Moon—assuming the Moon doesn't get too crowded first."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for SpaceX IPO details next week",
-      "body": "As SpaceX finalizes its IPO plans, investors will be keen to see how its valuation will affect the broader market."
+      "title": "Watch for Apex's next moves post-funding",
+      "body": "With a valuation of $2.3 billion, Apex's next strategic decisions could set the tone for satellite manufacturing in the coming months."
     },
     {
-      "title": "Sierra Space's Dream Chaser moves closer to launch",
-      "body": "With its critical design review cleared, the Dream Chaser's path to operational status could reshape cargo delivery in low Earth orbit."
+      "title": "Potential IPOs on the horizon",
+      "body": "As the defense-tech IPO window opens, expect more companies to explore public offerings, which could reshape funding dynamics in space."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "Palantir's $480 million extension on the TITAN program suggests ongoing confidence in its ground station capabilities, which may attract further government contracts."
+      "title": "NASA's Artemis 2 crew returns",
+      "body": "The successful orbit of the Moon by Artemis 2 could reignite interest in lunar missions and related technologies next week."
     },
     {
-      "title": "True Anomaly's Series C impacts defense investments",
-      "body": "The success of True Anomaly's funding round could lead to increased investment interest in co-orbital security solutions."
+      "title": "Hypersonic testing delays continue",
+      "body": "The ongoing delays in hypersonic glide-vehicle testing may prompt defense contractors to pivot their focus towards more reliable technologies."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPACEX",
-      "note": "SpaceX's IPO plans could redefine capital access in aerospace."
+      "sym": "APEX",
+      "note": "Apex's valuation skyrocketed to $2.3 billion after a $200 million funding round."
     },
     {
-      "sym": "PALANTIR",
-      "note": "Palantir's TITAN program extension solidifies its foothold in military contracts."
+      "sym": "L3H",
+      "note": "L3Harris partners with Anduril on a tactical SDA constellation bid, indicating a strategic shift in defense collaboration."
     },
     {
-      "sym": "TRUE",
-      "note": "True Anomaly's $190M funding signals a robust demand for space security."
+      "sym": "PLTR",
+      "note": "Palantir secured a $480 million extension on its TITAN program, reinforcing its foothold in defense contracts."
     },
     {
-      "sym": "SIE",
-      "note": "Sierra Space's Dream Chaser clears a critical hurdle, inching closer to launch."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains under pressure as it navigates the complexities of commercial space travel."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

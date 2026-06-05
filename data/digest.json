@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is seeing a flurry of activity, from funding rounds to strategic partnerships, as companies gear up for a competitive landscape. Meanwhile, government initiatives are pushing for advancements in propulsion and space computing, hinting at a more integrated approach to space operations.",
+  "summary": "The space sector is buzzing with activity, from satellite launches to new funding rounds. Meanwhile, the military's interest in space resilience continues to grow, as traditional boundaries blur between defense and commercial ventures.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Frenzy in Space",
-      "body": "True Anomaly's recent $190M Series C and Impulse Space's $500M Series D highlight a growing investor appetite for space ventures. With SpaceX eyeing a $75 billion IPO, the financial stakes are clearly rising."
-    },
-    {
-      "icon": "◉",
-      "title": "Nuclear Propulsion Developments",
-      "body": "NASA's efforts to streamline its nuclear electric propulsion demo mission signal a serious commitment to advanced propulsion technologies. This could pave the way for more ambitious deep-space missions, assuming they can avoid the usual bureaucratic delays."
+      "title": "Satellite Launches Galore",
+      "body": "The upcoming Ariane 6 mission is set to deploy 36 Amazon Leo satellites, showcasing the increasing demand for low Earth orbit capabilities. Meanwhile, the Qianfan constellation has reached a milestone of 200 satellites, highlighting China's rapid advancements in space infrastructure."
     },
     {
       "icon": "▲",
-      "title": "Data Centers in Orbit",
-      "body": "The concept of orbital data centers is gaining traction, with AstroForge's DeepSpace-2 spacecraft and Muon Space's new satellite design aimed at this market. As data demands increase, the race to establish infrastructure beyond Earth is heating up."
+      "title": "Funding and Valuations Rising",
+      "body": "Apex's valuation has soared to $2.3 billion following a substantial funding round, reflecting investor confidence in the satellite manufacturing sector. Similarly, True Anomaly's $190 million Series C round indicates a robust appetite for innovative space solutions."
     },
     {
       "icon": "◆",
-      "title": "International Space Dynamics",
-      "body": "China's institutional framework for space computing and recent allied workshops in The Hague indicate a push for global collaboration and competition in space resilience. Meanwhile, Russian activities near commercial GEO slots are a reminder that geopolitical tensions remain a constant in this arena."
+      "title": "Defense Meets Commercial Space",
+      "body": "Anduril and L3Harris are teaming up for a tactical satellite constellation bid, blurring the lines between commercial and defense applications in space. This trend is further echoed by the Defense-Tech IPO window showing signs of life, as companies seek to capitalize on the growing intersection of these sectors."
+    },
+    {
+      "icon": "◉",
+      "title": "Moon Bases and Mars Dreams",
+      "body": "While discussions about building a moon base gain traction, experts caution against losing focus on Mars exploration. Balancing these ambitions will be crucial as agencies and private players navigate the complexities of interplanetary aspirations."
     }
   ],
-  "updated": "2026-06-04 16:51 UTC"
+  "updated": "2026-06-05 15:59 UTC"
 }
