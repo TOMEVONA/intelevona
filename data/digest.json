@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space sector is buzzing with activity, from satellite launches to new funding rounds. Meanwhile, the military's interest in space resilience continues to grow, as traditional boundaries blur between defense and commercial ventures.",
+  "summary": "The space industry is buzzing with launches and funding, as satellite constellations proliferate and new partnerships form. Meanwhile, the budget for space resilience is getting a boost, even as some hypersonic tests continue to stall.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Satellite Launches Galore",
-      "body": "The upcoming Ariane 6 mission is set to deploy 36 Amazon Leo satellites, showcasing the increasing demand for low Earth orbit capabilities. Meanwhile, the Qianfan constellation has reached a milestone of 200 satellites, highlighting China's rapid advancements in space infrastructure."
-    },
-    {
-      "icon": "▲",
-      "title": "Funding and Valuations Rising",
-      "body": "Apex's valuation has soared to $2.3 billion following a substantial funding round, reflecting investor confidence in the satellite manufacturing sector. Similarly, True Anomaly's $190 million Series C round indicates a robust appetite for innovative space solutions."
-    },
-    {
-      "icon": "◆",
-      "title": "Defense Meets Commercial Space",
-      "body": "Anduril and L3Harris are teaming up for a tactical satellite constellation bid, blurring the lines between commercial and defense applications in space. This trend is further echoed by the Defense-Tech IPO window showing signs of life, as companies seek to capitalize on the growing intersection of these sectors."
+      "title": "Launches and Satellite Deployments",
+      "body": "Ariane 6 is gearing up to deliver 36 Amazon Leo satellites, showcasing the growing reliance on upgraded boosters. Meanwhile, the Qianfan constellation has reached 200 satellites, confirming that the race for LEO supremacy is well underway."
     },
     {
       "icon": "◉",
-      "title": "Moon Bases and Mars Dreams",
-      "body": "While discussions about building a moon base gain traction, experts caution against losing focus on Mars exploration. Balancing these ambitions will be crucial as agencies and private players navigate the complexities of interplanetary aspirations."
+      "title": "Funding and Valuations",
+      "body": "Apex's valuation has soared to $2.3 billion following a $200 million funding round, indicating strong investor confidence in satellite manufacturing. True Anomaly also raised $190 million, suggesting that the appetite for space startups remains robust."
+    },
+    {
+      "icon": "▲",
+      "title": "Defense and Space Resilience",
+      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, reflecting a growing recognition of the need for robust defense capabilities in orbit. This comes as Anduril and L3Harris team up for a tactical SDA constellation bid, signaling increased collaboration in the defense sector."
+    },
+    {
+      "icon": "◆",
+      "title": "Challenges in Hypersonics",
+      "body": "The hypersonic glide-vehicle test has slipped again, marking the third consecutive quarter of delays. This raises questions about the pace of advancements in a field that many see as critical for future military capabilities."
     }
   ],
-  "updated": "2026-06-05 15:59 UTC"
+  "updated": "2026-06-05 16:28 UTC"
 }

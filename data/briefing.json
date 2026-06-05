@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-05",
   "issue": "No. 45",
-  "headline": "Funding flows. Satellites multiply. Defense budgets swell.",
-  "deck": "This week saw significant funding rounds and strategic partnerships in the space sector.",
+  "headline": "Funding flows. Satellites launch. Budgets grow.",
+  "deck": "This week saw significant funding rounds and strategic launches, underscoring the industry's relentless pace.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "Apex's valuation skyrockets to $2.3 billion",
-      "body": "Apex has raised $200 million, pushing its valuation to $2.3 billion. This surge indicates a strong demand for satellite technology, particularly in a market where productized satellite buses are gaining traction. Investors seem to believe that the satellite game is not just about the number of launches but the efficiency of the platforms.",
-      "soWhat": "Apex's rise suggests that investors are betting heavily on the commodification of satellite technology, which could make the market even more competitive."
+      "head": "Apex's valuation skyrockets after $200 million raise",
+      "body": "Apex has raised $200 million, boosting its valuation to $2.3 billion as it focuses on productized satellite buses. This funding is a clear signal that investors are still keen on satellite technology, even as the market matures. The company’s next-gen Aries platform is expected to be a key player in upcoming contracts.",
+      "soWhat": "In a sector where hype often overshadows substance, Apex's valuation suggests that tangible products still drive investor confidence."
     },
     {
-      "kicker": "COLLABORATION",
-      "head": "Anduril and L3Harris unite for SDA bid",
-      "body": "Anduril and L3Harris have partnered to pursue a tactical Space Development Agency (SDA) constellation bid. This collaboration reflects a growing trend where defense contractors are pooling resources to tackle complex satellite challenges, especially in a landscape where the stakes are high, and budgets are expanding.",
-      "soWhat": "When big players team up, it’s often a sign that the competition is heating up—and that might mean more lucrative contracts down the line."
+      "kicker": "LAUNCHES",
+      "head": "Ariane 6 to debut with Amazon's satellite fleet",
+      "body": "The first Ariane 6 launch will carry 36 Amazon Leo satellites, showcasing the upgraded boosters designed to enhance payload capacity. This launch is a critical step for Amazon as it aims to establish a foothold in the competitive broadband space market. With this mission, ArianeGroup is also betting on its technical upgrades to regain market share.",
+      "soWhat": "Ariane 6’s performance will be closely monitored; a successful launch could breathe new life into Europe's launch capabilities, while a failure could deepen its woes."
     },
     {
-      "kicker": "TESTING",
-      "head": "Exploration Company inches closer to Nyx launch",
-      "body": "The Exploration Company has successfully completed a drop test of its Nyx capsule, with plans for a test flight in 2028. This is a small but meaningful step towards proving that their ambitious lunar plans are more than just PowerPoint slides. As companies race to establish a presence on the Moon, every test counts.",
-      "soWhat": "If they can keep this momentum, they might just beat the rush to the Moon—assuming the Moon doesn't get too crowded first."
+      "kicker": "DEFENSE",
+      "head": "Palantir secures $480 million extension for TITAN",
+      "body": "Palantir has won a $480 million extension for its TITAN ground station program, demonstrating the company's persistent grip on government contracts. This extension underscores the importance of robust data management systems in defense operations, particularly as the military seeks to integrate more advanced technologies. The funding reflects a growing recognition of the need for data-driven decision-making in defense.",
+      "soWhat": "In an era of tightening budgets, Palantir's ability to secure extensions indicates that the government is prioritizing proven capabilities over new entrants."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for Apex's next moves post-funding",
-      "body": "With a valuation of $2.3 billion, Apex's next strategic decisions could set the tone for satellite manufacturing in the coming months."
+      "title": "True Anomaly's Series C impacts defense tech",
+      "body": "True Anomaly's $190 million Series C could signal a shift in co-orbital security investments, especially as the DoD emphasizes space domain awareness."
     },
     {
-      "title": "Potential IPOs on the horizon",
-      "body": "As the defense-tech IPO window opens, expect more companies to explore public offerings, which could reshape funding dynamics in space."
+      "title": "Sierra Space's Dream Chaser moves closer to launch",
+      "body": "With the Dream Chaser DoD variant passing its critical design review, the focus will be on whether it can meet the ambitious timelines set for its first orbital flight."
     },
     {
-      "title": "NASA's Artemis 2 crew returns",
-      "body": "The successful orbit of the Moon by Artemis 2 could reignite interest in lunar missions and related technologies next week."
+      "title": "Anduril and L3Harris partnership to watch",
+      "body": "Their tactical SDA constellation bid may reshape how defense contracts are awarded, especially as collaboration becomes essential in complex projects."
     },
     {
-      "title": "Hypersonic testing delays continue",
-      "body": "The ongoing delays in hypersonic glide-vehicle testing may prompt defense contractors to pivot their focus towards more reliable technologies."
+      "title": "FY27 budget implications for space resilience",
+      "body": "The $1.4 billion boost for space resilience in the FY27 budget could lead to increased opportunities for contractors focused on security and surveillance technologies."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "APEX",
-      "note": "Apex's valuation skyrocketed to $2.3 billion after a $200 million funding round."
-    },
-    {
-      "sym": "L3H",
-      "note": "L3Harris partners with Anduril on a tactical SDA constellation bid, indicating a strategic shift in defense collaboration."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir secured a $480 million extension on its TITAN program, reinforcing its foothold in defense contracts."
+      "note": "Palantir's recent contract extension shows its stronghold in defense tech remains unshaken."
+    },
+    {
+      "sym": "APEX",
+      "note": "Apex's valuation surge suggests investor confidence in satellite technology is far from waning."
     },
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as it navigates the complexities of commercial space travel."
+      "note": "Virgin Galactic's stock remains under pressure as it grapples with operational challenges."
+    },
+    {
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's latest charts highlight the precarious balance between promise and potential pitfalls."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
