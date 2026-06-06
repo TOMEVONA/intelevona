@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-05",
-  "issue": "No. 45",
-  "headline": "Funding flows. Satellites launch. Budgets grow.",
-  "deck": "This week saw significant funding rounds and strategic launches, underscoring the industry's relentless pace.",
+  "updated": "2026-06-06",
+  "issue": "No. 46",
+  "headline": "Funding flows. Satellites soar. Budgets boost.",
+  "deck": "This week’s signals highlight a surge in funding and strategic partnerships across the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "Apex's valuation skyrockets after $200 million raise",
-      "body": "Apex has raised $200 million, boosting its valuation to $2.3 billion as it focuses on productized satellite buses. This funding is a clear signal that investors are still keen on satellite technology, even as the market matures. The company’s next-gen Aries platform is expected to be a key player in upcoming contracts.",
-      "soWhat": "In a sector where hype often overshadows substance, Apex's valuation suggests that tangible products still drive investor confidence."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly has secured a $190 million Series C round, bringing its valuation to $1.6 billion. This funding will bolster its co-orbital security and space domain awareness capabilities, which are increasingly critical as geopolitical tensions rise. With the DoD pulling through, the company is well-positioned to capitalize on defense contracts.",
+      "soWhat": "In a world where cash often trumps actual innovation, True Anomaly's funding reflects the defense sector's appetite for co-orbital capabilities."
     },
     {
-      "kicker": "LAUNCHES",
-      "head": "Ariane 6 to debut with Amazon's satellite fleet",
-      "body": "The first Ariane 6 launch will carry 36 Amazon Leo satellites, showcasing the upgraded boosters designed to enhance payload capacity. This launch is a critical step for Amazon as it aims to establish a foothold in the competitive broadband space market. With this mission, ArianeGroup is also betting on its technical upgrades to regain market share.",
-      "soWhat": "Ariane 6’s performance will be closely monitored; a successful launch could breathe new life into Europe's launch capabilities, while a failure could deepen its woes."
+      "kicker": "LAUNCH",
+      "head": "Ariane 6 preps for 36 Amazon Leo satellites",
+      "body": "The upcoming Ariane 6 launch is set to carry 36 Amazon Leo satellites, utilizing upgraded boosters to enhance payload capacity. This launch represents a significant step in Amazon's ambitions to dominate the broadband market. The stakes are high, as the success of this mission could redefine satellite internet services.",
+      "soWhat": "Amazon's satellite fleet could either be a game-changer or just another expensive lesson in space entrepreneurship."
     },
     {
-      "kicker": "DEFENSE",
-      "head": "Palantir secures $480 million extension for TITAN",
-      "body": "Palantir has won a $480 million extension for its TITAN ground station program, demonstrating the company's persistent grip on government contracts. This extension underscores the importance of robust data management systems in defense operations, particularly as the military seeks to integrate more advanced technologies. The funding reflects a growing recognition of the need for data-driven decision-making in defense.",
-      "soWhat": "In an era of tightening budgets, Palantir's ability to secure extensions indicates that the government is prioritizing proven capabilities over new entrants."
+      "kicker": "CONTRACTS",
+      "head": "Palantir wins $480M extension on TITAN program",
+      "body": "Palantir Technologies has secured a $480 million extension on its TITAN ground station program, underscoring the company's persistent hold on government contracts. This extension is indicative of the defense sector's reliance on data analytics, especially as the military increasingly integrates AI into operations.",
+      "soWhat": "In government contracting, it seems the key to success is simply sticking around long enough to be indispensable."
     }
   ],
   "watchlist": [
     {
-      "title": "True Anomaly's Series C impacts defense tech",
-      "body": "True Anomaly's $190 million Series C could signal a shift in co-orbital security investments, especially as the DoD emphasizes space domain awareness."
+      "title": "Potential IPOs on the horizon",
+      "body": "With the defense-tech IPO window cracking open, expect increased scrutiny on companies looking to go public."
     },
     {
-      "title": "Sierra Space's Dream Chaser moves closer to launch",
-      "body": "With the Dream Chaser DoD variant passing its critical design review, the focus will be on whether it can meet the ambitious timelines set for its first orbital flight."
+      "title": "Sierra Space's Dream Chaser moves forward",
+      "body": "Having cleared its critical design review, the Dream Chaser DoD variant is one step closer to operational reality, but let's not hold our breath just yet."
     },
     {
-      "title": "Anduril and L3Harris partnership to watch",
-      "body": "Their tactical SDA constellation bid may reshape how defense contracts are awarded, especially as collaboration becomes essential in complex projects."
+      "title": "Ariane 6 launch date approaches",
+      "body": "As the Ariane 6 launch nears, all eyes will be on its success and what it means for future commercial satellite endeavors."
     },
     {
-      "title": "FY27 budget implications for space resilience",
-      "body": "The $1.4 billion boost for space resilience in the FY27 budget could lead to increased opportunities for contractors focused on security and surveillance technologies."
+      "title": "Watch for defense funding shifts",
+      "body": "The FY27 budget markup's $1.4 billion for space resilience suggests a growing emphasis on national security in space strategy."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "PLTR",
-      "note": "Palantir's recent contract extension shows its stronghold in defense tech remains unshaken."
-    },
-    {
-      "sym": "APEX",
-      "note": "Apex's valuation surge suggests investor confidence in satellite technology is far from waning."
-    },
-    {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as it grapples with operational challenges."
+      "note": "Palantir's $480M contract extension shows its grip on defense analytics remains strong."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's latest charts highlight the precarious balance between promise and potential pitfalls."
+      "note": "ASTS's bull case illustrated in charts reveals the precarious balance between potential and risk."
+    },
+    {
+      "sym": "SIE",
+      "note": "Sierra Space’s Dream Chaser variant passing its design review could be a turning point for the company."
+    },
+    {
+      "sym": "AMZN",
+      "note": "Amazon's Ariane 6 launch will be crucial for its satellite internet ambitions, with significant implications for competitors."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

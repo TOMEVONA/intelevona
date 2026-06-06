@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with launches and funding, as satellite constellations proliferate and new partnerships form. Meanwhile, the budget for space resilience is getting a boost, even as some hypersonic tests continue to stall.",
+  "summary": "This week, the space industry is buzzing with partnerships and launches, while defense tech continues to eye the IPO horizon. Meanwhile, budget allocations hint at a growing appetite for resilience in space operations.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Launches and Satellite Deployments",
-      "body": "Ariane 6 is gearing up to deliver 36 Amazon Leo satellites, showcasing the growing reliance on upgraded boosters. Meanwhile, the Qianfan constellation has reached 200 satellites, confirming that the race for LEO supremacy is well underway."
+      "title": "Partnerships in Connectivity",
+      "body": "Leaf Space's collaboration with D-Orbit and EnduroSat signifies a push towards enhancing connectivity services in orbit. This trend reflects a broader industry shift towards integrated solutions as satellite constellations proliferate."
     },
     {
       "icon": "◉",
-      "title": "Funding and Valuations",
-      "body": "Apex's valuation has soared to $2.3 billion following a $200 million funding round, indicating strong investor confidence in satellite manufacturing. True Anomaly also raised $190 million, suggesting that the appetite for space startups remains robust."
+      "title": "Budget Boost for Space Resilience",
+      "body": "The recent $1.4 billion increase in the FY27 budget for space resilience underscores the Pentagon's commitment to safeguarding its assets in an increasingly contested environment. Expect more funding to flow into technologies that enhance operational security."
     },
     {
       "icon": "▲",
-      "title": "Defense and Space Resilience",
-      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, reflecting a growing recognition of the need for robust defense capabilities in orbit. This comes as Anduril and L3Harris team up for a tactical SDA constellation bid, signaling increased collaboration in the defense sector."
+      "title": "Ariane 6 and Amazon's Ambitions",
+      "body": "The upcoming Ariane 6 launch, set to deploy 36 Amazon Leo satellites, showcases the competitive landscape of satellite internet. With upgraded boosters in play, this launch could set the stage for Amazon's serious entry into the space-based broadband market."
     },
     {
       "icon": "◆",
-      "title": "Challenges in Hypersonics",
-      "body": "The hypersonic glide-vehicle test has slipped again, marking the third consecutive quarter of delays. This raises questions about the pace of advancements in a field that many see as critical for future military capabilities."
+      "title": "Hypersonics: A Slippery Slope",
+      "body": "The repeated delays in hypersonic glide-vehicle tests highlight the challenges facing this cutting-edge technology. As the third consecutive slip raises eyebrows, the pressure mounts to deliver on promises that could redefine military capabilities."
     }
   ],
-  "updated": "2026-06-05 16:28 UTC"
+  "updated": "2026-06-06 14:46 UTC"
 }
