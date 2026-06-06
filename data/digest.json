@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space industry is buzzing with partnerships and launches, while defense tech continues to eye the IPO horizon. Meanwhile, budget allocations hint at a growing appetite for resilience in space operations.",
+  "summary": "This week, the space industry is buzzing with partnerships and satellite launches, while budget discussions hint at a growing focus on resilience. Meanwhile, some hypersonic ambitions continue to slip further into the future.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Partnerships in Connectivity",
-      "body": "Leaf Space's collaboration with D-Orbit and EnduroSat signifies a push towards enhancing connectivity services in orbit. This trend reflects a broader industry shift towards integrated solutions as satellite constellations proliferate."
+      "title": "Satellite Deployment Surge",
+      "body": "Qianfan's recent milestone of 200 satellites highlights the rapid growth in LEO constellations. Meanwhile, Amazon's Ariane 6 launch is set to bolster its own satellite ambitions, albeit with some regulatory strings attached."
     },
     {
       "icon": "◉",
-      "title": "Budget Boost for Space Resilience",
-      "body": "The recent $1.4 billion increase in the FY27 budget for space resilience underscores the Pentagon's commitment to safeguarding its assets in an increasingly contested environment. Expect more funding to flow into technologies that enhance operational security."
+      "title": "Defense Budget Boost",
+      "body": "The FY27 budget markup adds $1.4 billion to space resilience, indicating a shift in priorities towards safeguarding assets in orbit. This could signal an uptick in contracts for companies focused on space security."
     },
     {
       "icon": "▲",
-      "title": "Ariane 6 and Amazon's Ambitions",
-      "body": "The upcoming Ariane 6 launch, set to deploy 36 Amazon Leo satellites, showcases the competitive landscape of satellite internet. With upgraded boosters in play, this launch could set the stage for Amazon's serious entry into the space-based broadband market."
+      "title": "Partnerships Flourish",
+      "body": "Leaf Space's collaboration with D-Orbit and EnduroSat underscores the increasing need for connectivity services in the expanding satellite ecosystem. As companies team up, the landscape is becoming more interconnected, if not more competitive."
     },
     {
       "icon": "◆",
-      "title": "Hypersonics: A Slippery Slope",
-      "body": "The repeated delays in hypersonic glide-vehicle tests highlight the challenges facing this cutting-edge technology. As the third consecutive slip raises eyebrows, the pressure mounts to deliver on promises that could redefine military capabilities."
+      "title": "Hypersonic Hurdles Continue",
+      "body": "The hypersonic glide-vehicle test slipping for the third consecutive quarter raises questions about the pace of U.S. advancements in this area. While the hype around hypersonics persists, tangible progress remains elusive."
     }
   ],
-  "updated": "2026-06-06 14:46 UTC"
+  "updated": "2026-06-06 15:10 UTC"
 }
