@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-06",
-  "issue": "No. 46",
-  "headline": "Funding flows. Satellites soar. Drama unfolds.",
-  "deck": "This week saw significant funding rounds and some space drama aboard the ISS.",
+  "updated": "2026-06-07",
+  "issue": "No. 47",
+  "headline": "Funding surges. Procurement tightens. Risks multiply.",
+  "deck": "Investments in space tech are booming, but the risks are becoming clear.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly secures $190M Series C funding",
-      "body": "True Anomaly has raised $190 million in Series C funding, bringing its valuation to $1.6 billion. The investment underscores the growing demand for co-orbital security and space domain awareness, as the DoD continues to ramp up its interest in these areas. Investors are clearly betting that space security will be a lucrative market.",
-      "soWhat": "When defense budgets get serious about space, it's a good time to be in the co-orbital security business."
+      "head": "True Anomaly raises $190M amid co-orbital concerns",
+      "body": "True Anomaly has secured a $190 million Series C funding round, bringing its valuation to $1.6 billion. The investment underscores a growing focus on co-orbital security and space domain awareness, driven largely by Department of Defense needs. As the U.S. faces increasing threats in space, True Anomaly's technology could be a critical component of national security.",
+      "soWhat": "With this kind of cash, True Anomaly is betting that the government will keep the funding spigot open for space security, which is a gamble that could pay off big—if they can deliver."
     },
     {
-      "kicker": "LAUNCH",
-      "head": "Ariane 6 to launch 36 Amazon Leo satellites",
-      "body": "The upcoming Ariane 6 launch will carry 36 satellites for Amazon's low Earth orbit (LEO) broadband project, a significant milestone for the e-commerce giant. This mission, powered by upgraded boosters, marks a critical step in Amazon's quest to compete with established players like SpaceX and OneWeb. The launch is expected to take place in the coming months.",
-      "soWhat": "With Amazon entering the satellite broadband game, the competition is about to get a lot more interesting — and crowded."
+      "kicker": "PROCUREMENT",
+      "head": "NASA's ISS safety measures raise eyebrows",
+      "body": "NASA has ordered ISS astronauts to shelter in a Crew Dragon due to perceived risks from Russian repairs, highlighting a significant concern for astronaut safety. This decision comes amid a backdrop of increasing geopolitical tensions and potential threats to the ISS's operational integrity. The agency's cautious approach may signal a new era of risk management in low Earth orbit.",
+      "soWhat": "When astronauts are told to stay in their cars, it’s a reminder that even in space, operational safety is paramount—though it does make you wonder about the long-term viability of international partnerships."
     },
     {
-      "kicker": "DEFENSE",
-      "head": "Palantir wins $480M extension for TITAN program",
-      "body": "Palantir Technologies has secured a $480 million extension on its TITAN ground station program, continuing its long-standing relationship with the U.S. government. This extension highlights Palantir's ability to navigate the complex world of defense contracting, where persistence often pays off. The company has proven that it can deliver value in the realm of data analytics for military applications.",
-      "soWhat": "In defense contracting, it's not just about the technology; it's about being the last one standing at the negotiating table."
+      "kicker": "BUDGET",
+      "head": "FY27 budget allocates $1.4B for space resilience",
+      "body": "The FY27 budget markup has added $1.4 billion to enhance space resilience, a clear acknowledgment of the growing vulnerabilities in space operations. This funding is aimed at fortifying U.S. capabilities in the face of emerging threats, including adversarial co-orbital activities. It’s a substantial increase that reflects a shift in government priorities towards securing space assets.",
+      "soWhat": "This budget boost might be too little, too late for some, but at least they're finally paying attention—now let’s see if they can spend it wisely."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on SpaceX's valuation",
-      "body": "With SpaceX's secondary market valuation hitting $470 billion, investors will be watching for any signs of a public offering."
+      "title": "Watch for True Anomaly's next moves",
+      "body": "With fresh capital, True Anomaly may soon announce new contracts or partnerships that could reshape its market position."
     },
     {
-      "title": "Watch for next Ariane 6 launch date",
-      "body": "The launch of 36 Amazon satellites could set the stage for future competition in satellite broadband."
+      "title": "NASA's building selection process begins",
+      "body": "The selection of NASA's new headquarters could influence future procurement strategies and office-space dynamics in the agency."
     },
     {
-      "title": "Sierra Space's Dream Chaser status",
-      "body": "With its DoD variant passing a critical design review, the next steps for Sierra Space will be closely scrutinized."
+      "title": "Sierra Space's Dream Chaser progress",
+      "body": "The success of the Dream Chaser's design review could lead to more contracts, particularly from the DoD, if it proves reliable."
     },
     {
-      "title": "Palantir's TITAN program developments",
-      "body": "As Palantir continues to secure funding, its role in defense data analytics will be pivotal for future contracts."
+      "title": "Potential shifts in venture capital focus",
+      "body": "Founders Fund’s portfolio review may signal broader trends in VC investment strategies, particularly in the space sector."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension shows its stronghold in defense contracting."
+      "note": "Palantir's $480M extension shows the enduring allure of government contracts."
     },
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's recent flight success could reignite interest in commercial space tourism."
+      "note": "Virgin Galactic's stock remains volatile as it navigates through operational challenges."
     },
     {
-      "sym": "AMZN",
-      "note": "Amazon's satellite launch plans are a bold move into the broadband arena."
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's bull case is compelling, but execution risks loom large."
     },
     {
-      "sym": "SXI",
-      "note": "SpaceX's valuation remains a focal point for investors eyeing space IPOs."
+      "sym": "AER",
+      "note": "Aerojet Rocketdyne's recent contracts hint at a possible resurgence in defense spending."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
