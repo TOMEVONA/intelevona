@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-07",
   "issue": "No. 47",
-  "headline": "Funding surges. Procurement tightens. Risks multiply.",
-  "deck": "Investments in space tech are booming, but the risks are becoming clear.",
+  "headline": "Funding flows. ISS safety concerns. Space unicorns multiply.",
+  "deck": "This week, cash flow in space continues while safety protocols tighten.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid co-orbital concerns",
-      "body": "True Anomaly has secured a $190 million Series C funding round, bringing its valuation to $1.6 billion. The investment underscores a growing focus on co-orbital security and space domain awareness, driven largely by Department of Defense needs. As the U.S. faces increasing threats in space, True Anomaly's technology could be a critical component of national security.",
-      "soWhat": "With this kind of cash, True Anomaly is betting that the government will keep the funding spigot open for space security, which is a gamble that could pay off big—if they can deliver."
+      "head": "True Anomaly raises $190M at $1.6B valuation",
+      "body": "True Anomaly secured a $190 million Series C round, bringing its valuation to $1.6 billion. The funding highlights the growing demand for co-orbital security and space domain awareness, as the DoD pushes for more robust capabilities. With the defense sector increasingly eyeing space, True Anomaly's traction indicates a bullish outlook for private security in orbit.",
+      "soWhat": "Investors clearly believe that space security is the next big thing, even if the rest of the world is still figuring out how to keep its satellites safe."
     },
     {
       "kicker": "PROCUREMENT",
-      "head": "NASA's ISS safety measures raise eyebrows",
-      "body": "NASA has ordered ISS astronauts to shelter in a Crew Dragon due to perceived risks from Russian repairs, highlighting a significant concern for astronaut safety. This decision comes amid a backdrop of increasing geopolitical tensions and potential threats to the ISS's operational integrity. The agency's cautious approach may signal a new era of risk management in low Earth orbit.",
-      "soWhat": "When astronauts are told to stay in their cars, it’s a reminder that even in space, operational safety is paramount—though it does make you wonder about the long-term viability of international partnerships."
+      "head": "NASA orders ISS crew to take shelter",
+      "body": "NASA instructed astronauts aboard the ISS to take refuge in a Crew Dragon due to concerns over Russian repairs. This decision underscores the growing unease regarding international cooperation in space, particularly with geopolitical tensions on the rise. The incident raises questions about operational safety and the reliability of international partners.",
+      "soWhat": "If NASA is this worried, it might be time for all of us to reconsider our assumptions about space safety."
     },
     {
-      "kicker": "BUDGET",
-      "head": "FY27 budget allocates $1.4B for space resilience",
-      "body": "The FY27 budget markup has added $1.4 billion to enhance space resilience, a clear acknowledgment of the growing vulnerabilities in space operations. This funding is aimed at fortifying U.S. capabilities in the face of emerging threats, including adversarial co-orbital activities. It’s a substantial increase that reflects a shift in government priorities towards securing space assets.",
-      "soWhat": "This budget boost might be too little, too late for some, but at least they're finally paying attention—now let’s see if they can spend it wisely."
+      "kicker": "UNICORNS",
+      "head": "Billion-dollar space startups are multiplying",
+      "body": "A recent roundup revealed that the number of billion-dollar space startups is increasing, with companies like Astranis and Stoke Space leading the charge. Astranis recently raised $250 million for microGEO production, while Stoke secured $260 million for its fully-reusable medium-lift systems. This surge indicates a robust appetite for investment in space technology, as more players enter the market.",
+      "soWhat": "The unicorns are here, but the real question is whether they can deliver on their lofty valuations."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for True Anomaly's next moves",
-      "body": "With fresh capital, True Anomaly may soon announce new contracts or partnerships that could reshape its market position."
+      "title": "Watch for NASA's HQ decision",
+      "body": "The selection of NASA's new headquarters could signal strategic shifts in agency focus and priorities."
     },
     {
-      "title": "NASA's building selection process begins",
-      "body": "The selection of NASA's new headquarters could influence future procurement strategies and office-space dynamics in the agency."
+      "title": "Keep an eye on ISS safety protocols",
+      "body": "As concerns grow around international cooperation, expect a reevaluation of ISS operational safety measures."
     },
     {
-      "title": "Sierra Space's Dream Chaser progress",
-      "body": "The success of the Dream Chaser's design review could lead to more contracts, particularly from the DoD, if it proves reliable."
+      "title": "Upcoming funding rounds in space",
+      "body": "With more startups eyeing the public markets, anticipate fresh funding announcements that could reshape the landscape."
     },
     {
-      "title": "Potential shifts in venture capital focus",
-      "body": "Founders Fund’s portfolio review may signal broader trends in VC investment strategies, particularly in the space sector."
+      "title": "Defense-Tech IPO window developments",
+      "body": "The cracking open of the IPO window could lead to significant shifts in funding dynamics for defense-related startups."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480M extension shows the enduring allure of government contracts."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains volatile as it navigates the aftermath of its recent test flight."
     },
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates through operational challenges."
+      "sym": "PLTR",
+      "note": "Palantir's $480 million extension on the TITAN program shows the value of persistence in government contracts."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's bull case is compelling, but execution risks loom large."
+      "note": "AST SpaceMobile's recent charts highlight the precarious balance between execution and disaster."
     },
     {
-      "sym": "AER",
-      "note": "Aerojet Rocketdyne's recent contracts hint at a possible resurgence in defense spending."
+      "sym": "SSTK",
+      "note": "Stoke Space's new funding round reflects the ongoing interest in reusable launch systems."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

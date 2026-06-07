@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as NASA considers new headquarters and potential Hubble upgrades, while various partnerships and funding rounds signal a robust private sector. Meanwhile, defense tech continues to attract attention, with a notable focus on space resilience and tactical capabilities.",
+  "summary": "As NASA eyes new headquarters and contemplates a Hubble reboost, the space industry is buzzing with funding rounds and strategic partnerships. Meanwhile, defense tech is stirring, with IPOs on the horizon and a notable uptick in space resilience funding.",
   "themes": [
     {
       "icon": "▣",
-      "title": "NASA's Headquarters Hunt",
-      "body": "NASA is on the verge of selecting a new headquarters building, a move that could signal a shift in its operational focus. This decision, expected by year-end, may reflect the agency's evolving priorities in a rapidly changing space landscape."
+      "title": "NASA's Real Estate Shuffle",
+      "body": "NASA's decision to select a new headquarters by year-end signals a potential shift in its operational focus. This move could reflect broader ambitions as the agency grapples with aging infrastructure and evolving mission needs."
     },
     {
       "icon": "◉",
-      "title": "Funding and Partnerships Flourish",
-      "body": "Leaf Space's collaboration with D-Orbit and EnduroSat highlights the growing trend of connectivity services in the space sector. Meanwhile, True Anomaly's recent $190M Series C round underscores the increasing appetite for investment in space-related ventures."
+      "title": "Funding Frenzy in Space",
+      "body": "With True Anomaly raising $190M and Apex hitting a $2.3B valuation, the space unicorns are multiplying. Investors seem keen to capitalize on the burgeoning demand for space services, despite the occasional hiccup in project timelines."
     },
     {
       "icon": "▲",
-      "title": "Defense Tech's Space Resilience Push",
-      "body": "The FY27 budget markup, which adds $1.4B to the space resilience line, signals a commitment to fortifying U.S. capabilities in the face of emerging threats. This aligns with Anduril and L3Harris's tactical SDA constellation bid, emphasizing the intersection of defense and space."
+      "title": "Defense Tech IPOs on the Rise",
+      "body": "The defense-tech sector is showing signs of life as the IPO window cracks open, with companies like Palantir securing significant extensions. This could lead to a wave of public offerings, as investors seek to capitalize on the intersection of technology and national security."
     },
     {
       "icon": "◆",
-      "title": "Hubble and ISS Concerns",
-      "body": "NASA's interest in a Hubble reboost hinges on cost reductions, illustrating the agency's tightrope walk between ambition and budget constraints. Additionally, concerns over Russian repairs have prompted a decision to establish safe havens on the ISS, reflecting ongoing geopolitical tensions."
+      "title": "International Space Concerns",
+      "body": "NASA's worries about Russian repairs have prompted a safe haven decision for the ISS, highlighting geopolitical tensions in space. Meanwhile, co-orbital activities near commercial GEO slots raise eyebrows, suggesting that space is becoming as contentious as it is strategic."
     }
   ],
-  "updated": "2026-06-07 14:56 UTC"
+  "updated": "2026-06-07 15:20 UTC"
 }
