@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-07",
-  "issue": "No. 47",
-  "headline": "Funding flows. ISS safety concerns. Space unicorns multiply.",
-  "deck": "This week, cash flow in space continues while safety protocols tighten.",
+  "updated": "2026-06-08",
+  "issue": "No. 48",
+  "headline": "GPS jamming escalates. SPACs proliferate. Funding flows.",
+  "deck": "This week, geopolitical tensions and market movements shape the aerospace landscape.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
+      "kicker": "SECURITY",
+      "head": "Russia's GPS Jamming Hits New Heights",
+      "body": "Russia has ramped up its GPS jamming efforts, particularly over the Eastern Mediterranean, returning to pre-2024 levels. This new wave of interference raises concerns for U.S. navigation systems and could complicate military operations in the region. With global tensions simmering, the implications for defense procurement are clear: expect a surge in demand for more resilient navigation technologies.",
+      "soWhat": "If you're betting on GPS alternatives, now might be the time to double down."
+    },
+    {
+      "kicker": "M&A",
+      "head": "Quantum Space to Go Public via SPAC",
+      "body": "Quantum Space is set to go public through a SPAC merger, which may raise eyebrows given the recent SPAC fatigue in the market. The deal is expected to value the company at around $1 billion, showcasing that even in a cooling market, some firms believe they can still ride the wave of investor interest. This move could signal a renewed appetite for space tech among public investors.",
+      "soWhat": "If SPACs are back on the menu, expect more aerospace startups to dust off their prospectuses."
+    },
+    {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M at $1.6B valuation",
-      "body": "True Anomaly secured a $190 million Series C round, bringing its valuation to $1.6 billion. The funding highlights the growing demand for co-orbital security and space domain awareness, as the DoD pushes for more robust capabilities. With the defense sector increasingly eyeing space, True Anomaly's traction indicates a bullish outlook for private security in orbit.",
-      "soWhat": "Investors clearly believe that space security is the next big thing, even if the rest of the world is still figuring out how to keep its satellites safe."
-    },
-    {
-      "kicker": "PROCUREMENT",
-      "head": "NASA orders ISS crew to take shelter",
-      "body": "NASA instructed astronauts aboard the ISS to take refuge in a Crew Dragon due to concerns over Russian repairs. This decision underscores the growing unease regarding international cooperation in space, particularly with geopolitical tensions on the rise. The incident raises questions about operational safety and the reliability of international partners.",
-      "soWhat": "If NASA is this worried, it might be time for all of us to reconsider our assumptions about space safety."
-    },
-    {
-      "kicker": "UNICORNS",
-      "head": "Billion-dollar space startups are multiplying",
-      "body": "A recent roundup revealed that the number of billion-dollar space startups is increasing, with companies like Astranis and Stoke Space leading the charge. Astranis recently raised $250 million for microGEO production, while Stoke secured $260 million for its fully-reusable medium-lift systems. This surge indicates a robust appetite for investment in space technology, as more players enter the market.",
-      "soWhat": "The unicorns are here, but the real question is whether they can deliver on their lofty valuations."
+      "head": "True Anomaly Secures $190M Series C",
+      "body": "True Anomaly has raised $190 million in a Series C funding round, bringing its valuation to $1.6 billion. This round underscores a robust interest in co-orbital security and space domain awareness technologies, particularly as DoD contracts become more lucrative. The funding will fuel further development in a sector that's increasingly seen as critical to national security.",
+      "soWhat": "In a world of rising threats, co-orbital security is not just a niche; it’s becoming a necessity."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for NASA's HQ decision",
-      "body": "The selection of NASA's new headquarters could signal strategic shifts in agency focus and priorities."
+      "title": "Keep an eye on GPS alternatives",
+      "body": "With jamming intensifying, companies focused on resilient navigation solutions could see increased interest."
     },
     {
-      "title": "Keep an eye on ISS safety protocols",
-      "body": "As concerns grow around international cooperation, expect a reevaluation of ISS operational safety measures."
+      "title": "SPAC deals may surge again",
+      "body": "As Quantum Space's public listing unfolds, other startups might follow suit, reigniting the SPAC conversation."
     },
     {
-      "title": "Upcoming funding rounds in space",
-      "body": "With more startups eyeing the public markets, anticipate fresh funding announcements that could reshape the landscape."
+      "title": "Funding rounds could accelerate",
+      "body": "With True Anomaly's success, expect other space firms to seek funding as defense budgets expand."
     },
     {
-      "title": "Defense-Tech IPO window developments",
-      "body": "The cracking open of the IPO window could lead to significant shifts in funding dynamics for defense-related startups."
+      "title": "Watch for more co-orbital activity",
+      "body": "As tensions rise, we may see increased investments in technologies aimed at countering threats in space."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates the aftermath of its recent test flight."
+      "sym": "SPAC",
+      "note": "Quantum Space's SPAC merger signals renewed interest in public listings, despite market fatigue."
+    },
+    {
+      "sym": "TRU",
+      "note": "True Anomaly's $190M Series C highlights the growing importance of co-orbital security."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480 million extension on the TITAN program shows the value of persistence in government contracts."
+      "note": "Palantir's $480M extension on the TITAN program shows the government still favors incumbents."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's recent charts highlight the precarious balance between execution and disaster."
-    },
-    {
-      "sym": "SSTK",
-      "note": "Stoke Space's new funding round reflects the ongoing interest in reusable launch systems."
+      "note": "AST SpaceMobile's bull case is looking a bit shaky; investors should watch closely."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

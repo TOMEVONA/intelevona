@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "As NASA eyes new headquarters and contemplates a Hubble reboost, the space industry is buzzing with funding rounds and strategic partnerships. Meanwhile, defense tech is stirring, with IPOs on the horizon and a notable uptick in space resilience funding.",
+  "summary": "The space industry is buzzing with a mix of geopolitical maneuvering and corporate machinations. From GPS jamming to SPAC deals, it seems everyone is trying to stake their claim in the final frontier.",
   "themes": [
     {
       "icon": "▣",
-      "title": "NASA's Real Estate Shuffle",
-      "body": "NASA's decision to select a new headquarters by year-end signals a potential shift in its operational focus. This move could reflect broader ambitions as the agency grapples with aging infrastructure and evolving mission needs."
+      "title": "GPS Jamming Escalation",
+      "body": "Russia's renewed efforts to jam GPS signals over the Eastern Mediterranean are a stark reminder of the vulnerabilities in global navigation systems. This move not only complicates military operations but also raises questions about the resilience of commercial satellite networks."
     },
     {
       "icon": "◉",
-      "title": "Funding Frenzy in Space",
-      "body": "With True Anomaly raising $190M and Apex hitting a $2.3B valuation, the space unicorns are multiplying. Investors seem keen to capitalize on the burgeoning demand for space services, despite the occasional hiccup in project timelines."
+      "title": "SPACs and Space Startups",
+      "body": "Quantum Space's decision to go public via a SPAC deal highlights the growing interest in space-related ventures, even as the IPO market remains shaky. Investors are clearly looking for the next big thing beyond Earth, but the sustainability of these ventures remains to be seen."
     },
     {
       "icon": "▲",
-      "title": "Defense Tech IPOs on the Rise",
-      "body": "The defense-tech sector is showing signs of life as the IPO window cracks open, with companies like Palantir securing significant extensions. This could lead to a wave of public offerings, as investors seek to capitalize on the intersection of technology and national security."
+      "title": "U.S.-China Space Competition",
+      "body": "The upcoming WRC-27 conference is set to be a key battleground for U.S.-China tensions in space. As both nations vie for dominance in satellite communications and frequency allocations, the stakes are higher than ever."
     },
     {
       "icon": "◆",
-      "title": "International Space Concerns",
-      "body": "NASA's worries about Russian repairs have prompted a safe haven decision for the ISS, highlighting geopolitical tensions in space. Meanwhile, co-orbital activities near commercial GEO slots raise eyebrows, suggesting that space is becoming as contentious as it is strategic."
+      "title": "Defense Spending Trends",
+      "body": "The recent $1.4 billion boost to the space resilience line in the FY27 budget underscores a growing recognition of the need for robust space capabilities. As threats evolve, so too does the funding landscape, with defense contractors poised to benefit."
     }
   ],
-  "updated": "2026-06-07 15:20 UTC"
+  "updated": "2026-06-08 16:51 UTC"
 }
