@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-08",
   "issue": "No. 48",
-  "headline": "GPS jamming escalates. SPACs proliferate. Funding flows.",
-  "deck": "This week, geopolitical tensions and market movements shape the aerospace landscape.",
+  "headline": "GPS jamming intensifies. SPACs are back. Defense funding rises.",
+  "deck": "This week saw heightened GPS jamming, a SPAC revival, and increased defense budgets.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "SECURITY",
-      "head": "Russia's GPS Jamming Hits New Heights",
-      "body": "Russia has ramped up its GPS jamming efforts, particularly over the Eastern Mediterranean, returning to pre-2024 levels. This new wave of interference raises concerns for U.S. navigation systems and could complicate military operations in the region. With global tensions simmering, the implications for defense procurement are clear: expect a surge in demand for more resilient navigation technologies.",
-      "soWhat": "If you're betting on GPS alternatives, now might be the time to double down."
+      "kicker": "JAMMING",
+      "head": "Russia's GPS jamming returns to pre-2024 levels",
+      "body": "Russia's GPS jamming in the Eastern Mediterranean has ramped back up to levels not seen since before 2024, creating navigational chaos just when we thought we had a handle on it. This resurgence raises questions about the operational readiness of global navigation systems, particularly for military applications. Insurers are already rethinking their risk assessments in light of these developments.",
+      "soWhat": "If you thought GPS was foolproof, think again—this is a reminder that geopolitical tensions can disrupt even the most mundane of technologies."
     },
     {
-      "kicker": "M&A",
-      "head": "Quantum Space to Go Public via SPAC",
-      "body": "Quantum Space is set to go public through a SPAC merger, which may raise eyebrows given the recent SPAC fatigue in the market. The deal is expected to value the company at around $1 billion, showcasing that even in a cooling market, some firms believe they can still ride the wave of investor interest. This move could signal a renewed appetite for space tech among public investors.",
-      "soWhat": "If SPACs are back on the menu, expect more aerospace startups to dust off their prospectuses."
+      "kicker": "SPAC",
+      "head": "Quantum Space sets sail for SPAC deal",
+      "body": "Quantum Space has announced plans to go public via a SPAC, a move that values the company at approximately $1.2 billion. This deal comes as the market for space-related companies shows signs of life, despite the general malaise in tech IPOs. Investors are hoping Quantum's maneuverability translates into stock performance, but history suggests caution.",
+      "soWhat": "The SPAC craze isn’t dead yet, but investors should remember that not all spacecraft make it to orbit—some just burn up on re-entry."
     },
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly Secures $190M Series C",
-      "body": "True Anomaly has raised $190 million in a Series C funding round, bringing its valuation to $1.6 billion. This round underscores a robust interest in co-orbital security and space domain awareness technologies, particularly as DoD contracts become more lucrative. The funding will fuel further development in a sector that's increasingly seen as critical to national security.",
-      "soWhat": "In a world of rising threats, co-orbital security is not just a niche; it’s becoming a necessity."
+      "kicker": "BUDGET",
+      "head": "U.S. adds $1.4B for space resilience in FY27 budget",
+      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, reflecting a growing recognition that space is a critical national asset. This funding is aimed at bolstering defense capabilities against emerging threats, particularly in light of recent Russian activities. The allocation signals a shift towards prioritizing long-term strategic investments over short-term fixes.",
+      "soWhat": "More money for space resilience means more contracts for defense contractors—but it also means more scrutiny on how that money is spent."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on GPS alternatives",
-      "body": "With jamming intensifying, companies focused on resilient navigation solutions could see increased interest."
+      "title": "Watch for GPS tech responses",
+      "body": "With GPS jamming back in the spotlight, expect companies specializing in alternative navigation solutions to gain traction."
     },
     {
-      "title": "SPAC deals may surge again",
-      "body": "As Quantum Space's public listing unfolds, other startups might follow suit, reigniting the SPAC conversation."
+      "title": "SPAC market dynamics to shift",
+      "body": "As Quantum Space enters the public arena, other space companies may reconsider their own paths to liquidity."
     },
     {
-      "title": "Funding rounds could accelerate",
-      "body": "With True Anomaly's success, expect other space firms to seek funding as defense budgets expand."
+      "title": "Monitoring U.S.-China satellite race",
+      "body": "The WRC-27 developments will be crucial as the U.S. and China ramp up their satellite deployments."
     },
     {
-      "title": "Watch for more co-orbital activity",
-      "body": "As tensions rise, we may see increased investments in technologies aimed at countering threats in space."
+      "title": "Defense tech IPOs on the horizon",
+      "body": "With the Defense-Tech IPO window opening, expect a flurry of activity as startups try to capitalize on newfound interest."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPAC",
-      "note": "Quantum Space's SPAC merger signals renewed interest in public listings, despite market fatigue."
-    },
-    {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M Series C highlights the growing importance of co-orbital security."
+      "sym": "QSPC",
+      "note": "Quantum Space's SPAC deal could signal a resurgence in space IPOs."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program shows the government still favors incumbents."
+      "note": "Palantir's $480M contract extension highlights the importance of longevity in defense contracts."
+    },
+    {
+      "sym": "SSTK",
+      "note": "Sierra Space's Dream Chaser DoD variant cleared design review—next step is actual flight."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's bull case is looking a bit shaky; investors should watch closely."
+      "note": "AST SpaceMobile's bull case illustrated in charts; execution risk remains high."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
