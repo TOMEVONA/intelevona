@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-08",
-  "issue": "No. 48",
-  "headline": "GPS jamming intensifies. SPACs are back. Defense funding rises.",
-  "deck": "This week saw heightened GPS jamming, a SPAC revival, and increased defense budgets.",
+  "updated": "2026-06-09",
+  "issue": "No. 49",
+  "headline": "Funding flows. Contracts expand. Plans derail.",
+  "deck": "This week saw significant funding rounds and contract modifications as the space industry grapples with shifting priorities.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "JAMMING",
-      "head": "Russia's GPS jamming returns to pre-2024 levels",
-      "body": "Russia's GPS jamming in the Eastern Mediterranean has ramped back up to levels not seen since before 2024, creating navigational chaos just when we thought we had a handle on it. This resurgence raises questions about the operational readiness of global navigation systems, particularly for military applications. Insurers are already rethinking their risk assessments in light of these developments.",
-      "soWhat": "If you thought GPS was foolproof, think again—this is a reminder that geopolitical tensions can disrupt even the most mundane of technologies."
+      "kicker": "FUNDING",
+      "head": "Iceye raises €1 billion for satellite expansion",
+      "body": "Iceye has raised over €1 billion to expand its radar imaging satellite systems, underscoring the growing demand for satellite data. This move positions Iceye as a key player in the SAR market, where competition is heating up. The funding round is a clear indicator that investors are still keen on space ventures, despite broader economic uncertainties.",
+      "soWhat": "When satellite data is hot, it’s not just the tech that shines; it’s the investors looking for the next big return."
     },
     {
-      "kicker": "SPAC",
-      "head": "Quantum Space sets sail for SPAC deal",
-      "body": "Quantum Space has announced plans to go public via a SPAC, a move that values the company at approximately $1.2 billion. This deal comes as the market for space-related companies shows signs of life, despite the general malaise in tech IPOs. Investors are hoping Quantum's maneuverability translates into stock performance, but history suggests caution.",
-      "soWhat": "The SPAC craze isn’t dead yet, but investors should remember that not all spacecraft make it to orbit—some just burn up on re-entry."
+      "kicker": "CONTRACTS",
+      "head": "BlackSky accelerates AROS satellite work for NRO",
+      "body": "BlackSky has received a contract modification from the National Reconnaissance Office (NRO) to expedite its AROS satellite development. This modification signals an increasing urgency in the intelligence community for timely satellite data, especially amidst rising geopolitical tensions. With this push, BlackSky is likely to enhance its competitive edge in the spy satellite race.",
+      "soWhat": "In the intelligence game, speed can be as critical as accuracy; BlackSky is betting that quicker satellites will win contracts."
     },
     {
-      "kicker": "BUDGET",
-      "head": "U.S. adds $1.4B for space resilience in FY27 budget",
-      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, reflecting a growing recognition that space is a critical national asset. This funding is aimed at bolstering defense capabilities against emerging threats, particularly in light of recent Russian activities. The allocation signals a shift towards prioritizing long-term strategic investments over short-term fixes.",
-      "soWhat": "More money for space resilience means more contracts for defense contractors—but it also means more scrutiny on how that money is spent."
+      "kicker": "TECH",
+      "head": "Sierra Space's Dream Chaser variant clears design review",
+      "body": "Sierra Space's Dream Chaser DoD variant has successfully passed its critical design review, paving the way for further development. This marks a significant milestone as the company aims to fulfill Department of Defense requirements for cargo transport. However, the real challenge lies ahead in transitioning from design to actual deployment, a hurdle many have stumbled over.",
+      "soWhat": "Design reviews are the easy part; execution is where dreams often get grounded."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for GPS tech responses",
-      "body": "With GPS jamming back in the spotlight, expect companies specializing in alternative navigation solutions to gain traction."
+      "title": "Watch for more funding rounds",
+      "body": "With Iceye's massive raise, other companies may follow suit to capitalize on investor interest in space."
     },
     {
-      "title": "SPAC market dynamics to shift",
-      "body": "As Quantum Space enters the public arena, other space companies may reconsider their own paths to liquidity."
+      "title": "NRO’s procurement strategy shifts",
+      "body": "BlackSky's contract modification may indicate a broader shift in NRO priorities towards rapid satellite deployment."
     },
     {
-      "title": "Monitoring U.S.-China satellite race",
-      "body": "The WRC-27 developments will be crucial as the U.S. and China ramp up their satellite deployments."
+      "title": "Sierra Space’s next steps",
+      "body": "The success of Dream Chaser’s design review will be closely monitored as it moves toward production."
     },
     {
-      "title": "Defense tech IPOs on the horizon",
-      "body": "With the Defense-Tech IPO window opening, expect a flurry of activity as startups try to capitalize on newfound interest."
+      "title": "True Anomaly’s growth trajectory",
+      "body": "Following its $190M Series C, True Anomaly's strategic moves will be key in the co-orbital security sector."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "QSPC",
-      "note": "Quantum Space's SPAC deal could signal a resurgence in space IPOs."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains volatile as it navigates its path to profitability."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480M contract extension highlights the importance of longevity in defense contracts."
+      "sym": "BLK",
+      "note": "BlackSky's contract with the NRO could boost its stock performance if execution aligns with expectations."
     },
     {
-      "sym": "SSTK",
-      "note": "Sierra Space's Dream Chaser DoD variant cleared design review—next step is actual flight."
+      "sym": "ICEYE",
+      "note": "Iceye's recent funding round positions it favorably in the competitive SAR market."
     },
     {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's bull case illustrated in charts; execution risk remains high."
+      "sym": "SIE",
+      "note": "Sierra Space’s progress with Dream Chaser could impact its valuation significantly in the coming months."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

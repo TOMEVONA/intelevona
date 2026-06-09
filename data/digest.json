@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as geopolitical tensions simmer and companies scramble for funding. From GPS jamming efforts to the latest SPAC deals, the landscape is anything but dull.",
+  "summary": "The space industry is buzzing with funding rounds and contract modifications, while NASA's lunar ambitions face a reality check. Meanwhile, the defense sector is increasingly entwined with AI, as companies pivot to meet emerging threats.",
   "themes": [
     {
       "icon": "▣",
-      "title": "GPS Jamming Escalates",
-      "body": "Russia's renewed efforts to jam GPS signals are raising eyebrows and concerns among defense analysts. This move could complicate operations for both military and civilian users in affected regions."
+      "title": "Funding Frenzy in Space",
+      "body": "Iceye's hefty €1 billion raise and Isar Aerospace's €270 million boost highlight a growing appetite for investment in satellite systems and launch capabilities. This trend suggests that the space economy is maturing, attracting serious capital for ambitious projects."
     },
     {
       "icon": "◉",
-      "title": "SPACs and IPOs Resurface",
-      "body": "Quantum Space's impending SPAC deal highlights a potential thaw in the defense-tech IPO market. Meanwhile, Palantir's extension on the TITAN program suggests that government contracts remain a reliable revenue stream."
+      "title": "NASA's Moon Base Woes",
+      "body": "New Glenn's recent setbacks have forced NASA to rethink its lunar base plans, underscoring the complexities of ambitious space architecture. As timelines slip, stakeholders are reminded that the path to the Moon is rarely a straight line."
     },
     {
       "icon": "▲",
-      "title": "U.S.-China Space Competition",
-      "body": "The upcoming WRC-27 conference is set to be a battleground for U.S.-China rivalry in space. Expect discussions on satellite frequencies to turn into a proxy for broader geopolitical tensions."
+      "title": "AI's Defense Surge",
+      "body": "With every startup seemingly pivoting to 'AI for Defense', the sector is witnessing a significant shift towards integrating advanced technologies into military applications. This trend could reshape operational strategies, but the long-term viability remains to be seen."
     },
     {
       "icon": "◆",
-      "title": "Innovations in Spacesuits",
-      "body": "Axiom and Prada's collaboration on spacesuit design is a curious blend of fashion and function. While it may raise eyebrows, it underscores the increasing importance of aesthetics in the space industry."
+      "title": "Geopolitical Tensions in Orbit",
+      "body": "Increased Russian co-orbital activity near commercial GEO slots raises eyebrows and highlights the ongoing geopolitical chess game in space. As nations vie for dominance, the implications for commercial operations could be profound."
     }
   ],
-  "updated": "2026-06-08 17:19 UTC"
+  "updated": "2026-06-09 16:07 UTC"
 }
