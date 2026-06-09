@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with funding rounds and contract modifications, while NASA's lunar ambitions face a reality check. Meanwhile, the defense sector is increasingly entwined with AI, as companies pivot to meet emerging threats.",
+  "summary": "The space and defense sectors are buzzing with funding rounds and strategic partnerships, while the U.S. government continues to bolster its space resilience budget. Meanwhile, launch plans are facing unexpected hurdles, and the AI for Defense trend is gaining traction.",
   "themes": [
     {
       "icon": "▣",
       "title": "Funding Frenzy in Space",
-      "body": "Iceye's hefty €1 billion raise and Isar Aerospace's €270 million boost highlight a growing appetite for investment in satellite systems and launch capabilities. This trend suggests that the space economy is maturing, attracting serious capital for ambitious projects."
+      "body": "Iceye's hefty €1 billion raise and Isar Aerospace's €270 million boost highlight a growing appetite for investment in satellite technologies. This influx suggests that the space economy is maturing, but it also raises questions about sustainability in a crowded market."
     },
     {
       "icon": "◉",
-      "title": "NASA's Moon Base Woes",
-      "body": "New Glenn's recent setbacks have forced NASA to rethink its lunar base plans, underscoring the complexities of ambitious space architecture. As timelines slip, stakeholders are reminded that the path to the Moon is rarely a straight line."
+      "title": "Government Budget Boosts",
+      "body": "The FY27 budget markup's $1.4 billion increase for space resilience indicates a clear prioritization of national security in space. This funding could catalyze new initiatives, but it also risks creating a dependency on government contracts for private players."
     },
     {
       "icon": "▲",
-      "title": "AI's Defense Surge",
-      "body": "With every startup seemingly pivoting to 'AI for Defense', the sector is witnessing a significant shift towards integrating advanced technologies into military applications. This trend could reshape operational strategies, but the long-term viability remains to be seen."
+      "title": "Launch Delays and Challenges",
+      "body": "New Glenn's recent setbacks have forced NASA to rethink its lunar ambitions, showcasing the fragility of ambitious space plans. As hypersonic tests continue to slip, the industry may need to recalibrate expectations around timelines and technological readiness."
     },
     {
       "icon": "◆",
-      "title": "Geopolitical Tensions in Orbit",
-      "body": "Increased Russian co-orbital activity near commercial GEO slots raises eyebrows and highlights the ongoing geopolitical chess game in space. As nations vie for dominance, the implications for commercial operations could be profound."
+      "title": "AI's Role in Defense",
+      "body": "The surge in 'AI for Defense' startups reflects a broader trend of integrating advanced technologies into military operations. However, the question remains whether these innovations can deliver on their promises without falling prey to the typical pitfalls of hype."
     }
   ],
-  "updated": "2026-06-09 16:07 UTC"
+  "updated": "2026-06-09 16:29 UTC"
 }

@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-09",
   "issue": "No. 49",
-  "headline": "Funding flows. Contracts expand. Plans derail.",
-  "deck": "This week saw significant funding rounds and contract modifications as the space industry grapples with shifting priorities.",
+  "headline": "Funding flows. Contracts expand. Plans explode.",
+  "deck": "This week, funding rounds and contract modifications signal a busy space economy, but not without its hiccups.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "Iceye raises €1 billion for satellite expansion",
-      "body": "Iceye has raised over €1 billion to expand its radar imaging satellite systems, underscoring the growing demand for satellite data. This move positions Iceye as a key player in the SAR market, where competition is heating up. The funding round is a clear indicator that investors are still keen on space ventures, despite broader economic uncertainties.",
-      "soWhat": "When satellite data is hot, it’s not just the tech that shines; it’s the investors looking for the next big return."
+      "body": "Iceye secured over €1 billion to enhance its synthetic aperture radar (SAR) satellite systems, illustrating the appetite for high-resolution imaging in a competitive market. This funding round underscores the trend of large capital influxes into satellite technology, with investors eager to capitalize on the growing demand for Earth observation data.",
+      "soWhat": "When investors throw around billions, it's a sign that they believe the satellite game is about to get a lot more crowded—and potentially messy."
     },
     {
       "kicker": "CONTRACTS",
-      "head": "BlackSky accelerates AROS satellite work for NRO",
-      "body": "BlackSky has received a contract modification from the National Reconnaissance Office (NRO) to expedite its AROS satellite development. This modification signals an increasing urgency in the intelligence community for timely satellite data, especially amidst rising geopolitical tensions. With this push, BlackSky is likely to enhance its competitive edge in the spy satellite race.",
-      "soWhat": "In the intelligence game, speed can be as critical as accuracy; BlackSky is betting that quicker satellites will win contracts."
+      "head": "BlackSky accelerates reconnaissance under NRO contract",
+      "body": "BlackSky received a contract modification from the National Reconnaissance Office (NRO) to expedite its broad-area collection satellites. This modification aims to enhance the speed and efficiency of reconnaissance operations, a clear signal that the government prioritizes timely intelligence in an increasingly complex global landscape.",
+      "soWhat": "In the world of reconnaissance, faster satellites might just mean a faster path to the next geopolitical crisis."
     },
     {
-      "kicker": "TECH",
-      "head": "Sierra Space's Dream Chaser variant clears design review",
-      "body": "Sierra Space's Dream Chaser DoD variant has successfully passed its critical design review, paving the way for further development. This marks a significant milestone as the company aims to fulfill Department of Defense requirements for cargo transport. However, the real challenge lies ahead in transitioning from design to actual deployment, a hurdle many have stumbled over.",
-      "soWhat": "Design reviews are the easy part; execution is where dreams often get grounded."
+      "kicker": "TECHNOLOGY",
+      "head": "Warren AI launches risk analysis engine for space",
+      "body": "Warren AI™ has rolled out its risk analysis engine aimed at the burgeoning space economy, emphasizing the need for risk management in a sector rife with uncertainties. As space ventures grow in number and complexity, this tool could become essential for navigating potential pitfalls.",
+      "soWhat": "If space is the new frontier, then managing risk is the new frontier's necessary evil—because cosmic catastrophes have a way of making headlines."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for more funding rounds",
-      "body": "With Iceye's massive raise, other companies may follow suit to capitalize on investor interest in space."
+      "title": "Keep an eye on Iceye's expansion plans",
+      "body": "With €1 billion in hand, Iceye's next moves could reshape the SAR landscape—watch for potential partnerships or acquisitions."
     },
     {
-      "title": "NRO’s procurement strategy shifts",
-      "body": "BlackSky's contract modification may indicate a broader shift in NRO priorities towards rapid satellite deployment."
+      "title": "BlackSky's speed could attract more contracts",
+      "body": "If BlackSky can deliver on its accelerated timeline, expect other agencies to take note and possibly follow suit with their own contracts."
     },
     {
-      "title": "Sierra Space’s next steps",
-      "body": "The success of Dream Chaser’s design review will be closely monitored as it moves toward production."
+      "title": "True Anomaly's Series C impacts defense procurement",
+      "body": "With $190 million raised, True Anomaly may become a key player in co-orbital security—defense contracts could follow."
     },
     {
-      "title": "True Anomaly’s growth trajectory",
-      "body": "Following its $190M Series C, True Anomaly's strategic moves will be key in the co-orbital security sector."
+      "title": "Palantir's TITAN program extension implications",
+      "body": "The $480 million extension on the TITAN program suggests that established players can maintain dominance through government contracts, potentially stifling newcomers."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates its path to profitability."
-    },
-    {
-      "sym": "BLK",
-      "note": "BlackSky's contract with the NRO could boost its stock performance if execution aligns with expectations."
-    },
-    {
       "sym": "ICEYE",
-      "note": "Iceye's recent funding round positions it favorably in the competitive SAR market."
+      "note": "Iceye's €1 billion raise signals strong investor confidence in SAR technology."
     },
     {
-      "sym": "SIE",
-      "note": "Sierra Space’s progress with Dream Chaser could impact its valuation significantly in the coming months."
+      "sym": "BLKS",
+      "note": "BlackSky's NRO contract modification highlights its growing role in U.S. reconnaissance."
+    },
+    {
+      "sym": "TRU",
+      "note": "True Anomaly's $190M Series C positions it well for future defense contracts."
+    },
+    {
+      "sym": "PLTR",
+      "note": "Palantir's $480M TITAN extension shows that longevity trumps novelty in government contracts."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
