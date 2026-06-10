@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-10",
   "issue": "No. 50",
-  "headline": "New members join. Budgets expand. Tests delay.",
-  "deck": "This week, the space industry sees new entrants, budget boosts, and persistent testing woes.",
+  "headline": "Funding flows. Partnerships form. Tests delay.",
+  "deck": "This week saw significant funding rounds and strategic partnerships in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "MEMBERSHIP",
-      "head": "Commercial Space Federation adds semiconductor flair",
-      "body": "The Commercial Space Federation has welcomed Besxar and Charter Space, both adding semiconductor expertise to the supply chain. This move aims to enhance the resilience and efficiency of space operations, particularly in satellite manufacturing. With semiconductors being crucial for modern technology, their inclusion signals a strategic shift towards integrating more advanced tech into the aerospace ecosystem.",
-      "soWhat": "In a space race where chips are the new gold, these additions might just be the boost the industry needs to stay competitive."
+      "kicker": "FUNDING",
+      "head": "True Anomaly secures $190M for co-orbital security",
+      "body": "True Anomaly has raised a $190 million Series C round, bringing its valuation to $1.6 billion. The funding will bolster its capabilities in co-orbital security and space domain awareness, aligning with increasing DoD interest in these areas. It's a clear signal that cash is king, especially when the government is the client.",
+      "soWhat": "In a sector where innovation often takes a backseat to cash flow, True Anomaly's funding underscores the importance of securing government contracts over flashy tech."
     },
     {
       "kicker": "PARTNERSHIP",
-      "head": "Spire teams with Diehl for missile warning tech",
-      "body": "Spire has partnered with German defense firm Diehl Defence to explore space-based missile warning capabilities. This collaboration comes at a time when global defense needs are evolving, and the demand for advanced surveillance systems is on the rise. The financial terms of the partnership haven't been disclosed, but it positions Spire as a player in the critical defense sector.",
-      "soWhat": "If Spire can deliver, they might just redefine the boundaries of what commercial space firms can do in the defense arena."
+      "head": "Spire teams with Diehl for missile warning systems",
+      "body": "Spire has announced a partnership with German defense firm Diehl Defence to develop space-based missile warning systems. This collaboration highlights the ongoing arms race in space, with both companies aiming to leverage satellite data for enhanced military capabilities. The deal reflects a growing trend of defense firms looking skyward for solutions.",
+      "soWhat": "As the space arms race heats up, partnerships like this may become the norm rather than the exception, raising questions about the implications for global security."
     },
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M, eyes co-orbital security",
-      "body": "True Anomaly has successfully closed a $190 million Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, tapping into the growing demand for defense capabilities in space. With this funding, True Anomaly is set to enhance its technology and potentially reshape the security landscape in low Earth orbit.",
-      "soWhat": "When it comes to space security, cash is king, and True Anomaly just bought a bigger crown."
+      "kicker": "EXPANSION",
+      "head": "Applied Atomics enters US market with $4M funding",
+      "body": "UK-based Applied Atomics is making a move into the U.S. military space mobility market, backed by $4 million in pre-seed funding. The startup aims to capitalize on the lucrative defense contracts available in the U.S., suggesting that the allure of American defense spending is too tempting for foreign startups to resist.",
+      "soWhat": "This trend of foreign startups entering the U.S. market could lead to increased competition and innovation, but also raises questions about regulatory hurdles and national security."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Applied Atomics",
-      "body": "Their U.S. debut with $4 million in funding could disrupt military space mobility."
+      "title": "Keep an eye on the FY27 budget",
+      "body": "The recent $1.4 billion increase for space resilience in the FY27 budget could shift priorities and funding flows in the coming weeks."
     },
     {
-      "title": "Palantir's TITAN program extension",
-      "body": "The $480 million extension indicates long-term confidence in military data systems."
+      "title": "Watch for more defense partnerships",
+      "body": "With Spire's new deal, expect more defense firms to seek partnerships in space-based technologies as military needs evolve."
     },
     {
-      "title": "Sierra Space's Dream Chaser variant",
-      "body": "Passing the critical design review is a win, but execution will be the real test."
+      "title": "True Anomaly's next moves",
+      "body": "After securing significant funding, True Anomaly's strategic decisions will be closely watched for signs of how it plans to deploy its resources."
     },
     {
-      "title": "Defense-Tech IPOs gaining traction",
-      "body": "The opening of the IPO window could shift investment dynamics in defense tech."
+      "title": "Sierra Space's Dream Chaser progress",
+      "body": "With its recent design review success, Sierra Space's next steps could impact its military and commercial prospects."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPIR",
-      "note": "Spire's partnership with Diehl could enhance its market standing in defense."
-    },
-    {
-      "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension highlights its stronghold in military contracts."
+      "note": "Spire's partnership with Diehl could position it as a key player in military space applications."
     },
     {
       "sym": "TRUE",
-      "note": "True Anomaly's $190M round reinforces the growing interest in space security."
+      "note": "True Anomaly's $190M funding round highlights its growing importance in co-orbital security."
     },
     {
-      "sym": "SIE",
-      "note": "Sierra Space's Dream Chaser variant passing design review is a positive sign, but challenges remain."
+      "sym": "APLD",
+      "note": "Applied Atomics' entry into the U.S. market could disrupt existing players in military space mobility."
+    },
+    {
+      "sym": "PLTR",
+      "note": "Palantir's $480M extension on the TITAN program shows that government contracts remain a stable revenue source."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

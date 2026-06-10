@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is seeing a mix of new partnerships and funding initiatives aimed at enhancing military capabilities and data infrastructure. Meanwhile, the ongoing challenges in hypersonic testing and geopolitical tensions continue to shape the landscape.",
+  "summary": "The space industry is seeing a mix of new partnerships and funding, with a notable focus on defense applications. Meanwhile, budget allocations hint at a growing recognition of the need for space resilience and data infrastructure.",
   "themes": [
     {
       "icon": "▣",
-      "title": "New Players in Space Supply",
-      "body": "The Commercial Space Federation's latest members signal a growing interest in the space supply chain. This trend could lead to increased competition and innovation in logistics and support for space missions."
+      "title": "Defense Partnerships on the Rise",
+      "body": "Spire's collaboration with a German defense firm for missile warning systems underscores the increasing military interest in space-based capabilities. Similarly, Anduril and L3Harris are teaming up for tactical satellite constellations, reflecting a trend towards integrated defense solutions."
     },
     {
       "icon": "◉",
-      "title": "Military Space Mobility Gains Ground",
-      "body": "UK startup Applied Atomics is making its move into the US market, focusing on military space mobility. This could be a sign of increasing transatlantic collaboration in defense technologies."
+      "title": "Funding Fuels Space Ventures",
+      "body": "True Anomaly's $190 million Series C round and Orbital's $5 million raise indicate that investors are still keen on space startups, particularly those with data-centric offerings. Iceye's valuation jump to 10 billion euros further illustrates the market's appetite for innovative space solutions."
     },
     {
       "icon": "▲",
-      "title": "Funding Boosts Space Resilience",
-      "body": "The FY27 budget markup adds $1.4 billion for space resilience, reflecting a serious commitment to fortifying space capabilities. This funding could enhance both defensive and operational readiness in an increasingly contested domain."
+      "title": "Budget Boosts for Space Resilience",
+      "body": "The FY27 budget markup adding $1.4 billion for space resilience highlights a governmental shift towards prioritizing security in the orbital environment. This increased funding aligns with the Space Force's plans for a robust data network backbone, emphasizing the importance of infrastructure."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Testing Woes Continue",
-      "body": "The latest hypersonic glide-vehicle test has slipped again, marking the third consecutive quarter of delays. This raises questions about the current state of US capabilities in this critical area of defense technology."
+      "title": "New Players Entering the Market",
+      "body": "UK startup Applied Atomics is making its move into the U.S. military space mobility sector, indicating a competitive landscape ahead. Additionally, the Commercial Space Federation's new members signal an expanding supply chain that could reshape industry dynamics."
     }
   ],
-  "updated": "2026-06-10 16:39 UTC"
+  "updated": "2026-06-10 16:56 UTC"
 }
