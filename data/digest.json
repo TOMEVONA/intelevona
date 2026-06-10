@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with funding rounds and strategic partnerships, while the U.S. government continues to bolster its space resilience budget. Meanwhile, launch plans are facing unexpected hurdles, and the AI for Defense trend is gaining traction.",
+  "summary": "The space industry is seeing a mix of new partnerships and funding initiatives aimed at enhancing military capabilities and data infrastructure. Meanwhile, the ongoing challenges in hypersonic testing and geopolitical tensions continue to shape the landscape.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Frenzy in Space",
-      "body": "Iceye's hefty €1 billion raise and Isar Aerospace's €270 million boost highlight a growing appetite for investment in satellite technologies. This influx suggests that the space economy is maturing, but it also raises questions about sustainability in a crowded market."
+      "title": "New Players in Space Supply",
+      "body": "The Commercial Space Federation's latest members signal a growing interest in the space supply chain. This trend could lead to increased competition and innovation in logistics and support for space missions."
     },
     {
       "icon": "◉",
-      "title": "Government Budget Boosts",
-      "body": "The FY27 budget markup's $1.4 billion increase for space resilience indicates a clear prioritization of national security in space. This funding could catalyze new initiatives, but it also risks creating a dependency on government contracts for private players."
+      "title": "Military Space Mobility Gains Ground",
+      "body": "UK startup Applied Atomics is making its move into the US market, focusing on military space mobility. This could be a sign of increasing transatlantic collaboration in defense technologies."
     },
     {
       "icon": "▲",
-      "title": "Launch Delays and Challenges",
-      "body": "New Glenn's recent setbacks have forced NASA to rethink its lunar ambitions, showcasing the fragility of ambitious space plans. As hypersonic tests continue to slip, the industry may need to recalibrate expectations around timelines and technological readiness."
+      "title": "Funding Boosts Space Resilience",
+      "body": "The FY27 budget markup adds $1.4 billion for space resilience, reflecting a serious commitment to fortifying space capabilities. This funding could enhance both defensive and operational readiness in an increasingly contested domain."
     },
     {
       "icon": "◆",
-      "title": "AI's Role in Defense",
-      "body": "The surge in 'AI for Defense' startups reflects a broader trend of integrating advanced technologies into military operations. However, the question remains whether these innovations can deliver on their promises without falling prey to the typical pitfalls of hype."
+      "title": "Hypersonic Testing Woes Continue",
+      "body": "The latest hypersonic glide-vehicle test has slipped again, marking the third consecutive quarter of delays. This raises questions about the current state of US capabilities in this critical area of defense technology."
     }
   ],
-  "updated": "2026-06-09 16:29 UTC"
+  "updated": "2026-06-10 16:39 UTC"
 }

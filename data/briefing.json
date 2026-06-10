@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-09",
-  "issue": "No. 49",
-  "headline": "Funding flows. Contracts expand. Plans explode.",
-  "deck": "This week, funding rounds and contract modifications signal a busy space economy, but not without its hiccups.",
+  "updated": "2026-06-10",
+  "issue": "No. 50",
+  "headline": "New members join. Budgets expand. Tests delay.",
+  "deck": "This week, the space industry sees new entrants, budget boosts, and persistent testing woes.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
+      "kicker": "MEMBERSHIP",
+      "head": "Commercial Space Federation adds semiconductor flair",
+      "body": "The Commercial Space Federation has welcomed Besxar and Charter Space, both adding semiconductor expertise to the supply chain. This move aims to enhance the resilience and efficiency of space operations, particularly in satellite manufacturing. With semiconductors being crucial for modern technology, their inclusion signals a strategic shift towards integrating more advanced tech into the aerospace ecosystem.",
+      "soWhat": "In a space race where chips are the new gold, these additions might just be the boost the industry needs to stay competitive."
+    },
+    {
+      "kicker": "PARTNERSHIP",
+      "head": "Spire teams with Diehl for missile warning tech",
+      "body": "Spire has partnered with German defense firm Diehl Defence to explore space-based missile warning capabilities. This collaboration comes at a time when global defense needs are evolving, and the demand for advanced surveillance systems is on the rise. The financial terms of the partnership haven't been disclosed, but it positions Spire as a player in the critical defense sector.",
+      "soWhat": "If Spire can deliver, they might just redefine the boundaries of what commercial space firms can do in the defense arena."
+    },
+    {
       "kicker": "FUNDING",
-      "head": "Iceye raises €1 billion for satellite expansion",
-      "body": "Iceye secured over €1 billion to enhance its synthetic aperture radar (SAR) satellite systems, illustrating the appetite for high-resolution imaging in a competitive market. This funding round underscores the trend of large capital influxes into satellite technology, with investors eager to capitalize on the growing demand for Earth observation data.",
-      "soWhat": "When investors throw around billions, it's a sign that they believe the satellite game is about to get a lot more crowded—and potentially messy."
-    },
-    {
-      "kicker": "CONTRACTS",
-      "head": "BlackSky accelerates reconnaissance under NRO contract",
-      "body": "BlackSky received a contract modification from the National Reconnaissance Office (NRO) to expedite its broad-area collection satellites. This modification aims to enhance the speed and efficiency of reconnaissance operations, a clear signal that the government prioritizes timely intelligence in an increasingly complex global landscape.",
-      "soWhat": "In the world of reconnaissance, faster satellites might just mean a faster path to the next geopolitical crisis."
-    },
-    {
-      "kicker": "TECHNOLOGY",
-      "head": "Warren AI launches risk analysis engine for space",
-      "body": "Warren AI™ has rolled out its risk analysis engine aimed at the burgeoning space economy, emphasizing the need for risk management in a sector rife with uncertainties. As space ventures grow in number and complexity, this tool could become essential for navigating potential pitfalls.",
-      "soWhat": "If space is the new frontier, then managing risk is the new frontier's necessary evil—because cosmic catastrophes have a way of making headlines."
+      "head": "True Anomaly raises $190M, eyes co-orbital security",
+      "body": "True Anomaly has successfully closed a $190 million Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, tapping into the growing demand for defense capabilities in space. With this funding, True Anomaly is set to enhance its technology and potentially reshape the security landscape in low Earth orbit.",
+      "soWhat": "When it comes to space security, cash is king, and True Anomaly just bought a bigger crown."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Iceye's expansion plans",
-      "body": "With €1 billion in hand, Iceye's next moves could reshape the SAR landscape—watch for potential partnerships or acquisitions."
+      "title": "Keep an eye on Applied Atomics",
+      "body": "Their U.S. debut with $4 million in funding could disrupt military space mobility."
     },
     {
-      "title": "BlackSky's speed could attract more contracts",
-      "body": "If BlackSky can deliver on its accelerated timeline, expect other agencies to take note and possibly follow suit with their own contracts."
+      "title": "Palantir's TITAN program extension",
+      "body": "The $480 million extension indicates long-term confidence in military data systems."
     },
     {
-      "title": "True Anomaly's Series C impacts defense procurement",
-      "body": "With $190 million raised, True Anomaly may become a key player in co-orbital security—defense contracts could follow."
+      "title": "Sierra Space's Dream Chaser variant",
+      "body": "Passing the critical design review is a win, but execution will be the real test."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "The $480 million extension on the TITAN program suggests that established players can maintain dominance through government contracts, potentially stifling newcomers."
+      "title": "Defense-Tech IPOs gaining traction",
+      "body": "The opening of the IPO window could shift investment dynamics in defense tech."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "ICEYE",
-      "note": "Iceye's €1 billion raise signals strong investor confidence in SAR technology."
-    },
-    {
-      "sym": "BLKS",
-      "note": "BlackSky's NRO contract modification highlights its growing role in U.S. reconnaissance."
-    },
-    {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M Series C positions it well for future defense contracts."
+      "sym": "SPIR",
+      "note": "Spire's partnership with Diehl could enhance its market standing in defense."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension shows that longevity trumps novelty in government contracts."
+      "note": "Palantir's $480M TITAN extension highlights its stronghold in military contracts."
+    },
+    {
+      "sym": "TRUE",
+      "note": "True Anomaly's $190M round reinforces the growing interest in space security."
+    },
+    {
+      "sym": "SIE",
+      "note": "Sierra Space's Dream Chaser variant passing design review is a positive sign, but challenges remain."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
