@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is experiencing a mix of strategic partnerships and budgetary boosts, while some projects face delays and cancellations. As defense tech continues to evolve, the interplay between commercial interests and government needs remains a focal point.",
+  "summary": "The space industry is buzzing with activity as new partnerships and budget allocations shape the landscape. Meanwhile, the specter of GEO cancellations looms large, complicating the insurance scene and raising questions about long-term viability.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Budget Increases for Space Resilience",
-      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, signaling a growing commitment to fortifying U.S. capabilities in space. This funding could bolster various initiatives, especially as geopolitical tensions rise."
-    },
-    {
-      "icon": "▲",
-      "title": "Partnerships in Tactical Constellations",
-      "body": "Anduril and L3Harris are teaming up on a tactical SDA constellation bid, highlighting a trend of collaboration among defense contractors. Such partnerships may streamline efforts to meet urgent military satellite needs."
-    },
-    {
-      "icon": "◆",
-      "title": "Challenges in Satellite Insurance",
-      "body": "Recent GEO cancellations are complicating recovery efforts in space insurance, raising questions about the sustainability of satellite investments. Insurers may need to reevaluate risk models as the market adjusts."
+      "title": "Artemis Negotiations Heat Up",
+      "body": "ESA's astronaut assignment for Artemis 3 is part of a broader negotiation strategy regarding roles in the Artemis program. This reflects the ongoing complexities of international collaboration in lunar exploration."
     },
     {
       "icon": "◉",
-      "title": "AI's Growing Role in Defense",
-      "body": "The surge in 'AI for Defense' startups indicates a shift in how technology is being integrated into military operations. As companies like Tilebox launch new AI workflows, the defense sector is poised for a tech-driven transformation."
+      "title": "Space Insurance Woes",
+      "body": "Recent GEO cancellations are making it increasingly difficult for insurers to recover losses, raising eyebrows over the sustainability of current business models. The fallout could lead to tighter underwriting practices in the sector."
+    },
+    {
+      "icon": "▲",
+      "title": "Military Space Budgets Surge",
+      "body": "The FY27 budget markup adds a notable $1.4 billion to space resilience initiatives, signaling a robust commitment to enhancing national security through space capabilities. This trend is likely to attract more defense contractors into the fray."
+    },
+    {
+      "icon": "◆",
+      "title": "AI's Grip on Defense",
+      "body": "The surge in interest for 'AI for Defense' among Y Combinator startups indicates a shift towards integrating advanced technologies in military applications. This could reshape the competitive landscape as more players vie for government contracts."
     }
   ],
-  "updated": "2026-06-11 16:58 UTC"
+  "updated": "2026-06-11 17:34 UTC"
 }

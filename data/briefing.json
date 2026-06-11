@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-11",
   "issue": "No. 51",
-  "headline": "Small players enter big space game.",
-  "deck": "This week, smaller launch providers and AI startups made notable moves.",
+  "headline": "Funding flows. Roles shift. Insurance woes.",
+  "deck": "This week highlights new funding rounds and shifting dynamics in space roles.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "LAUNCH",
-      "head": "HyImpulse eyes Oman’s launch potential.",
-      "body": "HyImpulse has signed a letter of intent with Oman’s Etlaq Spaceport to explore launch activities, marking a notable step for small launch providers. This move indicates that even the smallest players are keen to stake their claim in the global launch market, which is increasingly competitive. Oman’s strategic location could provide a unique advantage for future launches.",
-      "soWhat": "If small players can access international markets, the launch landscape could become even more fragmented—and chaotic."
+      "kicker": "FUNDING",
+      "head": "True Anomaly secures $190M Series C funding",
+      "body": "True Anomaly has raised $190 million in a Series C round, bringing its valuation to $1.6 billion. This funding is earmarked for co-orbital security and space domain awareness, which seems to be a hot ticket for the DoD these days. The interest from defense contracts indicates that the government is keen on keeping a closer eye on its assets in orbit.",
+      "soWhat": "When the DoD is backing your business, you might just be in the right place at the right time."
     },
     {
-      "kicker": "AI",
-      "head": "Tilebox launches AI workflows—robots don’t lie?",
-      "body": "Tilebox has rolled out new verifiable AI workflows for satellite data, aiming to enhance trust in automated processes. While the technology sounds impressive, it raises the question of whether these safeguards are more about optics than actual innovation. The satellite data market is increasingly reliant on AI, making this move part of a broader trend.",
-      "soWhat": "If AI verification becomes the norm, expect a flood of similar offerings, but the real question will be who can actually deliver on the promises."
+      "kicker": "PROCUREMENT",
+      "head": "K2 Space and Rocket Lab join Space Force satcom program",
+      "body": "K2 Space and Rocket Lab have been designated as key suppliers for the Space Force's satellite communications program. The contracts are part of a broader push to enhance U.S. capabilities in space, with K2 Space recently raising $110 million to build a megaclass satellite bus for high-power missions. This partnership highlights the importance of established relationships in defense procurement.",
+      "soWhat": "In defense contracts, it’s not just about what you know; it’s often about who you know—and who you can deliver for."
     },
     {
-      "kicker": "DEFENSE",
-      "head": "K2 Space and Rocket Lab win Space Force contracts.",
-      "body": "K2 Space and Rocket Lab have secured key supplier roles in the Space Force's satellite communications program, with K2 landing $110 million in Series B funding for its megaclass satellite bus. The military’s demand for satellite buses continues to grow, reflecting an insatiable appetite for enhanced communication capabilities. This trend underscores the ongoing shift towards commercial partnerships in defense.",
-      "soWhat": "As the military leans more on commercial capabilities, expect an uptick in defense contracts for those who can deliver."
+      "kicker": "INSURANCE",
+      "head": "GEO cancellations complicate space insurance recovery",
+      "body": "The cancellation of three geostationary satellites is throwing a wrench into space insurance recovery efforts. With insurers now facing increased liabilities, the implications for future satellite launches could be significant. The situation underscores how interconnected the financial aspects of space missions have become, particularly in light of recent funding rounds.",
+      "soWhat": "If space insurance is struggling, expect a ripple effect on future launches and funding as risk assessments tighten."
     }
   ],
   "watchlist": [
     {
-      "title": "True Anomaly's next steps after $190M raise.",
-      "body": "With a fresh $190 million, True Anomaly will likely ramp up its co-orbital security initiatives, making it a player to watch in the defense sector."
+      "title": "Keep an eye on the Artemis 3 astronaut assignment",
+      "body": "ESA's astronaut assignment for Artemis 3 could signal more bureaucratic negotiations ahead, impacting international collaborations."
     },
     {
-      "title": "Implications of FY27 budget boost.",
-      "body": "The $1.4 billion increase for space resilience could signal a shift in government priorities, potentially leading to more contracts for resilient space technologies."
+      "title": "Watch for more on the Defense-Tech IPO window",
+      "body": "The nascent Defense-Tech IPO window might lead to a surge in new public offerings, but the ride could be bumpy."
     },
     {
-      "title": "Sierra Space's Dream Chaser readiness.",
-      "body": "With its DoD variant clearing design review, the next milestone will be its actual flight, which could set a precedent for future military space transport."
+      "title": "Upcoming updates on hypersonic glide vehicle tests",
+      "body": "With delays now a pattern, any new updates on hypersonic vehicle tests will be scrutinized closely by investors."
     },
     {
-      "title": "Founders Fund's space portfolio review.",
-      "body": "As Founders Fund reassesses its investments, any pivots could signal broader trends in venture capital's appetite for space startups."
+      "title": "Potential shifts in Founders Fund's space portfolio",
+      "body": "The review of Founders Fund's space investments could indicate a major shift in strategy or focus in the coming months."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains stagnant as it awaits further operational clarity."
+      "sym": "TRUE",
+      "note": "True Anomaly’s $190M Series C shows strong DoD interest."
     },
     {
-      "sym": "RKLB",
-      "note": "Rocket Lab's new contracts with the Space Force could bolster its market position."
+      "sym": "K2",
+      "note": "K2 Space's $110M raise aligns with new Space Force contracts."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480 million extension on the TITAN program underscores its stronghold in defense data solutions."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480M extension on TITAN highlights its stronghold in government contracts."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's future hinges on execution, as highlighted in recent analyses."
+      "note": "The bull case for ASTS is now illustrated in 11 charts, balancing risk and potential."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
