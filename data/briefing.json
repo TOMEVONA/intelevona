@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-10",
-  "issue": "No. 50",
-  "headline": "Funding flows. Partnerships form. Tests delay.",
-  "deck": "This week saw significant funding rounds and strategic partnerships in the space sector.",
+  "updated": "2026-06-11",
+  "issue": "No. 51",
+  "headline": "Small players enter big space game.",
+  "deck": "This week, smaller launch providers and AI startups made notable moves.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly secures $190M for co-orbital security",
-      "body": "True Anomaly has raised a $190 million Series C round, bringing its valuation to $1.6 billion. The funding will bolster its capabilities in co-orbital security and space domain awareness, aligning with increasing DoD interest in these areas. It's a clear signal that cash is king, especially when the government is the client.",
-      "soWhat": "In a sector where innovation often takes a backseat to cash flow, True Anomaly's funding underscores the importance of securing government contracts over flashy tech."
+      "kicker": "LAUNCH",
+      "head": "HyImpulse eyes Oman’s launch potential.",
+      "body": "HyImpulse has signed a letter of intent with Oman’s Etlaq Spaceport to explore launch activities, marking a notable step for small launch providers. This move indicates that even the smallest players are keen to stake their claim in the global launch market, which is increasingly competitive. Oman’s strategic location could provide a unique advantage for future launches.",
+      "soWhat": "If small players can access international markets, the launch landscape could become even more fragmented—and chaotic."
     },
     {
-      "kicker": "PARTNERSHIP",
-      "head": "Spire teams with Diehl for missile warning systems",
-      "body": "Spire has announced a partnership with German defense firm Diehl Defence to develop space-based missile warning systems. This collaboration highlights the ongoing arms race in space, with both companies aiming to leverage satellite data for enhanced military capabilities. The deal reflects a growing trend of defense firms looking skyward for solutions.",
-      "soWhat": "As the space arms race heats up, partnerships like this may become the norm rather than the exception, raising questions about the implications for global security."
+      "kicker": "AI",
+      "head": "Tilebox launches AI workflows—robots don’t lie?",
+      "body": "Tilebox has rolled out new verifiable AI workflows for satellite data, aiming to enhance trust in automated processes. While the technology sounds impressive, it raises the question of whether these safeguards are more about optics than actual innovation. The satellite data market is increasingly reliant on AI, making this move part of a broader trend.",
+      "soWhat": "If AI verification becomes the norm, expect a flood of similar offerings, but the real question will be who can actually deliver on the promises."
     },
     {
-      "kicker": "EXPANSION",
-      "head": "Applied Atomics enters US market with $4M funding",
-      "body": "UK-based Applied Atomics is making a move into the U.S. military space mobility market, backed by $4 million in pre-seed funding. The startup aims to capitalize on the lucrative defense contracts available in the U.S., suggesting that the allure of American defense spending is too tempting for foreign startups to resist.",
-      "soWhat": "This trend of foreign startups entering the U.S. market could lead to increased competition and innovation, but also raises questions about regulatory hurdles and national security."
+      "kicker": "DEFENSE",
+      "head": "K2 Space and Rocket Lab win Space Force contracts.",
+      "body": "K2 Space and Rocket Lab have secured key supplier roles in the Space Force's satellite communications program, with K2 landing $110 million in Series B funding for its megaclass satellite bus. The military’s demand for satellite buses continues to grow, reflecting an insatiable appetite for enhanced communication capabilities. This trend underscores the ongoing shift towards commercial partnerships in defense.",
+      "soWhat": "As the military leans more on commercial capabilities, expect an uptick in defense contracts for those who can deliver."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on the FY27 budget",
-      "body": "The recent $1.4 billion increase for space resilience in the FY27 budget could shift priorities and funding flows in the coming weeks."
+      "title": "True Anomaly's next steps after $190M raise.",
+      "body": "With a fresh $190 million, True Anomaly will likely ramp up its co-orbital security initiatives, making it a player to watch in the defense sector."
     },
     {
-      "title": "Watch for more defense partnerships",
-      "body": "With Spire's new deal, expect more defense firms to seek partnerships in space-based technologies as military needs evolve."
+      "title": "Implications of FY27 budget boost.",
+      "body": "The $1.4 billion increase for space resilience could signal a shift in government priorities, potentially leading to more contracts for resilient space technologies."
     },
     {
-      "title": "True Anomaly's next moves",
-      "body": "After securing significant funding, True Anomaly's strategic decisions will be closely watched for signs of how it plans to deploy its resources."
+      "title": "Sierra Space's Dream Chaser readiness.",
+      "body": "With its DoD variant clearing design review, the next milestone will be its actual flight, which could set a precedent for future military space transport."
     },
     {
-      "title": "Sierra Space's Dream Chaser progress",
-      "body": "With its recent design review success, Sierra Space's next steps could impact its military and commercial prospects."
+      "title": "Founders Fund's space portfolio review.",
+      "body": "As Founders Fund reassesses its investments, any pivots could signal broader trends in venture capital's appetite for space startups."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPIR",
-      "note": "Spire's partnership with Diehl could position it as a key player in military space applications."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains stagnant as it awaits further operational clarity."
     },
     {
-      "sym": "TRUE",
-      "note": "True Anomaly's $190M funding round highlights its growing importance in co-orbital security."
-    },
-    {
-      "sym": "APLD",
-      "note": "Applied Atomics' entry into the U.S. market could disrupt existing players in military space mobility."
+      "sym": "RKLB",
+      "note": "Rocket Lab's new contracts with the Space Force could bolster its market position."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program shows that government contracts remain a stable revenue source."
+      "note": "Palantir's $480 million extension on the TITAN program underscores its stronghold in defense data solutions."
+    },
+    {
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's future hinges on execution, as highlighted in recent analyses."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
