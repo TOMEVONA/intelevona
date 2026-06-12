@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-11",
-  "issue": "No. 51",
-  "headline": "Funding flows. Roles shift. Insurance woes.",
-  "deck": "This week highlights new funding rounds and shifting dynamics in space roles.",
+  "updated": "2026-06-12",
+  "issue": "No. 52",
+  "headline": "AI bets. Rocket returns. Contracts flow.",
+  "deck": "Astra goes all-in on AI while Japan's H3 finds its wings again.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly secures $190M Series C funding",
-      "body": "True Anomaly has raised $190 million in a Series C round, bringing its valuation to $1.6 billion. This funding is earmarked for co-orbital security and space domain awareness, which seems to be a hot ticket for the DoD these days. The interest from defense contracts indicates that the government is keen on keeping a closer eye on its assets in orbit.",
-      "soWhat": "When the DoD is backing your business, you might just be in the right place at the right time."
+      "kicker": "AI",
+      "head": "Astra's bold AI gamble could backfire",
+      "body": "Astra's CEO Chris Kemp is betting heavily on AI to save the company, which once soared on SPAC hype but is now struggling. While he claims he might be the last one standing, investors might wonder if this is a strategic pivot or a desperate move. With revenue still elusive, the stakes are high for a company that needs more than just algorithms to stay afloat.",
+      "soWhat": "When a CEO starts talking about being the last one standing, it’s usually a sign of trouble—especially if AI is the lifeline."
     },
     {
-      "kicker": "PROCUREMENT",
-      "head": "K2 Space and Rocket Lab join Space Force satcom program",
-      "body": "K2 Space and Rocket Lab have been designated as key suppliers for the Space Force's satellite communications program. The contracts are part of a broader push to enhance U.S. capabilities in space, with K2 Space recently raising $110 million to build a megaclass satellite bus for high-power missions. This partnership highlights the importance of established relationships in defense procurement.",
-      "soWhat": "In defense contracts, it’s not just about what you know; it’s often about who you know—and who you can deliver for."
+      "kicker": "LAUNCH",
+      "head": "Japan's H3 rocket comeback is reassuring",
+      "body": "Japan's H3 rocket successfully launched six smallsats, marking a significant recovery after its previous failure. This launch is crucial for Japan's space ambitions and demonstrates that persistence can lead to success—even in aerospace. As the global competition heats up, a reliable launch vehicle can make all the difference for national pride and economic investment.",
+      "soWhat": "In an industry where failures are common, Japan's ability to bounce back with H3 could provide a blueprint for others navigating their own launch woes."
     },
     {
-      "kicker": "INSURANCE",
-      "head": "GEO cancellations complicate space insurance recovery",
-      "body": "The cancellation of three geostationary satellites is throwing a wrench into space insurance recovery efforts. With insurers now facing increased liabilities, the implications for future satellite launches could be significant. The situation underscores how interconnected the financial aspects of space missions have become, particularly in light of recent funding rounds.",
-      "soWhat": "If space insurance is struggling, expect a ripple effect on future launches and funding as risk assessments tighten."
+      "kicker": "CONTRACTS",
+      "head": "AAC Clyde Space nets €10.9M ESA contract",
+      "body": "AAC Clyde Space has secured a €10.9 million contract from the European Space Agency to enhance its maritime monitoring capabilities. This contract underscores the ongoing demand for satellite-based solutions in environmental monitoring and security. With the ESA's focus on sustainability, this deal positions AAC Clyde Space favorably in a competitive market.",
+      "soWhat": "Contracts like this are the real currency in the space sector; they not only validate a company's technology but also its market relevance."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on the Artemis 3 astronaut assignment",
-      "body": "ESA's astronaut assignment for Artemis 3 could signal more bureaucratic negotiations ahead, impacting international collaborations."
+      "title": "Keep an eye on True Anomaly's growth",
+      "body": "With a recent $190M Series C, True Anomaly is poised to expand its co-orbital security capabilities, potentially reshaping the market."
     },
     {
-      "title": "Watch for more on the Defense-Tech IPO window",
-      "body": "The nascent Defense-Tech IPO window might lead to a surge in new public offerings, but the ride could be bumpy."
+      "title": "Watch for Vandenberg's new launch site impact",
+      "body": "The U.S. Space Force's new launch site at Vandenberg could shift dynamics for small and medium rocket launches, making it a key player."
     },
     {
-      "title": "Upcoming updates on hypersonic glide vehicle tests",
-      "body": "With delays now a pattern, any new updates on hypersonic vehicle tests will be scrutinized closely by investors."
+      "title": "Astra's AI strategy unfolds next week",
+      "body": "As Astra's AI initiatives roll out, the industry will be watching closely to see if they can turn the tide on their financial struggles."
     },
     {
-      "title": "Potential shifts in Founders Fund's space portfolio",
-      "body": "The review of Founders Fund's space investments could indicate a major shift in strategy or focus in the coming months."
+      "title": "Palantir's TITAN extension implications",
+      "body": "Palantir's $480M TITAN extension could signal growing government reliance on data infrastructure, setting a precedent for future contracts."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "TRUE",
-      "note": "True Anomaly’s $190M Series C shows strong DoD interest."
+      "sym": "ASTR",
+      "note": "Astra's stock remains volatile as AI strategy unfolds, raising questions about its viability."
     },
     {
-      "sym": "K2",
-      "note": "K2 Space's $110M raise aligns with new Space Force contracts."
+      "sym": "AAC",
+      "note": "AAC Clyde Space's recent ESA contract boosts confidence in its maritime monitoring solutions."
     },
     {
-      "sym": "PALANTIR",
-      "note": "Palantir's $480M extension on TITAN highlights its stronghold in government contracts."
+      "sym": "PLTR",
+      "note": "Palantir's $480M extension on TITAN underscores its grip on government contracts, despite ongoing criticism."
     },
     {
-      "sym": "ASTS",
-      "note": "The bull case for ASTS is now illustrated in 11 charts, balancing risk and potential."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's struggles continue as it navigates a challenging commercial space environment."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

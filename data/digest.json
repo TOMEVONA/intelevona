@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as new partnerships and budget allocations shape the landscape. Meanwhile, the specter of GEO cancellations looms large, complicating the insurance scene and raising questions about long-term viability.",
+  "summary": "The space industry is buzzing with AI initiatives and new contracts, while budget discussions hint at a growing focus on resilience. Meanwhile, launch capabilities are expanding, though hypersonic tests remain elusive.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Artemis Negotiations Heat Up",
-      "body": "ESA's astronaut assignment for Artemis 3 is part of a broader negotiation strategy regarding roles in the Artemis program. This reflects the ongoing complexities of international collaboration in lunar exploration."
+      "title": "AI Takes Center Stage",
+      "body": "Astra's commitment to AI highlights a broader trend where technology is not just a replacement but a solution to workforce shortages in aerospace. This shift could redefine operational efficiencies across the sector."
     },
     {
       "icon": "◉",
-      "title": "Space Insurance Woes",
-      "body": "Recent GEO cancellations are making it increasingly difficult for insurers to recover losses, raising eyebrows over the sustainability of current business models. The fallout could lead to tighter underwriting practices in the sector."
+      "title": "Launch Sites on the Rise",
+      "body": "Vandenberg's new offerings for small and medium rockets signal a strategic move to accommodate the growing demand for diverse launch capabilities. This could attract a wider array of clients, from startups to established players."
     },
     {
       "icon": "▲",
-      "title": "Military Space Budgets Surge",
-      "body": "The FY27 budget markup adds a notable $1.4 billion to space resilience initiatives, signaling a robust commitment to enhancing national security through space capabilities. This trend is likely to attract more defense contractors into the fray."
+      "title": "Budget Boost for Space Resilience",
+      "body": "The proposed $1.4 billion increase in the FY27 budget for space resilience indicates a serious commitment to fortifying U.S. capabilities in an increasingly contested domain. Expect to see this funding translate into more robust defense initiatives."
     },
     {
       "icon": "◆",
-      "title": "AI's Grip on Defense",
-      "body": "The surge in interest for 'AI for Defense' among Y Combinator startups indicates a shift towards integrating advanced technologies in military applications. This could reshape the competitive landscape as more players vie for government contracts."
+      "title": "Hypersonic Hiccups Continue",
+      "body": "The ongoing delays in hypersonic glide-vehicle tests raise questions about the pace of technological advancement in this critical area. As defense budgets swell, the pressure will mount to deliver results."
     }
   ],
-  "updated": "2026-06-11 17:34 UTC"
+  "updated": "2026-06-12 16:41 UTC"
 }
