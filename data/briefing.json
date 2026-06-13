@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-13",
   "issue": "No. 53",
-  "headline": "SpaceX IPO soars. Avanti retreats. True Anomaly cashes in.",
-  "deck": "This week, SpaceX's IPO boosts its valuation while Avanti sells off assets to cut losses.",
+  "headline": "SpaceX soars. Avanti shrinks. AI bets intensify.",
+  "deck": "SpaceX's IPO boosts confidence while Avanti's sale signals caution in the satellite market.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "MARKETS",
-      "head": "SpaceX's IPO lifts shares by nearly 20%",
-      "body": "SpaceX's shares surged nearly 20% in their recent IPO, bringing the company's valuation to a staggering $470 billion. Investors are clearly feeling bullish, as the public listing has them believing they’re on a rocket rather than a rollercoaster. This kind of market enthusiasm suggests that even in a turbulent industry, there’s still a thirst for space exposure.",
-      "soWhat": "The IPO's success may embolden other space companies to consider going public, even if they lack SpaceX's pedigree."
+      "head": "SpaceX shares jump nearly 20% in IPO",
+      "body": "SpaceX's shares surged by almost 20% following its IPO, valuing the company at an eye-watering $470 billion. This leap suggests that even in the realm of space, investor enthusiasm can reach stratospheric heights. The performance underscores the public's appetite for space ventures, despite the usual skepticism around profitability.",
+      "soWhat": "If SpaceX can pull this off, expect other space ventures to follow suit, hoping to hitch a ride on the hype train."
     },
     {
       "kicker": "STRATEGY",
-      "head": "Avanti sells Hylas-3, downsizing GEO ambitions",
-      "body": "Avanti Communications is offloading its Hylas-3 payload, a move that underscores its retreat from the geostationary orbit market. The sale reflects a broader trend where companies are realizing that the GEO dream can often lead to more debt than revenue. This strategic retreat has implications for other players still holding onto their GEO aspirations.",
-      "soWhat": "If Avanti's exit signals a trend, expect more players to rethink their GEO strategies and pivot towards more sustainable business models."
+      "head": "Avanti sells Hylas-3, reducing GEO footprint",
+      "body": "Avanti Communications is offloading its Hylas-3 satellite to streamline its operations and reduce exposure in the geostationary orbit market. This move hints at a strategic pivot as the company grapples with the realities of a saturated satellite landscape. The sale reflects a growing consensus that less can indeed be more in this sector.",
+      "soWhat": "Avanti's retreat from GEO could signal a broader trend of consolidation as companies reassess their market positions."
     },
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M Series C for co-orbital security",
-      "body": "True Anomaly secured a hefty $190 million in Series C funding at a $1.6 billion valuation, highlighting the growing demand for co-orbital security solutions. This funding round signals strong confidence from investors in the defense sector, particularly as the Department of Defense is increasingly focused on space domain awareness. The cash influx will likely accelerate True Anomaly's development efforts.",
-      "soWhat": "The substantial investment suggests that co-orbital security is becoming a critical area of focus for both investors and the military."
+      "kicker": "TECH",
+      "head": "Astra doubles down on AI amid uncertainty",
+      "body": "Astra's CEO Chris Kemp is betting the company's future on AI technologies, a decision that raises eyebrows given the company's rocky launch history. With competitors ramping up their own AI initiatives, Astra's pivot may be a last-ditch effort to stay relevant in an increasingly crowded field. The emphasis on AI could either be a masterstroke or a sign of desperation.",
+      "soWhat": "If Astra's AI gamble pays off, it might just redefine how we think about launch operations; if not, it could lead to a swift exit from the market."
     }
   ],
   "watchlist": [
     {
-      "title": "SpaceX's IPO aftermath: What’s next?",
-      "body": "The success of SpaceX's IPO might inspire a wave of public offerings in the space sector, reshaping investment dynamics."
+      "title": "Palantir's TITAN extension implications",
+      "body": "With Palantir securing a $480 million extension, watch for increased focus on government contracts as a stable revenue stream."
     },
     {
-      "title": "Avanti's GEO retreat: Industry implications",
-      "body": "Avanti's strategic downsizing could prompt other companies to reassess their positions in the geostationary market, potentially leading to a shake-up."
+      "title": "Sierra Space's Dream Chaser progress",
+      "body": "After passing its critical design review, the real test for Sierra Space will be turning plans into a functioning spacecraft."
     },
     {
-      "title": "True Anomaly's growth trajectory",
-      "body": "With new funding, True Anomaly’s focus on co-orbital security could redefine market expectations for defense investments in space."
+      "title": "Hypersonic test delays continue",
+      "body": "The ongoing delays in hypersonic glide-vehicle testing could impact defense timelines and funding allocations."
     },
     {
-      "title": "AI in defense: Astra's gamble",
-      "body": "Astra’s heavy investment in AI may either pay off or leave it stranded, depending on whether the tech delivers as promised."
+      "title": "True Anomaly's Series C impact",
+      "body": "True Anomaly's $190 million raise might signal a shift in co-orbital security priorities, especially with DoD backing."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPACEX",
-      "note": "SpaceX shares jumped nearly 20% post-IPO, reflecting investor confidence."
+      "note": "Shares rose nearly 20% post-IPO, reflecting strong market confidence."
     },
     {
-      "sym": "AVNT",
-      "note": "Avanti's sale of Hylas-3 signals a major retreat from GEO ambitions."
+      "sym": "AVN",
+      "note": "Avanti's sale of Hylas-3 suggests a strategic pullback from GEO operations."
     },
     {
-      "sym": "TRUE",
-      "note": "True Anomaly raises $190M, underscoring the defense sector's focus on co-orbital security."
+      "sym": "PLTR",
+      "note": "Palantir's $480M TITAN extension underscores its grip on government contracts."
     },
     {
       "sym": "ASTR",
-      "note": "Astra's Chris Kemp is doubling down on AI, but will it lead to tangible results?"
+      "note": "Astra's AI bet could either save the company or signal its decline."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

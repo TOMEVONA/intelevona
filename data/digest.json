@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "SpaceX's IPO has sent ripples through the industry, with shares soaring nearly 20% and Musk's net worth hitting new heights. Meanwhile, the space defense sector is seeing increased budget allocations and strategic partnerships, even as some projects stumble.",
+  "summary": "The space industry is experiencing a mix of financial maneuvers and technological advancements, with SpaceX's IPO sparking investor interest. Meanwhile, concerns about orbital congestion and defense tech collaborations are shaping future strategies.",
   "themes": [
     {
       "icon": "▣",
-      "title": "SpaceX's IPO Surge",
-      "body": "The historic IPO has not only boosted SpaceX's valuation but also reignited interest in the defense-tech market. Investors are clearly betting on a future where space ventures are as lucrative as they are ambitious."
-    },
-    {
-      "icon": "▲",
-      "title": "Budget Boost for Space Resilience",
-      "body": "The recent FY27 budget markup adds $1.4 billion for space resilience, signaling a growing commitment to safeguarding U.S. interests in orbit. This increase may reflect both geopolitical tensions and the increasing complexity of space operations."
-    },
-    {
-      "icon": "◆",
-      "title": "Partnerships in Tactical SDA",
-      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, highlighting a trend towards collaboration among defense contractors. Such partnerships may be essential as the industry grapples with the challenges of modern warfare in space."
+      "title": "SpaceX's IPO Sparks Interest",
+      "body": "SpaceX's shares surged nearly 20% following its historic IPO, making Elon Musk a paper trillionaire. This move has opened the floodgates for potential investments in the space sector, signaling a renewed appetite for aerospace equities."
     },
     {
       "icon": "◉",
-      "title": "Hypersonic Testing Delays",
-      "body": "The continued delays in hypersonic glide-vehicle tests raise questions about the U.S. military's readiness in this critical area. As other nations advance, the pressure is on to get these capabilities operational sooner rather than later."
+      "title": "Defense Tech Collaboration Grows",
+      "body": "Anduril and L3Harris are teaming up on a tactical SDA constellation bid, highlighting the increasing importance of partnerships in defense technology. As budgets swell, collaboration may be the key to navigating the complexities of modern warfare."
+    },
+    {
+      "icon": "▲",
+      "title": "Orbital Data Center Concerns",
+      "body": "Astronomers are raising alarms over the potential interference from proposed orbital data centers, which could disrupt critical observations. This tension between commercial interests and scientific integrity is likely to escalate as more players enter the space."
+    },
+    {
+      "icon": "◆",
+      "title": "Budget Boost for Space Resilience",
+      "body": "The FY27 budget markup has allocated an additional $1.4 billion to enhance space resilience, reflecting a growing recognition of the strategic importance of space. As threats evolve, this funding may be crucial in maintaining U.S. dominance in the orbital arena."
     }
   ],
-  "updated": "2026-06-13 15:03 UTC"
+  "updated": "2026-06-13 15:29 UTC"
 }
