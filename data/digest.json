@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with AI initiatives and new contracts, while budget discussions hint at a growing focus on resilience. Meanwhile, launch capabilities are expanding, though hypersonic tests remain elusive.",
+  "summary": "SpaceX's IPO has sent ripples through the industry, with shares soaring nearly 20% and Musk's net worth hitting new heights. Meanwhile, the space defense sector is seeing increased budget allocations and strategic partnerships, even as some projects stumble.",
   "themes": [
     {
       "icon": "▣",
-      "title": "AI Takes Center Stage",
-      "body": "Astra's commitment to AI highlights a broader trend where technology is not just a replacement but a solution to workforce shortages in aerospace. This shift could redefine operational efficiencies across the sector."
-    },
-    {
-      "icon": "◉",
-      "title": "Launch Sites on the Rise",
-      "body": "Vandenberg's new offerings for small and medium rockets signal a strategic move to accommodate the growing demand for diverse launch capabilities. This could attract a wider array of clients, from startups to established players."
+      "title": "SpaceX's IPO Surge",
+      "body": "The historic IPO has not only boosted SpaceX's valuation but also reignited interest in the defense-tech market. Investors are clearly betting on a future where space ventures are as lucrative as they are ambitious."
     },
     {
       "icon": "▲",
       "title": "Budget Boost for Space Resilience",
-      "body": "The proposed $1.4 billion increase in the FY27 budget for space resilience indicates a serious commitment to fortifying U.S. capabilities in an increasingly contested domain. Expect to see this funding translate into more robust defense initiatives."
+      "body": "The recent FY27 budget markup adds $1.4 billion for space resilience, signaling a growing commitment to safeguarding U.S. interests in orbit. This increase may reflect both geopolitical tensions and the increasing complexity of space operations."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Hiccups Continue",
-      "body": "The ongoing delays in hypersonic glide-vehicle tests raise questions about the pace of technological advancement in this critical area. As defense budgets swell, the pressure will mount to deliver results."
+      "title": "Partnerships in Tactical SDA",
+      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, highlighting a trend towards collaboration among defense contractors. Such partnerships may be essential as the industry grapples with the challenges of modern warfare in space."
+    },
+    {
+      "icon": "◉",
+      "title": "Hypersonic Testing Delays",
+      "body": "The continued delays in hypersonic glide-vehicle tests raise questions about the U.S. military's readiness in this critical area. As other nations advance, the pressure is on to get these capabilities operational sooner rather than later."
     }
   ],
-  "updated": "2026-06-12 16:41 UTC"
+  "updated": "2026-06-13 15:03 UTC"
 }

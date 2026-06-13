@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-12",
-  "issue": "No. 52",
-  "headline": "AI bets. Rocket returns. Contracts flow.",
-  "deck": "Astra goes all-in on AI while Japan's H3 finds its wings again.",
+  "updated": "2026-06-13",
+  "issue": "No. 53",
+  "headline": "SpaceX IPO soars. Avanti retreats. True Anomaly cashes in.",
+  "deck": "This week, SpaceX's IPO boosts its valuation while Avanti sells off assets to cut losses.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "AI",
-      "head": "Astra's bold AI gamble could backfire",
-      "body": "Astra's CEO Chris Kemp is betting heavily on AI to save the company, which once soared on SPAC hype but is now struggling. While he claims he might be the last one standing, investors might wonder if this is a strategic pivot or a desperate move. With revenue still elusive, the stakes are high for a company that needs more than just algorithms to stay afloat.",
-      "soWhat": "When a CEO starts talking about being the last one standing, it’s usually a sign of trouble—especially if AI is the lifeline."
+      "kicker": "MARKETS",
+      "head": "SpaceX's IPO lifts shares by nearly 20%",
+      "body": "SpaceX's shares surged nearly 20% in their recent IPO, bringing the company's valuation to a staggering $470 billion. Investors are clearly feeling bullish, as the public listing has them believing they’re on a rocket rather than a rollercoaster. This kind of market enthusiasm suggests that even in a turbulent industry, there’s still a thirst for space exposure.",
+      "soWhat": "The IPO's success may embolden other space companies to consider going public, even if they lack SpaceX's pedigree."
     },
     {
-      "kicker": "LAUNCH",
-      "head": "Japan's H3 rocket comeback is reassuring",
-      "body": "Japan's H3 rocket successfully launched six smallsats, marking a significant recovery after its previous failure. This launch is crucial for Japan's space ambitions and demonstrates that persistence can lead to success—even in aerospace. As the global competition heats up, a reliable launch vehicle can make all the difference for national pride and economic investment.",
-      "soWhat": "In an industry where failures are common, Japan's ability to bounce back with H3 could provide a blueprint for others navigating their own launch woes."
+      "kicker": "STRATEGY",
+      "head": "Avanti sells Hylas-3, downsizing GEO ambitions",
+      "body": "Avanti Communications is offloading its Hylas-3 payload, a move that underscores its retreat from the geostationary orbit market. The sale reflects a broader trend where companies are realizing that the GEO dream can often lead to more debt than revenue. This strategic retreat has implications for other players still holding onto their GEO aspirations.",
+      "soWhat": "If Avanti's exit signals a trend, expect more players to rethink their GEO strategies and pivot towards more sustainable business models."
     },
     {
-      "kicker": "CONTRACTS",
-      "head": "AAC Clyde Space nets €10.9M ESA contract",
-      "body": "AAC Clyde Space has secured a €10.9 million contract from the European Space Agency to enhance its maritime monitoring capabilities. This contract underscores the ongoing demand for satellite-based solutions in environmental monitoring and security. With the ESA's focus on sustainability, this deal positions AAC Clyde Space favorably in a competitive market.",
-      "soWhat": "Contracts like this are the real currency in the space sector; they not only validate a company's technology but also its market relevance."
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M Series C for co-orbital security",
+      "body": "True Anomaly secured a hefty $190 million in Series C funding at a $1.6 billion valuation, highlighting the growing demand for co-orbital security solutions. This funding round signals strong confidence from investors in the defense sector, particularly as the Department of Defense is increasingly focused on space domain awareness. The cash influx will likely accelerate True Anomaly's development efforts.",
+      "soWhat": "The substantial investment suggests that co-orbital security is becoming a critical area of focus for both investors and the military."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on True Anomaly's growth",
-      "body": "With a recent $190M Series C, True Anomaly is poised to expand its co-orbital security capabilities, potentially reshaping the market."
+      "title": "SpaceX's IPO aftermath: What’s next?",
+      "body": "The success of SpaceX's IPO might inspire a wave of public offerings in the space sector, reshaping investment dynamics."
     },
     {
-      "title": "Watch for Vandenberg's new launch site impact",
-      "body": "The U.S. Space Force's new launch site at Vandenberg could shift dynamics for small and medium rocket launches, making it a key player."
+      "title": "Avanti's GEO retreat: Industry implications",
+      "body": "Avanti's strategic downsizing could prompt other companies to reassess their positions in the geostationary market, potentially leading to a shake-up."
     },
     {
-      "title": "Astra's AI strategy unfolds next week",
-      "body": "As Astra's AI initiatives roll out, the industry will be watching closely to see if they can turn the tide on their financial struggles."
+      "title": "True Anomaly's growth trajectory",
+      "body": "With new funding, True Anomaly’s focus on co-orbital security could redefine market expectations for defense investments in space."
     },
     {
-      "title": "Palantir's TITAN extension implications",
-      "body": "Palantir's $480M TITAN extension could signal growing government reliance on data infrastructure, setting a precedent for future contracts."
+      "title": "AI in defense: Astra's gamble",
+      "body": "Astra’s heavy investment in AI may either pay off or leave it stranded, depending on whether the tech delivers as promised."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
+      "sym": "SPACEX",
+      "note": "SpaceX shares jumped nearly 20% post-IPO, reflecting investor confidence."
+    },
+    {
+      "sym": "AVNT",
+      "note": "Avanti's sale of Hylas-3 signals a major retreat from GEO ambitions."
+    },
+    {
+      "sym": "TRUE",
+      "note": "True Anomaly raises $190M, underscoring the defense sector's focus on co-orbital security."
+    },
+    {
       "sym": "ASTR",
-      "note": "Astra's stock remains volatile as AI strategy unfolds, raising questions about its viability."
-    },
-    {
-      "sym": "AAC",
-      "note": "AAC Clyde Space's recent ESA contract boosts confidence in its maritime monitoring solutions."
-    },
-    {
-      "sym": "PLTR",
-      "note": "Palantir's $480M extension on TITAN underscores its grip on government contracts, despite ongoing criticism."
-    },
-    {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's struggles continue as it navigates a challenging commercial space environment."
+      "note": "Astra's Chris Kemp is doubling down on AI, but will it lead to tangible results?"
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
