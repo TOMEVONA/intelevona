@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-14",
   "issue": "No. 54",
-  "headline": "Missile plans stall. SpaceX soars. Defense IPOs stir.",
-  "deck": "Supply chain issues and market shifts are reshaping defense and space.",
+  "headline": "Supply chains strain. IPOs shine. Budgets swell.",
+  "deck": "This week, supply bottlenecks threaten missile production while SpaceX's IPO boosts market sentiment.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "DEFENSE",
-      "head": "Missile production faces solid rocket motor bottleneck",
-      "body": "A CSIS report indicates that solid rocket motor production is struggling, potentially jeopardizing missile interceptor plans slated for 2027. This bottleneck underscores the fragility of defense supply chains, where one hiccup could derail entire programs. With the U.S. defense budget already under scrutiny, this isn't just a technical issue; it's a political hot potato.",
-      "soWhat": "If the military can’t get its missiles in time, expect a lot of finger-pointing and budget reallocations. Supply chain woes are the real enemy here."
+      "kicker": "SUPPLY",
+      "head": "Missile production faces solid rocket motor shortage",
+      "body": "A recent CSIS report warns that the planned 2027 interceptor buys may be jeopardized by a shortage of solid rocket motors. This bottleneck reflects the consequences of industry consolidation, where fewer suppliers mean more vulnerabilities. The irony is that as missile programs ramp up, the very materials needed to support them are becoming scarce.",
+      "soWhat": "In a sector that thrives on tight schedules, this shortage could delay critical defense capabilities, leaving us wondering if we're aiming for the stars or just stuck in traffic."
     },
     {
-      "kicker": "SPACE",
-      "head": "SpaceX shares jump nearly 20% on IPO debut",
-      "body": "In a notable market debut, SpaceX shares surged almost 20% on their first trading day, reaching a valuation of approximately $470 billion. This milestone not only reflects investor confidence in the commercial space sector but also sets a benchmark for other space firms eyeing public markets. For context, this is the largest IPO in the space industry to date, further legitimizing the sector as a profitable venture.",
-      "soWhat": "This surge might just be a flash in the pan, but it indicates that investors are ready to bet big on space—if they can find the right ticket."
+      "kicker": "CONTRACTS",
+      "head": "NASA tightens reins on lunar lander contractors",
+      "body": "NASA has unveiled revised plans for the Artemis lunar lander project, emphasizing the need for Blue Origin and SpaceX to accelerate their timelines. This shift comes as the agency grapples with delays and rising costs, suggesting that even the most ambitious space initiatives are not immune to the pressures of contractor performance.",
+      "soWhat": "If NASA is tightening the screws on its contractors, it might be a sign that the agency is running out of patience—and budgetary flexibility."
     },
     {
-      "kicker": "TECH",
-      "head": "Anduril and L3Harris join forces for SDA bid",
-      "body": "Anduril and L3Harris are teaming up to bid on a tactical Space Development Agency (SDA) constellation, signaling a strategic alliance in a highly competitive landscape. This collaboration comes at a time when the U.S. is ramping up its space capabilities, with the FY27 budget earmarking an additional $1.4 billion for space resilience. As the defense sector shifts towards more integrated solutions, partnerships like this could redefine competitive dynamics.",
-      "soWhat": "In a game where alliances might matter more than tech, this partnership could be a harbinger of how future contracts are won—or lost."
+      "kicker": "FINANCE",
+      "head": "SpaceX shares soar nearly 20% on IPO debut",
+      "body": "SpaceX's shares experienced a near 20% jump on their IPO debut, reflecting a strong appetite for space stocks in the market. With a valuation now flirting with $470 billion, the company is a clear frontrunner in the space sector, even as investors weigh the risks involved in such a lofty valuation.",
+      "soWhat": "This surge serves as a reminder that in the space industry, perception often trumps reality—especially when it comes to market valuations."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for SpaceX's secondary market moves",
-      "body": "With shares soaring, secondary market activity around SpaceX could heat up, impacting valuations across the sector."
+      "title": "Missile supply chain developments",
+      "body": "Next week could see more clarity on how the solid rocket motor shortage will impact missile contracts and timelines."
     },
     {
-      "title": "Implications of GPS jamming in Eastern Med",
-      "body": "With GPS jamming returning to pre-2024 levels, expect heightened scrutiny on navigation technologies and their vulnerabilities."
+      "title": "Artemis project updates expected",
+      "body": "Keep an eye out for NASA's next steps regarding contractor performance and potential penalties or incentives."
     },
     {
-      "title": "Palantir's TITAN extension could signal more contracts",
-      "body": "The $480 million extension on the TITAN program could attract attention from other agencies looking for similar long-term commitments."
+      "title": "SpaceX's post-IPO performance",
+      "body": "Investors will be watching closely to see if SpaceX can maintain its valuation or if reality will set in."
     },
     {
-      "title": "True Anomaly's Series C could shift co-orbital dynamics",
-      "body": "With $190 million raised, True Anomaly may disrupt the co-orbital security landscape, especially as defense needs evolve."
+      "title": "Impacts of budget increases",
+      "body": "The additional $1.4 billion for space resilience in the FY27 budget could lead to new contracts and partnerships."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPACEX",
-      "note": "Shares jumped nearly 20% on IPO, validating market interest."
+      "note": "Shares jumped nearly 20% post-IPO, proving the market loves a good launch."
     },
     {
       "sym": "AVNT",
-      "note": "Avanti's sale of Hylas-3 signals a retreat from geostationary commitments."
+      "note": "Avanti's sale of Hylas-3 signals a retreat from ambitious satellite plans amid debt concerns."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension reinforces its position in government contracts."
+      "note": "Palantir's $480M contract extension showcases the longevity of government contracts over flashy innovations."
     },
     {
       "sym": "Sierra Space",
-      "note": "Dream Chaser's design review clearance raises stakes for future DoD missions."
+      "note": "Sierra's Dream Chaser DoD variant passed a critical review; now the real test is execution."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
