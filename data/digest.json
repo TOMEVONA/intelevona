@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is experiencing a mix of financial maneuvers and technological advancements, with SpaceX's IPO sparking investor interest. Meanwhile, concerns about orbital congestion and defense tech collaborations are shaping future strategies.",
+  "summary": "The space and defense sectors are grappling with production bottlenecks while major players like SpaceX continue to make headlines with their financial maneuvers. Meanwhile, new partnerships and budget allocations hint at a shifting landscape in space resilience and tactical capabilities.",
   "themes": [
     {
       "icon": "▣",
-      "title": "SpaceX's IPO Sparks Interest",
-      "body": "SpaceX's shares surged nearly 20% following its historic IPO, making Elon Musk a paper trillionaire. This move has opened the floodgates for potential investments in the space sector, signaling a renewed appetite for aerospace equities."
-    },
-    {
-      "icon": "◉",
-      "title": "Defense Tech Collaboration Grows",
-      "body": "Anduril and L3Harris are teaming up on a tactical SDA constellation bid, highlighting the increasing importance of partnerships in defense technology. As budgets swell, collaboration may be the key to navigating the complexities of modern warfare."
+      "title": "Missile Production Challenges",
+      "body": "The push for increased missile production is hitting a snag due to solid rocket motor shortages. This bottleneck could delay not just production timelines, but also strategic initiatives."
     },
     {
       "icon": "▲",
-      "title": "Orbital Data Center Concerns",
-      "body": "Astronomers are raising alarms over the potential interference from proposed orbital data centers, which could disrupt critical observations. This tension between commercial interests and scientific integrity is likely to escalate as more players enter the space."
+      "title": "Artemis Lunar Plans Evolve",
+      "body": "Revised plans for the Artemis lunar lander are taking shape, reflecting ongoing adjustments to meet ambitious timelines. This could signal a more pragmatic approach to lunar exploration, though skepticism remains."
+    },
+    {
+      "icon": "◉",
+      "title": "SpaceX's Financial Surge",
+      "body": "SpaceX's shares surged nearly 20% following its historic IPO, making Elon Musk the world’s first trillionaire on paper. This financial windfall may bolster further investments in ambitious projects, but the sustainability of this growth remains to be seen."
     },
     {
       "icon": "◆",
       "title": "Budget Boost for Space Resilience",
-      "body": "The FY27 budget markup has allocated an additional $1.4 billion to enhance space resilience, reflecting a growing recognition of the strategic importance of space. As threats evolve, this funding may be crucial in maintaining U.S. dominance in the orbital arena."
+      "body": "The FY27 budget markup includes a $1.4 billion increase for space resilience initiatives, reflecting a growing recognition of the strategic importance of space. This funding could enhance capabilities but also raises questions about prioritization in a crowded defense budget."
     }
   ],
-  "updated": "2026-06-13 15:29 UTC"
+  "updated": "2026-06-14 15:09 UTC"
 }

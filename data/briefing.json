@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-13",
-  "issue": "No. 53",
-  "headline": "SpaceX soars. Avanti shrinks. AI bets intensify.",
-  "deck": "SpaceX's IPO boosts confidence while Avanti's sale signals caution in the satellite market.",
+  "updated": "2026-06-14",
+  "issue": "No. 54",
+  "headline": "Missile plans stall. SpaceX soars. Defense IPOs stir.",
+  "deck": "Supply chain issues and market shifts are reshaping defense and space.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "MARKETS",
-      "head": "SpaceX shares jump nearly 20% in IPO",
-      "body": "SpaceX's shares surged by almost 20% following its IPO, valuing the company at an eye-watering $470 billion. This leap suggests that even in the realm of space, investor enthusiasm can reach stratospheric heights. The performance underscores the public's appetite for space ventures, despite the usual skepticism around profitability.",
-      "soWhat": "If SpaceX can pull this off, expect other space ventures to follow suit, hoping to hitch a ride on the hype train."
+      "kicker": "DEFENSE",
+      "head": "Missile production faces solid rocket motor bottleneck",
+      "body": "A CSIS report indicates that solid rocket motor production is struggling, potentially jeopardizing missile interceptor plans slated for 2027. This bottleneck underscores the fragility of defense supply chains, where one hiccup could derail entire programs. With the U.S. defense budget already under scrutiny, this isn't just a technical issue; it's a political hot potato.",
+      "soWhat": "If the military can’t get its missiles in time, expect a lot of finger-pointing and budget reallocations. Supply chain woes are the real enemy here."
     },
     {
-      "kicker": "STRATEGY",
-      "head": "Avanti sells Hylas-3, reducing GEO footprint",
-      "body": "Avanti Communications is offloading its Hylas-3 satellite to streamline its operations and reduce exposure in the geostationary orbit market. This move hints at a strategic pivot as the company grapples with the realities of a saturated satellite landscape. The sale reflects a growing consensus that less can indeed be more in this sector.",
-      "soWhat": "Avanti's retreat from GEO could signal a broader trend of consolidation as companies reassess their market positions."
+      "kicker": "SPACE",
+      "head": "SpaceX shares jump nearly 20% on IPO debut",
+      "body": "In a notable market debut, SpaceX shares surged almost 20% on their first trading day, reaching a valuation of approximately $470 billion. This milestone not only reflects investor confidence in the commercial space sector but also sets a benchmark for other space firms eyeing public markets. For context, this is the largest IPO in the space industry to date, further legitimizing the sector as a profitable venture.",
+      "soWhat": "This surge might just be a flash in the pan, but it indicates that investors are ready to bet big on space—if they can find the right ticket."
     },
     {
       "kicker": "TECH",
-      "head": "Astra doubles down on AI amid uncertainty",
-      "body": "Astra's CEO Chris Kemp is betting the company's future on AI technologies, a decision that raises eyebrows given the company's rocky launch history. With competitors ramping up their own AI initiatives, Astra's pivot may be a last-ditch effort to stay relevant in an increasingly crowded field. The emphasis on AI could either be a masterstroke or a sign of desperation.",
-      "soWhat": "If Astra's AI gamble pays off, it might just redefine how we think about launch operations; if not, it could lead to a swift exit from the market."
+      "head": "Anduril and L3Harris join forces for SDA bid",
+      "body": "Anduril and L3Harris are teaming up to bid on a tactical Space Development Agency (SDA) constellation, signaling a strategic alliance in a highly competitive landscape. This collaboration comes at a time when the U.S. is ramping up its space capabilities, with the FY27 budget earmarking an additional $1.4 billion for space resilience. As the defense sector shifts towards more integrated solutions, partnerships like this could redefine competitive dynamics.",
+      "soWhat": "In a game where alliances might matter more than tech, this partnership could be a harbinger of how future contracts are won—or lost."
     }
   ],
   "watchlist": [
     {
-      "title": "Palantir's TITAN extension implications",
-      "body": "With Palantir securing a $480 million extension, watch for increased focus on government contracts as a stable revenue stream."
+      "title": "Watch for SpaceX's secondary market moves",
+      "body": "With shares soaring, secondary market activity around SpaceX could heat up, impacting valuations across the sector."
     },
     {
-      "title": "Sierra Space's Dream Chaser progress",
-      "body": "After passing its critical design review, the real test for Sierra Space will be turning plans into a functioning spacecraft."
+      "title": "Implications of GPS jamming in Eastern Med",
+      "body": "With GPS jamming returning to pre-2024 levels, expect heightened scrutiny on navigation technologies and their vulnerabilities."
     },
     {
-      "title": "Hypersonic test delays continue",
-      "body": "The ongoing delays in hypersonic glide-vehicle testing could impact defense timelines and funding allocations."
+      "title": "Palantir's TITAN extension could signal more contracts",
+      "body": "The $480 million extension on the TITAN program could attract attention from other agencies looking for similar long-term commitments."
     },
     {
-      "title": "True Anomaly's Series C impact",
-      "body": "True Anomaly's $190 million raise might signal a shift in co-orbital security priorities, especially with DoD backing."
+      "title": "True Anomaly's Series C could shift co-orbital dynamics",
+      "body": "With $190 million raised, True Anomaly may disrupt the co-orbital security landscape, especially as defense needs evolve."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPACEX",
-      "note": "Shares rose nearly 20% post-IPO, reflecting strong market confidence."
+      "note": "Shares jumped nearly 20% on IPO, validating market interest."
     },
     {
-      "sym": "AVN",
-      "note": "Avanti's sale of Hylas-3 suggests a strategic pullback from GEO operations."
+      "sym": "AVNT",
+      "note": "Avanti's sale of Hylas-3 signals a retreat from geostationary commitments."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension underscores its grip on government contracts."
+      "note": "Palantir's $480M TITAN extension reinforces its position in government contracts."
     },
     {
-      "sym": "ASTR",
-      "note": "Astra's AI bet could either save the company or signal its decline."
+      "sym": "Sierra Space",
+      "note": "Dream Chaser's design review clearance raises stakes for future DoD missions."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
