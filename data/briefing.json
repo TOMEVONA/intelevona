@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-14",
-  "issue": "No. 54",
-  "headline": "Supply chains strain. IPOs shine. Budgets swell.",
-  "deck": "This week, supply bottlenecks threaten missile production while SpaceX's IPO boosts market sentiment.",
+  "updated": "2026-06-15",
+  "issue": "No. 55",
+  "headline": "DARPA plans. Space energy debates. Missile production bottleneck.",
+  "deck": "This week, defense initiatives face challenges while investment in space energy heats up.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "SUPPLY",
-      "head": "Missile production faces solid rocket motor shortage",
-      "body": "A recent CSIS report warns that the planned 2027 interceptor buys may be jeopardized by a shortage of solid rocket motors. This bottleneck reflects the consequences of industry consolidation, where fewer suppliers mean more vulnerabilities. The irony is that as missile programs ramp up, the very materials needed to support them are becoming scarce.",
-      "soWhat": "In a sector that thrives on tight schedules, this shortage could delay critical defense capabilities, leaving us wondering if we're aiming for the stars or just stuck in traffic."
+      "kicker": "DEFENSE",
+      "head": "DARPA's satellite restoration plan raises eyebrows",
+      "body": "DARPA is exploring ways to rapidly rebuild satellite networks post-attack, a response to the increasing chaos in space. This initiative highlights a $1.4 billion boost in the FY27 budget for space resilience, indicating a serious acknowledgment of vulnerabilities. The question remains: how quickly can these networks be restored when chaos strikes?",
+      "soWhat": "If DARPA is planning for chaos, it suggests we might be closer to a conflict in space than we’d like to admit."
     },
     {
-      "kicker": "CONTRACTS",
-      "head": "NASA tightens reins on lunar lander contractors",
-      "body": "NASA has unveiled revised plans for the Artemis lunar lander project, emphasizing the need for Blue Origin and SpaceX to accelerate their timelines. This shift comes as the agency grapples with delays and rising costs, suggesting that even the most ambitious space initiatives are not immune to the pressures of contractor performance.",
-      "soWhat": "If NASA is tightening the screws on its contractors, it might be a sign that the agency is running out of patience—and budgetary flexibility."
+      "kicker": "ENERGY",
+      "head": "Monetizing space energy is a hot topic",
+      "body": "The ongoing debate over how best to monetize space energy shows that even the cosmos is not immune to the lure of profit. Companies are scrambling to find viable business models, with some suggesting that space solar power could be the next big thing. However, the lack of clear pathways to profitability remains a significant hurdle.",
+      "soWhat": "If space energy doesn't find a market soon, it might just become another expensive experiment in the void."
     },
     {
-      "kicker": "FINANCE",
-      "head": "SpaceX shares soar nearly 20% on IPO debut",
-      "body": "SpaceX's shares experienced a near 20% jump on their IPO debut, reflecting a strong appetite for space stocks in the market. With a valuation now flirting with $470 billion, the company is a clear frontrunner in the space sector, even as investors weigh the risks involved in such a lofty valuation.",
-      "soWhat": "This surge serves as a reminder that in the space industry, perception often trumps reality—especially when it comes to market valuations."
+      "kicker": "MANUFACTURING",
+      "head": "Solid rocket motor bottleneck threatens missile plans",
+      "body": "A recent report has identified a bottleneck in solid rocket motor production, posing a risk to missile production timelines. This could slow down various defense projects as manufacturers scramble to find solutions. With the military's increasing reliance on missile technology, this issue could have far-reaching implications.",
+      "soWhat": "If missile production stalls, we might see a sudden uptick in diplomatic negotiations—because who wants to admit they're out of missiles?"
     }
   ],
   "watchlist": [
     {
-      "title": "Missile supply chain developments",
-      "body": "Next week could see more clarity on how the solid rocket motor shortage will impact missile contracts and timelines."
+      "title": "Watch for DARPA's satellite restoration updates",
+      "body": "As DARPA moves forward, any progress could redefine how we think about resilience in space."
     },
     {
-      "title": "Artemis project updates expected",
-      "body": "Keep an eye out for NASA's next steps regarding contractor performance and potential penalties or incentives."
+      "title": "Space energy business models to emerge",
+      "body": "Keep an eye on companies attempting to monetize space energy; their strategies could shape the sector."
     },
     {
-      "title": "SpaceX's post-IPO performance",
-      "body": "Investors will be watching closely to see if SpaceX can maintain its valuation or if reality will set in."
+      "title": "Missile production bottleneck developments",
+      "body": "Any new insights into the solid rocket motor issue could impact defense contracts and timelines."
     },
     {
-      "title": "Impacts of budget increases",
-      "body": "The additional $1.4 billion for space resilience in the FY27 budget could lead to new contracts and partnerships."
+      "title": "True Anomaly's Series C implications",
+      "body": "With $190M raised, True Anomaly's focus on co-orbital security could signal a shift in defense priorities."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPACEX",
-      "note": "Shares jumped nearly 20% post-IPO, proving the market loves a good launch."
-    },
-    {
-      "sym": "AVNT",
-      "note": "Avanti's sale of Hylas-3 signals a retreat from ambitious satellite plans amid debt concerns."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's $480M contract extension showcases the longevity of government contracts over flashy innovations."
+      "note": "Palantir's $480M extension on the TITAN program shows the enduring value of government contracts."
     },
     {
-      "sym": "Sierra Space",
-      "note": "Sierra's Dream Chaser DoD variant passed a critical review; now the real test is execution."
+      "sym": "SCS",
+      "note": "Sierra Space's Dream Chaser variant passed a critical design review, but the real test will be launch."
+    },
+    {
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's bull case is illustrated, but execution remains a precarious balancing act."
+    },
+    {
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains a speculative bet as the space tourism market struggles to find its footing."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
