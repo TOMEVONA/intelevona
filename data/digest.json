@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is experiencing a mix of challenges and opportunities as missile production bottlenecks and budget increases vie for attention. Meanwhile, SpaceX's IPO and new collaborations signal a dynamic shift in market positioning.",
+  "summary": "The space and defense sectors are grappling with a mix of resilience strategies and technological advancements this week. From satellite network recovery plans to the ongoing challenges in missile production, the landscape remains as complex as ever.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Missile Production Woes",
-      "body": "The push for increased missile production is stalling due to a shortage of solid rocket motors, highlighting the fragility of supply chains in defense. This bottleneck could have broader implications for military readiness if not addressed swiftly."
-    },
-    {
-      "icon": "▲",
-      "title": "SpaceX's IPO Surge",
-      "body": "SpaceX's shares surged nearly 20% following its historic IPO, making Elon Musk the world’s first trillionaire on paper. This financial windfall may reshape the competitive landscape, as other aerospace firms scramble to catch up."
+      "title": "Satellite Network Resilience",
+      "body": "DARPA's new initiative to rapidly rebuild satellite networks post-attack underscores the increasing vulnerability of space assets. As geopolitical tensions rise, the emphasis on resilience could reshape funding and priorities in the sector."
     },
     {
       "icon": "◉",
-      "title": "New Lunar Lander Plans",
-      "body": "Revised plans for the Artemis lunar lander are taking shape, reflecting ongoing adjustments in NASA's ambitious lunar ambitions. The changes may impact timelines and budgets, but they also signal a commitment to sustained lunar exploration."
+      "title": "Missile Production Challenges",
+      "body": "A bottleneck in solid rocket motor production is complicating the push for increased missile output. This could delay defense readiness as manufacturers struggle to meet rising demands."
+    },
+    {
+      "icon": "▲",
+      "title": "Lunar Landers Take Shape",
+      "body": "Revised plans for the Artemis lunar lander reflect ongoing adjustments in NASA's ambitious lunar return strategy. As timelines shift, the focus on sustainable exploration becomes ever more pressing."
     },
     {
       "icon": "◆",
-      "title": "Defense Tech Investments",
-      "body": "The defense-tech sector is seeing renewed interest, with a $1.4B boost to space resilience in the FY27 budget. As companies pivot towards AI and satellite solutions, the landscape is ripe for innovation, albeit with a healthy dose of skepticism."
+      "title": "Funding for Space Initiatives",
+      "body": "The recent $1.4 billion boost to the space resilience line in the FY27 budget signals a commitment to enhancing national security in space. This funding could catalyze new projects aimed at countering emerging threats."
     }
   ],
-  "updated": "2026-06-14 15:46 UTC"
+  "updated": "2026-06-15 17:58 UTC"
 }
