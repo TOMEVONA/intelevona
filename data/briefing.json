@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-15",
-  "issue": "No. 55",
-  "headline": "DARPA plans. Space energy debates. Missile production bottleneck.",
-  "deck": "This week, defense initiatives face challenges while investment in space energy heats up.",
+  "updated": "2026-06-16",
+  "issue": "No. 56",
+  "headline": "Unicorns multiply. Funding flows. Delays persist.",
+  "deck": "This week, private space valuations rise while delays in hypersonic testing continue.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "DEFENSE",
-      "head": "DARPA's satellite restoration plan raises eyebrows",
-      "body": "DARPA is exploring ways to rapidly rebuild satellite networks post-attack, a response to the increasing chaos in space. This initiative highlights a $1.4 billion boost in the FY27 budget for space resilience, indicating a serious acknowledgment of vulnerabilities. The question remains: how quickly can these networks be restored when chaos strikes?",
-      "soWhat": "If DARPA is planning for chaos, it suggests we might be closer to a conflict in space than we’d like to admit."
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M, eyes co-orbital security",
+      "body": "True Anomaly secured a $190 million Series C round, pushing its valuation to $1.6 billion. This funding will bolster its co-orbital security and space domain awareness capabilities, a timely move given the rising geopolitical tensions in space. The Department of Defense's increasing interest in these technologies suggests that True Anomaly is well-positioned to capitalize on government contracts.",
+      "soWhat": "When a company raises this much, it’s a sign that the defense sector is finally taking space security seriously."
     },
     {
-      "kicker": "ENERGY",
-      "head": "Monetizing space energy is a hot topic",
-      "body": "The ongoing debate over how best to monetize space energy shows that even the cosmos is not immune to the lure of profit. Companies are scrambling to find viable business models, with some suggesting that space solar power could be the next big thing. However, the lack of clear pathways to profitability remains a significant hurdle.",
-      "soWhat": "If space energy doesn't find a market soon, it might just become another expensive experiment in the void."
+      "kicker": "UNICORNS",
+      "head": "Katalyst Space joins the unicorn club with $12M",
+      "body": "Katalyst Space has raised $12 million for a GEO servicing demo mission, marking its entry into the unicorn ranks. This funding aims to develop capabilities for satellite repairs and servicing, a niche that is increasingly essential as the number of satellites in orbit grows. With this capital, Katalyst is positioning itself as a key player in the satellite maintenance market.",
+      "soWhat": "Who knew fixing satellites could be a billion-dollar business? Just wait until they start charging for 'space insurance.'"
     },
     {
-      "kicker": "MANUFACTURING",
-      "head": "Solid rocket motor bottleneck threatens missile plans",
-      "body": "A recent report has identified a bottleneck in solid rocket motor production, posing a risk to missile production timelines. This could slow down various defense projects as manufacturers scramble to find solutions. With the military's increasing reliance on missile technology, this issue could have far-reaching implications.",
-      "soWhat": "If missile production stalls, we might see a sudden uptick in diplomatic negotiations—because who wants to admit they're out of missiles?"
+      "kicker": "DELAY",
+      "head": "Hypersonic glide-vehicle test postponed again",
+      "body": "The hypersonic glide-vehicle test has slipped for the third consecutive quarter, raising concerns about the viability of these systems. Delays like this not only impact timelines but also funding and strategic planning for defense contractors involved in hypersonic technology. The ongoing setbacks suggest that the U.S. may be lagging behind its competitors in this critical area.",
+      "soWhat": "If this keeps up, 'hypersonic' might just become a euphemism for 'we're still figuring it out.'"
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for DARPA's satellite restoration updates",
-      "body": "As DARPA moves forward, any progress could redefine how we think about resilience in space."
+      "title": "Keep an eye on Anduril and L3Harris",
+      "body": "Their collaboration on a tactical SDA constellation bid could set the tone for future defense contracts."
     },
     {
-      "title": "Space energy business models to emerge",
-      "body": "Keep an eye on companies attempting to monetize space energy; their strategies could shape the sector."
+      "title": "Watch for SpaceX's secondary market activity",
+      "body": "With SpaceX's valuation at $470 billion, any movement could signal investor confidence or caution."
     },
     {
-      "title": "Missile production bottleneck developments",
-      "body": "Any new insights into the solid rocket motor issue could impact defense contracts and timelines."
+      "title": "Monitor the FY27 budget developments",
+      "body": "The additional $1.4 billion for space resilience could lead to new contracts for emerging players."
     },
     {
-      "title": "True Anomaly's Series C implications",
-      "body": "With $190M raised, True Anomaly's focus on co-orbital security could signal a shift in defense priorities."
+      "title": "Expect updates from PiLogic and the Air Force",
+      "body": "Their partnership on satellite fault-prediction software could yield important insights for the satellite industry."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
+      "sym": "TRUE",
+      "note": "True Anomaly's $190M Series C underscores the defense sector's focus on co-orbital security."
+    },
+    {
+      "sym": "KAT",
+      "note": "Katalyst Space's $12M funding round highlights the growing market for satellite servicing."
+    },
+    {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program shows the enduring value of government contracts."
-    },
-    {
-      "sym": "SCS",
-      "note": "Sierra Space's Dream Chaser variant passed a critical design review, but the real test will be launch."
-    },
-    {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's bull case is illustrated, but execution remains a precarious balancing act."
+      "note": "Palantir's $480M contract extension reinforces its dominance in defense data solutions."
     },
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains a speculative bet as the space tourism market struggles to find its footing."
+      "note": "SpaceX's secondary market activity keeps investors on edge as they await the next big move."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

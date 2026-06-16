@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space and defense sectors are grappling with challenges ranging from missile production bottlenecks to the complexities of satellite network resilience. Meanwhile, the commercial space race continues to heat up, with significant funding rounds and strategic partnerships making headlines.",
+  "summary": "The space industry continues to see a mix of funding rounds and partnerships aimed at enhancing satellite capabilities and resilience. Meanwhile, budget discussions are heating up as defense agencies seek to bolster their space initiatives.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Satellite Network Resilience",
-      "body": "DARPA's new initiative to explore rapid satellite network reconstruction highlights the growing concern over vulnerabilities in space infrastructure. As geopolitical tensions rise, the ability to quickly restore capabilities will be crucial for national security."
+      "title": "Funding Flows Steady",
+      "body": "Katalyst Space's recent $12 million raise for a GEO servicing demo highlights ongoing investor interest in satellite technology. Meanwhile, True Anomaly's $190 million Series C underscores the appetite for space startups."
     },
     {
       "icon": "◉",
-      "title": "Funding and Partnerships",
-      "body": "True Anomaly's recent $190M Series C round underscores the increasing investor interest in space tech, while Anduril and L3Harris's tactical constellation bid signals a shift towards collaborative defense strategies. Expect more alliances as companies seek to navigate a competitive landscape."
+      "title": "Defense Budgets on the Rise",
+      "body": "The FY27 budget markup has added $1.4 billion to space resilience, signaling a commitment to fortifying U.S. capabilities in the sector. This aligns with the growing emphasis on joint force integration and readiness."
     },
     {
       "icon": "▲",
-      "title": "Missile Production Challenges",
-      "body": "The ongoing solid rocket motor bottleneck is a stark reminder of the fragility in defense supply chains, potentially delaying critical missile production. As budgets swell, the industry must address these production hurdles to meet rising demands."
+      "title": "Partnerships for Progress",
+      "body": "PiLogic's collaboration with an Air Force lab to develop satellite fault-prediction software exemplifies the trend of public-private partnerships in defense tech. Similarly, Anduril and L3Harris are teaming up to bid on a tactical SDA constellation, reflecting a strategic push for enhanced situational awareness."
     },
     {
       "icon": "◆",
-      "title": "Commercial Space Developments",
-      "body": "The buzz around SpaceX's trading debut and the implications for Elon Musk's wealth are hard to ignore, but the real story lies in the broader commercial landscape. With companies like Viasat and Calian securing government contracts, the private sector's role in national defense is becoming more pronounced."
+      "title": "Geospatial Initiatives Expand",
+      "body": "The geospatial industry is launching a maritime initiative, indicating a broader focus on integrating satellite data with maritime operations. This move could enhance navigation and surveillance capabilities, particularly in contested waters."
     }
   ],
-  "updated": "2026-06-15 18:22 UTC"
+  "updated": "2026-06-16 18:06 UTC"
 }
