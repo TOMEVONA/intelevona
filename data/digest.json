@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry continues to see a mix of funding rounds and partnerships aimed at enhancing satellite capabilities and resilience. Meanwhile, budget discussions are heating up as defense agencies seek to bolster their space initiatives.",
+  "summary": "The space industry is buzzing with funding rounds and strategic partnerships, while budget allocations hint at a growing focus on resilience and readiness. Meanwhile, international cooperation and competition continue to shape the landscape.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Flows Steady",
-      "body": "Katalyst Space's recent $12 million raise for a GEO servicing demo highlights ongoing investor interest in satellite technology. Meanwhile, True Anomaly's $190 million Series C underscores the appetite for space startups."
-    },
-    {
-      "icon": "◉",
-      "title": "Defense Budgets on the Rise",
-      "body": "The FY27 budget markup has added $1.4 billion to space resilience, signaling a commitment to fortifying U.S. capabilities in the sector. This aligns with the growing emphasis on joint force integration and readiness."
+      "title": "Funding Rounds Galore",
+      "body": "Katalyst Space's recent $12 million raise for a GEO servicing demo mission and True Anomaly's $190 million Series C indicate investors are still keen on space ventures. The Defense-Tech IPO window cracking open adds to the optimism, albeit cautiously."
     },
     {
       "icon": "▲",
-      "title": "Partnerships for Progress",
-      "body": "PiLogic's collaboration with an Air Force lab to develop satellite fault-prediction software exemplifies the trend of public-private partnerships in defense tech. Similarly, Anduril and L3Harris are teaming up to bid on a tactical SDA constellation, reflecting a strategic push for enhanced situational awareness."
+      "title": "Strategic Partnerships Emerge",
+      "body": "Anduril and L3Harris teaming up for a tactical SDA constellation bid signals a shift towards collaborative defense initiatives. Similarly, PiLogic's partnership with an Air Force lab for satellite fault-prediction software underscores the military's interest in tech innovation."
+    },
+    {
+      "icon": "◉",
+      "title": "Budget Boosts for Space Resilience",
+      "body": "The FY27 budget markup, which adds $1.4 billion to the space resilience line, reflects a growing recognition of the strategic importance of space. This funding could bolster national security efforts amid increasing global competition."
     },
     {
       "icon": "◆",
-      "title": "Geospatial Initiatives Expand",
-      "body": "The geospatial industry is launching a maritime initiative, indicating a broader focus on integrating satellite data with maritime operations. This move could enhance navigation and surveillance capabilities, particularly in contested waters."
+      "title": "International Tensions in Orbit",
+      "body": "Recent reports of Russian co-orbital activity near commercial GEO slots raise eyebrows and highlight the geopolitical stakes in space. Meanwhile, GPS jamming over the Eastern Med returning to pre-2024 levels serves as a reminder of ongoing operational challenges."
     }
   ],
-  "updated": "2026-06-16 18:06 UTC"
+  "updated": "2026-06-16 18:26 UTC"
 }

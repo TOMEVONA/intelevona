@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-16",
   "issue": "No. 56",
-  "headline": "Unicorns multiply. Funding flows. Delays persist.",
-  "deck": "This week, private space valuations rise while delays in hypersonic testing continue.",
+  "headline": "Funding flows. Unicorns multiply. Diplomacy wobbles.",
+  "deck": "This week sees a mix of funding successes and geopolitical hesitations in space.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M, eyes co-orbital security",
-      "body": "True Anomaly secured a $190 million Series C round, pushing its valuation to $1.6 billion. This funding will bolster its co-orbital security and space domain awareness capabilities, a timely move given the rising geopolitical tensions in space. The Department of Defense's increasing interest in these technologies suggests that True Anomaly is well-positioned to capitalize on government contracts.",
-      "soWhat": "When a company raises this much, it’s a sign that the defense sector is finally taking space security seriously."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly's $190 million Series C round at a $1.6 billion valuation underscores the increasing demand for co-orbital security solutions. With the DoD's pull-through, this funding reflects a serious commitment to addressing emerging threats in space. Investors are clearly betting that the future of security lies above us.",
+      "soWhat": "If True Anomaly's growth trajectory continues, it might make the rest of the space security sector look like a slow-moving target."
     },
     {
       "kicker": "UNICORNS",
-      "head": "Katalyst Space joins the unicorn club with $12M",
-      "body": "Katalyst Space has raised $12 million for a GEO servicing demo mission, marking its entry into the unicorn ranks. This funding aims to develop capabilities for satellite repairs and servicing, a niche that is increasingly essential as the number of satellites in orbit grows. With this capital, Katalyst is positioning itself as a key player in the satellite maintenance market.",
-      "soWhat": "Who knew fixing satellites could be a billion-dollar business? Just wait until they start charging for 'space insurance.'"
+      "head": "Space unicorns grow, but valuations raise eyebrows",
+      "body": "SpaceNews has updated its unicorn tracker, revealing an expanding list of private space companies valued over $1 billion. While these valuations suggest a booming sector, the sustainability of such inflated numbers is questionable—especially as the market matures. Investors should be wary of the hype surrounding these figures.",
+      "soWhat": "The unicorn label may be more about aspiration than reality, and the reckoning could be painful for those caught in the hype."
     },
     {
-      "kicker": "DELAY",
-      "head": "Hypersonic glide-vehicle test postponed again",
-      "body": "The hypersonic glide-vehicle test has slipped for the third consecutive quarter, raising concerns about the viability of these systems. Delays like this not only impact timelines but also funding and strategic planning for defense contractors involved in hypersonic technology. The ongoing setbacks suggest that the U.S. may be lagging behind its competitors in this critical area.",
-      "soWhat": "If this keeps up, 'hypersonic' might just become a euphemism for 'we're still figuring it out.'"
+      "kicker": "DIPLOMACY",
+      "head": "Switzerland opts out of Copernicus funding",
+      "body": "Switzerland's decision to withdraw from the EU's Copernicus Earth observation program funding cycle has reignited debates about the value of such contributions. The Swiss government appears to prioritize its neutrality over collaborative space initiatives, which could have longer-term implications for European space efforts.",
+      "soWhat": "If neutrality becomes the norm, collaborative projects may find themselves in a precarious position, relying on a dwindling pool of willing participants."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Anduril and L3Harris",
-      "body": "Their collaboration on a tactical SDA constellation bid could set the tone for future defense contracts."
+      "title": "Keep an eye on Katalyst Space's demo mission",
+      "body": "With $12 million in funding, Katalyst Space is gearing up for a critical demo mission that could set the stage for future contracts."
     },
     {
-      "title": "Watch for SpaceX's secondary market activity",
-      "body": "With SpaceX's valuation at $470 billion, any movement could signal investor confidence or caution."
+      "title": "Palantir's TITAN program extension",
+      "body": "Palantir's $480 million extension on the TITAN ground station program suggests a strong pipeline for defense contracts, making it one to watch."
     },
     {
-      "title": "Monitor the FY27 budget developments",
-      "body": "The additional $1.4 billion for space resilience could lead to new contracts for emerging players."
+      "title": "Sierra Space's Dream Chaser variant",
+      "body": "Having passed its critical design review, the Dream Chaser DoD variant's next steps will be crucial in determining its market viability."
     },
     {
-      "title": "Expect updates from PiLogic and the Air Force",
-      "body": "Their partnership on satellite fault-prediction software could yield important insights for the satellite industry."
+      "title": "Anduril and L3Harris collaboration",
+      "body": "Their joint bid for a tactical SDA constellation could signal a shift in how defense contractors approach collaboration in space."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "TRUE",
-      "note": "True Anomaly's $190M Series C underscores the defense sector's focus on co-orbital security."
-    },
-    {
-      "sym": "KAT",
-      "note": "Katalyst Space's $12M funding round highlights the growing market for satellite servicing."
+      "note": "True Anomaly's $190M Series C highlights strong demand for co-orbital security solutions."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M contract extension reinforces its dominance in defense data solutions."
+      "note": "Palantir's $480M TITAN extension reinforces its position in government contracts."
     },
     {
-      "sym": "SPCE",
-      "note": "SpaceX's secondary market activity keeps investors on edge as they await the next big move."
+      "sym": "ASTS",
+      "note": "The bull case for ASTS relies on execution, but the charts tell a mixed story."
+    },
+    {
+      "sym": "SIE",
+      "note": "Sierra Space's Dream Chaser variant passing review raises hopes for its operational future."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

@@ -1,87 +1,87 @@
 {
-  "updated": "2026-06-16T18:06:43.287Z",
+  "updated": "2026-06-16T18:26:12.068Z",
   "articles": [
     {
       "sourceId": "spacenews",
+      "title": "Swiss decision to not contribute to Copernicus tests program’s value model",
+      "summary": "Switzerland has opted out of the EU's Copernicus Earth observation program funding cycle, reigniting discussions about the value of such contributions; apparently, the Swiss prefer their neutrality over satellite imagery.",
+      "date": "2026-06-16",
+      "link": "https://spacenews.com/swiss-decision-to-not-contribute-to-copernicus-tests-programs-value-model/"
+    },
+    {
+      "sourceId": "spacenews",
       "title": "The SpaceNews space unicorn tracker",
-      "summary": "SpaceNews has updated its list of private space companies valued at over $1 billion, proving that unicorns are not just for Silicon Valley anymore.",
+      "summary": "SpaceNews has updated its list of private space companies valued at over $1 billion, showcasing the ever-expanding universe of space unicorns; it seems the sky's the limit for valuations, if not for actual launches.",
       "date": "2026-06-16",
       "link": "https://spacenews.com/space-unicorns-spacenews-billion-valuation/"
     },
     {
       "sourceId": "spacenews",
       "title": "Katalyst Space raises $12 million for GEO servicing demo mission",
-      "summary": "Katalyst Space has raised $12 million for a GEO servicing demo mission, which is a fancy way of saying they're trying to fix satellites in space.",
+      "summary": "Katalyst Space has secured $12 million for a geosynchronous orbit demo mission as it prepares to boost a NASA observatory's orbit; let's hope their funding trajectory is smoother than their orbital maneuvers.",
       "date": "2026-06-16",
       "link": "https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/"
     },
     {
       "sourceId": "spacenews",
       "title": "PiLogic partners with Air Force lab to test satellite fault-prediction software",
-      "summary": "PiLogic is teaming up with an Air Force lab to test satellite fault-prediction software, because guessing what's wrong with a satellite is so last century.",
+      "summary": "PiLogic is teaming up with an Air Force lab to test its satellite fault-prediction software, proving that even satellites need a little help diagnosing their existential crises.",
       "date": "2026-06-16",
       "link": "https://spacenews.com/pilogic-partners-with-air-force-lab-to-test-satellite-fault-prediction-software/"
     },
     {
       "sourceId": "spacenews",
       "title": "A UN agency that works for US space",
-      "summary": "Despite the U.S. government's disdain for the UN, they still fund the ITU to promote American standards, proving that geopolitics is a game of convenience.",
+      "summary": "Despite U.S. policymakers' skepticism towards the UN, they continue to fund the ITU for its ability to promote American standards globally; it's a classic case of 'we don't like you, but we need you'.",
       "date": "2026-06-16",
       "link": "https://spacenews.com/a-un-agency-that-works-for-us-space/"
     },
     {
-      "sourceId": "spacenews",
-      "title": "Geospatial industry launches maritime initiative",
-      "summary": "The geospatial industry is launching a maritime initiative in response to rising demand, which is code for 'we need to keep an eye on those ships'.",
-      "date": "2026-06-16",
-      "link": "https://spacenews.com/geospatial-industry-launches-maritime-initiative/"
-    },
-    {
       "sourceId": "tectonic",
       "title": "Anduril and L3Harris team on tactical SDA constellation bid",
-      "summary": "Anduril and L3Harris are collaborating on a tactical SDA constellation bid, demonstrating that in the space race, teamwork might just make the dream work.",
+      "summary": "Anduril and L3Harris are joining forces on a tactical SDA constellation bid, suggesting that even in space, collaboration is the new black.",
       "date": "2026-05-04",
       "link": "https://tectonicdefense.com/anduril-l3harris-sda/"
     },
     {
       "sourceId": "tectonic",
       "title": "FY27 budget markup adds $1.4B to space resilience line",
-      "summary": "The FY27 budget has added $1.4 billion for space resilience, finally recognizing that space isn't just a scenic backdrop for Earthly disputes.",
+      "summary": "The FY27 budget has earmarked an additional $1.4 billion for space resilience, finally acknowledging that space is more than just a cosmic backdrop for terrestrial squabbles.",
       "date": "2026-05-03",
       "link": "https://tectonicdefense.com/fy27-markup-space/"
     },
     {
       "sourceId": "tectonic",
       "title": "Hypersonic glide-vehicle test slips again — third quarter in a row",
-      "summary": "The hypersonic glide-vehicle test has been delayed yet again, suggesting that 'hypersonic' might just be a euphemism for 'still figuring it out'.",
+      "summary": "The hypersonic glide-vehicle test has been delayed for the third consecutive quarter, leading to speculation that 'hypersonic' might really mean 'still in the lab'.",
       "date": "2026-05-02",
       "link": "https://tectonicdefense.com/hgv-slip-q3/"
     },
     {
       "sourceId": "tectonic",
       "title": "Sierra Space's Dream Chaser DoD variant clears critical design review",
-      "summary": "Sierra Space's Dream Chaser DoD variant has passed its critical design review, but the true test will be whether it can actually launch.",
+      "summary": "Sierra Space's Dream Chaser DoD variant has passed its critical design review, but the real challenge will be whether it can actually make it off the ground.",
       "date": "2026-05-01",
       "link": "https://tectonicdefense.com/dream-chaser-cdr/"
     },
     {
       "sourceId": "tectonic",
       "title": "Palantir wins $480M extension on TITAN ground station program",
-      "summary": "Palantir has snagged a $480 million extension on the TITAN ground station program, reinforcing the idea that government contracts are a marathon, not a sprint.",
+      "summary": "Palantir has secured a $480 million extension on the TITAN ground station program, reinforcing the notion that government contracts are more of a marathon than a sprint.",
       "date": "2026-04-29",
       "link": "https://tectonicdefense.com/palantir-titan-extension/"
     },
     {
       "sourceId": "piratewires",
       "title": "The Defense-Tech IPO Window Is Cracking Open",
-      "summary": "The Defense-Tech IPO window is showing signs of life, hinting that investors may be ready to roll the dice on space and defense once more.",
+      "summary": "The Defense-Tech IPO window appears to be opening, suggesting that investors might be ready to gamble on space and defense again; let's hope they remember to check the fine print.",
       "date": "2026-05-04",
       "link": "https://piratewires.com/defense-ipo-window/"
     },
     {
       "sourceId": "piratewires",
       "title": "Why every YC company is suddenly 'AI for Defense'",
-      "summary": "'AI for Defense' has become the latest trend among YC startups, illustrating that buzzwords can sometimes overshadow genuine advancements.",
+      "summary": "'AI for Defense' has become the latest catchphrase among YC startups, highlighting how buzzwords can sometimes overshadow real innovation in the field.",
       "date": "2026-05-03",
       "link": "https://piratewires.com/yc-defense/"
     },
@@ -172,84 +172,84 @@
     {
       "sourceId": "tbpn",
       "title": "The TBPN deep-tech survey: 1,200 founders weigh in",
-      "summary": "A survey shows half of deep-tech founders are eyeing defense ventures, suggesting military chic is the new black in startup fashion.",
+      "summary": "A survey reveals that half of deep-tech founders are considering defense ventures, indicating that military aesthetics are trending in startup circles.",
       "date": "2026-04-29",
       "link": "https://tbpn.com/deeptech-survey-26/"
     },
     {
       "sourceId": "ussf",
       "title": "CMSSF tours Okinawa installations, highlights joint force integration",
-      "summary": "CMSSF's tour of Okinawa highlighted how space capabilities bolster regional readiness, proving that even in defense, location is everything.",
+      "summary": "The CMSSF's Okinawa tour emphasized how space capabilities bolster regional readiness, proving that even the military can't resist a good photo op.",
       "date": "2026-06-15",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4517179/cmssf-tours-okinawa-installations-highlights-joint-force-integration/"
     },
     {
       "sourceId": "ussf",
       "title": "\"A Collaborative Engine\": S4 Summit unites Airmen, Guardians for space superiority",
-      "summary": "The S4 Summit brought together Airmen and Guardians to tackle space superiority challenges, because nothing says teamwork like a good summit.",
+      "summary": "The S4 Summit gathered Airmen and Guardians to address space superiority challenges, showing that even in the military, collaboration is the new black.",
       "date": "2026-06-12",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4515640/a-collaborative-engine-s4-summit-unites-airmen-guardians-for-space-superiority/"
     },
     {
       "sourceId": "ussf",
       "title": "Forging the future: 2026 Guardian Arena qualifiers kick off Aug. 3",
-      "summary": "The U.S. Space Force is kicking off the Guardian Arena Qualifiers to test readiness, which sounds suspiciously like a cosmic obstacle course.",
+      "summary": "The U.S. Space Force is kicking off the Guardian Arena Qualifiers to assess readiness, because who doesn't love a good competition in the cosmos?",
       "date": "2026-06-11",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4514380/forging-the-future-2026-guardian-arena-qualifiers-kick-off-aug-3/"
     },
     {
       "sourceId": "ussf",
       "title": "DAF senior leaders explain, justify sizable budget boost in Senate hearing",
-      "summary": "DAF leaders justified a historic budget request in a Senate hearing, proving that when it comes to money, defense is always in style.",
+      "summary": "DAF leaders defended a historic budget request in a Senate hearing, reminding us that defense spending is the ultimate bipartisan sport.",
       "date": "2026-06-09",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4512765/daf-senior-leaders-explain-justify-sizable-budget-boost-in-senate-hearing/"
     },
     {
       "sourceId": "ussf",
       "title": "US Space Forces-Space senior leaders align command strategy, warfighting readiness",
-      "summary": "Senior leaders of U.S. Space Forces-Space aligned command strategy at a planning event, showing that even in defense, strategy meetings are a must.",
+      "summary": "U.S. Space Forces-Space leaders convened to align command strategy, proving that even in defense, a little planning goes a long way.",
       "date": "2026-06-09",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4512162/us-space-forces-space-senior-leaders-align-command-strategy-warfighting-readine/"
     },
     {
       "sourceId": "dod",
       "title": "U.S. 2nd Fleet, International Partners Commence Fleet Exercise 250",
-      "summary": "The U.S. 2nd Fleet and 17 allied nations kicked off Fleet Exercise 250 to enhance interoperability, because nothing says 'teamwork' like a naval exercise.",
+      "summary": "The U.S. 2nd Fleet and 17 allied nations are gearing up for Fleet Exercise 250, where the goal is to test interoperability and not sink any ships.",
       "date": "2026-06-16",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4518474/us-2nd-fleet-international-partners-commence-fleet-exercise-250/"
     },
     {
       "sourceId": "dod",
       "title": "Marine Corps Opens 2026 Warrior Games With Strong Showing",
-      "summary": "Team Marine Corps opened the 2026 Warrior Games with a strong showing, proving that even in competition, the Marines know how to bring the heat.",
+      "summary": "Team Marine Corps kicked off the 2026 Warrior Games with a strong performance, proving that even in sports, the Marines know how to flex.",
       "date": "2026-06-16",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4518325/marine-corps-opens-2026-warrior-games-with-strong-showing/"
     },
     {
       "sourceId": "dod",
       "title": "Hegseth Welcomes Ecuadorian President to War Department",
-      "summary": "Secretary Hegseth welcomed Ecuadorian President Noboa to discuss defense cooperation, suggesting that diplomacy might just be the new defense strategy.",
+      "summary": "Secretary of War Pete Hegseth hosted Ecuador's President to discuss defense cooperation, because nothing says 'friendship' like military alliances.",
       "date": "2026-06-15",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4517604/hegseth-welcomes-ecuadorian-president-to-war-department/"
     },
     {
       "sourceId": "dod",
       "title": "Hegseth, Italian Counterpart Meet at Pentagon",
-      "summary": "Hegseth hosted Italy's Defense Minister at the Pentagon, reinforcing that when it comes to defense, Italy is always a good partner to have.",
+      "summary": "Hegseth met with Italy's Defense Minister at the Pentagon, reminding us that diplomacy often involves more handshakes than actual defense strategies.",
       "date": "2026-06-15",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4517216/hegseth-italian-counterpart-meet-at-pentagon/"
     },
     {
       "sourceId": "dod",
       "title": "1-40th Cavalry Regiment Prepares for Final Transformation During Exercise Red Flag",
-      "summary": "The 1-40th Cavalry Regiment showcased transformation during Exercise Red Flag, reminding us that the Army's commitment to readiness is a year-round affair.",
+      "summary": "The 1-40th Cavalry Regiment showcased its transformation during Exercise Red Flag, demonstrating that the Army's commitment to readiness is as serious as ever.",
       "date": "2026-06-12",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4515949/1-40th-cavalry-regiment-prepares-for-final-transformation-during-exercise-red-f/"
     },
     {
       "sourceId": "viasat",
       "title": "Anuvu Names Former HBO Exec as CEO",
-      "summary": "Anuvu appointed former HBO exec Simon Sutton as CEO, proving that the transition from entertainment to aerospace is just a channel flip away.",
+      "summary": "Anuvu has appointed former HBO executive Simon Sutton as CEO, proving that sometimes, the best way to pivot is to bring in someone from the entertainment industry.",
       "date": "2026-06-15",
       "link": "https://www.satellitetoday.com/people/2026/06/15/anuvu-names-former-hbo-exec-as-ceo/"
     },
@@ -340,119 +340,119 @@
     {
       "sourceId": "rspace",
       "title": "James Webb Space Telescope forecasts extreme weather on exoplanet that rains rubies and sapphires",
-      "summary": "The James Webb Space Telescope predicts extreme weather on an exoplanet where it rains rubies and sapphires, proving that even alien atmospheres have a flair for the dramatic.",
+      "summary": "The James Webb Space Telescope predicts extreme weather on an exoplanet that rains precious gems, proving that even space can have a flair for the dramatic.",
       "date": "2026-06-16",
       "link": "https://www.reddit.com/r/space/comments/1u7elx8/james_webb_space_telescope_forecasts_extreme/"
     },
     {
       "sourceId": "rspace",
       "title": "My son is obsessed with space and trading cards, so I turned NASA's image library into booster packs he can open every day",
-      "summary": "A parent turned NASA's image library into trading card booster packs for their space-obsessed child, highlighting that even the cosmos can be commodified for daily entertainment.",
+      "summary": "A dad turned NASA's image library into trading card packs for his space-obsessed son, because why not combine childhood nostalgia with astrophysics?",
       "date": "2026-06-16",
       "link": "https://www.reddit.com/r/space/comments/1u7dq7v/my_son_is_obsessed_with_space_and_trading_cards/"
     },
     {
       "sourceId": "nga",
       "title": "NGA opens commercial GEOINT broker contract to small business pool",
-      "summary": "The NGA has opened its GEOINT broker contract to small businesses, effectively turning national security into a high-stakes startup pitch, because who doesn't want to play Shark Tank with classified info?",
+      "summary": "The NGA has opened its GEOINT broker contract to small businesses, inviting startups to pitch their classified ideas like it's a high-stakes episode of Shark Tank.",
       "date": "2026-05-04",
       "link": "https://www.nga.mil/news/commercial-geoint-broker-2026/"
     },
     {
       "sourceId": "nga",
       "title": "Director's address at GEOINT 2026: 'data is no longer the bottleneck'",
-      "summary": "NGA's director claims data is no longer the bottleneck, which is comforting until you realize that human error is still lurking in the shadows, ready to trip up the best-laid plans.",
+      "summary": "NGA's director claims data is no longer the bottleneck, which is reassuring until you remember that human error is still lurking like an unwanted guest.",
       "date": "2026-05-03",
       "link": "https://www.nga.mil/news/director-address-geoint26/"
     },
     {
       "sourceId": "nga",
       "title": "NGA signals shift toward AI-native analyst workflows",
-      "summary": "The NGA is shifting toward AI-native analyst workflows, making traditional methods feel about as relevant as a flip phone in a smartphone world.",
+      "summary": "The NGA is moving toward AI-native analyst workflows, making traditional methods feel as outdated as a flip phone in a smartphone era.",
       "date": "2026-05-02",
       "link": "https://www.nga.mil/news/ai-native-rfi/"
     },
     {
       "sourceId": "nga",
       "title": "Joint NGA-NRO foundation data initiative passes pilot phase",
-      "summary": "The Joint NGA-NRO data initiative has passed its pilot phase, proving that even the most secretive agencies can cooperate when there's a shiny new tech toy on the table.",
+      "summary": "The Joint NGA-NRO data initiative has passed its pilot phase, showing that even secretive agencies can play nice when there's new tech involved.",
       "date": "2026-04-30",
       "link": "https://www.nga.mil/news/foundation-data-pilot/"
     },
     {
       "sourceId": "nga",
       "title": "Open-source intelligence integration framework released to public",
-      "summary": "An open-source intelligence integration framework has been released to the public, which is thrilling if you find joy in deciphering government documents like they’re cryptic treasure maps.",
+      "summary": "An open-source intelligence integration framework has been released, which is exciting if you enjoy interpreting government documents like they're ancient scrolls.",
       "date": "2026-04-28",
       "link": "https://www.nga.mil/news/osint-framework-release/"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "Snap launches its AR glasses at $2,195 as a consumer product, betting the company on augmented reality",
-      "summary": "Snap launched its AR glasses at $2,195, betting the company on augmented reality, which is a bold move considering the last time they bet on something, it was disappearing messages.",
+      "summary": "Snap launched its AR glasses for $2,195, betting big on augmented reality while consumers wonder if they really need to see the world through a screen.",
       "date": "2026-06-16",
       "link": "https://thenextweb.com/news/snap-specs-ar-glasses-2195-consumer-launch-augmented-reality"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "Rivian lays off hundreds of workers one week after launching R2 deliveries as it chases its first profit",
-      "summary": "Rivian laid off hundreds of workers shortly after launching R2 deliveries, illustrating that chasing profit in the EV world often involves a few painful cuts.",
+      "summary": "Rivian laid off hundreds of workers just a week after launching R2 deliveries, proving that the road to profitability is littered with job losses.",
       "date": "2026-06-16",
       "link": "https://thenextweb.com/news/rivian-layoffs-hundreds-r2-profitability-ev-market"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "I was in OpenAI’s first intern cohort. Here’s what it taught me about becoming an AI-native engineer",
-      "summary": "An OpenAI intern reflects on how AI simplifies software development, hinting that the real challenge lies in making it actually work outside of demo mode.",
+      "summary": "An ex-intern from OpenAI reflects on the challenges of becoming an AI-native engineer, suggesting that speed isn't the only thing that matters in tech.",
       "date": "2026-06-16",
       "link": "https://thenextweb.com/news/openai-first-intern-cohort-ai-native-engineer"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "CyCognito pushes AI pentesting beyond vulnerability scans as enterprise attack surfaces evolve",
-      "summary": "CyCognito is pushing AI pentesting beyond mere vulnerability scans as enterprise attack surfaces evolve, suggesting that cybersecurity is now a game of whack-a-mole with increasingly clever moles.",
+      "summary": "CyCognito is pushing AI pentesting beyond basic vulnerability scans, as companies realize that traditional security measures are struggling to keep up.",
       "date": "2026-06-16",
       "link": "https://thenextweb.com/news/cycognito-ai-pentesting-enterprise-attack-surfaces"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "Microsoft’s new Surface Laptop has a trackpad that rumbles like a game controller",
-      "summary": "Microsoft’s new Surface Laptop features a haptic feedback trackpad that rumbles like a game controller, making every click feel like a mini victory in the mundane world of productivity.",
+      "summary": "Microsoft's new Surface Laptop features a trackpad that rumbles like a game controller, making every click feel like a mini gaming experience.",
       "date": "2026-06-16",
       "link": "https://thenextweb.com/news/microsoft-surface-laptop-trackpad-haptics-snapdragon-x2"
     },
     {
       "sourceId": "nasa",
       "title": "NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation",
-      "summary": "Turns out, not all celestial bodies fit neatly into boxes—who knew the universe had such an identity problem?",
+      "summary": "NASA's Webb and Hubble telescopes have reclassified the Terzan 5 cluster, shedding light on galactic formation; turns out, it’s not just a pretty collection of stars after all.",
       "date": "2026-06-16",
       "link": "https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade",
-      "summary": "Because if you're going to explore the fabric of reality, you might as well do it at sub-zero temperatures in space.",
+      "summary": "NASA's Cold Atom Lab on the ISS has received an upgrade to enhance quantum research; because who doesn’t want to study the universe while freezing atoms?",
       "date": "2026-06-16",
       "link": "https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA Uses Machine Learning to Enhance Flash Flood Warnings",
-      "summary": "Finally, a tech solution that might help us predict when to grab an umbrella instead of just winging it.",
+      "summary": "NASA is using machine learning to improve flash flood warnings with its TACLS system, proving that even meteorologists can benefit from a little artificial intelligence.",
       "date": "2026-06-16",
       "link": "https://science.nasa.gov/science-research/science-enabling-technology/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/"
     },
     {
       "sourceId": "nasa",
       "title": "Department of Health and Human Services Digital Stockpile & Manufacturing Response Network Challenge",
-      "summary": "Who knew that solving government problems could be as easy as running a hackathon?",
+      "summary": "NASA's CoECI is leveraging crowdsourcing to tackle challenges across federal agencies, showing that sometimes the best ideas come from outside the usual suspects.",
       "date": "2026-06-16",
       "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/department-of-health-and-human-services-digital-stockpile-manufacturing-response-network-challenge/"
     },
     {
       "sourceId": "nasa",
       "title": "Metrics",
-      "summary": "When it comes to space services, apparently everything has a cost—even the cosmos has to balance its budget.",
+      "summary": "The NSSC's FY26 Services Catalog is out, detailing service descriptions and chargeback rates; because nothing says excitement like a catalog of services.",
       "date": "2026-06-16",
       "link": "https://www.nasa.gov/centers-and-facilities/nssc/metrics/"
     }
