@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with funding rounds and strategic partnerships, while budget allocations hint at a growing focus on resilience and readiness. Meanwhile, international cooperation and competition continue to shape the landscape.",
+  "summary": "The space industry is buzzing with activity as both the U.S. and China ramp up their launch schedules. Meanwhile, funding continues to flow into innovative startups, and partnerships are forming to tackle satellite collision risks.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Rounds Galore",
-      "body": "Katalyst Space's recent $12 million raise for a GEO servicing demo mission and True Anomaly's $190 million Series C indicate investors are still keen on space ventures. The Defense-Tech IPO window cracking open adds to the optimism, albeit cautiously."
+      "title": "China's Launch Surge",
+      "body": "China's recent flurry of four launches in three days showcases its ambition in space, though the silence following the Kuaizhou–11 launch raises questions about operational transparency. This rapid activity contrasts sharply with the U.S. approach, where launches are often accompanied by extensive media coverage."
     },
     {
       "icon": "▲",
-      "title": "Strategic Partnerships Emerge",
-      "body": "Anduril and L3Harris teaming up for a tactical SDA constellation bid signals a shift towards collaborative defense initiatives. Similarly, PiLogic's partnership with an Air Force lab for satellite fault-prediction software underscores the military's interest in tech innovation."
+      "title": "Funding for Space Startups",
+      "body": "Dawn Aerospace's $25 million raise and True Anomaly's $190 million Series C indicate a robust appetite for investment in the space sector. Such funding is crucial for developing technologies that could redefine space operations, particularly in the realm of satellite services."
     },
     {
       "icon": "◉",
-      "title": "Budget Boosts for Space Resilience",
-      "body": "The FY27 budget markup, which adds $1.4 billion to the space resilience line, reflects a growing recognition of the strategic importance of space. This funding could bolster national security efforts amid increasing global competition."
+      "title": "Collision Avoidance Innovations",
+      "body": "The partnership between Look Up and Skynopy to create an automated satellite collision avoidance service highlights the growing concern over space debris. As the number of satellites increases, so does the need for effective management solutions to prevent costly accidents."
     },
     {
       "icon": "◆",
-      "title": "International Tensions in Orbit",
-      "body": "Recent reports of Russian co-orbital activity near commercial GEO slots raise eyebrows and highlight the geopolitical stakes in space. Meanwhile, GPS jamming over the Eastern Med returning to pre-2024 levels serves as a reminder of ongoing operational challenges."
+      "title": "Military Space Initiatives",
+      "body": "The FY27 budget markup's addition of $1.4 billion to the space resilience line underscores the military's commitment to enhancing its capabilities in space. Collaborations like Anduril and L3Harris's bid for a tactical SDA constellation further illustrate the defense sector's focus on maintaining an edge in this increasingly contested domain."
     }
   ],
-  "updated": "2026-06-16 18:26 UTC"
+  "updated": "2026-06-17 16:41 UTC"
 }

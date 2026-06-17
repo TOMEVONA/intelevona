@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-16",
-  "issue": "No. 56",
-  "headline": "Funding flows. Unicorns multiply. Diplomacy wobbles.",
-  "deck": "This week sees a mix of funding successes and geopolitical hesitations in space.",
+  "updated": "2026-06-17",
+  "issue": "No. 57",
+  "headline": "Funding flows. Launches rise. Sensors evolve.",
+  "deck": "This week, investment in space continues, while sensors and strategic partnerships gain traction.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly's $190 million Series C round at a $1.6 billion valuation underscores the increasing demand for co-orbital security solutions. With the DoD's pull-through, this funding reflects a serious commitment to addressing emerging threats in space. Investors are clearly betting that the future of security lies above us.",
-      "soWhat": "If True Anomaly's growth trajectory continues, it might make the rest of the space security sector look like a slow-moving target."
+      "body": "True Anomaly secured a $190 million Series C round, boosting its valuation to $1.6 billion. This funding is particularly notable as the company focuses on co-orbital security and space domain awareness, areas increasingly prioritized by the DoD. With defense budgets tightening, this kind of cash infusion suggests a strong belief in the need for enhanced space security measures.",
+      "soWhat": "Investors clearly see the writing on the wall: as space becomes a contested domain, the demand for security solutions is only going to grow."
     },
     {
-      "kicker": "UNICORNS",
-      "head": "Space unicorns grow, but valuations raise eyebrows",
-      "body": "SpaceNews has updated its unicorn tracker, revealing an expanding list of private space companies valued over $1 billion. While these valuations suggest a booming sector, the sustainability of such inflated numbers is questionable—especially as the market matures. Investors should be wary of the hype surrounding these figures.",
-      "soWhat": "The unicorn label may be more about aspiration than reality, and the reckoning could be painful for those caught in the hype."
+      "kicker": "PARTNERSHIP",
+      "head": "Look Up and Skynopy team up for collision avoidance",
+      "body": "Look Up and Skynopy announced a partnership to develop an automated satellite collision avoidance service. This comes at a time when the number of active satellites is skyrocketing, and the risk of collision is becoming a pressing concern. The financial terms weren't disclosed, but the collaboration signals a growing recognition of the importance of space traffic management.",
+      "soWhat": "If this service works, we might finally have a way to keep our satellites from playing bumper cars in orbit."
     },
     {
-      "kicker": "DIPLOMACY",
-      "head": "Switzerland opts out of Copernicus funding",
-      "body": "Switzerland's decision to withdraw from the EU's Copernicus Earth observation program funding cycle has reignited debates about the value of such contributions. The Swiss government appears to prioritize its neutrality over collaborative space initiatives, which could have longer-term implications for European space efforts.",
-      "soWhat": "If neutrality becomes the norm, collaborative projects may find themselves in a precarious position, relying on a dwindling pool of willing participants."
+      "kicker": "BUDGET",
+      "head": "$1.4B added for space resilience in FY27 budget",
+      "body": "The FY27 budget markup has allocated an additional $1.4 billion for space resilience, reflecting a shift in how the U.S. government views its space assets. This funding aims to bolster capabilities against potential threats, which have been increasingly highlighted by recent geopolitical tensions. The budgetary increase is a clear signal that space is no longer an afterthought.",
+      "soWhat": "It's about time space got the budgetary love it deserves; let's hope it translates into actual capabilities and not just more PowerPoint slides."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Katalyst Space's demo mission",
-      "body": "With $12 million in funding, Katalyst Space is gearing up for a critical demo mission that could set the stage for future contracts."
+      "title": "Watch for Dawn Aerospace's next steps",
+      "body": "With a recent $25 million raise, Dawn Aerospace is poised to scale its in-space transportation efforts, potentially shaking up suborbital access."
     },
     {
-      "title": "Palantir's TITAN program extension",
-      "body": "Palantir's $480 million extension on the TITAN ground station program suggests a strong pipeline for defense contracts, making it one to watch."
+      "title": "Keep an eye on Sierra Space's Dream Chaser",
+      "body": "Having passed a critical design review, the Dream Chaser's next phase could be pivotal for its future in government contracts."
     },
     {
-      "title": "Sierra Space's Dream Chaser variant",
-      "body": "Having passed its critical design review, the Dream Chaser DoD variant's next steps will be crucial in determining its market viability."
+      "title": "Anduril and L3Harris's SDA bid outcome",
+      "body": "Their collaboration on a tactical SDA constellation could redefine how the military approaches space operations; results are expected soon."
     },
     {
-      "title": "Anduril and L3Harris collaboration",
-      "body": "Their joint bid for a tactical SDA constellation could signal a shift in how defense contractors approach collaboration in space."
+      "title": "True Anomaly's market impact post-funding",
+      "body": "With significant new capital, True Anomaly's moves in the co-orbital security space could influence competitors and investor sentiment."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "TRUE",
-      "note": "True Anomaly's $190M Series C highlights strong demand for co-orbital security solutions."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480M extension on the TITAN program highlights the enduring appeal of government contracts."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension reinforces its position in government contracts."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains under pressure as it struggles to reach profitability despite the hype."
     },
     {
       "sym": "ASTS",
-      "note": "The bull case for ASTS relies on execution, but the charts tell a mixed story."
+      "note": "AST SpaceMobile's recent performance shows that the market is still skeptical about its ambitious satellite plans."
     },
     {
-      "sym": "SIE",
-      "note": "Sierra Space's Dream Chaser variant passing review raises hopes for its operational future."
+      "sym": "AER",
+      "note": "Aerojet Rocketdyne's recent contracts suggest that propulsion remains a hot area, but execution will be key."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
