@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-17",
   "issue": "No. 57",
-  "headline": "Funding flows. Launches rise. Sensors evolve.",
-  "deck": "This week, investment in space continues, while sensors and strategic partnerships gain traction.",
+  "headline": "Funding flows. Partnerships form. Silence looms.",
+  "deck": "This week, cash continues to fuel the space race while strategic partnerships emerge amidst a backdrop of silence and uncertainty.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured a $190 million Series C round, boosting its valuation to $1.6 billion. This funding is particularly notable as the company focuses on co-orbital security and space domain awareness, areas increasingly prioritized by the DoD. With defense budgets tightening, this kind of cash infusion suggests a strong belief in the need for enhanced space security measures.",
-      "soWhat": "Investors clearly see the writing on the wall: as space becomes a contested domain, the demand for security solutions is only going to grow."
+      "body": "True Anomaly secured a $190 million Series C funding round, now valuing the company at $1.6 billion. This influx of capital is aimed at enhancing their co-orbital security and space domain awareness capabilities, which are increasingly in demand from the Department of Defense. As the Pentagon looks to bolster its defenses, True Anomaly is well-positioned to capitalize on government contracts.",
+      "soWhat": "In a sector where cash often equals credibility, True Anomaly's funding suggests they're not just surviving; they might be thriving in a crowded market."
     },
     {
       "kicker": "PARTNERSHIP",
-      "head": "Look Up and Skynopy team up for collision avoidance",
-      "body": "Look Up and Skynopy announced a partnership to develop an automated satellite collision avoidance service. This comes at a time when the number of active satellites is skyrocketing, and the risk of collision is becoming a pressing concern. The financial terms weren't disclosed, but the collaboration signals a growing recognition of the importance of space traffic management.",
-      "soWhat": "If this service works, we might finally have a way to keep our satellites from playing bumper cars in orbit."
+      "head": "Look Up and Skynopy automate collision avoidance",
+      "body": "Look Up and Skynopy have partnered to develop an automated satellite collision avoidance service, a necessity as the number of satellites in orbit continues to grow. The service aims to streamline operations and enhance safety for commercial and government satellites alike. With the increasing congestion in space, this collaboration could serve as a model for future partnerships in the industry.",
+      "soWhat": "If there's one thing we can count on, it's that the space traffic jam is only getting worse; automating collision avoidance might be the only way to keep things from going off the rails."
     },
     {
       "kicker": "BUDGET",
-      "head": "$1.4B added for space resilience in FY27 budget",
-      "body": "The FY27 budget markup has allocated an additional $1.4 billion for space resilience, reflecting a shift in how the U.S. government views its space assets. This funding aims to bolster capabilities against potential threats, which have been increasingly highlighted by recent geopolitical tensions. The budgetary increase is a clear signal that space is no longer an afterthought.",
-      "soWhat": "It's about time space got the budgetary love it deserves; let's hope it translates into actual capabilities and not just more PowerPoint slides."
+      "head": "$1.4B boost for space resilience in FY27 budget",
+      "body": "The FY27 budget markup has allocated an additional $1.4 billion to enhance space resilience, reflecting growing recognition of the importance of securing U.S. interests in space. This funding is likely to support various initiatives aimed at countering threats from adversaries and ensuring operational continuity. With geopolitical tensions rising, the U.S. is clearly prioritizing its space capabilities.",
+      "soWhat": "In a world where space is becoming a battleground, this funding might just be the tip of the iceberg; expect more dollars to flow as the stakes get higher."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for Dawn Aerospace's next steps",
-      "body": "With a recent $25 million raise, Dawn Aerospace is poised to scale its in-space transportation efforts, potentially shaking up suborbital access."
+      "title": "True Anomaly's next moves post-funding",
+      "body": "With $190M in the bank, True Anomaly's strategic decisions will be closely watched as they seek to expand their footprint in co-orbital security."
     },
     {
-      "title": "Keep an eye on Sierra Space's Dream Chaser",
-      "body": "Having passed a critical design review, the Dream Chaser's next phase could be pivotal for its future in government contracts."
+      "title": "Potential fallout from Kuaizhou–11 silence",
+      "body": "China's silence following their Kuaizhou–11 launch could indicate deeper issues; industry insiders will be keen to decipher the implications for future launches."
     },
     {
-      "title": "Anduril and L3Harris's SDA bid outcome",
-      "body": "Their collaboration on a tactical SDA constellation could redefine how the military approaches space operations; results are expected soon."
+      "title": "Funding trends in satellite technology",
+      "body": "As satellite technology funding heats up, companies like K2 Space and Apex could redefine capabilities; keep an eye on their next moves."
     },
     {
-      "title": "True Anomaly's market impact post-funding",
-      "body": "With significant new capital, True Anomaly's moves in the co-orbital security space could influence competitors and investor sentiment."
+      "title": "Defense tech IPOs on the horizon",
+      "body": "With the defense-tech IPO window cracking open, expect a flurry of activity as companies prepare to capitalize on the growing interest from investors."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "PALANTIR",
-      "note": "Palantir's $480M extension on the TITAN program highlights the enduring appeal of government contracts."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock continues to languish as they navigate regulatory hurdles and operational delays."
     },
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as it struggles to reach profitability despite the hype."
+      "sym": "PLTR",
+      "note": "Palantir's $480M extension on the TITAN program shows that government contracts are still a reliable revenue stream."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's recent performance shows that the market is still skeptical about its ambitious satellite plans."
+      "note": "AST SpaceMobile's recent chart analysis reveals a precarious balance between execution promises and potential pitfalls."
     },
     {
-      "sym": "AER",
-      "note": "Aerojet Rocketdyne's recent contracts suggest that propulsion remains a hot area, but execution will be key."
+      "sym": "SLS",
+      "note": "NASA's Space Launch System faces scrutiny as delays pile up, raising questions about future missions and funding."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

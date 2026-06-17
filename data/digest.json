@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as both the U.S. and China ramp up their launch schedules. Meanwhile, funding continues to flow into innovative startups, and partnerships are forming to tackle satellite collision risks.",
+  "summary": "The space industry is buzzing with activity, from China's rapid launch cadence to new funding rounds aimed at enhancing satellite operations. Meanwhile, the U.S. is doubling down on space resilience as budget allocations increase, signaling a strategic pivot in defense priorities.",
   "themes": [
     {
       "icon": "▣",
-      "title": "China's Launch Surge",
-      "body": "China's recent flurry of four launches in three days showcases its ambition in space, though the silence following the Kuaizhou–11 launch raises questions about operational transparency. This rapid activity contrasts sharply with the U.S. approach, where launches are often accompanied by extensive media coverage."
-    },
-    {
-      "icon": "▲",
-      "title": "Funding for Space Startups",
-      "body": "Dawn Aerospace's $25 million raise and True Anomaly's $190 million Series C indicate a robust appetite for investment in the space sector. Such funding is crucial for developing technologies that could redefine space operations, particularly in the realm of satellite services."
+      "title": "China's Launch Spree Stalls",
+      "body": "China's recent flurry of four launches in three days raises eyebrows, especially with the silence following the Kuaizhou–11 launch. This could indicate either a strategic pause or a deeper issue within their launch cadence."
     },
     {
       "icon": "◉",
-      "title": "Collision Avoidance Innovations",
-      "body": "The partnership between Look Up and Skynopy to create an automated satellite collision avoidance service highlights the growing concern over space debris. As the number of satellites increases, so does the need for effective management solutions to prevent costly accidents."
+      "title": "Funding Flows into Space Tech",
+      "body": "Dawn Aerospace's $25 million raise and True Anomaly's $190 million Series C highlight the growing investor appetite for space technology. As the industry matures, expect more capital to chase innovative solutions, particularly in satellite operations."
+    },
+    {
+      "icon": "▲",
+      "title": "U.S. Defense Budget Boosts Space",
+      "body": "The FY27 budget markup's $1.4 billion increase for space resilience underscores a serious commitment to bolstering U.S. capabilities in orbit. This funding will likely fuel initiatives aimed at countering emerging threats in the space domain."
     },
     {
       "icon": "◆",
-      "title": "Military Space Initiatives",
-      "body": "The FY27 budget markup's addition of $1.4 billion to the space resilience line underscores the military's commitment to enhancing its capabilities in space. Collaborations like Anduril and L3Harris's bid for a tactical SDA constellation further illustrate the defense sector's focus on maintaining an edge in this increasingly contested domain."
+      "title": "Collision Avoidance Takes Center Stage",
+      "body": "The partnership between Look Up and Skynopy for an automated satellite collision avoidance service reflects the urgent need for improved space traffic management. As more satellites populate the skies, the risk of collisions becomes a pressing concern for operators."
     }
   ],
-  "updated": "2026-06-17 16:41 UTC"
+  "updated": "2026-06-17 16:52 UTC"
 }
