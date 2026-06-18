@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-18",
   "issue": "No. 58",
-  "headline": "Funding flows. Delays loom. Collaboration thrives.",
-  "deck": "This week, capital continues to flow while delays and partnerships shape the landscape.",
+  "headline": "Funding flows. Delays persist. Collaboration continues.",
+  "deck": "This week sees notable funding rounds and ongoing delays in defense tech.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amidst co-orbital concerns",
-      "body": "True Anomaly has secured a $190 million Series C funding round, boosting its valuation to $1.6 billion. The company focuses on co-orbital security and satellite data awareness, aligning well with increasing DoD interests in space resilience. With this capital, True Anomaly is well-positioned to enhance its offerings in an increasingly crowded market.",
-      "soWhat": "In a sector where cash often trumps innovation, True Anomaly's funding reflects a growing appetite for security solutions in orbit, even if their tech is still in the proving stage."
+      "head": "True Anomaly secures $190M Series C",
+      "body": "True Anomaly has raised $190M in a Series C funding round, bringing its valuation to $1.6B as it focuses on co-orbital security and space domain awareness. The funding is a strong indicator of the DoD's growing interest in commercial solutions for national security. With this cash influx, True Anomaly is well-positioned to capitalize on increasing demand for advanced space capabilities.",
+      "soWhat": "In a space sector where cash often trumps innovation, True Anomaly's funding underscores the DoD's preference for proven players over risky startups."
     },
     {
       "kicker": "COLLABORATION",
-      "head": "Anduril and L3Harris join forces for SDA",
-      "body": "Anduril and L3Harris have teamed up to bid on a tactical Space Development Agency constellation project, showcasing the importance of partnerships in the defense space. The collaboration comes at a time when the SDA is ramping up its efforts to enhance space-based capabilities, aiming for a more integrated approach to national security.",
-      "soWhat": "As competition heats up, this partnership highlights a strategic pivot; in space, collaboration can often be more valuable than individual prowess, especially when the stakes are high."
+      "head": "Anduril and L3Harris team up for SDA",
+      "body": "Anduril and L3Harris have joined forces to bid on a tactical Space Development Agency constellation, signaling a strategic collaboration in an increasingly crowded market. This partnership aims to leverage Anduril's AI-driven capabilities and L3Harris's extensive experience in satellite communications. The move highlights a trend of consolidation as companies seek to pool resources for competitive advantage.",
+      "soWhat": "As competition heats up, expect more partnerships like this; in space, two heads might not just be better than one, but necessary for survival."
     },
     {
-      "kicker": "TECHNOLOGY",
-      "head": "Boeing demonstrates quantum protocol for 2027 launch",
-      "body": "Boeing has successfully demonstrated a quantum networking protocol in preparation for a planned 2027 launch. While this may sound like the stuff of science fiction, the implications for secure communications in space are significant, especially as more satellites enter orbit. Boeing's push into quantum tech may position it ahead in the race for secure satellite communications.",
-      "soWhat": "If Boeing can deliver on this promise, they might just redefine secure communications in a sector that desperately needs it, though the timeline remains a question mark."
+      "kicker": "DELAY",
+      "head": "Hypersonic glide-vehicle tests slip again",
+      "body": "Hypersonic glide-vehicle tests have been delayed for the third consecutive quarter, raising concerns about the timeline for this critical defense technology. With the U.S. facing increasing pressure from adversaries, these setbacks could hinder strategic advancements. The repeated delays suggest a systemic issue in the development process rather than just a minor hiccup.",
+      "soWhat": "If the U.S. can't get its hypersonic act together, the race will be less about speed and more about catching up."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Spark Space's engine tests",
-      "body": "With Spark Space's recent engine tests and funding, their progress could disrupt the electric rocket market if they deliver on their claims."
+      "title": "Watch for True Anomaly's next moves",
+      "body": "With $190M in fresh capital, True Anomaly's strategy will be key to watch as it seeks to expand its market presence."
     },
     {
-      "title": "Sierra Space's Dream Chaser variant progresses",
-      "body": "As Sierra Space's Dream Chaser clears its design review, the focus will shift to whether it can meet the rigorous demands of DoD contracts."
+      "title": "Sierra Space's Dream Chaser progress",
+      "body": "Now that the Dream Chaser DoD variant has passed its design review, the next steps will be critical for its future viability."
     },
     {
-      "title": "Anticipate more on satellite servicing economy",
-      "body": "The FCC's satellite authorizations could lead to a surge in the satellite servicing economy, especially as companies look to carbon credits for inspiration."
+      "title": "Impacts of FY27 budget increase",
+      "body": "The $1.4B boost to space resilience funding may reshape priorities within the DoD, affecting procurement strategies."
     },
     {
-      "title": "Watch for further delays in hypersonic tests",
-      "body": "With hypersonic glide-vehicle tests slipping again, expect more scrutiny on the technology's viability and the implications for defense strategies."
+      "title": "Potential for more defense-tech IPOs",
+      "body": "As the defense-tech IPO window shows signs of life, expect increased investor interest in military innovations next week."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program underscores its persistence in securing government contracts."
+      "note": "Palantir's $480M extension on the TITAN program highlights its entrenched position in government contracts."
     },
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's recent struggles raise questions about its long-term viability in the commercial spaceflight sector."
-    },
-    {
-      "sym": "Boeing",
-      "note": "Boeing's quantum protocol demo may set the stage for future contracts, but execution will be key."
+      "note": "Virgin Galactic's ongoing struggles to launch its commercial spaceflight service continue to weigh on investor sentiment."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's latest financials show a precarious balance between promise and potential pitfalls."
+      "note": "AST SpaceMobile's bull case illustrated through charts suggests a precarious balance between potential and execution."
+    },
+    {
+      "sym": "SSTK",
+      "note": "Stoke Space's $260M Series C funding indicates serious backing for its reusable launch technology."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

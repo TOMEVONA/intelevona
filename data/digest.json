@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with funding rounds and strategic partnerships, while legacy concerns about workforce pipelines and satellite servicing models linger. Meanwhile, the U.S. government continues to bolster its space resilience budget, albeit with some hiccups in hypersonic testing.",
+  "summary": "The space industry is seeing a mix of innovation and bureaucratic maneuvering this week. From funding rounds to strategic partnerships, the landscape is shifting, albeit slowly.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding and Innovation Buzz",
-      "body": "Chinese startup Spark Space is making headlines with its electric-pump rocket engine tests and fresh funding. Meanwhile, True Anomaly's $190M Series C shows that investors are still keen on space ventures, despite the market's volatility."
+      "title": "Funding Flows and Startups",
+      "body": "Chinese startup Spark Space is making waves with its electric-pump rocket engine tests and a fresh funding round. Meanwhile, True Anomaly's Series C raise highlights the ongoing interest in space tech ventures."
     },
     {
       "icon": "◉",
-      "title": "Workforce Pipeline Woes",
-      "body": "The space industry grapples with a workforce pipeline issue, as highlighted by initiatives like Project Patriot. As the sector expands, attracting and retaining skilled talent will be crucial for sustaining momentum."
+      "title": "Defense Budget Adjustments",
+      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, signaling a continued commitment to bolstering national security in orbit. This financial boost comes at a time when hypersonic tests are slipping, underscoring the need for reliable advancements."
     },
     {
       "icon": "▲",
-      "title": "Satellite Servicing Models Evolving",
-      "body": "The satellite servicing economy is looking to carbon credit models for inspiration, suggesting a shift in how these services might be valued. This could pave the way for new business models that prioritize sustainability alongside profitability."
+      "title": "Satellite Servicing Insights",
+      "body": "The satellite servicing economy is looking to carbon credits for inspiration, as the industry seeks sustainable models for growth. This could reshape how we think about asset management in space."
     },
     {
       "icon": "◆",
-      "title": "Defense Budget Increases",
-      "body": "The FY27 budget markup has added $1.4B to the space resilience line, signaling a commitment to strengthening U.S. capabilities in the domain. However, the ongoing delays in hypersonic glide-vehicle tests raise questions about the effectiveness of this increased funding."
+      "title": "Tech Collaborations Emerge",
+      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, reflecting a trend of defense contractors consolidating resources. Similarly, Boeing's quantum protocol demonstration hints at the increasing importance of advanced technologies in future payloads."
     }
   ],
-  "updated": "2026-06-18 16:37 UTC"
+  "updated": "2026-06-18 16:53 UTC"
 }
