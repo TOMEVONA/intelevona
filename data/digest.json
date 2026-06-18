@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity, from China's rapid launch cadence to new funding rounds aimed at enhancing satellite operations. Meanwhile, the U.S. is doubling down on space resilience as budget allocations increase, signaling a strategic pivot in defense priorities.",
+  "summary": "The space industry is buzzing with funding rounds and strategic partnerships, while legacy concerns about workforce pipelines and satellite servicing models linger. Meanwhile, the U.S. government continues to bolster its space resilience budget, albeit with some hiccups in hypersonic testing.",
   "themes": [
     {
       "icon": "▣",
-      "title": "China's Launch Spree Stalls",
-      "body": "China's recent flurry of four launches in three days raises eyebrows, especially with the silence following the Kuaizhou–11 launch. This could indicate either a strategic pause or a deeper issue within their launch cadence."
+      "title": "Funding and Innovation Buzz",
+      "body": "Chinese startup Spark Space is making headlines with its electric-pump rocket engine tests and fresh funding. Meanwhile, True Anomaly's $190M Series C shows that investors are still keen on space ventures, despite the market's volatility."
     },
     {
       "icon": "◉",
-      "title": "Funding Flows into Space Tech",
-      "body": "Dawn Aerospace's $25 million raise and True Anomaly's $190 million Series C highlight the growing investor appetite for space technology. As the industry matures, expect more capital to chase innovative solutions, particularly in satellite operations."
+      "title": "Workforce Pipeline Woes",
+      "body": "The space industry grapples with a workforce pipeline issue, as highlighted by initiatives like Project Patriot. As the sector expands, attracting and retaining skilled talent will be crucial for sustaining momentum."
     },
     {
       "icon": "▲",
-      "title": "U.S. Defense Budget Boosts Space",
-      "body": "The FY27 budget markup's $1.4 billion increase for space resilience underscores a serious commitment to bolstering U.S. capabilities in orbit. This funding will likely fuel initiatives aimed at countering emerging threats in the space domain."
+      "title": "Satellite Servicing Models Evolving",
+      "body": "The satellite servicing economy is looking to carbon credit models for inspiration, suggesting a shift in how these services might be valued. This could pave the way for new business models that prioritize sustainability alongside profitability."
     },
     {
       "icon": "◆",
-      "title": "Collision Avoidance Takes Center Stage",
-      "body": "The partnership between Look Up and Skynopy for an automated satellite collision avoidance service reflects the urgent need for improved space traffic management. As more satellites populate the skies, the risk of collisions becomes a pressing concern for operators."
+      "title": "Defense Budget Increases",
+      "body": "The FY27 budget markup has added $1.4B to the space resilience line, signaling a commitment to strengthening U.S. capabilities in the domain. However, the ongoing delays in hypersonic glide-vehicle tests raise questions about the effectiveness of this increased funding."
     }
   ],
-  "updated": "2026-06-17 16:52 UTC"
+  "updated": "2026-06-18 16:37 UTC"
 }
