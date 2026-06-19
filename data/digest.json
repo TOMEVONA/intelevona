@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is seeing a mix of innovation and bureaucratic maneuvering this week. From funding rounds to strategic partnerships, the landscape is shifting, albeit slowly.",
+  "summary": "The space industry is seeing a mix of consolidation and funding as companies scramble to secure their positions in a rapidly evolving market. Meanwhile, the U.S. government continues to bolster its space resilience initiatives amid ongoing geopolitical tensions.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Flows and Startups",
-      "body": "Chinese startup Spark Space is making waves with its electric-pump rocket engine tests and a fresh funding round. Meanwhile, True Anomaly's Series C raise highlights the ongoing interest in space tech ventures."
+      "title": "M&A Activity Heats Up",
+      "body": "MDA Space's acquisition of Blue Canyon Technologies signals a strategic push into the U.S. market, highlighting the competitive landscape. This trend could lead to more consolidation as companies seek to enhance their capabilities."
     },
     {
       "icon": "◉",
-      "title": "Defense Budget Adjustments",
-      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, signaling a continued commitment to bolstering national security in orbit. This financial boost comes at a time when hypersonic tests are slipping, underscoring the need for reliable advancements."
+      "title": "Funding Frenzy Continues",
+      "body": "ElevationSpace's $40 million Series B funding round adds to a growing list of capital raises in the sector, reflecting investor confidence. With True Anomaly also securing $190 million, the appetite for space ventures remains robust."
     },
     {
       "icon": "▲",
-      "title": "Satellite Servicing Insights",
-      "body": "The satellite servicing economy is looking to carbon credits for inspiration, as the industry seeks sustainable models for growth. This could reshape how we think about asset management in space."
+      "title": "Government Spending on Space Resilience",
+      "body": "The FY27 budget markup, which adds $1.4 billion to space resilience, underscores the U.S. commitment to maintaining its edge in space. This funding will likely support various initiatives, from satellite development to defense capabilities."
     },
     {
       "icon": "◆",
-      "title": "Tech Collaborations Emerge",
-      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, reflecting a trend of defense contractors consolidating resources. Similarly, Boeing's quantum protocol demonstration hints at the increasing importance of advanced technologies in future payloads."
+      "title": "Challenges in Orbital Operations",
+      "body": "Concerns about the durability of LEO hardware in the new orbital economy are becoming increasingly pressing. As NASA embarks on missions to study space weather, the implications for satellite longevity and performance could be significant."
     }
   ],
-  "updated": "2026-06-18 16:53 UTC"
+  "updated": "2026-06-19 16:11 UTC"
 }

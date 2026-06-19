@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-18",
-  "issue": "No. 58",
-  "headline": "Funding flows. Delays persist. Collaboration continues.",
-  "deck": "This week sees notable funding rounds and ongoing delays in defense tech.",
+  "updated": "2026-06-19",
+  "issue": "No. 59",
+  "headline": "Mergers loom. Funding flows. Delays persist.",
+  "deck": "This week saw substantial acquisitions and funding rounds, alongside persistent delays in hypersonic testing.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly secures $190M Series C",
-      "body": "True Anomaly has raised $190M in a Series C funding round, bringing its valuation to $1.6B as it focuses on co-orbital security and space domain awareness. The funding is a strong indicator of the DoD's growing interest in commercial solutions for national security. With this cash influx, True Anomaly is well-positioned to capitalize on increasing demand for advanced space capabilities.",
-      "soWhat": "In a space sector where cash often trumps innovation, True Anomaly's funding underscores the DoD's preference for proven players over risky startups."
+      "kicker": "ACQUISITION",
+      "head": "MDA Space spends $620 million on Blue Canyon",
+      "body": "MDA Space is acquiring Blue Canyon Technologies for $620 million, marking a strategic entry into the U.S. government market. This acquisition highlights the trend of foreign firms seeking local partners to navigate the complex U.S. defense landscape. It’s a classic case of 'if you can’t beat them, buy them.'",
+      "soWhat": "MDA’s move signals that the U.S. defense market is still an attractive playground, even for international players."
     },
     {
-      "kicker": "COLLABORATION",
-      "head": "Anduril and L3Harris team up for SDA",
-      "body": "Anduril and L3Harris have joined forces to bid on a tactical Space Development Agency constellation, signaling a strategic collaboration in an increasingly crowded market. This partnership aims to leverage Anduril's AI-driven capabilities and L3Harris's extensive experience in satellite communications. The move highlights a trend of consolidation as companies seek to pool resources for competitive advantage.",
-      "soWhat": "As competition heats up, expect more partnerships like this; in space, two heads might not just be better than one, but necessary for survival."
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190 million for co-orbital security",
+      "body": "True Anomaly secured $190 million in Series C funding, pushing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, areas increasingly prioritized by the DoD. With this influx of cash, they’re poised to capitalize on government contracts that are becoming more lucrative.",
+      "soWhat": "It’s a clear indicator that investors are betting on the military’s growing appetite for space security solutions."
     },
     {
       "kicker": "DELAY",
-      "head": "Hypersonic glide-vehicle tests slip again",
-      "body": "Hypersonic glide-vehicle tests have been delayed for the third consecutive quarter, raising concerns about the timeline for this critical defense technology. With the U.S. facing increasing pressure from adversaries, these setbacks could hinder strategic advancements. The repeated delays suggest a systemic issue in the development process rather than just a minor hiccup.",
-      "soWhat": "If the U.S. can't get its hypersonic act together, the race will be less about speed and more about catching up."
+      "head": "Hypersonic glide-vehicle tests slip for third quarter",
+      "body": "Hypersonic glide-vehicle tests have been delayed for the third consecutive quarter, raising questions about the program’s viability. Northrop Grumman claims the industry is ready to scale solid rocket production, but the ongoing delays suggest a disconnect between ambition and execution. It feels less like a race and more like a leisurely stroll.",
+      "soWhat": "This trend could impact defense contracts, as the government may reconsider its commitments if progress continues to stall."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for True Anomaly's next moves",
-      "body": "With $190M in fresh capital, True Anomaly's strategy will be key to watch as it seeks to expand its market presence."
+      "title": "Keep an eye on Blue Canyon's integration",
+      "body": "MDA's acquisition will likely lead to shifts in U.S. defense contracts, worth monitoring for potential impacts on competitors."
     },
     {
-      "title": "Sierra Space's Dream Chaser progress",
-      "body": "Now that the Dream Chaser DoD variant has passed its design review, the next steps will be critical for its future viability."
+      "title": "True Anomaly's next moves post-funding",
+      "body": "With the fresh capital, True Anomaly could pivot into new contracts or expand its technology offerings—watch for announcements."
     },
     {
-      "title": "Impacts of FY27 budget increase",
-      "body": "The $1.4B boost to space resilience funding may reshape priorities within the DoD, affecting procurement strategies."
+      "title": "Northrop Grumman's production scaling efforts",
+      "body": "As they push for solid rocket production, any hiccups could ripple through the supply chain and affect timelines."
     },
     {
-      "title": "Potential for more defense-tech IPOs",
-      "body": "As the defense-tech IPO window shows signs of life, expect increased investor interest in military innovations next week."
+      "title": "ElevationSpace's Series B implications",
+      "body": "Their $40 million raise could signal a trend in funding for smaller players in the space sector, worth tracking."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
+      "sym": "NOC",
+      "note": "Northrop Grumman's scaling claims are under scrutiny as delays persist."
+    },
+    {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program highlights its entrenched position in government contracts."
+      "note": "Palantir's $480 million extension shows government contracts are still a reliable revenue stream."
     },
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's ongoing struggles to launch its commercial spaceflight service continue to weigh on investor sentiment."
+      "sym": "TRU",
+      "note": "True Anomaly's recent funding might position it as a key player in co-orbital security."
     },
     {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's bull case illustrated through charts suggests a precarious balance between potential and execution."
-    },
-    {
-      "sym": "SSTK",
-      "note": "Stoke Space's $260M Series C funding indicates serious backing for its reusable launch technology."
+      "sym": "MDA",
+      "note": "MDA's acquisition of Blue Canyon could reshape its competitive landscape in the U.S."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
