@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is seeing a mix of consolidation and funding as companies scramble to secure their positions in a rapidly evolving market. Meanwhile, the U.S. government continues to bolster its space resilience initiatives amid ongoing geopolitical tensions.",
+  "summary": "The space industry is witnessing a flurry of activity as companies seek to solidify their positions amidst growing competition and funding opportunities. Notably, acquisitions and strategic partnerships are shaping the landscape, while concerns about hardware durability in low Earth orbit loom large.",
   "themes": [
     {
       "icon": "▣",
-      "title": "M&A Activity Heats Up",
-      "body": "MDA Space's acquisition of Blue Canyon Technologies signals a strategic push into the U.S. market, highlighting the competitive landscape. This trend could lead to more consolidation as companies seek to enhance their capabilities."
+      "title": "Acquisitions and Partnerships",
+      "body": "MDA Space's acquisition of Blue Canyon Technologies signals a strategic move to bolster its presence in the U.S. market. Meanwhile, Anduril and L3Harris are teaming up for a tactical satellite constellation bid, highlighting the trend of collaboration in a fragmented industry."
     },
     {
       "icon": "◉",
-      "title": "Funding Frenzy Continues",
-      "body": "ElevationSpace's $40 million Series B funding round adds to a growing list of capital raises in the sector, reflecting investor confidence. With True Anomaly also securing $190 million, the appetite for space ventures remains robust."
+      "title": "Funding Frenzy",
+      "body": "ElevationSpace's recent $40 million Series B funding round underscores the increasing investor appetite for space startups. With True Anomaly also raising $190 million, it seems that venture capital is still keen on backing the next big thing in space."
     },
     {
       "icon": "▲",
-      "title": "Government Spending on Space Resilience",
-      "body": "The FY27 budget markup, which adds $1.4 billion to space resilience, underscores the U.S. commitment to maintaining its edge in space. This funding will likely support various initiatives, from satellite development to defense capabilities."
+      "title": "Production and Resilience",
+      "body": "Northrop Grumman's confidence in scaling solid rocket production reflects a broader industry readiness to meet demand. Coupled with a $1.4 billion budget increase for space resilience, it appears that the U.S. is doubling down on its space capabilities."
     },
     {
       "icon": "◆",
-      "title": "Challenges in Orbital Operations",
-      "body": "Concerns about the durability of LEO hardware in the new orbital economy are becoming increasingly pressing. As NASA embarks on missions to study space weather, the implications for satellite longevity and performance could be significant."
+      "title": "Durability Concerns",
+      "body": "The ongoing MEO durability crisis raises alarms about the longevity of LEO hardware in the emerging orbital economy. As companies push for more ambitious missions, the question remains: can current technologies withstand the test of time?"
     }
   ],
-  "updated": "2026-06-19 16:11 UTC"
+  "updated": "2026-06-19 16:31 UTC"
 }

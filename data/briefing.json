@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-19",
   "issue": "No. 59",
-  "headline": "Mergers loom. Funding flows. Delays persist.",
-  "deck": "This week saw substantial acquisitions and funding rounds, alongside persistent delays in hypersonic testing.",
+  "headline": "M&A heats up. Funding flows. Contracts extend.",
+  "deck": "This week saw significant acquisitions and funding in the space sector, alongside extended contracts hinting at industry optimism.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "ACQUISITION",
-      "head": "MDA Space spends $620 million on Blue Canyon",
-      "body": "MDA Space is acquiring Blue Canyon Technologies for $620 million, marking a strategic entry into the U.S. government market. This acquisition highlights the trend of foreign firms seeking local partners to navigate the complex U.S. defense landscape. It’s a classic case of 'if you can’t beat them, buy them.'",
-      "soWhat": "MDA’s move signals that the U.S. defense market is still an attractive playground, even for international players."
+      "kicker": "M&A",
+      "head": "MDA Space drops $620M on Blue Canyon",
+      "body": "MDA Space is acquiring Blue Canyon Technologies for $620 million, marking a strategic entry into the U.S. market. This acquisition underscores MDA's ambition to bolster its capabilities in the small satellite sector, which is increasingly critical for national security applications. The deal also highlights the trend of established firms seeking growth through targeted acquisitions rather than organic expansion.",
+      "soWhat": "MDA's move reflects a broader strategy of using M&A to circumvent the lengthy process of building capabilities from scratch."
     },
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190 million for co-orbital security",
-      "body": "True Anomaly secured $190 million in Series C funding, pushing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, areas increasingly prioritized by the DoD. With this influx of cash, they’re poised to capitalize on government contracts that are becoming more lucrative.",
-      "soWhat": "It’s a clear indicator that investors are betting on the military’s growing appetite for space security solutions."
+      "head": "True Anomaly raises $190M amid co-orbital concerns",
+      "body": "True Anomaly secured $190 million in Series C funding, bringing its valuation to $1.6 billion. This influx of capital comes as the company focuses on co-orbital security and space domain awareness, areas that are rapidly gaining traction with defense agencies. The funding round indicates strong investor confidence in the necessity of security solutions in increasingly crowded orbits.",
+      "soWhat": "In a climate where space is becoming a contested domain, True Anomaly's funding signals that investors are betting on the need for robust security measures, not just technological advancement."
     },
     {
-      "kicker": "DELAY",
-      "head": "Hypersonic glide-vehicle tests slip for third quarter",
-      "body": "Hypersonic glide-vehicle tests have been delayed for the third consecutive quarter, raising questions about the program’s viability. Northrop Grumman claims the industry is ready to scale solid rocket production, but the ongoing delays suggest a disconnect between ambition and execution. It feels less like a race and more like a leisurely stroll.",
-      "soWhat": "This trend could impact defense contracts, as the government may reconsider its commitments if progress continues to stall."
+      "kicker": "CONTRACTS",
+      "head": "Palantir extends TITAN contract by $480M",
+      "body": "Palantir Technologies has secured a $480 million extension on its TITAN ground station program, which is crucial for military satellite operations. This extension reflects the ongoing demand for advanced data integration and analysis capabilities within the defense sector. The deal also highlights the importance of persistent relationships in government contracting, where past performance often leads to future opportunities.",
+      "soWhat": "Palantir's ability to secure extensions suggests that in defense, being a known quantity can outweigh the allure of new entrants."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Blue Canyon's integration",
-      "body": "MDA's acquisition will likely lead to shifts in U.S. defense contracts, worth monitoring for potential impacts on competitors."
-    },
-    {
-      "title": "True Anomaly's next moves post-funding",
-      "body": "With the fresh capital, True Anomaly could pivot into new contracts or expand its technology offerings—watch for announcements."
-    },
-    {
-      "title": "Northrop Grumman's production scaling efforts",
-      "body": "As they push for solid rocket production, any hiccups could ripple through the supply chain and affect timelines."
+      "title": "Northrop Grumman's solid rocket plans",
+      "body": "Northrop Grumman's claims about scaling solid rocket production will be scrutinized next week as the industry assesses supplier capabilities."
     },
     {
       "title": "ElevationSpace's Series B implications",
-      "body": "Their $40 million raise could signal a trend in funding for smaller players in the space sector, worth tracking."
+      "body": "ElevationSpace's $40 million Series B funding may influence future investments in satellite communications, especially for startups eyeing similar markets."
+    },
+    {
+      "title": "Sierra Space's Dream Chaser updates",
+      "body": "With the Dream Chaser DoD variant passing its critical design review, attention will shift to its upcoming milestones and potential contracts."
+    },
+    {
+      "title": "Hypersonic glide-vehicle delays",
+      "body": "The continued delays in hypersonic glide-vehicle tests could dampen enthusiasm for related technologies and funding in the near term."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "NOC",
-      "note": "Northrop Grumman's scaling claims are under scrutiny as delays persist."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's $480 million extension shows government contracts are still a reliable revenue stream."
-    },
-    {
-      "sym": "TRU",
-      "note": "True Anomaly's recent funding might position it as a key player in co-orbital security."
+      "note": "Palantir's $480M contract extension reinforces its foothold in defense contracts."
     },
     {
       "sym": "MDA",
-      "note": "MDA's acquisition of Blue Canyon could reshape its competitive landscape in the U.S."
+      "note": "MDA Space's acquisition of Blue Canyon for $620M shows aggressive expansion into the U.S. market."
+    },
+    {
+      "sym": "TRUE",
+      "note": "True Anomaly's $190M funding round highlights the growing focus on co-orbital security."
+    },
+    {
+      "sym": "NGC",
+      "note": "Northrop Grumman's claims about solid rocket production scalability will be tested by market realities."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
