@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is witnessing a flurry of activity as companies seek to solidify their positions amidst growing competition and funding opportunities. Notably, acquisitions and strategic partnerships are shaping the landscape, while concerns about hardware durability in low Earth orbit loom large.",
+  "summary": "The space industry is buzzing with activity as companies jockey for position in the burgeoning LEO market, while defense budgets are getting a notable boost. Meanwhile, the specter of hardware failures looms over the MEO sector, casting a shadow on the orbital economy's future.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Acquisitions and Partnerships",
-      "body": "MDA Space's acquisition of Blue Canyon Technologies signals a strategic move to bolster its presence in the U.S. market. Meanwhile, Anduril and L3Harris are teaming up for a tactical satellite constellation bid, highlighting the trend of collaboration in a fragmented industry."
+      "title": "LEO Constellation Plans Emerge",
+      "body": "India's Jio is making waves with its sovereign LEO constellation plan, just in time for its IPO. This move signals a growing interest in LEO capabilities, as companies scramble to claim their stake in this lucrative market."
     },
     {
       "icon": "◉",
-      "title": "Funding Frenzy",
-      "body": "ElevationSpace's recent $40 million Series B funding round underscores the increasing investor appetite for space startups. With True Anomaly also raising $190 million, it seems that venture capital is still keen on backing the next big thing in space."
+      "title": "M&A Activity Heats Up",
+      "body": "MDA Space's acquisition of Blue Canyon Technologies underscores the competitive landscape in the U.S. market. As companies consolidate, the pressure to innovate and scale becomes even more pronounced."
     },
     {
       "icon": "▲",
-      "title": "Production and Resilience",
-      "body": "Northrop Grumman's confidence in scaling solid rocket production reflects a broader industry readiness to meet demand. Coupled with a $1.4 billion budget increase for space resilience, it appears that the U.S. is doubling down on its space capabilities."
+      "title": "Defense Budgets on the Rise",
+      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, signaling a commitment to strengthening U.S. capabilities in space. This funding boost could accelerate development timelines for critical projects."
     },
     {
       "icon": "◆",
-      "title": "Durability Concerns",
-      "body": "The ongoing MEO durability crisis raises alarms about the longevity of LEO hardware in the emerging orbital economy. As companies push for more ambitious missions, the question remains: can current technologies withstand the test of time?"
+      "title": "MEO Hardware Concerns Grow",
+      "body": "The durability crisis facing MEO hardware raises questions about the sustainability of the new orbital economy. As operators grapple with potential failures, the industry must address these vulnerabilities to maintain investor confidence."
     }
   ],
-  "updated": "2026-06-19 16:31 UTC"
+  "updated": "2026-06-20 15:05 UTC"
 }
