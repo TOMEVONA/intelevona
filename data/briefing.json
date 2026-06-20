@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-20",
   "issue": "No. 60",
-  "headline": "LEO constellations rise. Acquisitions abound. Funding flows.",
-  "deck": "This week saw significant moves in satellite constellations, acquisitions, and funding rounds that highlight the competitive landscape.",
+  "headline": "Telecoms eye space. Acquisitions abound. Funding flows.",
+  "deck": "This week, telecoms and defense firms are making moves in space, while funding rounds continue to pour in.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "ACQUISITION",
-      "head": "MDA Space buys Blue Canyon for $620M",
-      "body": "MDA Space announced its acquisition of Blue Canyon Technologies for $620 million, aiming to bolster its presence in the U.S. market. This move is a strategic play to enhance capabilities in small satellite systems, which are increasingly vital for modern space operations. The deal underscores the trend of established players opting for mergers over organic growth.",
-      "soWhat": "Sometimes, it’s easier to buy a seat at the table than to build your own."
+      "kicker": "ACQUISITIONS",
+      "head": "MDA Space pays $620 million for Blue Canyon",
+      "body": "MDA Space has announced its acquisition of Blue Canyon Technologies for $620 million, aiming to establish a stronger foothold in the U.S. market. This deal underscores MDA's ambition to penetrate the lucrative small satellite sector, which has seen increasing demand from both commercial and defense customers. As the market for satellite technology heats up, MDA is betting that buying in is better than building from scratch.",
+      "soWhat": "Buying Blue Canyon might just be MDA's way of admitting that organic growth in this sector is a slow march through molasses."
     },
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly secures $190M Series C",
-      "body": "True Anomaly raised $190 million in Series C funding, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, reflecting a growing interest in defense applications. This funding round emphasizes that in the space sector, cash often trumps actual innovation.",
-      "soWhat": "In space, it seems the money is more about the promise than the product."
+      "head": "ElevationSpace raises $40 million amid transport hype",
+      "body": "ElevationSpace has secured $40 million in Series B funding, bringing its total to $63.5 million. The company is focused on space transportation, a sector that remains a hot topic despite the fact that many rockets are still more concept than reality. The funding reflects a continued appetite for investment in transportation solutions, even if the market is still figuring out its long-term viability.",
+      "soWhat": "Investors seem to be betting that the transportation hype will eventually translate into actual launches, but it feels more like a game of musical chairs."
     },
     {
-      "kicker": "IPO",
-      "head": "Jio Platforms unveils LEO plans ahead of IPO",
-      "body": "Jio Platforms is laying out its ambitious plans for a sovereign LEO constellation to lease broadband capacity, coinciding with its upcoming IPO. This move is expected to position Jio as a key player in the satellite broadband market, especially as demand for connectivity continues to rise. It’s a classic case of leveraging an IPO to fund satellite ambitions.",
-      "soWhat": "Who needs to build satellites when you can just lease the spectrum?"
+      "kicker": "DEFENSE",
+      "head": "Palantir extends TITAN program by $480 million",
+      "body": "Palantir has received a $480 million extension on its TITAN ground station program, reinforcing its position in the defense tech space. This contract extension highlights the growing reliance on sophisticated data analytics for military operations, as the DoD continues to prioritize advanced technology solutions. Palantir's persistence in securing government contracts suggests a strategic focus on long-term relationships rather than one-off projects.",
+      "soWhat": "In government contracting, it seems that long-term relationships are more lucrative than a flashy new product launch."
     }
   ],
   "watchlist": [
     {
-      "title": "MDA Space integration challenges",
-      "body": "As MDA integrates Blue Canyon, watch for potential operational hiccups that could affect project timelines."
+      "title": "Keep an eye on Jio's LEO plans",
+      "body": "Jio Platforms' sovereign LEO constellation plan could shake up the telecom space, especially if they successfully navigate the IPO waters."
     },
     {
-      "title": "ElevationSpace's next moves post-funding",
-      "body": "With $63.5 million raised, ElevationSpace will need to demonstrate that it can effectively convert funding into operational capacity."
+      "title": "Northrop Grumman's solid rocket ambitions",
+      "body": "With claims of scaling solid rocket production, Northrop Grumman's next steps will reveal whether talk translates to action."
     },
     {
-      "title": "Impact of FY27 budget on space resilience",
-      "body": "The additional $1.4 billion in space resilience funding could reshape procurement strategies for defense contractors."
+      "title": "Sierra Space's Dream Chaser launch",
+      "body": "After clearing its critical design review, the real test will be whether Dream Chaser can actually launch without a hitch."
     },
     {
-      "title": "True Anomaly's market positioning",
-      "body": "True Anomaly's new funding will be closely watched as it seeks to capitalize on the growing defense market."
+      "title": "True Anomaly's Series C implications",
+      "body": "True Anomaly's $190 million Series C funding could signal increased interest in co-orbital security solutions among defense contractors."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
+      "sym": "PLTR",
+      "note": "Palantir's $480 million TITAN extension shows the firm continues to be a reliable player in defense contracts."
+    },
+    {
       "sym": "MDA",
-      "note": "MDA's acquisition of Blue Canyon is a bold U.S. market entry strategy."
+      "note": "MDA's acquisition of Blue Canyon for $620 million highlights the consolidation trend in the satellite sector."
     },
     {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M Series C signals strong investor confidence in defense tech."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's shares remain volatile as investors await news on its operational readiness and commercial flights."
     },
     {
-      "sym": "JIO",
-      "note": "Jio's LEO plans could disrupt the satellite broadband market ahead of its IPO."
-    },
-    {
-      "sym": "NOC",
-      "note": "Northrop Grumman's claims about scaling solid rocket production will be tested as demand evolves."
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's recent bullish case is making waves, but execution remains the real test."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

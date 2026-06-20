@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as companies jockey for position in the burgeoning LEO market, while defense budgets are getting a notable boost. Meanwhile, the specter of hardware failures looms over the MEO sector, casting a shadow on the orbital economy's future.",
+  "summary": "The space industry is buzzing with activity, as companies scramble to secure funding and partnerships while governments bolster defense budgets. Notably, India’s Jio is laying the groundwork for a sovereign LEO constellation, while Northrop Grumman is keen on ramping up solid rocket production.",
   "themes": [
     {
       "icon": "▣",
-      "title": "LEO Constellation Plans Emerge",
-      "body": "India's Jio is making waves with its sovereign LEO constellation plan, just in time for its IPO. This move signals a growing interest in LEO capabilities, as companies scramble to claim their stake in this lucrative market."
+      "title": "India's LEO Ambitions",
+      "body": "India's Jio is making headlines with its plans for a sovereign LEO constellation, aiming to capitalize on the growing demand for satellite services. This move comes just ahead of its IPO, suggesting a strategic play to attract investors with a forward-looking vision."
     },
     {
       "icon": "◉",
-      "title": "M&A Activity Heats Up",
-      "body": "MDA Space's acquisition of Blue Canyon Technologies underscores the competitive landscape in the U.S. market. As companies consolidate, the pressure to innovate and scale becomes even more pronounced."
+      "title": "Consolidation in Space Tech",
+      "body": "MDA Space's acquisition of Blue Canyon Technologies signals a trend of consolidation as companies seek to strengthen their foothold in the competitive U.S. market. As the landscape evolves, expect more such deals as firms aim to enhance capabilities and market share."
     },
     {
       "icon": "▲",
-      "title": "Defense Budgets on the Rise",
-      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, signaling a commitment to strengthening U.S. capabilities in space. This funding boost could accelerate development timelines for critical projects."
+      "title": "Funding Rounds Galore",
+      "body": "ElevationSpace's recent $40 million Series B funding round exemplifies the ongoing investor interest in space startups, bringing its total raised to $63.5 million. Meanwhile, True Anomaly's $190 million Series C funding at a $1.6 billion valuation underscores the appetite for innovation in the sector."
     },
     {
       "icon": "◆",
-      "title": "MEO Hardware Concerns Grow",
-      "body": "The durability crisis facing MEO hardware raises questions about the sustainability of the new orbital economy. As operators grapple with potential failures, the industry must address these vulnerabilities to maintain investor confidence."
+      "title": "Defense Budget Boost",
+      "body": "The FY27 budget markup adding $1.4 billion to the space resilience line reflects a growing recognition of the strategic importance of space in national defense. This increase may signal a shift in priorities as the U.S. seeks to enhance its capabilities in an increasingly contested domain."
     }
   ],
-  "updated": "2026-06-20 15:05 UTC"
+  "updated": "2026-06-20 15:42 UTC"
 }
