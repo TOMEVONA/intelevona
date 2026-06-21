@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with mergers, funding rounds, and strategic partnerships as companies scramble to position themselves ahead of an anticipated IPO wave. Meanwhile, government budgets are tightening, but the appetite for innovation remains strong, particularly in defense tech and satellite capabilities.",
+  "summary": "The space and defense sectors are buzzing with activity as companies seek to scale operations and secure funding. Meanwhile, government budgets and international collaborations are shaping the landscape for future projects.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Mergers and Acquisitions Heat Up",
-      "body": "MDA Space's acquisition of Blue Canyon Technologies underscores the ongoing trend of consolidation as companies seek to bolster their market positions. With more players eyeing strategic buys, expect the pace of M&A to quicken as firms race to scale."
+      "title": "Scaling Up Operations",
+      "body": "Astrobotic's sale to Voyager is a clear signal that scaling is the name of the game in the lunar lander market. Similarly, Northrop Grumman's push for solid rocket production indicates a readiness to meet increasing demand."
     },
     {
       "icon": "◉",
-      "title": "Funding Rounds Fuel Growth",
-      "body": "ElevationSpace's recent $40 million Series B funding round is a testament to the growing investor confidence in space ventures. As private equity firms and venture capitalists ramp up their stakes, the capital flow into the sector shows no signs of slowing."
+      "title": "Funding Frenzy",
+      "body": "ElevationSpace's recent Series B funding round highlights the ongoing appetite for investment in the space sector, with a total of $63.5 million raised. True Anomaly's $190 million Series C also underscores the trend of substantial capital flowing into space startups."
     },
     {
       "icon": "▲",
-      "title": "Government Budgets and Defense Tech",
-      "body": "The FY27 budget markup adding $1.4 billion to space resilience highlights the government's commitment to fortifying its space capabilities. As defense contractors pivot towards innovative solutions, the demand for advanced technologies is likely to surge."
+      "title": "Strategic Partnerships",
+      "body": "Anduril and L3Harris teaming up for a tactical SDA constellation bid reflects the growing trend of collaboration in the defense tech space. MDA Space's acquisition of Blue Canyon Technologies further emphasizes the importance of strategic moves to gain market footholds."
     },
     {
       "icon": "◆",
-      "title": "Emerging LEO Constellations",
-      "body": "India's Jio is laying the groundwork for a sovereign LEO constellation, signaling a significant move in the global satellite landscape. This initiative could reshape competitive dynamics, particularly as nations seek to establish their own space infrastructures."
+      "title": "Government Influence",
+      "body": "The FY27 budget markup adding $1.4 billion to space resilience suggests that government priorities are shifting towards bolstering national security in space. This trend is likely to influence private sector strategies as they align with public funding initiatives."
     }
   ],
-  "updated": "2026-06-21 15:12 UTC"
+  "updated": "2026-06-21 15:48 UTC"
 }

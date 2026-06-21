@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-21",
   "issue": "No. 61",
-  "headline": "Mergers accelerate. Budgets grow. IPOs loom.",
-  "deck": "This week sees increased consolidation and funding in space.",
+  "headline": "Mergers happen. IPOs loom. Funding flows.",
+  "deck": "This week features notable acquisitions and funding rounds as companies position themselves for growth.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "MERGERS",
-      "head": "Astrobotic sells to Voyager for lunar ambitions",
-      "body": "Astrobotic has been acquired by Voyager Technologies, allowing the former to scale operations for NASA's lunar initiatives. The terms of the deal were not disclosed, but it highlights the trend of companies seeking partnerships to navigate the complex lunar landscape. This acquisition might just be the lifeline Astrobotic needed to avoid becoming another footnote in lunar history.",
-      "soWhat": "Sometimes, the only way to make it to the moon is to hitch a ride with a better-funded partner."
+      "kicker": "ACQUISITION",
+      "head": "Astrobotic's quick fix for lunar ambitions",
+      "body": "Astrobotic has been acquired by Voyager Technologies, a move aimed at scaling up for NASA’s lunar base initiative. The details of the deal remain undisclosed, but it suggests that sometimes a corporate merger is a stopgap for growth rather than a strategic overhaul. With NASA's Artemis program ramping up, Astrobotic's ability to deliver payloads could be a game changer.",
+      "soWhat": "If mergers were actually effective strategies, we’d see fewer companies scrambling for funding."
     },
     {
-      "kicker": "ACQUISITIONS",
-      "head": "MDA Space spends $620 million on Blue Canyon",
-      "body": "MDA Space is acquiring Blue Canyon Technologies for $620 million, aiming to strengthen its foothold in the U.S. market. This move underscores the ongoing consolidation as companies look to bolster capabilities and market access. Blue Canyon's satellite technology will likely serve as a strategic asset for MDA's ambitions in the increasingly competitive U.S. sector.",
-      "soWhat": "In aerospace, buying your way in is often cheaper than building from scratch."
+      "kicker": "IPO",
+      "head": "Jio's LEO plans raise eyebrows ahead of IPO",
+      "body": "Jio Platforms is gearing up for an IPO while unveiling plans for a sovereign LEO constellation. This ambitious project is set against the backdrop of notoriously unpredictable satellite launches, which might make investors a bit queasy. The IPO is expected to attract significant attention, but the execution risk could be a deal-breaker.",
+      "soWhat": "Investors love the shiny new tech, but they might want to check the launch schedule first."
     },
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190 million amid co-orbital security demand",
-      "body": "True Anomaly secured $190 million in Series C funding, bringing its valuation to $1.6 billion. This influx of capital reflects the growing interest in co-orbital security solutions as defense demands rise. The funding round suggests investors are banking on True Anomaly's potential to fill gaps in the military's space capabilities.",
-      "soWhat": "In a world where space is the new frontier for defense, cash is king, and True Anomaly is sitting on a throne."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured $190 million in Series C funding, bringing its valuation to $1.6 billion. This round underscores the growing demand for co-orbital security and space domain awareness as defense priorities shift. With the DoD's increasing focus on space, True Anomaly is well-positioned to capitalize on this trend.",
+      "soWhat": "In space, cash often trumps actual innovation, and this funding round is proof."
     }
   ],
   "watchlist": [
     {
-      "title": "Jio's LEO constellation IPO plans",
-      "body": "India's Jio is gearing up for an IPO tied to its sovereign LEO constellation, which could reshape connectivity in the region."
+      "title": "Watch for Jio's IPO pricing next week",
+      "body": "Jio's IPO could set a precedent for other space-focused companies looking to go public."
     },
     {
-      "title": "ElevationSpace's Series B implications",
-      "body": "With $40 million raised, ElevationSpace's focus on space transportation could signal a new wave of investment in launch capabilities."
+      "title": "Northrop Grumman's solid rocket production plans",
+      "body": "If the industry can deliver on solid rocket production, we might see a shift in launch dynamics."
     },
     {
-      "title": "Northrop Grumman's solid rocket production",
-      "body": "As Northrop Grumman claims readiness to scale production, the industry will be watching for actual demand to materialize."
+      "title": "ElevationSpace's next moves post-funding",
+      "body": "With $63.5 million raised, how ElevationSpace pivots could signal trends in satellite technology."
     },
     {
-      "title": "Palantir's TITAN contract extension",
-      "body": "Palantir's $480 million extension on the TITAN program could indicate a longer-term commitment to military space operations."
+      "title": "Palantir's TITAN program extension implications",
+      "body": "The $480 million extension might indicate long-term government commitments to data infrastructure."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's bull case illustrated through charts shows the precarious balance of execution and potential disaster."
+      "note": "The bull case for ASTS is illustrated through 11 charts, highlighting execution risks."
     },
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic is still waiting for its moment, but the thrill of space tourism remains on the horizon."
-    },
-    {
-      "sym": "LMT",
-      "note": "Lockheed Martin continues to expand its space portfolio, but investors are waiting for signs of profitability."
+      "note": "Virgin Galactic's stock remains under pressure as it struggles to find a consistent launch schedule."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's recent contract wins are keeping its stock afloat, but skepticism remains about long-term growth."
+      "note": "Palantir’s $480 million extension on the TITAN program shows that government contracts are still a reliable revenue stream."
+    },
+    {
+      "sym": "NOC",
+      "note": "Northrop Grumman's claims about solid rocket production readiness may face scrutiny if demand doesn't materialize."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
