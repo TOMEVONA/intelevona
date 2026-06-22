@@ -1,52 +1,52 @@
 {
-  "updated": "2026-06-22T17:42:32.863Z",
+  "updated": "2026-06-22T18:10:47.414Z",
   "articles": [
     {
       "sourceId": "spacenews",
+      "title": "Chinese spaceplane releases object into orbit, according to commercial space surveillance",
+      "summary": "China’s spaceplane has released an object into orbit during its fourth mission, which is either a sign of progress or just a really expensive game of catch.",
+      "date": "2026-06-22",
+      "link": "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/"
+    },
+    {
+      "sourceId": "spacenews",
       "title": "America is about to cede Africa’s space industry to China, and nobody’s talking about it.",
-      "summary": "The U.S. risks losing its grip on Africa's space industry to China, while everyone seems too busy to notice the impending geopolitical game of cosmic chess.",
+      "summary": "The U.S. risks losing its foothold in Africa's space industry to China, which is a bit like watching someone else take the last slice of pizza while you’re still deciding.",
       "date": "2026-06-22",
       "link": "https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/"
     },
     {
       "sourceId": "spacenews",
       "title": "Astroscale raises funding to support growth strategy",
-      "summary": "Astroscale has secured funding to shift from tech demos to regular missions, proving that sometimes, a little cash can help you finally get off the ground.",
+      "summary": "Astroscale has secured funding to shift from demos to regular missions, proving that sometimes it takes a little cash to turn dreams of space junk removal into reality.",
       "date": "2026-06-22",
       "link": "https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/"
     },
     {
       "sourceId": "spacenews",
       "title": "Astrobotic says sale to Voyager will allow it to scale up",
-      "summary": "Astrobotic's sale to Voyager aims to accelerate its lunar ambitions, which is a clever way of saying they need a bigger rocket to meet NASA's demands.",
+      "summary": "Astrobotic's sale to Voyager Technologies aims to scale up lunar lander production, suggesting that in space, sometimes it's better to team up than to go solo.",
       "date": "2026-06-20",
       "link": "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/"
     },
     {
       "sourceId": "spacenews",
       "title": "India’s Jio lays out sovereign LEO constellation plan ahead of IPO",
-      "summary": "Jio Platforms is laying out plans for a sovereign LEO constellation in India, because why lease when you can launch your own satellite internet empire?",
+      "summary": "Jio Platforms is planning a sovereign LEO constellation, which is a bold move in a market that’s starting to feel a bit crowded, like a rush hour subway.",
       "date": "2026-06-19",
       "link": "https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/"
     },
     {
-      "sourceId": "spacenews",
-      "title": "MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market",
-      "summary": "MDA Space is acquiring Blue Canyon Technologies for $620 million, marking a strategic move to cozy up to the lucrative U.S. government market.",
-      "date": "2026-06-19",
-      "link": "https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/"
-    },
-    {
       "sourceId": "tectonic",
       "title": "Anduril and L3Harris team on tactical SDA constellation bid",
-      "summary": "Anduril and L3Harris are teaming up on a tactical SDA constellation bid, reminding us that in defense, alliances can be as fleeting as a shooting star.",
+      "summary": "Anduril and L3Harris are collaborating on a tactical SDA constellation bid, reminding us that in defense, partnerships can be as fleeting as a shooting star.",
       "date": "2026-05-04",
       "link": "https://tectonicdefense.com/anduril-l3harris-sda/"
     },
     {
       "sourceId": "tectonic",
       "title": "FY27 budget markup adds $1.4B to space resilience line",
-      "summary": "The FY27 budget markup adds $1.4 billion for space resilience, finally admitting that space is more than just a cosmic backdrop for military theatrics.",
+      "summary": "The FY27 budget markup adds $1.4 billion for space resilience, finally acknowledging that space is more than just a cosmic backdrop for military theatrics.",
       "date": "2026-05-03",
       "link": "https://tectonicdefense.com/fy27-markup-space/"
     },
@@ -60,14 +60,14 @@
     {
       "sourceId": "tectonic",
       "title": "Sierra Space's Dream Chaser DoD variant clears critical design review",
-      "summary": "Sierra Space's Dream Chaser DoD variant passed its critical design review, but the real question is whether it can actually launch without a hitch.",
+      "summary": "Sierra Space's Dream Chaser DoD variant has passed its critical design review, but the real test will be getting it off the ground without a hitch.",
       "date": "2026-05-01",
       "link": "https://tectonicdefense.com/dream-chaser-cdr/"
     },
     {
       "sourceId": "tectonic",
       "title": "Palantir wins $480M extension on TITAN ground station program",
-      "summary": "Palantir won a $480 million extension on its TITAN ground station program, proving that in government contracts, slow and steady sometimes wins the race.",
+      "summary": "Palantir has won a $480 million extension on its TITAN ground station program, proving that in government contracts, slow and steady sometimes wins the race.",
       "date": "2026-04-29",
       "link": "https://tectonicdefense.com/palantir-titan-extension/"
     },
@@ -81,7 +81,7 @@
     {
       "sourceId": "piratewires",
       "title": "Why every YC company is suddenly 'AI for Defense'",
-      "summary": "'AI for Defense' startups are emerging from Y Combinator, indicating that sometimes innovation is just a clever rebranding of the same old ideas.",
+      "summary": "'AI for Defense' startups are popping up from Y Combinator, indicating that sometimes innovation is just a clever rebranding of the same old ideas.",
       "date": "2026-05-03",
       "link": "https://piratewires.com/yc-defense/"
     },
@@ -172,84 +172,84 @@
     {
       "sourceId": "tbpn",
       "title": "The TBPN deep-tech survey: 1,200 founders weigh in",
-      "summary": "A survey shows 1,200 tech founders are pivoting to defense, making military chic the latest startup trend; apparently, camouflage is the new black for venture capital.",
+      "summary": "A survey reveals 1,200 tech founders are pivoting to defense, making military chic the latest startup trend; apparently, camouflage is the new black for venture capital.",
       "date": "2026-04-29",
       "link": "https://tbpn.com/deeptech-survey-26/"
     },
     {
       "sourceId": "ussf",
       "title": "DAF updates uniform guidance for Chaplain Corps, Air Force maternity uniforms",
-      "summary": "The Air Force has updated its uniform guidance for the Chaplain Corps and maternity uniforms, proving that even military fashion has its moments.",
+      "summary": "The Department of the Air Force has issued new uniform guidance for the Chaplain Corps and maternity uniforms, proving that even military attire can have a makeover.",
       "date": "2026-06-17",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4519977/daf-updates-uniform-guidance-for-chaplain-corps-air-force-maternity-uniforms/"
     },
     {
       "sourceId": "ussf",
       "title": "Air University prepares leaders for challenges in the space domain",
-      "summary": "Air University is gearing up military leaders to tackle challenges in the space domain, where competition is heating up faster than a rocket launch.",
+      "summary": "Air University is prepping military leaders for emerging challenges in the space domain, because apparently, space is the new frontier for military operations.",
       "date": "2026-06-16",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4518983/air-university-prepares-leaders-for-challenges-in-the-space-domain/"
     },
     {
       "sourceId": "ussf",
       "title": "CMSSF tours Okinawa installations, highlights joint force integration",
-      "summary": "CMSSF toured Okinawa installations to highlight how space-enabled capabilities bolster regional readiness, reminding us that even the military needs a good view.",
+      "summary": "CMSSF toured Okinawa installations to highlight how space-enabled capabilities enhance regional readiness, reminding us that even in the Indo-Pacific, space is a team sport.",
       "date": "2026-06-15",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4517179/cmssf-tours-okinawa-installations-highlights-joint-force-integration/"
     },
     {
       "sourceId": "ussf",
       "title": "\"A Collaborative Engine\": S4 Summit unites Airmen, Guardians for space superiority",
-      "summary": "The S4 Summit brought together Airmen and Guardians to discuss space superiority, because nothing says teamwork like a room full of space nerds.",
+      "summary": "Space Launch Delta 45 hosted the S4 Mission Sustainment Summit, where USSF leaders tackled base management and logistics, because who doesn’t love a good logistics challenge?",
       "date": "2026-06-12",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4515640/a-collaborative-engine-s4-summit-unites-airmen-guardians-for-space-superiority/"
     },
     {
       "sourceId": "ussf",
       "title": "Forging the future: 2026 Guardian Arena qualifiers kick off Aug. 3",
-      "summary": "The U.S. Space Force is launching the Guardian Arena Qualifiers to test readiness, proving that even in space, competition is a serious business.",
+      "summary": "The U.S. Space Force is launching the Guardian Arena Qualifiers to test readiness and resilience, proving that even in space, competition is alive and well.",
       "date": "2026-06-11",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4514380/forging-the-future-2026-guardian-arena-qualifiers-kick-off-aug-3/"
     },
     {
       "sourceId": "dod",
       "title": "NASCAR San Diego Weekend Connects Sailors, Community for Navy 250",
-      "summary": "Naval Base Coronado hosted over 100,000 visitors during the inaugural NASCAR San Diego Weekend, showcasing the Navy's knack for community bonding through speed.",
+      "summary": "Naval Base Coronado hosted the inaugural NASCAR San Diego Weekend, connecting sailors and the community, because nothing says 'military' like a weekend of racing.",
       "date": "2026-06-22",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4522864/nascar-san-diego-weekend-connects-sailors-community-for-navy-250/"
     },
     {
       "sourceId": "dod",
       "title": "Allies Come Together in the Indo-Pacific for Exercise Valiant Shield 26",
-      "summary": "U.S. Pacific Command and allies kicked off Exercise Valiant Shield 2026 in the Indo-Pacific, because nothing says friendship like joint military exercises.",
+      "summary": "U.S. Pacific Command and allied forces kicked off Exercise Valiant Shield 2026 in the Indo-Pacific, reinforcing that joint training is the new buzzword for military effectiveness.",
       "date": "2026-06-22",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4522795/allies-come-together-in-the-indo-pacific-for-exercise-valiant-shield-26/"
     },
     {
       "sourceId": "dod",
       "title": "Ceremony Brings New Name, Transformation to 7th Infantry Division",
-      "summary": "The 7th Infantry Division has been rebranded to integrate a variety of military capabilities, finally giving the Army a name that sounds like a video game.",
+      "summary": "The 7th Infantry Division has been transformed into a theater-enabling command to integrate various warfare domains, because why limit yourself to just one battlefield?",
       "date": "2026-06-22",
       "link": "https://www.army.mil/article-amp/293387/7th_id_conducts_redesignation_ceremony"
     },
     {
       "sourceId": "dod",
       "title": "Trump, Hegseth Praise New Medal of Honor Recipients",
-      "summary": "President Trump and Secretary Hegseth honored three servicemen with the Medal of Honor, reminding us that heroism still gets a standing ovation.",
+      "summary": "President Trump and Secretary Hegseth praised three servicemen awarded the Medal of Honor, proving that valor still gets a standing ovation.",
       "date": "2026-06-19",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4522219/trump-hegseth-praise-new-medal-of-honor-recipients/"
     },
     {
       "sourceId": "dod",
       "title": "War Department Review to Ensure 'NATO 3.0' Becomes Europe-Led Defense Alliance",
-      "summary": "The War Department is reviewing its European posture to ensure NATO evolves into a Europe-led defense alliance, because who doesn't love a good rebranding?",
+      "summary": "The War Department is reviewing its European posture to ensure 'NATO 3.0' becomes a Europe-led defense alliance, because who doesn’t love a good restructuring?",
       "date": "2026-06-18",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4521330/war-department-review-to-ensure-nato-30-becomes-europe-led-defense-alliance/"
     },
     {
       "sourceId": "viasat",
       "title": "Quantum Space to Demonstrate Orbital Refueling Under Pentagon Contract",
-      "summary": "Quantum Space will demonstrate orbital refueling under a Pentagon contract, proving that even in space, refueling is still a necessary hassle.",
+      "summary": "Quantum Space will demonstrate orbital refueling under a Pentagon contract, because even in space, you can't run on empty.",
       "date": "2026-06-18",
       "link": "https://www.satellitetoday.com/government-military/2026/06/18/quantum-space-to-demonstrate-orbital-refueling-under-pentagon-contract/"
     },
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "Dark energy is still accelerating the expansion of the universe, and astronomers are relieved. 'Thankfully, we have averted this crisis'",
+      "summary": "The expansion of the universe is still accelerating under the influence of dark energy, despite recent claims to the contrary averting a cosmological crisis, according to new research.",
+      "date": "2026-06-22",
+      "link": "https://www.space.com/astronomy/dark-universe/dark-energy-is-still-accelerating-the-expansion-of-the-universe-and-astronomers-are-relieved-thankfully-we-have-averted-this-crisis"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "'Control Resonant' takes inspiration from 'Devil May Cry', 'Neon Genesis Evangelion', and 'Inception' to craft a trippy sci-fi action game",
       "summary": "The more things change, the more things stay the same.",
       "date": "2026-06-22",
@@ -310,13 +317,6 @@
       "link": "https://www.space.com/astronomy/stars/the-dying-sun-will-go-out-kicking-before-leaving-behind-a-white-dwarf-dead-star"
     },
     {
-      "sourceId": "spacecom",
-      "title": "James Webb Space Telescope captures the star-forming clouds of Orion A in stunning detail | Space photo of the day for June 22, 2026",
-      "summary": "The Orion A region has never looked as colorful and vibrant.",
-      "date": "2026-06-22",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-captures-the-star-forming-clouds-of-orion-a-in-stunning-detail-space-photo-of-the-day-for-june-22-2026"
-    },
-    {
       "sourceId": "rspace",
       "title": "What if the data capturing device is changed?",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have recently learnt bout the dip in the star&#39;s light when something passes in front of it and thought if we change the angle from which we see it....won&#39;t it help?",
@@ -340,121 +340,121 @@
     {
       "sourceId": "rspace",
       "title": "For those who are interested, here are a couple launch news websites",
-      "summary": "Next Spaceflight and Spaceflight Now are tracking upcoming launches, which is great if you enjoy planning your existential crises around rocket schedules.",
+      "summary": "Next Spaceflight and Spaceflight Now are now the go-to sites for tracking upcoming and past launches, which is great if you enjoy watching rockets go up and down without the thrill of actually being there.",
       "date": "2026-06-22",
       "link": "https://www.reddit.com/r/space/comments/1ucl9bq/for_those_who_are_interested_here_are_a_couple/"
     },
     {
       "sourceId": "rspace",
       "title": "Earth May Escape the Sun's Final Expansion, New Research Suggests - ARGO.net Science",
-      "summary": "New research suggests Earth might escape the Sun's final expansion, which is good news for anyone who prefers their planet intact.",
+      "summary": "New research suggests Earth might escape the Sun's final expansion, which is a relief unless you were planning to catch some rays on Mercury.",
       "date": "2026-06-22",
       "link": "https://www.reddit.com/r/space/comments/1uce0sv/earth_may_escape_the_suns_final_expansion_new/"
     },
     {
       "sourceId": "nga",
       "title": "NGA opens commercial GEOINT broker contract to small business pool",
-      "summary": "The NGA has opened its GEOINT broker contract to small businesses, turning intelligence procurement into a high-stakes version of 'Shark Tank'—minus the snacks.",
+      "summary": "The NGA has opened its GEOINT broker contract to small businesses, turning intelligence procurement into a high-stakes version of 'Shark Tank'—minus the snacks and the dramatic music.",
       "date": "2026-05-04",
       "link": "https://www.nga.mil/news/commercial-geoint-broker-2026/"
     },
     {
       "sourceId": "nga",
       "title": "Director's address at GEOINT 2026: 'data is no longer the bottleneck'",
-      "summary": "NGA's director claims data is no longer the bottleneck, which is comforting until you remember that humans excel at creating new bottlenecks.",
+      "summary": "The NGA's director claims data is no longer the bottleneck, which is reassuring until you remember that humans are remarkably good at creating new ones.",
       "date": "2026-05-03",
       "link": "https://www.nga.mil/news/director-address-geoint26/"
     },
     {
       "sourceId": "nga",
       "title": "NGA signals shift toward AI-native analyst workflows",
-      "summary": "The NGA is shifting to AI-native analyst workflows, making traditional methods feel as outdated as a flip phone in 2023—nostalgia is overrated when you can't call anyone.",
+      "summary": "The NGA is moving to AI-native analyst workflows, making traditional methods feel as outdated as a flip phone—nostalgia is nice until you realize you can't call anyone.",
       "date": "2026-05-02",
       "link": "https://www.nga.mil/news/ai-native-rfi/"
     },
     {
       "sourceId": "nga",
       "title": "Joint NGA-NRO foundation data initiative passes pilot phase",
-      "summary": "The Joint NGA-NRO data initiative has passed its pilot phase, proving that even the most secretive agencies can collaborate when there's tech involved.",
+      "summary": "The Joint NGA-NRO data initiative has passed its pilot phase, proving that even the most secretive agencies can play nice when tech is involved.",
       "date": "2026-04-30",
       "link": "https://www.nga.mil/news/foundation-data-pilot/"
     },
     {
       "sourceId": "nga",
       "title": "Open-source intelligence integration framework released to public",
-      "summary": "An open-source intelligence integration framework has been released, which is thrilling if you enjoy deciphering bureaucratic jargon rather than actual intelligence.",
+      "summary": "An open-source intelligence integration framework has been released, which is thrilling if you find bureaucratic jargon more exciting than actual intelligence.",
       "date": "2026-04-28",
       "link": "https://www.nga.mil/news/osint-framework-release/"
     },
     {
       "sourceId": "tnw-deeptech",
+      "title": "Nearly 7,000 fake Amazon domains registered ahead of Prime Day 2026, researchers warn",
+      "summary": "Researchers warn that nearly 7,000 fake Amazon domains have been registered ahead of Prime Day 2026, which is a reminder that not all deals are created equal.",
+      "date": "2026-06-22",
+      "link": "https://thenextweb.com/news/amazon-prime-day-2026-scam-domains-check-point-phishing"
+    },
+    {
+      "sourceId": "tnw-deeptech",
       "title": "The AI memory crisis just hit DDR2, a standard from 2003, with 60% price hikes",
-      "summary": "The AI memory crisis has hit DDR2, with prices soaring 55 to 60 percent, proving that even ancient tech can feel the pinch when AI is in the mix.",
+      "summary": "The AI memory crisis has hit DDR2, with prices skyrocketing by 55 to 60 percent, proving that even nostalgia has a price tag in the tech world.",
       "date": "2026-06-22",
       "link": "https://thenextweb.com/news/ddr2-memory-prices-surge-ai-shortage-legacy-dram"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "A Kazakh fund-of-funds just made its first public venture bet on Central Asia’s startup boom",
-      "summary": "Kazakhstan’s Alem Capital Management has made its first public venture bet on Central Asia’s startup boom, marking a cautious step into the region's tech scene.",
+      "summary": "Kazakhstan’s Alem Capital Management has made its first public venture bet on Central Asia’s startup boom, which is a bold move for a region that’s still figuring out its tech identity.",
       "date": "2026-06-22",
       "link": "https://thenextweb.com/news/kazakhstan-alem-capital-sturgeon-central-asia-venture-fund"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "Robinhood is raising $2 billion in zero-coupon convertible bonds to buy back stock",
-      "summary": "Robinhood is raising $2 billion through zero-coupon convertible bonds, betting investors will prefer future equity upside over present interest—sounds like a risky game.",
+      "summary": "Robinhood is raising $2 billion in zero-coupon convertible bonds to buy back stock, joining a trend that suggests investors are willing to trade interest for a shot at equity.",
       "date": "2026-06-22",
       "link": "https://thenextweb.com/news/robinhood-2-billion-convertible-bond-zero-coupon-buyback"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "Instagram is coming for your living room with episodic series and live TV on Samsung",
-      "summary": "Instagram is expanding into living rooms with episodic series and live TV on Samsung, proving that even social media wants a seat on your couch.",
+      "summary": "Instagram is expanding to Samsung smart TVs, which means your living room is about to get a lot more social—whether you like it or not.",
       "date": "2026-06-22",
       "link": "https://thenextweb.com/news/instagram-tv-app-samsung-episodic-series-live-streaming"
     },
     {
-      "sourceId": "tnw-deeptech",
-      "title": "Lucid Motors cuts 18% of workforce as new CEO dismantles second production shift",
-      "summary": "Lucid Motors is cutting 18% of its workforce, just four months after a previous layoff, suggesting that the road to electric dreams is paved with job cuts.",
+      "sourceId": "nasa",
+      "title": "NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation",
+      "summary": "NASA's Experimental Fabrication Branch is turning engineering ideas into actual hardware for aircraft research, proving that even in aerospace, prototypes are just fancy paperweights without a little elbow grease.",
       "date": "2026-06-22",
-      "link": "https://thenextweb.com/news/lucid-motors-layoffs-18-percent-napoli-cosmos-suv"
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA’s Chandra Finds Possible Supernova Remnant",
-      "summary": "NASA’s Chandra X-ray Observatory may have spotted a supernova remnant in the Milky Way, proving that even cosmic explosions can have a neighborhood watch program.",
+      "summary": "NASA's Chandra X-ray Observatory may have spotted a supernova remnant in the Milky Way, reminding us that even in the vastness of space, things still blow up spectacularly.",
       "date": "2026-06-22",
       "link": "https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA to Cover US Spacewalk 95, Host Preview News Conference",
-      "summary": "NASA astronauts are set to replace a wrist joint on the ISS's Canadarm2 during a spacewalk, which sounds like a very expensive maintenance job.",
+      "summary": "NASA astronauts are set for a spacewalk to replace a wrist joint on the ISS's Canadarm2, because even robots need a little maintenance when they get too 'hands-on'.",
       "date": "2026-06-22",
       "link": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS",
-      "summary": "NASA’s James Webb Space Telescope has analyzed interstellar comet 3I/ATLAS, revealing clues about its ancient origins as it retreats from the Sun.",
+      "summary": "NASA's Webb Telescope has gathered data on interstellar comet 3I/ATLAS as it drifts away from the Sun, proving that even in space, some things just can't let go.",
       "date": "2026-06-22",
       "link": "https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/"
     },
     {
       "sourceId": "nasa",
       "title": "Signs of Thaw in the Bering Sea",
-      "summary": "Signs of melting sea ice in the Bering Sea suggest summer is on its way, much to the delight of local wildlife and the dismay of climate scientists.",
+      "summary": "Signs of thawing sea ice in the Bering Sea suggest summer is on the way, which is just nature's way of reminding us that seasons change, even if climate debates don't.",
       "date": "2026-06-22",
       "link": "https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Tropical Storm Arthur",
-      "summary": "Tropical Storm Arthur has kicked off the 2026 Atlantic hurricane season with heavy rains and flash flood warnings for the Gulf Coast.",
-      "date": "2026-06-19",
-      "link": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/"
     }
   ]
 }

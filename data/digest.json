@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is seeing a mix of strategic acquisitions and funding rounds, while geopolitical dynamics continue to shift. As nations and companies jockey for position, the implications for market share and technological advancements are becoming increasingly pronounced.",
+  "summary": "The space industry is witnessing a mix of geopolitical maneuvering and corporate consolidation, with China making strides in Africa's space sector and various companies securing funding to expand their operations. Meanwhile, the U.S. continues to grapple with its own budgetary commitments and the implications of emerging technologies.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Geopolitical Space Stakes",
-      "body": "With America potentially ceding ground in Africa's space sector to China, the strategic landscape is shifting. This raises questions about the long-term implications for U.S. influence in global space initiatives."
+      "title": "Geopolitical Space Race",
+      "body": "China's recent activities in space, including a spaceplane releasing objects into orbit, suggest a growing assertiveness in the sector. Meanwhile, the U.S. risks losing influence in Africa's burgeoning space industry, a development that merits closer scrutiny."
     },
     {
       "icon": "◉",
-      "title": "Funding and Growth Strategies",
-      "body": "Astroscale's recent funding round signals confidence in the growth of space debris management, while Astrobotic's sale to Voyager highlights the ongoing consolidation trend in the sector. Both moves suggest that companies are positioning themselves for a more competitive future."
+      "title": "Funding Frenzy",
+      "body": "Astroscale and True Anomaly have recently secured significant funding to bolster their growth strategies, signaling investor confidence in the space sector's potential. This influx of capital may further accelerate innovation and competition among emerging players."
     },
     {
       "icon": "▲",
       "title": "Defense Tech Developments",
-      "body": "The FY27 budget markup's $1.4B boost for space resilience underscores the increasing prioritization of defense-related space initiatives. Meanwhile, partnerships like Anduril and L3Harris on tactical SDA constellations indicate a shift toward collaborative defense solutions."
+      "body": "The U.S. defense budget is seeing a notable increase in funding for space resilience, with an additional $1.4 billion earmarked for FY27. This reflects a growing recognition of the strategic importance of space in national security."
     },
     {
       "icon": "◆",
-      "title": "Emerging Market Players",
-      "body": "India's Jio unveiling a sovereign LEO constellation plan ahead of its IPO indicates an ambitious push into the satellite market. Similarly, MDA Space's acquisition of Blue Canyon Technologies aims to solidify its presence in the competitive U.S. landscape."
+      "title": "Corporate Consolidation Trends",
+      "body": "Astrobotic's sale to Voyager and private equity interest in Exolaunch highlight a trend toward consolidation in the space industry. As companies seek to scale up, we may see more partnerships and acquisitions shaping the competitive landscape."
     }
   ],
-  "updated": "2026-06-22 17:42 UTC"
+  "updated": "2026-06-22 18:10 UTC"
 }
