@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-21",
-  "issue": "No. 61",
-  "headline": "Mergers happen. IPOs loom. Funding flows.",
-  "deck": "This week features notable acquisitions and funding rounds as companies position themselves for growth.",
+  "updated": "2026-06-22",
+  "issue": "No. 62",
+  "headline": "Funding flows. Geopolitics loom. Partnerships deepen.",
+  "deck": "This week highlights shifting financial tides and strategic moves in space.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "ACQUISITION",
-      "head": "Astrobotic's quick fix for lunar ambitions",
-      "body": "Astrobotic has been acquired by Voyager Technologies, a move aimed at scaling up for NASA’s lunar base initiative. The details of the deal remain undisclosed, but it suggests that sometimes a corporate merger is a stopgap for growth rather than a strategic overhaul. With NASA's Artemis program ramping up, Astrobotic's ability to deliver payloads could be a game changer.",
-      "soWhat": "If mergers were actually effective strategies, we’d see fewer companies scrambling for funding."
-    },
-    {
-      "kicker": "IPO",
-      "head": "Jio's LEO plans raise eyebrows ahead of IPO",
-      "body": "Jio Platforms is gearing up for an IPO while unveiling plans for a sovereign LEO constellation. This ambitious project is set against the backdrop of notoriously unpredictable satellite launches, which might make investors a bit queasy. The IPO is expected to attract significant attention, but the execution risk could be a deal-breaker.",
-      "soWhat": "Investors love the shiny new tech, but they might want to check the launch schedule first."
-    },
-    {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190 million in Series C funding, bringing its valuation to $1.6 billion. This round underscores the growing demand for co-orbital security and space domain awareness as defense priorities shift. With the DoD's increasing focus on space, True Anomaly is well-positioned to capitalize on this trend.",
-      "soWhat": "In space, cash often trumps actual innovation, and this funding round is proof."
+      "head": "True Anomaly secures $190M for co-orbital security",
+      "body": "True Anomaly raised $190 million in a Series C round, focusing on co-orbital security and space domain awareness. With the DoD’s increasing interest in these capabilities, True Anomaly is positioning itself as a key player in a market that's becoming more crowded by the day. This funding comes as the company gears up to meet growing demand from government contracts.",
+      "soWhat": "In a landscape where cash is king, True Anomaly's ability to attract significant investment suggests that the defense sector is finally taking space security seriously."
+    },
+    {
+      "kicker": "ACQUISITION",
+      "head": "MDA Space buys Blue Canyon for $620M",
+      "body": "MDA Space is acquiring Blue Canyon Technologies for $620 million, aiming to strengthen its foothold in the U.S. government market. This deal indicates MDA's ambition to diversify its offerings and enhance its competitiveness in the burgeoning small satellite sector, particularly for defense applications. The acquisition is expected to close by early next year.",
+      "soWhat": "MDA's move underscores the increasing importance of small satellite capabilities in defense, as the U.S. government looks for innovative solutions to complex challenges."
+    },
+    {
+      "kicker": "STRATEGY",
+      "head": "Astrobotic’s sale to Voyager aims for lunar scale-up",
+      "body": "Astrobotic's planned sale to Voyager is set to accelerate its lunar ambitions, allowing it to meet NASA's demands for lunar landers. The financial details remain under wraps, but the move signals Astrobotic's transition from tech demos to operational missions. This shift is crucial as competition for lunar contracts intensifies.",
+      "soWhat": "Astrobotic’s pivot could be a bellwether for how quickly companies can adapt to the shifting priorities of government contracts, especially in the lunar domain."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for Jio's IPO pricing next week",
-      "body": "Jio's IPO could set a precedent for other space-focused companies looking to go public."
+      "title": "Keep an eye on Jio's LEO plans",
+      "body": "Jio Platforms' ambitions for a sovereign LEO constellation could reshape India's satellite internet landscape and challenge existing players."
     },
     {
-      "title": "Northrop Grumman's solid rocket production plans",
-      "body": "If the industry can deliver on solid rocket production, we might see a shift in launch dynamics."
+      "title": "Follow developments with Anduril and L3Harris",
+      "body": "Their collaboration on a tactical SDA constellation could signal a new wave of defense partnerships aimed at enhancing space capabilities."
     },
     {
-      "title": "ElevationSpace's next moves post-funding",
-      "body": "With $63.5 million raised, how ElevationSpace pivots could signal trends in satellite technology."
+      "title": "Watch for Palantir's TITAN program extension",
+      "body": "Palantir's $480 million extension indicates strong government reliance on its technology, which might influence future procurement strategies."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "The $480 million extension might indicate long-term government commitments to data infrastructure."
+      "title": "Monitor the hypersonic glide-vehicle tests",
+      "body": "Continued delays in hypersonic testing could impact defense timelines and funding priorities as the U.S. seeks to maintain its technological edge."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "ASTS",
-      "note": "The bull case for ASTS is illustrated through 11 charts, highlighting execution risks."
+      "sym": "ASTR",
+      "note": "Astranis raised $250M for microGEO production, indicating strong investor confidence in satellite communications."
     },
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as it struggles to find a consistent launch schedule."
+      "sym": "MDA",
+      "note": "MDA's acquisition of Blue Canyon for $620M highlights its strategy to penetrate deeper into the U.S. defense market."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir’s $480 million extension on the TITAN program shows that government contracts are still a reliable revenue stream."
+      "sym": "TRUE",
+      "note": "True Anomaly's $190M Series C reflects the growing importance of co-orbital security in defense funding."
     },
     {
-      "sym": "NOC",
-      "note": "Northrop Grumman's claims about solid rocket production readiness may face scrutiny if demand doesn't materialize."
+      "sym": "PAL",
+      "note": "Palantir's $480M contract extension on the TITAN program shows the government’s ongoing commitment to its ground station capabilities."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
