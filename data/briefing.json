@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-23",
   "issue": "No. 63",
-  "headline": "AI tests. Reusable rockets. Defense budgets grow.",
-  "deck": "This week, space companies embrace AI while funding flows into defense tech.",
+  "headline": "Funding flows. Partnerships form. AI watches.",
+  "deck": "This week highlights significant funding rounds and partnerships in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "AI",
-      "head": "Loft Orbital partners with NASA for AI tests",
-      "body": "Loft Orbital is teaming up with NASA’s Jet Propulsion Laboratory to test AI models on its spacecraft, aimed at enhancing Earth observation capabilities. The collaboration underscores a growing trend where satellites are increasingly relying on artificial intelligence to process data more efficiently. Expect more companies to follow suit as the data deluge continues.",
-      "soWhat": "If satellites start thinking for themselves, the entire data analytics game might shift from mere collection to real-time insights."
-    },
-    {
-      "kicker": "DEFENSE",
-      "head": "Palantir secures $480M extension on TITAN program",
-      "body": "Palantir has landed a $480 million extension for its TITAN ground station program, a significant boost that reflects the U.S. government's ongoing commitment to enhancing its data processing capabilities. This extension is part of a broader trend of defense contracts favoring firms that can deliver robust analytics solutions under tight timelines.",
-      "soWhat": "In government contracts, it seems that being slow and steady is just as winning as being fast and flashy."
-    },
-    {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly has successfully raised $190 million in a Series C funding round, pushing its valuation to $1.6 billion. This funding will bolster its efforts in co-orbital security and space domain awareness, areas that are becoming increasingly vital as geopolitical tensions rise. The company is positioning itself well in a market that is seeing heightened demand for security solutions.",
-      "soWhat": "When co-orbital threats are on the rise, investors are betting that security in space will be the next gold rush."
+      "body": "True Anomaly has secured a $190 million Series C funding round aimed at enhancing co-orbital security and space domain awareness. The investment underscores the Department of Defense's increasing focus on advanced technologies to protect national interests in orbit. With a valuation now at $1.6 billion, True Anomaly is positioning itself as a key player in the defense space.",
+      "soWhat": "This funding is a clear signal that the DoD is serious about co-orbital threats, and True Anomaly is riding the wave of urgency."
+    },
+    {
+      "kicker": "PARTNERSHIP",
+      "head": "Sierra Space's Dream Chaser variant clears design review",
+      "body": "Sierra Space's Dream Chaser variant for the Department of Defense has successfully passed its critical design review, paving the way for future development. This vehicle aims to provide flexible cargo and crew transport capabilities, which could be vital for military logistics. The real challenge will be ensuring that it meets the ambitious timelines set by the DoD.",
+      "soWhat": "If Sierra can deliver on time, it may just set the standard for future military space transport, but that's a big 'if' in this industry."
+    },
+    {
+      "kicker": "TECH",
+      "head": "Loft Orbital partners with NASA for AI Earth observation",
+      "body": "Loft Orbital is collaborating with NASA's Jet Propulsion Laboratory to test AI models on spacecraft for Earth observation. This partnership aims to enhance the efficiency of data collection and analysis, potentially reducing the need for human oversight. The financial terms of the deal remain undisclosed, but the implications for automated surveillance are substantial.",
+      "soWhat": "This is yet another example of how AI is being positioned as a substitute for human expertise, which might not be a comforting thought for those in the field."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for Loft Orbital's AI results",
-      "body": "The outcomes of Loft Orbital's AI tests could redefine how Earth observation data is processed and utilized."
+      "title": "Keep an eye on Anduril and L3Harris",
+      "body": "Their tactical SDA constellation bid could reshape defense space capabilities."
     },
     {
-      "title": "Sierra Space's Dream Chaser launch timeline",
-      "body": "With the Dream Chaser DoD variant clearing its critical design review, the next steps will be crucial for its future."
+      "title": "Watch for updates on the FY27 budget",
+      "body": "The $1.4 billion boost for space resilience could lead to more lucrative contracts."
     },
     {
-      "title": "Implications of China's reusable rockets",
-      "body": "China's development of larger reusable rockets could shift the balance of power in space launch capabilities."
+      "title": "Sierra Space's next steps post-design review",
+      "body": "Success in the next phases could position them as a leader in military transport."
     },
     {
-      "title": "Follow the defense-tech IPO trend",
-      "body": "With the defense-tech IPO window opening, expect a flurry of activity as companies seek to capitalize on military contracts."
+      "title": "True Anomaly's future contracts",
+      "body": "With new funding, they might secure more DoD contracts focused on co-orbital threats."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains volatile amid ongoing flight delays."
+    },
+    {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension shows government loyalty pays off."
+      "note": "Palantir's $480 million extension on the TITAN program shows government confidence in their tech."
     },
     {
-      "sym": "TRUA",
-      "note": "True Anomaly's $190M raise signals investor confidence in space security."
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's recent charts suggest a precarious balance in their execution strategy."
     },
     {
-      "sym": "ASTR",
-      "note": "Astranis's $250M funding will ramp up its microGEO satellite production."
-    },
-    {
-      "sym": "STKE",
-      "note": "Stoke Space's $260M Series C aims to scale its reusable launch capabilities."
+      "sym": "AAPL",
+      "note": "Apple's recruitment of satellite engineers hints at a potential move into space tech."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

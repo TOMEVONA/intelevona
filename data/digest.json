@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space sector continues to stir, with AI models being tested for Earth observation and new partnerships forming around satellite intelligence. Meanwhile, the U.S. grapples with its response framework for hostile actions in space, while budget allocations hint at a growing focus on resilience.",
+  "summary": "The space industry is buzzing with activity as companies pivot towards AI and on-orbit computing, while nations like China ramp up their rocket development. Meanwhile, the U.S. grapples with the need for a coherent response strategy to potential threats in space.",
   "themes": [
     {
       "icon": "▣",
-      "title": "AI Takes to the Skies",
-      "body": "Loft Orbital's foray into AI for Earth observation could signal a shift in how data is collected and analyzed from space. As AI becomes more integral, expect a wave of startups to emerge, eager to capitalize on this trend."
-    },
-    {
-      "icon": "▲",
-      "title": "Partnerships in Space Intelligence",
-      "body": "Satellogic's collaboration with SynMax to develop services around the Merlin constellation highlights a growing trend of public-private partnerships in satellite intelligence. Such alliances may redefine the competitive landscape, as companies leverage shared resources and expertise."
-    },
-    {
-      "icon": "◆",
-      "title": "Space Resilience Funding Grows",
-      "body": "The recent $1.4 billion boost to the space resilience line in the FY27 budget reflects a heightened awareness of vulnerabilities in the space domain. This funding increase may fuel innovations in defense technologies, as companies seek to address emerging threats."
+      "title": "AI in Earth Observation",
+      "body": "Loft Orbital's upcoming tests of AI models on spacecraft signal a shift towards more intelligent data processing in Earth observation. This could enhance the speed and accuracy of satellite data analysis, making it more valuable for various applications."
     },
     {
       "icon": "◉",
-      "title": "Rocket Development on the Rise",
-      "body": "China's apparent development of 7-meter-diameter reusable rockets signals an ambitious push in their space capabilities. This move could intensify competition in the launch market, as nations and private companies alike scramble to keep pace."
+      "title": "Resilience Funding Boost",
+      "body": "The recent $1.4 billion addition to the FY27 budget for space resilience reflects a growing recognition of the need to fortify U.S. capabilities in the face of emerging threats. This funding could catalyze innovations in satellite technology and defensive measures."
+    },
+    {
+      "icon": "▲",
+      "title": "International Rocket Developments",
+      "body": "China's apparent progress on 7-meter-diameter reusable rockets adds another layer of complexity to the global space race. As nations ramp up their capabilities, the balance of power in space is likely to shift, prompting strategic recalibrations."
+    },
+    {
+      "icon": "◆",
+      "title": "Defense-Tech IPOs on the Horizon",
+      "body": "The potential opening of the defense-tech IPO window suggests that investors are increasingly interested in the intersection of technology and national security. This could lead to a wave of new entrants in the space sector, reshaping the competitive landscape."
     }
   ],
-  "updated": "2026-06-23 15:55 UTC"
+  "updated": "2026-06-23 16:24 UTC"
 }

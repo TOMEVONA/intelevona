@@ -1,40 +1,40 @@
 {
-  "updated": "2026-06-23T15:55:07.626Z",
+  "updated": "2026-06-23T16:24:56.443Z",
   "articles": [
     {
       "sourceId": "spacenews",
+      "title": "Sophia selects Apex bus for on-orbit computing demonstration",
+      "summary": "Sophia Space has chosen an Apex bus for its first orbital computing demonstration, proving that even in space, you need a good ride to get your tech off the ground.",
+      "date": "2026-06-23",
+      "link": "https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/"
+    },
+    {
+      "sourceId": "spacenews",
       "title": "Loft Orbital to test AI models on spacecraft for Earth observation",
-      "summary": "Loft Orbital is set to test AI models on spacecraft in collaboration with NASA’s Jet Propulsion Laboratory for Earth observation, proving that even satellites need a little artificial intelligence to keep up with the times.",
+      "summary": "Loft Orbital is collaborating with NASA's JPL to test AI models on spacecraft for Earth observation, because who needs humans when you can have robots doing the watching?",
       "date": "2026-06-23",
       "link": "https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/"
     },
     {
       "sourceId": "spacenews",
       "title": "Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation",
-      "summary": "Satellogic has partnered with SynMax to develop intelligence services for its upcoming Merlin constellation, as defense agencies seem to prefer a subscription model over one-off imagery purchases.",
+      "summary": "Satellogic is partnering with SynMax to create intelligence services for its upcoming Merlin constellation, highlighting that surveillance is the new black in defense.",
       "date": "2026-06-23",
       "link": "https://spacenews.com/satellogic-partners-with-synmax-to-build-intelligence-services-around-upcoming-merlin-constellation/"
     },
     {
       "sourceId": "spacenews",
       "title": "China appears to be developing 7-meter-diameter reusable rockets",
-      "summary": "China's apparent development of 7-meter-diameter reusable rockets is hinted at through state-funded tenders and tooling, suggesting that their space ambitions are getting bigger—literally.",
+      "summary": "China seems to be developing 7-meter-diameter reusable rockets, which might just be their way of saying, 'We can do bigger and better, thank you very much.'",
       "date": "2026-06-23",
       "link": "https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/"
     },
     {
       "sourceId": "spacenews",
       "title": "Report: U.S. needs framework for responding to hostile acts in space",
-      "summary": "A report highlights the U.S. need for a framework to respond to hostile acts in space, as the line between competition and conflict grows blurrier with China's expanding counterspace capabilities.",
+      "summary": "A report suggests the U.S. needs a framework for responding to hostile acts in space, as if figuring out the rules of space poker is somehow easier than the terrestrial version.",
       "date": "2026-06-23",
       "link": "https://spacenews.com/report-u-s-needs-framework-for-responding-to-hostile-acts-in-space/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "NASA and Boeing still uncertain about when Starliner will return to flight",
-      "summary": "NASA and Boeing remain uncertain about the Starliner's return to flight, with safety advisers estimating it could take up to a year, proving that space travel is still more about patience than precision.",
-      "date": "2026-06-23",
-      "link": "https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/"
     },
     {
       "sourceId": "tectonic",
@@ -172,182 +172,182 @@
     {
       "sourceId": "tbpn",
       "title": "The TBPN deep-tech survey: 1,200 founders weigh in",
-      "summary": "A survey shows 1,200 tech founders are pivoting to defense, suggesting military chic is the latest startup trend; perhaps venture capitalists are just tired of the same old black turtlenecks.",
+      "summary": "A survey reveals that 1,200 tech founders are pivoting to defense, indicating military chic is the new black; perhaps they think camo is the next big thing in Silicon Valley.",
       "date": "2026-04-29",
       "link": "https://tbpn.com/deeptech-survey-26/"
     },
     {
       "sourceId": "ussf",
       "title": "DAF updates uniform guidance for Chaplain Corps, Air Force maternity uniforms",
-      "summary": "The Air Force has updated its uniform guidance for the Chaplain Corps and maternity uniforms, proving that even military fashion has its moments of modernization.",
+      "summary": "The Department of the Air Force has updated uniform guidance for Chaplain Corps and maternity uniforms, proving that even military attire can have a makeover.",
       "date": "2026-06-17",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4519977/daf-updates-uniform-guidance-for-chaplain-corps-air-force-maternity-uniforms/"
     },
     {
       "sourceId": "ussf",
       "title": "Air University prepares leaders for challenges in the space domain",
-      "summary": "Air University is prepping military leaders for the space domain's challenges, where the competition is as fierce as the tech is advanced, and no one wants to be left behind.",
+      "summary": "Air University is gearing up military leaders to tackle emerging challenges in space, which is a nice way of saying they’re preparing for a cosmic game of catch-up.",
       "date": "2026-06-16",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4518983/air-university-prepares-leaders-for-challenges-in-the-space-domain/"
     },
     {
       "sourceId": "ussf",
       "title": "CMSSF tours Okinawa installations, highlights joint force integration",
-      "summary": "CMSSF toured Okinawa installations to emphasize joint force integration, showcasing how space-enabled capabilities are the new must-have for regional readiness.",
+      "summary": "The CMSSF's tour of Okinawa installations highlighted how space-enabled capabilities bolster regional readiness, reminding us that even the Indo-Pacific needs a tech upgrade.",
       "date": "2026-06-15",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4517179/cmssf-tours-okinawa-installations-highlights-joint-force-integration/"
     },
     {
       "sourceId": "ussf",
       "title": "\"A Collaborative Engine\": S4 Summit unites Airmen, Guardians for space superiority",
-      "summary": "The S4 Mission Sustainment Summit brought together Airmen and Guardians to tackle base management and logistics, proving that even in space, teamwork makes the dream work.",
+      "summary": "The S4 Summit brought together Airmen and Guardians to discuss space superiority, which sounds like a fancy way to say they’re trying to figure out who gets to control the cosmic playground.",
       "date": "2026-06-12",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4515640/a-collaborative-engine-s4-summit-unites-airmen-guardians-for-space-superiority/"
     },
     {
       "sourceId": "ussf",
       "title": "Forging the future: 2026 Guardian Arena qualifiers kick off Aug. 3",
-      "summary": "The U.S. Space Force is launching the Guardian Arena Qualifiers to test readiness, because nothing says 'we're prepared' like a competitive event with a catchy name.",
+      "summary": "The U.S. Space Force is launching the Guardian Arena Qualifiers to test readiness, because nothing says 'prepared for space' like a good old-fashioned competition.",
       "date": "2026-06-11",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4514380/forging-the-future-2026-guardian-arena-qualifiers-kick-off-aug-3/"
     },
     {
       "sourceId": "dod",
       "title": "Hegseth: Defense and Fiscal Hawks, Unite!",
-      "summary": "Secretary of War Pete Hegseth calls for defense and fiscal hawks to unite under new guiding principles, suggesting that even in war, teamwork is essential—just with a budget.",
+      "summary": "Secretary of War Pete Hegseth calls for defense and fiscal hawks to unite under new guiding principles, which sounds suspiciously like a rallying cry for a budgetary battle.",
       "date": "2026-06-23",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4523963/hegseth-defense-and-fiscal-hawks-unite/"
     },
     {
       "sourceId": "dod",
       "title": "NASCAR San Diego Weekend Connects Sailors, Community for Navy 250",
-      "summary": "Naval Base Coronado hosted over 100,000 visitors for the inaugural NASCAR San Diego Weekend, reminding everyone that the Navy knows how to throw a party as well as defend the nation.",
+      "summary": "The inaugural NASCAR San Diego Weekend at Naval Base Coronado attracted over 100,000 visitors, proving that nothing unites people like fast cars and military camaraderie.",
       "date": "2026-06-22",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4522864/nascar-san-diego-weekend-connects-sailors-community-for-navy-250/"
     },
     {
       "sourceId": "dod",
       "title": "Allies Come Together in the Indo-Pacific for Exercise Valiant Shield 26",
-      "summary": "Exercise Valiant Shield 2026 kicked off in the Indo-Pacific with U.S. and allied forces, proving that when it comes to military training, the more the merrier.",
+      "summary": "Exercise Valiant Shield 2026 kicked off in the Indo-Pacific with joint forces training for overwhelming scenarios, because sometimes you just need to flex your military muscles.",
       "date": "2026-06-22",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4522795/allies-come-together-in-the-indo-pacific-for-exercise-valiant-shield-26/"
     },
     {
       "sourceId": "dod",
       "title": "Ceremony Brings New Name, Transformation to 7th Infantry Division",
-      "summary": "The 7th Infantry Division has been transformed into a multi-domain command, integrating various military capabilities, because why not throw everything but the kitchen sink into the mix?",
+      "summary": "The 7th Infantry Division has been transformed into a theater-enabling command, which is military speak for 'we're going to throw everything at the wall and see what sticks.'",
       "date": "2026-06-22",
       "link": "https://www.army.mil/article-amp/293387/7th_id_conducts_redesignation_ceremony"
     },
     {
       "sourceId": "dod",
       "title": "Trump, Hegseth Praise New Medal of Honor Recipients",
-      "summary": "President Trump and Secretary Hegseth praised new Medal of Honor recipients, proving that valor still gets a standing ovation, even in a divided political landscape.",
+      "summary": "President Trump and Secretary Hegseth praised new Medal of Honor recipients, reminding us that valor still gets a standing ovation, even in a polarized world.",
       "date": "2026-06-19",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4522219/trump-hegseth-praise-new-medal-of-honor-recipients/"
     },
     {
       "sourceId": "viasat",
       "title": "Rocket Lab Launches Responsive Victus Haze Mission for Space Force",
-      "summary": "Rocket Lab successfully launched the Victus Haze mission for the Space Force, demonstrating that responsive space missions are now a thing—because who doesn't love a quick launch?",
+      "summary": "Rocket Lab successfully launched a responsive mission for the Space Force, proving that when it comes to space, they’re not just shooting for the stars, but also for quick turnarounds.",
       "date": "2026-06-22",
       "link": "https://www.satellitetoday.com/government-military/2026/06/22/rocket-lab-launches-responsive-victus-haze-mission-for-space-force/"
     },
     {
       "sourceId": "viasat",
       "title": "Building a Global Framework for D2D With Skylo’s Mindel De La Torre",
-      "summary": "Over just a few years, the ability to connect everyday cell phones to satellite has gone from a milestone tech demonstration to a feature that’s deployed in millions of phones.",
+      "summary": "Skylo's Mindel De La Torre discusses the rapid deployment of satellite connectivity for cell phones, proving that even tech can go from zero to millions faster than a rocket launch.",
       "date": "2026-06-22",
       "link": "https://www.satellitetoday.com/podcast/2026/06/22/building-a-global-framework-for-d2d-with-skylos-mindel-de-la-torre/"
     },
     {
       "sourceId": "viasat",
       "title": "EchoStar Swaps SATS Ticker for ECHO to Emphasize Business Shift",
-      "summary": "EchoStar is changing its stock ticker from “SATS” to “ECHO” to emphasize the company’s shift into a global connectivity business. EchoStar announced the move on June 22. Starting June 24,",
+      "summary": "EchoStar is rebranding its stock ticker from 'SATS' to 'ECHO' to reflect its pivot to global connectivity, because nothing says 'we're serious' like a new ticker symbol.",
       "date": "2026-06-22",
       "link": "https://www.satellitetoday.com/finance/2026/06/22/echostar-swaps-sats-ticker-for-echo-to-emphasize-business-shift/"
     },
     {
       "sourceId": "viasat",
       "title": "Jio Evaluates a Sovereign LEO Constellation for India",
-      "summary": "India’s largest telecom operator Jio Platforms is evaluating launching a sovereign Low-Earth Orbit (LEO) constellation for India. The company described a “dual approach” to satellite broadband, considering its own constellation",
+      "summary": "Jio Platforms is considering a sovereign LEO satellite constellation for India, which is a bold move considering the last time India launched something, it was a spacecraft to Mars.",
       "date": "2026-06-22",
       "link": "https://www.satellitetoday.com/connectivity/2026/06/22/jio-evaluates-a-sovereign-leo-constellation-for-india/"
     },
     {
       "sourceId": "viasat",
       "title": "MDA Space to Acquire Blue Canyon from Raytheon to Reach US Defense Market",
-      "summary": "MDA Space is acquiring spacecraft manufacturer Blue Canyon Technologies from Raytheon to give the company a direct position in the U.S. defense market. The acquisition will give the Canadian space",
+      "summary": "MDA Space is buying Blue Canyon from Raytheon to gain a foothold in the U.S. defense market, proving that in space, sometimes it's all about who you know.",
       "date": "2026-06-22",
       "link": "https://www.satellitetoday.com/manufacturing/2026/06/22/mda-space-to-acquire-blue-canyon-from-raytheon-to-reach-us-defense-market/"
     },
     {
       "sourceId": "spacecom",
+      "title": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health'",
+      "summary": "NASA's plan to deorbit the ISS has raised concerns about ocean health, as if dumping a giant metal structure into the ocean is just another Tuesday.",
+      "date": "2026-06-23",
+      "link": "https://www.space.com/space-exploration/international-space-station/nasa-wants-to-dump-the-iss-in-the-sea-experts-say-the-plan-raises-serious-concerns-for-ocean-health"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "The Unistellar Odyssey Pro helped me feel in touch with the universe and it's now 15% off",
-      "summary": "The go-to tracking and sharp autofocus afforded by the Odyssey Pro allowed me to start taking sharp images of the deep sky. It's now available from Unistellar with 15% off.",
+      "summary": "The Unistellar Odyssey Pro telescope is now 15% off, which is a great deal for anyone wanting to feel like an amateur astronomer without the need for a PhD.",
       "date": "2026-06-23",
       "link": "https://www.space.com/stargazing/skywatching-kit/the-unistellar-odyssey-pro-helped-me-feel-in-touch-with-the-universe-and-its-now-15-percent-off"
     },
     {
       "sourceId": "spacecom",
       "title": "'Rick and Morty' cast talk vocal health, hot viscous liquids, and their favorite season 9 moments (interview)",
-      "summary": "'With all the wacky hijinks that take place, we’re in for a really amazing season and some real good science fiction.'",
+      "summary": "'Rick and Morty' cast discusses vocal health and season 9 highlights, because even animated characters need to keep their voices in check amidst the chaos.",
       "date": "2026-06-23",
       "link": "https://www.space.com/entertainment/space-movies-shows/rick-and-morty-cast-talk-vocal-health-hot-viscous-liquids-and-their-favorite-season-9-moments-interview"
     },
     {
       "sourceId": "spacecom",
       "title": "Ignite a child's imagination with the stars: Our expert-picked Astronaut Galaxy Star Projector is a Prime Day steal at just $25",
-      "summary": "After the historic Artemis 2 crew looping around the moon back in April, kids everywhere are eager to follow in their footsteps. This Astronaut star projector is the perfect way to bring the wonder of their new heroes home, and with this Prime Day deal, it’s an absolute bargain.",
+      "summary": "An Astronaut Galaxy Star Projector is being marketed as a Prime Day steal, because nothing ignites a child's imagination quite like a $25 gadget.",
       "date": "2026-06-23",
       "link": "https://www.space.com/entertainment/space-toys-lego/ignite-a-childs-imagination-with-the-stars-our-expert-picked-astronaut-galaxy-star-projector-is-a-prime-day-steal-at-just-25-dollars"
     },
     {
       "sourceId": "spacecom",
       "title": "SpaceX Dragon says goodbye to the ISS | Space photo of the day for June 23, 2026",
-      "summary": "The cargo spacecraft catches the sunlight as it departs its visit to the space station.",
+      "summary": "SpaceX's Dragon spacecraft bids farewell to the ISS, reminding us that even in space, goodbyes can be as photogenic as they are poignant.",
       "date": "2026-06-23",
       "link": "https://www.space.com/space-exploration/international-space-station/spacex-dragon-says-goodbye-to-the-iss-space-photo-of-the-day-for-june-23-2026"
     },
     {
-      "sourceId": "spacecom",
-      "title": "Searching for alien life: New model could help scientists home in on habitable exoplanets",
-      "summary": "A new exoplanet model screens rocky worlds by their ability to retain atmospheres over geologic timescales, helping narrow the search for potentially habitable planets beyond Earth.",
-      "date": "2026-06-23",
-      "link": "https://www.space.com/space-exploration/search-for-life/searching-for-alien-life-new-model-could-help-scientists-home-in-on-habitable-exoplanets"
-    },
-    {
       "sourceId": "rspace",
       "title": "SpaceX launches reentry capsule demo mission called ‘Starfall’",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vahedemirjian\"> /u/vahedemirjian </a> <br/> <span><a href=\"https://spaceflightnow.com/2026/06/23/live-coverage-spacex-to-launch-reentry-capsule-demo-mission-called-starfall/\">[link]</a></span> &#32; <span><a…",
+      "summary": "SpaceX has launched a reentry capsule demo mission called 'Starfall', which sounds more like a whimsical fairy tale than a serious aerospace endeavor.",
       "date": "2026-06-23",
       "link": "https://www.reddit.com/r/space/comments/1udim3n/spacex_launches_reentry_capsule_demo_mission/"
     },
     {
       "sourceId": "rspace",
       "title": "Will NASA’s SkyFall Mars helicopter fleet sink science at the Red Planet?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1udh9o1/will_nasas_skyfall_mars_helicopter_fleet_sink/\"> <img src=\"https://external-preview.redd.it/2oIbxoykQOV4dmSGRrb4KiLbnEWC-UuYUIgTTPjqjug.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c74226173461d56b2953…",
+      "summary": "Questions arise about NASA's SkyFall Mars helicopter fleet potentially hindering science, proving that even on Mars, bureaucracy can be a buzzkill.",
       "date": "2026-06-23",
       "link": "https://www.reddit.com/r/space/comments/1udh9o1/will_nasas_skyfall_mars_helicopter_fleet_sink/"
     },
     {
       "sourceId": "rspace",
       "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit | The purpose of Starfall is to support the “transport and delivery of goods through space.”",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1uddb4n/with_starfall_spacex_eyes_an_edge_in_global_cargo/\"> <img src=\"https://external-preview.redd.it/2Wf8zRXV9dWtOlVnh04dSUqt7m30Yfx2NuDovk3bLlw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cfe46a8d531213d6…",
+      "summary": "With 'Starfall', SpaceX aims to enhance global cargo delivery from orbit, because who wouldn't want to order a package from space?",
       "date": "2026-06-23",
       "link": "https://www.reddit.com/r/space/comments/1uddb4n/with_starfall_spacex_eyes_an_edge_in_global_cargo/"
     },
     {
       "sourceId": "rspace",
       "title": "A small thought I had about multiverse",
-      "summary": "A Reddit user muses about the multiverse, proving that even in the vastness of space, the internet remains a solid platform for idle speculation.",
+      "summary": "A Reddit user muses about the multiverse, reminding us that even in the vastness of space, some thoughts are still just a click away from oblivion.",
       "date": "2026-06-23",
       "link": "https://www.reddit.com/r/space/comments/1udb8uv/a_small_thought_i_had_about_multiverse/"
     },
     {
       "sourceId": "rspace",
       "title": "An interactive voyage through all orders of magnitude - from the smallest meaningful scales to the largest structures of the observable universe.",
-      "summary": "A new interactive project explores the vast scales of the universe, reminding us that our understanding of size is still pretty small.",
+      "summary": "A new interactive project explores the universe's scales, proving that whether you're looking at atoms or galaxies, we're all just trying to find our place in the cosmic queue.",
       "date": "2026-06-23",
       "link": "https://www.reddit.com/r/space/comments/1udahsy/an_interactive_voyage_through_all_orders_of/"
     },
@@ -388,73 +388,73 @@
     },
     {
       "sourceId": "tnw-deeptech",
+      "title": "LastPass says hackers stole customer data through a supply chain breach at Klue",
+      "summary": "LastPass is notifying customers that their personal information was stolen in a breach at Klue, proving that even the most secure vaults have their vulnerabilities.",
+      "date": "2026-06-23",
+      "link": "https://thenextweb.com/news/lastpass-klue-supply-chain-breach-customer-data-stolen"
+    },
+    {
+      "sourceId": "tnw-deeptech",
+      "title": "CryptoProcessing’s MLRO on why banking access is still crypto’s biggest challenge",
+      "summary": "Crypto firms still struggle to convince banks they're safe, highlighting that trust is the hardest currency to earn in a world of regulations.",
+      "date": "2026-06-23",
+      "link": "https://thenextweb.com/news/cryptoprocessings-mlro-on-why-banking-access-is-still-cryptos-biggest-challenge"
+    },
+    {
+      "sourceId": "tnw-deeptech",
+      "title": "HaloBraid raises $7M to build the first robotic braiding assistant for hair salons",
+      "summary": "HaloBraid raised $7M to create a robotic braiding assistant, because apparently, even hair salons need a little automation to keep up with the times.",
+      "date": "2026-06-23",
+      "link": "https://thenextweb.com/news/halobraid-7m-seed-braiding-robot-seven-seven-six"
+    },
+    {
+      "sourceId": "tnw-deeptech",
       "title": "Meta launches its own smart glasses brand at $299, breaking from the Ray-Ban name",
-      "summary": "Meta has launched smart glasses under its own brand for the first time, pricing the Adventurer and Fury models at $299 each, because who needs Ray-Ban when you have brand loyalty?",
+      "summary": "Meta has launched its own smart glasses brand at $299, proving that sometimes, the best way to break from tradition is to just rebrand the same old tech.",
       "date": "2026-06-23",
       "link": "https://thenextweb.com/news/meta-glasses-299-own-brand-smart-glasses-essilorluxottica"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "The algorithm has a nose now, and perfume is better for it",
-      "summary": "In a Dutch shop, you can walk out with a custom perfume in under an hour, proving that even fragrances can now be tailored to your personality—what a time to be alive.",
+      "summary": "In a Dutch shop, you can create a personalized perfume in under an hour, suggesting that even scents are now subject to the whims of algorithms.",
       "date": "2026-06-23",
       "link": "https://thenextweb.com/news/algorithmic-perfumery-ai-fragrance-scentronix"
     },
     {
-      "sourceId": "tnw-deeptech",
-      "title": "Claude’s latest wobble lands in a worse week",
-      "summary": "Anthropic says it has identified a fix for issues affecting multiple Claude.ai products, which is a relief unless you were hoping for a little chaos.",
+      "sourceId": "nasa",
+      "title": "This is How NASA Flight Tests New Technology",
+      "summary": "NASA continues to test new technology through flight tests, proving that even the most ambitious ideas need a little turbulence to take off; who knew safety could be so thrilling?",
       "date": "2026-06-23",
-      "link": "https://thenextweb.com/news/claude-outage-anthropic"
-    },
-    {
-      "sourceId": "tnw-deeptech",
-      "title": "Luminvera bets on immersive software for robotics",
-      "summary": "Luminvera is betting on immersive software for robotics, suggesting that the future of engineering might just involve a lot more virtual reality and a lot less actual reality.",
-      "date": "2026-06-23",
-      "link": "https://thenextweb.com/news/luminvera-bets-on-immersive-software-for-robotics"
-    },
-    {
-      "sourceId": "tnw-deeptech",
-      "title": "EU escalates its Meta probe over addictive design for kids",
-      "summary": "The European Commission is ramping up its investigation into Meta's design practices for kids, potentially leading to fines that could make them rethink their business model.",
-      "date": "2026-06-23",
-      "link": "https://thenextweb.com/news/eu-meta-addictive-design-probe-children"
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/"
     },
     {
       "sourceId": "nasa",
       "title": "Hanging in the Balance",
-      "summary": "The Artemis II crew captured a photo of the Moon, highlighting its rugged terrain under half-light, reminding us that even celestial bodies have their good and bad sides.",
+      "summary": "The Artemis II crew captured a striking image of the Moon, reminding us that even celestial bodies have their good sides; perhaps they too are just trying to find their best angle.",
       "date": "2026-06-23",
       "link": "https://www.nasa.gov/image-article/hanging-in-the-balance/"
     },
     {
       "sourceId": "nasa",
       "title": "ARMD Research Solicitations (Updated June 23)",
-      "summary": "NASA's ARMD updated its solicitations for collaborations, proving that the agency is always looking for fresh ideas, or at least fresh paperwork.",
+      "summary": "NASA's Aeronautics Research Mission Directorate updated its solicitations page, inviting collaboration in air transportation innovation; because who doesn't want to be part of the next big flight?",
       "date": "2026-06-23",
       "link": "https://www.nasa.gov/aeronautics/armd-solicitations/"
     },
     {
       "sourceId": "nasa",
       "title": "I Am Artemis: Jason Peterson",
-      "summary": "Jason Peterson took on extra duties for the Artemis II mission, because why not add more to your plate when you're already managing rocket launches?",
+      "summary": "Jason Peterson's role in the Artemis II mission expanded beyond range operations, proving that sometimes you have to wear multiple hats, especially when space is involved.",
       "date": "2026-06-23",
       "link": "https://www.nasa.gov/humans-in-space/i-am-artemis-jason-peterson/"
     },
     {
       "sourceId": "nasa",
       "title": "Hubble Details Early Galaxy Transforming Neighborhood",
-      "summary": "Hubble's latest discovery of ultraviolet light from a galaxy just 1.4 billion years post-Big Bang shows that the universe was busy long before we got here.",
+      "summary": "Hubble has detected unexpected ultraviolet light from a galaxy formed just 1.4 billion years after the big bang, suggesting even the universe has its surprises; it really knows how to keep us guessing.",
       "date": "2026-06-23",
       "link": "https://science.nasa.gov/missions/hubble/hubble-details-early-galaxy-transforming-neighborhood/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Webb Pinpoints Millions of Stars Within Cigar Galaxy",
-      "summary": "NASA’s Webb Space Telescope has found millions of stars in the Cigar Galaxy, making it clear that even in space, some neighborhoods are just more active than others.",
-      "date": "2026-06-23",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-pinpoints-millions-of-stars-within-cigar-galaxy/"
     }
   ]
 }
