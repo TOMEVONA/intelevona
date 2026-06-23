@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is witnessing a mix of geopolitical maneuvering and corporate consolidation, with China making strides in Africa's space sector and various companies securing funding to expand their operations. Meanwhile, the U.S. continues to grapple with its own budgetary commitments and the implications of emerging technologies.",
+  "summary": "The space sector continues to stir, with AI models being tested for Earth observation and new partnerships forming around satellite intelligence. Meanwhile, the U.S. grapples with its response framework for hostile actions in space, while budget allocations hint at a growing focus on resilience.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Geopolitical Space Race",
-      "body": "China's recent activities in space, including a spaceplane releasing objects into orbit, suggest a growing assertiveness in the sector. Meanwhile, the U.S. risks losing influence in Africa's burgeoning space industry, a development that merits closer scrutiny."
-    },
-    {
-      "icon": "◉",
-      "title": "Funding Frenzy",
-      "body": "Astroscale and True Anomaly have recently secured significant funding to bolster their growth strategies, signaling investor confidence in the space sector's potential. This influx of capital may further accelerate innovation and competition among emerging players."
+      "title": "AI Takes to the Skies",
+      "body": "Loft Orbital's foray into AI for Earth observation could signal a shift in how data is collected and analyzed from space. As AI becomes more integral, expect a wave of startups to emerge, eager to capitalize on this trend."
     },
     {
       "icon": "▲",
-      "title": "Defense Tech Developments",
-      "body": "The U.S. defense budget is seeing a notable increase in funding for space resilience, with an additional $1.4 billion earmarked for FY27. This reflects a growing recognition of the strategic importance of space in national security."
+      "title": "Partnerships in Space Intelligence",
+      "body": "Satellogic's collaboration with SynMax to develop services around the Merlin constellation highlights a growing trend of public-private partnerships in satellite intelligence. Such alliances may redefine the competitive landscape, as companies leverage shared resources and expertise."
     },
     {
       "icon": "◆",
-      "title": "Corporate Consolidation Trends",
-      "body": "Astrobotic's sale to Voyager and private equity interest in Exolaunch highlight a trend toward consolidation in the space industry. As companies seek to scale up, we may see more partnerships and acquisitions shaping the competitive landscape."
+      "title": "Space Resilience Funding Grows",
+      "body": "The recent $1.4 billion boost to the space resilience line in the FY27 budget reflects a heightened awareness of vulnerabilities in the space domain. This funding increase may fuel innovations in defense technologies, as companies seek to address emerging threats."
+    },
+    {
+      "icon": "◉",
+      "title": "Rocket Development on the Rise",
+      "body": "China's apparent development of 7-meter-diameter reusable rockets signals an ambitious push in their space capabilities. This move could intensify competition in the launch market, as nations and private companies alike scramble to keep pace."
     }
   ],
-  "updated": "2026-06-22 18:10 UTC"
+  "updated": "2026-06-23 15:55 UTC"
 }

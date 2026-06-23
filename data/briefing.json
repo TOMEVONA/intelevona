@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-22",
-  "issue": "No. 62",
-  "headline": "China advances. U.S. lags. Cash flows.",
-  "deck": "This week highlights China's orbital maneuvers and U.S. funding shifts.",
+  "updated": "2026-06-23",
+  "issue": "No. 63",
+  "headline": "AI tests. Reusable rockets. Defense budgets grow.",
+  "deck": "This week, space companies embrace AI while funding flows into defense tech.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
+      "kicker": "AI",
+      "head": "Loft Orbital partners with NASA for AI tests",
+      "body": "Loft Orbital is teaming up with NASA’s Jet Propulsion Laboratory to test AI models on its spacecraft, aimed at enhancing Earth observation capabilities. The collaboration underscores a growing trend where satellites are increasingly relying on artificial intelligence to process data more efficiently. Expect more companies to follow suit as the data deluge continues.",
+      "soWhat": "If satellites start thinking for themselves, the entire data analytics game might shift from mere collection to real-time insights."
+    },
+    {
+      "kicker": "DEFENSE",
+      "head": "Palantir secures $480M extension on TITAN program",
+      "body": "Palantir has landed a $480 million extension for its TITAN ground station program, a significant boost that reflects the U.S. government's ongoing commitment to enhancing its data processing capabilities. This extension is part of a broader trend of defense contracts favoring firms that can deliver robust analytics solutions under tight timelines.",
+      "soWhat": "In government contracts, it seems that being slow and steady is just as winning as being fast and flashy."
+    },
+    {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly has secured a $190 million Series C funding round, emphasizing its focus on co-orbital security and space domain awareness. With a valuation of $1.6 billion, this funding reflects a strong pull from the Department of Defense, underscoring the growing importance of space security. The company aims to enhance its capabilities in a sector that is increasingly competitive.",
-      "soWhat": "Investors are betting heavily on the idea that space security is the next frontier, which might make for some interesting boardroom discussions."
-    },
-    {
-      "kicker": "PARTNERSHIP",
-      "head": "Anduril and L3Harris team for SDA constellation",
-      "body": "Anduril and L3Harris are collaborating on a tactical Space Development Agency constellation bid, aiming to leverage their combined expertise in defense technology. This partnership comes amid a broader trend of consolidation in the defense sector, as companies seek to pool resources for competitive advantage. The tactical nature of this bid indicates a shift towards more integrated defense solutions.",
-      "soWhat": "In defense contracting, partnerships can be as fleeting as a shooting star, but this one could be a harbinger of more strategic alliances."
-    },
-    {
-      "kicker": "ACQUISITION",
-      "head": "Astrobotic sells to Voyager for lunar ambitions",
-      "body": "Astrobotic has announced its sale to Voyager Technologies, a move designed to scale up lunar lander production. The terms of the deal haven’t been disclosed, but it signals a strategic pivot towards increased lunar exploration capabilities. This acquisition reflects a growing recognition that collaboration may be key to thriving in the increasingly crowded lunar market.",
-      "soWhat": "In space, teaming up can often lead to better outcomes than going solo, especially when the competition is as fierce as it is now."
+      "body": "True Anomaly has successfully raised $190 million in a Series C funding round, pushing its valuation to $1.6 billion. This funding will bolster its efforts in co-orbital security and space domain awareness, areas that are becoming increasingly vital as geopolitical tensions rise. The company is positioning itself well in a market that is seeing heightened demand for security solutions.",
+      "soWhat": "When co-orbital threats are on the rise, investors are betting that security in space will be the next gold rush."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Astroscale's growth strategy",
-      "body": "With new funding in hand, Astroscale's shift from demos to regular missions could signal a more aggressive push into the space debris market."
+      "title": "Watch for Loft Orbital's AI results",
+      "body": "The outcomes of Loft Orbital's AI tests could redefine how Earth observation data is processed and utilized."
     },
     {
-      "title": "Jio's LEO constellation IPO plans",
-      "body": "India's Jio Platforms is laying out a sovereign LEO constellation plan ahead of its IPO, which could reshape the competitive landscape in satellite communications."
+      "title": "Sierra Space's Dream Chaser launch timeline",
+      "body": "With the Dream Chaser DoD variant clearing its critical design review, the next steps will be crucial for its future."
     },
     {
-      "title": "Palantir's TITAN extension impact",
-      "body": "Palantir's $480 million extension on the TITAN program may influence future government contracts, especially in the ground station sector."
+      "title": "Implications of China's reusable rockets",
+      "body": "China's development of larger reusable rockets could shift the balance of power in space launch capabilities."
     },
     {
-      "title": "Watch for hypersonic test delays",
-      "body": "The continued delays in hypersonic glide-vehicle tests raise questions about the viability of this technology, which could impact defense budgets."
+      "title": "Follow the defense-tech IPO trend",
+      "body": "With the defense-tech IPO window opening, expect a flurry of activity as companies seek to capitalize on military contracts."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "ASTS",
-      "note": "The bull case for ASTS highlights the precarious balance between potential and execution."
-    },
-    {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as it struggles to find a sustainable business model."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's recent contract extension underscores its entrenched position in government tech."
+      "note": "Palantir's $480M extension shows government loyalty pays off."
     },
     {
-      "sym": "SFTW",
-      "note": "The SPAC formerly known as Stable Road Acquisition Corp is still seeking its identity in the space sector."
+      "sym": "TRUA",
+      "note": "True Anomaly's $190M raise signals investor confidence in space security."
+    },
+    {
+      "sym": "ASTR",
+      "note": "Astranis's $250M funding will ramp up its microGEO satellite production."
+    },
+    {
+      "sym": "STKE",
+      "note": "Stoke Space's $260M Series C aims to scale its reusable launch capabilities."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
