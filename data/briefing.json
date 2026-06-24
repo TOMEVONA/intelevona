@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-23",
-  "issue": "No. 63",
-  "headline": "Funding flows. Partnerships form. AI watches.",
-  "deck": "This week highlights significant funding rounds and partnerships in the space sector.",
+  "updated": "2026-06-24",
+  "issue": "No. 64",
+  "headline": "Funding flows. Contracts grow. Satellites chatter.",
+  "deck": "This week, cash is king and communication is key in space.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly has secured a $190 million Series C funding round aimed at enhancing co-orbital security and space domain awareness. The investment underscores the Department of Defense's increasing focus on advanced technologies to protect national interests in orbit. With a valuation now at $1.6 billion, True Anomaly is positioning itself as a key player in the defense space.",
-      "soWhat": "This funding is a clear signal that the DoD is serious about co-orbital threats, and True Anomaly is riding the wave of urgency."
+      "body": "True Anomaly secured a $190 million Series C funding round, valuing the company at $1.6 billion. This investment underscores the increasing demand for co-orbital security solutions, particularly from the DoD. With defense budgets tightening, companies like True Anomaly are positioning themselves as essential players in the national security landscape.",
+      "soWhat": "In a world where threats are more nuanced, True Anomaly's funding suggests that investors are betting on space as the next frontier of defense."
     },
     {
-      "kicker": "PARTNERSHIP",
-      "head": "Sierra Space's Dream Chaser variant clears design review",
-      "body": "Sierra Space's Dream Chaser variant for the Department of Defense has successfully passed its critical design review, paving the way for future development. This vehicle aims to provide flexible cargo and crew transport capabilities, which could be vital for military logistics. The real challenge will be ensuring that it meets the ambitious timelines set by the DoD.",
-      "soWhat": "If Sierra can deliver on time, it may just set the standard for future military space transport, but that's a big 'if' in this industry."
+      "kicker": "COLLABORATION",
+      "head": "Vast signs partners for commercial space station",
+      "body": "Vast has added several new partners to its commercial space station initiative, focusing on microgravity research. This collaboration trend highlights a shift in how private companies approach space entrepreneurship, moving towards shared resources and expertise. The exact financial terms remain undisclosed, but the strategic partnerships indicate a growing confidence in commercial space operations.",
+      "soWhat": "If collaboration is the new black, then Vast just opened a trendy boutique—expect more players to jump on the bandwagon."
     },
     {
-      "kicker": "TECH",
-      "head": "Loft Orbital partners with NASA for AI Earth observation",
-      "body": "Loft Orbital is collaborating with NASA's Jet Propulsion Laboratory to test AI models on spacecraft for Earth observation. This partnership aims to enhance the efficiency of data collection and analysis, potentially reducing the need for human oversight. The financial terms of the deal remain undisclosed, but the implications for automated surveillance are substantial.",
-      "soWhat": "This is yet another example of how AI is being positioned as a substitute for human expertise, which might not be a comforting thought for those in the field."
+      "kicker": "CONTRACTS",
+      "head": "Vantor selects BAE for next-gen imaging satellites",
+      "body": "Vantor has chosen BAE Systems to develop its next-generation imaging satellites, marking a significant commitment to high-resolution capabilities. While the contract value hasn't been disclosed, this partnership is indicative of BAE's robust position in the defense supply chain. With imaging satellites becoming increasingly critical for both commercial and military applications, this move solidifies BAE's foothold in the sector.",
+      "soWhat": "The imaging game is heating up, and BAE's involvement suggests they might be the ones to watch as demand for clarity in space grows."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Anduril and L3Harris",
-      "body": "Their tactical SDA constellation bid could reshape defense space capabilities."
+      "title": "Keep an eye on True Anomaly's next moves",
+      "body": "With fresh funding in hand, True Anomaly's strategy will be pivotal in shaping the co-orbital security market."
     },
     {
-      "title": "Watch for updates on the FY27 budget",
-      "body": "The $1.4 billion boost for space resilience could lead to more lucrative contracts."
+      "title": "Vast's partnerships could reshape commercial space",
+      "body": "As Vast continues to onboard partners, its approach could set a precedent for future commercial space ventures."
     },
     {
-      "title": "Sierra Space's next steps post-design review",
-      "body": "Success in the next phases could position them as a leader in military transport."
+      "title": "BAE's imaging satellites may attract more contracts",
+      "body": "The success of Vantor's project could lead to additional contracts for BAE in the imaging satellite domain."
     },
     {
-      "title": "True Anomaly's future contracts",
-      "body": "With new funding, they might secure more DoD contracts focused on co-orbital threats."
+      "title": "SpaceX's Starfall mission results are pending",
+      "body": "The outcomes of SpaceX's latest secretive mission could have implications for future reentry technologies."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile amid ongoing flight delays."
+      "sym": "SPACEX",
+      "note": "SpaceX launched the Starfall mission, keeping its reentry tech under wraps—again."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480 million extension on the TITAN program shows government confidence in their tech."
+      "sym": "BAESY",
+      "note": "BAE's selection by Vantor highlights its continued dominance in defense contracting."
     },
     {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's recent charts suggest a precarious balance in their execution strategy."
+      "sym": "TRUE",
+      "note": "True Anomaly's Series C funding indicates strong investor confidence in co-orbital security."
     },
     {
-      "sym": "AAPL",
-      "note": "Apple's recruitment of satellite engineers hints at a potential move into space tech."
+      "sym": "ASTR",
+      "note": "Astranis raised $250M for MicroGEO production, showing that there's still appetite for satellite ventures."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

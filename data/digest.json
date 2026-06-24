@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as companies pivot towards AI and on-orbit computing, while nations like China ramp up their rocket development. Meanwhile, the U.S. grapples with the need for a coherent response strategy to potential threats in space.",
+  "summary": "The space industry is buzzing with activity, from commercial microgravity research partnerships to the ongoing evolution of tactical satellite constellations. Meanwhile, the budgetary winds are blowing favorably for space resilience initiatives, even as hypersonic tests continue to stall.",
   "themes": [
     {
       "icon": "▣",
-      "title": "AI in Earth Observation",
-      "body": "Loft Orbital's upcoming tests of AI models on spacecraft signal a shift towards more intelligent data processing in Earth observation. This could enhance the speed and accuracy of satellite data analysis, making it more valuable for various applications."
-    },
-    {
-      "icon": "◉",
-      "title": "Resilience Funding Boost",
-      "body": "The recent $1.4 billion addition to the FY27 budget for space resilience reflects a growing recognition of the need to fortify U.S. capabilities in the face of emerging threats. This funding could catalyze innovations in satellite technology and defensive measures."
+      "title": "Commercial Space Station Partnerships",
+      "body": "Vast is expanding its network of partners for microgravity research, indicating a growing interest in commercial space applications. This move could pave the way for more robust research opportunities and revenue streams in the sector."
     },
     {
       "icon": "▲",
-      "title": "International Rocket Developments",
-      "body": "China's apparent progress on 7-meter-diameter reusable rockets adds another layer of complexity to the global space race. As nations ramp up their capabilities, the balance of power in space is likely to shift, prompting strategic recalibrations."
+      "title": "Defense Budget Boosts Space Resilience",
+      "body": "The FY27 budget markup has added a significant $1.4 billion to the space resilience line, underscoring the government's commitment to fortifying its space assets. This infusion of cash may accelerate development timelines for critical space technologies."
     },
     {
       "icon": "◆",
-      "title": "Defense-Tech IPOs on the Horizon",
-      "body": "The potential opening of the defense-tech IPO window suggests that investors are increasingly interested in the intersection of technology and national security. This could lead to a wave of new entrants in the space sector, reshaping the competitive landscape."
+      "title": "Hypersonic Testing Challenges",
+      "body": "The third consecutive delay in hypersonic glide-vehicle testing raises questions about the reliability of these technologies. As defense budgets swell, stakeholders will be watching closely to see if this trend continues."
+    },
+    {
+      "icon": "◉",
+      "title": "Growing Interest in Tactical Satellites",
+      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, reflecting a strategic pivot towards integrated space capabilities. This collaboration signals a competitive landscape as companies vie for contracts in the evolving defense space."
     }
   ],
-  "updated": "2026-06-23 16:24 UTC"
+  "updated": "2026-06-24 15:35 UTC"
 }
