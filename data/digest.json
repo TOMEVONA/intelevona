@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity, from commercial microgravity research partnerships to the ongoing evolution of tactical satellite constellations. Meanwhile, the budgetary winds are blowing favorably for space resilience initiatives, even as hypersonic tests continue to stall.",
+  "summary": "The space industry is buzzing with activity as commercial partnerships expand and defense budgets grow. Meanwhile, the specter of space weather looms over technology advancements, and hypersonic tests continue to face delays.",
   "themes": [
     {
       "icon": "▣",
       "title": "Commercial Space Station Partnerships",
-      "body": "Vast is expanding its network of partners for microgravity research, indicating a growing interest in commercial space applications. This move could pave the way for more robust research opportunities and revenue streams in the sector."
-    },
-    {
-      "icon": "▲",
-      "title": "Defense Budget Boosts Space Resilience",
-      "body": "The FY27 budget markup has added a significant $1.4 billion to the space resilience line, underscoring the government's commitment to fortifying its space assets. This infusion of cash may accelerate development timelines for critical space technologies."
-    },
-    {
-      "icon": "◆",
-      "title": "Hypersonic Testing Challenges",
-      "body": "The third consecutive delay in hypersonic glide-vehicle testing raises questions about the reliability of these technologies. As defense budgets swell, stakeholders will be watching closely to see if this trend continues."
+      "body": "Vast's recent partnerships for microgravity research underscore the growing interest in commercial space stations. As private entities step up, the dynamics of space research are shifting away from traditional government-led initiatives."
     },
     {
       "icon": "◉",
-      "title": "Growing Interest in Tactical Satellites",
-      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, reflecting a strategic pivot towards integrated space capabilities. This collaboration signals a competitive landscape as companies vie for contracts in the evolving defense space."
+      "title": "Defense Spending on the Rise",
+      "body": "The FY27 budget markup adds a significant $1.4 billion to space resilience efforts, highlighting the increasing prioritization of space in national defense. This trend suggests a long-term commitment to bolstering capabilities against emerging threats."
+    },
+    {
+      "icon": "▲",
+      "title": "Hypersonic Testing Woes",
+      "body": "The latest hypersonic glide-vehicle test has slipped yet again, marking the third consecutive quarter of delays. This raises questions about the feasibility and reliability of hypersonic technology in the near term."
+    },
+    {
+      "icon": "◆",
+      "title": "AI's Space Weather Dilemma",
+      "body": "As AI technologies proliferate, concerns about space weather's impact on their performance are surfacing. This intersection of space and AI could complicate future advancements, especially in critical defense applications."
     }
   ],
-  "updated": "2026-06-24 15:35 UTC"
+  "updated": "2026-06-24 16:13 UTC"
 }

@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-24",
   "issue": "No. 64",
-  "headline": "Funding flows. Contracts grow. Satellites chatter.",
-  "deck": "This week, cash is king and communication is key in space.",
+  "headline": "Funding flows. Partnerships deepen. Satellites chatter.",
+  "deck": "This week highlights significant funding rounds and strategic partnerships shaping the space industry.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured a $190 million Series C funding round, valuing the company at $1.6 billion. This investment underscores the increasing demand for co-orbital security solutions, particularly from the DoD. With defense budgets tightening, companies like True Anomaly are positioning themselves as essential players in the national security landscape.",
-      "soWhat": "In a world where threats are more nuanced, True Anomaly's funding suggests that investors are betting on space as the next frontier of defense."
+      "head": "True Anomaly raises $190M, but why?",
+      "body": "True Anomaly has secured a $190 million Series C funding round, pushing its valuation to $1.6 billion. This capital influx emphasizes the growing importance of co-orbital security and space domain awareness (SDA) as the Department of Defense increasingly looks to private firms for technological solutions. The funding suggests that investors are betting heavily on the DoD's appetite for commercial partnerships.",
+      "soWhat": "If you're not in the co-orbital security game, you're probably missing out on the next wave of government contracts."
     },
     {
-      "kicker": "COLLABORATION",
-      "head": "Vast signs partners for commercial space station",
-      "body": "Vast has added several new partners to its commercial space station initiative, focusing on microgravity research. This collaboration trend highlights a shift in how private companies approach space entrepreneurship, moving towards shared resources and expertise. The exact financial terms remain undisclosed, but the strategic partnerships indicate a growing confidence in commercial space operations.",
-      "soWhat": "If collaboration is the new black, then Vast just opened a trendy boutique—expect more players to jump on the bandwagon."
+      "kicker": "PARTNERSHIPS",
+      "head": "Vantor picks BAE for next-gen satellites.",
+      "body": "Vantor has chosen BAE Systems to develop its next-generation imaging satellites, marking a reunion reminiscent of the DigitalGlobe era. This partnership highlights a trend where established players are turning to familiar faces in the industry to mitigate risks associated with new tech development. Financial terms were not disclosed, but the strategic alignment hints at a long-term vision for enhanced imaging capabilities.",
+      "soWhat": "When companies play it safe with known partners, it tells you they’re prioritizing reliability over novelty in a volatile market."
     },
     {
-      "kicker": "CONTRACTS",
-      "head": "Vantor selects BAE for next-gen imaging satellites",
-      "body": "Vantor has chosen BAE Systems to develop its next-generation imaging satellites, marking a significant commitment to high-resolution capabilities. While the contract value hasn't been disclosed, this partnership is indicative of BAE's robust position in the defense supply chain. With imaging satellites becoming increasingly critical for both commercial and military applications, this move solidifies BAE's foothold in the sector.",
-      "soWhat": "The imaging game is heating up, and BAE's involvement suggests they might be the ones to watch as demand for clarity in space grows."
+      "kicker": "TECH",
+      "head": "York Space Systems talks satellite chat.",
+      "body": "York Space Systems has successfully demonstrated two-way UHF communications from low Earth orbit for the U.S. Space Force. This achievement underscores the operational need for satellites to communicate effectively, especially as military operations become increasingly reliant on real-time data. The demonstration not only validates York's technology but also reinforces the Space Force's commitment to enhancing satellite communication capabilities.",
+      "soWhat": "In a world where data is king, even satellites need to gossip to stay relevant."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on True Anomaly's next moves",
-      "body": "With fresh funding in hand, True Anomaly's strategy will be pivotal in shaping the co-orbital security market."
+      "title": "Keep an eye on True Anomaly's next moves.",
+      "body": "With fresh capital, True Anomaly could ramp up its development and partnerships, potentially reshaping the co-orbital security landscape."
     },
     {
-      "title": "Vast's partnerships could reshape commercial space",
-      "body": "As Vast continues to onboard partners, its approach could set a precedent for future commercial space ventures."
+      "title": "Watch for BAE's new satellite capabilities.",
+      "body": "BAE's work with Vantor could set new standards in imaging technology, influencing future contracts and partnerships."
     },
     {
-      "title": "BAE's imaging satellites may attract more contracts",
-      "body": "The success of Vantor's project could lead to additional contracts for BAE in the imaging satellite domain."
+      "title": "Anticipate more from York Space Systems.",
+      "body": "York's successful communications demo may lead to more contracts with the Space Force, as the need for reliable satellite communication grows."
     },
     {
-      "title": "SpaceX's Starfall mission results are pending",
-      "body": "The outcomes of SpaceX's latest secretive mission could have implications for future reentry technologies."
+      "title": "Monitor the hypersonic testing delays.",
+      "body": "Continued delays in hypersonic glide-vehicle tests could indicate deeper issues in defense tech development, affecting budget allocations."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPACEX",
-      "note": "SpaceX launched the Starfall mission, keeping its reentry tech under wraps—again."
-    },
-    {
-      "sym": "BAESY",
-      "note": "BAE's selection by Vantor highlights its continued dominance in defense contracting."
-    },
-    {
-      "sym": "TRUE",
-      "note": "True Anomaly's Series C funding indicates strong investor confidence in co-orbital security."
+      "sym": "PLTR",
+      "note": "Palantir's $480M extension on the TITAN program shows that government contracts are still lucrative, albeit slow-moving."
     },
     {
       "sym": "ASTR",
-      "note": "Astranis raised $250M for MicroGEO production, showing that there's still appetite for satellite ventures."
+      "note": "Astranis' $250M funding round for microGEO production capital hints at a serious play in the small satellite market."
+    },
+    {
+      "sym": "STKE",
+      "note": "Stoke Space's $260M Series C indicates investor confidence in fully reusable launch systems, but execution remains key."
+    },
+    {
+      "sym": "K2",
+      "note": "K2 Space's $110M Series B funding reflects a growing demand for high-power satellites in national security missions."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
