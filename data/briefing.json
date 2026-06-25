@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-24",
-  "issue": "No. 64",
-  "headline": "Funding flows. Partnerships deepen. Satellites chatter.",
-  "deck": "This week highlights significant funding rounds and strategic partnerships shaping the space industry.",
+  "updated": "2026-06-25",
+  "issue": "No. 65",
+  "headline": "Funding flows. Contracts canceled. GPS jamming persists.",
+  "deck": "This week, the Space Force's budget grows, while GPS jamming remains a concern.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M, but why?",
-      "body": "True Anomaly has secured a $190 million Series C funding round, pushing its valuation to $1.6 billion. This capital influx emphasizes the growing importance of co-orbital security and space domain awareness (SDA) as the Department of Defense increasingly looks to private firms for technological solutions. The funding suggests that investors are betting heavily on the DoD's appetite for commercial partnerships.",
-      "soWhat": "If you're not in the co-orbital security game, you're probably missing out on the next wave of government contracts."
-    },
-    {
-      "kicker": "PARTNERSHIPS",
-      "head": "Vantor picks BAE for next-gen satellites.",
-      "body": "Vantor has chosen BAE Systems to develop its next-generation imaging satellites, marking a reunion reminiscent of the DigitalGlobe era. This partnership highlights a trend where established players are turning to familiar faces in the industry to mitigate risks associated with new tech development. Financial terms were not disclosed, but the strategic alignment hints at a long-term vision for enhanced imaging capabilities.",
-      "soWhat": "When companies play it safe with known partners, it tells you they’re prioritizing reliability over novelty in a volatile market."
+      "kicker": "BUDGET",
+      "head": "Space Force's budget ballooned to $55.5 billion",
+      "body": "The House Appropriations Committee approved a hefty $55.5 billion budget for the U.S. Space Force, signaling a robust commitment to satellite communications and space resilience. This funding comes amid increasing competition in satellite technology, as the military seeks to stay ahead of global adversaries. The emphasis on satellite communications suggests a shift towards more integrated military operations in space.",
+      "soWhat": "It seems that the Space Force is trying to outspend its way to superiority, but budget size doesn’t always equate to effectiveness."
     },
     {
       "kicker": "TECH",
-      "head": "York Space Systems talks satellite chat.",
-      "body": "York Space Systems has successfully demonstrated two-way UHF communications from low Earth orbit for the U.S. Space Force. This achievement underscores the operational need for satellites to communicate effectively, especially as military operations become increasingly reliant on real-time data. The demonstration not only validates York's technology but also reinforces the Space Force's commitment to enhancing satellite communication capabilities.",
-      "soWhat": "In a world where data is king, even satellites need to gossip to stay relevant."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured a $190 million Series C round, bringing its valuation to $1.6 billion as it focuses on co-orbital security and space domain awareness. The funding reflects a growing interest in safeguarding satellite operations, particularly as geopolitical tensions rise. With the Department of Defense's backing, True Anomaly is well-positioned to capitalize on the increasing demand for security solutions in space.",
+      "soWhat": "In a world where satellites are the new gold, True Anomaly's cash infusion shows that investors are betting on the need to protect that gold."
+    },
+    {
+      "kicker": "CONTRACTS",
+      "head": "Space Force seeks new bidders after $1.7B contract axed",
+      "body": "After terminating a $1.7 billion contract for satellite-control antennas, the Space Force is back in the market for fresh bids. This decision highlights the challenges of managing complex contracts in the defense sector, where expectations often clash with reality. The move indicates that the Space Force is not afraid to pivot when things go sideways, even at a significant financial cost.",
+      "soWhat": "This is a classic case of 'try, fail, and try again'—but with taxpayer dollars at stake, the stakes are a bit higher than usual."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on True Anomaly's next moves.",
-      "body": "With fresh capital, True Anomaly could ramp up its development and partnerships, potentially reshaping the co-orbital security landscape."
+      "title": "Keep an eye on GPS jamming trends",
+      "body": "With GPS jamming in the Eastern Med returning to pre-2024 levels, stakeholders should assess how this impacts satellite operations and insurance models."
     },
     {
-      "title": "Watch for BAE's new satellite capabilities.",
-      "body": "BAE's work with Vantor could set new standards in imaging technology, influencing future contracts and partnerships."
+      "title": "Sierra Space's Dream Chaser progress",
+      "body": "Having cleared its critical design review, the next steps for Sierra Space will be closely watched as they attempt to deliver on their promises without further delays."
     },
     {
-      "title": "Anticipate more from York Space Systems.",
-      "body": "York's successful communications demo may lead to more contracts with the Space Force, as the need for reliable satellite communication grows."
+      "title": "Palantir's TITAN extension implications",
+      "body": "With a $480 million extension on the TITAN program, Palantir's approach to data management in defense will be a focal point for future government contracts."
     },
     {
-      "title": "Monitor the hypersonic testing delays.",
-      "body": "Continued delays in hypersonic glide-vehicle tests could indicate deeper issues in defense tech development, affecting budget allocations."
+      "title": "Anduril and L3Harris collaboration",
+      "body": "Their tactical SDA constellation bid could set a precedent for future partnerships in defense tech, especially as competition heats up."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program shows that government contracts are still lucrative, albeit slow-moving."
+      "note": "Palantir's $480 million extension on the TITAN program demonstrates its stronghold in defense data management."
     },
     {
-      "sym": "ASTR",
-      "note": "Astranis' $250M funding round for microGEO production capital hints at a serious play in the small satellite market."
+      "sym": "ANET",
+      "note": "Watch for Arista Networks as they may benefit from increased demand for satellite communications infrastructure."
     },
     {
-      "sym": "STKE",
-      "note": "Stoke Space's $260M Series C indicates investor confidence in fully reusable launch systems, but execution remains key."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains under pressure as the commercial space tourism market struggles to take off."
     },
     {
-      "sym": "K2",
-      "note": "K2 Space's $110M Series B funding reflects a growing demand for high-power satellites in national security missions."
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's recent bullish case in charts shows the precarious balance between promise and execution."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

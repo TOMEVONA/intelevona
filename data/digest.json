@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as commercial partnerships expand and defense budgets grow. Meanwhile, the specter of space weather looms over technology advancements, and hypersonic tests continue to face delays.",
+  "summary": "The space and defense sectors are navigating a mix of funding boosts and project setbacks, with the U.S. Space Force securing a hefty budget while grappling with the fallout from canceled NASA projects. Meanwhile, international players like China and Russia are ramping up their launch schedules and co-orbital activities, adding to the complexity of the current landscape.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Commercial Space Station Partnerships",
-      "body": "Vast's recent partnerships for microgravity research underscore the growing interest in commercial space stations. As private entities step up, the dynamics of space research are shifting away from traditional government-led initiatives."
+      "title": "Funding Flows to Space Force",
+      "body": "The House Appropriations Committee's approval of $55.5 billion for the U.S. Space Force signals a robust commitment to space defense, despite ongoing challenges. This funding boost comes at a time when resilience against threats like GPS jamming is increasingly critical."
     },
     {
       "icon": "◉",
-      "title": "Defense Spending on the Rise",
-      "body": "The FY27 budget markup adds a significant $1.4 billion to space resilience efforts, highlighting the increasing prioritization of space in national defense. This trend suggests a long-term commitment to bolstering capabilities against emerging threats."
+      "title": "NASA's Costly Cancellations",
+      "body": "Canceled NASA exploration projects have left a trail of financial overruns, raising questions about project management and future funding allocations. As the agency recalibrates, the impact on innovation and public trust remains to be seen."
     },
     {
       "icon": "▲",
-      "title": "Hypersonic Testing Woes",
-      "body": "The latest hypersonic glide-vehicle test has slipped yet again, marking the third consecutive quarter of delays. This raises questions about the feasibility and reliability of hypersonic technology in the near term."
+      "title": "International Launch Competition",
+      "body": "China's upcoming Long March 10B launch reflects its determination to assert itself in the global space race, while Russia's co-orbital maneuvers near commercial GEO slots raise eyebrows. Such activities underscore the geopolitical stakes in space, where every launch is a statement."
     },
     {
       "icon": "◆",
-      "title": "AI's Space Weather Dilemma",
-      "body": "As AI technologies proliferate, concerns about space weather's impact on their performance are surfacing. This intersection of space and AI could complicate future advancements, especially in critical defense applications."
+      "title": "Emerging Tech Partnerships",
+      "body": "Anduril and L3Harris's collaboration on a tactical SDA constellation bid highlights the growing trend of partnerships in defense tech. As companies jockey for position in the evolving landscape, the emphasis on satellite-control capabilities is becoming increasingly apparent."
     }
   ],
-  "updated": "2026-06-24 16:13 UTC"
+  "updated": "2026-06-25 15:43 UTC"
 }
