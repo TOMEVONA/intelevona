@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are navigating a mix of funding boosts and project setbacks, with the U.S. Space Force securing a hefty budget while grappling with the fallout from canceled NASA projects. Meanwhile, international players like China and Russia are ramping up their launch schedules and co-orbital activities, adding to the complexity of the current landscape.",
+  "summary": "The space industry is grappling with access bottlenecks for small satellites while defense budgets swell to bolster space resilience. Meanwhile, the specter of jamming and spoofing looms large as stakeholders scramble for solutions.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Flows to Space Force",
-      "body": "The House Appropriations Committee's approval of $55.5 billion for the U.S. Space Force signals a robust commitment to space defense, despite ongoing challenges. This funding boost comes at a time when resilience against threats like GPS jamming is increasingly critical."
+      "title": "Small Sat Access Issues",
+      "body": "Small satellite operators are facing significant hurdles in accessing space, raising questions about the sustainability of current launch capacities. This bottleneck could stifle innovation and growth in the sector if not addressed promptly."
     },
     {
       "icon": "◉",
-      "title": "NASA's Costly Cancellations",
-      "body": "Canceled NASA exploration projects have left a trail of financial overruns, raising questions about project management and future funding allocations. As the agency recalibrates, the impact on innovation and public trust remains to be seen."
+      "title": "Defense Budgets on the Rise",
+      "body": "The House Appropriations Committee's approval of $55.5 billion for the Space Force signals a robust commitment to national security in space. An additional $1.4 billion earmarked for space resilience in the FY27 budget further underscores this trend."
     },
     {
       "icon": "▲",
-      "title": "International Launch Competition",
-      "body": "China's upcoming Long March 10B launch reflects its determination to assert itself in the global space race, while Russia's co-orbital maneuvers near commercial GEO slots raise eyebrows. Such activities underscore the geopolitical stakes in space, where every launch is a statement."
+      "title": "Countering Jamming Threats",
+      "body": "As GPS jamming incidents resurface, the industry is under pressure to develop effective countermeasures against these disruptions. This ongoing challenge highlights the critical need for enhanced security protocols in space operations."
     },
     {
       "icon": "◆",
-      "title": "Emerging Tech Partnerships",
-      "body": "Anduril and L3Harris's collaboration on a tactical SDA constellation bid highlights the growing trend of partnerships in defense tech. As companies jockey for position in the evolving landscape, the emphasis on satellite-control capabilities is becoming increasingly apparent."
+      "title": "New Collaborations Emerge",
+      "body": "Anduril and L3Harris are teaming up on a tactical SDA constellation bid, reflecting a growing trend of partnerships aimed at enhancing space capabilities. Such collaborations may be pivotal in addressing the complex demands of modern defense."
     }
   ],
-  "updated": "2026-06-25 15:43 UTC"
+  "updated": "2026-06-25 16:19 UTC"
 }

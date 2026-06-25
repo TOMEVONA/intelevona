@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-25",
   "issue": "No. 65",
-  "headline": "Funding flows. Contracts canceled. GPS jamming persists.",
-  "deck": "This week, the Space Force's budget grows, while GPS jamming remains a concern.",
+  "headline": "Launch bottlenecks. Funding surges. Defense pivots.",
+  "deck": "Small satellite operators scramble while funding flows into defense tech.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "BUDGET",
-      "head": "Space Force's budget ballooned to $55.5 billion",
-      "body": "The House Appropriations Committee approved a hefty $55.5 billion budget for the U.S. Space Force, signaling a robust commitment to satellite communications and space resilience. This funding comes amid increasing competition in satellite technology, as the military seeks to stay ahead of global adversaries. The emphasis on satellite communications suggests a shift towards more integrated military operations in space.",
-      "soWhat": "It seems that the Space Force is trying to outspend its way to superiority, but budget size doesn’t always equate to effectiveness."
+      "kicker": "LAUNCH",
+      "head": "SpaceX rideshare oversubscription leaves operators stranded",
+      "body": "Small satellite operators are facing a significant bottleneck as SpaceX's rideshare missions become oversubscribed, forcing many to reconsider their launch strategies. With alternatives limited, players like Astra and Rocket Lab may need to ramp up production to meet demand. The scramble for access highlights the fragility of relying on a single launch provider.",
+      "soWhat": "If SpaceX continues to dominate, we might see a wave of consolidation among smaller launch providers—survival of the fittest in the launch market."
     },
     {
-      "kicker": "TECH",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured a $190 million Series C round, bringing its valuation to $1.6 billion as it focuses on co-orbital security and space domain awareness. The funding reflects a growing interest in safeguarding satellite operations, particularly as geopolitical tensions rise. With the Department of Defense's backing, True Anomaly is well-positioned to capitalize on the increasing demand for security solutions in space.",
-      "soWhat": "In a world where satellites are the new gold, True Anomaly's cash infusion shows that investors are betting on the need to protect that gold."
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M in Series C round",
+      "body": "True Anomaly has successfully closed a $190 million Series C funding round, bringing its valuation to $1.6 billion. The company specializes in co-orbital security and space domain awareness, which is increasingly critical as military and commercial interests converge in space. This investment underscores the growing importance of space security in the defense sector.",
+      "soWhat": "With this kind of capital, True Anomaly is positioned to become a key player in the space security landscape—watch for potential partnerships with defense contractors."
     },
     {
-      "kicker": "CONTRACTS",
-      "head": "Space Force seeks new bidders after $1.7B contract axed",
-      "body": "After terminating a $1.7 billion contract for satellite-control antennas, the Space Force is back in the market for fresh bids. This decision highlights the challenges of managing complex contracts in the defense sector, where expectations often clash with reality. The move indicates that the Space Force is not afraid to pivot when things go sideways, even at a significant financial cost.",
-      "soWhat": "This is a classic case of 'try, fail, and try again'—but with taxpayer dollars at stake, the stakes are a bit higher than usual."
+      "kicker": "DEFENSE",
+      "head": "House approves $55.5B for Space Force operations",
+      "body": "The House Appropriations Committee has greenlit a $55.5 billion budget for the U.S. Space Force, emphasizing the need for competition in satellite communications. This funding is likely to accelerate various projects, including the tactical SDA constellation bid from Anduril and L3Harris. The increased budget reflects a growing recognition of space as a critical domain for national security.",
+      "soWhat": "This budget approval could lead to a flurry of contract opportunities—companies should be ready to pivot quickly to capture this funding."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on GPS jamming trends",
-      "body": "With GPS jamming in the Eastern Med returning to pre-2024 levels, stakeholders should assess how this impacts satellite operations and insurance models."
+      "title": "Watch for SpaceX's launch schedule adjustments",
+      "body": "With the rideshare bottleneck, SpaceX may need to adjust its launch schedule, impacting timelines for many small satellite operators."
     },
     {
-      "title": "Sierra Space's Dream Chaser progress",
-      "body": "Having cleared its critical design review, the next steps for Sierra Space will be closely watched as they attempt to deliver on their promises without further delays."
+      "title": "Keep an eye on True Anomaly's partnerships",
+      "body": "True Anomaly's new funding could lead to strategic partnerships with larger defense contractors, reshaping the co-orbital security landscape."
     },
     {
-      "title": "Palantir's TITAN extension implications",
-      "body": "With a $480 million extension on the TITAN program, Palantir's approach to data management in defense will be a focal point for future government contracts."
+      "title": "Impacts of Space Force budget on contractors",
+      "body": "The approved budget will likely influence contract awards in the coming months—companies should align their proposals accordingly."
     },
     {
-      "title": "Anduril and L3Harris collaboration",
-      "body": "Their tactical SDA constellation bid could set a precedent for future partnerships in defense tech, especially as competition heats up."
+      "title": "Sierra Space's Dream Chaser flight tests",
+      "body": "With the critical design review cleared, all eyes will be on Sierra Space's upcoming flight tests to validate its DoD variant."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480 million extension on the TITAN program demonstrates its stronghold in defense data management."
-    },
-    {
-      "sym": "ANET",
-      "note": "Watch for Arista Networks as they may benefit from increased demand for satellite communications infrastructure."
-    },
-    {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as the commercial space tourism market struggles to take off."
+      "note": "Virgin Galactic's stock remains flat as it continues to navigate regulatory hurdles."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's recent bullish case in charts shows the precarious balance between promise and execution."
+      "note": "AST SpaceMobile's recent bull case presentation highlights its precarious position in the satellite market."
+    },
+    {
+      "sym": "PLTR",
+      "note": "Palantir's $480M extension on the TITAN program shows that persistence in government contracts pays off."
+    },
+    {
+      "sym": "SIE",
+      "note": "Sierra Space's stock may see volatility as the company prepares for its Dream Chaser flight tests."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
