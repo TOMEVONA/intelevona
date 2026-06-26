@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-25",
-  "issue": "No. 65",
-  "headline": "Launch bottlenecks. Funding surges. Defense pivots.",
-  "deck": "Small satellite operators scramble while funding flows into defense tech.",
+  "updated": "2026-06-26",
+  "issue": "No. 66",
+  "headline": "SpaceX alumni launch new megaconstellation venture.",
+  "deck": "Former SpaceX engineers aim to disrupt satellite ownership.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "LAUNCH",
-      "head": "SpaceX rideshare oversubscription leaves operators stranded",
-      "body": "Small satellite operators are facing a significant bottleneck as SpaceX's rideshare missions become oversubscribed, forcing many to reconsider their launch strategies. With alternatives limited, players like Astra and Rocket Lab may need to ramp up production to meet demand. The scramble for access highlights the fragility of relying on a single launch provider.",
-      "soWhat": "If SpaceX continues to dominate, we might see a wave of consolidation among smaller launch providers—survival of the fittest in the launch market."
-    },
-    {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M in Series C round",
-      "body": "True Anomaly has successfully closed a $190 million Series C funding round, bringing its valuation to $1.6 billion. The company specializes in co-orbital security and space domain awareness, which is increasingly critical as military and commercial interests converge in space. This investment underscores the growing importance of space security in the defense sector.",
-      "soWhat": "With this kind of capital, True Anomaly is positioned to become a key player in the space security landscape—watch for potential partnerships with defense contractors."
+      "kicker": "STARTUPS",
+      "head": "Starlink veterans aim for megaconstellation dominance.",
+      "body": "A group of former SpaceX engineers has launched a startup focused on broadening megaconstellation ownership for governments and companies. By leveraging their experience in satellite construction, they plan to sell entire constellations, not just individual satellites. This follows the trend of SpaceX alumni breaking away to carve out new niches in the space industry.",
+      "soWhat": "In a market where satellite ownership is increasingly competitive, this could signal a shift in how governments and companies approach satellite procurement."
     },
     {
       "kicker": "DEFENSE",
-      "head": "House approves $55.5B for Space Force operations",
-      "body": "The House Appropriations Committee has greenlit a $55.5 billion budget for the U.S. Space Force, emphasizing the need for competition in satellite communications. This funding is likely to accelerate various projects, including the tactical SDA constellation bid from Anduril and L3Harris. The increased budget reflects a growing recognition of space as a critical domain for national security.",
-      "soWhat": "This budget approval could lead to a flurry of contract opportunities—companies should be ready to pivot quickly to capture this funding."
+      "head": "Palantir secures $480M extension for TITAN program.",
+      "body": "Palantir has received a $480 million extension for its TITAN ground station program, emphasizing the company's grip on government contracts. This extension comes as the military emphasizes the importance of data integration and real-time analytics in defense operations. Given Palantir's history, this funding seems more about maintaining the status quo than pushing boundaries.",
+      "soWhat": "In government contracts, persistence often trumps innovation, and Palantir's continued funding demonstrates just how sticky these relationships can be."
+    },
+    {
+      "kicker": "LAUNCH",
+      "head": "Rocket Lab wins NASA contract for 2027 launches.",
+      "body": "NASA has awarded Rocket Lab a contract for three Electron launches scheduled in 2027, a notable win in a saturated launch market. This deal underscores Rocket Lab's resilience and ability to secure government contracts despite stiff competition from larger players. It’s a reminder that even in a crowded field, there’s always room for a few more rockets.",
+      "soWhat": "As launch costs decrease, the ability to secure government contracts becomes a key differentiator for companies trying to survive in this cutthroat environment."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for SpaceX's launch schedule adjustments",
-      "body": "With the rideshare bottleneck, SpaceX may need to adjust its launch schedule, impacting timelines for many small satellite operators."
+      "title": "Keep an eye on True Anomaly's Series C.",
+      "body": "With $190 million raised at a $1.6 billion valuation, True Anomaly is positioning itself as a leader in co-orbital security, which could reshape defense strategies."
     },
     {
-      "title": "Keep an eye on True Anomaly's partnerships",
-      "body": "True Anomaly's new funding could lead to strategic partnerships with larger defense contractors, reshaping the co-orbital security landscape."
+      "title": "Watch for Rocket Lab's launch schedule.",
+      "body": "The upcoming NASA launches in 2027 could set the stage for Rocket Lab's expansion and influence in the government sector."
     },
     {
-      "title": "Impacts of Space Force budget on contractors",
-      "body": "The approved budget will likely influence contract awards in the coming months—companies should align their proposals accordingly."
+      "title": "Sierra Space's Dream Chaser variant progress.",
+      "body": "With its critical design review cleared, all eyes will be on whether Sierra Space can deliver on its promises for the DoD variant."
     },
     {
-      "title": "Sierra Space's Dream Chaser flight tests",
-      "body": "With the critical design review cleared, all eyes will be on Sierra Space's upcoming flight tests to validate its DoD variant."
+      "title": "Palantir's TITAN program performance metrics.",
+      "body": "As Palantir continues to secure funding, stakeholders will be keen to see how the TITAN program performs under scrutiny."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains flat as it continues to navigate regulatory hurdles."
-    },
-    {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's recent bull case presentation highlights its precarious position in the satellite market."
+      "sym": "RKLB",
+      "note": "Rocket Lab's NASA contract win is a bright spot amid fierce competition."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program shows that persistence in government contracts pays off."
+      "note": "Palantir's $480M extension shows the value of persistence in government contracts."
     },
     {
-      "sym": "SIE",
-      "note": "Sierra Space's stock may see volatility as the company prepares for its Dream Chaser flight tests."
+      "sym": "TRUA",
+      "note": "True Anomaly's $190M Series C funding signals strong investor confidence in co-orbital security."
+    },
+    {
+      "sym": "ASTR",
+      "note": "Astranis raised $250M, highlighting the ongoing demand for satellite communication solutions."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
