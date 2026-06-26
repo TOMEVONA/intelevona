@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with new ventures and partnerships as established players look to expand their influence. Meanwhile, concerns about the health of the ISS and the challenges of hypersonic technology continue to loom large.",
+  "summary": "The space industry is seeing a mix of new ventures and ongoing challenges, particularly in satellite technology and international security. As companies jockey for position, the health of existing infrastructure, like the ISS, remains a concern.",
   "themes": [
     {
       "icon": "▣",
-      "title": "New Ventures in Megaconstellations",
-      "body": "Starlink veterans are launching a startup aimed at broadening ownership of megaconstellations, signaling a shift in how satellite networks might be structured. This could lead to increased competition and innovation in the satellite communications market."
+      "title": "New Ventures in Satellites",
+      "body": "Starlink veterans are launching a startup aimed at expanding megaconstellation ownership, indicating a shift towards more competitive satellite landscapes. Meanwhile, True Anomaly's recent $190M Series C funding reflects growing investor interest in space-based capabilities."
     },
     {
       "icon": "◉",
       "title": "ISS Health Concerns",
-      "body": "A recent repair spacewalk at the ISS has brought to light ongoing worries about the station's longevity and operational viability. As the station ages, these issues may necessitate more robust international collaboration to ensure its continued function."
+      "body": "Recent repair spacewalks on the ISS underscore ongoing worries about the station's long-term viability. As the aging platform continues to face technical challenges, the debate over its future intensifies."
     },
     {
       "icon": "▲",
-      "title": "Defense Tech and Space Resilience",
-      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, reflecting growing recognition of the strategic importance of space in defense. This funding boost may catalyze new projects and partnerships in the defense-tech sector."
+      "title": "Defense Spending on the Rise",
+      "body": "The FY27 budget markup has added $1.4B to the space resilience line, highlighting an increasing recognition of space as a critical domain for national security. This influx of funding may bolster various defense initiatives, including satellite development."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Technology Delays",
-      "body": "The latest hypersonic glide-vehicle test has slipped again, marking the third consecutive quarter of delays. This trend raises questions about the feasibility and readiness of hypersonic capabilities in the near term."
+      "title": "International Security in Orbit",
+      "body": "Europe's next security challenge is emerging in the orbital arena, reflecting the geopolitical complexities of space. As nations recognize the strategic importance of space assets, collaboration and competition are expected to escalate."
     }
   ],
-  "updated": "2026-06-26 15:27 UTC"
+  "updated": "2026-06-26 16:11 UTC"
 }
