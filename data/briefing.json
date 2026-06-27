@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-26",
-  "issue": "No. 66",
-  "headline": "New startups emerge. Budgets increase. Old satellites limp.",
-  "deck": "This week sees new ventures in satellite ownership and budget boosts for space resilience.",
+  "updated": "2026-06-27",
+  "issue": "No. 67",
+  "headline": "Funding flows. Satellites launch. Concerns mount.",
+  "deck": "This week, space funding surged while satellite operations faced scrutiny.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "STARTUPS",
-      "head": "Starlink veterans launch new megaconstellation venture",
-      "body": "A group of former SpaceX engineers has founded a startup aimed at expanding megaconstellation ownership for governments and corporations. The venture's goal is to democratize access to satellite services, which could reshape the competitive landscape that SpaceX has dominated. If successful, this could mean a more fragmented market, but one that may also offer better service diversity.",
-      "soWhat": "If the startup gains traction, expect SpaceX to feel the heat—competition in the satellite space is about to get more interesting."
-    },
-    {
-      "kicker": "CONTRACTS",
-      "head": "Rocket Lab secures NASA award for three launches",
-      "body": "NASA has awarded Rocket Lab three Electron launches for science missions slated for 2027, valued at an undisclosed amount but a clear win for the company. This award comes after a lengthy selection process, raising eyebrows about NASA's timeline for mission planning. Rocket Lab’s ability to deliver on these launches will be closely watched as it attempts to solidify its role in the science payload market.",
-      "soWhat": "NASA's slow decision-making might just be Rocket Lab's gain; it’s a reminder that patience can occasionally pay off in government contracts."
-    },
-    {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M Series C amid defense pull",
-      "body": "True Anomaly has successfully raised $190 million in a Series C round, bringing its valuation to $1.6 billion. The funding underscores the growing interest in co-orbital security and space domain awareness, with the Department of Defense increasingly pulling in private sector capabilities. As defense budgets tighten, this capital influx indicates a market shift towards more private-public partnerships.",
-      "soWhat": "True Anomaly's funding is a sign that the defense sector is serious about space—if you’re not thinking co-orbital, you might be missing the boat."
+      "head": "True Anomaly bags $190M for co-orbital security",
+      "body": "True Anomaly raised $190 million in a Series C round, valuing the company at $1.6 billion. The funding emphasizes the growing demand for co-orbital security and space domain awareness, especially as geopolitical tensions rise. With DoD pull-through becoming a headline, the market is clearly betting on a future filled with more threats and more satellites.",
+      "soWhat": "Investors are clearly convinced that space security is the next big thing, but it’s worth noting that the hype often overshadows the actual capabilities."
+    },
+    {
+      "kicker": "LAUNCH",
+      "head": "Rocket Lab launches 10th Synspective satellite",
+      "body": "Rocket Lab successfully launched its 10th Synspective satellite, showcasing its reliability in the small satellite launch market. This mission adds to a growing fleet aimed at Earth observation, despite the company's ongoing struggles with rocket landings. With each successful launch, Rocket Lab inches closer to solidifying its position against competitors like SpaceX.",
+      "soWhat": "Reliability in launches is becoming the new currency; Rocket Lab's ability to deliver consistently may set it apart in a crowded field."
+    },
+    {
+      "kicker": "CONCERNS",
+      "head": "ISS repair highlights station's deteriorating health",
+      "body": "NASA astronauts are preparing for a spacewalk to repair a robotic arm on the International Space Station, raising alarms about the station's long-term viability. As repairs become more frequent, questions linger about whether the ISS can sustain its operational status for much longer. The ISS, once a symbol of international cooperation, is now a patchwork of quick fixes.",
+      "soWhat": "The ISS may soon become a liability rather than an asset; if the repairs keep piling up, the future of human spaceflight might need a new stage."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Rocket Lab's launches",
-      "body": "With NASA's backing, Rocket Lab's upcoming launches could set the stage for more lucrative contracts."
+      "title": "Watch for Anduril and L3Harris partnership news",
+      "body": "Their tactical SDA constellation bid could reshape defense procurement strategies in the coming weeks."
     },
     {
-      "title": "Watch for updates from True Anomaly",
-      "body": "True Anomaly's next moves will be pivotal as it integrates further into defense frameworks."
+      "title": "Keep an eye on GPS jamming trends",
+      "body": "Recent returns to pre-2024 levels might indicate shifting geopolitical dynamics and renewed focus on space security."
     },
     {
-      "title": "Sierra Space's Dream Chaser next steps",
-      "body": "After passing critical design review, how Sierra Space executes will be crucial for its future in the DoD space."
+      "title": "Sierra Space's next steps post-design review",
+      "body": "With the Dream Chaser DoD variant cleared, the pressure mounts for a successful launch—no one wants another delay."
     },
     {
-      "title": "Potential IPOs in defense-tech",
-      "body": "With the defense-tech IPO window opening, several startups may seek public funding, changing the investment landscape."
+      "title": "True Anomaly's impact on co-orbital strategies",
+      "body": "As they ramp up funding and capabilities, competitors will need to adapt or risk being left behind."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "RKLB",
-      "note": "Rocket Lab's contract win with NASA bolsters its position in the launch market."
+      "note": "Rocket Lab's recent launch success may bolster its stock as it demonstrates reliability."
     },
     {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M funding round signals strong investor confidence in defense applications."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480 million extension shows that government contracts are still a lucrative playground."
     },
     {
-      "sym": "ASTR",
-      "note": "Astranis's $250M raise for microGEO production indicates serious interest in small satellite communications."
+      "sym": "ASTS",
+      "note": "ASTS's bull case is looking more precarious as it navigates execution challenges."
     },
     {
-      "sym": "PAL",
-      "note": "Palantir's $480M extension on the TITAN program shows the government’s reliance on established players."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains a speculative play as it continues to chase profitability."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

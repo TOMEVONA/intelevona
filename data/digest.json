@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is seeing a mix of new ventures and ongoing challenges, particularly in satellite technology and international security. As companies jockey for position, the health of existing infrastructure, like the ISS, remains a concern.",
+  "summary": "The space and defense sectors are buzzing with activity as new satellite launches and funding initiatives take center stage. Meanwhile, concerns about the health of the ISS and geopolitical tensions in orbit remind us that not all is smooth sailing.",
   "themes": [
     {
       "icon": "▣",
-      "title": "New Ventures in Satellites",
-      "body": "Starlink veterans are launching a startup aimed at expanding megaconstellation ownership, indicating a shift towards more competitive satellite landscapes. Meanwhile, True Anomaly's recent $190M Series C funding reflects growing investor interest in space-based capabilities."
+      "title": "Satellite Launches Abound",
+      "body": "Rocket Lab's recent launch of the 10th Synspective satellite underscores the growing demand for satellite services. This trend is further amplified by Spain's backing of FOSSA's sovereign communications initiative."
     },
     {
       "icon": "◉",
-      "title": "ISS Health Concerns",
-      "body": "Recent repair spacewalks on the ISS underscore ongoing worries about the station's long-term viability. As the aging platform continues to face technical challenges, the debate over its future intensifies."
+      "title": "Funding Fuels Space Ventures",
+      "body": "The FY27 budget markup adding $1.4B to space resilience is a clear indicator of the increasing prioritization of space defense. Additionally, True Anomaly's $190M Series C funding round highlights investor confidence in the commercial space sector."
     },
     {
       "icon": "▲",
-      "title": "Defense Spending on the Rise",
-      "body": "The FY27 budget markup has added $1.4B to the space resilience line, highlighting an increasing recognition of space as a critical domain for national security. This influx of funding may bolster various defense initiatives, including satellite development."
+      "title": "Geopolitical Tensions in Orbit",
+      "body": "Recent reports of Russian co-orbital activity near commercial GEO slots signal a potential escalation in space-related geopolitical maneuvering. As Europe grapples with security challenges in orbit, the implications for international cooperation are becoming more pronounced."
     },
     {
       "icon": "◆",
-      "title": "International Security in Orbit",
-      "body": "Europe's next security challenge is emerging in the orbital arena, reflecting the geopolitical complexities of space. As nations recognize the strategic importance of space assets, collaboration and competition are expected to escalate."
+      "title": "Health of the ISS in Question",
+      "body": "The recent ISS repair spacewalk raises eyebrows about the station's long-term viability and operational integrity. As private entities like Sierra Space advance their own space capabilities, the future of the ISS may hinge on commercial partnerships."
     }
   ],
-  "updated": "2026-06-26 16:11 UTC"
+  "updated": "2026-06-27 15:12 UTC"
 }
