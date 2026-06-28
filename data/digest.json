@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as new satellite launches and funding initiatives take center stage. Meanwhile, concerns about the health of the ISS and the ongoing challenges in hypersonic testing remind us that not all is smooth sailing in orbit.",
+  "summary": "This week, the space industry is buzzing with activity ranging from satellite launches to defense tech investments. As nations and companies alike scramble for orbital supremacy, the challenges of space resilience and station health loom large.",
   "themes": [
     {
       "icon": "▣",
       "title": "Satellite Launches Galore",
-      "body": "Rocket Lab's recent launch of the 10th Synspective satellite underscores the growing trend of commercial satellite deployments. This is complemented by Spain's financial backing of FOSSA's communications push, indicating a robust interest in sovereign satellite capabilities."
+      "body": "Rocket Lab's latest launch of the 10th Synspective satellite underscores the growing appetite for commercial satellite deployments. Meanwhile, Spain's backing of FOSSA highlights the increasing importance of sovereign satellite communications in a crowded orbital landscape."
     },
     {
       "icon": "◉",
-      "title": "Defense Budgets on the Rise",
-      "body": "The FY27 budget markup adding $1.4 billion to space resilience highlights a renewed focus on fortifying national security in the orbital arena. With Anduril and L3Harris teaming up for a tactical SDA constellation bid, the defense sector is clearly gearing up for a more competitive space landscape."
+      "title": "Defense Tech Investment Surge",
+      "body": "The FY27 budget markup's $1.4B boost for space resilience signals a robust commitment to fortifying national security in orbit. Coupled with Palantir's $480M extension on the TITAN program, it's clear that defense tech is attracting renewed interest from investors."
     },
     {
       "icon": "▲",
-      "title": "Concerns Over ISS Health",
-      "body": "A recent spacewalk to repair the ISS has amplified worries about the station's long-term viability. As the international community grapples with its aging infrastructure, the question of how to sustain human presence in low Earth orbit looms larger."
+      "title": "Space Station Health Concerns",
+      "body": "A recent ISS repair spacewalk has raised eyebrows about the aging station's viability. As the risks mount, the international community may need to rethink its long-term plans for human presence in low Earth orbit."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Testing Stumbles",
-      "body": "The third consecutive delay in hypersonic glide-vehicle testing raises eyebrows about the pace of technological advancement in this critical area. As nations race to develop these capabilities, the setbacks could impact strategic military planning."
+      "title": "Emerging Threats in Orbit",
+      "body": "Russia's co-orbital activities near commercial GEO slots have drawn attention, highlighting the geopolitical tensions that are increasingly playing out in space. As Europe faces new security challenges, the need for enhanced space situational awareness becomes ever more pressing."
     }
   ],
-  "updated": "2026-06-28 14:50 UTC"
+  "updated": "2026-06-28 15:14 UTC"
 }

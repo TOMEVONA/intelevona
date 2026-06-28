@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-28",
   "issue": "No. 68",
-  "headline": "Funding flows. Satellites launch. Defense contracts grow.",
-  "deck": "This week saw significant investments and launches in the space sector, with a notable focus on defense and communication technologies.",
+  "headline": "Funding flows. Security concerns. Satellites launch.",
+  "deck": "This week, space funding continues while security challenges rise in orbit.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, riding the wave of increasing DoD interest in these capabilities. With this cash influx, True Anomaly is poised to expand its operational reach in a market that’s becoming more crowded by the day.",
-      "soWhat": "In a world where space threats are becoming more tangible, True Anomaly's funding is a reminder that cash is king, even if the innovation is just a side dish."
+      "head": "True Anomaly raises $190M amid co-orbital worries",
+      "body": "True Anomaly secured a $190 million Series C at a $1.6 billion valuation, highlighting the increasing interest in co-orbital security solutions. This funding comes as concerns about Russia's co-orbital activities near commercial GEO slots raise eyebrows among insurers and operators alike. The DoD's push for space domain awareness is clearly paying off.",
+      "soWhat": "In an era where orbital security is paramount, True Anomaly's funding isn't just cash—it's a signal that investors are betting on the future of space defense."
     },
     {
       "kicker": "LAUNCH",
-      "head": "Rocket Lab's 10th Synspective satellite launched",
-      "body": "Rocket Lab successfully launched its 10th Synspective satellite, marking a steady progression in its partnership with the Japanese startup. The launch adds to the growing constellation aimed at providing advanced Earth observation services. At approximately $5 million per launch, Rocket Lab continues to demonstrate that persistence can pay off, albeit at a premium.",
-      "soWhat": "Rocket Lab's consistency in launching satellites shows that in the space game, reliability can sometimes outweigh the flashiness of a single blockbuster launch."
+      "head": "Rocket Lab proves small rockets can party too",
+      "body": "Rocket Lab successfully launched its 10th Synspective satellite, reinforcing the idea that small rockets can maintain a busy launch schedule. This mission adds to Rocket Lab's growing portfolio, proving that even the little guys can make a big impact in the satellite market. With increasing demand for small satellite launches, Rocket Lab is clearly in the right lane.",
+      "soWhat": "Rocket Lab's success suggests that the small satellite launch market is maturing, leaving larger players to rethink their strategies in a crowded space."
     },
     {
-      "kicker": "COLLABORATION",
-      "head": "Anduril and L3Harris team for tactical SDA bid",
-      "body": "Anduril and L3Harris are collaborating on a bid for a tactical Space Development Agency (SDA) constellation, combining Anduril's defense tech prowess with L3Harris's satellite expertise. This partnership comes as the DoD pushes for more integrated space capabilities, highlighting the growing importance of collaboration in defense contracts. The exact financial terms of the bid remain undisclosed, but expect it to be competitive.",
-      "soWhat": "In defense, partnerships can be as fleeting as a shooting star, but this one could signal a shift toward more integrated space solutions."
+      "kicker": "STRATEGY",
+      "head": "Spain backs FOSSA with $10.5M for satellite push",
+      "body": "FOSSA Systems raised $10.5 million with backing from a Spanish fund, aiming to enhance sovereign satellite communications. This funding reflects a growing trend among European nations to bolster their space capabilities, especially in the face of increasing geopolitical tensions. It's clear that even satellites need a financial safety net these days.",
+      "soWhat": "The Spanish investment in FOSSA signals a shift towards more localized satellite capabilities, potentially reshaping the European space landscape in the coming years."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on FOSSA's next moves",
-      "body": "With $10.5 million in fresh capital, FOSSA Systems could redefine satellite communications in Spain—watch for their next announcement."
+      "title": "Watch for further funding rounds next week",
+      "body": "As interest in space security grows, expect more funding announcements as companies position themselves for defense contracts."
     },
     {
-      "title": "Sierra Space's Dream Chaser variant",
-      "body": "Having cleared its critical design review, the real test will be whether Sierra Space can actually get it off the ground—stay tuned."
+      "title": "Keep an eye on ISS health updates",
+      "body": "Upcoming reports on the ISS's health could impact future missions and funding for repairs, especially with the spacewalk scheduled."
     },
     {
-      "title": "Palantir's TITAN program extension",
-      "body": "Palantir's $480 million extension is a signal that government contracts are still a lucrative game, but can they keep innovating?"
+      "title": "Monitor developments in hypersonic tech",
+      "body": "With hypersonic tests slipping, the defense community will be keen to see if any breakthroughs emerge that could change the narrative."
     },
     {
-      "title": "Hypersonic glide-vehicle tests delayed again",
-      "body": "With delays piling up for the third quarter in a row, the hypersonic program might need to rethink its timeline—investors will be watching closely."
+      "title": "Watch for satellite communications trends",
+      "body": "FOSSA's push may inspire similar initiatives across Europe, potentially leading to a wave of new satellite projects."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "RKLB",
-      "note": "Rocket Lab continues to prove its reliability with another successful launch this week."
+      "note": "Rocket Lab's recent launch demonstrates its growing role in the small satellite market."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's government contracts remain strong, with a $480 million extension on TITAN."
+      "note": "Palantir's $480M contract extension reinforces its foothold in government space projects."
     },
     {
-      "sym": "ANDE",
-      "note": "Anduril's partnership with L3Harris could bolster its position in the defense space."
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's ambitious plans continue to face scrutiny as the market watches closely."
     },
     {
-      "sym": "TRUE",
-      "note": "True Anomaly's Series C funding indicates a strong investor belief in co-orbital security."
+      "sym": "Sierra Space",
+      "note": "Sierra's Dream Chaser variant passing design review is a crucial step, but execution remains key."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
