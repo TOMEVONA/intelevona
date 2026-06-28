@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity as new satellite launches and funding initiatives take center stage. Meanwhile, concerns about the health of the ISS and geopolitical tensions in orbit remind us that not all is smooth sailing.",
+  "summary": "The space industry is buzzing with activity as new satellite launches and funding initiatives take center stage. Meanwhile, concerns about the health of the ISS and the ongoing challenges in hypersonic testing remind us that not all is smooth sailing in orbit.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Satellite Launches Abound",
-      "body": "Rocket Lab's recent launch of the 10th Synspective satellite underscores the growing demand for satellite services. This trend is further amplified by Spain's backing of FOSSA's sovereign communications initiative."
+      "title": "Satellite Launches Galore",
+      "body": "Rocket Lab's recent launch of the 10th Synspective satellite underscores the growing trend of commercial satellite deployments. This is complemented by Spain's financial backing of FOSSA's communications push, indicating a robust interest in sovereign satellite capabilities."
     },
     {
       "icon": "◉",
-      "title": "Funding Fuels Space Ventures",
-      "body": "The FY27 budget markup adding $1.4B to space resilience is a clear indicator of the increasing prioritization of space defense. Additionally, True Anomaly's $190M Series C funding round highlights investor confidence in the commercial space sector."
+      "title": "Defense Budgets on the Rise",
+      "body": "The FY27 budget markup adding $1.4 billion to space resilience highlights a renewed focus on fortifying national security in the orbital arena. With Anduril and L3Harris teaming up for a tactical SDA constellation bid, the defense sector is clearly gearing up for a more competitive space landscape."
     },
     {
       "icon": "▲",
-      "title": "Geopolitical Tensions in Orbit",
-      "body": "Recent reports of Russian co-orbital activity near commercial GEO slots signal a potential escalation in space-related geopolitical maneuvering. As Europe grapples with security challenges in orbit, the implications for international cooperation are becoming more pronounced."
+      "title": "Concerns Over ISS Health",
+      "body": "A recent spacewalk to repair the ISS has amplified worries about the station's long-term viability. As the international community grapples with its aging infrastructure, the question of how to sustain human presence in low Earth orbit looms larger."
     },
     {
       "icon": "◆",
-      "title": "Health of the ISS in Question",
-      "body": "The recent ISS repair spacewalk raises eyebrows about the station's long-term viability and operational integrity. As private entities like Sierra Space advance their own space capabilities, the future of the ISS may hinge on commercial partnerships."
+      "title": "Hypersonic Testing Stumbles",
+      "body": "The third consecutive delay in hypersonic glide-vehicle testing raises eyebrows about the pace of technological advancement in this critical area. As nations race to develop these capabilities, the setbacks could impact strategic military planning."
     }
   ],
-  "updated": "2026-06-27 15:12 UTC"
+  "updated": "2026-06-28 14:50 UTC"
 }
