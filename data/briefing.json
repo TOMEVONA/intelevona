@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-29",
   "issue": "No. 69",
-  "headline": "Rocket Lab buys Iridium. ESA seeks lunar data.",
-  "deck": "Rocket Lab's $8 billion acquisition raises eyebrows, while ESA's lunar ambitions hint at outsourcing.",
+  "headline": "Acquisitions abound. Budgets increase. Innovation stalls.",
+  "deck": "This week highlights a flurry of acquisitions alongside a notable budget increase for space resilience.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "ACQUISITION",
-      "head": "Rocket Lab's $8 billion gamble on Iridium",
-      "body": "Rocket Lab has announced its acquisition of Iridium for $8 billion, a strategic move that CEO Peter Beck describes as the 'logical next step.' With this acquisition, Rocket Lab aims to bolster its position in the space services sector, but one has to wonder if they’re simply trying to play catch-up in a crowded market. Iridium's existing infrastructure might offer Rocket Lab a shortcut to credibility, but it also raises questions about their organic growth strategy.",
-      "soWhat": "If Rocket Lab is banking on Iridium to redefine its identity, they better hope it’s not just a shiny distraction from deeper issues."
+      "head": "Rocket Lab's Iridium deal raises eyebrows",
+      "body": "Rocket Lab's acquisition of Iridium for an undisclosed amount has been labeled as the 'logical next step' by CEO Peter Beck. This move comes as Rocket Lab aims to bolster its satellite communications capabilities, a sector where competition is heating up. With Iridium's established network, Rocket Lab is positioning itself to capture a larger share of the lucrative communications market.",
+      "soWhat": "Acquisitions like this often signal that companies are scrambling to consolidate their positions before the next wave of competition emerges."
+    },
+    {
+      "kicker": "FUNDING",
+      "head": "True Anomaly secures $190M amid co-orbital concerns",
+      "body": "True Anomaly raised $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The funding is aimed at enhancing its co-orbital security and space domain awareness capabilities, which are increasingly critical as geopolitical tensions escalate. The backing comes primarily from defense-focused investors, underscoring the growing importance of security in space operations.",
+      "soWhat": "When defense investors are this eager, it's usually a sign that they foresee a market where security is not just a luxury but a necessity."
     },
     {
       "kicker": "BUDGET",
-      "head": "FY27 budget adds $1.4B for space resilience",
-      "body": "The recent FY27 budget markup has allocated an additional $1.4 billion for space resilience initiatives, marking a significant acknowledgment of the vulnerabilities in our orbital operations. This funding is a clear signal from lawmakers that they recognize space as more than just a sci-fi backdrop. However, whether this money translates into actionable improvements remains to be seen, as bureaucratic inertia often stifles timely progress.",
-      "soWhat": "More money doesn’t guarantee better outcomes; it just makes the stakes higher if nothing changes."
-    },
-    {
-      "kicker": "TECHNOLOGY",
-      "head": "Quantum computing emerges as a security concern",
-      "body": "As quantum computing technology advances, it is increasingly viewed as a national security risk in orbit, particularly regarding encryption vulnerabilities. This emerging threat is prompting defense contractors to reassess their strategies and technologies. While the implications are serious, the race to develop quantum-resistant solutions is likely to generate a wave of new contracts and partnerships, but it also risks becoming the next buzzword bingo in government discussions.",
-      "soWhat": "If the military gets too caught up in the quantum hype, we might end up with more funding for buzzwords than actual solutions."
+      "head": "$1.4B added to FY27 space resilience budget",
+      "body": "The recent markup for the FY27 budget has allocated an additional $1.4 billion to enhance space resilience, reflecting a growing recognition of the strategic importance of space capabilities. This increase will likely fund various initiatives, including satellite protection and infrastructure upgrades, as the U.S. seeks to fortify its position in an increasingly contested domain.",
+      "soWhat": "This budget boost indicates that lawmakers are finally connecting the dots between space and national security, which could lead to more robust funding cycles in the future."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch Rocket Lab's integration of Iridium",
-      "body": "The success of Rocket Lab's acquisition hinges on how quickly they can integrate Iridium's assets into their operations."
+      "title": "Watch for more acquisitions in space",
+      "body": "As companies like Rocket Lab demonstrate, acquisitions could become a key strategy for growth amidst rising competition."
     },
     {
-      "title": "Impact of new budget on startups",
-      "body": "The increased budget for space resilience could open doors for startups focused on defense and security solutions."
+      "title": "Upcoming defense-tech IPOs to monitor",
+      "body": "With the defense-tech IPO window cracking open, several companies may soon seek public funding, which could shift market dynamics."
     },
     {
-      "title": "ESA's lunar mapping RFP expected soon",
-      "body": "The European Space Agency's desire for lunar mapping capabilities may lead to lucrative contracts for data providers."
+      "title": "Potential impacts of GPS jamming",
+      "body": "The return of GPS jamming in the Eastern Med could prompt new discussions on satellite resilience and operational security."
     },
     {
-      "title": "Monitor developments in quantum computing",
-      "body": "As quantum computing becomes a focal point for national security, related companies may see increased attention from investors."
+      "title": "Sierra Space's next steps post-review",
+      "body": "With the Dream Chaser DoD variant clearing its critical design review, the next phase will be crucial for Sierra Space's future contracts."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "RKLB",
-      "note": "Rocket Lab's stock may be volatile as investors digest the $8 billion Iridium acquisition."
+      "note": "Rocket Lab's acquisition of Iridium could reshape its market strategy."
+    },
+    {
+      "sym": "TRUE",
+      "note": "True Anomaly's $190M raise signals strong investor confidence in co-orbital security."
+    },
+    {
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's recent performance highlights the risks of ambitious satellite ventures."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480 million contract extension shows their persistence in government contracts is paying off."
-    },
-    {
-      "sym": "SLS",
-      "note": "Sierra Space's Dream Chaser passing its design review is a positive sign, but execution is key."
-    },
-    {
-      "sym": "TAN",
-      "note": "True Anomaly's recent $190M raise underscores the growing importance of co-orbital security solutions."
+      "note": "Palantir's $480M contract extension reflects its strong hold in government space projects."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

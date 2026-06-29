@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity this week, from acquisitions to new initiatives in lunar exploration. As the industry grapples with emerging technologies and geopolitical tensions, the focus remains on resilience and collaboration.",
+  "summary": "The space and defense sectors are buzzing with activity, from lunar mapping initiatives to strategic acquisitions. As national security concerns mount, quantum computing's implications in orbit are becoming a focal point.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Lunar Ambitions Heat Up",
-      "body": "The European Space Agency is on the hunt for lunar mapping capabilities to support its Argonaut lander, signaling a renewed interest in lunar exploration. This move may set the stage for increased international collaboration in the race to the Moon."
+      "title": "Lunar Ambitions Grow",
+      "body": "ESA's push for lunar mapping capabilities signals a renewed focus on extraterrestrial exploration. The Argonaut lander could pave the way for future missions, but let's hope it doesn't get lost in the moon's craters."
     },
     {
       "icon": "◉",
-      "title": "Acquisition Frenzy Continues",
-      "body": "Rocket Lab's acquisition of Iridium is being touted as a logical next step, reflecting a broader trend of consolidation in the space sector. Expect more players to follow suit as they seek to bolster their capabilities and market positions."
+      "title": "Acquisition Frenzy",
+      "body": "Rocket Lab's acquisition of Iridium is deemed a 'logical next step,' but it raises questions about market consolidation. With the defense-tech IPO window cracking open, expect more players to follow suit."
     },
     {
       "icon": "▲",
       "title": "Quantum Concerns in Orbit",
-      "body": "As quantum computing advances, its implications for national security in space are becoming increasingly apparent. The industry must now grapple with how to safeguard sensitive information against potential quantum threats."
+      "body": "As quantum computing emerges as a potential national security issue, the space industry must brace for its implications. The race to secure quantum technologies is heating up, and the stakes couldn't be higher."
     },
     {
       "icon": "◆",
-      "title": "Funding for Space Resilience",
-      "body": "The recent $1.4 billion boost to the space resilience line in the FY27 budget underscores the growing recognition of vulnerabilities in orbital operations. This funding will likely enhance capabilities to counter emerging threats and bolster national security."
+      "title": "Space Resilience Funding Boost",
+      "body": "The FY27 budget markup's $1.4 billion increase for space resilience reflects growing recognition of vulnerabilities in orbit. This funding could enhance capabilities, but let's not forget the bureaucratic hurdles ahead."
     }
   ],
-  "updated": "2026-06-29 16:40 UTC"
+  "updated": "2026-06-29 16:50 UTC"
 }
