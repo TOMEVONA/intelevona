@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space industry is buzzing with activity ranging from satellite launches to defense tech investments. As nations and companies alike scramble for orbital supremacy, the challenges of space resilience and station health loom large.",
+  "summary": "The space and defense sectors are buzzing with activity this week, from acquisitions to new initiatives in lunar exploration. As the industry grapples with emerging technologies and geopolitical tensions, the focus remains on resilience and collaboration.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Satellite Launches Galore",
-      "body": "Rocket Lab's latest launch of the 10th Synspective satellite underscores the growing appetite for commercial satellite deployments. Meanwhile, Spain's backing of FOSSA highlights the increasing importance of sovereign satellite communications in a crowded orbital landscape."
+      "title": "Lunar Ambitions Heat Up",
+      "body": "The European Space Agency is on the hunt for lunar mapping capabilities to support its Argonaut lander, signaling a renewed interest in lunar exploration. This move may set the stage for increased international collaboration in the race to the Moon."
     },
     {
       "icon": "◉",
-      "title": "Defense Tech Investment Surge",
-      "body": "The FY27 budget markup's $1.4B boost for space resilience signals a robust commitment to fortifying national security in orbit. Coupled with Palantir's $480M extension on the TITAN program, it's clear that defense tech is attracting renewed interest from investors."
+      "title": "Acquisition Frenzy Continues",
+      "body": "Rocket Lab's acquisition of Iridium is being touted as a logical next step, reflecting a broader trend of consolidation in the space sector. Expect more players to follow suit as they seek to bolster their capabilities and market positions."
     },
     {
       "icon": "▲",
-      "title": "Space Station Health Concerns",
-      "body": "A recent ISS repair spacewalk has raised eyebrows about the aging station's viability. As the risks mount, the international community may need to rethink its long-term plans for human presence in low Earth orbit."
+      "title": "Quantum Concerns in Orbit",
+      "body": "As quantum computing advances, its implications for national security in space are becoming increasingly apparent. The industry must now grapple with how to safeguard sensitive information against potential quantum threats."
     },
     {
       "icon": "◆",
-      "title": "Emerging Threats in Orbit",
-      "body": "Russia's co-orbital activities near commercial GEO slots have drawn attention, highlighting the geopolitical tensions that are increasingly playing out in space. As Europe faces new security challenges, the need for enhanced space situational awareness becomes ever more pressing."
+      "title": "Funding for Space Resilience",
+      "body": "The recent $1.4 billion boost to the space resilience line in the FY27 budget underscores the growing recognition of vulnerabilities in orbital operations. This funding will likely enhance capabilities to counter emerging threats and bolster national security."
     }
   ],
-  "updated": "2026-06-28 15:14 UTC"
+  "updated": "2026-06-29 16:40 UTC"
 }

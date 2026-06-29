@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-28",
-  "issue": "No. 68",
-  "headline": "Funding flows. Security concerns. Satellites launch.",
-  "deck": "This week, space funding continues while security challenges rise in orbit.",
+  "updated": "2026-06-29",
+  "issue": "No. 69",
+  "headline": "Rocket Lab buys Iridium. ESA seeks lunar data.",
+  "deck": "Rocket Lab's $8 billion acquisition raises eyebrows, while ESA's lunar ambitions hint at outsourcing.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid co-orbital worries",
-      "body": "True Anomaly secured a $190 million Series C at a $1.6 billion valuation, highlighting the increasing interest in co-orbital security solutions. This funding comes as concerns about Russia's co-orbital activities near commercial GEO slots raise eyebrows among insurers and operators alike. The DoD's push for space domain awareness is clearly paying off.",
-      "soWhat": "In an era where orbital security is paramount, True Anomaly's funding isn't just cash—it's a signal that investors are betting on the future of space defense."
+      "kicker": "ACQUISITION",
+      "head": "Rocket Lab's $8 billion gamble on Iridium",
+      "body": "Rocket Lab has announced its acquisition of Iridium for $8 billion, a strategic move that CEO Peter Beck describes as the 'logical next step.' With this acquisition, Rocket Lab aims to bolster its position in the space services sector, but one has to wonder if they’re simply trying to play catch-up in a crowded market. Iridium's existing infrastructure might offer Rocket Lab a shortcut to credibility, but it also raises questions about their organic growth strategy.",
+      "soWhat": "If Rocket Lab is banking on Iridium to redefine its identity, they better hope it’s not just a shiny distraction from deeper issues."
     },
     {
-      "kicker": "LAUNCH",
-      "head": "Rocket Lab proves small rockets can party too",
-      "body": "Rocket Lab successfully launched its 10th Synspective satellite, reinforcing the idea that small rockets can maintain a busy launch schedule. This mission adds to Rocket Lab's growing portfolio, proving that even the little guys can make a big impact in the satellite market. With increasing demand for small satellite launches, Rocket Lab is clearly in the right lane.",
-      "soWhat": "Rocket Lab's success suggests that the small satellite launch market is maturing, leaving larger players to rethink their strategies in a crowded space."
+      "kicker": "BUDGET",
+      "head": "FY27 budget adds $1.4B for space resilience",
+      "body": "The recent FY27 budget markup has allocated an additional $1.4 billion for space resilience initiatives, marking a significant acknowledgment of the vulnerabilities in our orbital operations. This funding is a clear signal from lawmakers that they recognize space as more than just a sci-fi backdrop. However, whether this money translates into actionable improvements remains to be seen, as bureaucratic inertia often stifles timely progress.",
+      "soWhat": "More money doesn’t guarantee better outcomes; it just makes the stakes higher if nothing changes."
     },
     {
-      "kicker": "STRATEGY",
-      "head": "Spain backs FOSSA with $10.5M for satellite push",
-      "body": "FOSSA Systems raised $10.5 million with backing from a Spanish fund, aiming to enhance sovereign satellite communications. This funding reflects a growing trend among European nations to bolster their space capabilities, especially in the face of increasing geopolitical tensions. It's clear that even satellites need a financial safety net these days.",
-      "soWhat": "The Spanish investment in FOSSA signals a shift towards more localized satellite capabilities, potentially reshaping the European space landscape in the coming years."
+      "kicker": "TECHNOLOGY",
+      "head": "Quantum computing emerges as a security concern",
+      "body": "As quantum computing technology advances, it is increasingly viewed as a national security risk in orbit, particularly regarding encryption vulnerabilities. This emerging threat is prompting defense contractors to reassess their strategies and technologies. While the implications are serious, the race to develop quantum-resistant solutions is likely to generate a wave of new contracts and partnerships, but it also risks becoming the next buzzword bingo in government discussions.",
+      "soWhat": "If the military gets too caught up in the quantum hype, we might end up with more funding for buzzwords than actual solutions."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for further funding rounds next week",
-      "body": "As interest in space security grows, expect more funding announcements as companies position themselves for defense contracts."
+      "title": "Watch Rocket Lab's integration of Iridium",
+      "body": "The success of Rocket Lab's acquisition hinges on how quickly they can integrate Iridium's assets into their operations."
     },
     {
-      "title": "Keep an eye on ISS health updates",
-      "body": "Upcoming reports on the ISS's health could impact future missions and funding for repairs, especially with the spacewalk scheduled."
+      "title": "Impact of new budget on startups",
+      "body": "The increased budget for space resilience could open doors for startups focused on defense and security solutions."
     },
     {
-      "title": "Monitor developments in hypersonic tech",
-      "body": "With hypersonic tests slipping, the defense community will be keen to see if any breakthroughs emerge that could change the narrative."
+      "title": "ESA's lunar mapping RFP expected soon",
+      "body": "The European Space Agency's desire for lunar mapping capabilities may lead to lucrative contracts for data providers."
     },
     {
-      "title": "Watch for satellite communications trends",
-      "body": "FOSSA's push may inspire similar initiatives across Europe, potentially leading to a wave of new satellite projects."
+      "title": "Monitor developments in quantum computing",
+      "body": "As quantum computing becomes a focal point for national security, related companies may see increased attention from investors."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "RKLB",
-      "note": "Rocket Lab's recent launch demonstrates its growing role in the small satellite market."
+      "note": "Rocket Lab's stock may be volatile as investors digest the $8 billion Iridium acquisition."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M contract extension reinforces its foothold in government space projects."
+      "note": "Palantir's $480 million contract extension shows their persistence in government contracts is paying off."
     },
     {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's ambitious plans continue to face scrutiny as the market watches closely."
+      "sym": "SLS",
+      "note": "Sierra Space's Dream Chaser passing its design review is a positive sign, but execution is key."
     },
     {
-      "sym": "Sierra Space",
-      "note": "Sierra's Dream Chaser variant passing design review is a crucial step, but execution remains key."
+      "sym": "TAN",
+      "note": "True Anomaly's recent $190M raise underscores the growing importance of co-orbital security solutions."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
