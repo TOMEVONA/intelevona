@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-29",
-  "issue": "No. 69",
-  "headline": "Acquisitions abound. Budgets increase. Innovation stalls.",
-  "deck": "This week highlights a flurry of acquisitions alongside a notable budget increase for space resilience.",
+  "updated": "2026-06-30",
+  "issue": "No. 70",
+  "headline": "Funding flows. Launch plans. Talent shifts.",
+  "deck": "This week, space startups secure capital while launch plans take shape.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "ACQUISITION",
-      "head": "Rocket Lab's Iridium deal raises eyebrows",
-      "body": "Rocket Lab's acquisition of Iridium for an undisclosed amount has been labeled as the 'logical next step' by CEO Peter Beck. This move comes as Rocket Lab aims to bolster its satellite communications capabilities, a sector where competition is heating up. With Iridium's established network, Rocket Lab is positioning itself to capture a larger share of the lucrative communications market.",
-      "soWhat": "Acquisitions like this often signal that companies are scrambling to consolidate their positions before the next wave of competition emerges."
-    },
-    {
       "kicker": "FUNDING",
-      "head": "True Anomaly secures $190M amid co-orbital concerns",
-      "body": "True Anomaly raised $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The funding is aimed at enhancing its co-orbital security and space domain awareness capabilities, which are increasingly critical as geopolitical tensions escalate. The backing comes primarily from defense-focused investors, underscoring the growing importance of security in space operations.",
-      "soWhat": "When defense investors are this eager, it's usually a sign that they foresee a market where security is not just a luxury but a necessity."
+      "head": "True Anomaly scores $190M Series C",
+      "body": "True Anomaly has raised $190 million in a Series C round, valuing the co-orbital security startup at $1.6 billion. This funding underscores the growing demand for space domain awareness solutions as the DoD pushes for enhanced capabilities. The round was led by a mix of existing and new investors, signaling confidence in the startup's trajectory.",
+      "soWhat": "In a sector where cash is king, True Anomaly's success shows that even in a crowded field, the right narrative can still attract hefty checks."
     },
     {
-      "kicker": "BUDGET",
-      "head": "$1.4B added to FY27 space resilience budget",
-      "body": "The recent markup for the FY27 budget has allocated an additional $1.4 billion to enhance space resilience, reflecting a growing recognition of the strategic importance of space capabilities. This increase will likely fund various initiatives, including satellite protection and infrastructure upgrades, as the U.S. seeks to fortify its position in an increasingly contested domain.",
-      "soWhat": "This budget boost indicates that lawmakers are finally connecting the dots between space and national security, which could lead to more robust funding cycles in the future."
+      "kicker": "LAUNCH",
+      "head": "Firefly and SSC Space aim for 2028 launch",
+      "body": "SSC Space and Firefly have set a target for their first orbital launch from Sweden’s Esrange in 2028. This ambitious timeline indicates a serious commitment to expanding launch capabilities in Europe, as the region seeks to establish itself as a viable alternative to traditional launch markets. The collaboration could also help streamline regulatory challenges in the region.",
+      "soWhat": "If they hit their timeline, this could shift European launch dynamics, but let’s be honest: in space, timelines are more like suggestions."
+    },
+    {
+      "kicker": "TECH",
+      "head": "Orbital plans 100,000 satellites for data centers",
+      "body": "Startup Orbital has filed with the FCC to deploy up to 100,000 satellites to support burgeoning AI data needs. While the scale is unprecedented, concerns about space debris and orbital congestion are already being raised. The proposal highlights the increasing intersection of AI and space, but at what environmental cost?",
+      "soWhat": "If we thought the space junk problem was bad now, just wait until we have a hundred thousand more reasons to worry."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for more acquisitions in space",
-      "body": "As companies like Rocket Lab demonstrate, acquisitions could become a key strategy for growth amidst rising competition."
+      "title": "Sierra Space's Dream Chaser moves forward",
+      "body": "With its DoD variant clearing a critical design review, the next steps will be crucial for Sierra Space as it aims to secure government contracts."
     },
     {
-      "title": "Upcoming defense-tech IPOs to monitor",
-      "body": "With the defense-tech IPO window cracking open, several companies may soon seek public funding, which could shift market dynamics."
+      "title": "Palantir's TITAN program extension implications",
+      "body": "Palantir's $480 million extension suggests a long-term commitment to ground station capabilities, which could influence future government tech contracts."
     },
     {
-      "title": "Potential impacts of GPS jamming",
-      "body": "The return of GPS jamming in the Eastern Med could prompt new discussions on satellite resilience and operational security."
+      "title": "Anduril and L3Harris collaboration",
+      "body": "Their joint bid for a tactical SDA constellation could reshape how military space operations are conducted, especially in contested environments."
     },
     {
-      "title": "Sierra Space's next steps post-review",
-      "body": "With the Dream Chaser DoD variant clearing its critical design review, the next phase will be crucial for Sierra Space's future contracts."
+      "title": "ESA's lunar mapping capability needs",
+      "body": "The European Space Agency's search for lunar mapping data indicates a potential shift in how international collaborations are approached for lunar missions."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "RKLB",
-      "note": "Rocket Lab's acquisition of Iridium could reshape its market strategy."
-    },
-    {
-      "sym": "TRUE",
-      "note": "True Anomaly's $190M raise signals strong investor confidence in co-orbital security."
-    },
-    {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's recent performance highlights the risks of ambitious satellite ventures."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains volatile as it awaits news on upcoming flights."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M contract extension reflects its strong hold in government space projects."
+      "note": "Palantir's recent contract extension boosts confidence, but investors remain cautious about growth."
+    },
+    {
+      "sym": "FIRE",
+      "note": "Firefly Aerospace's plans for Esrange could bolster its market position if successful."
+    },
+    {
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's recent analysis shows promise, but execution risks loom large."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

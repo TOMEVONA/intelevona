@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity, from lunar mapping initiatives to strategic acquisitions. As national security concerns mount, quantum computing's implications in orbit are becoming a focal point.",
+  "summary": "A mix of strategic moves and technical challenges define this week in the space and defense sectors. From new launch targets in Sweden to the ongoing struggle with hypersonic testing, the landscape remains as complex as ever.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Lunar Ambitions Grow",
-      "body": "ESA's push for lunar mapping capabilities signals a renewed focus on extraterrestrial exploration. The Argonaut lander could pave the way for future missions, but let's hope it doesn't get lost in the moon's craters."
+      "title": "European Launch Ambitions",
+      "body": "SSC Space and Firefly are eyeing a 2028 launch from Sweden’s Esrange, marking a notable push for European orbital capabilities. This could shift some dynamics in the launch market, especially if they manage to avoid the usual delays."
     },
     {
       "icon": "◉",
-      "title": "Acquisition Frenzy",
-      "body": "Rocket Lab's acquisition of Iridium is deemed a 'logical next step,' but it raises questions about market consolidation. With the defense-tech IPO window cracking open, expect more players to follow suit."
+      "title": "Orbital Data Centers on the Rise",
+      "body": "Orbital's ambitious plan for 100,000 data centers in space is a bold bet on the future of data processing. If realized, this could redefine how we think about infrastructure beyond Earth."
     },
     {
       "icon": "▲",
-      "title": "Quantum Concerns in Orbit",
-      "body": "As quantum computing emerges as a potential national security issue, the space industry must brace for its implications. The race to secure quantum technologies is heating up, and the stakes couldn't be higher."
+      "title": "Budget Boost for Space Resilience",
+      "body": "The FY27 budget markup's $1.4 billion addition to space resilience indicates a growing recognition of the need for robust capabilities in an increasingly contested domain. This funding could bolster various initiatives, but the effectiveness will depend on execution."
     },
     {
       "icon": "◆",
-      "title": "Space Resilience Funding Boost",
-      "body": "The FY27 budget markup's $1.4 billion increase for space resilience reflects growing recognition of vulnerabilities in orbit. This funding could enhance capabilities, but let's not forget the bureaucratic hurdles ahead."
+      "title": "Hypersonic Testing Woes",
+      "body": "The continued delays in hypersonic glide-vehicle tests highlight the complexities of advancing this technology. As the third quarter passes without success, stakeholders may need to reassess their timelines and expectations."
     }
   ],
-  "updated": "2026-06-29 16:50 UTC"
+  "updated": "2026-06-30 15:34 UTC"
 }

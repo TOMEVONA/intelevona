@@ -1,87 +1,87 @@
 {
-  "updated": "2026-06-29T16:50:49.355Z",
+  "updated": "2026-06-30T15:34:23.324Z",
   "articles": [
     {
       "sourceId": "spacenews",
+      "title": "Vast names Isakowitz as a senior adviser",
+      "summary": "Vast has appointed former Aerospace Corp. CEO Isakowitz as a senior adviser while awaiting NASA program developments, proving that even space startups need a seasoned hand at the controls.",
+      "date": "2026-06-30",
+      "link": "https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange",
+      "summary": "SSC Space and Firefly have set a 2028 target for their first orbital launch from Sweden’s Esrange, suggesting that the race for space is now officially a marathon.",
+      "date": "2026-06-30",
+      "link": "https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Orbital files plans for 100,000 orbital data centers",
+      "summary": "Startup Orbital has requested FCC approval to deploy up to 100,000 data center satellites to meet AI demand, which sounds like a lot of space junk waiting to happen.",
+      "date": "2026-06-30",
+      "link": "https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Study argues bigger launch vehicles may not always be better",
+      "summary": "A new study suggests that bigger launch vehicles may not always be better, which is a relief for those of us who have trouble parallel parking.",
+      "date": "2026-06-30",
+      "link": "https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/"
+    },
+    {
+      "sourceId": "spacenews",
       "title": "ESA to seek lunar mapping capability for Argonaut lander",
-      "summary": "When it comes to lunar missions, it seems the ESA prefers to crowdsource its cartography.",
+      "summary": "The European Space Agency will seek external lunar mapping data for its Argonaut lander, proving that even space missions can benefit from a good Google search.",
       "date": "2026-06-29",
       "link": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/"
     },
     {
-      "sourceId": "spacenews",
-      "title": "Beck: Iridium acquisition the “logical next step” for Rocket Lab",
-      "summary": "In the world of space, logical steps often look suspiciously like giant leaps.",
-      "date": "2026-06-29",
-      "link": "https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Discovering the Universe – Astrophysics Flagship Space Observatories Offer Insights to Key Questions",
-      "summary": "When it comes to understanding the universe, BAE is clearly aiming for the stars—literally.",
-      "date": "2026-06-29",
-      "link": "https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Quantum computing is about to become a national security problem in orbit",
-      "summary": "In space, no one can hear you encrypt—unless quantum computing gets involved.",
-      "date": "2026-06-29",
-      "link": "https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Rocket Lab to acquire Iridium",
-      "summary": "In the space race, it seems that buying the competition is the new black.",
-      "date": "2026-06-29",
-      "link": "https://spacenews.com/rocket-lab-to-acquire-iridium/"
-    },
-    {
       "sourceId": "tectonic",
       "title": "Anduril and L3Harris team on tactical SDA constellation bid",
-      "summary": "In defense, teamwork makes the dream work—especially when the stakes are astronomical.",
+      "summary": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, because in defense, collaboration is just as crucial as the tech.",
       "date": "2026-05-04",
       "link": "https://tectonicdefense.com/anduril-l3harris-sda/"
     },
     {
       "sourceId": "tectonic",
       "title": "FY27 budget markup adds $1.4B to space resilience line",
-      "summary": "Finally, a budget that recognizes space is more than just a backdrop for sci-fi plots.",
+      "summary": "The FY27 budget markup adds $1.4B to the space resilience line, finally acknowledging that space is more than just a cosmic backdrop for action movies.",
       "date": "2026-05-03",
       "link": "https://tectonicdefense.com/fy27-markup-space/"
     },
     {
       "sourceId": "tectonic",
       "title": "Hypersonic glide-vehicle test slips again — third quarter in a row",
-      "summary": "If hypersonic is the new 'we're still figuring this out,' then we might need a new dictionary.",
+      "summary": "Hypersonic glide-vehicle tests have slipped again for the third consecutive quarter, raising questions about whether 'hypersonic' is just a euphemism for 'still in beta'.",
       "date": "2026-05-02",
       "link": "https://tectonicdefense.com/hgv-slip-q3/"
     },
     {
       "sourceId": "tectonic",
       "title": "Sierra Space's Dream Chaser DoD variant clears critical design review",
-      "summary": "Design reviews are great, but nothing beats the thrill of actual flight—no pressure, right?",
+      "summary": "Sierra Space's Dream Chaser DoD variant has cleared a critical design review, but let’s hope it doesn’t take as long to clear the launch pad.",
       "date": "2026-05-01",
       "link": "https://tectonicdefense.com/dream-chaser-cdr/"
     },
     {
       "sourceId": "tectonic",
       "title": "Palantir wins $480M extension on TITAN ground station program",
-      "summary": "In government contracting, sometimes it's less about the idea and more about the endurance.",
+      "summary": "Palantir has secured a $480M extension on its TITAN ground station program, reminding us that in government contracts, longevity often trumps novelty.",
       "date": "2026-04-29",
       "link": "https://tectonicdefense.com/palantir-titan-extension/"
     },
     {
       "sourceId": "piratewires",
       "title": "The Defense-Tech IPO Window Is Cracking Open",
-      "summary": "Investors are ready to back the next military unicorn, quirks and all—just add venture capital.",
+      "summary": "The defense-tech IPO window is showing signs of opening, suggesting investors are ready to bet on the next military unicorn, quirks included.",
       "date": "2026-05-04",
       "link": "https://piratewires.com/defense-ipo-window/"
     },
     {
       "sourceId": "piratewires",
       "title": "Why every YC company is suddenly 'AI for Defense'",
-      "summary": "In the startup world, 'new' often means 'repackaged'—especially when it comes to defense.",
+      "summary": "The sudden surge of 'AI for Defense' startups in Y Combinator hints that innovation often comes in the form of a fresh coat of paint on old ideas.",
       "date": "2026-05-03",
       "link": "https://piratewires.com/yc-defense/"
     },
@@ -213,6 +213,20 @@
     },
     {
       "sourceId": "dod",
+      "title": "Coast Guard Interdicts Over $63 Million in Illicit Drugs",
+      "summary": "The crew aboard the Coast Guard cutter Bear offloaded approximately 7,720 pounds of cocaine and 4,000 pounds of marijuana worth more than $63 million at Port Everglades, Fla.",
+      "date": "2026-06-29",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4529028/coast-guard-interdicts-over-63-million-in-illicit-drugs/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Small Creatures, Big Mission: Bugapalooza Connects Science to Military Readiness",
+      "summary": "Nearly 400 visitors attended the National Museum of Health and Medicine's Bugapalooza to learn how insects affect health, support the environment and affect military readiness.",
+      "date": "2026-06-29",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4528907/small-creatures-big-mission-bugapalooza-connects-science-to-military-readiness/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Joint Task Force Southern Border Conducts Medevac in Arizona Mountains",
       "summary": "Service members assigned to Joint Task Force Southern Border conducted an aeromedical evacuation after receiving a request to assist a civilian who was experiencing a medical emergency in a remote mountainous area of Arizona.",
       "date": "2026-06-26",
@@ -233,123 +247,109 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4527133/national-guard-says-domestic-missions-improving-troop-readiness/"
     },
     {
-      "sourceId": "dod",
-      "title": "Families of Vietnam War Missing Gather to Hear Updates, Share Stories",
-      "summary": "War Department officials pledged to continue searching for the 1,565 service members still missing from the Vietnam War during a meeting with grieving families in Arlington, Va.",
-      "date": "2026-06-25",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4527088/families-of-vietnam-war-missing-gather-to-hear-updates-share-stories/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Trump Accounts Lay Solid Financial Foundation for Military Children",
-      "summary": "Thanks to newly available Trump Accounts, military families can lay the foundation to ensure each of their children has a head start on a retirement plan. The program opens for financial contributions July 4.",
-      "date": "2026-06-25",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4526712/trump-accounts-lay-solid-financial-foundation-for-military-children/"
+      "sourceId": "viasat",
+      "title": "New Megaconstellation Startup Eclipse Space Targets Sovereign Market",
+      "summary": "New megaconstellation startup Eclipse Space, built by a group of SpaceX alums, recently emerged from stealth mode with the aim of making constellation ownership possible for sovereign governments and enterprises.",
+      "date": "2026-06-29",
+      "link": "https://www.satellitetoday.com/connectivity/2026/06/29/new-megaconstellation-startup-eclipse-space-targets-sovereign-market/"
     },
     {
       "sourceId": "viasat",
-      "title": "Commercial Markets Are Ready for EO — But the Understanding Gap Persists",
-      "summary": "At the recent EO Summit in London, Earth Observation (EO) experts explained the industry must face the challenge of how to explain its solutions to customers in terms of the",
-      "date": "2026-06-26",
-      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/06/26/commercial-markets-are-ready-for-eo-but-the-understanding-gap-persists/"
+      "title": "Saudia and Neo Space Group Linefit Inaugural Airbus A321XLR Aircraft With IFC",
+      "summary": "Saudia and Neo Space Group have activated the first line-fit NSG Skywaves IFC on an Airbus A321XLR, proving that even planes need Wi-Fi these days.",
+      "date": "2026-06-29",
+      "link": "https://www.satellitetoday.com/mobility/2026/06/29/saudia-and-neo-space-group-linefit-inaugural-airbus-a321xlr-aircraft-with-ifc/"
     },
     {
       "sourceId": "viasat",
-      "title": "Calian to Acquire Canadian Service Provider Galaxy Broadband",
-      "summary": "Calian Group is set to acquire Galaxy Broadband for up to $52 million CAD, proving that even in space, connectivity is worth a pretty penny.",
-      "date": "2026-06-26",
-      "link": "https://www.satellitetoday.com/finance/2026/06/26/calian-to-acquire-canadian-service-provider-galaxy-broadband/"
+      "title": "SiriusXM Continues Refresh With SXM-11 Launch",
+      "summary": "SpaceX launched the SXM-11 satellite for SiriusXM, which will now have the highest power satellite in its fleet, because why not make the radio waves stronger?",
+      "date": "2026-06-29",
+      "link": "https://www.satellitetoday.com/launch/2026/06/29/siriusxm-continues-refresh-with-sxm-11-launch/"
     },
     {
       "sourceId": "viasat",
-      "title": "Tototheo Global to Deploy SES FlexMaritime in Expanded Maritime Deal",
-      "summary": "Tototheo Global has expanded its maritime connectivity deal with SES, because who doesn’t want better Wi-Fi while sailing the high seas?",
-      "date": "2026-06-26",
-      "link": "https://www.satellitetoday.com/mobility/2026/06/26/tototheo-global-to-deploy-ses-flexmaritime-in-expanded-maritime-deal/"
+      "title": "Rocket Lab’s End-to-End Vision Comes Into Focus With ‘Transformative’ Iridium Deal",
+      "summary": "Rocket Lab is acquiring Iridium Communications to bolster its end-to-end space strategy, proving that even launchers want to get into the satellite game.",
+      "date": "2026-06-29",
+      "link": "https://www.satellitetoday.com/finance/2026/06/29/rocket-labs-end-to-end-vision-comes-into-focus-with-transformative-iridium-deal/"
     },
     {
       "sourceId": "viasat",
-      "title": "ReOrbit Secures Finnish Funding for ‘OrbitCloud’ R&D Program",
-      "summary": "ReOrbit has secured €4.6 million from Business Finland for its OrbitCloud R&D program, which sounds like a fancy way to say 'cloud computing in space'.",
-      "date": "2026-06-26",
-      "link": "https://www.satellitetoday.com/connectivity/2026/06/26/reorbit-secures-finnish-funding-for-orbitcloud-rd-program/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "AiRanaculus to Advance Networking Technologies for NASA Lunar and Space Communications Networks",
-      "summary": "AiRanaculus snagged a $5 million NASA contract to enhance lunar communications, proving that even space needs a good Wi-Fi upgrade.",
-      "date": "2026-06-26",
-      "link": "https://www.satellitetoday.com/technology/2026/06/26/airanaculus-to-advance-networking-technologies-for-nasa-lunar-and-space-communications-networks/"
+      "title": "Omar Qaise Looks to Build OQ Technology Into a Sovereign European Pioneer of D2D",
+      "summary": "OQ Technology aims to position itself as a trusted D2D partner for European governments, because who wouldn’t want to be the go-to for direct-to-device communications?",
+      "date": "2026-06-29",
+      "link": "https://www.satellitetoday.com/partner-content/2026/06/29/omar-qaise-looks-to-build-oq-technology-into-a-sovereign-european-pioneer-of-d2d/"
     },
     {
       "sourceId": "spacecom",
-      "title": "Light pollution may be erasing millions of dollars in value at US dark-sky parks",
-      "summary": "Researchers found that light pollution is costing US dark-sky parks millions, making it clear that some nights are worth more than others.",
-      "date": "2026-06-29",
-      "link": "https://www.space.com/astronomy/earth/light-pollution-may-be-erasing-millions-of-dollars-in-value-at-us-dark-sky-parks"
+      "title": "America 250: How has telescope technology evolved since the dawn of the U.S.?",
+      "summary": "Optical telescopes have evolved significantly since William Herschel's homemade version, showing that even stargazing has its tech upgrades.",
+      "date": "2026-06-30",
+      "link": "https://www.space.com/technology/america-250-how-has-telescope-technology-evolved-since-the-dawn-of-the-u-s"
     },
     {
       "sourceId": "spacecom",
-      "title": "Mars orbiter watches Perseverance rover cross the marathon finish line | Space photo of the day for June 29, 2026",
-      "summary": "A Mars orbiter captured Perseverance crossing a marathon finish line, raising the question of whether Martian rovers can claim athletic records.",
-      "date": "2026-06-29",
-      "link": "https://www.space.com/space-exploration/mars-rovers/mars-orbiter-watches-perseverance-rover-cross-the-marathon-finish-line-space-photo-of-the-day-for-june-29-2026"
+      "title": "Europe's deadly heat wave seen from space | Space photo of the day for June 30, 2026",
+      "summary": "Europe's Sentinel-3 satellite has captured data on June's heat wave, reminding us that satellites can also be climate change's most diligent reporters.",
+      "date": "2026-06-30",
+      "link": "https://www.space.com/space-exploration/satellites/europes-deadly-heat-wave-seen-from-space-space-photo-of-the-day-for-june-30-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "How NASA's 'America 250' celebrations are reaching from the sky to the moon",
-      "summary": "NASA's 'America 250' celebrations will span from the sky to the moon, because nothing says patriotism like a lunar landing on Independence Day.",
-      "date": "2026-06-29",
-      "link": "https://www.space.com/space-exploration/how-nasas-america-250-celebrations-are-reaching-from-the-sky-to-the-moon"
+      "title": "'Titan is actually a very reasonable destination for humans': Scientists start mapping out crewed mission to huge Saturn moon",
+      "summary": "Scientists are mapping a crewed mission to Titan, Saturn's moon, proving that human curiosity knows no bounds—even if it involves a long trip to a frozen rock.",
+      "date": "2026-06-30",
+      "link": "https://www.space.com/astronomy/saturn/titan-is-actually-a-very-reasonable-destination-for-humans-scientists-start-mapping-out-crewed-mission-to-huge-saturn-moon"
     },
     {
       "sourceId": "spacecom",
-      "title": "The James Webb Space Telescope peered into one of the universe's oldest galaxy clusters, and scientists can't explain what they saw",
-      "summary": "The James Webb Space Telescope has spotted an ancient galaxy cluster that defies explanation, proving that the universe still has a few tricks up its sleeve.",
-      "date": "2026-06-29",
-      "link": "https://www.space.com/astronomy/galaxies/the-james-webb-space-telescope-peered-into-one-of-the-universes-oldest-galaxy-clusters-and-scientists-cant-explain-what-they-saw"
+      "title": "NASA will announce moon base news today: Watch it live",
+      "summary": "NASA is set to announce updates on its moon base plans, because who doesn’t want to hear about real estate opportunities on the lunar surface?",
+      "date": "2026-06-30",
+      "link": "https://www.space.com/astronomy/moon/nasa-will-announce-moon-base-news-today-watch-it-live"
     },
     {
       "sourceId": "spacecom",
-      "title": "The Strawberry Moon rises tonight. Here's what to expect from June's full moon",
-      "summary": "June's full Strawberry Moon is set to rise, reminding us that even celestial events can have a delicious marketing twist.",
-      "date": "2026-06-29",
-      "link": "https://www.space.com/stargazing/the-strawberry-moon-rises-june-29-here-is-what-to-expect-from-june-full-moon"
+      "title": "June's Strawberry Moon serves up a low-hanging treat for skywatchers worldwide. Here are our favorite photos",
+      "summary": "The June Strawberry Moon delighted skywatchers, proving that sometimes the best celestial events are just low-hanging fruit.",
+      "date": "2026-06-30",
+      "link": "https://www.space.com/stargazing/junes-strawberry-moon-serves-up-a-low-hanging-treat-for-skywatchers-worldwide-here-are-our-favorite-photos"
     },
     {
       "sourceId": "rspace",
-      "title": "Rocket Lab buys Iridium in $8 billion deal, to expand beyond launches",
-      "summary": "Rocket Lab's $8 billion acquisition of Iridium marks its ambitious leap from launches to satellite communications, because why not diversify?",
-      "date": "2026-06-29",
-      "link": "https://www.reddit.com/r/space/comments/1uiqx83/rocket_lab_buys_iridium_in_8_billion_deal_to/"
+      "title": "Massive 3,200 Megapixel Camera Will Take 700 Photos Every Night for 10 Years",
+      "summary": "A massive 3,200 megapixel camera will take 700 photos every night for a decade, which sounds like a great way to collect dust bunnies in space.",
+      "date": "2026-06-30",
+      "link": "https://www.reddit.com/r/space/comments/1ujsg2j/massive_3200_megapixel_camera_will_take_700/"
     },
     {
       "sourceId": "rspace",
-      "title": "Strawberry moon, Southern California. Single Exposure image no editing other than cropping cropping.",
-      "summary": "A stunning image of the Strawberry Moon over Southern California has surfaced, proving that sometimes, nature doesn’t need editing.",
-      "date": "2026-06-29",
-      "link": "https://www.reddit.com/r/space/comments/1uiqt34/strawberry_moon_southern_california_single/"
+      "title": "China Prepares Its First Asteroid Landing on Earth’s Quasi-Moon | The Tianwen-2 probe will attempt to collect samples from Kamo’oalewa and bring them back to Earth.",
+      "summary": "China is gearing up for its first asteroid landing with the Tianwen-2 probe, because collecting samples from quasi-moons is the new space frontier.",
+      "date": "2026-06-30",
+      "link": "https://www.reddit.com/r/space/comments/1ujs3kw/china_prepares_its_first_asteroid_landing_on/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Tragedy of the New Space Race | Space exploration is a rapidly growing industry. But its goal is dominance, not discovery.",
-      "summary": "The new space race is more about dominance than discovery, which is a bit like racing to the top of a mountain only to claim it for yourself.",
-      "date": "2026-06-29",
-      "link": "https://www.reddit.com/r/space/comments/1uipthz/the_tragedy_of_the_new_space_race_space/"
+      "title": "New Glenn Return to Flight: A Note from CEO Dave Limp",
+      "summary": "Blue Origin's CEO Dave Limp hinted at the New Glenn's return to flight, which is a polite way of saying they’re still trying to get their rocket off the ground.",
+      "date": "2026-06-30",
+      "link": "https://www.reddit.com/r/space/comments/1ujru9e/new_glenn_return_to_flight_a_note_from_ceo_dave/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Truth about Space Data Centers",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1uihdn2/the_truth_about_space_data_centers/\"> <img src=\"https://external-preview.redd.it/NgESIBoIECIpO1wVWVYv4j3yotBJ1jpzXiSS3car9Cs.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=de785a1e27ba8a7a13afd9c22366d36…",
-      "date": "2026-06-29",
-      "link": "https://www.reddit.com/r/space/comments/1uihdn2/the_truth_about_space_data_centers/"
+      "title": "NASA aims to save a sinking space telescope with a rendezvous in orbit",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1ujoexb/nasa_aims_to_save_a_sinking_space_telescope_with/\"> <img src=\"https://external-preview.redd.it/Ush-7oCQyPbQWjIeTOriDl1NR32zV9N6rPlE1tYVraw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=04d00947d6bc36255…",
+      "date": "2026-06-30",
+      "link": "https://www.reddit.com/r/space/comments/1ujoexb/nasa_aims_to_save_a_sinking_space_telescope_with/"
     },
     {
       "sourceId": "rspace",
-      "title": "I am 81 years old. For the Apollo 11 launch, I worked the graveyard shift for Federal Electric Corporation at the Central Instrumentation Facility (CIF) at Cape Kennedy.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1uigij8/i_am_81_years_old_for_the_apollo_11_launch_i/\"> <img src=\"https://preview.redd.it/vtwtx7o9z4ah1.jpg?width=140&amp;height=108&amp;auto=webp&amp;s=6eb995beab9a81fa610642638c02e336dc0bc967\" alt=\"I am 81 years…",
-      "date": "2026-06-29",
-      "link": "https://www.reddit.com/r/space/comments/1uigij8/i_am_81_years_old_for_the_apollo_11_launch_i/"
+      "title": "New study presented at the 2026 Lunar and Planetary Science Conference explores the possibility that terrestrial microbes could have been transported to Venus",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1ujli51/new_study_presented_at_the_2026_lunar_and/\"> <img src=\"https://external-preview.redd.it/EG2wLOqZ-jXGHe8quHrnR2Zh8IxHTiZvQRVk5IRndHk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b1105cbacec21f4baaaf8ea4…",
+      "date": "2026-06-30",
+      "link": "https://www.reddit.com/r/space/comments/1ujli51/new_study_presented_at_the_2026_lunar_and/"
     },
     {
       "sourceId": "nga",
@@ -388,73 +388,73 @@
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "AI Made Every Individual Stronger and Every Team More Fragmented. Yimao Zhou Is Building the OS to Reverse That",
-      "summary": "The 23-year-old founder of Emagen AI argues the entire agent industry is optimizing the wrong unit. His answer is an operating system where AI drives the work and calls on humans, not the other way around. Every week, another AI agent startup launches.",
-      "date": "2026-06-29",
-      "link": "https://thenextweb.com/news/yimao-zhou-emagen-ai-cagen-os-level-agent-interview"
+      "title": "Rakuten satellite project to get up to $926m Japanese government grant",
+      "summary": "Japan has decided it does not want to depend on Elon Musk to keep its phones connected from space. The government is set to provide up to ¥150 billion, roughly $926 million, in subsidies to a consortium led by Rakuten Group to build a homegrown low-Earth-orbit satellite…",
+      "date": "2026-06-30",
+      "link": "https://thenextweb.com/news/rakuten-satellite-japan-grant"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "A former Tesla Optimus engineer settled a trade secret lawsuit and raised $11M to build the robot hands his old employer still cannot crack",
-      "summary": "Proception, a robotics startup founded by former Tesla Optimus engineer Jay Li, has settled a year-long trade secret lawsuit with Tesla and raised an $11 million seed round led by First Round Capital to build dexterous robotic hands.",
-      "date": "2026-06-29",
-      "link": "https://thenextweb.com/news/proception-robot-hand-tesla-trade-secret-settlement-seed-round"
+      "title": "EU opens antitrust probe into Align over Invisalign and scanner tying",
+      "summary": "The European Commission has decided to look closely at how you straighten teeth, or more precisely, at the machine a dentist uses to scan them.",
+      "date": "2026-06-30",
+      "link": "https://thenextweb.com/news/eu-align-invisalign-antitrust-probe"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "As a deadly heatwave grips Europe, Rome leans on a bracelet to watch its elderly",
-      "summary": "Dina Gazzella is 85, and on her wrist is a small black band that looks like a watch and does rather more than tell the time. “If I feel unwell, this is a lifesaver,” she told Reuters. In a summer that has turned lethal across Europe, that is not a figure of speech.The bracelet is",
-      "date": "2026-06-29",
-      "link": "https://thenextweb.com/news/rome-smart-bracelet-elderly-heatwave"
+      "title": "Irish court tells regulator to reconsider TikTok’s China data-transfer ban",
+      "summary": "The High Court upheld TikTok’s GDPR liability and its €530m fine, but sent the order suspending transfers to China back to the regulator for review. TikTok lost the argument that mattered most and won itself some breathing room on the rest.",
+      "date": "2026-06-30",
+      "link": "https://thenextweb.com/news/ireland-tiktok-data-transfer-review"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Omen AI raises $31m to watch the water inside AI data centres",
-      "summary": "The unglamorous truth about the AI boom is that some of its hardest problems are plumbing. As data centres pack more GPUs into every rack and run them hotter, the fluid that keeps the chips from cooking has started, occasionally, to grow bacteria.",
-      "date": "2026-06-29",
-      "link": "https://thenextweb.com/news/omen-ai-raises-31m-to-watch-the-water-inside-ai-data-centres"
+      "title": "Bank of England’s Breeden warns AI agents could trigger market meltdowns",
+      "summary": "Deputy governor Sarah Breeden says autonomous trading agents could amplify volatility if they all react the same way at once, and may demand new rules. The nightmare a central banker describes is rarely a crash. It is a feedback loop.",
+      "date": "2026-06-30",
+      "link": "https://thenextweb.com/news/boe-breeden-ai-agents-market-risk"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Google Cloud will sell specialist AI models built for science",
-      "summary": "Google is adding SandboxAQ’s ‘large quantitative models’ to its cloud marketplace, pairing Gemini with AI trained on scientific equations and laboratory data.",
-      "date": "2026-06-29",
-      "link": "https://thenextweb.com/news/google-cloud-science-ai-models-sandboxaq"
+      "title": "Jon and Mindy Gray bet $55M on AI to catch cancer before it starts",
+      "summary": "A new institute at Penn’s Basser Center will use artificial intelligence and biomarkers to intercept hereditary cancers at their earliest stages, before they become disease. The idea behind the gift is unusual enough to need its own word.",
+      "date": "2026-06-30",
+      "link": "https://thenextweb.com/news/gray-ai-cancer-interception-institute"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Astronaut Chris Williams Preps for Spacewalk",
-      "summary": "NASA astronaut Chris Williams is testing his spacesuit ahead of a spacewalk, proving that even in space, comfort is key; after all, no one wants to be the uncomfortable astronaut on live TV.",
-      "date": "2026-06-29",
-      "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-preps-for-spacewalk/"
+      "title": "Starry Chandelier Cluster",
+      "summary": "NASA released a sparkling image of the Chandelier Cluster, proving that even in the cosmos, aesthetics matter more than just the science behind it.",
+      "date": "2026-06-30",
+      "link": "https://www.nasa.gov/image-article/starry-chandelier-cluster/"
     },
     {
       "sourceId": "nasa",
-      "title": "Mapping Earth’s Observations, featuring Betsy Ford",
-      "summary": "NASA’s Earth-observing satellites are busy tracking everything from aerosols to land-cover changes, reminding us that while we look up at the stars, someone’s keeping an eye on our backyard.",
-      "date": "2026-06-29",
-      "link": "https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/"
+      "title": "Ames Science Stars of the Month July 2026",
+      "summary": "NASA Ames recognized its July Science Stars, showcasing that space exploration isn't just about rockets but also about the people who make it happen.",
+      "date": "2026-06-30",
+      "link": "https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/"
     },
     {
       "sourceId": "nasa",
-      "title": "NextSTEP-3 A: Lunar Enabling Technology",
-      "summary": "NASA has issued a draft announcement for NextSTEP-3 to advance lunar technologies, which sounds like a fancy way of saying they need better tools for moon gardening.",
+      "title": "Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge",
+      "summary": "The NESSP project wrapped up its ROADS challenge, reminding us that while we may be exploring Venus, our future scientists are still grounded on Earth.",
       "date": "2026-06-29",
-      "link": "https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/"
+      "link": "https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Seeks Industry Input to Accelerate Lunar Surface Technologies",
-      "summary": "NASA is soliciting industry input to develop lunar surface technologies, proving that even space agencies need to crowdsource ideas when it comes to building the next moon base.",
+      "title": "NASA, SBA Announce New Initiative to Scale American Space Economy",
+      "summary": "NASA and the SBA launched the SBIC-NASA Initiative to boost the American space economy, because who doesn't want to turn space dreams into profit?",
       "date": "2026-06-29",
-      "link": "https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/"
+      "link": "https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/"
     },
     {
       "sourceId": "nasa",
-      "title": "Star-Spangled City",
-      "summary": "The anniversary of the Battle of Baltimore reminds us that national anthems can be inspired by conflict, which is a poetic way of saying that history often has a dramatic soundtrack.",
+      "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
+      "summary": "NASA's new wind tunnel continues a century-old legacy, proving that even in innovation, sometimes you just need to blow some air around.",
       "date": "2026-06-29",
-      "link": "https://science.nasa.gov/earth/earth-observatory/star-spangled-city-84346/"
+      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/"
     }
   ]
 }
