@@ -1,8 +1,8 @@
 {
   "updated": "2026-06-30",
   "issue": "No. 70",
-  "headline": "Funding flows. Launch plans. Talent shifts.",
-  "deck": "This week, space startups secure capital while launch plans take shape.",
+  "headline": "Funding flows. Launch targets. Data centers proliferate.",
+  "deck": "This week saw significant funding rounds and ambitious launch plans, alongside a new wave of satellite data center proposals.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly scores $190M Series C",
-      "body": "True Anomaly has raised $190 million in a Series C round, valuing the co-orbital security startup at $1.6 billion. This funding underscores the growing demand for space domain awareness solutions as the DoD pushes for enhanced capabilities. The round was led by a mix of existing and new investors, signaling confidence in the startup's trajectory.",
-      "soWhat": "In a sector where cash is king, True Anomaly's success shows that even in a crowded field, the right narrative can still attract hefty checks."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured a $190M Series C round, bringing its valuation to $1.6B. The funding will bolster its efforts in co-orbital security and space domain awareness, which are becoming essential as geopolitical tensions rise. This cash influx suggests that the DoD is prioritizing partnerships with established players rather than taking risks on unproven startups.",
+      "soWhat": "In a market where familiarity often trumps novelty, True Anomaly's success underscores the defense sector's preference for known quantities over experimental technologies."
     },
     {
       "kicker": "LAUNCH",
-      "head": "Firefly and SSC Space aim for 2028 launch",
-      "body": "SSC Space and Firefly have set a target for their first orbital launch from Sweden’s Esrange in 2028. This ambitious timeline indicates a serious commitment to expanding launch capabilities in Europe, as the region seeks to establish itself as a viable alternative to traditional launch markets. The collaboration could also help streamline regulatory challenges in the region.",
-      "soWhat": "If they hit their timeline, this could shift European launch dynamics, but let’s be honest: in space, timelines are more like suggestions."
+      "head": "SSC Space and Firefly target 2028 for Sweden launch",
+      "body": "SSC Space and Firefly are aiming for their first orbital launch from Esrange, Sweden, by 2028. This ambitious timeline reflects a growing interest in European launch capabilities, particularly as the region seeks to reduce reliance on established players like SpaceX. However, given the track record of ambitious timelines in the space industry, skepticism is warranted.",
+      "soWhat": "If they miss this target, it could further entrench the notion that European launch initiatives are more about aspiration than execution."
     },
     {
-      "kicker": "TECH",
-      "head": "Orbital plans 100,000 satellites for data centers",
-      "body": "Startup Orbital has filed with the FCC to deploy up to 100,000 satellites to support burgeoning AI data needs. While the scale is unprecedented, concerns about space debris and orbital congestion are already being raised. The proposal highlights the increasing intersection of AI and space, but at what environmental cost?",
-      "soWhat": "If we thought the space junk problem was bad now, just wait until we have a hundred thousand more reasons to worry."
+      "kicker": "DATA",
+      "head": "Orbital plans to launch 100,000 data center satellites",
+      "body": "Startup Orbital announced plans to deploy 100,000 satellites for data centers to meet the surging demand for AI processing. The scale of this proposal raises eyebrows, as it could exacerbate the already pressing issue of space debris. With the current regulatory environment, one has to wonder how they plan to navigate the bureaucratic maze to make this a reality.",
+      "soWhat": "If Orbital succeeds, we might soon be swimming in space junk, which could make the term 'data center' take on a whole new meaning."
     }
   ],
   "watchlist": [
     {
-      "title": "Sierra Space's Dream Chaser moves forward",
-      "body": "With its DoD variant clearing a critical design review, the next steps will be crucial for Sierra Space as it aims to secure government contracts."
+      "title": "Keep an eye on the ESA lunar mapping bid",
+      "body": "The European Space Agency's search for lunar mapping capabilities could signal a new phase in lunar exploration, with implications for both commercial and governmental projects."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "Palantir's $480 million extension suggests a long-term commitment to ground station capabilities, which could influence future government tech contracts."
+      "title": "Watch for updates on hypersonic glide-vehicle tests",
+      "body": "With the latest tests slipping again, the implications for defense readiness and technology development could be significant, particularly for funding allocations."
     },
     {
-      "title": "Anduril and L3Harris collaboration",
-      "body": "Their joint bid for a tactical SDA constellation could reshape how military space operations are conducted, especially in contested environments."
+      "title": "Palantir's TITAN program extension",
+      "body": "The $480M extension for Palantir's TITAN program indicates continued government reliance on established tech firms for critical infrastructure."
     },
     {
-      "title": "ESA's lunar mapping capability needs",
-      "body": "The European Space Agency's search for lunar mapping data indicates a potential shift in how international collaborations are approached for lunar missions."
+      "title": "Potential fallout from Russian co-orbital activity",
+      "body": "Increased Russian activity near commercial GEO slots might prompt a reevaluation of risk assessments by insurers and could lead to a tightening of compliance measures."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it awaits news on upcoming flights."
+      "note": "Virgin Galactic's stock remains under pressure as it continues to delay commercial flights, raising questions about its long-term viability."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's recent contract extension boosts confidence, but investors remain cautious about growth."
+      "note": "Palantir's $480M contract extension reflects its entrenched position in defense, but raises questions about innovation versus familiarity."
     },
     {
       "sym": "FIRE",
-      "note": "Firefly Aerospace's plans for Esrange could bolster its market position if successful."
+      "note": "Firefly Aerospace's ambitious 2028 launch target from Sweden could either be a game-changer or just another missed deadline."
     },
     {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's recent analysis shows promise, but execution risks loom large."
+      "sym": "TRUE",
+      "note": "True Anomaly's $190M Series C highlights the defense sector's appetite for co-orbital security solutions amid rising tensions."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

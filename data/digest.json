@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "A mix of strategic moves and technical challenges define this week in the space and defense sectors. From new launch targets in Sweden to the ongoing struggle with hypersonic testing, the landscape remains as complex as ever.",
+  "summary": "The space industry is buzzing with new initiatives and partnerships, as companies aim for ambitious launch timelines and expand their capabilities. Meanwhile, the budgetary winds are shifting, with increased funding for space resilience and a cautious eye on the competition.",
   "themes": [
     {
       "icon": "▣",
-      "title": "European Launch Ambitions",
-      "body": "SSC Space and Firefly are eyeing a 2028 launch from Sweden’s Esrange, marking a notable push for European orbital capabilities. This could shift some dynamics in the launch market, especially if they manage to avoid the usual delays."
+      "title": "New Launch Horizons",
+      "body": "SSC Space and Firefly are eyeing a 2028 launch from Sweden's Esrange, marking a significant step for European launch capabilities. This could reshape the regional launch landscape, depending on execution."
     },
     {
       "icon": "◉",
-      "title": "Orbital Data Centers on the Rise",
-      "body": "Orbital's ambitious plan for 100,000 data centers in space is a bold bet on the future of data processing. If realized, this could redefine how we think about infrastructure beyond Earth."
+      "title": "Data Centers in Orbit",
+      "body": "Orbital's plans for 100,000 orbital data centers signal a shift towards leveraging space for data storage and processing. The feasibility of such an ambitious project will depend on technological advancements and market demand."
     },
     {
       "icon": "▲",
       "title": "Budget Boost for Space Resilience",
-      "body": "The FY27 budget markup's $1.4 billion addition to space resilience indicates a growing recognition of the need for robust capabilities in an increasingly contested domain. This funding could bolster various initiatives, but the effectiveness will depend on execution."
+      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, reflecting a growing recognition of the strategic importance of space. This funding could enhance capabilities but also invites scrutiny on how effectively it will be utilized."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Testing Woes",
-      "body": "The continued delays in hypersonic glide-vehicle tests highlight the complexities of advancing this technology. As the third quarter passes without success, stakeholders may need to reassess their timelines and expectations."
+      "title": "Hypersonic Hiccups Persist",
+      "body": "The continued delays in hypersonic glide-vehicle tests underscore the challenges facing this cutting-edge technology. As the third consecutive quarter of setbacks rolls in, stakeholders will be watching closely for any signs of progress."
     }
   ],
-  "updated": "2026-06-30 15:34 UTC"
+  "updated": "2026-06-30 16:21 UTC"
 }
