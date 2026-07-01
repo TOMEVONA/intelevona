@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with new initiatives and partnerships, as companies aim for ambitious launch timelines and expand their capabilities. Meanwhile, the budgetary winds are shifting, with increased funding for space resilience and a cautious eye on the competition.",
+  "summary": "The space industry is grappling with a mix of operational challenges and strategic developments. From bankruptcy filings to new launch plans, the sector is anything but dull.",
   "themes": [
     {
       "icon": "▣",
-      "title": "New Launch Horizons",
-      "body": "SSC Space and Firefly are eyeing a 2028 launch from Sweden's Esrange, marking a significant step for European launch capabilities. This could reshape the regional launch landscape, depending on execution."
+      "title": "Drones and Launch Safety",
+      "body": "The increasing presence of drones near U.S. rocket launch sites raises significant safety concerns. As the threat landscape evolves, the industry must adapt to ensure secure operations."
     },
     {
       "icon": "◉",
-      "title": "Data Centers in Orbit",
-      "body": "Orbital's plans for 100,000 orbital data centers signal a shift towards leveraging space for data storage and processing. The feasibility of such an ambitious project will depend on technological advancements and market demand."
+      "title": "Financial Turbulence in Space",
+      "body": "EchoStar's bankruptcy filing underscores the financial pressures facing satellite operators in a competitive market. Meanwhile, Palantir's contract extension hints at ongoing government reliance on established tech players."
     },
     {
       "icon": "▲",
-      "title": "Budget Boost for Space Resilience",
-      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, reflecting a growing recognition of the strategic importance of space. This funding could enhance capabilities but also invites scrutiny on how effectively it will be utilized."
+      "title": "New Launch Initiatives",
+      "body": "Latitude's upcoming launch from Oman signals a diversification of launch sites, potentially easing congestion at traditional locations. Blue Origin's revised launch pad strategy aims to bring New Glenn back into the fray, but the timeline remains uncertain."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Hiccups Persist",
-      "body": "The continued delays in hypersonic glide-vehicle tests underscore the challenges facing this cutting-edge technology. As the third consecutive quarter of setbacks rolls in, stakeholders will be watching closely for any signs of progress."
+      "title": "Defense and Space Integration",
+      "body": "The Space Force's integration with the Air Force highlights a growing emphasis on AI to bolster mission capabilities. As defense tech lobbying ramps up, the intersection of space and military readiness is becoming a focal point."
     }
   ],
-  "updated": "2026-06-30 16:21 UTC"
+  "updated": "2026-07-01 15:47 UTC"
 }

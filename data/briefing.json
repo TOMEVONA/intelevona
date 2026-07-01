@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-30",
-  "issue": "No. 70",
-  "headline": "Funding flows. Launch targets. Data centers proliferate.",
-  "deck": "This week saw significant funding rounds and ambitious launch plans, alongside a new wave of satellite data center proposals.",
+  "updated": "2026-07-01",
+  "issue": "No. 71",
+  "headline": "Drones threaten launches. EchoStar sinks. True Anomaly rises.",
+  "deck": "This week highlights vulnerabilities and funding in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
+      "kicker": "THREATS",
+      "head": "Drones pose new risks to U.S. launches",
+      "body": "Recent reports indicate that drones are becoming a significant threat to U.S. rocket launch sites, potentially causing millions in delays. This shift underscores that the airspace is not just for rockets, as errant drone flights could disrupt schedules and operations. With the increasing frequency of drone incursions, the industry may need to rethink airspace management strategies.",
+      "soWhat": "If you thought the only thing to worry about was rocket failures, think again—now we have drones to contend with."
+    },
+    {
+      "kicker": "BANKRUPTCY",
+      "head": "EchoStar’s subsidiaries file for Chapter 11",
+      "body": "EchoStar's satellite TV and wireless subsidiaries have filed for Chapter 11 bankruptcy, a stark reminder of the financial pressures in the space sector. This move comes as traditional satellite services struggle to compete with streaming and other technologies, raising questions about the viability of legacy players in a rapidly changing market.",
+      "soWhat": "If legacy companies can’t adapt, expect more of them to follow EchoStar into bankruptcy court."
+    },
+    {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured a $190M Series C round, bringing its valuation to $1.6B. The funding will bolster its efforts in co-orbital security and space domain awareness, which are becoming essential as geopolitical tensions rise. This cash influx suggests that the DoD is prioritizing partnerships with established players rather than taking risks on unproven startups.",
-      "soWhat": "In a market where familiarity often trumps novelty, True Anomaly's success underscores the defense sector's preference for known quantities over experimental technologies."
-    },
-    {
-      "kicker": "LAUNCH",
-      "head": "SSC Space and Firefly target 2028 for Sweden launch",
-      "body": "SSC Space and Firefly are aiming for their first orbital launch from Esrange, Sweden, by 2028. This ambitious timeline reflects a growing interest in European launch capabilities, particularly as the region seeks to reduce reliance on established players like SpaceX. However, given the track record of ambitious timelines in the space industry, skepticism is warranted.",
-      "soWhat": "If they miss this target, it could further entrench the notion that European launch initiatives are more about aspiration than execution."
-    },
-    {
-      "kicker": "DATA",
-      "head": "Orbital plans to launch 100,000 data center satellites",
-      "body": "Startup Orbital announced plans to deploy 100,000 satellites for data centers to meet the surging demand for AI processing. The scale of this proposal raises eyebrows, as it could exacerbate the already pressing issue of space debris. With the current regulatory environment, one has to wonder how they plan to navigate the bureaucratic maze to make this a reality.",
-      "soWhat": "If Orbital succeeds, we might soon be swimming in space junk, which could make the term 'data center' take on a whole new meaning."
+      "head": "True Anomaly secures $190M Series C",
+      "body": "True Anomaly raised $190 million in a Series C round, pushing its valuation to $1.6 billion. The funding will bolster its co-orbital security and space domain awareness capabilities, which are increasingly critical as geopolitical tensions rise. This investment reflects a growing recognition that space security is a necessity, not just a luxury.",
+      "soWhat": "In a world where threats can come from above, True Anomaly’s success might just be the new norm—if you’re not securing space, you're falling behind."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on the ESA lunar mapping bid",
-      "body": "The European Space Agency's search for lunar mapping capabilities could signal a new phase in lunar exploration, with implications for both commercial and governmental projects."
+      "title": "Keep an eye on Blue Origin's New Glenn",
+      "body": "As Blue Origin pushes to return New Glenn to flight, any further delays could impact their credibility in the launch market."
     },
     {
-      "title": "Watch for updates on hypersonic glide-vehicle tests",
-      "body": "With the latest tests slipping again, the implications for defense readiness and technology development could be significant, particularly for funding allocations."
+      "title": "Watch for Latitude's Oman launch",
+      "body": "Latitude's plan for a 2027 launch from Oman could mark a significant shift in launch geography, depending on execution."
     },
     {
       "title": "Palantir's TITAN program extension",
-      "body": "The $480M extension for Palantir's TITAN program indicates continued government reliance on established tech firms for critical infrastructure."
+      "body": "Palantir's $480 million extension on the TITAN program signals continued government reliance on established players for ground station capabilities."
     },
     {
-      "title": "Potential fallout from Russian co-orbital activity",
-      "body": "Increased Russian activity near commercial GEO slots might prompt a reevaluation of risk assessments by insurers and could lead to a tightening of compliance measures."
+      "title": "Funding trends in defense-tech",
+      "body": "With the defense-tech IPO window showing signs of life, expect increased activity as investors look for the next military unicorn."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as it continues to delay commercial flights, raising questions about its long-term viability."
+      "note": "Virgin Galactic's stock remains volatile as they prepare for upcoming test flights."
+    },
+    {
+      "sym": "AER",
+      "note": "Aerojet Rocketdyne's recent contract wins have kept their stock buoyant despite broader market pressures."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M contract extension reflects its entrenched position in defense, but raises questions about innovation versus familiarity."
+      "note": "Palantir's stock is benefitting from its $480M extension, reinforcing its position in government contracts."
     },
     {
-      "sym": "FIRE",
-      "note": "Firefly Aerospace's ambitious 2028 launch target from Sweden could either be a game-changer or just another missed deadline."
-    },
-    {
-      "sym": "TRUE",
-      "note": "True Anomaly's $190M Series C highlights the defense sector's appetite for co-orbital security solutions amid rising tensions."
+      "sym": "ECHO",
+      "note": "EchoStar's bankruptcy filing has sent its stock tumbling, highlighting the risks of legacy satellite services."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
