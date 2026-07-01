@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-01",
   "issue": "No. 71",
-  "headline": "Drones threaten launches. EchoStar sinks. True Anomaly rises.",
-  "deck": "This week highlights vulnerabilities and funding in the space sector.",
+  "headline": "Drones disrupt launches. Bankruptcy looms. New ventures emerge.",
+  "deck": "This week, drone threats escalate as EchoStar restructures and new players enter the launch market.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "THREATS",
-      "head": "Drones pose new risks to U.S. launches",
-      "body": "Recent reports indicate that drones are becoming a significant threat to U.S. rocket launch sites, potentially causing millions in delays. This shift underscores that the airspace is not just for rockets, as errant drone flights could disrupt schedules and operations. With the increasing frequency of drone incursions, the industry may need to rethink airspace management strategies.",
-      "soWhat": "If you thought the only thing to worry about was rocket failures, think again—now we have drones to contend with."
+      "head": "Drones threaten U.S. rocket launch schedules",
+      "body": "Recent reports indicate that drone activity around U.S. rocket launch sites is becoming increasingly disruptive, with one misfired UAV potentially costing millions in delays for multiple launch providers. This uptick in drone threats adds a layer of complexity to an already fraught launch environment, where timing is everything. Companies may need to invest more in counter-drone technologies to protect their assets.",
+      "soWhat": "If rocket companies don’t adapt quickly, they might find themselves grounded—literally."
     },
     {
       "kicker": "BANKRUPTCY",
-      "head": "EchoStar’s subsidiaries file for Chapter 11",
-      "body": "EchoStar's satellite TV and wireless subsidiaries have filed for Chapter 11 bankruptcy, a stark reminder of the financial pressures in the space sector. This move comes as traditional satellite services struggle to compete with streaming and other technologies, raising questions about the viability of legacy players in a rapidly changing market.",
-      "soWhat": "If legacy companies can’t adapt, expect more of them to follow EchoStar into bankruptcy court."
+      "head": "EchoStar's subsidiaries file for Chapter 11",
+      "body": "EchoStar's satellite TV and wireless subsidiaries have filed for Chapter 11 bankruptcy, following a strategic restructuring plan after selling spectrum to SpaceX and AT&T. This move underscores the shifting landscape of the satellite industry, where traditional models are increasingly challenged. The restructuring could allow EchoStar to refocus on more viable business lines, but it also raises questions about the sustainability of satellite TV.",
+      "soWhat": "The satellite TV model is looking more like a relic than a revenue generator."
     },
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly secures $190M Series C",
-      "body": "True Anomaly raised $190 million in a Series C round, pushing its valuation to $1.6 billion. The funding will bolster its co-orbital security and space domain awareness capabilities, which are increasingly critical as geopolitical tensions rise. This investment reflects a growing recognition that space security is a necessity, not just a luxury.",
-      "soWhat": "In a world where threats can come from above, True Anomaly’s success might just be the new norm—if you’re not securing space, you're falling behind."
+      "kicker": "LAUNCH",
+      "head": "Latitude plans first launch from Oman in 2027",
+      "body": "French startup Latitude has announced plans for its inaugural launch from Oman, targeting late 2027 for the event. This marks a significant step for Oman as it aims to establish itself as a new player in the space launch market. With the global launch landscape becoming increasingly competitive, Latitude's choice of location could offer strategic advantages in terms of access and cost.",
+      "soWhat": "If successful, this could be the beginning of a new launch hub that reshapes regional dynamics."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Blue Origin's New Glenn",
-      "body": "As Blue Origin pushes to return New Glenn to flight, any further delays could impact their credibility in the launch market."
+      "title": "Monitor drone countermeasures development",
+      "body": "As drone threats escalate, companies will need to innovate quickly to safeguard launch operations."
     },
     {
-      "title": "Watch for Latitude's Oman launch",
-      "body": "Latitude's plan for a 2027 launch from Oman could mark a significant shift in launch geography, depending on execution."
+      "title": "EchoStar's restructuring outcomes",
+      "body": "Watch for how EchoStar's bankruptcy impacts its competitors and the broader satellite industry."
     },
     {
-      "title": "Palantir's TITAN program extension",
-      "body": "Palantir's $480 million extension on the TITAN program signals continued government reliance on established players for ground station capabilities."
+      "title": "Latitude's Oman launch preparations",
+      "body": "Upcoming milestones from Latitude could indicate the viability of new launch sites outside traditional hubs."
     },
     {
-      "title": "Funding trends in defense-tech",
-      "body": "With the defense-tech IPO window showing signs of life, expect increased activity as investors look for the next military unicorn."
+      "title": "Vantor's WorldView 3D rollout",
+      "body": "Keep an eye on Vantor's ability to deliver high-definition imagery, as data becomes increasingly critical."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as they prepare for upcoming test flights."
-    },
-    {
-      "sym": "AER",
-      "note": "Aerojet Rocketdyne's recent contract wins have kept their stock buoyant despite broader market pressures."
-    },
-    {
-      "sym": "PLTR",
-      "note": "Palantir's stock is benefitting from its $480M extension, reinforcing its position in government contracts."
+      "note": "Virgin Galactic's stock remains volatile as it navigates post-launch challenges."
     },
     {
       "sym": "ECHO",
-      "note": "EchoStar's bankruptcy filing has sent its stock tumbling, highlighting the risks of legacy satellite services."
+      "note": "EchoStar's bankruptcy filing puts its future in question, impacting investor confidence."
+    },
+    {
+      "sym": "TRUE",
+      "note": "True Anomaly's $190M Series C highlights the growing interest in co-orbital security."
+    },
+    {
+      "sym": "AUR",
+      "note": "Aurora's recent funding rounds suggest a strong interest in their satellite technology."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

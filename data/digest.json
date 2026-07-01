@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is grappling with a mix of operational challenges and strategic developments. From bankruptcy filings to new launch plans, the sector is anything but dull.",
+  "summary": "The space and defense sectors are grappling with a mix of operational challenges and strategic shifts. From drone threats to bankruptcy filings, the landscape is anything but dull.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Drones and Launch Safety",
-      "body": "The increasing presence of drones near U.S. rocket launch sites raises significant safety concerns. As the threat landscape evolves, the industry must adapt to ensure secure operations."
+      "title": "Drone Threats Loom Large",
+      "body": "With drones posing risks to U.S. rocket launch sites, the industry is on high alert. This adds a layer of complexity to an already intricate launch environment."
     },
     {
       "icon": "◉",
-      "title": "Financial Turbulence in Space",
-      "body": "EchoStar's bankruptcy filing underscores the financial pressures facing satellite operators in a competitive market. Meanwhile, Palantir's contract extension hints at ongoing government reliance on established tech players."
+      "title": "Bankruptcy Blues",
+      "body": "EchoStar's subsidiaries filing for bankruptcy highlights the financial strains affecting satellite TV and wireless services. It raises questions about the sustainability of certain business models in the sector."
     },
     {
       "icon": "▲",
-      "title": "New Launch Initiatives",
-      "body": "Latitude's upcoming launch from Oman signals a diversification of launch sites, potentially easing congestion at traditional locations. Blue Origin's revised launch pad strategy aims to bring New Glenn back into the fray, but the timeline remains uncertain."
+      "title": "Budget Boost for Space Resilience",
+      "body": "The FY27 budget markup's $1.4B increase for space resilience reflects a growing recognition of the need for fortified capabilities. This funding could catalyze new initiatives aimed at safeguarding assets in orbit."
     },
     {
       "icon": "◆",
-      "title": "Defense and Space Integration",
-      "body": "The Space Force's integration with the Air Force highlights a growing emphasis on AI to bolster mission capabilities. As defense tech lobbying ramps up, the intersection of space and military readiness is becoming a focal point."
+      "title": "Launch Plans Expand Globally",
+      "body": "Latitude's upcoming launch from Oman signals a diversification of launch sites beyond traditional hubs. This trend could reshape the competitive landscape as new players enter the fray."
     }
   ],
-  "updated": "2026-07-01 15:47 UTC"
+  "updated": "2026-07-01 16:22 UTC"
 }
