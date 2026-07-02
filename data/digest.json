@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are grappling with a mix of operational challenges and strategic shifts. From drone threats to bankruptcy filings, the landscape is anything but dull.",
+  "summary": "The space industry is grappling with a mix of resilience initiatives and ongoing challenges, from satellite communications to launch site security. Meanwhile, budget allocations are shifting, and some companies are trying to navigate the rocky terrain of defense contracts.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Drone Threats Loom Large",
-      "body": "With drones posing risks to U.S. rocket launch sites, the industry is on high alert. This adds a layer of complexity to an already intricate launch environment."
+      "title": "Satellite Communications Resilience",
+      "body": "Efforts to bolster satellite communications are underway, reflecting a growing recognition of vulnerabilities in current systems. The FCC's impending vote on licensing overhaul may further shape this landscape."
     },
     {
       "icon": "◉",
-      "title": "Bankruptcy Blues",
-      "body": "EchoStar's subsidiaries filing for bankruptcy highlights the financial strains affecting satellite TV and wireless services. It raises questions about the sustainability of certain business models in the sector."
+      "title": "Launch Site Security Concerns",
+      "body": "Drones are emerging as a significant threat to U.S. rocket launch sites, raising alarms about security protocols. As the industry pushes for more resilient operations, this issue could prompt regulatory changes."
     },
     {
       "icon": "▲",
       "title": "Budget Boost for Space Resilience",
-      "body": "The FY27 budget markup's $1.4B increase for space resilience reflects a growing recognition of the need for fortified capabilities. This funding could catalyze new initiatives aimed at safeguarding assets in orbit."
+      "body": "The recent $1.4 billion addition to the space resilience line in the FY27 budget signals a shift towards prioritizing national security in space. This funding could catalyze new projects and partnerships within the defense sector."
     },
     {
       "icon": "◆",
-      "title": "Launch Plans Expand Globally",
-      "body": "Latitude's upcoming launch from Oman signals a diversification of launch sites beyond traditional hubs. This trend could reshape the competitive landscape as new players enter the fray."
+      "title": "Defense-Tech IPO Activity",
+      "body": "The defense-tech sector is showing signs of life, with discussions around IPOs gaining traction. As companies like Palantir secure extensions on key contracts, the market may be warming up to new entrants."
     }
   ],
-  "updated": "2026-07-01 16:22 UTC"
+  "updated": "2026-07-02 15:21 UTC"
 }
