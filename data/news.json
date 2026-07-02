@@ -1,87 +1,87 @@
 {
-  "updated": "2026-07-02T15:21:23.420Z",
+  "updated": "2026-07-02T16:02:15.604Z",
   "articles": [
     {
       "sourceId": "spacenews",
       "title": "Making satellite communications more resilient",
-      "summary": "Kymeta discusses multi-orbit satellite communications, highlighting both benefits and challenges of combining different connectivity types in one terminal; it's like trying to mix oil and water but with more satellites involved.",
+      "summary": "Kymeta discusses the challenges of multi-orbit satellite communications, hinting that resilience might be more of a buzzword than a reality in the sky.",
       "date": "2026-07-02",
       "link": "https://spacenews.com/making-satellite-communications-more-resilient/"
     },
     {
       "sourceId": "spacenews",
       "title": "Final Atlas 5 Amazon Leo mission launches",
-      "summary": "The final Atlas 5 rocket has launched Amazon Leo satellites, marking the end of an era for the vehicle; it’s like saying goodbye to an old friend who never quite got the hang of social media.",
+      "summary": "The final Atlas 5 mission successfully launched Amazon Leo satellites, leaving behind a legacy of rockets that are now more nostalgic than useful.",
       "date": "2026-07-02",
       "link": "https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/"
     },
     {
       "sourceId": "spacenews",
       "title": "Report links Starliner problems to overconfidence and unrealistic schedules",
-      "summary": "A report attributes Boeing's Starliner issues to overconfidence and unrealistic timelines, suggesting that sometimes, the biggest enemy is the calendar itself.",
+      "summary": "A report attributes Boeing's Starliner woes to overconfidence and unrealistic timelines, proving that sometimes the biggest enemy is the calendar.",
       "date": "2026-07-01",
       "link": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/"
     },
     {
       "sourceId": "spacenews",
       "title": "FCC to vote on satellite licensing overhaul July 22",
-      "summary": "The FCC plans to vote on a satellite licensing overhaul, aiming to streamline applications for complex constellations; because nothing says efficiency like a bureaucratic assembly line.",
+      "summary": "The FCC plans to overhaul satellite licensing to keep pace with complex constellations, because who doesn’t love a good bureaucratic assembly line?",
       "date": "2026-07-01",
       "link": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/"
     },
     {
       "sourceId": "spacenews",
       "title": "Unseen threats overhead: Drones endanger U.S. rocket launch sites",
-      "summary": "Drones pose a threat to U.S. rocket launch sites, with one wayward flyer capable of causing costly delays; it's a reminder that even in space, the sky isn't always the limit.",
+      "summary": "Drones are now a significant threat to U.S. rocket launches, reminding us that even in space, the biggest risks can come from the ground.",
       "date": "2026-07-01",
       "link": "https://spacenews.com/unseen-threats-overhead-drones-endanger-u-s-rocket-launch-sites/"
     },
     {
       "sourceId": "tectonic",
       "title": "Anduril and L3Harris team on tactical SDA constellation bid",
-      "summary": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, proving that in defense, collaboration is key—even if it’s just to share the blame.",
+      "summary": "Anduril and L3Harris are collaborating on a tactical SDA constellation bid, illustrating that in defense, teamwork is often just a polite way of sharing the blame.",
       "date": "2026-05-04",
       "link": "https://tectonicdefense.com/anduril-l3harris-sda/"
     },
     {
       "sourceId": "tectonic",
       "title": "FY27 budget markup adds $1.4B to space resilience line",
-      "summary": "The FY27 budget markup adds $1.4B for space resilience, finally treating space as more than just a cinematic backdrop; it's about time someone acknowledged the final frontier isn't just for sci-fi.",
+      "summary": "The FY27 budget adds $1.4B for space resilience, finally recognizing that space is more than just a backdrop for action movies.",
       "date": "2026-05-03",
       "link": "https://tectonicdefense.com/fy27-markup-space/"
     },
     {
       "sourceId": "tectonic",
       "title": "Hypersonic glide-vehicle test slips again — third quarter in a row",
-      "summary": "Hypersonic glide-vehicle tests have been delayed again, raising questions about whether 'hypersonic' is just a euphemism for 'still in the lab'.",
+      "summary": "Hypersonic glide-vehicle tests are delayed again, leading to speculation that 'hypersonic' might just mean 'still figuring it out'.",
       "date": "2026-05-02",
       "link": "https://tectonicdefense.com/hgv-slip-q3/"
     },
     {
       "sourceId": "tectonic",
       "title": "Sierra Space's Dream Chaser DoD variant clears critical design review",
-      "summary": "Sierra Space's Dream Chaser DoD variant has passed its critical design review, but let’s hope it launches quicker than it took to get through the paperwork.",
+      "summary": "Sierra Space's Dream Chaser DoD variant has passed its critical design review, so let’s see if it can actually launch before the next century.",
       "date": "2026-05-01",
       "link": "https://tectonicdefense.com/dream-chaser-cdr/"
     },
     {
       "sourceId": "tectonic",
       "title": "Palantir wins $480M extension on TITAN ground station program",
-      "summary": "Palantir has secured a $480M extension on its TITAN ground station program, highlighting the government's preference for the devil it knows over the angel it doesn’t.",
+      "summary": "Palantir's $480M extension on the TITAN program underscores the government's tendency to stick with familiar faces, no matter how flawed.",
       "date": "2026-04-29",
       "link": "https://tectonicdefense.com/palantir-titan-extension/"
     },
     {
       "sourceId": "piratewires",
       "title": "The Defense-Tech IPO Window Is Cracking Open",
-      "summary": "The defense-tech IPO window is showing signs of life, suggesting investors are ready to roll the dice on the next military unicorn; just remember, not all that glitters is gold.",
+      "summary": "The defense-tech IPO window is cracking open, suggesting investors are ready to gamble on the next military unicorn, but caution is advised.",
       "date": "2026-05-04",
       "link": "https://piratewires.com/defense-ipo-window/"
     },
     {
       "sourceId": "piratewires",
       "title": "Why every YC company is suddenly 'AI for Defense'",
-      "summary": "Y Combinator's surge of 'AI for Defense' startups indicates that sometimes, innovation is just a rebranding of old ideas with a tech-savvy twist.",
+      "summary": "Y Combinator's influx of 'AI for Defense' startups shows that sometimes innovation is just a fresh coat of paint on old ideas.",
       "date": "2026-05-03",
       "link": "https://piratewires.com/yc-defense/"
     },
@@ -172,182 +172,182 @@
     {
       "sourceId": "tbpn",
       "title": "The TBPN deep-tech survey: 1,200 founders weigh in",
-      "summary": "A survey of 1,200 tech founders shows a trend toward defense, hinting that military gear is the new Silicon Valley chic; tactical hoodies may soon be the must-have item for startup pitch meetings.",
+      "summary": "A survey of 1,200 tech founders reveals a pivot towards defense, suggesting military gear might soon replace hoodies in startup culture; Silicon Valley is officially on a tactical shopping spree.",
       "date": "2026-04-29",
       "link": "https://tbpn.com/deeptech-survey-26/"
     },
     {
       "sourceId": "ussf",
       "title": "Guardian Resilience Teams promote holistic health, culture of fitness",
-      "summary": "The U.S. Space Force is adopting a Holistic Health Approach to fitness, signaling that even Guardians need to prioritize their well-being while dodging asteroids and bureaucracy.",
+      "summary": "The U.S. Space Force is shifting to a Holistic Health Approach for Guardians, emphasizing long-term fitness over traditional models; because who needs a six-pack when you can have a fully integrated wellness plan?",
       "date": "2026-07-01",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4531382/guardian-resilience-teams-promote-holistic-health-culture-of-fitness/"
     },
     {
       "sourceId": "ussf",
       "title": "Freedom 250: vigilance beyond the gate",
-      "summary": "Military readiness now includes off-duty activities, as Airmen and Guardians are reminded to apply tactical planning to their holiday celebrations; nothing says 'freedom' like risk assessment.",
+      "summary": "Military readiness now includes off-duty planning during holidays like July 4, urging Airmen and Guardians to apply tactical thinking to their celebrations; because nothing says freedom like a risk assessment for fireworks.",
       "date": "2026-07-01",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4531306/freedom-250-vigilance-beyond-the-gate/"
     },
     {
       "sourceId": "ussf",
       "title": "Space Force integrates with Air Force in AI sprint to ensure mission dominance",
-      "summary": "Guardians and Airmen teamed up in an AI sprint to enhance mission effectiveness, proving that even in space, teamwork makes the dream work—especially when machines are involved.",
+      "summary": "Guardians and Airmen collaborated in an AI sprint to enhance mission capabilities, marking a rare moment of teamwork between software developers and military personnel; it's like the Avengers, but with more algorithms.",
       "date": "2026-06-30",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4530666/space-force-integrates-with-air-force-in-ai-sprint-to-ensure-mission-dominance/"
     },
     {
       "sourceId": "ussf",
       "title": "Guardians complete Officer Training Course, ready to support the joint force",
-      "summary": "Fifty-four Guardian officers graduated from the U.S. Space Force’s Officer Training Course, ready to support the joint force; they’re now officially licensed to engage in intergalactic shenanigans.",
+      "summary": "Fifty-four Guardian officers graduated from the U.S. Space Force’s Officer Training Course, ready to join the joint force; they’re now officially licensed to protect the galaxy, or at least the Earth.",
       "date": "2026-06-29",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4532001/guardians-complete-officer-training-course-ready-to-support-the-joint-force/"
     },
     {
       "sourceId": "ussf",
       "title": "Space Cowboys America 250 event at Falcon Stadium",
-      "summary": "The U.S. Space Force and Professional Bull Riders celebrated the PBR Space Cowboys America 250 event, because nothing says 'space' like bull riding at an Air Force Academy.",
+      "summary": "The U.S. Space Force and Professional Bull Riders celebrated the PBR Space Cowboys America 250 event, proving that space and rodeos can coexist; just don’t ask the bulls about gravity.",
       "date": "2026-06-20",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4524458/space-cowboys-america-250-event-at-falcon-stadium/"
     },
     {
       "sourceId": "dod",
       "title": "U.S. Military Supports Venezuela Earthquake Response",
-      "summary": "U.S. service members are assisting in Venezuela following devastating earthquakes, demonstrating that sometimes, even the military has to swap their combat gear for humanitarian aid.",
+      "summary": "U.S. military personnel are assisting in Venezuela following two earthquakes, showcasing the military's role in humanitarian efforts; sometimes, the best defense is a good rescue mission.",
       "date": "2026-07-01",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4531605/us-military-supports-venezuela-earthquake-response/"
     },
     {
       "sourceId": "dod",
       "title": "U.S. Participates in Fifth Iteration of Chilean-Hosted Exercise",
-      "summary": "Aircraft and personnel from across the Americas gathered in Chile for Exercise Resolute Sentinel, reminding us that when it comes to joint exercises, the more the merrier—unless you’re the one doing the planning.",
+      "summary": "Aircraft and crews from across the Americas gathered in Chile for Exercise Resolute Sentinel, emphasizing regional cooperation; it’s like a military family reunion, but with more planes.",
       "date": "2026-07-01",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4531600/us-participates-in-fifth-iteration-of-chilean-hosted-exercise/"
     },
     {
       "sourceId": "dod",
       "title": "JIATF 401 Leaders Visit Whiteman Air Force Base to Strengthen Counter-Drone Operations",
-      "summary": "Leaders from Joint Interagency Task Force 401 visited Whiteman Air Force Base to enhance counter-drone operations, proving that the real enemy might just be the flying robots.",
+      "summary": "Leaders from Joint Interagency Task Force 401 visited Whiteman Air Force Base to enhance counter-drone operations ahead of a directed energy pilot program; because drones are the new pesky mosquitoes of the battlefield.",
       "date": "2026-06-30",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4530680/jiatf-401-leaders-visit-whiteman-air-force-base-to-strengthen-counter-drone-ope/"
     },
     {
       "sourceId": "dod",
       "title": "Sinking Exercise Demonstrates Capabilities of Joint Force",
-      "summary": "U.S. Pacific Command and allies conducted a live-fire sinking exercise during Valiant Shield 2026, demonstrating that even decommissioned ships can still play a role in military training.",
+      "summary": "U.S. Pacific Command forces conducted a live-fire sinking exercise during Valiant Shield 2026, targeting a decommissioned ship; it’s not every day you get to sink a ship and call it training.",
       "date": "2026-06-30",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4530604/sinking-exercise-demonstrates-capabilities-of-joint-force/"
     },
     {
       "sourceId": "dod",
       "title": "Navy Tests Prototype Atmospheric Diving System",
-      "summary": "The Navy tested a prototype atmospheric diving system, because if you can't dive deep into the ocean, you might as well do it in style with a new suit.",
+      "summary": "The Navy tested a prototype atmospheric diving system in open water, pushing the boundaries of underwater exploration; because who doesn’t want to dive deep without worrying about decompression sickness?",
       "date": "2026-06-30",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4530146/navy-tests-prototype-atmospheric-diving-system/"
     },
     {
       "sourceId": "viasat",
       "title": "The Internet in Space: The Apps that Dominate Satellite Traffic and Why it Matters",
-      "summary": "As satellite networks proliferate, the question arises: what do people actually do in space, and does it matter? Spoiler alert: it probably involves streaming cat videos.",
+      "summary": "As satellite launches increase, questions arise about the actual use of satellite networks; it turns out, the internet in space is still mostly about cat videos and memes.",
       "date": "2026-07-01",
       "link": "https://www.satellitetoday.com/opinion/2026/07/01/the-internet-in-space-the-apps-that-dominate-satellite-traffic-and-why-it-matters/"
     },
     {
       "sourceId": "viasat",
       "title": "Dish Satellite TV and Wireless Businesses File for Chapter 11 Bankruptcy",
-      "summary": "Dish Satellite TV and Wireless filed for Chapter 11 bankruptcy, citing a need to transition its wireless business; perhaps the only thing more outdated than their satellite TV is their business model.",
+      "summary": "Dish Satellite TV and Wireless filed for Chapter 11 bankruptcy, citing a need to transition its wireless business; apparently, even satellites can't escape financial gravity.",
       "date": "2026-07-01",
       "link": "https://www.satellitetoday.com/finance/2026/07/01/dish-satellite-tv-and-wireless-businesses-file-for-chapter-11-bankruptcy/"
     },
     {
       "sourceId": "viasat",
       "title": "Ovzon Wins New Defense Deal with European NATO Nation",
-      "summary": "Ovzon secured a 74 million Swedish krona defense deal with a European NATO country, proving that even in defense, it's all about the right connections—satellite connections, that is.",
+      "summary": "Ovzon secured a 74 million krona ($7.1 million) defense contract with a European NATO nation for satellite communications; it seems the defense sector is still keen on staying connected.",
       "date": "2026-07-01",
       "link": "https://www.satellitetoday.com/government-military/2026/07/01/ovzon-wins-new-defense-deal-with-european-nato-nation/"
     },
     {
       "sourceId": "viasat",
       "title": "Unseenlabs Orders 2 Cubesats from GomSpace",
-      "summary": "Unseenlabs ordered two cubesats from GomSpace for 2.2 million euros, further solidifying the trend of small satellites being the go-to solution for big problems.",
+      "summary": "Unseenlabs ordered two cubesats from GomSpace for 2.2 million euros ($2.5 million), proving that when it comes to RF detection, more is indeed merrier.",
       "date": "2026-07-01",
       "link": "https://www.satellitetoday.com/manufacturing/2026/07/01/unseenlabs-orders-2-cubesats-from-gomspace/"
     },
     {
       "sourceId": "viasat",
       "title": "Lite Coms Hires Calspan Exec Greg Campbell as President",
-      "summary": "Lite Coms appointed Greg Campbell as president to enhance manufacturing capabilities, which sounds great until you realize it’s just a fancy way of saying they need to make more stuff.",
+      "summary": "Lite Coms appointed Greg Campbell as president to boost manufacturing capabilities; let’s hope he’s as good at operations as he is at picking job titles.",
       "date": "2026-07-01",
       "link": "https://www.satellitetoday.com/people/2026/07/01/lite-coms-hires-calspan-exec-greg-campbell-as-president/"
     },
     {
       "sourceId": "spacecom",
+      "title": "Astronomers discover a potentially habitable planet just 25 light-years away. 'This one is exciting'",
+      "summary": "Astronomers found a potentially habitable planet just 25 light-years away, which is exciting unless you consider the commute.",
+      "date": "2026-07-02",
+      "link": "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-potentially-habitable-planet-just-25-light-years-away-this-one-is-exciting"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "How to invade planet Earth: An alien's guide to bringing the human race to its knees",
-      "summary": "A cheeky guide to invading Earth was released, reminding us that Hollywood has always had a knack for overestimating alien intelligence.",
+      "summary": "A cheeky guide on how aliens might invade Earth has surfaced, reminding us that Hollywood has always had a flair for the dramatic.",
       "date": "2026-07-02",
       "link": "https://www.space.com/entertainment/space-movies-shows/how-to-invade-planet-earth-an-aliens-guide-to-bringing-the-human-race-to-its-knees"
     },
     {
       "sourceId": "spacecom",
       "title": "'Flying saucer' arrives at NASA for Artemis 3 moon mission in time for World UFO Day | Space photo of the day for July 2, 2026",
-      "summary": "NASA's 'flying saucer' for the Artemis 3 mission arrived just in time for World UFO Day, because nothing says 'serious space exploration' like a timely PR stunt.",
+      "summary": "A 'flying saucer' arrived at NASA for the Artemis 3 mission just in time for World UFO Day, because timing is everything in both space and PR.",
       "date": "2026-07-02",
       "link": "https://www.space.com/space-exploration/human-spaceflight/flying-saucer-arrives-at-nasa-for-artemis-3-moon-mission-space-photo-of-the-day-for-july-2-2026"
     },
     {
       "sourceId": "spacecom",
       "title": "July full moon 2026: When, where and how to see the Buck Moon",
-      "summary": "A guide to July's full Buck Moon was published, which is great unless you were hoping for a lunar eclipse instead of just a big rock in the sky.",
+      "summary": "The July full moon, known as the Buck Moon, is approaching, and skywatchers are gearing up for another round of celestial Instagram posts.",
       "date": "2026-07-02",
       "link": "https://www.space.com/stargazing/july-full-moon-2026-when-where-and-how-to-see-the-buck-moon"
     },
     {
       "sourceId": "spacecom",
       "title": "In 1776, the moon was a clock, a calendar and a streetlight — and it was 31 feet closer to Earth",
-      "summary": "In 1776, the moon was 31 feet closer to Earth, serving as a clock and calendar, proving that even celestial bodies have had their ups and downs.",
+      "summary": "In 1776, the moon was 31 feet closer to Earth and served as a clock and calendar; it seems even celestial bodies have their own historical timelines.",
       "date": "2026-07-02",
       "link": "https://www.space.com/astronomy/moon/in-1776-the-moon-was-a-clock-a-calendar-and-a-streetlight-and-it-was-31-feet-closer-to-earth"
     },
     {
-      "sourceId": "spacecom",
-      "title": "Sun fires off 10 solar flares in 24 hours as multiple Earth-bound CMEs raise northern lights hopes for July 4 weekend",
-      "summary": "The sun unleashed 10 solar flares in 24 hours, raising hopes for northern lights this weekend, because who doesn't love a little cosmic fireworks show?",
-      "date": "2026-07-02",
-      "link": "https://www.space.com/stargazing/auroras/sun-fires-off-10-solar-flares-in-24-hours-as-multiple-earth-bound-cmes-raise-northern-lights-hopes-for-july-4-weekend"
-    },
-    {
       "sourceId": "rspace",
       "title": "Why The Moon Wasn't Supposed To Have Water",
-      "summary": "A discussion on why the moon wasn't supposed to have water highlights how even the best-laid plans can get a little damp.",
+      "summary": "A piece on why the moon wasn't supposed to have water raises eyebrows, as if celestial predictions are ever accurate.",
       "date": "2026-07-02",
       "link": "https://www.reddit.com/r/space/comments/1ulhzap/why_the_moon_wasnt_supposed_to_have_water/"
     },
     {
       "sourceId": "rspace",
       "title": "How 11 Deaf men helped shape NASA’s human spaceflight program",
-      "summary": "A piece on 11 deaf men shaping NASA’s human spaceflight program shows that sometimes the most impactful voices are the ones you can’t hear.",
+      "summary": "An article highlights how 11 deaf men contributed to NASA's human spaceflight program, proving that sometimes silence speaks volumes.",
       "date": "2026-07-02",
       "link": "https://www.reddit.com/r/space/comments/1uleppd/how_11_deaf_men_helped_shape_nasas_human/"
     },
     {
       "sourceId": "rspace",
       "title": "NASA’s Webb Studies How Planet Survived Death of its Star",
-      "summary": "NASA’s Webb telescope studied how a planet survived the death of its star, which sounds like a cosmic survival story that could use a better title.",
+      "summary": "NASA’s Webb telescope is studying how a planet survived the death of its star, which is a compelling reminder that some cosmic stories are just getting started.",
       "date": "2026-07-01",
       "link": "https://www.reddit.com/r/space/comments/1ul1t6q/nasas_webb_studies_how_planet_survived_death_of/"
     },
     {
       "sourceId": "rspace",
       "title": "I think I know what I want to do know for space, but how do I reach that goal?",
-      "summary": "A college freshman contemplates their future in the space industry, proving that indecision is a universal constant, even in the final frontier.",
+      "summary": "A college freshman reflects on navigating the space job market and choosing a degree path, which is a bit like trying to find your way in a dark room with no map.",
       "date": "2026-07-01",
       "link": "https://www.reddit.com/r/space/comments/1ul1g4c/i_think_i_know_what_i_want_to_do_know_for_space/"
     },
     {
       "sourceId": "rspace",
       "title": "NASA chief praises progress Blue Origin is making after launch failure",
-      "summary": "NASA's chief praises Blue Origin's progress despite a recent launch failure, which is a bit like complimenting a chef for their great presentation after they burned the meal.",
+      "summary": "NASA's chief commended Blue Origin's progress post-launch failure, proving that sometimes, the road to success is paved with a few spectacular misfires.",
       "date": "2026-07-01",
       "link": "https://www.reddit.com/r/space/comments/1ul0fam/nasa_chief_praises_progress_blue_origin_is_making/"
     },
@@ -389,70 +389,70 @@
     {
       "sourceId": "tnw-deeptech",
       "title": "Microsoft launches a $2.5 billion AI deployment business with 6,000 engineers",
-      "summary": "Microsoft has launched a $2.5 billion AI deployment business with 6,000 engineers, proving that when it comes to tech, size really does matter.",
+      "summary": "Microsoft announced a new operating business called Microsoft Frontier company on Thursday, backed by a $2.5 billion investment and 6,000 industry and engineering experts.",
       "date": "2026-07-02",
       "link": "https://thenextweb.com/news/microsoft-frontier-company-2-5-billion-ai-deployment"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "Ford’s Q2 US sales fell 10.3% as EV sales dropped 40.7% and an aluminium shortage hit F-Series trucks",
-      "summary": "Ford's Q2 US sales fell 10.3% as EV sales dropped 40.7%, suggesting that even the mighty F-Series can’t dodge the bullet of an aluminum shortage.",
+      "summary": "Ford reported a 10.3% decline in US new vehicle sales for the second quarter, selling 549,200 vehicles compared with 612,095 a year earlier.",
       "date": "2026-07-02",
       "link": "https://thenextweb.com/news/ford-q2-sales-decline-ev-drop-f-series"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "Tesla delivered 480,126 vehicles in Q2, far exceeding the 406,000 Wall Street expected",
-      "summary": "Tesla delivered 480,126 vehicles in Q2, far exceeding Wall Street's expectations, which means their production line is still operating at 'surprise' levels.",
+      "summary": "Tesla delivered 480,126 vehicles in the second quarter of 2026, far exceeding the Wall Street consensus of approximately 406,000, proving that sometimes, expectations are just meant to be shattered.",
       "date": "2026-07-02",
       "link": "https://thenextweb.com/news/tesla-q2-2026-deliveries-beat-480000"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "Cloudflare gives AI crawlers a September deadline: pay publishers or get blocked",
-      "summary": "Cloudflare has set a September deadline for AI crawlers to pay publishers or get blocked, effectively saying, 'No pay, no play' to the content-hungry bots.",
+      "summary": "Cloudflare has set the AI industry a deadline: from September, it will block crawlers that hoover up content for AI training, making the web a little less free for the data-hungry.",
       "date": "2026-07-02",
       "link": "https://thenextweb.com/news/cloudflare-block-ai-crawlers-pay-publishers"
     },
     {
       "sourceId": "tnw-deeptech",
       "title": "Why the next leap in AI video is teaching avatars to see and listen",
-      "summary": "The next leap in AI video focuses on teaching avatars to see and listen, which is great news for anyone who ever wanted their digital friends to actually pay attention.",
+      "summary": "Progress in generative video and AI avatars has focused on fidelity, with new models delivering sharper detail and smoother motion, but can they also teach avatars to listen?",
       "date": "2026-07-02",
       "link": "https://thenextweb.com/news/interactive-avatar-models-three-levels-interactivity"
     },
     {
       "sourceId": "nasa",
       "title": "Good Morning, Earth!",
-      "summary": "NASA astronaut Chris Williams snapped a sunrise from the ISS, reminding us that even in space, mornings come with a view—albeit one that requires a lot more effort to get out of bed for.",
+      "summary": "NASA astronaut Chris Williams snapped a photo of an orbital sunrise from the ISS, proving that even in space, you can’t escape the daily grind of sunrises and sunsets.",
       "date": "2026-07-02",
       "link": "https://www.nasa.gov/image-article/good-morning-earth/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration",
-      "summary": "The James Webb Space Telescope has spotted stars igniting in the FS Tau star system, proving that even in the cosmic realm, it's all about the right lighting.",
+      "summary": "The James Webb Space Telescope has unveiled the birth of stars in the FS Tau star system, reminding us that even in the universe, some things take a long time to come to light.",
       "date": "2026-07-02",
       "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/"
     },
     {
       "sourceId": "nasa",
       "title": "What’s Up: July 2026 Skywatching Tips from NASA",
-      "summary": "NASA is offering skywatching tips for July 2026, including a comet sighting and a new angle on Saturn's rings, because who doesn't love a celestial show-and-tell?",
+      "summary": "NASA has outlined July 2026 skywatching highlights, including a comet visit and a new angle on Saturn’s rings, because who doesn’t need more celestial distractions?",
       "date": "2026-07-02",
       "link": "https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA’s Chandra Examines Milky Way at Arms’ Length",
-      "summary": "NASA’s Chandra X-ray Observatory suggests the Milky Way's outer arms might be wider than thought, which is a bit like discovering your galaxy has been hitting the gym.",
+      "summary": "NASA’s Chandra X-ray Observatory suggests that the Milky Way's outer spiral arms might be wider than thought, which is a comforting thought for those of us who feel lost in the galaxy.",
       "date": "2026-07-01",
       "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
-      "summary": "NASA is looking for volunteers for a yearlong simulated Moon and Mars mission, because nothing says 'adventure' like a year of pretending to be an astronaut in Houston.",
+      "summary": "NASA is on the hunt for volunteers for a yearlong simulated Moon and Mars mission, proving that some people will pay to live in a cramped space just for the chance to avoid their day jobs.",
       "date": "2026-07-01",
       "link": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/"
     }
