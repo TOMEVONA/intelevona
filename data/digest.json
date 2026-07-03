@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, funding continues to flow into the space sector, with notable investments from Chinese and American firms. Meanwhile, the U.S. military's focus on space resilience appears to be gaining traction, even as hypersonic testing remains stuck in a holding pattern.",
+  "summary": "This week, funding continues to flow into the space sector, with notable investments highlighting the increasing interest in satellite technology and resilience. Meanwhile, military applications of space tech are gaining traction, as evidenced by new contracts and collaborations.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Frenzy in Space",
-      "body": "Chinese satellite manufacturer Hongqing's $191 million raise highlights the ongoing investment interest in space technology. Meanwhile, True Anomaly's $190 million Series C round underscores a similar trend in the U.S. market."
+      "title": "Funding Floodgates Open",
+      "body": "Chinese satellite manufacturer Hongqing's $191 million raise and True Anomaly's $190 million Series C reflect a robust appetite for investment in space technologies. This trend indicates a growing recognition of the strategic importance of space capabilities."
     },
     {
       "icon": "◉",
-      "title": "Military Space Resilience Gains",
-      "body": "The FY27 budget markup's additional $1.4 billion for space resilience indicates a growing recognition of the need for robust satellite communications. This comes alongside Anduril and L3Harris's tactical SDA constellation bid, suggesting a strategic pivot in defense priorities."
+      "title": "Resilience in Satellite Communications",
+      "body": "The Defense budget markup adding $1.4 billion to space resilience underscores the U.S. commitment to fortifying its satellite infrastructure. As geopolitical tensions rise, enhancing communication reliability is becoming a top priority."
     },
     {
       "icon": "▲",
-      "title": "Launch Contracts and Innovations",
-      "body": "Isar Aerospace's recent contract to launch a German-built Planet imaging satellite marks a significant step for European space capabilities. Additionally, Sierra Space's Dream Chaser DoD variant passing its critical design review signals progress in reusable space vehicles."
+      "title": "Military Space Collaborations Grow",
+      "body": "Anduril and L3Harris teaming up for a tactical SDA constellation bid signals a shift towards integrated military space operations. Such partnerships may redefine how defense contractors approach satellite deployment and operational synergy."
     },
     {
       "icon": "◆",
-      "title": "The AI Defense Trend",
-      "body": "The surge of 'AI for Defense' startups, particularly among Y Combinator companies, reflects a broader trend of integrating advanced technologies into military applications. This could reshape the defense landscape, but the practical implications remain to be seen."
+      "title": "Emerging Players in Space Tech",
+      "body": "Polish company Sybilla Technologies' funding for entry into the U.S. market and Verde Technologies' pivot to space highlight the influx of new entrants into the sector. This diversification could lead to increased competition and innovation in satellite applications."
     }
   ],
-  "updated": "2026-07-03 15:14 UTC"
+  "updated": "2026-07-03 15:50 UTC"
 }
