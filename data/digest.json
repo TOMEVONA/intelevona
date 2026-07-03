@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is grappling with a mix of resilience initiatives and ongoing challenges, from satellite communications to launch site security. Meanwhile, budget allocations are shifting, and some companies are trying to navigate the rocky terrain of defense contracts.",
+  "summary": "This week, funding continues to flow into the space sector, with notable investments from Chinese and American firms. Meanwhile, the U.S. military's focus on space resilience appears to be gaining traction, even as hypersonic testing remains stuck in a holding pattern.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Satellite Communications Resilience",
-      "body": "Efforts to bolster satellite communications are underway, reflecting a growing recognition of vulnerabilities in current systems. The FCC's impending vote on licensing overhaul may further shape this landscape."
+      "title": "Funding Frenzy in Space",
+      "body": "Chinese satellite manufacturer Hongqing's $191 million raise highlights the ongoing investment interest in space technology. Meanwhile, True Anomaly's $190 million Series C round underscores a similar trend in the U.S. market."
     },
     {
       "icon": "◉",
-      "title": "Launch Site Security Concerns",
-      "body": "Drones are emerging as a significant threat to U.S. rocket launch sites, raising alarms about security protocols. As the industry pushes for more resilient operations, this issue could prompt regulatory changes."
+      "title": "Military Space Resilience Gains",
+      "body": "The FY27 budget markup's additional $1.4 billion for space resilience indicates a growing recognition of the need for robust satellite communications. This comes alongside Anduril and L3Harris's tactical SDA constellation bid, suggesting a strategic pivot in defense priorities."
     },
     {
       "icon": "▲",
-      "title": "Budget Boost for Space Resilience",
-      "body": "The recent $1.4 billion addition to the space resilience line in the FY27 budget signals a shift towards prioritizing national security in space. This funding could catalyze new projects and partnerships within the defense sector."
+      "title": "Launch Contracts and Innovations",
+      "body": "Isar Aerospace's recent contract to launch a German-built Planet imaging satellite marks a significant step for European space capabilities. Additionally, Sierra Space's Dream Chaser DoD variant passing its critical design review signals progress in reusable space vehicles."
     },
     {
       "icon": "◆",
-      "title": "Defense-Tech IPO Activity",
-      "body": "The defense-tech sector is showing signs of life, with discussions around IPOs gaining traction. As companies like Palantir secure extensions on key contracts, the market may be warming up to new entrants."
+      "title": "The AI Defense Trend",
+      "body": "The surge of 'AI for Defense' startups, particularly among Y Combinator companies, reflects a broader trend of integrating advanced technologies into military applications. This could reshape the defense landscape, but the practical implications remain to be seen."
     }
   ],
-  "updated": "2026-07-02 15:21 UTC"
+  "updated": "2026-07-03 15:14 UTC"
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-02",
-  "issue": "No. 72",
-  "headline": "Funding flows. Satellites launch. Drones threaten.",
-  "deck": "This week, investments surge while legacy systems retire and new risks emerge.",
+  "updated": "2026-07-03",
+  "issue": "No. 73",
+  "headline": "Funding flows. Markets shift. Defense bets rise.",
+  "deck": "This week highlights significant funding rounds and strategic moves in space.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190M in Series C funding, pushing its valuation to $1.6B. The capital will bolster its co-orbital security and space domain awareness capabilities, which are increasingly critical given the uptick in global tensions. With the DoD's focus on pull-through contracts, this funding signals a strong alignment with government priorities.",
-      "soWhat": "True Anomaly's cash influx highlights the increasing demand for space security solutions—just when the competition is heating up."
+      "body": "True Anomaly secured a $190 million Series C funding round, emphasizing its role in co-orbital security and space domain awareness. With a valuation of $1.6 billion, the company is well-positioned to capitalize on increasing DoD interest in space security solutions. This funding follows a trend where defense priorities are driving substantial investments in space technology.",
+      "soWhat": "True Anomaly's success suggests that investors are betting on the military's growing reliance on space for operational security."
     },
     {
-      "kicker": "LAUNCH",
-      "head": "Atlas 5 launches final Amazon Leo satellites",
-      "body": "The final Atlas 5 rocket launched Amazon's Leo satellites, marking the end of a 20-year run for the vehicle. The mission, which took place last week, underscores the transition of satellite launches from established vehicles to newer entrants like SpaceX and Vulcan Centaur. With the Atlas 5 retired, the space launch landscape is shifting dramatically.",
-      "soWhat": "The end of Atlas 5 signifies not just nostalgia but a stark reminder that legacy systems can’t compete forever—even in space."
+      "kicker": "TECHNOLOGY",
+      "head": "Verde Technologies pivots to space solar panels",
+      "body": "Verde Technologies, known for its perovskite solar panels, is shifting its focus to the space sector, aiming to power satellites with its thin-film technology. This pivot could be a smart move as the demand for efficient energy solutions in space continues to rise. The company’s expertise in solar technology may give it a competitive edge in a crowded market.",
+      "soWhat": "If Verde can make this transition smoothly, it might just light the way for others looking to innovate in space energy solutions."
     },
     {
-      "kicker": "DEFENSE",
-      "head": "Boeing's Starliner woes linked to overconfidence",
-      "body": "A recent report suggests that Boeing's Starliner issues stem from overconfidence and unrealistic timelines, with the company struggling to meet its schedule. This comes as Boeing faces scrutiny over its ability to deliver on its commitments, especially with a $4.5B NASA contract at stake. The report implies that the calendar might be Boeing's toughest adversary yet.",
-      "soWhat": "If Boeing can't recalibrate its expectations, it risks losing more than just contracts; it could lose its credibility in the space race."
+      "kicker": "COLLABORATION",
+      "head": "Anduril and L3Harris team up for SDA bid",
+      "body": "Anduril and L3Harris are collaborating on a bid for a tactical Space Development Agency constellation, showcasing a strategic partnership aimed at enhancing U.S. space capabilities. This collaboration aligns with the recent $1.4 billion budget increase for space resilience in FY27, indicating a strong government push for improved satellite communications and defense infrastructure.",
+      "soWhat": "In defense, partnerships like this often mean shared risk—let's see if they can actually deliver on the promise."
     }
   ],
   "watchlist": [
     {
-      "title": "FCC satellite licensing vote approaches",
-      "body": "The FCC's upcoming vote on satellite licensing could reshape the regulatory landscape, impacting how quickly companies can deploy new constellations."
+      "title": "Keep an eye on Verde Technologies",
+      "body": "Their shift to space could attract attention from satellite manufacturers looking for efficient power solutions."
     },
     {
-      "title": "Anduril and L3Harris bid for SDA",
-      "body": "The collaboration between Anduril and L3Harris on a tactical SDA constellation could set the stage for future defense contracts, especially in a budget environment favoring space resilience."
+      "title": "Sybilla Technologies eyes U.S. expansion",
+      "body": "Their entry into the U.S. market may stir competition among existing players, particularly in satellite tech."
     },
     {
-      "title": "Sierra Space's Dream Chaser moves forward",
-      "body": "With the Dream Chaser DoD variant clearing its critical design review, expectations will rise for its first flight—let's see if it can deliver faster than its predecessors."
+      "title": "Palantir's TITAN program extension",
+      "body": "The $480 million extension could signal more government contracts on the horizon for data management solutions."
     },
     {
-      "title": "Palantir's TITAN extension under scrutiny",
-      "body": "Palantir's $480M extension on the TITAN ground station program will be closely watched, as government contracts increasingly favor established players over newcomers."
+      "title": "Watch for hypersonic test updates",
+      "body": "The repeated delays in hypersonic glide-vehicle tests raise questions about the viability of these technologies moving forward."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains under pressure as it struggles to find a sustainable revenue model."
-    },
-    {
-      "sym": "LMT",
-      "note": "Lockheed Martin's defense contracts continue to grow, but delays in hypersonic tests raise concerns."
-    },
-    {
-      "sym": "BA",
-      "note": "Boeing's stock takes a hit as Starliner issues pile up, casting doubt on its future in crewed space missions."
+      "note": "Virgin Galactic's latest flight schedule delays could impact investor confidence."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's recent contract extension shows the government’s preference for familiar vendors, even amid innovation."
+      "note": "Palantir's stock remains stable after the TITAN program extension, showing investor trust."
+    },
+    {
+      "sym": "ISAR",
+      "note": "Isar Aerospace's launch plans may signal a growing German space sector."
+    },
+    {
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's recent funding rounds highlight ongoing investor interest in satellite communications."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
