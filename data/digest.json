@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is navigating a mix of funding boosts and operational hurdles this week. While satellite resilience is getting a budgetary lift, launch risks and technological delays continue to cast a shadow over ambitious plans.",
+  "summary": "The space industry is grappling with cost concerns and launch risks, particularly highlighted by the GAO's recent report on the Space Force portfolio. Meanwhile, funding continues to flow into various sectors, with notable investments in satellite technology and emerging startups.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding for Space Resilience",
-      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, signaling a strong commitment to bolstering satellite capabilities. This comes at a time when the Space Force is grappling with rising costs and launch risks, highlighting the need for robust funding."
+      "title": "Cost Concerns for Space Force",
+      "body": "The GAO has flagged rising satellite costs and launch risks in the Space Force's portfolio, raising eyebrows about budget management. As the military pushes for resilience, the financial implications could ripple across contractors."
     },
     {
       "icon": "◉",
-      "title": "Launch Delays and Risks",
-      "body": "The hypersonic glide-vehicle test has slipped for the third consecutive quarter, raising questions about the reliability of cutting-edge defense technologies. Meanwhile, the GAO's flagging of satellite costs in the Space Force portfolio underscores the ongoing challenges in managing launch risks."
+      "title": "Funding Boosts for Startups",
+      "body": "Recent funding rounds, including True Anomaly's $190M Series C and Hongqing's $191M raise, signal a robust interest in space technology. Investors seem undeterred by the challenges of the sector, betting on its long-term potential."
     },
     {
       "icon": "▲",
-      "title": "Emerging Players in Space",
-      "body": "Chinese satellite manufacturer Hongqing's recent $191 million raise reflects the growing competition in the satellite manufacturing sector. Additionally, startups like Verde Technologies are pivoting towards space, indicating a shift in focus among new entrants."
+      "title": "Launch Activity Picks Up",
+      "body": "Isar Aerospace's recent contract for a Planet imaging satellite and Pegasus's Swift reboost mission highlight a busy launch calendar. This uptick suggests that despite risks, demand for satellite deployment remains strong."
     },
     {
       "icon": "◆",
-      "title": "Strategic Partnerships and Contracts",
-      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, showcasing a trend of collaboration in the defense tech space. Meanwhile, Palantir's $480 million extension on the TITAN ground station program highlights the increasing importance of data management in military operations."
+      "title": "Defense Tech IPOs on the Horizon",
+      "body": "The defense-tech sector is eyeing a potential IPO window, with companies like Palantir and others extending contracts to bolster their positions. As the market shifts, expect more startups to position themselves for public offerings."
     }
   ],
-  "updated": "2026-07-04 14:41 UTC"
+  "updated": "2026-07-04 15:01 UTC"
 }
