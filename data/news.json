@@ -1,87 +1,87 @@
 {
-  "updated": "2026-07-03T15:50:51.006Z",
+  "updated": "2026-07-04T14:41:31.171Z",
   "articles": [
     {
       "sourceId": "spacenews",
+      "title": "GAO flags satellite costs, launch risks in Space Force portfolio",
+      "summary": "GAO flags satellite costs, launch risks in Space Force portfolio, suggesting that national security might be more about budget gymnastics than actual security.",
+      "date": "2026-07-04",
+      "link": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Pegasus launches Swift reboost mission",
+      "summary": "Pegasus launches Swift reboost mission, possibly marking the end of a rocket that was never quite the star of the show.",
+      "date": "2026-07-03",
+      "link": "https://spacenews.com/pegasus-launches-swift-reboost-mission/"
+    },
+    {
+      "sourceId": "spacenews",
       "title": "Chinese satellite manufacturer Hongqing raises $191 million",
-      "summary": "Chinese satellite manufacturer Hongqing raises $191 million, proving that even in space, cash is king—especially when you're trying to catch up with the competition.",
+      "summary": "Chinese satellite manufacturer Hongqing raises $191 million, proving that even in space, money talks louder than a rocket launch.",
       "date": "2026-07-03",
       "link": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/"
     },
     {
       "sourceId": "spacenews",
       "title": "Perovskite solar panel startup Verde Technologies shifts focus to space",
-      "summary": "Perovskite solar panel startup Verde Technologies shifts focus to space, betting that their thin-film tech can power satellites instead of just rooftops—because who doesn’t want to go interstellar?",
+      "summary": "Perovskite solar panel startup Verde Technologies shifts focus to space, betting that their panels can shine brighter than the competition in orbit.",
       "date": "2026-07-02",
       "link": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/"
     },
     {
       "sourceId": "spacenews",
       "title": "Isar Aerospace to launch German-built Planet imaging satellite",
-      "summary": "Isar Aerospace to launch German-built Planet imaging satellite, marking a small step for the company but a giant leap for Germany's space ambitions.",
+      "summary": "Isar Aerospace to launch German-built Planet imaging satellite, showcasing that Germany is finally ready to take its shot at space fame.",
       "date": "2026-07-02",
       "link": "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/"
     },
     {
-      "sourceId": "spacenews",
-      "title": "Polish space tech company Sybilla Technologies secures funds to enter U.S. market",
-      "summary": "Polish space tech company Sybilla Technologies secures funds to enter U.S. market, suggesting that Poland is ready to trade pierogi for payloads.",
-      "date": "2026-07-02",
-      "link": "https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Making satellite communications more resilient",
-      "summary": "Making satellite communications more resilient is the theme of a new discussion, as industry experts ponder if 'multi-band' is just a fancy way to say 'more complicated'.",
-      "date": "2026-07-02",
-      "link": "https://spacenews.com/making-satellite-communications-more-resilient/"
-    },
-    {
       "sourceId": "tectonic",
       "title": "Anduril and L3Harris team on tactical SDA constellation bid",
-      "summary": "Anduril and L3Harris team on tactical SDA constellation bid, highlighting that in defense, teamwork often means finding someone else to share the blame.",
+      "summary": "Anduril and L3Harris team on tactical SDA constellation bid, reminding us that in defense, collaboration often means sharing the risk of failure.",
       "date": "2026-05-04",
       "link": "https://tectonicdefense.com/anduril-l3harris-sda/"
     },
     {
       "sourceId": "tectonic",
       "title": "FY27 budget markup adds $1.4B to space resilience line",
-      "summary": "FY27 budget markup adds $1.4B to space resilience line, finally recognizing that space isn't just a celestial backdrop for superhero movies.",
+      "summary": "FY27 budget markup adds $1.4B to space resilience line, as lawmakers finally realize that space isn't just a backdrop for sci-fi plots.",
       "date": "2026-05-03",
       "link": "https://tectonicdefense.com/fy27-markup-space/"
     },
     {
       "sourceId": "tectonic",
       "title": "Hypersonic glide-vehicle test slips again — third quarter in a row",
-      "summary": "Hypersonic glide-vehicle test slips again, raising suspicions that 'hypersonic' might just be code for 'we're still figuring this out'.",
+      "summary": "Hypersonic glide-vehicle test slips again, leading to speculation that 'hypersonic' might just be a euphemism for 'still a work in progress'.",
       "date": "2026-05-02",
       "link": "https://tectonicdefense.com/hgv-slip-q3/"
     },
     {
       "sourceId": "tectonic",
       "title": "Sierra Space's Dream Chaser DoD variant clears critical design review",
-      "summary": "Sierra Space's Dream Chaser DoD variant clears critical design review, but the real challenge will be getting it off the ground before the next ice age arrives.",
+      "summary": "Sierra Space's Dream Chaser DoD variant clears critical design review, but the real test will be whether it can launch before the next ice age.",
       "date": "2026-05-01",
       "link": "https://tectonicdefense.com/dream-chaser-cdr/"
     },
     {
       "sourceId": "tectonic",
       "title": "Palantir wins $480M extension on TITAN ground station program",
-      "summary": "Palantir wins $480M extension on TITAN ground station program, reinforcing the notion that in government contracts, being a familiar face can be quite lucrative.",
+      "summary": "Palantir wins $480M extension on TITAN ground station program, highlighting that in government contracts, familiarity breeds financial success.",
       "date": "2026-04-29",
       "link": "https://tectonicdefense.com/palantir-titan-extension/"
     },
     {
       "sourceId": "piratewires",
       "title": "The Defense-Tech IPO Window Is Cracking Open",
-      "summary": "The Defense-Tech IPO Window Is Cracking Open, suggesting that investors might be ready to dive into military tech—just be sure to read the fine print first.",
+      "summary": "The Defense-Tech IPO Window Is Cracking Open, hinting that investors are ready to gamble on military tech, but with a side of caution.",
       "date": "2026-05-04",
       "link": "https://piratewires.com/defense-ipo-window/"
     },
     {
       "sourceId": "piratewires",
       "title": "Why every YC company is suddenly 'AI for Defense'",
-      "summary": "Why every YC company is suddenly 'AI for Defense' shows that sometimes innovation is just a clever rebranding of the same old ideas dressed in new jargon.",
+      "summary": "Why every YC company is suddenly 'AI for Defense' illustrates that sometimes innovation is just old ideas in a new, buzzword-laden package.",
       "date": "2026-05-03",
       "link": "https://piratewires.com/yc-defense/"
     },
@@ -179,177 +179,177 @@
     {
       "sourceId": "ussf",
       "title": "Guardian Resilience Teams promote holistic health, culture of fitness",
-      "summary": "The U.S. Space Force is shifting to a Holistic Health Approach for Guardians, which sounds fancy but is really just a way to make sure they can still run after a long day of space stuff.",
+      "summary": "The U.S. Space Force is adopting a Holistic Health Approach to prioritize the well-being of its Guardians, proving that fitness culture can be as complex as space missions.",
       "date": "2026-07-01",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4531382/guardian-resilience-teams-promote-holistic-health-culture-of-fitness/"
     },
     {
       "sourceId": "ussf",
       "title": "Freedom 250: vigilance beyond the gate",
-      "summary": "Military readiness now includes off-duty activities, as Airmen and Guardians must apply tactical planning to their holiday plans to avoid accidents; because nothing says 'freedom' like a well-executed barbecue.",
+      "summary": "Military readiness now extends to holiday celebrations, as Airmen and Guardians are encouraged to apply tactical planning to their July 4 festivities to avoid off-duty mishaps.",
       "date": "2026-07-01",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4531306/freedom-250-vigilance-beyond-the-gate/"
     },
     {
       "sourceId": "ussf",
       "title": "Space Force integrates with Air Force in AI sprint to ensure mission dominance",
-      "summary": "Guardians teamed up with Airmen in a two-week AI experiment, marking a rare occasion where software developers and military personnel shared the same workspace without a coffee machine in sight.",
+      "summary": "Guardians and Airmen collaborated with software developers in a two-week AI experiment, marking a significant step in human-machine teaming and proving that even in space, teamwork makes the dream work.",
       "date": "2026-06-30",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4530666/space-force-integrates-with-air-force-in-ai-sprint-to-ensure-mission-dominance/"
     },
     {
       "sourceId": "ussf",
       "title": "Guardians complete Officer Training Course, ready to support the joint force",
-      "summary": "Fifty-four Guardian officers graduated from the U.S. Space Force’s Officer Training Course, proving that even in space, you still need a diploma to get ahead.",
+      "summary": "Fifty-four Guardian officers graduated from the U.S. Space Force’s Officer Training Course, ready to support the joint force, because who doesn’t want to wear a uniform and command respect?",
       "date": "2026-06-29",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4532001/guardians-complete-officer-training-course-ready-to-support-the-joint-force/"
     },
     {
       "sourceId": "ussf",
       "title": "Space Cowboys America 250 event at Falcon Stadium",
-      "summary": "The U.S. Space Force and Professional Bull Riders celebrated the PBR Space Cowboys America 250 event, because nothing says 'space' like bull riding in a stadium.",
+      "summary": "The U.S. Space Force and Professional Bull Riders celebrated the PBR Space Cowboys America 250 event, proving that space and rodeo can coexist in a galaxy far, far away.",
       "date": "2026-06-20",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4524458/space-cowboys-america-250-event-at-falcon-stadium/"
     },
     {
       "sourceId": "dod",
       "title": "Build Freedom Initiative Launches With Big Contract to Skilled Trades Champion",
-      "summary": "The Build Freedom Initiative kicked off with a $10 million check to Mike Rowe, proving that even in defense, you can’t escape the allure of a good PR stunt.",
+      "summary": "The Build Freedom Initiative officially launched with a $10 million check presented to Mike Rowe, because nothing says 'freedom' like a TV host with a big check.",
       "date": "2026-07-02",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4532933/build-freedom-initiative-launches-with-big-contract-to-skilled-trades-champion/"
     },
     {
       "sourceId": "dod",
       "title": "Pennsylvania Army National Guard Conducts 'Ghillie Wash' Training Event",
-      "summary": "Pennsylvania National Guard soldiers underwent intense training in ghillie suits, proving that blending in with nature is still a valuable skill, even if it looks ridiculous.",
+      "summary": "Pennsylvania National Guard soldiers participated in a 'ghillie wash' training exercise, proving that blending in with nature can be just as exhausting as it sounds.",
       "date": "2026-07-02",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4532841/pennsylvania-army-national-guard-conducts-ghillie-wash-training-event/"
     },
     {
       "sourceId": "dod",
       "title": "Vietnam Veteran Receives Purple Heart 57 Years Later",
-      "summary": "A Vietnam veteran finally received his Purple Heart 57 years later, reminding us that some honors take longer to arrive than the mail.",
+      "summary": "A Vietnam veteran finally received his Purple Heart 57 years later, reminding us that some honors take longer to arrive than a slow-moving tank.",
       "date": "2026-07-02",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4532583/vietnam-veteran-receives-purple-heart-57-years-later/"
     },
     {
       "sourceId": "dod",
       "title": "Hegseth Thanks National Guard for D.C. Mission Ahead of Nation's 250th",
-      "summary": "Secretary of War Pete Hegseth thanked National Guardsmen for their crime reduction efforts in D.C. ahead of America's 250th birthday, because nothing says 'celebration' like a safer city.",
+      "summary": "Secretary of War Pete Hegseth praised National Guardsmen for reducing crime in D.C. ahead of America's 250th birthday, proving that even the military can throw a good party.",
       "date": "2026-07-02",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4532675/hegseth-thanks-national-guard-for-dc-mission-ahead-of-nations-250th/"
     },
     {
       "sourceId": "dod",
       "title": "U.S. Military Supports Venezuela Earthquake Response",
-      "summary": "U.S. military personnel are providing assistance in Venezuela following two earthquakes, proving that even in disaster, Uncle Sam is always ready to lend a hand.",
+      "summary": "U.S. service members are now on the ground in Venezuela providing earthquake relief, because when disaster strikes, Uncle Sam tends to show up with a toolbox.",
       "date": "2026-07-01",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4531605/us-military-supports-venezuela-earthquake-response/"
     },
     {
       "sourceId": "viasat",
       "title": "Amazon Leo Constellation Ready to Support Initial Service After ULA Mission",
-      "summary": "The Amazon Leo constellation is now ready for initial service after a ULA mission, marking a milestone in the race to beam internet from space while we’re still figuring out how to fix the one on the ground.",
+      "summary": "The Amazon Leo constellation is ready for initial service after a successful ULA mission, proving that even in space, timing is everything.",
       "date": "2026-07-02",
       "link": "https://www.satellitetoday.com/connectivity/2026/07/02/amazon-leo-constellation-ready-to-support-initial-service-after-ula-mission/"
     },
     {
       "sourceId": "viasat",
       "title": "Isar Aerospace Lands Big Win With Planet Launch Contract",
-      "summary": "Isar Aerospace secured a launch contract with Planet for a Pelican satellite, scheduled for late 2026, proving that even in space, timing is everything—unless you're a satellite, then it's just about orbit.",
+      "summary": "Isar Aerospace secured a launch contract with Planet for 2026, proving that even in space, timing is everything—unless you're a satellite, in which case it's just a long wait.",
       "date": "2026-07-02",
       "link": "https://www.satellitetoday.com/launch/2026/07/02/isar-aerospace-lands-big-win-with-planet-launch-contract/"
     },
     {
       "sourceId": "viasat",
       "title": "Mitsubishi Electric to Acquire Infostellar",
-      "summary": "Mitsubishi Electric has acquired Infostellar, a notable player in Japan's space sector, suggesting that even in aerospace, consolidation is the name of the game.",
+      "summary": "Mitsubishi Electric is acquiring Infostellar, signaling that the Japanese space sector is getting serious about its tech acquisitions, or at least trying to keep up with the neighbors.",
       "date": "2026-07-02",
       "link": "https://www.satellitetoday.com/finance/2026/07/02/mitsubishi-electric-to-acquire-infostellar/"
     },
     {
       "sourceId": "viasat",
       "title": "Vodafone Ireland Conducts Emergency Services D2D Call With AST SpaceMobile JV",
-      "summary": "Vodafone Ireland successfully tested emergency services connectivity using AST SpaceMobile's satellite constellation, proving that when it comes to emergencies, even satellites need a backup plan.",
+      "summary": "Vodafone Ireland successfully tested emergency services calls via AST SpaceMobile's satellites, highlighting that even in a crisis, connectivity is only a satellite away.",
       "date": "2026-07-02",
       "link": "https://www.satellitetoday.com/connectivity/2026/07/02/vodafone-ireland-conducts-emergency-services-d2d-call-with-ast-spacemobile-jv/"
     },
     {
       "sourceId": "viasat",
       "title": "The Internet in Space: The Apps that Dominate Satellite Traffic and Why it Matters",
-      "summary": "A new analysis reveals what drives satellite traffic beyond government use, highlighting that in space, as on Earth, the apps that dominate are often the least expected.",
+      "summary": "As satellite networks proliferate, the question of what people actually do online in space becomes more pressing, though it seems 'scrolling' might just be universal.",
       "date": "2026-07-01",
       "link": "https://www.satellitetoday.com/opinion/2026/07/01/the-internet-in-space-the-apps-that-dominate-satellite-traffic-and-why-it-matters/"
     },
     {
       "sourceId": "spacecom",
-      "title": "Space science has come a long way since July 4, 1776. Here's a look back at the saga",
-      "summary": "In celebration of America's 250th birthday, a retrospective on space science shows just how far we've come since 1776—turns out, the universe is a bit more complex than we thought back then.",
-      "date": "2026-07-03",
-      "link": "https://www.space.com/astronomy/space-science-has-come-a-long-way-since-july-4-1776-heres-a-look-back-at-the-saga"
+      "title": "Human flight was still 7 years away in 1776. Now, we're headed back to the moon",
+      "summary": "Reflecting on human flight's historical timeline, we find ourselves on the brink of lunar returns, proving that progress is just a matter of time—or a few billion dollars.",
+      "date": "2026-07-04",
+      "link": "https://www.space.com/astronomy/moon/human-flight-was-still-7-years-away-in-1776-now-were-headed-back-to-the-moon"
     },
     {
       "sourceId": "spacecom",
-      "title": "Infant stars celebrate their independence with cosmic fireworks| Space photo of the day for July 3, 2026",
-      "summary": "The James Webb Space Telescope captured a stunning image of infant stars celebrating their independence with cosmic fireworks, reminding us that even stars know how to throw a party.",
-      "date": "2026-07-03",
-      "link": "https://www.space.com/astronomy/galaxies/infant-stars-celebrate-their-independence-with-cosmic-fireworks-space-photo-of-the-day-for-july-3-2026"
+      "title": "What did the night sky look like on the 1st Independence Day 250 years ago?",
+      "summary": "On the U.S. 250th birthday, a look back at the night sky of 1776 reveals that even then, stargazing was a pastime, albeit without the benefit of modern telescopes.",
+      "date": "2026-07-04",
+      "link": "https://www.space.com/stargazing/what-did-the-night-sky-look-like-on-the-1st-independence-day-250-years-ago"
     },
     {
       "sourceId": "spacecom",
-      "title": "Want to see Uranus? July 4 could be your best chance in decades",
-      "summary": "On July 4, Uranus and Mars will appear close together in the sky, offering a rare chance for stargazers—because nothing says 'Independence Day' like a celestial alignment.",
-      "date": "2026-07-03",
-      "link": "https://www.space.com/stargazing/want-to-see-uranus-july-4-could-be-your-best-chance-in-decades"
+      "title": "30 years on, \"Independence Day\" still proves the versatility of the original \"The War of the Worlds\"",
+      "summary": "\"Independence Day\" celebrates 30 years of cinematic chaos, reminding us that while aliens may not be real, box office hits certainly are.",
+      "date": "2026-07-04",
+      "link": "https://www.space.com/entertainment/space-movies-shows/30-years-on-independence-day-still-proves-the-versatility-of-the-original-the-war-of-the-worlds"
     },
     {
       "sourceId": "spacecom",
-      "title": "America at 500: Where will we be in space in 2276?",
-      "summary": "Speculating on where humanity will be in space by 2276, the conversation reflects on our progress since 1776, suggesting that if we survive, we might just have a better grasp of the cosmos.",
+      "title": "How to find Uranus this week, the hardest planet I've ever tried to see",
+      "summary": "This week, skywatchers can catch a glimpse of Uranus as Mars glides by, proving that even in astronomy, a little help from a neighbor goes a long way.",
       "date": "2026-07-03",
-      "link": "https://www.space.com/space-exploration/america-at-500-where-will-we-be-in-space-in-2276"
+      "link": "https://www.space.com/stargazing/how-to-find-uranus-this-week-the-hardest-planet-ive-ever-tried-to-see"
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites from California (video)",
-      "summary": "A SpaceX Falcon 9 rocket launched 24 Starlink satellites from California, proving once again that SpaceX is the reliable workhorse of the satellite launch industry.",
-      "date": "2026-07-02",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-46-b1100-vsfb-ocisly"
+      "title": "As 'Terminator 2: Judgment Day' turns 35, it's time to accept the truth: Terminator shouldn't be back",
+      "summary": "As 'Terminator 2' turns 35, the franchise's future looks bleak, suggesting that sometimes, it's best to let sleeping robots lie.",
+      "date": "2026-07-03",
+      "link": "https://www.space.com/entertainment/space-movies-shows/as-terminator-2-judgment-day-turns-35-its-time-to-accept-the-truth-terminator-shouldnt-be-back"
     },
     {
       "sourceId": "rspace",
-      "title": "Radiation exposure may become the biggest challenge for future Moon and Mars missions",
-      "summary": "Radiation exposure is emerging as a significant concern for future Moon and Mars missions, highlighting that while we dream of stars, the dangers lurking in space are very real.",
-      "date": "2026-07-03",
-      "link": "https://www.reddit.com/r/space/comments/1umfd43/radiation_exposure_may_become_the_biggest/"
+      "title": "A martian rock has lots of carbon on it, and it’s not clear why",
+      "summary": "A Martian rock rich in carbon raises eyebrows and questions, reminding us that Mars still has a few surprises up its dusty sleeves.",
+      "date": "2026-07-04",
+      "link": "https://www.reddit.com/r/space/comments/1unarr2/a_martian_rock_has_lots_of_carbon_on_it_and_its/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Voyager Golden Record: Humanity’s Message in a Bottle to the Stars. (Image and What’s On It)",
-      "summary": "The Voyager Golden Record serves as humanity's message in a bottle to the stars, encapsulating our hopes and dreams in a cosmic time capsule that may never be opened.",
-      "date": "2026-07-03",
-      "link": "https://www.reddit.com/r/space/comments/1umf7bd/the_voyager_golden_record_humanitys_message_in_a/"
+      "title": "Access to Space is Threatened by Cascading Collisions of Low-Earth-Orbit Satellites:Kessler Syndrome",
+      "summary": "Cascading collisions in low-Earth orbit threaten access to space, illustrating that even the final frontier has its traffic jams.",
+      "date": "2026-07-04",
+      "link": "https://www.reddit.com/r/space/comments/1un9dzx/access_to_space_is_threatened_by_cascading/"
     },
     {
       "sourceId": "rspace",
-      "title": "Atlas V Amazon LEO 8 - USA 250",
-      "summary": "The last Atlas V rocket with the 551 configuration has launched, marking the end of an era for a vehicle that has been a reliable performer—much like a favorite old pair of shoes.",
-      "date": "2026-07-03",
-      "link": "https://www.reddit.com/r/space/comments/1umcu5e/atlas_v_amazon_leo_8_usa_250/"
+      "title": "I built a Voyager 1 & 2 tracker",
+      "summary": "A DIY Voyager tracker is in the works, proving that sometimes, the best way to connect with the cosmos is to build your own bridge—one API at a time.",
+      "date": "2026-07-04",
+      "link": "https://www.reddit.com/r/space/comments/1un8mqh/i_built_a_voyager_1_2_tracker/"
     },
     {
       "sourceId": "rspace",
-      "title": "Astrophysicists Puzzle Over Webb’s New Universe",
-      "summary": "Astrophysicists are scratching their heads over new findings from the James Webb Space Telescope, proving that even the universe can be a bit of a mystery novel. Who knew space could be so dramatic?",
-      "date": "2026-07-03",
-      "link": "https://www.reddit.com/r/space/comments/1umcm66/astrophysicists_puzzle_over_webbs_new_universe/"
+      "title": "My shot of this week’s Strawberry Mineral Moon.",
+      "summary": "A Reddit user shared a photo of this week's Strawberry Mineral Moon, proving that even celestial bodies can have a marketing strategy. Who knew the moon was so photogenic?",
+      "date": "2026-07-04",
+      "link": "https://www.reddit.com/r/space/comments/1un65dk/my_shot_of_this_weeks_strawberry_mineral_moon/"
     },
     {
       "sourceId": "rspace",
-      "title": "Rescue mission launches to save NASA telescope that's falling back to Earth",
-      "summary": "A rescue mission has been launched to save a NASA telescope that's on a collision course with Earth, because apparently even telescopes need saving from their own demise. Talk about a cosmic irony.",
-      "date": "2026-07-03",
-      "link": "https://www.reddit.com/r/space/comments/1umazt9/rescue_mission_launches_to_save_nasa_telescope/"
+      "title": "Tonight's Image Of The Cocoon Nebula.",
+      "summary": "Another Reddit user posted an image of the Cocoon Nebula, reminding us that the universe is full of stunning visuals, even if our own lives are less picturesque. Space: 1, Earth: 0.",
+      "date": "2026-07-04",
+      "link": "https://www.reddit.com/r/space/comments/1un36br/tonights_image_of_the_cocoon_nebula/"
     },
     {
       "sourceId": "nga",
@@ -388,73 +388,73 @@
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "The chip industry has a warning for Trump: hands off the memory market",
-      "summary": "The chip industry has warned Trump to stay out of the memory market, or face a worsening shortage, making it clear that even silicon has its political dramas. Who knew chips could be so contentious?",
-      "date": "2026-07-03",
-      "link": "https://thenextweb.com/news/chip-industry-warns-us-memory-market-intervention"
+      "title": "Germany’s most conservative banks are about to let millions of customers buy Bitcoin",
+      "summary": "Germany’s cooperative and savings banks are rolling out cryptocurrency trading services, proving that even the most conservative institutions can get swept up in the crypto craze. Bitcoin: now available with your mortgage.",
+      "date": "2026-07-04",
+      "link": "https://thenextweb.com/news/germany-cooperative-savings-banks-crypto-trading"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Europe is coming for loot boxes, and the games industry is bracing",
-      "summary": "The video game industry is bracing for European regulations targeting loot boxes, which could cost billions and limit what kids can play, proving that even digital treasures can attract real-world scrutiny.",
-      "date": "2026-07-03",
-      "link": "https://thenextweb.com/news/europe-video-game-loot-box-age-restrictions"
+      "title": "Macron and Modi are winning the AI infrastructure race with text messages and personal meetings",
+      "summary": "Macron and Modi are winning the AI infrastructure race through personal meetings, turning diplomacy into a high-stakes networking event. Forget tech; it’s all about who you know.",
+      "date": "2026-07-04",
+      "link": "https://thenextweb.com/news/macron-modi-ai-infrastructure-personal-diplomacy"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Investors sue Oracle, say it hid how shaky the OpenAI deal was",
-      "summary": "Oracle is facing a lawsuit from investors who claim it misrepresented the risks of its $300bn deal with OpenAI, highlighting that in the AI boom, even the giants can stumble. Welcome to the courtroom drama.",
-      "date": "2026-07-03",
-      "link": "https://thenextweb.com/news/oracle-investor-lawsuit-openai-deal"
+      "title": "India summons Meta over Instagram ads promoting child sexual abuse material",
+      "summary": "India’s Ministry of Electronics will summon Meta over Instagram ads promoting child sexual abuse material, highlighting that even tech giants can't escape accountability. Social media: still a wild west.",
+      "date": "2026-07-04",
+      "link": "https://thenextweb.com/news/india-summons-meta-instagram-csam-ads"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Weave’s $7,999 Isaac 1 bets home robots don’t need legs or fingers",
-      "summary": "Weave Robotics has introduced the Isaac 1, a home robot that skips legs and fingers to focus on laundry, proving that sometimes less is more—especially when it comes to robotic aspirations.",
-      "date": "2026-07-03",
-      "link": "https://thenextweb.com/news/weave-robotics-isaac-1-home-robot"
+      "title": "OpenAI apparently never visited the site of its flagship UK AI project",
+      "summary": "OpenAI apparently never visited the site of its flagship UK AI project before the initiative was announced, proving that sometimes, it's best to do a little homework before the big reveal. Oops.",
+      "date": "2026-07-04",
+      "link": "https://thenextweb.com/news/openai-apparently-never-visited-the-site-of-its-flagship-uk-ai-project"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "SAP freezes hiring and travel to shovel cash into AI",
-      "summary": "SAP is freezing hiring and travel to funnel cash into AI, showing that even software giants are tightening their belts in the face of a tech gold rush. Who knew AI could be such a budget buster?",
-      "date": "2026-07-03",
-      "link": "https://thenextweb.com/news/sap-hiring-travel-freeze-ai-push"
+      "title": "Micron breaks ground on $9bn Hiroshima expansion to chase AI memory demand",
+      "summary": "Micron Technology broke ground on a $9bn expansion in Hiroshima to meet AI memory demand, which is great news for their investors but possibly bad news for anyone hoping to find affordable chips. AI memory: the new gold rush.",
+      "date": "2026-07-04",
+      "link": "https://thenextweb.com/news/micron-breaks-ground-9-billion-hiroshima-expansion"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
+      "summary": "NASA’s Hubble captured an image of stars resembling a July 4th sparkler, proving that even in space, holiday spirit is alive and well.",
+      "date": "2026-07-04",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
-      "summary": "NASA's Hubble Telescope has snapped a photo of a crimson cloud filled with blue and white stars, proving that even space has a flair for dramatic color palettes.",
+      "summary": "Hubble's latest image showcases blue and white stars against a crimson backdrop, reminding us that even cosmic clouds have a flair for color coordination.",
       "date": "2026-07-03",
       "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA’s Hubble Spots Star-Spangled Cosmic Scene",
-      "summary": "In a new image from Hubble, over 500,000 stars in Messier 3 twinkle in red, white, and blue, reminding us that the cosmos has its own version of Independence Day.",
+      "summary": "In a dazzling display, Hubble reveals over 500,000 stars in red, white, and blue, making it the ultimate cosmic tribute to patriotism.",
       "date": "2026-07-03",
       "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/"
     },
     {
       "sourceId": "nasa",
       "title": "NASA’s Artemis II Breaks Agency Streaming Record",
-      "summary": "NASA's Artemis II mission livestream garnered over 149.4 million views, suggesting that space exploration is the new reality TV—minus the drama of a rose ceremony.",
+      "summary": "NASA’s Artemis II mission livestream broke viewership records, showing that space exploration can outshine even the most popular cat videos.",
       "date": "2026-07-02",
       "link": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/"
     },
     {
       "sourceId": "nasa",
       "title": "Good Morning, Earth!",
-      "summary": "Astronaut Chris Williams captured a stunning orbital sunrise from the ISS, which is a reminder that Earth has 16 sunrises a day, yet we still complain about Monday mornings.",
+      "summary": "An astronaut's photo of an orbital sunrise from the ISS highlights that while Earth sleeps, the universe continues to throw a daily light show.",
       "date": "2026-07-02",
       "link": "https://www.nasa.gov/image-article/good-morning-earth/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration",
-      "summary": "The James Webb Space Telescope has revealed new star formations in the FS Tau system, proving that even in the universe's dusty corners, life finds a way to shine.",
-      "date": "2026-07-02",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/"
     }
   ]
 }

@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, funding continues to flow into the space sector, with notable investments highlighting the increasing interest in satellite technology and resilience. Meanwhile, military applications of space tech are gaining traction, as evidenced by new contracts and collaborations.",
+  "summary": "The space industry is navigating a mix of funding boosts and operational hurdles this week. While satellite resilience is getting a budgetary lift, launch risks and technological delays continue to cast a shadow over ambitious plans.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Floodgates Open",
-      "body": "Chinese satellite manufacturer Hongqing's $191 million raise and True Anomaly's $190 million Series C reflect a robust appetite for investment in space technologies. This trend indicates a growing recognition of the strategic importance of space capabilities."
+      "title": "Funding for Space Resilience",
+      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, signaling a strong commitment to bolstering satellite capabilities. This comes at a time when the Space Force is grappling with rising costs and launch risks, highlighting the need for robust funding."
     },
     {
       "icon": "◉",
-      "title": "Resilience in Satellite Communications",
-      "body": "The Defense budget markup adding $1.4 billion to space resilience underscores the U.S. commitment to fortifying its satellite infrastructure. As geopolitical tensions rise, enhancing communication reliability is becoming a top priority."
+      "title": "Launch Delays and Risks",
+      "body": "The hypersonic glide-vehicle test has slipped for the third consecutive quarter, raising questions about the reliability of cutting-edge defense technologies. Meanwhile, the GAO's flagging of satellite costs in the Space Force portfolio underscores the ongoing challenges in managing launch risks."
     },
     {
       "icon": "▲",
-      "title": "Military Space Collaborations Grow",
-      "body": "Anduril and L3Harris teaming up for a tactical SDA constellation bid signals a shift towards integrated military space operations. Such partnerships may redefine how defense contractors approach satellite deployment and operational synergy."
+      "title": "Emerging Players in Space",
+      "body": "Chinese satellite manufacturer Hongqing's recent $191 million raise reflects the growing competition in the satellite manufacturing sector. Additionally, startups like Verde Technologies are pivoting towards space, indicating a shift in focus among new entrants."
     },
     {
       "icon": "◆",
-      "title": "Emerging Players in Space Tech",
-      "body": "Polish company Sybilla Technologies' funding for entry into the U.S. market and Verde Technologies' pivot to space highlight the influx of new entrants into the sector. This diversification could lead to increased competition and innovation in satellite applications."
+      "title": "Strategic Partnerships and Contracts",
+      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, showcasing a trend of collaboration in the defense tech space. Meanwhile, Palantir's $480 million extension on the TITAN ground station program highlights the increasing importance of data management in military operations."
     }
   ],
-  "updated": "2026-07-03 15:50 UTC"
+  "updated": "2026-07-04 14:41 UTC"
 }

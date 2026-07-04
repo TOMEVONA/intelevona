@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-03",
-  "issue": "No. 73",
-  "headline": "Cash flows. Satellites launch. Defense budgets grow.",
-  "deck": "This week highlights significant funding and strategic moves in the space sector.",
+  "updated": "2026-07-04",
+  "issue": "No. 74",
+  "headline": "Funding flows. Risks loom. Satellites rise.",
+  "deck": "This week highlights the financial maneuvers and looming challenges in the aerospace sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured a $190 million Series C funding, valuing the company at $1.6 billion. The investment underscores the growing demand for co-orbital security and space domain awareness, particularly as the U.S. Department of Defense ramps up its focus on these capabilities. This funding round is a clear sign that investors are betting heavily on the future of space security.",
-      "soWhat": "In a sector where cash is king, True Anomaly's success reflects a broader trend: defense is where the money is flowing, but can they deliver on the promise?"
+      "body": "True Anomaly secured a $190 million Series C round, valuing the company at $1.6 billion. This funding will enhance their co-orbital security capabilities, a hot topic given rising geopolitical tensions in space. The Department of Defense's increasing interest in space domain awareness is driving this investment.",
+      "soWhat": "In an era where cash is king, True Anomaly's success underscores the DoD's shift toward prioritizing space security over traditional defense."
     },
     {
-      "kicker": "TECH",
-      "head": "Verde Technologies pivots to space with perovskite panels",
-      "body": "Verde Technologies is shifting its focus to the space sector, aiming to leverage its perovskite solar panel technology for satellite applications. The move comes as the company looks to capitalize on the growing demand for efficient energy solutions in orbit. This pivot raises questions about whether their technology can perform under the unique conditions of space, which is a bit different from your average rooftop.",
-      "soWhat": "If Verde can make this work, it could set a new standard for satellite power solutions—if not, they might just find themselves back on the roof."
+      "kicker": "BUDGET",
+      "head": "GAO flags Space Force's budget mismanagement",
+      "body": "The Government Accountability Office (GAO) reported significant cost overruns and launch risks in the Space Force's satellite portfolio, suggesting that budget gymnastics may be overshadowing actual security needs. With $1.4 billion added to the FY27 budget for space resilience, lawmakers are finally acknowledging the financial strain.",
+      "soWhat": "If the Space Force can't get its budget house in order, we might find ourselves with a robust portfolio of shiny satellites that don’t actually work."
     },
     {
-      "kicker": "PROCUREMENT",
-      "head": "Palantir extends TITAN contract by $480M",
-      "body": "Palantir Technologies has secured a $480 million extension on its TITAN ground station program, reinforcing its stronghold in government contracts. This extension highlights the importance of familiarity in defense procurement, as agencies often prefer known quantities over new entrants. The deal further cements Palantir's role in the evolving landscape of military tech.",
-      "soWhat": "In government contracting, being a familiar face can be a golden ticket—Palantir just proved it again."
+      "kicker": "LAUNCH",
+      "head": "Pegasus launches Swift, but is it the end?",
+      "body": "Pegasus successfully launched the Swift reboost mission, but this might also signal the twilight of a rocket that never quite captured the limelight. After years of underperformance, Pegasus's future is uncertain as the industry shifts towards more reliable launch options.",
+      "soWhat": "In a world where every rocket needs to justify its existence, the Pegasus might just be the first casualty of the new launch economy."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Verde's execution",
-      "body": "As Verde Technologies transitions to space, their ability to deliver will be crucial; failure could set back interest in perovskite tech."
+      "title": "Keep an eye on Hongqing's $191M funding",
+      "body": "With this significant investment, Hongqing is poised to challenge established satellite manufacturers, potentially shaking up the market."
     },
     {
-      "title": "True Anomaly's next moves",
-      "body": "With fresh funding, True Anomaly's strategic decisions will be closely watched—can they capitalize on the momentum?"
+      "title": "Sierra Space's Dream Chaser moves forward",
+      "body": "Clearing the critical design review is a milestone, but can they actually launch before the next ice age? The clock is ticking."
     },
     {
-      "title": "Sybilla Technologies' U.S. entry",
-      "body": "Poland’s Sybilla Technologies entering the U.S. market could shake up the competitive landscape; how will they differentiate?"
+      "title": "Anduril and L3Harris bid for SDA",
+      "body": "Their collaboration could set a precedent for future defense contracts, but it also raises questions about who really benefits from shared risk."
     },
     {
-      "title": "Potential IPOs in defense-tech",
-      "body": "With the defense-tech IPO window opening, expect increased activity; investors will be scrutinizing everything closely."
+      "title": "Watch for GPS jamming developments",
+      "body": "The return of GPS jamming to pre-2024 levels suggests a growing need for robust countermeasures in military operations."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480M contract extension shows that familiarity can be lucrative in defense."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480M extension on the TITAN program shows that familiarity pays off in government contracts."
     },
     {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M funding signals strong investor confidence in co-orbital security."
+      "sym": "ASTRANIS",
+      "note": "Astranis secured $250M, indicating strong demand for microGEO production despite market uncertainties."
     },
     {
-      "sym": "VDE",
-      "note": "Verde's pivot to space will be a litmus test for perovskite tech in orbit."
+      "sym": "STOKE",
+      "note": "Stoke's $260M Series C signals a serious commitment to reusable launch systems, but can they deliver?"
     },
     {
-      "sym": "ISAR",
-      "note": "Isar Aerospace's upcoming satellite launch is a small but notable step for Germany's space ambitions."
+      "sym": "TRUEANOMALY",
+      "note": "True Anomaly's funding success reflects a broader trend favoring co-orbital security in defense budgets."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
