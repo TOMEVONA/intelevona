@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-04",
-  "issue": "No. 74",
+  "updated": "2026-07-05",
+  "issue": "No. 75",
   "headline": "Funding flows. Risks rise. Satellites launch.",
-  "deck": "This week saw a mix of funding successes and cautionary tales in satellite operations.",
+  "deck": "A mix of funding successes and risk warnings dominate this week's space news.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amidst defense push",
-      "body": "True Anomaly secured a $190 million Series C funding round, emphasizing its role in co-orbital security and space domain awareness. The company’s valuation now stands at $1.6 billion, signaling strong investor confidence in defense applications. This funding is particularly timely, as the DoD increasingly prioritizes advanced space capabilities.",
-      "soWhat": "Investors are clearly betting that space security is the next frontier, but let's see if True Anomaly can deliver on its promises without getting lost in the bureaucracy."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured a $190 million Series C funding round, emphasizing its role in co-orbital security and space domain awareness. The round reflects growing demand from the Department of Defense for advanced surveillance capabilities. With a valuation of $1.6 billion, True Anomaly is positioning itself as a key player in the defense sector.",
+      "soWhat": "The cash influx indicates that DoD pull-through is not just a buzzword; it's becoming a reality for companies that can deliver."
     },
     {
-      "kicker": "RISKS",
-      "head": "GAO flags satellite costs for Space Force",
-      "body": "The Government Accountability Office (GAO) has raised concerns about the escalating costs and launch risks within the Space Force's satellite portfolio. This scrutiny comes as the FY27 budget markup adds $1.4 billion to the space resilience line, indicating that lawmakers are finally waking up to the complexities of space operations.",
-      "soWhat": "If the GAO is worried, contractors should be too; it’s hard to justify spending when costs are ballooning and timelines are slipping."
+      "kicker": "LAUNCH",
+      "head": "Pegasus launches Swift mission, but for how long?",
+      "body": "Pegasus successfully launched the Swift reboost mission, likely marking the end of the line for a rocket that has seen better days. The vehicle, once a staple of the small launch market, now faces increasing competition from more modern alternatives. With Pegasus's future in question, the industry is left wondering how long it can hold onto its legacy.",
+      "soWhat": "If Pegasus can't adapt, it might just become a footnote in the history of small launch vehicles."
     },
     {
-      "kicker": "LAUNCHES",
-      "head": "Pegasus rocket’s retirement party launches Swift mission",
-      "body": "The Pegasus rocket successfully launched the Swift reboost mission, potentially marking the end of its operational life. This mission is crucial for maintaining the Swift spacecraft's position, but it also underscores the aging fleet of air-launched rockets. The Pegasus program has faced numerous challenges, and this launch might just be the final bow.",
-      "soWhat": "The end of Pegasus could signal a shift in how we think about air-launched rockets; sometimes, it's just time to let go."
+      "kicker": "BUDGET",
+      "head": "GAO flags Space Force's satellite cost concerns",
+      "body": "The Government Accountability Office (GAO) raised alarms about rising satellite costs and launch risks within the Space Force portfolio. This comes amid a $1.4 billion increase in the FY27 budget for space resilience, suggesting that lawmakers are finally taking note of the complexities involved. Managing these costs may soon require a degree in budgetary gymnastics.",
+      "soWhat": "If the GAO is worried, it might be time for the Space Force to start practicing its budgetary somersaults."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on True Anomaly's next moves",
-      "body": "With $190 million in new funding, True Anomaly's next steps could redefine co-orbital security strategies."
+      "title": "Watch for True Anomaly's next moves",
+      "body": "With fresh funding, True Anomaly could expand its offerings or pursue strategic partnerships in the defense sector."
     },
     {
-      "title": "Space Force budget discussions heat up",
-      "body": "As the FY27 budget discussions progress, expect more debate on satellite costs and operational efficiencies."
+      "title": "Isar Aerospace's upcoming satellite launch",
+      "body": "The launch of the German-built Planet imaging satellite will test Isar’s capabilities and market positioning in a competitive landscape."
     },
     {
-      "title": "Sierra Space prepares for Dream Chaser launch",
-      "body": "With the Dream Chaser DoD variant clearing its design review, a launch could be imminent, assuming they can avoid further delays."
+      "title": "Sierra Space's Dream Chaser timeline",
+      "body": "After clearing a critical design review, the focus now shifts to whether Sierra can launch before the next ice age."
     },
     {
-      "title": "Watch for Isar Aerospace's upcoming launch",
-      "body": "Isar Aerospace is set to launch a German-built Planet imaging satellite, which could be a pivotal moment for European space capabilities."
+      "title": "Palantir's TITAN program extension",
+      "body": "The $480 million extension could signal further government reliance on established players in the defense tech space."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it prepares for its next commercial flight."
+      "note": "Virgin Galactic's stock remains stagnant as it struggles to find its footing post-IPO."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480 million contract extension highlights its stronghold in government contracts."
+      "note": "Palantir's recent contract extension suggests it's still the go-to for government data needs."
     },
     {
-      "sym": "AERO",
-      "note": "Aerojet Rocketdyne's stock is under pressure as it faces scrutiny over its defense contracts."
+      "sym": "ISAR",
+      "note": "Isar Aerospace's upcoming launch could be a litmus test for its future in the small satellite market."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's recent bull case shows potential, but execution risks loom large."
+      "note": "AST SpaceMobile's stock is riding high on the potential of its satellite communications model."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

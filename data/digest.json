@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is grappling with cost concerns and launch risks, particularly highlighted by the GAO's recent report on the Space Force portfolio. Meanwhile, funding continues to flow into various sectors, with notable investments in satellite technology and emerging startups.",
+  "summary": "The space industry is grappling with rising costs and launch risks while new funding rounds and partnerships continue to reshape the landscape. Notably, the Space Force is under scrutiny for its satellite expenses, and several companies are positioning themselves for upcoming contracts.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Cost Concerns for Space Force",
-      "body": "The GAO has flagged rising satellite costs and launch risks in the Space Force's portfolio, raising eyebrows about budget management. As the military pushes for resilience, the financial implications could ripple across contractors."
+      "title": "Cost Concerns in Space Force",
+      "body": "The GAO has flagged significant cost overruns and launch risks in the Space Force's satellite portfolio, raising questions about budget management. With a proposed $1.4 billion increase to the space resilience line in the FY27 budget, the pressure to deliver value is mounting."
     },
     {
       "icon": "◉",
-      "title": "Funding Boosts for Startups",
-      "body": "Recent funding rounds, including True Anomaly's $190M Series C and Hongqing's $191M raise, signal a robust interest in space technology. Investors seem undeterred by the challenges of the sector, betting on its long-term potential."
+      "title": "Funding Rounds Heat Up",
+      "body": "Chinese satellite manufacturer Hongqing's recent $191 million raise underscores the competitive capital landscape in space tech. Meanwhile, True Anomaly's $190 million Series C funding round highlights investor appetite for innovative space solutions."
     },
     {
       "icon": "▲",
-      "title": "Launch Activity Picks Up",
-      "body": "Isar Aerospace's recent contract for a Planet imaging satellite and Pegasus's Swift reboost mission highlight a busy launch calendar. This uptick suggests that despite risks, demand for satellite deployment remains strong."
+      "title": "Launch Contracts and Partnerships",
+      "body": "Isar Aerospace's contract with Planet for satellite launches signals a growing trend of European companies entering the commercial space race. Additionally, Anduril and L3Harris are teaming up for a tactical SDA constellation bid, indicating a shift towards collaborative defense initiatives."
     },
     {
       "icon": "◆",
-      "title": "Defense Tech IPOs on the Horizon",
-      "body": "The defense-tech sector is eyeing a potential IPO window, with companies like Palantir and others extending contracts to bolster their positions. As the market shifts, expect more startups to position themselves for public offerings."
+      "title": "Emerging Technologies in Space",
+      "body": "Verde Technologies' pivot to perovskite solar panels for space applications reflects a broader interest in sustainable technologies. As the industry evolves, the integration of AI and advanced materials will likely play a critical role in future missions."
     }
   ],
-  "updated": "2026-07-04 15:01 UTC"
+  "updated": "2026-07-05 14:48 UTC"
 }
