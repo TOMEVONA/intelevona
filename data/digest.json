@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is grappling with rising costs and launch risks while new funding rounds and partnerships continue to reshape the landscape. Notably, the Space Force is under scrutiny for its satellite expenses, and several companies are positioning themselves for upcoming contracts.",
+  "summary": "The space industry is buzzing with mixed fortunes this week, from funding rounds to critical design reviews. Meanwhile, the Space Force grapples with cost concerns and launch risks, while international players continue to assert their presence.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Cost Concerns in Space Force",
-      "body": "The GAO has flagged significant cost overruns and launch risks in the Space Force's satellite portfolio, raising questions about budget management. With a proposed $1.4 billion increase to the space resilience line in the FY27 budget, the pressure to deliver value is mounting."
+      "title": "Funding Flows and Risks",
+      "body": "Chinese satellite manufacturer Hongqing's $191 million raise highlights the ongoing investment interest in space, even as the GAO flags cost concerns in the Space Force's portfolio. This juxtaposition underscores the precarious balance between innovation and fiscal responsibility."
     },
     {
       "icon": "◉",
-      "title": "Funding Rounds Heat Up",
-      "body": "Chinese satellite manufacturer Hongqing's recent $191 million raise underscores the competitive capital landscape in space tech. Meanwhile, True Anomaly's $190 million Series C funding round highlights investor appetite for innovative space solutions."
+      "title": "Launch Activity Picks Up",
+      "body": "Pegasus's Swift reboost mission and Isar Aerospace's contract for a Planet imaging satellite signal a steady pulse in launch activity. However, the persistent delays in hypersonic glide-vehicle tests remind us that not all launches are created equal."
     },
     {
       "icon": "▲",
-      "title": "Launch Contracts and Partnerships",
-      "body": "Isar Aerospace's contract with Planet for satellite launches signals a growing trend of European companies entering the commercial space race. Additionally, Anduril and L3Harris are teaming up for a tactical SDA constellation bid, indicating a shift towards collaborative defense initiatives."
+      "title": "Defense Tech's New Frontiers",
+      "body": "Palantir's $480 million extension on the TITAN program and Anduril's collaboration with L3Harris on a tactical SDA constellation bid reflect a growing trend of defense tech integration in space. As the lines blur, expect more 'AI for Defense' startups to emerge from the woodwork."
     },
     {
       "icon": "◆",
-      "title": "Emerging Technologies in Space",
-      "body": "Verde Technologies' pivot to perovskite solar panels for space applications reflects a broader interest in sustainable technologies. As the industry evolves, the integration of AI and advanced materials will likely play a critical role in future missions."
+      "title": "International Dynamics Emerge",
+      "body": "Russia's co-orbital activities near commercial GEO slots and GPS jamming returning to pre-2024 levels signal rising tensions in space. Meanwhile, allied workshops, like the one in The Hague, aim to bolster resilience against these emerging threats."
     }
   ],
-  "updated": "2026-07-05 14:48 UTC"
+  "updated": "2026-07-05 15:09 UTC"
 }
