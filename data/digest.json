@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with new partnerships and funding, while some projects continue to lag behind schedule. As the U.S. ramps up its space resilience efforts, the dual-use debate adds a layer of complexity to defense strategies.",
+  "summary": "This week, the space industry is buzzing with new partnerships and budget allocations, while some projects are still struggling to meet deadlines. As the landscape evolves, both commercial and defense sectors are adjusting to emerging technologies and geopolitical pressures.",
   "themes": [
     {
       "icon": "▣",
       "title": "European Firms Join NASA Program",
-      "body": "NASA's inclusion of three European companies in its commercial data program signals a growing reliance on international partnerships for data acquisition. This move may bolster the agency's capabilities while also raising questions about data sovereignty."
+      "body": "NASA's inclusion of three European companies in its commercial data program signals a growing trend of transatlantic collaboration in space. This move could enhance data-sharing capabilities and stimulate innovation across the Atlantic."
     },
     {
       "icon": "▲",
-      "title": "Defense Budget Increases",
-      "body": "The FY27 budget markup's $1.4 billion boost for space resilience indicates a strong commitment to enhancing U.S. capabilities in the face of evolving threats. This funding could lead to a flurry of contracts and initiatives aimed at fortifying national security."
-    },
-    {
-      "icon": "◆",
-      "title": "Hypersonic Testing Delays",
-      "body": "The continued delays in hypersonic glide-vehicle testing reflect the challenges of developing cutting-edge defense technologies. As competitors advance, these setbacks could impact the U.S.'s strategic edge in this critical area."
+      "title": "Defense Budget Boosts Space Resilience",
+      "body": "The proposed $1.4 billion increase in the FY27 budget for space resilience reflects a heightened focus on safeguarding U.S. interests in orbit. As threats evolve, this funding could bolster capabilities against emerging challenges."
     },
     {
       "icon": "◉",
-      "title": "Space Domain Awareness Gains Traction",
-      "body": "With Slingshot's data now accessible on the .mil cloud, the military's ability to monitor space activities is set to improve significantly. This development underscores the increasing importance of space domain awareness in national defense strategies."
+      "title": "Hypersonic Tests Continue to Lag",
+      "body": "The repeated delays of hypersonic glide-vehicle tests raise questions about the pace of U.S. advancements in this critical area. With three consecutive slips, stakeholders may need to reassess timelines and expectations."
+    },
+    {
+      "icon": "◆",
+      "title": "New Collaborations in Space Tech",
+      "body": "Anduril and L3Harris's joint bid for a tactical SDA constellation highlights the increasing importance of collaboration in defense tech. Meanwhile, the agreement between Novaspace and others to create a global space capability dashboard suggests a push for comprehensive situational awareness."
     }
   ],
-  "updated": "2026-07-06 16:25 UTC"
+  "updated": "2026-07-06 16:49 UTC"
 }
