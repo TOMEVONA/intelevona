@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-05",
-  "issue": "No. 75",
-  "headline": "Funding flows. Risks rise. Satellites launch.",
-  "deck": "A mix of funding successes and risk warnings dominate this week's space news.",
+  "updated": "2026-07-06",
+  "issue": "No. 76",
+  "headline": "NASA diversifies. True Anomaly cashes in. Hypersonics still stalled.",
+  "deck": "This week highlights shifts in procurement and funding in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
+      "kicker": "PROCUREMENT",
+      "head": "NASA embraces European firms for data acquisition",
+      "body": "NASA has added three European companies to its Commercial Satellite Data Acquisition program, signaling a shift towards a more global approach in space data. This move comes as the agency seeks to diversify its sources, even if American firms still dominate the market. The inclusion of these firms underscores the growing recognition that space data is a multinational affair.",
+      "soWhat": "If you're a U.S. company in the space data game, it might be time to polish your international partnerships."
+    },
+    {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured a $190 million Series C funding round, emphasizing its role in co-orbital security and space domain awareness. The round reflects growing demand from the Department of Defense for advanced surveillance capabilities. With a valuation of $1.6 billion, True Anomaly is positioning itself as a key player in the defense sector.",
-      "soWhat": "The cash influx indicates that DoD pull-through is not just a buzzword; it's becoming a reality for companies that can deliver."
+      "head": "True Anomaly secures $190M Series C funding",
+      "body": "True Anomaly has raised $190 million in its Series C funding round, bringing its valuation to $1.6 billion. This funding is aimed at enhancing its co-orbital security and space domain awareness capabilities, a timely focus as the U.S. Department of Defense continues to prioritize these areas. The infusion of cash suggests that investors are betting heavily on the need for advanced security in an increasingly crowded orbital environment.",
+      "soWhat": "In an era where cash is king, True Anomaly's success may just set the tone for future space security startups."
     },
     {
-      "kicker": "LAUNCH",
-      "head": "Pegasus launches Swift mission, but for how long?",
-      "body": "Pegasus successfully launched the Swift reboost mission, likely marking the end of the line for a rocket that has seen better days. The vehicle, once a staple of the small launch market, now faces increasing competition from more modern alternatives. With Pegasus's future in question, the industry is left wondering how long it can hold onto its legacy.",
-      "soWhat": "If Pegasus can't adapt, it might just become a footnote in the history of small launch vehicles."
-    },
-    {
-      "kicker": "BUDGET",
-      "head": "GAO flags Space Force's satellite cost concerns",
-      "body": "The Government Accountability Office (GAO) raised alarms about rising satellite costs and launch risks within the Space Force portfolio. This comes amid a $1.4 billion increase in the FY27 budget for space resilience, suggesting that lawmakers are finally taking note of the complexities involved. Managing these costs may soon require a degree in budgetary gymnastics.",
-      "soWhat": "If the GAO is worried, it might be time for the Space Force to start practicing its budgetary somersaults."
+      "kicker": "DEFENSE",
+      "head": "Hypersonic glide vehicle tests continue to falter",
+      "body": "For the third consecutive quarter, hypersonic glide vehicle tests have slipped, raising concerns about the reliability of this technology. As defense contractors scramble to meet aggressive timelines, the repeated delays could indicate deeper issues in development and execution. This ongoing struggle to deliver on hypersonics might lead to a reassessment of priorities within military tech budgets.",
+      "soWhat": "If hypersonics are the future of warfare, we might need to recalibrate our timelines—again."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for True Anomaly's next moves",
-      "body": "With fresh funding, True Anomaly could expand its offerings or pursue strategic partnerships in the defense sector."
+      "title": "Keep an eye on SpaceX's valuation",
+      "body": "With SpaceX's valuation reportedly hitting $470 billion, investors will be watching closely for any signs of movement in the secondary market."
     },
     {
-      "title": "Isar Aerospace's upcoming satellite launch",
-      "body": "The launch of the German-built Planet imaging satellite will test Isar’s capabilities and market positioning in a competitive landscape."
+      "title": "BAE's microchip passes tests",
+      "body": "BAE's new strategic defense microchip passing radiation tests could lead to increased contracts, but the real hurdle is actual deployment."
     },
     {
-      "title": "Sierra Space's Dream Chaser timeline",
-      "body": "After clearing a critical design review, the focus now shifts to whether Sierra can launch before the next ice age."
+      "title": "Dual-use tech debate heats up",
+      "body": "The critique of 'dual-use' tech could influence future policy discussions, particularly around military applications and ethics."
     },
     {
-      "title": "Palantir's TITAN program extension",
-      "body": "The $480 million extension could signal further government reliance on established players in the defense tech space."
+      "title": "Palantir's TITAN extension implications",
+      "body": "Palantir's $480 million extension on the TITAN ground station program suggests a strong future for its government contracts, but also raises questions about competition."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains stagnant as it struggles to find its footing post-IPO."
+      "note": "Virgin Galactic's stock remains volatile as it navigates its path to commercial spaceflight."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's recent contract extension suggests it's still the go-to for government data needs."
+      "note": "Palantir's recent contract extension shows the company's stronghold in defense but raises questions about its long-term growth."
     },
     {
-      "sym": "ISAR",
-      "note": "Isar Aerospace's upcoming launch could be a litmus test for its future in the small satellite market."
+      "sym": "SLS",
+      "note": "NASA's Space Launch System is still a topic of discussion as the agency looks to balance costs and timelines."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's stock is riding high on the potential of its satellite communications model."
+      "note": "AST SpaceMobile's bull case is a reminder that even in aerospace, the numbers can tell a story of perilous balance."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

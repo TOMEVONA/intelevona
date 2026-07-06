@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with mixed fortunes this week, from funding rounds to critical design reviews. Meanwhile, the Space Force grapples with cost concerns and launch risks, while international players continue to assert their presence.",
+  "summary": "The space and defense sectors are buzzing with new partnerships and funding, while some projects continue to lag behind schedule. As the U.S. ramps up its space resilience efforts, the dual-use debate adds a layer of complexity to defense strategies.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Flows and Risks",
-      "body": "Chinese satellite manufacturer Hongqing's $191 million raise highlights the ongoing investment interest in space, even as the GAO flags cost concerns in the Space Force's portfolio. This juxtaposition underscores the precarious balance between innovation and fiscal responsibility."
-    },
-    {
-      "icon": "◉",
-      "title": "Launch Activity Picks Up",
-      "body": "Pegasus's Swift reboost mission and Isar Aerospace's contract for a Planet imaging satellite signal a steady pulse in launch activity. However, the persistent delays in hypersonic glide-vehicle tests remind us that not all launches are created equal."
+      "title": "European Firms Join NASA Program",
+      "body": "NASA's inclusion of three European companies in its commercial data program signals a growing reliance on international partnerships for data acquisition. This move may bolster the agency's capabilities while also raising questions about data sovereignty."
     },
     {
       "icon": "▲",
-      "title": "Defense Tech's New Frontiers",
-      "body": "Palantir's $480 million extension on the TITAN program and Anduril's collaboration with L3Harris on a tactical SDA constellation bid reflect a growing trend of defense tech integration in space. As the lines blur, expect more 'AI for Defense' startups to emerge from the woodwork."
+      "title": "Defense Budget Increases",
+      "body": "The FY27 budget markup's $1.4 billion boost for space resilience indicates a strong commitment to enhancing U.S. capabilities in the face of evolving threats. This funding could lead to a flurry of contracts and initiatives aimed at fortifying national security."
     },
     {
       "icon": "◆",
-      "title": "International Dynamics Emerge",
-      "body": "Russia's co-orbital activities near commercial GEO slots and GPS jamming returning to pre-2024 levels signal rising tensions in space. Meanwhile, allied workshops, like the one in The Hague, aim to bolster resilience against these emerging threats."
+      "title": "Hypersonic Testing Delays",
+      "body": "The continued delays in hypersonic glide-vehicle testing reflect the challenges of developing cutting-edge defense technologies. As competitors advance, these setbacks could impact the U.S.'s strategic edge in this critical area."
+    },
+    {
+      "icon": "◉",
+      "title": "Space Domain Awareness Gains Traction",
+      "body": "With Slingshot's data now accessible on the .mil cloud, the military's ability to monitor space activities is set to improve significantly. This development underscores the increasing importance of space domain awareness in national defense strategies."
     }
   ],
-  "updated": "2026-07-05 15:09 UTC"
+  "updated": "2026-07-06 16:25 UTC"
 }
