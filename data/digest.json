@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space industry is buzzing with new partnerships and budget allocations, while some projects are still struggling to meet deadlines. As the landscape evolves, both commercial and defense sectors are adjusting to emerging technologies and geopolitical pressures.",
+  "summary": "The space and defense sectors are navigating a mix of launches, partnerships, and budget shifts, with SpaceX's rideshare program facing scrutiny. Meanwhile, emerging players are making strides in satellite technology and lunar exploration.",
   "themes": [
     {
       "icon": "▣",
-      "title": "European Firms Join NASA Program",
-      "body": "NASA's inclusion of three European companies in its commercial data program signals a growing trend of transatlantic collaboration in space. This move could enhance data-sharing capabilities and stimulate innovation across the Atlantic."
-    },
-    {
-      "icon": "▲",
-      "title": "Defense Budget Boosts Space Resilience",
-      "body": "The proposed $1.4 billion increase in the FY27 budget for space resilience reflects a heightened focus on safeguarding U.S. interests in orbit. As threats evolve, this funding could bolster capabilities against emerging challenges."
+      "title": "SpaceX's Rideshare Dilemma",
+      "body": "SpaceX's Transporter-17 launch comes amid growing concerns over the sustainability of its rideshare program. The pressure is on as competition heats up and budget allocations shift."
     },
     {
       "icon": "◉",
-      "title": "Hypersonic Tests Continue to Lag",
-      "body": "The repeated delays of hypersonic glide-vehicle tests raise questions about the pace of U.S. advancements in this critical area. With three consecutive slips, stakeholders may need to reassess timelines and expectations."
+      "title": "New Players in Satellite Tech",
+      "body": "Simera Sense's involvement with the Canary Islands constellation signals a fresh wave of interest in satellite imaging capabilities. This could reshape the competitive landscape as smaller firms vie for attention."
+    },
+    {
+      "icon": "▲",
+      "title": "Defense Budget Boost",
+      "body": "The FY27 budget markup's $1.4 billion increase for space resilience underscores a commitment to strengthening national security in the cosmos. Expect this to fuel further innovation and partnerships in the sector."
     },
     {
       "icon": "◆",
-      "title": "New Collaborations in Space Tech",
-      "body": "Anduril and L3Harris's joint bid for a tactical SDA constellation highlights the increasing importance of collaboration in defense tech. Meanwhile, the agreement between Novaspace and others to create a global space capability dashboard suggests a push for comprehensive situational awareness."
+      "title": "Lunar Landers and Recovery",
+      "body": "Blue Origin's ongoing work on lunar landers post-New Glenn explosion highlights the challenges of space exploration. The company’s resilience in the face of setbacks may pay dividends as lunar missions ramp up."
     }
   ],
-  "updated": "2026-07-06 16:49 UTC"
+  "updated": "2026-07-07 15:45 UTC"
 }

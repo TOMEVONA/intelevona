@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-06",
-  "issue": "No. 76",
-  "headline": "Funding flows. Contracts expand. Terms confuse.",
-  "deck": "This week saw strategic investments and shifting partnerships in the space sector.",
+  "updated": "2026-07-07",
+  "issue": "No. 77",
+  "headline": "SpaceX launches. Budget grows. True Anomaly thrives.",
+  "deck": "This week, launches and funding highlight contrasting industry dynamics.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
+      "kicker": "LAUNCH",
+      "head": "SpaceX's Transporter-17: A launch amid doubts",
+      "body": "SpaceX successfully launched Transporter-17, but the future of its rideshare program is under scrutiny, with many questioning its sustainability. This comes as the Pentagon grapples with over-reliance on a single provider, following SpaceX's satellite winning a critical test. The industry is left wondering if SpaceX's dominance can withstand the pressures of competition.",
+      "soWhat": "If SpaceX can't reassure the market about its rideshare model, we might see a shift in how smaller players approach launches."
+    },
+    {
       "kicker": "FUNDING",
-      "head": "True Anomaly banks $190M for co-orbital security",
-      "body": "True Anomaly has successfully raised $190M in a Series C round, bringing its valuation to $1.6B. The funding will bolster its capabilities in co-orbital security and space domain awareness, as the Department of Defense continues to prioritize these areas. This round illustrates a strong pull-through from government contracts, signaling that cash remains king in this sector.",
-      "soWhat": "Investors are clearly betting that the DoD's appetite for co-orbital security will only grow, which could be a smart move if tensions escalate."
+      "head": "True Anomaly raises $190M, rides the defense wave",
+      "body": "True Anomaly secured a $190M Series C round at a $1.6B valuation, signaling strong demand for co-orbital security solutions. This funding reflects a broader trend where defense-related ventures are attracting significant capital, as evidenced by the recent $1.4B budget increase for space resilience. Investors are clearly betting on national security needs driving future growth.",
+      "soWhat": "When defense budgets swell, expect more startups to pivot toward military applications, leaving pure-play commercial ventures in the dust."
     },
     {
-      "kicker": "CONTRACTS",
-      "head": "Palantir extends TITAN contract by $480M",
-      "body": "Palantir has secured a $480M extension on its TITAN ground station program, reinforcing its position in government contracts. This extension is part of a broader trend where data analytics firms are increasingly relied upon for national security initiatives. The deal underscores the Pentagon's ongoing investment in advanced data capabilities.",
-      "soWhat": "Palantir's dominance in the government space is not just about tech—it's about being the go-to partner for data-driven defense solutions."
-    },
-    {
-      "kicker": "TECH",
-      "head": "Sierra Space's Dream Chaser variant clears design review",
-      "body": "Sierra Space's Dream Chaser variant for the Department of Defense has successfully passed its critical design review. However, the path to launch remains fraught with challenges, as the company aims to transition from design to operational capability. The DoD's interest in the platform reflects a broader push toward reusable spacecraft.",
-      "soWhat": "Clearing design reviews is nice, but the real test will be whether Sierra can actually deliver on its promises without losing its shirt in the process."
+      "kicker": "CONTRACT",
+      "head": "Simera Sense wins contract for Canary Islands constellation",
+      "body": "Simera Sense has landed a contract to provide multispectral imagers for a new constellation aimed at improving disaster response in the Canary Islands. While $1.85M isn't a game-changer, it highlights the increasing importance of satellite technology for local governments addressing climate-related challenges. Even islands need to step up their tech game.",
+      "soWhat": "If island nations start investing in space tech, it could signal a new wave of market opportunities for small satellite providers."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Anduril and L3Harris",
-      "body": "Their collaboration on a tactical SDA constellation bid could signal a shift in how defense contracts are awarded."
+      "title": "SpaceX's rideshare program under pressure",
+      "body": "With rising doubts about its viability, stakeholders will be watching closely for any strategic pivots."
     },
     {
-      "title": "NASA's European partnerships expand",
-      "body": "With three new firms added to its satellite data program, NASA might be setting the stage for more competitive bidding in the commercial data space."
+      "title": "True Anomaly's defense focus expands",
+      "body": "As funding flows into defense tech, True Anomaly's next moves will be critical for its growth trajectory."
     },
     {
-      "title": "Hypersonic glide-vehicle testing delays",
-      "body": "The continued delays in hypersonic testing raise questions about the U.S. military's readiness in this critical area."
+      "title": "Isar Aerospace's Canadian launch site plans",
+      "body": "The agreement with Canada could open new markets for Isar Aerospace, especially in defense-related launches."
     },
     {
-      "title": "SpaceX's valuation drama continues",
-      "body": "Investors are still in suspense over SpaceX's valuation and potential secondary offerings, which could impact market sentiment."
+      "title": "Palantir's TITAN extension implications",
+      "body": "The $480M contract extension suggests Palantir's continued dominance in military applications, which may impact competitors."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains stagnant as it grapples with its path to commercial viability."
+    },
+    {
       "sym": "PLTR",
-      "note": "Palantir's $480M contract extension reinforces its stronghold in government space."
+      "note": "Palantir's stock is buoyed by its $480M contract extension, reinforcing its foothold in government contracts."
     },
     {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M Series C reflects growing defense demand for co-orbital security."
+      "sym": "SFTW",
+      "note": "Stable financials for Astra Space as it prepares for upcoming launches amidst a crowded market."
     },
     {
-      "sym": "SLS",
-      "note": "Sierra Space's design review success is promising, but execution will be the real test."
-    },
-    {
-      "sym": "ASTS",
-      "note": "ASTS's recent bull case illustrates the thin line between potential and peril in space ventures."
+      "sym": "AXON",
+      "note": "Axon Enterprise's push into aerial surveillance tech is raising eyebrows, blending defense with commercial applications."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
