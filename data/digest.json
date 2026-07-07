@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are navigating a mix of launches, partnerships, and budget shifts, with SpaceX's rideshare program facing scrutiny. Meanwhile, emerging players are making strides in satellite technology and lunar exploration.",
+  "summary": "The space industry is buzzing with activity, from SpaceX's latest launch to new partnerships in satellite technology. Meanwhile, budget allocations are shifting, and hypersonic tests continue to stumble.",
   "themes": [
     {
       "icon": "▣",
       "title": "SpaceX's Rideshare Dilemma",
-      "body": "SpaceX's Transporter-17 launch comes amid growing concerns over the sustainability of its rideshare program. The pressure is on as competition heats up and budget allocations shift."
+      "body": "SpaceX's Transporter-17 launch raises eyebrows about the viability of its rideshare program amid increasing competition. With the Pentagon backing a new satellite, the stakes are higher than ever."
     },
     {
       "icon": "◉",
-      "title": "New Players in Satellite Tech",
-      "body": "Simera Sense's involvement with the Canary Islands constellation signals a fresh wave of interest in satellite imaging capabilities. This could reshape the competitive landscape as smaller firms vie for attention."
+      "title": "Budget Boost for Space Resilience",
+      "body": "The recent FY27 budget markup adds $1.4 billion to space resilience initiatives, signaling a growing commitment to safeguarding assets in orbit. This influx of cash could reshape priorities in an already crowded market."
     },
     {
       "icon": "▲",
-      "title": "Defense Budget Boost",
-      "body": "The FY27 budget markup's $1.4 billion increase for space resilience underscores a commitment to strengthening national security in the cosmos. Expect this to fuel further innovation and partnerships in the sector."
+      "title": "Hypersonic Hiccups Persist",
+      "body": "Yet again, hypersonic glide-vehicle tests have slipped, marking the third consecutive quarter of delays. This ongoing struggle raises questions about the pace of innovation in a field where speed is paramount."
     },
     {
       "icon": "◆",
-      "title": "Lunar Landers and Recovery",
-      "body": "Blue Origin's ongoing work on lunar landers post-New Glenn explosion highlights the challenges of space exploration. The company’s resilience in the face of setbacks may pay dividends as lunar missions ramp up."
+      "title": "New Players in Satellite Game",
+      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, reflecting a trend of established defense firms seeking to capitalize on emerging satellite technologies. Meanwhile, Simera Sense's involvement in the Canary Islands constellation highlights the growing interest in Earth observation."
     }
   ],
-  "updated": "2026-07-07 15:45 UTC"
+  "updated": "2026-07-07 16:24 UTC"
 }
