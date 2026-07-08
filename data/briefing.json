@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-07",
-  "issue": "No. 77",
-  "headline": "SpaceX faces scrutiny. True Anomaly raises cash.",
-  "deck": "Concerns grow over SpaceX's rideshare program and new funding rounds signal shifting priorities.",
+  "updated": "2026-07-08",
+  "issue": "No. 78",
+  "headline": "Funding flows. Spaceports strain. New tech emerges.",
+  "deck": "This week highlights significant funding rounds and military contracts amid ongoing challenges in space infrastructure.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly secures $190M amid defense demand",
-      "body": "True Anomaly raised $190M in a Series C round, valuing the co-orbital security firm at $1.6B. This funding underscores the Department of Defense's growing reliance on commercial capabilities for space domain awareness. With defense budgets tightening, the spotlight is on companies that can deliver tangible results.",
-      "soWhat": "In an industry where cash flow is king, True Anomaly's success highlights that the DoD is willing to pay for security solutions, even if they come with a hefty price tag."
+      "head": "Venus Aerospace secures $91 million for engines",
+      "body": "Venus Aerospace has raised $91 million to advance its rotating detonation rocket engine technology, a key component in its plans for hypersonic flight. The funding is intended to scale production and development, signaling investor confidence in the potential of hypersonic capabilities. The company’s innovative approach may soon make traditional rocket engines feel like rotary phones.",
+      "soWhat": "If Venus can deliver on its promises, we might be looking at a serious shift in how we think about speed and access in aerospace."
     },
     {
-      "kicker": "LAUNCH",
-      "head": "SpaceX's rideshare program faces existential questions",
-      "body": "SpaceX launched Transporter-17, but concerns about the viability of its rideshare program are mounting. Rivals are increasingly vocal about the competitive landscape, suggesting that SpaceX's dominance might be more precarious than previously thought. The Pentagon's commitment to competition could further complicate SpaceX's future plans.",
-      "soWhat": "When competitors start circling like vultures, it’s a clear sign that the rideshare gravy train might be hitting some bumps in the road."
+      "kicker": "CONTRACTS",
+      "head": "Space Force expands its launch program roster",
+      "body": "The Space Force has added Relativity Space and Impulse Space to its National Security Launch program, opening doors for newer entrants to compete for military missions. This move is part of a broader strategy to diversify launch capabilities beyond established players, which could shake up the launch market dynamics significantly. With a budget that’s not shy about spending, the Space Force is clearly ready to play favorites.",
+      "soWhat": "This could be a double-edged sword for established launch providers; they may need to rethink their pricing strategies as competition heats up."
     },
     {
-      "kicker": "EXPANSION",
-      "head": "Isar Aerospace lands Canadian launch site deal",
-      "body": "Isar Aerospace has signed an agreement to develop a launch site in Canada, linked to a submarine sale to the Canadian military. This move expands their operational footprint and aligns with increasing defense spending in the region. With a focus on their Spectrum rocket, Isar is positioning itself as a key player in North American space launches.",
-      "soWhat": "If the Canadian military is putting money into submarines, Isar's launch site could become a strategic asset in a rapidly evolving defense landscape."
+      "kicker": "TECHNOLOGY",
+      "head": "True Anomaly raises $190 million amid defense demand",
+      "body": "True Anomaly has closed a $190 million Series C funding round, valuing the co-orbital security company at $1.6 billion. The investment underscores the increasing demand for space domain awareness solutions, particularly from the Department of Defense. As military interest in space security intensifies, True Anomaly is positioning itself as a key player in this critical sector.",
+      "soWhat": "With the DoD’s growing appetite for co-orbital capabilities, True Anomaly may soon find itself in a race to scale faster than its competition."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on SpaceX's next moves",
-      "body": "With mounting scrutiny, how SpaceX adapts its rideshare strategy could set the tone for the entire market."
+      "title": "Watch for more Space Force contracts",
+      "body": "With new entrants in the NSSL program, expect a flurry of contract announcements that could reshape the competitive landscape."
     },
     {
-      "title": "True Anomaly's next steps post-funding",
-      "body": "The new capital infusion will be telling; watch for how True Anomaly scales its operations to meet DoD demands."
+      "title": "True Anomaly's next moves post-funding",
+      "body": "Investors will be keen to see how True Anomaly deploys its new capital to secure contracts and expand its capabilities."
     },
     {
-      "title": "Isar Aerospace's Canadian operations",
-      "body": "As Isar develops its launch site, the implications for North American launch capabilities will be worth monitoring."
+      "title": "Sierra Space's launch strategy",
+      "body": "After passing a critical design review, how Sierra Space navigates its launch timeline could impact its market position."
     },
     {
-      "title": "Palantir's TITAN ground station extension",
-      "body": "With a $480M extension, Palantir's role in government contracts may shift the competitive landscape in ground station tech."
+      "title": "Hypersonic tech development timelines",
+      "body": "With multiple delays reported, keeping an eye on hypersonic tech timelines will be crucial for defense procurement leads."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
+      "sym": "PALANTIR",
+      "note": "Palantir's $480M extension on the TITAN ground station program solidifies its grip on government contracts."
+    },
+    {
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's deployment of BlueBird satellites signals serious intent to compete in the cellular broadband market."
+    },
+    {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains stagnant as it waits for meaningful flight results."
+      "note": "Virgin Galactic faces scrutiny as it plans for commercial flights amidst ongoing financial challenges."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's recent $480M contract extension signals strong demand in government sectors."
-    },
-    {
-      "sym": "AER",
-      "note": "Aerospace stocks are jittery as defense budgets face scrutiny amid rising geopolitical tensions."
-    },
-    {
-      "sym": "SFT",
-      "note": "Stoke Space's $260M funding round highlights investor interest in reusable launch technologies despite market volatility."
+      "sym": "RLTY",
+      "note": "Relativity Space's inclusion in the NSSL program could be a game-changer for its long-term viability."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

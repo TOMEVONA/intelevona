@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity, from SpaceX's latest launch to new partnerships in satellite technology. Meanwhile, budget allocations are shifting, and hypersonic tests continue to stumble.",
+  "summary": "The space industry is currently balancing on the fine line between innovation and operational challenges. With funding flowing into rocket technologies and satellite capabilities, the focus remains on addressing the underlying infrastructure issues that could derail progress.",
   "themes": [
     {
-      "icon": "▣",
-      "title": "SpaceX's Rideshare Dilemma",
-      "body": "SpaceX's Transporter-17 launch raises eyebrows about the viability of its rideshare program amid increasing competition. With the Pentagon backing a new satellite, the stakes are higher than ever."
-    },
-    {
       "icon": "◉",
-      "title": "Budget Boost for Space Resilience",
-      "body": "The recent FY27 budget markup adds $1.4 billion to space resilience initiatives, signaling a growing commitment to safeguarding assets in orbit. This influx of cash could reshape priorities in an already crowded market."
+      "title": "Funding Fuels Rocket Ambitions",
+      "body": "Venus Aerospace's recent $91 million raise highlights a growing interest in advanced propulsion technologies. Investors are clearly betting that the next generation of rockets will be the key to unlocking new markets."
     },
     {
       "icon": "▲",
-      "title": "Hypersonic Hiccups Persist",
-      "body": "Yet again, hypersonic glide-vehicle tests have slipped, marking the third consecutive quarter of delays. This ongoing struggle raises questions about the pace of innovation in a field where speed is paramount."
+      "title": "Spaceports in Distress",
+      "body": "The government's struggle to address strained spaceports is becoming increasingly apparent, as launch schedules clash with limited infrastructure. This could hinder the ambitious plans of both commercial and military players in the coming years."
+    },
+    {
+      "icon": "▣",
+      "title": "Defense Tech IPOs on the Horizon",
+      "body": "The defense-tech sector is showing signs of life as the IPO window begins to crack open, presenting opportunities for startups eager to capitalize on government contracts. This could lead to a reshuffling of the competitive landscape as new players enter the fray."
     },
     {
       "icon": "◆",
-      "title": "New Players in Satellite Game",
-      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, reflecting a trend of established defense firms seeking to capitalize on emerging satellite technologies. Meanwhile, Simera Sense's involvement in the Canary Islands constellation highlights the growing interest in Earth observation."
+      "title": "Space Force Expands Partnerships",
+      "body": "The Space Force's addition of Relativity and Impulse Space to its national security launch program signals a strategic shift towards leveraging commercial capabilities. This partnership could enhance the U.S.'s launch resilience amid growing global competition."
     }
   ],
-  "updated": "2026-07-07 16:24 UTC"
+  "updated": "2026-07-08 15:25 UTC"
 }
