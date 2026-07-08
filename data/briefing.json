@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-08",
   "issue": "No. 78",
-  "headline": "Funding flows. Spaceports strain. New tech emerges.",
-  "deck": "This week highlights significant funding rounds and military contracts amid ongoing challenges in space infrastructure.",
+  "headline": "Funding flows. Satellites launch. Dogs connect.",
+  "deck": "This week saw significant funding rounds and strategic partnerships, with a focus on satellite technology and defense.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "Venus Aerospace secures $91 million for engines",
-      "body": "Venus Aerospace has raised $91 million to advance its rotating detonation rocket engine technology, a key component in its plans for hypersonic flight. The funding is intended to scale production and development, signaling investor confidence in the potential of hypersonic capabilities. The company’s innovative approach may soon make traditional rocket engines feel like rotary phones.",
-      "soWhat": "If Venus can deliver on its promises, we might be looking at a serious shift in how we think about speed and access in aerospace."
+      "head": "Venus Aerospace raises $91 million amid skepticism",
+      "body": "Venus Aerospace secured $91 million to advance its rotating detonation rocket engine technology, a concept that sounds more suited for a sci-fi novel than real-world applications. Investors seem to be betting on the potential, despite the technology's unproven status. The funding reflects a willingness to take risks in a sector where the line between ambition and folly is often blurred.",
+      "soWhat": "This capital injection underscores the appetite for speculative aerospace technologies, even when the odds are long."
     },
     {
-      "kicker": "CONTRACTS",
-      "head": "Space Force expands its launch program roster",
-      "body": "The Space Force has added Relativity Space and Impulse Space to its National Security Launch program, opening doors for newer entrants to compete for military missions. This move is part of a broader strategy to diversify launch capabilities beyond established players, which could shake up the launch market dynamics significantly. With a budget that’s not shy about spending, the Space Force is clearly ready to play favorites.",
-      "soWhat": "This could be a double-edged sword for established launch providers; they may need to rethink their pricing strategies as competition heats up."
+      "kicker": "DEFENSE",
+      "head": "Space Force welcomes new players to launch program",
+      "body": "The Space Force has added Relativity and Impulse Space to its national security launch program, a move that could shake up the existing launch landscape. This decision follows a broader trend of integrating smaller, more agile companies into defense contracts, potentially leading to greater innovation—or chaos. With the government opening doors to startups, the competition for launch contracts is set to heat up.",
+      "soWhat": "This shift indicates that the Space Force is willing to gamble on new entrants, which could either refresh or complicate the launch ecosystem."
     },
     {
-      "kicker": "TECHNOLOGY",
-      "head": "True Anomaly raises $190 million amid defense demand",
-      "body": "True Anomaly has closed a $190 million Series C funding round, valuing the co-orbital security company at $1.6 billion. The investment underscores the increasing demand for space domain awareness solutions, particularly from the Department of Defense. As military interest in space security intensifies, True Anomaly is positioning itself as a key player in this critical sector.",
-      "soWhat": "With the DoD’s growing appetite for co-orbital capabilities, True Anomaly may soon find itself in a race to scale faster than its competition."
+      "kicker": "SATELLITES",
+      "head": "AST SpaceMobile inches closer to satellite goals",
+      "body": "AST SpaceMobile launched three more BlueBird satellites, moving closer to its ambitious target of a 45 to 60 satellite broadband network. Each satellite represents a significant investment, and the company is betting heavily on its ability to deliver global mobile connectivity. However, the mounting costs associated with this endeavor raise questions about the sustainability of their business model.",
+      "soWhat": "As AST SpaceMobile expands, the financial strain could become a critical factor, especially if they can't deliver on their promises."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for more Space Force contracts",
-      "body": "With new entrants in the NSSL program, expect a flurry of contract announcements that could reshape the competitive landscape."
+      "title": "Watch for SpaceX IPO chatter",
+      "body": "With recent discussions about the SpaceX secondary market, an IPO could be on the horizon, signaling a shift in investor sentiment."
     },
     {
-      "title": "True Anomaly's next moves post-funding",
-      "body": "Investors will be keen to see how True Anomaly deploys its new capital to secure contracts and expand its capabilities."
+      "title": "Keep an eye on hypersonic tests",
+      "body": "The continued delays in hypersonic glide-vehicle tests could impact defense budgets and timelines, adding pressure to meet strategic goals."
     },
     {
-      "title": "Sierra Space's launch strategy",
-      "body": "After passing a critical design review, how Sierra Space navigates its launch timeline could impact its market position."
+      "title": "Monitor True Anomaly's growth trajectory",
+      "body": "After raising $190 million, True Anomaly's developments in co-orbital security will be pivotal for national security discussions."
     },
     {
-      "title": "Hypersonic tech development timelines",
-      "body": "With multiple delays reported, keeping an eye on hypersonic tech timelines will be crucial for defense procurement leads."
+      "title": "Expect more from the Space Force's budget",
+      "body": "With the FY27 budget adding $1.4 billion to space resilience, expect increased scrutiny on how these funds are allocated."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "PALANTIR",
-      "note": "Palantir's $480M extension on the TITAN ground station program solidifies its grip on government contracts."
-    },
-    {
       "sym": "ASTS",
-      "note": "AST SpaceMobile's deployment of BlueBird satellites signals serious intent to compete in the cellular broadband market."
+      "note": "AST SpaceMobile's satellite launches are a costly gamble that could either pay off or lead to financial woes."
     },
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic faces scrutiny as it plans for commercial flights amidst ongoing financial challenges."
+      "sym": "REL",
+      "note": "Relativity's inclusion in the Space Force's launch program could provide a much-needed boost to their credibility."
     },
     {
-      "sym": "RLTY",
-      "note": "Relativity Space's inclusion in the NSSL program could be a game-changer for its long-term viability."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480 million extension on the TITAN program shows the government’s appetite for data-driven solutions."
+    },
+    {
+      "sym": "TRUE",
+      "note": "True Anomaly's valuation of $1.6 billion post-Series C reflects investor confidence in co-orbital security."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

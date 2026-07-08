@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is currently balancing on the fine line between innovation and operational challenges. With funding flowing into rocket technologies and satellite capabilities, the focus remains on addressing the underlying infrastructure issues that could derail progress.",
+  "summary": "This week, the space industry is grappling with a mix of funding boosts and operational challenges, while the military continues to expand its partnerships with private firms. As the satellite sector faces its most costly issues on the ground, new technologies and collaborations are emerging to address the evolving landscape.",
   "themes": [
     {
+      "icon": "▣",
+      "title": "Funding for Future Tech",
+      "body": "Venus Aerospace's recent $91 million raise underscores the ongoing interest in advanced propulsion technologies. Meanwhile, the Space Force's budget markup hints at a strategic pivot toward enhancing space resilience."
+    },
+    {
       "icon": "◉",
-      "title": "Funding Fuels Rocket Ambitions",
-      "body": "Venus Aerospace's recent $91 million raise highlights a growing interest in advanced propulsion technologies. Investors are clearly betting that the next generation of rockets will be the key to unlocking new markets."
+      "title": "Tactical Collaborations Grow",
+      "body": "The partnership between Anduril and L3Harris on a tactical SDA constellation bid illustrates the increasing convergence of defense and commercial space capabilities. Such collaborations are likely to shape future military operations in orbit."
     },
     {
       "icon": "▲",
-      "title": "Spaceports in Distress",
-      "body": "The government's struggle to address strained spaceports is becoming increasingly apparent, as launch schedules clash with limited infrastructure. This could hinder the ambitious plans of both commercial and military players in the coming years."
-    },
-    {
-      "icon": "▣",
-      "title": "Defense Tech IPOs on the Horizon",
-      "body": "The defense-tech sector is showing signs of life as the IPO window begins to crack open, presenting opportunities for startups eager to capitalize on government contracts. This could lead to a reshuffling of the competitive landscape as new players enter the fray."
+      "title": "Strained Spaceports in Focus",
+      "body": "The government is exploring options to alleviate pressure on spaceports, which have become critical yet strained infrastructure. This could signal a shift in how launch operations are managed as demand continues to rise."
     },
     {
       "icon": "◆",
-      "title": "Space Force Expands Partnerships",
-      "body": "The Space Force's addition of Relativity and Impulse Space to its national security launch program signals a strategic shift towards leveraging commercial capabilities. This partnership could enhance the U.S.'s launch resilience amid growing global competition."
+      "title": "Satellite Industry's Ground Woes",
+      "body": "Despite advancements in satellite technology, the industry faces significant challenges on the ground, particularly related to costs and logistics. Addressing these issues may prove more complex than the launches themselves."
     }
   ],
-  "updated": "2026-07-08 15:25 UTC"
+  "updated": "2026-07-08 15:59 UTC"
 }
