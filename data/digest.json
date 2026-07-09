@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space industry is grappling with a mix of funding boosts and operational challenges, while the military continues to expand its partnerships with private firms. As the satellite sector faces its most costly issues on the ground, new technologies and collaborations are emerging to address the evolving landscape.",
+  "summary": "The space industry is buzzing with activity, from procurement reorganizations in the Space Force to ambitious funding rounds for emerging tech. As companies jockey for position in an increasingly crowded market, the stakes are high, and the volatility is palpable.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding for Future Tech",
-      "body": "Venus Aerospace's recent $91 million raise underscores the ongoing interest in advanced propulsion technologies. Meanwhile, the Space Force's budget markup hints at a strategic pivot toward enhancing space resilience."
+      "title": "Space Force's New Structure",
+      "body": "The Space Force has completed a significant procurement reorganization, establishing nine distinct acquisition portfolios. This move aims to streamline operations and enhance efficiency, but it also raises questions about how effectively these portfolios will adapt to rapid technological changes."
     },
     {
       "icon": "◉",
-      "title": "Tactical Collaborations Grow",
-      "body": "The partnership between Anduril and L3Harris on a tactical SDA constellation bid illustrates the increasing convergence of defense and commercial space capabilities. Such collaborations are likely to shape future military operations in orbit."
+      "title": "Funding for Laser Tech",
+      "body": "Pulse Space's $40 million award from the Space Force underscores a growing interest in advanced power technologies, particularly laser systems. As the military leans into these capabilities, we can expect a flurry of innovation, though the path from funding to functional tech remains fraught with challenges."
     },
     {
       "icon": "▲",
-      "title": "Strained Spaceports in Focus",
-      "body": "The government is exploring options to alleviate pressure on spaceports, which have become critical yet strained infrastructure. This could signal a shift in how launch operations are managed as demand continues to rise."
+      "title": "Hypersonic Delays Persist",
+      "body": "The ongoing delays in hypersonic glide-vehicle testing highlight the complexities of developing cutting-edge defense technologies. With this being the third consecutive quarter of setbacks, stakeholders are left wondering if the promised capabilities will ever materialize."
     },
     {
       "icon": "◆",
-      "title": "Satellite Industry's Ground Woes",
-      "body": "Despite advancements in satellite technology, the industry faces significant challenges on the ground, particularly related to costs and logistics. Addressing these issues may prove more complex than the launches themselves."
+      "title": "Market Dynamics Shift",
+      "body": "The recent surge in funding rounds, such as True Anomaly's $190 million Series C, reflects a shifting landscape where capital is flowing into space startups. However, with the Defense-Tech IPO window cracking open, the competition for investor attention is likely to intensify."
     }
   ],
-  "updated": "2026-07-08 15:59 UTC"
+  "updated": "2026-07-09 16:03 UTC"
 }
