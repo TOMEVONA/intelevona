@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity as the Space Force reorganizes its procurement strategies and awards significant contracts, while private players like Sierra Space and True Anomaly secure critical funding. Amidst these developments, the specter of hypersonic testing delays looms large, reminding us that ambition often comes with its share of turbulence.",
+  "summary": "The space industry is at a crossroads, balancing ambitious hiring against the weight of legacy systems. Meanwhile, new technologies and collaborations are emerging, hinting at a future where space is both a battleground and a marketplace.",
   "themes": [
     {
-      "icon": "◆",
-      "title": "Space Force's Procurement Overhaul",
-      "body": "The Space Force has completed a significant reorganization, creating nine distinct acquisition portfolios aimed at streamlining procurement processes. This move is likely to enhance agility in responding to emerging threats and technologies, though it may also invite scrutiny over its execution."
-    },
-    {
-      "icon": "▲",
-      "title": "Funding Flows in Private Sector",
-      "body": "True Anomaly's recent $190 million Series C funding round underscores the growing investor appetite for space startups, particularly those focused on defense applications. Meanwhile, Sierra Space's Dream Chaser variant has cleared a critical design review, positioning it as a strong contender in upcoming government contracts."
+      "icon": "▣",
+      "title": "Hiring vs. Heritage",
+      "body": "The space sector is grappling with the challenge of expanding its workforce while still relying on established practices and personnel. This tension could either stifle innovation or push companies to rethink their operational models."
     },
     {
       "icon": "◉",
-      "title": "Hypersonic Testing Woes",
-      "body": "The third consecutive delay in hypersonic glide-vehicle testing raises questions about the reliability of current technologies and the pace of innovation. As competitors ramp up their efforts, the U.S. risks falling behind in a critical area of defense."
+      "title": "Nuclear Batteries in Orbit",
+      "body": "A startup's foray into nuclear battery technology could redefine power sources for satellites, assuming it doesn't become a political hot potato. The implications for long-duration missions are tantalizing, if not a bit radioactive."
     },
     {
-      "icon": "▣",
-      "title": "New Markets and Partnerships",
-      "body": "Anduril and L3Harris's collaboration on a tactical SDA constellation bid reflects a trend toward strategic partnerships in the space domain. Additionally, the exploration of new markets, as highlighted by Golden Dome, indicates a shift towards diversifying revenue streams amid increasing competition."
+      "icon": "▲",
+      "title": "China's Orbital Milestone",
+      "body": "China's recovery of its Long March 10B booster marks a significant step in its reusable launch capabilities, placing it firmly in the space race. This achievement could shift the competitive dynamics, especially for those still clinging to traditional launch methods."
+    },
+    {
+      "icon": "◆",
+      "title": "Defense-Tech IPO Buzz",
+      "body": "The defense-tech IPO window is showing signs of life, but investors will need more than just a good story to commit capital. With the buzz around AI and space resilience, the real question is whether these companies can deliver on their promises."
     }
   ],
-  "updated": "2026-07-09 16:24 UTC"
+  "updated": "2026-07-10 15:34 UTC"
 }

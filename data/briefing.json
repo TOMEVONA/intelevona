@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-09",
-  "issue": "No. 79",
-  "headline": "Funding flows. Procurement reshuffles. Startups scramble.",
-  "deck": "This week saw significant funding rounds and procurement shifts, signaling evolving dynamics in the aerospace sector.",
+  "updated": "2026-07-10",
+  "issue": "No. 80",
+  "headline": "Hiring struggles. Nuclear tests. Budget boosts.",
+  "deck": "The space industry grapples with workforce challenges while funding flows.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly secures $190M for co-orbital security",
-      "body": "True Anomaly raised $190 million in a Series C round, valuing the company at $1.6 billion. This funding will bolster their capabilities in co-orbital security and space domain awareness, areas that are increasingly critical for national security. The Department of Defense's interest in such technologies is becoming a cash cow for startups.",
-      "soWhat": "The DoD's push for co-orbital security means True Anomaly isn't just riding the wave; they're steering the ship."
-    },
-    {
-      "kicker": "PROCUREMENT",
-      "head": "Space Force reorganizes with nine new portfolios",
-      "body": "The Space Force has completed a significant procurement reorganization, establishing nine new acquisition portfolios to streamline decision-making. This shift aims to enhance responsiveness across major mission areas, reflecting a growing recognition that agility is key in modern defense operations. Expect to see faster procurement cycles as a result.",
-      "soWhat": "When it comes to defense procurement, speed is the new black; this reorg could reshape how contracts are awarded."
+      "kicker": "HIRING",
+      "head": "Space industry faces workforce conundrum",
+      "body": "The space sector is contemplating ambitious hiring to tackle its historic labor shortages, with some companies reporting difficulty in finding qualified personnel. This comes as the industry prepares for an influx of projects, but as one industry insider quipped, finding a rocket scientist might be easier than finding a unicorn. The demand for talent is at an all-time high, yet the supply remains stubbornly low.",
+      "soWhat": "If you thought recruiting was tough now, wait until the next wave of launches begins."
     },
     {
       "kicker": "TECH",
-      "head": "Pulse Space lands $40M for laser power tech",
-      "body": "Pulse Space has been awarded $40 million by the Space Force to develop laser systems designed to transmit power and data between spacecraft. This funding highlights a growing interest in laser technology as a means of enhancing spacecraft capabilities, which could redefine operational paradigms in space logistics.",
-      "soWhat": "If lasers can power spacecraft, we might need to rethink everything we thought we knew about space energy."
+      "head": "Nuclear batteries get a test drive in orbit",
+      "body": "A startup is currently testing nuclear battery technology in orbit, aiming to provide a reliable power source for satellites that can't rely on solar energy. This initiative is a bold move, especially given the historical hesitance around nuclear tech in space. If successful, it could mean a significant shift in how we power our satellites, especially in shadowed regions of space.",
+      "soWhat": "If this works, it might just light up the competition for satellite power sources."
+    },
+    {
+      "kicker": "BUDGET",
+      "head": "Space resilience funding sees a hefty boost",
+      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, signaling a serious commitment to bolstering national security in space. This increase highlights the growing recognition that space is not just an afterthought but a critical domain requiring substantial investment. As the stakes rise, so too does the funding.",
+      "soWhat": "It turns out the final frontier isn't just for exploration; it's a budget battleground."
     }
   ],
   "watchlist": [
     {
-      "title": "Space Force's procurement strategy unfolds",
-      "body": "The new acquisition portfolios could lead to faster contract awards, affecting a range of companies vying for Space Force contracts."
+      "title": "ElevationSpace's reentry vehicle progress",
+      "body": "Keep an eye on how ElevationSpace's developments may influence the competitive landscape as they track SpaceX's moves."
     },
     {
-      "title": "True Anomaly's next moves post-funding",
-      "body": "With fresh capital, True Anomaly's strategy in co-orbital security will be closely watched as they scale operations."
+      "title": "Palantir's next steps post-TITAN extension",
+      "body": "With a $480 million extension in hand, Palantir's strategy for the TITAN program will be critical to watch."
     },
     {
-      "title": "Pulse Space's tech demonstration timeline",
-      "body": "As they develop laser systems, the timeline for demonstrations will be critical for their future contracts and partnerships."
+      "title": "True Anomaly's Series C implications",
+      "body": "True Anomaly's $190 million raise could signal a shift in co-orbital security strategies across the board."
     },
     {
-      "title": "Anduril and L3Harris collaboration",
-      "body": "Their bid on a tactical SDA constellation could signal more partnerships in the defense sector, reshaping competitive dynamics."
+      "title": "Anduril and L3Harris partnership outcomes",
+      "body": "The collaboration on tactical SDA constellation bids might set a precedent for future defense partnerships in space."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as they navigate the complexities of commercial space tourism."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's $480 million extension on the TITAN program underscores the government's appetite for data solutions."
+      "note": "Palantir's $480M TITAN extension reinforces its grip on government contracts."
     },
     {
-      "sym": "SLS",
-      "note": "Sierra Space's Dream Chaser variant passing its design review is a win, but launch challenges still loom."
+      "sym": "TRUA",
+      "note": "True Anomaly's $190M Series C shows investors are betting on co-orbital security."
     },
     {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's recent charts show a precarious balance between promise and potential pitfalls."
+      "sym": "ASTR",
+      "note": "Astranis secured $250M for microGEO production, indicating strong demand for comms."
+    },
+    {
+      "sym": "STKE",
+      "note": "Stoke Space's $260M Series C aims to boost its manufacturing scale for reusable launches."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
