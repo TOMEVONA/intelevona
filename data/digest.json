@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is at a crossroads, balancing ambitious hiring against the weight of legacy systems. Meanwhile, new technologies and collaborations are emerging, hinting at a future where space is both a battleground and a marketplace.",
+  "summary": "The space industry is currently caught in a tug-of-war between ambitious hiring and the weight of legacy practices. Meanwhile, innovation continues to bubble up, albeit with some hiccups in execution.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Hiring vs. Heritage",
-      "body": "The space sector is grappling with the challenge of expanding its workforce while still relying on established practices and personnel. This tension could either stifle innovation or push companies to rethink their operational models."
+      "title": "Hiring vs. Heritage Dilemma",
+      "body": "As the space sector eyes expansion, the challenge remains how to integrate fresh talent with established norms. This tension could stifle innovation if not navigated carefully."
     },
     {
       "icon": "◉",
       "title": "Nuclear Batteries in Orbit",
-      "body": "A startup's foray into nuclear battery technology could redefine power sources for satellites, assuming it doesn't become a political hot potato. The implications for long-duration missions are tantalizing, if not a bit radioactive."
+      "body": "A startup's foray into nuclear battery technology could redefine energy solutions for long-duration missions. However, the regulatory and safety hurdles remain formidable."
     },
     {
       "icon": "▲",
-      "title": "China's Orbital Milestone",
-      "body": "China's recovery of its Long March 10B booster marks a significant step in its reusable launch capabilities, placing it firmly in the space race. This achievement could shift the competitive dynamics, especially for those still clinging to traditional launch methods."
+      "title": "Budget Boost for Resilience",
+      "body": "The recent $1.4 billion addition to the space resilience budget signals a growing recognition of the need for robust defense capabilities in orbit. This could spur further investment in technologies that enhance security."
     },
     {
       "icon": "◆",
-      "title": "Defense-Tech IPO Buzz",
-      "body": "The defense-tech IPO window is showing signs of life, but investors will need more than just a good story to commit capital. With the buzz around AI and space resilience, the real question is whether these companies can deliver on their promises."
+      "title": "Commercial Reentry Progress",
+      "body": "ElevationSpace's advancements in commercial reentry vehicles highlight the industry's pivot towards practical applications of space technology. Yet, the path to market remains fraught with technical and regulatory challenges."
     }
   ],
-  "updated": "2026-07-10 15:34 UTC"
+  "updated": "2026-07-10 16:21 UTC"
 }

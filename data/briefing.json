@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-10",
   "issue": "No. 80",
-  "headline": "Hiring struggles. Nuclear tests. Budget boosts.",
-  "deck": "The space industry grapples with workforce challenges while funding flows.",
+  "headline": "Hiring struggles. Nuclear batteries tested. Space budgets swell.",
+  "deck": "The space industry grapples with talent shortages while funding flows.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "HIRING",
-      "head": "Space industry faces workforce conundrum",
-      "body": "The space sector is contemplating ambitious hiring to tackle its historic labor shortages, with some companies reporting difficulty in finding qualified personnel. This comes as the industry prepares for an influx of projects, but as one industry insider quipped, finding a rocket scientist might be easier than finding a unicorn. The demand for talent is at an all-time high, yet the supply remains stubbornly low.",
-      "soWhat": "If you thought recruiting was tough now, wait until the next wave of launches begins."
+      "head": "Space sector faces talent acquisition woes",
+      "body": "The space industry is caught in a bind between ambitious hiring goals and its historical challenges, as highlighted by a recent report. With companies like SpaceX and Blue Origin competing for the same talent pool, many firms are finding it hard to attract engineers despite the sector's growth. This is a classic case of 'not enough talent for too many rockets.'",
+      "soWhat": "If the talent drought continues, we might see even more delays in projects that are already running behind schedule."
     },
     {
-      "kicker": "TECH",
-      "head": "Nuclear batteries get a test drive in orbit",
-      "body": "A startup is currently testing nuclear battery technology in orbit, aiming to provide a reliable power source for satellites that can't rely on solar energy. This initiative is a bold move, especially given the historical hesitance around nuclear tech in space. If successful, it could mean a significant shift in how we power our satellites, especially in shadowed regions of space.",
-      "soWhat": "If this works, it might just light up the competition for satellite power sources."
+      "kicker": "TECHNOLOGY",
+      "head": "Startup tests nuclear battery in orbit",
+      "body": "A startup is currently testing a tritium-powered nuclear battery in orbit, a move that could provide satellites with a reliable power source during dark periods. This initiative comes as the commercial space sector looks for sustainable energy solutions, with funding from private investors amounting to $50 million. If successful, this could change the power dynamics of satellite operations.",
+      "soWhat": "If this battery tech works, we might see a rush of satellite operators looking to ditch solar panels for something more reliable."
     },
     {
-      "kicker": "BUDGET",
-      "head": "Space resilience funding sees a hefty boost",
-      "body": "The FY27 budget markup has added $1.4 billion to the space resilience line, signaling a serious commitment to bolstering national security in space. This increase highlights the growing recognition that space is not just an afterthought but a critical domain requiring substantial investment. As the stakes rise, so too does the funding.",
-      "soWhat": "It turns out the final frontier isn't just for exploration; it's a budget battleground."
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M amid defense pull",
+      "body": "True Anomaly secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. This investment underscores the increasing demand for co-orbital security and space domain awareness solutions, with the Department of Defense showing a keen interest in the startup's capabilities. It's clear that the DoD sees the value in having more eyes in the sky.",
+      "soWhat": "The heavy defense pull suggests that the market for space security is heating up, and companies not in the game might find themselves left behind."
     }
   ],
   "watchlist": [
     {
       "title": "ElevationSpace's reentry vehicle progress",
-      "body": "Keep an eye on how ElevationSpace's developments may influence the competitive landscape as they track SpaceX's moves."
+      "body": "Keep an eye on ElevationSpace as they advance their commercial reentry vehicle work, potentially setting the stage for competition with established players like SpaceX."
     },
     {
-      "title": "Palantir's next steps post-TITAN extension",
-      "body": "With a $480 million extension in hand, Palantir's strategy for the TITAN program will be critical to watch."
+      "title": "Palantir's TITAN program extension",
+      "body": "Palantir's $480 million extension on the TITAN ground station program indicates a strong government appetite for data-driven solutions, which could lead to more contracts."
     },
     {
-      "title": "True Anomaly's Series C implications",
-      "body": "True Anomaly's $190 million raise could signal a shift in co-orbital security strategies across the board."
+      "title": "Anduril and L3Harris collaboration",
+      "body": "The partnership between Anduril and L3Harris for a tactical SDA constellation bid could reshape the landscape of space situational awareness, so watch for developments."
     },
     {
-      "title": "Anduril and L3Harris partnership outcomes",
-      "body": "The collaboration on tactical SDA constellation bids might set a precedent for future defense partnerships in space."
+      "title": "Hypersonic glide-vehicle tests delayed",
+      "body": "With another hypersonic glide-vehicle test slipping, the implications for defense readiness and funding priorities are worth monitoring closely."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains volatile as it navigates its path to profitability."
+    },
+    {
       "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension reinforces its grip on government contracts."
+      "note": "Palantir's extension on the TITAN program could bolster its defense sector credibility."
     },
     {
-      "sym": "TRUA",
-      "note": "True Anomaly's $190M Series C shows investors are betting on co-orbital security."
+      "sym": "SCS",
+      "note": "Sierra Space's Dream Chaser variant passing design review might finally get it off the ground."
     },
     {
-      "sym": "ASTR",
-      "note": "Astranis secured $250M for microGEO production, indicating strong demand for comms."
-    },
-    {
-      "sym": "STKE",
-      "note": "Stoke Space's $260M Series C aims to boost its manufacturing scale for reusable launches."
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's recent charts show promise, but execution will determine its fate."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
