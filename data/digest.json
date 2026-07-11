@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is experiencing a mix of cautious optimism and strategic maneuvering, with new satellite approvals and significant funding allocations. Meanwhile, the hiring landscape remains a balancing act between ambition and tradition.",
+  "summary": "The space industry is currently navigating a mix of new technology tests and strategic partnerships, while also grappling with the realities of hiring in a competitive landscape. Budget increases signal a focus on resilience, but the specter of delays in hypersonic testing looms large.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding for Space Resilience",
-      "body": "The recent FY27 budget markup adds $1.4 billion to the space resilience line, signaling a strong commitment to bolstering national security in orbit. This funding could enhance capabilities against rising global threats, particularly from state actors."
+      "title": "Propulsion and Maneuverability Advances",
+      "body": "Parabilis is making strides with its propulsion system aimed at maneuverable cubesats, a niche that could redefine small satellite operations. This development highlights the ongoing push for more agile and responsive space capabilities."
     },
     {
       "icon": "◉",
-      "title": "Commercial Space Consortiums Emerge",
-      "body": "China's unveiling of a state-backed commercial space consortium indicates a strategic shift towards consolidating resources and expertise in the space sector. This move may bolster China's competitive edge in both commercial and defense-related space activities."
+      "title": "Budget Boost for Space Resilience",
+      "body": "The recent FY27 budget markup adds $1.4 billion to the space resilience line, underscoring a commitment to strengthening national security in orbit. This funding could catalyze innovative projects, but execution will be key."
     },
     {
       "icon": "▲",
-      "title": "Earth Observation Sales Surge",
-      "body": "Earth observation satellites have overtaken telecom in European space industry sales, highlighting a growing demand for data-driven insights. This trend suggests a pivot in market priorities, as nations and businesses increasingly rely on satellite data for decision-making."
+      "title": "Commercial Space Consortium in China",
+      "body": "China's unveiling of its state-backed commercial space consortium reflects a strategic move to consolidate resources and expertise in the competitive global space market. The implications for international partnerships and competition are worth monitoring."
     },
     {
       "icon": "◆",
-      "title": "Defense-Tech IPOs on the Horizon",
-      "body": "The defense-tech IPO window appears to be cracking open, with companies like Palantir securing substantial extensions on contracts. This could signal a shift in investor interest towards firms that combine traditional defense capabilities with innovative technologies."
+      "title": "Hiring Dilemmas in Space Sector",
+      "body": "As the space industry contemplates ambitious hiring plans, the challenge remains to balance growth with the legacy of established players. This tension could shape the workforce dynamics and innovation pace in the coming years."
     }
   ],
-  "updated": "2026-07-11 14:23 UTC"
+  "updated": "2026-07-11 14:47 UTC"
 }
