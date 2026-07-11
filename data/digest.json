@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is currently caught in a tug-of-war between ambitious hiring and the weight of legacy practices. Meanwhile, innovation continues to bubble up, albeit with some hiccups in execution.",
+  "summary": "The space industry is experiencing a mix of cautious optimism and strategic maneuvering, with new satellite approvals and significant funding allocations. Meanwhile, the hiring landscape remains a balancing act between ambition and tradition.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Hiring vs. Heritage Dilemma",
-      "body": "As the space sector eyes expansion, the challenge remains how to integrate fresh talent with established norms. This tension could stifle innovation if not navigated carefully."
+      "title": "Funding for Space Resilience",
+      "body": "The recent FY27 budget markup adds $1.4 billion to the space resilience line, signaling a strong commitment to bolstering national security in orbit. This funding could enhance capabilities against rising global threats, particularly from state actors."
     },
     {
       "icon": "◉",
-      "title": "Nuclear Batteries in Orbit",
-      "body": "A startup's foray into nuclear battery technology could redefine energy solutions for long-duration missions. However, the regulatory and safety hurdles remain formidable."
+      "title": "Commercial Space Consortiums Emerge",
+      "body": "China's unveiling of a state-backed commercial space consortium indicates a strategic shift towards consolidating resources and expertise in the space sector. This move may bolster China's competitive edge in both commercial and defense-related space activities."
     },
     {
       "icon": "▲",
-      "title": "Budget Boost for Resilience",
-      "body": "The recent $1.4 billion addition to the space resilience budget signals a growing recognition of the need for robust defense capabilities in orbit. This could spur further investment in technologies that enhance security."
+      "title": "Earth Observation Sales Surge",
+      "body": "Earth observation satellites have overtaken telecom in European space industry sales, highlighting a growing demand for data-driven insights. This trend suggests a pivot in market priorities, as nations and businesses increasingly rely on satellite data for decision-making."
     },
     {
       "icon": "◆",
-      "title": "Commercial Reentry Progress",
-      "body": "ElevationSpace's advancements in commercial reentry vehicles highlight the industry's pivot towards practical applications of space technology. Yet, the path to market remains fraught with technical and regulatory challenges."
+      "title": "Defense-Tech IPOs on the Horizon",
+      "body": "The defense-tech IPO window appears to be cracking open, with companies like Palantir securing substantial extensions on contracts. This could signal a shift in investor interest towards firms that combine traditional defense capabilities with innovative technologies."
     }
   ],
-  "updated": "2026-07-10 16:21 UTC"
+  "updated": "2026-07-11 14:23 UTC"
 }
