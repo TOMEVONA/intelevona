@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-12",
   "issue": "No. 82",
-  "headline": "Propulsion tests. Satellites reflect. Budgets grow.",
-  "deck": "This week highlights propulsion developments, satellite approvals, and budget increases in the space sector.",
+  "headline": "Funding flows. Satellites soar. Propulsion preps.",
+  "deck": "This week, satellite sales outpace telecom, and funding rounds keep rolling in.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "PROPULSION",
-      "head": "Parabilis shows small satellites need big engines",
-      "body": "Parabilis is testing a hybrid propulsion system for maneuverable cubesats, supported by the Space Force. This comes as the company aims to enhance satellite maneuverability, proving that even the smallest players in the space game require substantial thrust. The investment showcases a growing recognition that propulsion is critical, even for the pint-sized satellites.",
-      "soWhat": "If small satellites need big engines, it’s a reminder that the space race isn't just for the giants anymore."
+      "head": "Parabilis tests propulsion, Space Force approves",
+      "body": "Parabilis has begun testing a hybrid propulsion system aimed at maneuverable cubesats, backed by the Space Force. This initiative underscores the military's growing interest in small satellite capabilities, which could lead to more versatile operational strategies in space. The push for propulsion technology reflects a broader trend where even the smallest players are getting a boost.",
+      "soWhat": "If small satellites are getting a propulsion upgrade, expect a rush to market as companies scramble to differentiate their services."
     },
     {
-      "kicker": "REGULATION",
-      "head": "FCC greenlights Reflect Orbital's nighttime satellite",
-      "body": "The FCC has approved Reflect Orbital's satellite designed to reflect sunlight at night, raising eyebrows among astronomers and environmentalists alike. The approval adds to the ongoing debate about the implications of more artificial light in our skies, which could alter both astronomical observations and ecological balances. Reflect Orbital now has the green light to launch its night-time spectacle.",
-      "soWhat": "This could be the first of many satellites that make the night sky look like a disco ball, and astronomers might not be the only ones who care."
+      "kicker": "SALES",
+      "head": "Earth observation satellites eclipse telecom revenue",
+      "body": "Sales in the European space industry have seen earth observation satellites surpass telecom for the first time, marking a significant shift in market dynamics. This trend is likely fueled by increasing demand for environmental monitoring and data analytics, as companies and governments prioritize earth-centric applications. The shift suggests that the planet's health is now more lucrative than the chatter above it.",
+      "soWhat": "Watch for telecom companies to pivot; they might need to diversify or risk being left behind in the data gold rush."
     },
     {
-      "kicker": "FINANCE",
-      "head": "True Anomaly raises $190M amid defense pull",
-      "body": "True Anomaly has secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The funding highlights the increasing demand for co-orbital security and space domain awareness, with the Department of Defense's growing influence evident in the investment. The round underscores a shift where cash is king, often outpacing actual innovation.",
-      "soWhat": "In a landscape where funding often trumps technological advancement, True Anomaly's success could be a bellwether for future investments."
+      "kicker": "FUNDING",
+      "head": "True Anomaly secures $190M for co-orbital security",
+      "body": "True Anomaly has closed a $190 million Series C funding round, reaching a valuation of $1.6 billion. This funding round highlights the increasing importance of co-orbital security and space domain awareness, particularly in light of rising geopolitical tensions. With the DoD's backing, True Anomaly is positioning itself as a key player in the defense space.",
+      "soWhat": "This funding isn't just about cash; it signals a strategic pivot towards space security, which could reshape defense contracts in the coming years."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Anduril and L3Harris",
-      "body": "Their collaboration on a tactical SDA constellation bid could reshape government procurement strategies."
+      "title": "Reflect Orbital's satellite tests begin soon",
+      "body": "With the FCC's approval, Reflect Orbital's satellite will soon test its sunlight reflecting technology, raising questions about its implications for astronomy and environmental monitoring."
     },
     {
-      "title": "Monitor the European space sales trend",
-      "body": "Earth observation satellites overtaking telecom revenue might signal a shift in European investment priorities."
+      "title": "Anduril and L3Harris bid for SDA constellation",
+      "body": "Their partnership could signal a new era of tactical space operations, but only if they can convince the government of its necessity."
     },
     {
-      "title": "Reflect Orbital's launch schedule",
-      "body": "With FCC approval in hand, the timing of Reflect's launch will be critical in gauging market interest."
+      "title": "Sierra Space's Dream Chaser launch timeline unclear",
+      "body": "Having passed its critical design review, the next steps for the Dream Chaser remain murky; delays could cost them valuable contracts."
     },
     {
-      "title": "Watch for Space Force contract developments",
-      "body": "The recent $500M tech awards indicate a push for more commercial partnerships, which could affect procurement strategies."
+      "title": "Palantir's TITAN extension raises eyebrows",
+      "body": "The $480 million extension on the TITAN program underscores the government's insatiable appetite for data, but raises questions about the long-term strategy."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains stagnant as it awaits clear revenue streams from its space tourism plans."
+    },
+    {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program shows the government’s unyielding demand for data."
+      "note": "Palantir's recent $480 million extension highlights its entrenched position in defense, but investors are wary of future growth."
     },
     {
-      "sym": "ASTS",
-      "note": "The bull case for ASTS highlights the precarious balance between execution and potential disaster."
+      "sym": "KLR",
+      "note": "Kleos Space's latest satellite launch has investors on edge as they aim to capture the growing demand for earth observation data."
     },
     {
-      "sym": "SLS",
-      "note": "Sierra Space's Dream Chaser variant passing its design review is a step forward, but the launch remains a hurdle."
-    },
-    {
-      "sym": "K2",
-      "note": "K2 Space's $110M Series B reflects a strong interest in high-power satellite capabilities for national security."
+      "sym": "SFTW",
+      "note": "Spire Global's stock fluctuates as it navigates the competitive landscape of satellite data services amid rising demand."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
