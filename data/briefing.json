@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-12",
-  "issue": "No. 82",
-  "headline": "Funding flows. Satellites soar. Propulsion preps.",
-  "deck": "This week, satellite sales outpace telecom, and funding rounds keep rolling in.",
+  "updated": "2026-07-13",
+  "issue": "No. 83",
+  "headline": "Funding flows. Acquisitions happen. Tests delay.",
+  "deck": "This week saw a mix of funding successes and notable acquisitions, while tests continued to slip.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "PROPULSION",
-      "head": "Parabilis tests propulsion, Space Force approves",
-      "body": "Parabilis has begun testing a hybrid propulsion system aimed at maneuverable cubesats, backed by the Space Force. This initiative underscores the military's growing interest in small satellite capabilities, which could lead to more versatile operational strategies in space. The push for propulsion technology reflects a broader trend where even the smallest players are getting a boost.",
-      "soWhat": "If small satellites are getting a propulsion upgrade, expect a rush to market as companies scramble to differentiate their services."
-    },
-    {
-      "kicker": "SALES",
-      "head": "Earth observation satellites eclipse telecom revenue",
-      "body": "Sales in the European space industry have seen earth observation satellites surpass telecom for the first time, marking a significant shift in market dynamics. This trend is likely fueled by increasing demand for environmental monitoring and data analytics, as companies and governments prioritize earth-centric applications. The shift suggests that the planet's health is now more lucrative than the chatter above it.",
-      "soWhat": "Watch for telecom companies to pivot; they might need to diversify or risk being left behind in the data gold rush."
-    },
-    {
       "kicker": "FUNDING",
-      "head": "True Anomaly secures $190M for co-orbital security",
-      "body": "True Anomaly has closed a $190 million Series C funding round, reaching a valuation of $1.6 billion. This funding round highlights the increasing importance of co-orbital security and space domain awareness, particularly in light of rising geopolitical tensions. With the DoD's backing, True Anomaly is positioning itself as a key player in the defense space.",
-      "soWhat": "This funding isn't just about cash; it signals a strategic pivot towards space security, which could reshape defense contracts in the coming years."
+      "head": "True Anomaly raises $190M amidst co-orbital hype",
+      "body": "True Anomaly secured a $190 million Series C round, bringing its valuation to $1.6 billion. The funding underscores the growing defense focus on co-orbital security and space domain awareness. As the DoD seeks innovative solutions, True Anomaly seems poised to capitalize on this trend.",
+      "soWhat": "Investors are clearly betting that co-orbital security will be the next big thing, but let’s hope they aren’t just throwing darts at a board."
+    },
+    {
+      "kicker": "ACQUISITION",
+      "head": "Voyager snags Astrobotic for lunar ambitions",
+      "body": "Voyager Technologies has acquired Astrobotic Technology, just as the latter gears up for NASA's lunar lander missions. The deal positions Voyager to tap into the burgeoning lunar economy, which is expected to be worth billions. This acquisition comes at a time when lunar activities are ramping up significantly.",
+      "soWhat": "Acquiring a lunar lander company is like buying beachfront property before the ocean rises—timing is everything."
+    },
+    {
+      "kicker": "TESTING",
+      "head": "Hypersonic glide-vehicle tests face another delay",
+      "body": "The hypersonic glide-vehicle test has been delayed for the third consecutive quarter, raising questions about the program's viability. This marks a troubling trend for a technology that is supposed to be at the forefront of national defense. Delays like this could have implications for both funding and strategic planning.",
+      "soWhat": "If hypersonic tests keep slipping, we might need to redefine 'rapid prototyping' to mean 'whenever we get around to it.'"
     }
   ],
   "watchlist": [
     {
-      "title": "Reflect Orbital's satellite tests begin soon",
-      "body": "With the FCC's approval, Reflect Orbital's satellite will soon test its sunlight reflecting technology, raising questions about its implications for astronomy and environmental monitoring."
+      "title": "Keep an eye on lunar developments",
+      "body": "With NASA's plans for a moon base and increasing private investments, the lunar landscape is changing rapidly."
     },
     {
-      "title": "Anduril and L3Harris bid for SDA constellation",
-      "body": "Their partnership could signal a new era of tactical space operations, but only if they can convince the government of its necessity."
+      "title": "Sierra Space's next steps post-design review",
+      "body": "Now that the Dream Chaser DoD variant has passed its design review, the pressure is on for a timely launch."
     },
     {
-      "title": "Sierra Space's Dream Chaser launch timeline unclear",
-      "body": "Having passed its critical design review, the next steps for the Dream Chaser remain murky; delays could cost them valuable contracts."
+      "title": "Palantir's government contracts expansion",
+      "body": "With a $480 million extension on its TITAN program, Palantir is deepening its ties with the DoD."
     },
     {
-      "title": "Palantir's TITAN extension raises eyebrows",
-      "body": "The $480 million extension on the TITAN program underscores the government's insatiable appetite for data, but raises questions about the long-term strategy."
+      "title": "China's Long March 10C as a commercial player",
+      "body": "China's new rocket could reshape commercial launch dynamics, particularly as it gains traction in the global market."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains stagnant as it awaits clear revenue streams from its space tourism plans."
+      "sym": "TRUE",
+      "note": "True Anomaly's $190M funding round highlights strong investor confidence in co-orbital security."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's recent $480 million extension highlights its entrenched position in defense, but investors are wary of future growth."
+      "sym": "VOYAGER",
+      "note": "Voyager's acquisition of Astrobotic positions it well for upcoming lunar missions."
     },
     {
-      "sym": "KLR",
-      "note": "Kleos Space's latest satellite launch has investors on edge as they aim to capture the growing demand for earth observation data."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480M extension shows the government's appetite for data solutions is far from sated."
     },
     {
-      "sym": "SFTW",
-      "note": "Spire Global's stock fluctuates as it navigates the competitive landscape of satellite data services amid rising demand."
+      "sym": "Sierra",
+      "note": "Sierra Space's Dream Chaser variant passed critical design review, but the launch timeline remains uncertain."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is navigating a mix of innovation and regulatory approvals, with propulsion tests and satellite deployments taking center stage. Meanwhile, the hiring landscape is evolving, and budget allocations are hinting at a focus on resilience.",
+  "summary": "The space and defense sectors are buzzing with activity as funding flows into optical ground stations and lunar defense initiatives take shape. Meanwhile, acquisitions and partnerships signal a push towards more integrated and resilient space capabilities.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Cubesats Get Maneuverable Boost",
-      "body": "Parabilis is making strides with its propulsion system for cubesats, which could enhance maneuverability in increasingly crowded orbits. This development may set the stage for more agile satellite operations in the future."
+      "title": "Funding for Optical Solutions",
+      "body": "QOSMIC's recent $3.33 million raise highlights a growing interest in the orbital data economy. As optical ground stations become a focal point, expect more players to enter this niche market."
     },
     {
       "icon": "◉",
-      "title": "FCC's Satellite Approvals Continue",
-      "body": "The FCC's green light for Reflect Orbital's satellite marks another step in the ongoing expansion of commercial space capabilities. This approval underscores the regulatory landscape's role in shaping the competitive dynamics of satellite services."
+      "title": "Acquisitions and Partnerships",
+      "body": "Voyager's acquisition of Astrobotic and Anduril's collaboration with L3Harris underscore a trend towards consolidation in the space industry. These moves are likely aimed at enhancing technological capabilities and market positioning."
     },
     {
       "icon": "▲",
-      "title": "Hiring Dilemmas in Space Sector",
-      "body": "The space industry is grappling with the paradox of ambitious hiring goals against the backdrop of legacy workforce challenges. As companies seek fresh talent, the balance between innovation and experience remains a critical consideration."
+      "title": "Defense Budget Increases",
+      "body": "The FY27 budget markup adding $1.4 billion to space resilience reflects a strategic pivot towards bolstering national security in space. This infusion of funds could lead to accelerated development and deployment of critical technologies."
     },
     {
       "icon": "◆",
-      "title": "Defense Budgets Signal Strategic Shift",
-      "body": "The FY27 budget markup's $1.4 billion boost for space resilience reflects a growing acknowledgment of the strategic importance of space in national defense. This financial commitment may catalyze further advancements in space technology and infrastructure."
+      "title": "Challenges in Hypersonics",
+      "body": "The continued delays in hypersonic glide-vehicle testing point to persistent technical hurdles in this high-stakes arena. As the third quarter slips by without progress, the implications for defense strategies remain uncertain."
     }
   ],
-  "updated": "2026-07-12 14:51 UTC"
+  "updated": "2026-07-13 15:45 UTC"
 }
