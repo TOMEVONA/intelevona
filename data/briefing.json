@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-13",
   "issue": "No. 83",
-  "headline": "Funding flows. Acquisitions happen. Tests delay.",
-  "deck": "This week saw a mix of funding successes and notable acquisitions, while tests continued to slip.",
+  "headline": "Funding flows. Acquisitions happen. Reentries succeed.",
+  "deck": "This week saw notable funding rounds and strategic acquisitions in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amidst co-orbital hype",
-      "body": "True Anomaly secured a $190 million Series C round, bringing its valuation to $1.6 billion. The funding underscores the growing defense focus on co-orbital security and space domain awareness. As the DoD seeks innovative solutions, True Anomaly seems poised to capitalize on this trend.",
-      "soWhat": "Investors are clearly betting that co-orbital security will be the next big thing, but let’s hope they aren’t just throwing darts at a board."
+      "head": "QOSMIC raises $3.33 million for optical ground stations",
+      "body": "QOSMIC has successfully raised $3.33 million to develop optical ground stations aimed at enhancing the orbital data economy. This funding round, backed by Accel and Prosus, highlights the competitive nature of space financing, where even the ground operations are vying for attention. The need for efficient data transmission methods is only set to increase as more satellites populate the skies.",
+      "soWhat": "If QOSMIC can deliver on this promise, it might just carve out a niche in a crowded market where everyone is selling the same data."
     },
     {
       "kicker": "ACQUISITION",
-      "head": "Voyager snags Astrobotic for lunar ambitions",
-      "body": "Voyager Technologies has acquired Astrobotic Technology, just as the latter gears up for NASA's lunar lander missions. The deal positions Voyager to tap into the burgeoning lunar economy, which is expected to be worth billions. This acquisition comes at a time when lunar activities are ramping up significantly.",
-      "soWhat": "Acquiring a lunar lander company is like buying beachfront property before the ocean rises—timing is everything."
+      "head": "Voyager acquires Astrobotic before lunar missions",
+      "body": "Voyager Technologies has completed its acquisition of Astrobotic Technology, just as Astrobotic prepares to tackle two NASA lunar lander missions. The timing of this acquisition is particularly noteworthy, as it positions Voyager to leverage Astrobotic's capabilities in a high-stakes lunar landscape. With the lunar race heating up, this move could pay dividends if Astrobotic delivers.",
+      "soWhat": "This acquisition underscores that in space, timing can be as critical as technology; missing the lunar boat could leave Voyager adrift."
     },
     {
-      "kicker": "TESTING",
-      "head": "Hypersonic glide-vehicle tests face another delay",
-      "body": "The hypersonic glide-vehicle test has been delayed for the third consecutive quarter, raising questions about the program's viability. This marks a troubling trend for a technology that is supposed to be at the forefront of national defense. Delays like this could have implications for both funding and strategic planning.",
-      "soWhat": "If hypersonic tests keep slipping, we might need to redefine 'rapid prototyping' to mean 'whenever we get around to it.'"
+      "kicker": "TECHNOLOGY",
+      "head": "Sierra Space's Dream Chaser variant clears design review",
+      "body": "Sierra Space's Dream Chaser variant for the Department of Defense has successfully passed its critical design review, a key milestone in its development. While this is a step forward, the actual launch timeline remains uncertain, leaving stakeholders in a state of cautious optimism. The Dream Chaser's versatility could be a significant asset for military applications if it ever gets off the ground.",
+      "soWhat": "The real question is whether Sierra can turn this review into a launch—because in aerospace, design reviews are just the appetizer."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on lunar developments",
-      "body": "With NASA's plans for a moon base and increasing private investments, the lunar landscape is changing rapidly."
+      "title": "Keep an eye on True Anomaly's next moves",
+      "body": "With a recent $190 million Series C, True Anomaly is poised to make waves in co-orbital security and space domain awareness."
     },
     {
-      "title": "Sierra Space's next steps post-design review",
-      "body": "Now that the Dream Chaser DoD variant has passed its design review, the pressure is on for a timely launch."
+      "title": "Reditus Space's reentry vehicle performance",
+      "body": "Having completed its first reentry vehicle, Reditus Space's next steps will be crucial in establishing its reputation in reusable spacecraft."
     },
     {
-      "title": "Palantir's government contracts expansion",
-      "body": "With a $480 million extension on its TITAN program, Palantir is deepening its ties with the DoD."
+      "title": "Palantir's TITAN program extension implications",
+      "body": "Palantir's $480 million extension on the TITAN program may signal increased government reliance on commercial data solutions."
     },
     {
-      "title": "China's Long March 10C as a commercial player",
-      "body": "China's new rocket could reshape commercial launch dynamics, particularly as it gains traction in the global market."
+      "title": "Anduril and L3Harris tactical bid outcomes",
+      "body": "As Anduril and L3Harris team up for a tactical SDA constellation bid, the implications for defense procurement could reshape future contracts."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "TRUE",
-      "note": "True Anomaly's $190M funding round highlights strong investor confidence in co-orbital security."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains volatile as it navigates the challenges of commercial space travel."
     },
     {
-      "sym": "VOYAGER",
-      "note": "Voyager's acquisition of Astrobotic positions it well for upcoming lunar missions."
+      "sym": "PLTR",
+      "note": "Palantir's extension on the TITAN program reinforces its position as a government data provider."
     },
     {
-      "sym": "PALANTIR",
-      "note": "Palantir's $480M extension shows the government's appetite for data solutions is far from sated."
+      "sym": "ASTR",
+      "note": "Astranis' recent $250 million funding round underscores its ambitions in the microGEO satellite market."
     },
     {
-      "sym": "Sierra",
-      "note": "Sierra Space's Dream Chaser variant passed critical design review, but the launch timeline remains uncertain."
+      "sym": "SFTW",
+      "note": "The Defense-Tech IPO window is tentatively opening, which could mean a shift in investor interest."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

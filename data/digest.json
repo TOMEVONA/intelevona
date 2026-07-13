@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity as funding flows into optical ground stations and lunar defense initiatives take shape. Meanwhile, acquisitions and partnerships signal a push towards more integrated and resilient space capabilities.",
+  "summary": "This week, the space industry is buzzing with new funding rounds, acquisitions, and a few notable technological developments. From optical ground stations to lunar defense preparations, the landscape is evolving, albeit with some hiccups in hypersonic testing.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding for Optical Solutions",
-      "body": "QOSMIC's recent $3.33 million raise highlights a growing interest in the orbital data economy. As optical ground stations become a focal point, expect more players to enter this niche market."
+      "title": "Funding for Ground Stations",
+      "body": "QOSMIC's recent $3.33 million raise highlights the growing interest in the orbital data economy. Optical ground stations are becoming a focal point as the demand for data from space increases."
     },
     {
       "icon": "◉",
-      "title": "Acquisitions and Partnerships",
-      "body": "Voyager's acquisition of Astrobotic and Anduril's collaboration with L3Harris underscore a trend towards consolidation in the space industry. These moves are likely aimed at enhancing technological capabilities and market positioning."
+      "title": "Acquisitions and Collaborations",
+      "body": "Voyager's acquisition of Astrobotic signals a consolidation trend in the lunar exploration sector. Meanwhile, Anduril and L3Harris teaming up for a tactical SDA constellation bid reflects a strategic push towards enhanced space situational awareness."
     },
     {
       "icon": "▲",
-      "title": "Defense Budget Increases",
-      "body": "The FY27 budget markup adding $1.4 billion to space resilience reflects a strategic pivot towards bolstering national security in space. This infusion of funds could lead to accelerated development and deployment of critical technologies."
+      "title": "Military Space Resilience Boost",
+      "body": "The FY27 budget markup's $1.4 billion allocation for space resilience indicates a serious commitment to fortifying U.S. capabilities in orbit. This funding could catalyze advancements in both defensive and offensive space technologies."
     },
     {
       "icon": "◆",
-      "title": "Challenges in Hypersonics",
-      "body": "The continued delays in hypersonic glide-vehicle testing point to persistent technical hurdles in this high-stakes arena. As the third quarter slips by without progress, the implications for defense strategies remain uncertain."
+      "title": "Hypersonic Testing Delays",
+      "body": "The latest hypersonic glide-vehicle test has slipped yet again, marking the third consecutive quarter of delays. This raises questions about the reliability of hypersonic technologies amid increasing geopolitical tensions."
     }
   ],
-  "updated": "2026-07-13 15:45 UTC"
+  "updated": "2026-07-13 16:26 UTC"
 }
