@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity as new strategies and funding rounds emerge. Notably, the U.K. is gearing up for a fresh space strategy while defense spending continues to bolster Europe’s space economy.",
+  "summary": "The space and defense sectors are experiencing a mix of strategic shifts and funding boosts as governments and companies alike scramble to enhance capabilities. With significant investments flowing into satellite technology and defense strategies, the landscape is evolving rapidly, albeit with some hiccups in hypersonic testing.",
   "themes": [
     {
       "icon": "▣",
-      "title": "New U.K. Space Strategy",
-      "body": "The U.K. government is preparing to unveil a new space strategy, signaling a potential shift in its approach to space policy. This could have ripple effects across the European space landscape as nations recalibrate their priorities."
+      "title": "Funding Floodgates Open",
+      "body": "Flexell Space's recent $20 million Series A round and True Anomaly's $190 million Series C demonstrate the growing investor appetite for space startups. Meanwhile, the U.K. government's forthcoming space strategy hints at a broader commitment to bolstering its own space economy."
     },
     {
       "icon": "◉",
-      "title": "Defense Spending Boosts Space",
-      "body": "In Europe, increased defense budgets are providing a much-needed lift to the space economy. This trend could catalyze further investment in satellite technology and space infrastructure."
+      "title": "Defense Spending Surge",
+      "body": "Europe's space economy is buoyed by increased defense spending, with the FY27 budget markup adding $1.4 billion to space resilience initiatives. This financial injection is likely to catalyze further collaboration between government and private sectors."
     },
     {
       "icon": "▲",
-      "title": "Funding Rounds Flourish",
-      "body": "Flexell Space's $20 million Series A and True Anomaly's $190 million Series C highlight a growing appetite for investment in the space sector. As the defense-tech IPO window creaks open, expect more startups to seek capital."
+      "title": "Satellite Expansion Plans",
+      "body": "L3Harris and Sierra Space are set to enhance the U.S. missile-tracking network with 36 new satellites, while Anduril and L3Harris are teaming up for a tactical satellite constellation bid. These moves underscore the escalating competition in the satellite domain."
     },
     {
       "icon": "◆",
-      "title": "SDA and Missile-Tracking Expansion",
-      "body": "L3Harris and Sierra Space's collaboration on a new satellite constellation aims to enhance the U.S. missile-tracking network. This initiative underscores the increasing intertwining of defense capabilities with space technology."
+      "title": "Hypersonic Hurdles Persist",
+      "body": "The hypersonic glide-vehicle test has once again slipped, marking the third consecutive quarter of delays. This raises questions about the reliability of timelines in a field where speed is of the essence."
     }
   ],
-  "updated": "2026-07-14 14:58 UTC"
+  "updated": "2026-07-14 15:20 UTC"
 }

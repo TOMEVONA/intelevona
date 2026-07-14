@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-14",
   "issue": "No. 84",
-  "headline": "Funding flows. Partnerships deepen. Strategies emerge.",
-  "deck": "This week, defense spending fuels growth while new ventures spring up.",
+  "headline": "Funding flows. Defense budgets swell. Satellites multiply.",
+  "deck": "This week saw significant investments in space and defense sectors, highlighting a growing appetite for satellite technology.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190 million for co-orbital security",
-      "body": "True Anomaly secured $190 million in Series C funding, bringing its valuation to $1.6 billion. The investment underscores the increasing demand for co-orbital security solutions as the Department of Defense ramps up its focus on space domain awareness. With the DoD's pull-through effect, True Anomaly is positioned to capitalize on the growing market for satellite defense.",
-      "soWhat": "In an era where space threats are becoming more sophisticated, True Anomaly's funding suggests that investors are betting on the military's need for enhanced security measures."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured $190 million in a Series C round, pushing its valuation to $1.6 billion. The funding will bolster its efforts in co-orbital security and space domain awareness, appealing to the Department of Defense's increasing focus on space vulnerabilities. With DoD pull-through now in full effect, the company is positioning itself as a key player in a sector that is only becoming more crucial.",
+      "soWhat": "Investors seem to believe that space security is the new gold rush, even if the 'innovation' is just repackaged surveillance."
     },
     {
-      "kicker": "PARTNERSHIP",
-      "head": "L3Harris and Sierra Space team for missile-tracking satellites",
-      "body": "L3Harris and Sierra Space are collaborating to build 36 satellites aimed at expanding the U.S. missile-tracking network. This partnership highlights a significant shift in defense priorities, as the U.S. government increasingly invests in technologies to address emerging threats. The deal adds to the $15.4 billion European space budget increase, showing that missile defense is a global concern.",
-      "soWhat": "With both companies cashing in on defense budgets, this partnership reflects the broader trend of military spending driving innovation in space technology."
+      "kicker": "DEFENSE",
+      "head": "L3Harris and Sierra Space score $1.75B missile-tracking deal",
+      "body": "L3Harris and Sierra Space have been awarded a hefty $1.75 billion contract to build 36 satellites aimed at enhancing the U.S. missile-tracking network. This deal underscores the rising defense budgets, which are up 12% in Europe and likely to follow suit in the U.S. as geopolitical tensions persist. The partnership is a clear signal that the U.S. is doubling down on its missile defense capabilities.",
+      "soWhat": "If you thought defense spending was plateauing, think again; the sky's quite literally the limit."
     },
     {
       "kicker": "STRATEGY",
-      "head": "U.K. prepares new space strategy amid competition",
-      "body": "The U.K. government is gearing up to unveil a new space strategy, likely in response to increasing competition from nations like the U.S. and China. This strategy aims to bolster the U.K.'s position in the global space race, with a focus on commercial partnerships and technological advancements. As the U.K. seeks to keep pace, the strategy's details will be closely watched by industry stakeholders.",
-      "soWhat": "If the U.K. wants to remain relevant in the space industry, it needs more than just a strategy; it needs a solid execution plan that attracts investment and talent."
+      "head": "U.K. plans new space strategy amid vague aspirations",
+      "body": "The U.K. government is preparing to unveil a new space strategy, which is expected to be a bureaucratic masterpiece of vague aspirations. While details remain scarce, the emphasis on aligning with commercial space initiatives suggests a desire to keep pace with competitors like the U.S. and China. However, the strategy could easily become another exercise in fluff without concrete commitments or funding.",
+      "soWhat": "If past strategies are any guide, this might just be a way to fill the airwaves without actually moving the needle."
     }
   ],
   "watchlist": [
     {
-      "title": "Antaris™ launches Aeonyx™ for defense",
-      "body": "Antaris™'s new venture will be scrutinized for its ability to deliver on mission virtualization promises."
+      "title": "Keep an eye on Flexell Space's $20M Series A",
+      "body": "Investors are still willing to back solar solutions, which might indicate a shift in focus toward sustainable space technologies."
     },
     {
-      "title": "Palantir's $480M extension implications",
-      "body": "Palantir's continued funding may signal a long-term commitment to military data solutions."
+      "title": "Sierra Space's Dream Chaser variant progresses",
+      "body": "With its critical design review cleared, the Dream Chaser's timeline will be under scrutiny as the DoD variant aims for operational readiness."
     },
     {
-      "title": "Founders Fund reviews space portfolio",
-      "body": "Potential shifts in investment strategy could impact several startups in the space sector."
+      "title": "Palantir's TITAN extension could signal more government contracts",
+      "body": "The $480 million extension may set a precedent for similar extensions as the government continues to seek data solutions."
     },
     {
-      "title": "Hypersonic glide-vehicle test delays",
-      "body": "Further delays may hinder the U.S. military's hypersonic capabilities and impact future budgets."
+      "title": "Watch for updates on Anduril and L3Harris partnership",
+      "body": "Their tactical SDA constellation bid could reshape how the U.S. approaches space-based defense."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains stagnant as it waits for its next flight."
+      "sym": "LHX",
+      "note": "L3Harris's $1.75B contract boosts its defense profile significantly."
     },
     {
-      "sym": "LHX",
-      "note": "L3Harris is capitalizing on defense contracts, boosting its stock prospects."
+      "sym": "SSP",
+      "note": "Sierra Space's progress on Dream Chaser is crucial for its future contracts."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's extension on the TITAN program keeps investors interested despite market volatility."
+      "note": "Palantir's $480M contract extension keeps it firmly in the government's good graces."
     },
     {
-      "sym": "SFTW",
-      "note": "Stoke Space's recent funding round indicates investor confidence in its reusable launch technology."
+      "sym": "FLXL",
+      "note": "Flexell Space's $20M funding round shows investors still believe in solar tech for space."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
