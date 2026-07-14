@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-13",
-  "issue": "No. 83",
-  "headline": "Funding flows. Acquisitions happen. Reentries succeed.",
-  "deck": "This week saw notable funding rounds and strategic acquisitions in the space sector.",
+  "updated": "2026-07-14",
+  "issue": "No. 84",
+  "headline": "Funding flows. Partnerships deepen. Strategies emerge.",
+  "deck": "This week, defense spending fuels growth while new ventures spring up.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "QOSMIC raises $3.33 million for optical ground stations",
-      "body": "QOSMIC has successfully raised $3.33 million to develop optical ground stations aimed at enhancing the orbital data economy. This funding round, backed by Accel and Prosus, highlights the competitive nature of space financing, where even the ground operations are vying for attention. The need for efficient data transmission methods is only set to increase as more satellites populate the skies.",
-      "soWhat": "If QOSMIC can deliver on this promise, it might just carve out a niche in a crowded market where everyone is selling the same data."
+      "head": "True Anomaly raises $190 million for co-orbital security",
+      "body": "True Anomaly secured $190 million in Series C funding, bringing its valuation to $1.6 billion. The investment underscores the increasing demand for co-orbital security solutions as the Department of Defense ramps up its focus on space domain awareness. With the DoD's pull-through effect, True Anomaly is positioned to capitalize on the growing market for satellite defense.",
+      "soWhat": "In an era where space threats are becoming more sophisticated, True Anomaly's funding suggests that investors are betting on the military's need for enhanced security measures."
     },
     {
-      "kicker": "ACQUISITION",
-      "head": "Voyager acquires Astrobotic before lunar missions",
-      "body": "Voyager Technologies has completed its acquisition of Astrobotic Technology, just as Astrobotic prepares to tackle two NASA lunar lander missions. The timing of this acquisition is particularly noteworthy, as it positions Voyager to leverage Astrobotic's capabilities in a high-stakes lunar landscape. With the lunar race heating up, this move could pay dividends if Astrobotic delivers.",
-      "soWhat": "This acquisition underscores that in space, timing can be as critical as technology; missing the lunar boat could leave Voyager adrift."
+      "kicker": "PARTNERSHIP",
+      "head": "L3Harris and Sierra Space team for missile-tracking satellites",
+      "body": "L3Harris and Sierra Space are collaborating to build 36 satellites aimed at expanding the U.S. missile-tracking network. This partnership highlights a significant shift in defense priorities, as the U.S. government increasingly invests in technologies to address emerging threats. The deal adds to the $15.4 billion European space budget increase, showing that missile defense is a global concern.",
+      "soWhat": "With both companies cashing in on defense budgets, this partnership reflects the broader trend of military spending driving innovation in space technology."
     },
     {
-      "kicker": "TECHNOLOGY",
-      "head": "Sierra Space's Dream Chaser variant clears design review",
-      "body": "Sierra Space's Dream Chaser variant for the Department of Defense has successfully passed its critical design review, a key milestone in its development. While this is a step forward, the actual launch timeline remains uncertain, leaving stakeholders in a state of cautious optimism. The Dream Chaser's versatility could be a significant asset for military applications if it ever gets off the ground.",
-      "soWhat": "The real question is whether Sierra can turn this review into a launch—because in aerospace, design reviews are just the appetizer."
+      "kicker": "STRATEGY",
+      "head": "U.K. prepares new space strategy amid competition",
+      "body": "The U.K. government is gearing up to unveil a new space strategy, likely in response to increasing competition from nations like the U.S. and China. This strategy aims to bolster the U.K.'s position in the global space race, with a focus on commercial partnerships and technological advancements. As the U.K. seeks to keep pace, the strategy's details will be closely watched by industry stakeholders.",
+      "soWhat": "If the U.K. wants to remain relevant in the space industry, it needs more than just a strategy; it needs a solid execution plan that attracts investment and talent."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on True Anomaly's next moves",
-      "body": "With a recent $190 million Series C, True Anomaly is poised to make waves in co-orbital security and space domain awareness."
+      "title": "Antaris™ launches Aeonyx™ for defense",
+      "body": "Antaris™'s new venture will be scrutinized for its ability to deliver on mission virtualization promises."
     },
     {
-      "title": "Reditus Space's reentry vehicle performance",
-      "body": "Having completed its first reentry vehicle, Reditus Space's next steps will be crucial in establishing its reputation in reusable spacecraft."
+      "title": "Palantir's $480M extension implications",
+      "body": "Palantir's continued funding may signal a long-term commitment to military data solutions."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "Palantir's $480 million extension on the TITAN program may signal increased government reliance on commercial data solutions."
+      "title": "Founders Fund reviews space portfolio",
+      "body": "Potential shifts in investment strategy could impact several startups in the space sector."
     },
     {
-      "title": "Anduril and L3Harris tactical bid outcomes",
-      "body": "As Anduril and L3Harris team up for a tactical SDA constellation bid, the implications for defense procurement could reshape future contracts."
+      "title": "Hypersonic glide-vehicle test delays",
+      "body": "Further delays may hinder the U.S. military's hypersonic capabilities and impact future budgets."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates the challenges of commercial space travel."
+      "note": "Virgin Galactic's stock remains stagnant as it waits for its next flight."
+    },
+    {
+      "sym": "LHX",
+      "note": "L3Harris is capitalizing on defense contracts, boosting its stock prospects."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's extension on the TITAN program reinforces its position as a government data provider."
-    },
-    {
-      "sym": "ASTR",
-      "note": "Astranis' recent $250 million funding round underscores its ambitions in the microGEO satellite market."
+      "note": "Palantir's extension on the TITAN program keeps investors interested despite market volatility."
     },
     {
       "sym": "SFTW",
-      "note": "The Defense-Tech IPO window is tentatively opening, which could mean a shift in investor interest."
+      "note": "Stoke Space's recent funding round indicates investor confidence in its reusable launch technology."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
