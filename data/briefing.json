@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-14",
-  "issue": "No. 84",
-  "headline": "Funding flows. Defense budgets swell. Satellites multiply.",
-  "deck": "This week saw significant investments in space and defense sectors, highlighting a growing appetite for satellite technology.",
+  "updated": "2026-07-15",
+  "issue": "No. 85",
+  "headline": "Satellite investments surge. Space debris looms. Robotics power up.",
+  "deck": "This week sees record satellite funding, debris cleanup efforts, and robotics partnerships.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190 million in a Series C round, pushing its valuation to $1.6 billion. The funding will bolster its efforts in co-orbital security and space domain awareness, appealing to the Department of Defense's increasing focus on space vulnerabilities. With DoD pull-through now in full effect, the company is positioning itself as a key player in a sector that is only becoming more crucial.",
-      "soWhat": "Investors seem to believe that space security is the new gold rush, even if the 'innovation' is just repackaged surveillance."
+      "head": "Satellite investments hit $8.1 billion halfway through 2026",
+      "body": "Satellite investments reached a staggering $8.1 billion in the first half of 2026, setting a new annual record. This surge suggests that investors are increasingly betting on the orbital economy as a lucrative frontier. With companies like True Anomaly and Astranis securing significant funding, the trend shows no signs of slowing.",
+      "soWhat": "If this keeps up, we might soon see more satellites than stars in the sky, which is both amusing and slightly alarming."
     },
     {
-      "kicker": "DEFENSE",
-      "head": "L3Harris and Sierra Space score $1.75B missile-tracking deal",
-      "body": "L3Harris and Sierra Space have been awarded a hefty $1.75 billion contract to build 36 satellites aimed at enhancing the U.S. missile-tracking network. This deal underscores the rising defense budgets, which are up 12% in Europe and likely to follow suit in the U.S. as geopolitical tensions persist. The partnership is a clear signal that the U.S. is doubling down on its missile defense capabilities.",
-      "soWhat": "If you thought defense spending was plateauing, think again; the sky's quite literally the limit."
+      "kicker": "DEBRIS",
+      "head": "Florida startup SOAR targets space debris cleanup",
+      "body": "Florida-based startup SOAR is partnering with the University of Texas to develop a passive system aimed at trapping small space debris. This initiative highlights the growing recognition that space litter is a serious issue, with potential costs mounting as more satellites and debris clutter the orbits. The details on how effective this system will be remain to be seen.",
+      "soWhat": "Cleaning up space might soon become the next gold rush, but the real question is whether anyone can make money doing it."
     },
     {
-      "kicker": "STRATEGY",
-      "head": "U.K. plans new space strategy amid vague aspirations",
-      "body": "The U.K. government is preparing to unveil a new space strategy, which is expected to be a bureaucratic masterpiece of vague aspirations. While details remain scarce, the emphasis on aligning with commercial space initiatives suggests a desire to keep pace with competitors like the U.S. and China. However, the strategy could easily become another exercise in fluff without concrete commitments or funding.",
-      "soWhat": "If past strategies are any guide, this might just be a way to fill the airwaves without actually moving the needle."
+      "kicker": "ROBOTICS",
+      "head": "Icarus Robotics selects KULR for Space Station battery needs",
+      "body": "Icarus Robotics has chosen KULR to provide batteries for its robots operating on the International Space Station. This collaboration underscores the importance of reliable power sources in space, especially as robotic roles expand in complex environments. Financial terms weren't disclosed, but the partnership indicates a strategic move in the robotic supply chain.",
+      "soWhat": "Even robots in space can't afford to run out of juice; this partnership might just keep them from having a meltdown—literally."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Flexell Space's $20M Series A",
-      "body": "Investors are still willing to back solar solutions, which might indicate a shift in focus toward sustainable space technologies."
+      "title": "Watch for True Anomaly's next moves",
+      "body": "With $190M in fresh funding, True Anomaly could pivot towards aggressive expansion in co-orbital security."
     },
     {
-      "title": "Sierra Space's Dream Chaser variant progresses",
-      "body": "With its critical design review cleared, the Dream Chaser's timeline will be under scrutiny as the DoD variant aims for operational readiness."
+      "title": "Japan's launch activity plans",
+      "body": "Japan's commitment to ramping up launch activity could signal a new player in the competitive launch market."
     },
     {
-      "title": "Palantir's TITAN extension could signal more government contracts",
-      "body": "The $480 million extension may set a precedent for similar extensions as the government continues to seek data solutions."
+      "title": "Space Force's tech awards implications",
+      "body": "The Space Force's $500M in tech awards may reshape the landscape for commercial partnerships in defense."
     },
     {
-      "title": "Watch for updates on Anduril and L3Harris partnership",
-      "body": "Their tactical SDA constellation bid could reshape how the U.S. approaches space-based defense."
+      "title": "Keep an eye on satellite IPOs",
+      "body": "With the defense-tech IPO window showing signs of life, expect some interesting moves from satellite players."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "LHX",
-      "note": "L3Harris's $1.75B contract boosts its defense profile significantly."
+      "sym": "TRU",
+      "note": "True Anomaly's $190M Series C funding shows strong investor confidence in co-orbital security."
     },
     {
-      "sym": "SSP",
-      "note": "Sierra Space's progress on Dream Chaser is crucial for its future contracts."
+      "sym": "ASTR",
+      "note": "Astranis's $250M strategic funding round indicates a robust push for microGEO production."
+    },
+    {
+      "sym": "Sierra Space",
+      "note": "Sierra Space's Dream Chaser DoD variant passing design review could be a precursor to future contracts."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M contract extension keeps it firmly in the government's good graces."
-    },
-    {
-      "sym": "FLXL",
-      "note": "Flexell Space's $20M funding round shows investors still believe in solar tech for space."
+      "note": "Palantir's $480M extension on the TITAN program confirms the government's appetite for data-driven solutions."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

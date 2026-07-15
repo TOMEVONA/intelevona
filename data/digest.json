@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are experiencing a mix of strategic shifts and funding boosts as governments and companies alike scramble to enhance capabilities. With significant investments flowing into satellite technology and defense strategies, the landscape is evolving rapidly, albeit with some hiccups in hypersonic testing.",
+  "summary": "The space industry is buzzing with a mix of innovation and strategic partnerships as new players emerge and established firms adapt to the evolving landscape. Notably, funding continues to flow into space resilience initiatives, while the specter of geopolitical tensions looms large.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding Floodgates Open",
-      "body": "Flexell Space's recent $20 million Series A round and True Anomaly's $190 million Series C demonstrate the growing investor appetite for space startups. Meanwhile, the U.K. government's forthcoming space strategy hints at a broader commitment to bolstering its own space economy."
+      "title": "Debris Management Initiatives",
+      "body": "A startup collaborating with the University of Texas aims to tackle the ever-growing problem of small debris in orbit. This could be a crucial step in maintaining the sustainability of space operations."
     },
     {
       "icon": "◉",
-      "title": "Defense Spending Surge",
-      "body": "Europe's space economy is buoyed by increased defense spending, with the FY27 budget markup adding $1.4 billion to space resilience initiatives. This financial injection is likely to catalyze further collaboration between government and private sectors."
+      "title": "Funding for Space Resilience",
+      "body": "The FY27 budget markup injects an additional $1.4 billion into space resilience, reflecting a growing recognition of the need for robust defense capabilities in orbit. This trend is likely to attract more investment and innovation in the sector."
     },
     {
       "icon": "▲",
-      "title": "Satellite Expansion Plans",
-      "body": "L3Harris and Sierra Space are set to enhance the U.S. missile-tracking network with 36 new satellites, while Anduril and L3Harris are teaming up for a tactical satellite constellation bid. These moves underscore the escalating competition in the satellite domain."
+      "title": "Tactical Constellation Developments",
+      "body": "Anduril and L3Harris are teaming up on a bid for a tactical SDA constellation, highlighting the increasing importance of satellite networks for defense applications. Expect more collaborations as companies seek to secure their positions in this competitive arena."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Hurdles Persist",
-      "body": "The hypersonic glide-vehicle test has once again slipped, marking the third consecutive quarter of delays. This raises questions about the reliability of timelines in a field where speed is of the essence."
+      "title": "Japan's Launch Ambitions",
+      "body": "Japan's push to ramp up launch activity signals a renewed commitment to expanding its presence in the space sector. This could lead to increased competition and collaboration in the Asia-Pacific region."
     }
   ],
-  "updated": "2026-07-14 15:20 UTC"
+  "updated": "2026-07-15 14:57 UTC"
 }
