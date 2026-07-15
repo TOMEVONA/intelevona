@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-15",
   "issue": "No. 85",
-  "headline": "Satellite investments surge. Space debris looms. Robotics power up.",
-  "deck": "This week sees record satellite funding, debris cleanup efforts, and robotics partnerships.",
+  "headline": "Funding flows. Robots need batteries. Debris attracts attention.",
+  "deck": "This week highlights a mix of funding rounds and strategic partnerships in space.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "Satellite investments hit $8.1 billion halfway through 2026",
-      "body": "Satellite investments reached a staggering $8.1 billion in the first half of 2026, setting a new annual record. This surge suggests that investors are increasingly betting on the orbital economy as a lucrative frontier. With companies like True Anomaly and Astranis securing significant funding, the trend shows no signs of slowing.",
-      "soWhat": "If this keeps up, we might soon see more satellites than stars in the sky, which is both amusing and slightly alarming."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The funding is aimed at enhancing co-orbital security and space domain awareness, showcasing the DoD's increasing reliance on commercial capabilities. With defense pull-through becoming a headline, True Anomaly is positioning itself as a key player in the national security landscape.",
+      "soWhat": "It's clear that the Pentagon's appetite for private sector innovation is growing, and True Anomaly's success could set a precedent for future funding in the sector."
+    },
+    {
+      "kicker": "PARTNERSHIP",
+      "head": "Icarus Robotics picks KULR for Space Station battery needs",
+      "body": "Icarus Robotics has tapped KULR Technology Group to provide batteries for its space robots, a move that underscores the importance of reliable power sources in space operations. The partnership could pave the way for more robust robotic operations on the International Space Station, where every watt counts. KULR's technology is expected to enhance the performance and longevity of these robots.",
+      "soWhat": "As space missions become more complex, the need for dependable energy solutions will only grow, making KULR's role crucial in the emerging robotics landscape."
     },
     {
       "kicker": "DEBRIS",
-      "head": "Florida startup SOAR targets space debris cleanup",
-      "body": "Florida-based startup SOAR is partnering with the University of Texas to develop a passive system aimed at trapping small space debris. This initiative highlights the growing recognition that space litter is a serious issue, with potential costs mounting as more satellites and debris clutter the orbits. The details on how effective this system will be remain to be seen.",
-      "soWhat": "Cleaning up space might soon become the next gold rush, but the real question is whether anyone can make money doing it."
-    },
-    {
-      "kicker": "ROBOTICS",
-      "head": "Icarus Robotics selects KULR for Space Station battery needs",
-      "body": "Icarus Robotics has chosen KULR to provide batteries for its robots operating on the International Space Station. This collaboration underscores the importance of reliable power sources in space, especially as robotic roles expand in complex environments. Financial terms weren't disclosed, but the partnership indicates a strategic move in the robotic supply chain.",
-      "soWhat": "Even robots in space can't afford to run out of juice; this partnership might just keep them from having a meltdown—literally."
+      "head": "Florida startup SOAR tackles small debris with UT partnership",
+      "body": "Florida-based startup SOAR has partnered with the University of Texas to develop a passive system for trapping small space debris. This initiative highlights the growing concern over space junk, with investment in debris mitigation technologies becoming increasingly vital. The collaboration aims to attract further academic and commercial interest in debris management solutions.",
+      "soWhat": "If SOAR can prove its technology works, we might see a shift in how the industry approaches space debris—less about avoiding it and more about actively managing it."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for True Anomaly's next moves",
-      "body": "With $190M in fresh funding, True Anomaly could pivot towards aggressive expansion in co-orbital security."
+      "title": "Watch for Japan's launch activity ramp-up",
+      "body": "Japan's push to increase launch activity could signal a new era of competition in the Asia-Pacific space market."
     },
     {
-      "title": "Japan's launch activity plans",
-      "body": "Japan's commitment to ramping up launch activity could signal a new player in the competitive launch market."
+      "title": "Palantir's TITAN program extension implications",
+      "body": "The $480 million extension for Palantir's TITAN program suggests a sustained government focus on data-driven defense strategies."
     },
     {
-      "title": "Space Force's tech awards implications",
-      "body": "The Space Force's $500M in tech awards may reshape the landscape for commercial partnerships in defense."
+      "title": "Keep an eye on the Defense-Tech IPO market",
+      "body": "Signs of life in the Defense-Tech IPO window could attract new players eager to capitalize on military contracts."
     },
     {
-      "title": "Keep an eye on satellite IPOs",
-      "body": "With the defense-tech IPO window showing signs of life, expect some interesting moves from satellite players."
+      "title": "Sierra Space's Dream Chaser awaits launch",
+      "body": "With the critical design review cleared, the next steps for Sierra Space's Dream Chaser will be closely monitored as it prepares for potential missions."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M Series C funding shows strong investor confidence in co-orbital security."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480M TITAN extension underscores the government's data dependency."
     },
     {
-      "sym": "ASTR",
-      "note": "Astranis's $250M strategic funding round indicates a robust push for microGEO production."
+      "sym": "SOAR",
+      "note": "SOAR's new partnership with UT highlights the market's increasing focus on debris management."
     },
     {
-      "sym": "Sierra Space",
-      "note": "Sierra Space's Dream Chaser DoD variant passing design review could be a precursor to future contracts."
+      "sym": "KULR",
+      "note": "KULR's battery deal with Icarus Robotics positions it as a key player in space robotics."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program confirms the government's appetite for data-driven solutions."
+      "sym": "TRUE",
+      "note": "True Anomaly's $190M funding round reflects rising investment in co-orbital security."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

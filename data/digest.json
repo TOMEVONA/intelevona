@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with a mix of innovation and strategic partnerships as new players emerge and established firms adapt to the evolving landscape. Notably, funding continues to flow into space resilience initiatives, while the specter of geopolitical tensions looms large.",
+  "summary": "The space industry is buzzing with a mix of startup innovations and government funding initiatives. Meanwhile, the race for satellite supremacy continues as investments reach new heights halfway through the year.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Debris Management Initiatives",
-      "body": "A startup collaborating with the University of Texas aims to tackle the ever-growing problem of small debris in orbit. This could be a crucial step in maintaining the sustainability of space operations."
+      "title": "Debris Management Innovations",
+      "body": "A startup collaborating with the University of Texas is making strides in debris trapping technology, which could be a boon for orbital safety. As small debris becomes a growing concern, such innovations may soon be essential for sustainable space operations."
     },
     {
       "icon": "◉",
-      "title": "Funding for Space Resilience",
-      "body": "The FY27 budget markup injects an additional $1.4 billion into space resilience, reflecting a growing recognition of the need for robust defense capabilities in orbit. This trend is likely to attract more investment and innovation in the sector."
+      "title": "Record Satellite Investments",
+      "body": "Investment in satellite technology is on track to set an annual record by mid-2026, reflecting a robust appetite for connectivity and data services. This surge underscores the increasing reliance on satellite infrastructure across various sectors."
     },
     {
       "icon": "▲",
-      "title": "Tactical Constellation Developments",
-      "body": "Anduril and L3Harris are teaming up on a bid for a tactical SDA constellation, highlighting the increasing importance of satellite networks for defense applications. Expect more collaborations as companies seek to secure their positions in this competitive arena."
+      "title": "Mars Mission Preparations",
+      "body": "Efforts to lay the groundwork for the first human mission to Mars are gaining momentum, with various stakeholders ramping up their plans. This could signal a new era of interplanetary exploration, albeit one that remains years away."
     },
     {
       "icon": "◆",
-      "title": "Japan's Launch Ambitions",
-      "body": "Japan's push to ramp up launch activity signals a renewed commitment to expanding its presence in the space sector. This could lead to increased competition and collaboration in the Asia-Pacific region."
+      "title": "Defense Tech Developments",
+      "body": "The Defense-Tech IPO window is showing signs of life, with companies like Palantir securing significant contracts. As the military increasingly turns to private sector solutions, expect a flurry of activity in defense-related startups."
     }
   ],
-  "updated": "2026-07-15 14:57 UTC"
+  "updated": "2026-07-15 15:22 UTC"
 }
