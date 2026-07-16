@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-16",
   "issue": "No. 86",
-  "headline": "Funding flows. Satellites stack. Budgets balloon.",
-  "deck": "This week highlights a surge in funding and military interest in space operations.",
+  "headline": "Funding flows. Budgets swell. Satellites multiply.",
+  "deck": "This week saw significant funding rounds and budget increases, underscoring the growing appetite for space capabilities.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured a $190 million Series C funding round, pushing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, tapping into the growing DoD interest in safeguarding assets in orbit. With this capital, True Anomaly is positioned to scale operations amid increasing competition in the space security sector.",
-      "soWhat": "In a world where space is the new battleground, True Anomaly's funding is a clear sign that investors are betting on security over exploration."
+      "body": "True Anomaly secured a $190 million Series C round, bringing its valuation to $1.6 billion. The funding is earmarked for co-orbital security and space domain awareness, areas increasingly critical to national defense. With the DoD's focus on these capabilities, True Anomaly's timing couldn't be better.",
+      "soWhat": "In a market where cash often trumps genuine innovation, True Anomaly's funding is a reminder that the defense sector is still willing to bet big on perceived security needs."
     },
     {
-      "kicker": "PROCUREMENT",
-      "head": "Space Force doubles down on budget with $69M AI contract",
-      "body": "The Space Force awarded Slingshot a $69 million contract for AI-enabled training technology, underscoring the military's push for advanced capabilities in space operations. This funding is part of a broader trend, as the FY27 budget markup added $1.4 billion for space resilience, indicating a significant shift in defense spending priorities.",
-      "soWhat": "When the Space Force starts throwing around budget increases, you know they’re serious about space being the next frontier of military strategy."
+      "kicker": "BUDGET",
+      "head": "Space Force seeks to double its budget",
+      "body": "Lt. Gen. Douglas Schiess defended a plan to more than double the Space Force's budget, aiming for a staggering increase from $15 billion to nearly $30 billion. This proposal is indicative of a broader trend where space is finally being recognized as a key theater for military operations. The FY27 budget markup already added $1.4 billion for space resilience.",
+      "soWhat": "If money really does grow on trees in space, we're about to see a lot more branches sprouting in defense budgets."
     },
     {
-      "kicker": "STARTUPS",
-      "head": "Swissto12 raises $70M to ramp GEO satellite production",
-      "body": "Swissto12 has raised $70 million to accelerate production of small GEO satellites, aiming to capture a slice of the lucrative satellite market. This funding round highlights the growing demand for satellite services, particularly in the defense sector, as nations seek to bolster their capabilities in space.",
-      "soWhat": "Swissto12's move reflects a broader trend where size matters less than the ability to deliver timely satellite services—something the defense sector is keenly aware of."
+      "kicker": "LAUNCH",
+      "head": "Sierra Space's Dream Chaser variant passes design review",
+      "body": "Sierra Space's Dream Chaser variant for the Department of Defense has cleared its critical design review, a significant milestone for the program. This development comes amid rising interest in reusable spacecraft, as the military seeks more affordable access to orbit. The clock is now ticking for actual flight tests.",
+      "soWhat": "Passing a design review is like getting a gold star in school; it looks good on paper, but we still need to see if it can actually deliver when the bell rings."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Space Force budget discussions",
-      "body": "With the Space Force's budget doubling in focus, procurement strategies will likely shift significantly in the coming months."
+      "title": "Keep an eye on True Anomaly's next moves",
+      "body": "With significant funding secured, True Anomaly's strategy for deploying its capital will be crucial in shaping the co-orbital security landscape."
     },
     {
-      "title": "Watch for more AI contracts in defense",
-      "body": "The success of Slingshot's AI training contract may spur further investments in AI technologies for military applications."
+      "title": "Watch for Space Force's budget negotiations",
+      "body": "As the Space Force pushes for a budget increase, the outcomes of these negotiations could set the tone for future defense spending in space."
     },
     {
-      "title": "Swissto12's production ramp-up implications",
-      "body": "The increased production capacity at Swissto12 could impact satellite pricing and availability in both commercial and defense sectors."
+      "title": "Sierra Space's flight schedule is critical now",
+      "body": "With the design review passed, all eyes will be on Sierra Space to deliver on timelines for the Dream Chaser's first flight tests."
     },
     {
-      "title": "True Anomaly's next strategic moves",
-      "body": "With fresh capital, True Anomaly's next steps will be crucial in defining its role in the co-orbital security landscape."
+      "title": "Anticipate more defense-tech IPOs",
+      "body": "The recent buzz around the defense-tech IPO window suggests that more companies may look to go public, potentially reshaping investment dynamics in the sector."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SLNG",
-      "note": "Slingshot's $69M contract is a strong indicator of increasing military reliance on AI."
-    },
-    {
-      "sym": "TRUE",
-      "note": "True Anomaly's $190M Series C shows investors are prioritizing space security."
-    },
-    {
-      "sym": "SST",
-      "note": "Swissto12's $70M funding suggests a bullish outlook on small GEO satellite demand."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension demonstrates the government's enduring appetite for data solutions."
+      "note": "Palantir won a $480 million extension for its TITAN program, showcasing the government's ongoing appetite for data solutions."
+    },
+    {
+      "sym": "SIE",
+      "note": "Sierra Space's recent design review success positions it favorably as it races toward its first launch."
+    },
+    {
+      "sym": "ASTS",
+      "note": "ASTS's bull case is under scrutiny as the market weighs its execution capabilities against potential pitfalls."
+    },
+    {
+      "sym": "SPCE",
+      "note": "Virgin Galactic remains in the spotlight as it navigates the turbulent waters of commercial space tourism."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

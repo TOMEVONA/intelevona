@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are in a state of flux, with budget discussions heating up and new contracts being awarded. Meanwhile, the race for advanced technology continues, albeit with some hiccups along the way.",
+  "summary": "The space industry is buzzing with budget talks and infrastructure developments as various players position themselves for a shifting economic landscape. Meanwhile, the Space Force is doubling down on its funding and capabilities, while private firms are racing to deliver advanced satellite solutions.",
   "themes": [
     {
       "icon": "▣",
       "title": "Budget Battles Heat Up",
-      "body": "The Space Force's budget is poised for a significant increase, with proposals adding $1.4 billion for resilience efforts. This suggests a growing recognition of the need for robust space capabilities amid increasing geopolitical tensions."
+      "body": "Trump's proposed budget increase for the Space Force is stirring discussions about the future of military space funding. The FY27 markup adds $1.4 billion to enhance space resilience, indicating a growing recognition of the strategic importance of space."
     },
     {
       "icon": "◉",
-      "title": "Commercial Data Infrastructure Gains Traction",
-      "body": "Bluestaq's launch of a defense-grade data infrastructure indicates a shift towards integrating commercial solutions in government operations. This trend could reshape how data is utilized across both sectors, enhancing efficiency and responsiveness."
+      "title": "Infrastructure Investment Trends",
+      "body": "Companies like Bluestaq and Swissto12 are stepping up to build the necessary infrastructure for a burgeoning space economy. Their efforts reflect a broader trend of private sector involvement in what was once solely a government domain."
     },
     {
       "icon": "▲",
-      "title": "AI Technology in Defense",
-      "body": "With Slingshot Aerospace securing contracts for AI-enabled training and mission rehearsal, the Defense Department is clearly betting on artificial intelligence to enhance operational readiness. This move reflects a broader trend of integrating advanced technologies into military frameworks."
+      "title": "Defense Tech IPOs on the Horizon",
+      "body": "The defense-tech IPO window is showing signs of life, with companies like Palantir securing significant extensions on contracts. This could signal a shift in investor sentiment towards the defense sector as it adapts to new technological demands."
     },
     {
       "icon": "◆",
-      "title": "Space Development Agency's Expansion",
-      "body": "The SDA's latest awards for missile defense tracking satellites underscore a commitment to rapid deployment of space capabilities. However, the persistent delays in hypersonic tests remind us that even the most ambitious plans can face significant hurdles."
+      "title": "Space Development Agency Moves Forward",
+      "body": "The Space Development Agency is ramping up its efforts with new awards for missile defense tracking satellites. This initiative underscores the urgency of enhancing national security through advanced space capabilities."
     }
   ],
-  "updated": "2026-07-16 15:07 UTC"
+  "updated": "2026-07-16 15:29 UTC"
 }
