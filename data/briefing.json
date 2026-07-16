@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-15",
-  "issue": "No. 85",
-  "headline": "Funding flows. Robots need batteries. Debris attracts attention.",
-  "deck": "This week highlights a mix of funding rounds and strategic partnerships in space.",
+  "updated": "2026-07-16",
+  "issue": "No. 86",
+  "headline": "Funding flows. Satellites stack. Budgets balloon.",
+  "deck": "This week highlights a surge in funding and military interest in space operations.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The funding is aimed at enhancing co-orbital security and space domain awareness, showcasing the DoD's increasing reliance on commercial capabilities. With defense pull-through becoming a headline, True Anomaly is positioning itself as a key player in the national security landscape.",
-      "soWhat": "It's clear that the Pentagon's appetite for private sector innovation is growing, and True Anomaly's success could set a precedent for future funding in the sector."
+      "body": "True Anomaly secured a $190 million Series C funding round, pushing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, tapping into the growing DoD interest in safeguarding assets in orbit. With this capital, True Anomaly is positioned to scale operations amid increasing competition in the space security sector.",
+      "soWhat": "In a world where space is the new battleground, True Anomaly's funding is a clear sign that investors are betting on security over exploration."
     },
     {
-      "kicker": "PARTNERSHIP",
-      "head": "Icarus Robotics picks KULR for Space Station battery needs",
-      "body": "Icarus Robotics has tapped KULR Technology Group to provide batteries for its space robots, a move that underscores the importance of reliable power sources in space operations. The partnership could pave the way for more robust robotic operations on the International Space Station, where every watt counts. KULR's technology is expected to enhance the performance and longevity of these robots.",
-      "soWhat": "As space missions become more complex, the need for dependable energy solutions will only grow, making KULR's role crucial in the emerging robotics landscape."
+      "kicker": "PROCUREMENT",
+      "head": "Space Force doubles down on budget with $69M AI contract",
+      "body": "The Space Force awarded Slingshot a $69 million contract for AI-enabled training technology, underscoring the military's push for advanced capabilities in space operations. This funding is part of a broader trend, as the FY27 budget markup added $1.4 billion for space resilience, indicating a significant shift in defense spending priorities.",
+      "soWhat": "When the Space Force starts throwing around budget increases, you know they’re serious about space being the next frontier of military strategy."
     },
     {
-      "kicker": "DEBRIS",
-      "head": "Florida startup SOAR tackles small debris with UT partnership",
-      "body": "Florida-based startup SOAR has partnered with the University of Texas to develop a passive system for trapping small space debris. This initiative highlights the growing concern over space junk, with investment in debris mitigation technologies becoming increasingly vital. The collaboration aims to attract further academic and commercial interest in debris management solutions.",
-      "soWhat": "If SOAR can prove its technology works, we might see a shift in how the industry approaches space debris—less about avoiding it and more about actively managing it."
+      "kicker": "STARTUPS",
+      "head": "Swissto12 raises $70M to ramp GEO satellite production",
+      "body": "Swissto12 has raised $70 million to accelerate production of small GEO satellites, aiming to capture a slice of the lucrative satellite market. This funding round highlights the growing demand for satellite services, particularly in the defense sector, as nations seek to bolster their capabilities in space.",
+      "soWhat": "Swissto12's move reflects a broader trend where size matters less than the ability to deliver timely satellite services—something the defense sector is keenly aware of."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for Japan's launch activity ramp-up",
-      "body": "Japan's push to increase launch activity could signal a new era of competition in the Asia-Pacific space market."
+      "title": "Keep an eye on Space Force budget discussions",
+      "body": "With the Space Force's budget doubling in focus, procurement strategies will likely shift significantly in the coming months."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "The $480 million extension for Palantir's TITAN program suggests a sustained government focus on data-driven defense strategies."
+      "title": "Watch for more AI contracts in defense",
+      "body": "The success of Slingshot's AI training contract may spur further investments in AI technologies for military applications."
     },
     {
-      "title": "Keep an eye on the Defense-Tech IPO market",
-      "body": "Signs of life in the Defense-Tech IPO window could attract new players eager to capitalize on military contracts."
+      "title": "Swissto12's production ramp-up implications",
+      "body": "The increased production capacity at Swissto12 could impact satellite pricing and availability in both commercial and defense sectors."
     },
     {
-      "title": "Sierra Space's Dream Chaser awaits launch",
-      "body": "With the critical design review cleared, the next steps for Sierra Space's Dream Chaser will be closely monitored as it prepares for potential missions."
+      "title": "True Anomaly's next strategic moves",
+      "body": "With fresh capital, True Anomaly's next steps will be crucial in defining its role in the co-orbital security landscape."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "PALANTIR",
-      "note": "Palantir's $480M TITAN extension underscores the government's data dependency."
-    },
-    {
-      "sym": "SOAR",
-      "note": "SOAR's new partnership with UT highlights the market's increasing focus on debris management."
-    },
-    {
-      "sym": "KULR",
-      "note": "KULR's battery deal with Icarus Robotics positions it as a key player in space robotics."
+      "sym": "SLNG",
+      "note": "Slingshot's $69M contract is a strong indicator of increasing military reliance on AI."
     },
     {
       "sym": "TRUE",
-      "note": "True Anomaly's $190M funding round reflects rising investment in co-orbital security."
+      "note": "True Anomaly's $190M Series C shows investors are prioritizing space security."
+    },
+    {
+      "sym": "SST",
+      "note": "Swissto12's $70M funding suggests a bullish outlook on small GEO satellite demand."
+    },
+    {
+      "sym": "PLTR",
+      "note": "Palantir's $480M extension demonstrates the government's enduring appetite for data solutions."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

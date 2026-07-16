@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with a mix of startup innovations and government funding initiatives. Meanwhile, the race for satellite supremacy continues as investments reach new heights halfway through the year.",
+  "summary": "The space and defense sectors are in a state of flux, with budget discussions heating up and new contracts being awarded. Meanwhile, the race for advanced technology continues, albeit with some hiccups along the way.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Debris Management Innovations",
-      "body": "A startup collaborating with the University of Texas is making strides in debris trapping technology, which could be a boon for orbital safety. As small debris becomes a growing concern, such innovations may soon be essential for sustainable space operations."
+      "title": "Budget Battles Heat Up",
+      "body": "The Space Force's budget is poised for a significant increase, with proposals adding $1.4 billion for resilience efforts. This suggests a growing recognition of the need for robust space capabilities amid increasing geopolitical tensions."
     },
     {
       "icon": "◉",
-      "title": "Record Satellite Investments",
-      "body": "Investment in satellite technology is on track to set an annual record by mid-2026, reflecting a robust appetite for connectivity and data services. This surge underscores the increasing reliance on satellite infrastructure across various sectors."
+      "title": "Commercial Data Infrastructure Gains Traction",
+      "body": "Bluestaq's launch of a defense-grade data infrastructure indicates a shift towards integrating commercial solutions in government operations. This trend could reshape how data is utilized across both sectors, enhancing efficiency and responsiveness."
     },
     {
       "icon": "▲",
-      "title": "Mars Mission Preparations",
-      "body": "Efforts to lay the groundwork for the first human mission to Mars are gaining momentum, with various stakeholders ramping up their plans. This could signal a new era of interplanetary exploration, albeit one that remains years away."
+      "title": "AI Technology in Defense",
+      "body": "With Slingshot Aerospace securing contracts for AI-enabled training and mission rehearsal, the Defense Department is clearly betting on artificial intelligence to enhance operational readiness. This move reflects a broader trend of integrating advanced technologies into military frameworks."
     },
     {
       "icon": "◆",
-      "title": "Defense Tech Developments",
-      "body": "The Defense-Tech IPO window is showing signs of life, with companies like Palantir securing significant contracts. As the military increasingly turns to private sector solutions, expect a flurry of activity in defense-related startups."
+      "title": "Space Development Agency's Expansion",
+      "body": "The SDA's latest awards for missile defense tracking satellites underscore a commitment to rapid deployment of space capabilities. However, the persistent delays in hypersonic tests remind us that even the most ambitious plans can face significant hurdles."
     }
   ],
-  "updated": "2026-07-15 15:22 UTC"
+  "updated": "2026-07-16 15:07 UTC"
 }
