@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space industry is grappling with a mix of operational hiccups and strategic partnerships. SpaceX remains a focal point, both for its ambitious launches and the occasional setbacks that come with them.",
+  "summary": "The space industry is in a state of flux, with SpaceX grappling with both operational challenges and a burgeoning satellite launch schedule. Meanwhile, geopolitical maneuvers like Serbia's signing of the Artemis Accords signal a shifting landscape in international space collaboration.",
   "themes": [
     {
       "icon": "▣",
-      "title": "SpaceX's Launch Challenges",
-      "body": "SpaceX's abort of the Starship Flight 13 launch attempt underscores the complexities of pushing the envelope in aerospace. Meanwhile, the company continues to expand its military satellite offerings, indicating a dual focus on innovation and reliability."
+      "title": "SpaceX's Launch Conundrum",
+      "body": "Despite its impressive track record, SpaceX faces hurdles in scaling operations, particularly with the aborted Starship Flight 13. The company's ability to juggle multiple satellite launches while addressing these setbacks will be closely watched."
     },
     {
       "icon": "◉",
-      "title": "International Agreements on Space",
-      "body": "Serbia's signing of the Artemis Accords signals a growing trend of nations aligning with U.S. space policy. This could pave the way for increased collaboration in lunar exploration and beyond, though the real impact remains to be seen."
+      "title": "Geopolitical Space Agreements",
+      "body": "Serbia's recent signing of the Artemis Accords highlights a growing trend of nations aligning with U.S. space initiatives. This move may bolster Serbia's defense capabilities while deepening its ties to Western space endeavors."
     },
     {
       "icon": "▲",
-      "title": "Defense Budget Increases",
-      "body": "The FY27 budget markup's addition of $1.4 billion to space resilience reflects a heightened focus on national security in the face of evolving threats. This funding boost may bolster various initiatives, including missile defense tracking systems."
+      "title": "Funding for Space Resilience",
+      "body": "The FY27 budget markup, which adds $1.4 billion to the space resilience line, reflects a heightened focus on safeguarding U.S. interests in orbit. This financial commitment underscores the increasing recognition of space as a strategic domain."
     },
     {
       "icon": "◆",
-      "title": "Emerging Technologies in Space",
-      "body": "The partnership between Anduril and L3Harris for a tactical SDA constellation highlights the increasing reliance on advanced technologies for space domain awareness. As threats evolve, such collaborations will be crucial in maintaining strategic advantages."
+      "title": "Emerging Defense Technologies",
+      "body": "As companies like Anduril and L3Harris collaborate on tactical satellite constellations, the defense sector is clearly pivoting towards advanced technologies for space operations. The intersection of AI and defense is also gaining traction, as evidenced by the surge in 'AI for Defense' startups."
     }
   ],
-  "updated": "2026-07-17 14:47 UTC"
+  "updated": "2026-07-17 15:09 UTC"
 }
