@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-16",
-  "issue": "No. 86",
-  "headline": "Funding flows. Budgets swell. Satellites multiply.",
-  "deck": "This week saw significant funding rounds and budget increases, underscoring the growing appetite for space capabilities.",
+  "updated": "2026-07-17",
+  "issue": "No. 87",
+  "headline": "SpaceX falters. Serbia commits. Defense funding grows.",
+  "deck": "This week saw SpaceX's launch woes and Serbia's lunar ambitions, alongside a surge in defense funding.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured a $190 million Series C round, bringing its valuation to $1.6 billion. The funding is earmarked for co-orbital security and space domain awareness, areas increasingly critical to national defense. With the DoD's focus on these capabilities, True Anomaly's timing couldn't be better.",
-      "soWhat": "In a market where cash often trumps genuine innovation, True Anomaly's funding is a reminder that the defense sector is still willing to bet big on perceived security needs."
+      "head": "True Anomaly raises $190M in Series C",
+      "body": "True Anomaly secured a $190 million Series C funding round, reaching a valuation of $1.6 billion. The company focuses on co-orbital security and space domain awareness, with strong backing from the DoD. This cash influx highlights the military's increasing reliance on commercial capabilities for national security.",
+      "soWhat": "In an era where cash trumps innovation, True Anomaly’s funding suggests that the military-industrial complex is more interested in buying solutions than developing them in-house."
     },
     {
-      "kicker": "BUDGET",
-      "head": "Space Force seeks to double its budget",
-      "body": "Lt. Gen. Douglas Schiess defended a plan to more than double the Space Force's budget, aiming for a staggering increase from $15 billion to nearly $30 billion. This proposal is indicative of a broader trend where space is finally being recognized as a key theater for military operations. The FY27 budget markup already added $1.4 billion for space resilience.",
-      "soWhat": "If money really does grow on trees in space, we're about to see a lot more branches sprouting in defense budgets."
+      "kicker": "PROCUREMENT",
+      "head": "US Space Force boosts budget by $1.4B",
+      "body": "The FY27 budget markup added $1.4 billion to the space resilience line, signaling a commitment to fortifying U.S. space capabilities. This increase comes as geopolitical tensions rise, emphasizing the need for robust space defense systems. Expect more contractors to vie for these funds as the government seeks to bolster its space posture.",
+      "soWhat": "This budget boost is a clear signal that the U.S. government is finally recognizing that space isn’t just a playground for billionaires, but a critical domain that needs serious investment."
     },
     {
-      "kicker": "LAUNCH",
-      "head": "Sierra Space's Dream Chaser variant passes design review",
-      "body": "Sierra Space's Dream Chaser variant for the Department of Defense has cleared its critical design review, a significant milestone for the program. This development comes amid rising interest in reusable spacecraft, as the military seeks more affordable access to orbit. The clock is now ticking for actual flight tests.",
-      "soWhat": "Passing a design review is like getting a gold star in school; it looks good on paper, but we still need to see if it can actually deliver when the bell rings."
+      "kicker": "TECHNOLOGY",
+      "head": "Sierra Space's Dream Chaser clears design review",
+      "body": "Sierra Space's Dream Chaser variant for the Department of Defense has successfully passed its critical design review. While this is a step forward, the spacecraft still has yet to demonstrate its capabilities in orbit. The military’s interest in this vehicle underscores the growing demand for versatile transport solutions in space.",
+      "soWhat": "Passing a design review is like getting a gold star in kindergarten; it’s nice, but we still need to see if the kid can actually play."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on True Anomaly's next moves",
-      "body": "With significant funding secured, True Anomaly's strategy for deploying its capital will be crucial in shaping the co-orbital security landscape."
+      "title": "SpaceX's next launch attempt",
+      "body": "After aborting the Starship Flight 13 launch, SpaceX's next attempt will be closely watched for any signs of improvement or further issues."
     },
     {
-      "title": "Watch for Space Force's budget negotiations",
-      "body": "As the Space Force pushes for a budget increase, the outcomes of these negotiations could set the tone for future defense spending in space."
+      "title": "Serbia's Artemis Accords implications",
+      "body": "Serbia's signing of the Artemis Accords may lead to increased European collaboration in lunar exploration, impacting future contracts and partnerships."
     },
     {
-      "title": "Sierra Space's flight schedule is critical now",
-      "body": "With the design review passed, all eyes will be on Sierra Space to deliver on timelines for the Dream Chaser's first flight tests."
+      "title": "Palantir's TITAN program extension",
+      "body": "With a $480 million extension, Palantir's TITAN program will be scrutinized for its effectiveness in delivering actionable intelligence to the military."
     },
     {
-      "title": "Anticipate more defense-tech IPOs",
-      "body": "The recent buzz around the defense-tech IPO window suggests that more companies may look to go public, potentially reshaping investment dynamics in the sector."
+      "title": "Anduril and L3Harris constellation bid",
+      "body": "The collaboration between Anduril and L3Harris on a tactical SDA constellation could reshape defense procurement strategies moving forward."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
+      "sym": "SPACEX",
+      "note": "SpaceX's valuation remains at $470 billion, but launch delays are raising eyebrows among investors."
+    },
+    {
       "sym": "PLTR",
-      "note": "Palantir won a $480 million extension for its TITAN program, showcasing the government's ongoing appetite for data solutions."
+      "note": "Palantir's $480 million extension for TITAN shows the government’s insatiable appetite for data analytics."
     },
     {
       "sym": "SIE",
-      "note": "Sierra Space's recent design review success positions it favorably as it races toward its first launch."
+      "note": "Sierra Space’s Dream Chaser passing its design review might not guarantee a smooth path to orbit."
     },
     {
-      "sym": "ASTS",
-      "note": "ASTS's bull case is under scrutiny as the market weighs its execution capabilities against potential pitfalls."
-    },
-    {
-      "sym": "SPCE",
-      "note": "Virgin Galactic remains in the spotlight as it navigates the turbulent waters of commercial space tourism."
+      "sym": "TRU",
+      "note": "True Anomaly's $190 million Series C funding reflects a shift towards commercial solutions in defense."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

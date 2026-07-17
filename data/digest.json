@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with budget talks and infrastructure developments as various players position themselves for a shifting economic landscape. Meanwhile, the Space Force is doubling down on its funding and capabilities, while private firms are racing to deliver advanced satellite solutions.",
+  "summary": "This week, the space industry is grappling with a mix of operational hiccups and strategic partnerships. SpaceX remains a focal point, both for its ambitious launches and the occasional setbacks that come with them.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Budget Battles Heat Up",
-      "body": "Trump's proposed budget increase for the Space Force is stirring discussions about the future of military space funding. The FY27 markup adds $1.4 billion to enhance space resilience, indicating a growing recognition of the strategic importance of space."
+      "title": "SpaceX's Launch Challenges",
+      "body": "SpaceX's abort of the Starship Flight 13 launch attempt underscores the complexities of pushing the envelope in aerospace. Meanwhile, the company continues to expand its military satellite offerings, indicating a dual focus on innovation and reliability."
     },
     {
       "icon": "◉",
-      "title": "Infrastructure Investment Trends",
-      "body": "Companies like Bluestaq and Swissto12 are stepping up to build the necessary infrastructure for a burgeoning space economy. Their efforts reflect a broader trend of private sector involvement in what was once solely a government domain."
+      "title": "International Agreements on Space",
+      "body": "Serbia's signing of the Artemis Accords signals a growing trend of nations aligning with U.S. space policy. This could pave the way for increased collaboration in lunar exploration and beyond, though the real impact remains to be seen."
     },
     {
       "icon": "▲",
-      "title": "Defense Tech IPOs on the Horizon",
-      "body": "The defense-tech IPO window is showing signs of life, with companies like Palantir securing significant extensions on contracts. This could signal a shift in investor sentiment towards the defense sector as it adapts to new technological demands."
+      "title": "Defense Budget Increases",
+      "body": "The FY27 budget markup's addition of $1.4 billion to space resilience reflects a heightened focus on national security in the face of evolving threats. This funding boost may bolster various initiatives, including missile defense tracking systems."
     },
     {
       "icon": "◆",
-      "title": "Space Development Agency Moves Forward",
-      "body": "The Space Development Agency is ramping up its efforts with new awards for missile defense tracking satellites. This initiative underscores the urgency of enhancing national security through advanced space capabilities."
+      "title": "Emerging Technologies in Space",
+      "body": "The partnership between Anduril and L3Harris for a tactical SDA constellation highlights the increasing reliance on advanced technologies for space domain awareness. As threats evolve, such collaborations will be crucial in maintaining strategic advantages."
     }
   ],
-  "updated": "2026-07-16 15:29 UTC"
+  "updated": "2026-07-17 14:47 UTC"
 }
