@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-17",
-  "issue": "No. 87",
-  "headline": "SpaceX struggles. Serbia joins. True Anomaly raises.",
-  "deck": "This week saw SpaceX's launch woes and Serbia's geopolitical pivot, while True Anomaly secured significant funding.",
+  "updated": "2026-07-18",
+  "issue": "No. 88",
+  "headline": "Skyroot lifts off. NASA cuts losses. SpaceX waits.",
+  "deck": "This week, India's Skyroot Aerospace celebrates a successful launch while NASA terminates a lunar lander project.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
+      "kicker": "LAUNCH",
+      "head": "Skyroot's Vikram-1 rockets to orbit successfully",
+      "body": "Skyroot Aerospace achieved a major milestone with the Vikram-1 rocket reaching orbit on its inaugural flight. This success positions India as a competitive player in the commercial launch market, especially as global demand for affordable access to space increases. Now, the challenge is maintaining this momentum without a costly misstep.",
+      "soWhat": "If Skyroot can replicate this success, they'll attract serious investment and partnerships, but one failure could derail their progress."
+    },
+    {
+      "kicker": "BUDGET",
+      "head": "NASA pulls Draper lunar lander funding",
+      "body": "NASA has officially terminated the Draper lunar lander mission due to ongoing development delays, reallocating resources to more promising projects. This decision underscores the agency's shift towards prioritizing efficiency and timely deliverables over ambitious but stalled initiatives. The termination also frees up approximately $100 million for future endeavors.",
+      "soWhat": "This isn't just a setback for Draper; it’s a warning shot for contractors that NASA's patience is wearing thin in a budget-constrained environment."
+    },
+    {
       "kicker": "FINANCE",
-      "head": "True Anomaly raises $190M Series C amid defense demand",
-      "body": "True Anomaly secured $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, tapping into the Department of Defense's growing appetite for advanced space technologies. Their latest round underscores the increasing importance of space security in national defense strategies.",
-      "soWhat": "It's clear that in the current climate, cash is king, especially when it comes to defense-related ventures."
-    },
-    {
-      "kicker": "GEO-POLITICS",
-      "head": "Serbia signs Artemis Accords, snubbing China",
-      "body": "Serbia officially joined the Artemis Accords this week, aligning itself with U.S. lunar exploration efforts after previously considering ties with China's lunar ambitions. This geopolitical shift highlights the delicate balance countries maintain when choosing sides in the space race, particularly as they navigate economic and security interests.",
-      "soWhat": "Serbia's pivot to the U.S. is a reminder that in space, allegiances can shift faster than a rocket launch countdown."
-    },
-    {
-      "kicker": "TECHNOLOGY",
-      "head": "SpaceX's Starship Flight 13 launch aborted again",
-      "body": "SpaceX's Starship Flight 13 was aborted due to engine issues, marking yet another setback for the ambitious program. This incident follows a series of hiccups in the Starship development timeline, raising questions about the reliability of the vehicle as SpaceX prepares for its IPO. Investors are watching closely as the company aims to solidify its position in the market.",
-      "soWhat": "If SpaceX can't get its flagship rocket off the ground, its IPO might just be a high-stakes gamble."
+      "head": "SpaceX's IPO signals mainstream acceptance",
+      "body": "SpaceX's impending IPO, valued at $470 billion, marks a significant milestone for the space industry, indicating that the sector is now firmly entrenched in capital markets. With investors eager to back space ventures, the stakes are rising, and the pressure is on for SpaceX to deliver consistent performance. This could lead to more companies following suit, eyeing public offerings.",
+      "soWhat": "If SpaceX stumbles post-IPO, it could sour investor sentiment across the broader space sector, which is still finding its footing."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on SpaceX's next launch attempt",
-      "body": "The outcome of the next Starship launch will be critical for investor confidence and future funding."
+      "title": "Watch for further Skyroot developments",
+      "body": "Skyroot's next steps will be crucial in determining whether they can sustain their recent success and attract further investment."
     },
     {
-      "title": "Sierra Space's Dream Chaser moves closer to flight",
-      "body": "With its recent critical design review clearance, Sierra Space may soon be ready to demonstrate its capabilities."
+      "title": "NASA's next lunar mission plans",
+      "body": "With Draper's exit, NASA will need to pivot quickly to ensure its lunar ambitions remain on track."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "The $480 million extension for the TITAN ground station may signal increased government reliance on commercial data solutions."
+      "title": "SpaceX's IPO impact on competitors",
+      "body": "The ramifications of SpaceX's IPO could reverberate through the entire space industry, influencing funding and valuations."
     },
     {
-      "title": "Watch for more defense-tech IPOs",
-      "body": "As the defense-tech IPO window opens, expect a flurry of activity as startups seek to capitalize on heightened interest."
+      "title": "True Anomaly's Series C implications",
+      "body": "True Anomaly's $190 million Series C round highlights growing interest in co-orbital security, a sector that may see increased defense spending."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates through its operational challenges."
+      "note": "Virgin Galactic continues to struggle with flight delays, raising questions about its long-term viability."
     },
     {
-      "sym": "LHX",
-      "note": "L3Harris is poised for growth with its recent SDA satellite contract awards."
+      "sym": "LMT",
+      "note": "Lockheed Martin's defense contracts remain robust, but investors are wary of potential budget cuts."
+    },
+    {
+      "sym": "AER",
+      "note": "Aerojet Rocketdyne's stock is under pressure following delays in hypersonic testing."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's stock is buoyed by its recent contract extensions, showcasing its strong foothold in defense."
-    },
-    {
-      "sym": "SFTW",
-      "note": "Stoke Space's funding round puts it in the spotlight as the launch sector heats up."
+      "note": "Palantir's $480 million extension on the TITAN program underscores the military's appetite for data solutions."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

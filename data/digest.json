@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is in a state of flux, with SpaceX grappling with both operational challenges and a burgeoning satellite launch schedule. Meanwhile, geopolitical maneuvers like Serbia's signing of the Artemis Accords signal a shifting landscape in international space collaboration.",
+  "summary": "This week saw a mix of triumphs and setbacks across the space sector, with Skyroot Aerospace successfully reaching orbit while NASA pulled the plug on its lunar lander mission. Meanwhile, funding for space resilience is on the rise, and the competition for orbital dominance continues to heat up.",
   "themes": [
     {
       "icon": "▣",
-      "title": "SpaceX's Launch Conundrum",
-      "body": "Despite its impressive track record, SpaceX faces hurdles in scaling operations, particularly with the aborted Starship Flight 13. The company's ability to juggle multiple satellite launches while addressing these setbacks will be closely watched."
-    },
-    {
-      "icon": "◉",
-      "title": "Geopolitical Space Agreements",
-      "body": "Serbia's recent signing of the Artemis Accords highlights a growing trend of nations aligning with U.S. space initiatives. This move may bolster Serbia's defense capabilities while deepening its ties to Western space endeavors."
+      "title": "Skyroot's Successful Launch",
+      "body": "Skyroot Aerospace's Vikram-1 launch marks a notable achievement for India's private space sector, potentially setting the stage for more commercial endeavors. This success could inspire further investment and innovation in a region that’s been historically overshadowed by larger players."
     },
     {
       "icon": "▲",
-      "title": "Funding for Space Resilience",
-      "body": "The FY27 budget markup, which adds $1.4 billion to the space resilience line, reflects a heightened focus on safeguarding U.S. interests in orbit. This financial commitment underscores the increasing recognition of space as a strategic domain."
+      "title": "NASA's Lunar Setback",
+      "body": "The termination of the Draper lunar lander mission underscores the challenges NASA faces in its ambitious lunar objectives. This decision raises questions about the agency's strategy and its ability to meet future exploration timelines."
     },
     {
       "icon": "◆",
-      "title": "Emerging Defense Technologies",
-      "body": "As companies like Anduril and L3Harris collaborate on tactical satellite constellations, the defense sector is clearly pivoting towards advanced technologies for space operations. The intersection of AI and defense is also gaining traction, as evidenced by the surge in 'AI for Defense' startups."
+      "title": "Funding for Space Resilience",
+      "body": "The $1.4 billion boost to the space resilience line in the FY27 budget reflects a growing recognition of the need for robust capabilities in an increasingly contested space environment. This funding could catalyze advancements in technologies aimed at protecting U.S. interests in orbit."
+    },
+    {
+      "icon": "◉",
+      "title": "SpaceX's Ongoing Challenges",
+      "body": "SpaceX's aborted Starship Flight 13 launch attempt highlights the complexities of scaling operations amidst a rapidly expanding portfolio. As the company grapples with logistical constraints, its competitors may see an opportunity to capitalize on any delays."
     }
   ],
-  "updated": "2026-07-17 15:09 UTC"
+  "updated": "2026-07-18 14:22 UTC"
 }
