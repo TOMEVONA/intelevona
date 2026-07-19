@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-18",
-  "issue": "No. 88",
-  "headline": "Skyroot orbits. NASA aborts. SpaceX stalls.",
-  "deck": "This week saw mixed results in space launches and funding, with some projects gaining altitude while others face delays.",
+  "updated": "2026-07-19",
+  "issue": "No. 89",
+  "headline": "Space budgets grow. Launch costs rise. Contracts multiply.",
+  "deck": "This week saw increased funding for space resilience and a significant boost in launch contract ceilings.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "LAUNCHES",
-      "head": "Skyroot Aerospace hits orbit; now what?",
-      "body": "Skyroot Aerospace successfully launched its Vikram-1 rocket into orbit, marking a significant milestone for Indian commercial space efforts. This comes as the company aims to capitalize on a burgeoning market, though the real test will be sustaining momentum beyond this initial success. The launch has potential implications for India's position in the global space race, where reliability can be more valuable than speed.",
-      "soWhat": "Skyroot's success is a reminder that in aerospace, the first flight is just the beginning; maintaining the trajectory is the real challenge."
+      "kicker": "BUDGET",
+      "head": "Space Force triples launch contract ceiling to $17B",
+      "body": "In a notable shift, the Space Force has tripled its launch contract ceiling from $5.6 billion to $17 billion, reflecting the growing demand for space access. This increase may be a response to the escalating costs associated with space operations, as the military acknowledges that the price of entry is only going up. Expect contractors to line up for a piece of this expanded pie.",
+      "soWhat": "This move suggests the Space Force is finally recognizing that space isn't a discount store."
     },
     {
-      "kicker": "PROCUREMENT",
-      "head": "NASA cancels Draper lunar lander mission.",
-      "body": "In a move that surprised few, NASA has terminated the Draper lunar lander mission, citing development delays. This decision underscores the agency's ongoing struggle with project management, a recurring theme in large-scale aerospace endeavors. The cancellation comes as NASA shifts its focus to other lunar initiatives, potentially reallocating resources to more promising projects.",
-      "soWhat": "This termination illustrates that even the most ambitious plans can fall victim to the realities of execution; NASA's budget is finite, and every misstep is costly."
+      "kicker": "PRODUCTION",
+      "head": "Pentagon invests $7.1M in satellite cover glass",
+      "body": "The Pentagon has allocated $7.1 million to enhance U.S. production of radiation-resistant cover glass for satellites. This investment underlines the importance of protecting assets in increasingly contested orbits, where a shiny finish could be the least of a satellite's worries. With rising tensions in space, even the glass is getting a military upgrade.",
+      "soWhat": "It’s a good reminder that even in space, aesthetics can’t overshadow functionality."
     },
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M; defense pulls through.",
-      "body": "True Anomaly secured $190 million in Series C funding, bringing its valuation to $1.6 billion as it focuses on co-orbital security and space domain awareness. This round highlights the increasing interest from the Department of Defense in private sector capabilities, as True Anomaly positions itself as a key player in national security. The funding reflects a broader trend of defense agencies looking to leverage commercial innovation.",
-      "soWhat": "True Anomaly's success is a sign that in the current climate, cash is king, especially when it comes with a DoD stamp of approval."
+      "kicker": "LAUNCH",
+      "head": "Skyroot Aerospace achieves orbit with Vikram-1",
+      "body": "Skyroot Aerospace has successfully reached orbit with its Vikram-1 rocket on its first launch, marking a significant milestone for India's burgeoning commercial space sector. This achievement not only showcases India's growing capabilities but also positions Skyroot as a serious player in the global launch market. They may have just opened the floodgates for more Indian startups to follow suit.",
+      "soWhat": "Skyroot's success could mean a new wave of competition for established players like SpaceX and Rocket Lab."
     }
   ],
   "watchlist": [
     {
-      "title": "SpaceX's Starship delays continue.",
-      "body": "With another launch attempt aborted, investors will be watching closely to see if SpaceX can regain its momentum or if this becomes a pattern."
+      "title": "Keep an eye on the Artemis Accords",
+      "body": "With Mauritius signing on, the Accords could see more nations eager to join, expanding international collaboration in space."
     },
     {
-      "title": "Palantir's TITAN extension implications.",
-      "body": "The $480 million extension for the TITAN program may signal increased government reliance on data analytics in defense, which could open doors for more contracts."
+      "title": "True Anomaly's Series C implications",
+      "body": "Their $190M raise indicates a strong push for co-orbital security, which could reshape the market dynamics for satellite defense."
     },
     {
-      "title": "Sierra Space's Dream Chaser progress.",
-      "body": "Having cleared its critical design review, the Dream Chaser's next steps will be closely monitored as it aims for a timely launch amid a crowded field."
+      "title": "Sierra Space's Dream Chaser developments",
+      "body": "After passing its critical design review, the Dream Chaser could soon be a viable alternative in the cargo transport sector, if it ever actually launches."
     },
     {
-      "title": "Artemis Accords expansion.",
-      "body": "Serbia's signing of the Artemis Accords may lead to more countries aligning with U.S. lunar ambitions, complicating the geopolitical landscape."
+      "title": "Palantir's TITAN program extension",
+      "body": "The $480 million extension highlights the Pentagon's ongoing data obsession, which may lead to further investments in data-centric technologies."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic continues to grapple with operational challenges, as the market awaits clarity on its next moves."
+      "sym": "SKYROOT",
+      "note": "Skyroot's successful Vikram-1 launch positions it well against global competitors."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's stock remains buoyed by its defense contracts, but analysts are questioning long-term growth prospects."
+      "note": "Palantir's $480M TITAN extension shows the government's unending appetite for data solutions."
     },
     {
-      "sym": "SKY",
-      "note": "Skyroot's recent launch success could provide a much-needed boost to investor confidence in Indian space ventures."
+      "sym": "TRU",
+      "note": "True Anomaly's $190M Series C raises the stakes in co-orbital security."
     },
     {
-      "sym": "AXON",
-      "note": "Axon’s venture into space technology is generating interest, but it remains to be seen how it will integrate with existing products."
+      "sym": "SIE",
+      "note": "Sierra Space's Dream Chaser clears a design hurdle, but it still needs to prove it can launch."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
