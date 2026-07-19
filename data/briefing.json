@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-19",
   "issue": "No. 89",
-  "headline": "Space budgets grow. Launch costs rise. Contracts multiply.",
-  "deck": "This week saw increased funding for space resilience and a significant boost in launch contract ceilings.",
+  "headline": "Launch contracts soar. Small nations join. Space resilience funding increases.",
+  "deck": "This week saw significant moves in launch contracts, international space agreements, and funding for space resilience.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "BUDGET",
-      "head": "Space Force triples launch contract ceiling to $17B",
-      "body": "In a notable shift, the Space Force has tripled its launch contract ceiling from $5.6 billion to $17 billion, reflecting the growing demand for space access. This increase may be a response to the escalating costs associated with space operations, as the military acknowledges that the price of entry is only going up. Expect contractors to line up for a piece of this expanded pie.",
-      "soWhat": "This move suggests the Space Force is finally recognizing that space isn't a discount store."
+      "kicker": "CONTRACTS",
+      "head": "Space Force triples launch ceiling to $17 billion",
+      "body": "The Space Force has tripled its launch contract ceiling to $17 billion, responding to rising demand for satellite launches. This decision underscores the military's increasing reliance on commercial launch capabilities, which are now seen as essential to national security. Expect a flurry of bids as companies scramble to secure their piece of the pie.",
+      "soWhat": "This is a clear signal that the U.S. intends to leverage commercial capabilities more aggressively, which could squeeze smaller players out of the market."
     },
     {
-      "kicker": "PRODUCTION",
-      "head": "Pentagon invests $7.1M in satellite cover glass",
-      "body": "The Pentagon has allocated $7.1 million to enhance U.S. production of radiation-resistant cover glass for satellites. This investment underlines the importance of protecting assets in increasingly contested orbits, where a shiny finish could be the least of a satellite's worries. With rising tensions in space, even the glass is getting a military upgrade.",
-      "soWhat": "It’s a good reminder that even in space, aesthetics can’t overshadow functionality."
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M amid defense drive",
+      "body": "True Anomaly has secured $190 million in a Series C round, bringing its valuation to $1.6 billion. The funding highlights a strong demand for co-orbital security solutions and space domain awareness, as the DoD pushes for enhanced capabilities in these areas. Investors are clearly banking on the growing importance of space in defense strategies.",
+      "soWhat": "When defense budgets are tight, companies that can demonstrate a clear connection to national security will thrive, leaving less focused ventures in the dust."
     },
     {
-      "kicker": "LAUNCH",
-      "head": "Skyroot Aerospace achieves orbit with Vikram-1",
-      "body": "Skyroot Aerospace has successfully reached orbit with its Vikram-1 rocket on its first launch, marking a significant milestone for India's burgeoning commercial space sector. This achievement not only showcases India's growing capabilities but also positions Skyroot as a serious player in the global launch market. They may have just opened the floodgates for more Indian startups to follow suit.",
-      "soWhat": "Skyroot's success could mean a new wave of competition for established players like SpaceX and Rocket Lab."
+      "kicker": "INTERNATIONAL",
+      "head": "Mauritius signs Artemis Accords, joins space club",
+      "body": "Mauritius has become the 70th nation to sign the Artemis Accords, signaling a broader global interest in lunar exploration and collaboration. This move, while seemingly symbolic, reflects a growing recognition among smaller nations of the strategic importance of space. As the U.S. expands its partnerships, expect more countries to jump on the bandwagon.",
+      "soWhat": "The more nations that join the Artemis Accords, the more complex the geopolitical landscape becomes—space diplomacy is about to get a lot more crowded."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on the Artemis Accords",
-      "body": "With Mauritius signing on, the Accords could see more nations eager to join, expanding international collaboration in space."
+      "title": "Keep an eye on SpaceX secondary market",
+      "body": "With SpaceX's valuation hitting $470 billion, the secondary market is likely to see increased activity as investors weigh their options."
     },
     {
-      "title": "True Anomaly's Series C implications",
-      "body": "Their $190M raise indicates a strong push for co-orbital security, which could reshape the market dynamics for satellite defense."
+      "title": "Anduril and L3Harris tactical bid developments",
+      "body": "Their collaboration for the tactical SDA constellation could reshape the competitive landscape in military satellite communications."
     },
     {
-      "title": "Sierra Space's Dream Chaser developments",
-      "body": "After passing its critical design review, the Dream Chaser could soon be a viable alternative in the cargo transport sector, if it ever actually launches."
+      "title": "Sierra Space's Dream Chaser progress",
+      "body": "After passing its critical design review, the next milestone will be whether it can actually launch—stay tuned."
     },
     {
-      "title": "Palantir's TITAN program extension",
-      "body": "The $480 million extension highlights the Pentagon's ongoing data obsession, which may lead to further investments in data-centric technologies."
+      "title": "Hypersonic glide-vehicle testing delays",
+      "body": "With delays now stretching into the third quarter, the implications for defense readiness and funding allocations could be significant."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SKYROOT",
-      "note": "Skyroot's successful Vikram-1 launch positions it well against global competitors."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension shows the government's unending appetite for data solutions."
+      "note": "Palantir's $480M extension for TITAN underscores government appetite for data solutions."
     },
     {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M Series C raises the stakes in co-orbital security."
+      "sym": "SKYROOT",
+      "note": "Skyroot's successful Vikram-1 launch positions it as a key player in India's commercial space sector."
     },
     {
-      "sym": "SIE",
-      "note": "Sierra Space's Dream Chaser clears a design hurdle, but it still needs to prove it can launch."
+      "sym": "ASTS",
+      "note": "The bull case for ASTS suggests a precarious balance between execution and disaster—investors should tread carefully."
+    },
+    {
+      "sym": "URSA",
+      "note": "Ursa Major's $85M Series E highlights a strong defense pull—propulsion is becoming a hot commodity."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
