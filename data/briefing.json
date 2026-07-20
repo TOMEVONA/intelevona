@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-20",
   "issue": "No. 90",
-  "headline": "Funding flows. Contracts surge. Risks rise.",
-  "deck": "Investment in space tech continues as military contracts expand.",
+  "headline": "Funding flows. Contracts expand. Diplomacy grows.",
+  "deck": "This week highlights significant funding rounds and military contracts in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190 million in a Series C funding round, valuing the company at $1.6 billion. This funding aims to enhance their co-orbital security and space domain awareness capabilities, aligning with rising DoD interests in space security. The cash infusion underscores a growing appetite for defense-oriented space technologies.",
-      "soWhat": "When the DoD is throwing money at co-orbital security, you know the competition for space is heating up—literally."
+      "body": "True Anomaly secured $190 million in a Series C funding round, pushing its valuation to $1.6 billion. The funding will bolster its co-orbital security and space domain awareness capabilities, aligning with the Pentagon's increasing focus on space resilience. Notably, the DoD's appetite for such services is evident as they continue to pull through projects like this.",
+      "soWhat": "Investors are betting big on space security, but it’s a crowded field; True Anomaly needs to deliver results before the next funding round."
     },
     {
       "kicker": "CONTRACTS",
       "head": "Space Force triples launch contract ceiling to $17B",
-      "body": "The Space Force has announced a tripling of its launch contract ceiling to $17 billion, reflecting increased demand for satellite launches and related services. This move comes as part of a broader strategy to bolster U.S. capabilities in space amid geopolitical tensions. Expect a flurry of activity as contractors scramble to get a piece of the pie.",
-      "soWhat": "When the Space Force opens the floodgates, it's not just about launches—it's a signal that they expect a lot more traffic in orbit."
+      "body": "In a significant move, the Space Force has tripled its launch contract ceiling to $17 billion, reflecting a surge in demand for satellite launches. This increase suggests that the military is preparing for a more aggressive posture in space operations, likely driven by geopolitical tensions. Companies like SpaceX and Northrop Grumman are well-positioned to benefit from this expanded budget.",
+      "soWhat": "With more cash on the table, expect a frenzy of bids; the real question is whether this will lead to consolidation or just more players fighting for scraps."
     },
     {
-      "kicker": "TECH",
-      "head": "LegendSpace raises $29.5M to develop AI rocket engines",
-      "body": "Chinese startup LegendSpace has attracted $29.5 million in an angel funding round to expedite its AI-driven rocket engine development. The company aims to leverage algorithms to cut down on traditional engineering timelines, potentially reshaping the competitive landscape for rocket propulsion. This funding reflects a growing trend of using AI in aerospace engineering.",
-      "soWhat": "If AI can really cut down development times, traditional aerospace firms might need to rethink their decades-long playbook."
+      "kicker": "DIPLOMACY",
+      "head": "Mauritius signs Artemis Accords, now 70 nations onboard",
+      "body": "Mauritius recently became the 70th nation to sign the Artemis Accords, underscoring the growing importance of international cooperation in space exploration. This move aligns with NASA's efforts to establish norms in outer space, which could have implications for future missions and commercial activities. The expanding coalition reflects a shift toward a more structured approach to space governance.",
+      "soWhat": "As more nations join the Accords, the pressure will mount on those who remain outside; non-signatories may find themselves at a diplomatic disadvantage."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on the Space Force's next moves",
-      "body": "With the launch contract ceiling raised, expect new contracts to be awarded soon, potentially reshaping the competitive landscape."
+      "title": "Keep an eye on LegendSpace's AI rocket engine",
+      "body": "With $29.5 million in new funding, LegendSpace's AI-driven approach could shake up the rocket engine market if they deliver."
     },
     {
-      "title": "Watch for True Anomaly's next funding round",
-      "body": "Given their recent success, True Anomaly may attract more interest from investors looking to capitalize on defense contracts."
+      "title": "Palantir's TITAN program extension implications",
+      "body": "Palantir's $480 million extension on the TITAN program signals continued government investment in data infrastructure, which could lead to more contracts."
     },
     {
-      "title": "LegendSpace's AI engines could disrupt the market",
-      "body": "If successful, LegendSpace's approach could challenge established players and change how rocket engines are developed."
+      "title": "Sierra Space's Dream Chaser launch timeline",
+      "body": "After passing its critical design review, the timeline for Sierra Space's Dream Chaser variant will be crucial to watch as it could redefine logistics in space."
     },
     {
-      "title": "Sierra Space's Dream Chaser could finally launch",
-      "body": "With the critical design review cleared, the Dream Chaser's timeline might tighten, making it one to watch for future missions."
+      "title": "Potential IPOs in defense-tech heating up",
+      "body": "With the defense-tech IPO window cracking open, expect increased activity from startups looking to capitalize on government contracts."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480M extension signals continued government reliance on data analytics."
-    },
-    {
-      "sym": "ASTS",
-      "note": "ASTS's bull case illustrated in charts shows the struggle between execution and potential disaster."
-    },
-    {
       "sym": "SPCE",
-      "note": "Virgin Galactic remains in limbo as it navigates the complexities of commercial space tourism."
+      "note": "Virgin Galactic's stock remains volatile as it navigates the challenges of commercial spaceflight."
+    },
+    {
+      "sym": "PLTR",
+      "note": "Palantir's extension on the TITAN program keeps its stock in the spotlight as government contracts pile up."
     },
     {
       "sym": "SLS",
-      "note": "NASA's Space Launch System is still a hot topic as delays continue to pile up."
+      "note": "Sierra Space's recent design review success could be a catalyst for investor interest in the upcoming months."
+    },
+    {
+      "sym": "ASTS",
+      "note": "ASTS's bull case is intriguing, but execution will be key to sustaining investor confidence."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
