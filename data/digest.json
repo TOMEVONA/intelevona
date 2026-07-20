@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as nations align under the Artemis Accords and the Space Force expands its launch capabilities. Meanwhile, funding and partnerships continue to shape the landscape, with significant developments in satellite production and tactical collaborations.",
+  "summary": "The space and defense sectors are buzzing with activity, from funding rounds to strategic partnerships. As nations sign onto the Artemis Accords and the Space Force expands its capabilities, the landscape is shifting, albeit with the usual bureaucratic hiccups.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Artemis Accords Expansion",
-      "body": "Mauritius has joined the growing list of nations signing the Artemis Accords, now at 70. This reflects a broader trend of international cooperation in lunar exploration, albeit with varying levels of commitment."
+      "title": "Funding Frenzy in Space Tech",
+      "body": "AI-driven startups are attracting significant investments, with LegendSpace's $29.5 million angel round highlighting the trend. Meanwhile, True Anomaly's $190 million Series C underscores the growing appetite for space domain awareness technologies."
     },
     {
       "icon": "◉",
-      "title": "Space Force Budget Boost",
-      "body": "The Space Force is tripling its launch contract ceiling, indicating a robust demand for satellite launches. Coupled with a $1.4 billion increase in the FY27 budget for space resilience, it seems the military is gearing up for a busy few years."
+      "title": "International Cooperation Gains Momentum",
+      "body": "Mauritius joining the Artemis Accords marks the 70th nation to sign on, reflecting a broader commitment to collaborative lunar exploration. This is a significant step towards a more unified approach in space governance."
     },
     {
       "icon": "▲",
-      "title": "Private Sector Moves",
-      "body": "Skyroot Aerospace has successfully reached orbit with its Vikram-1 launch, marking a notable achievement in the commercial space sector. Meanwhile, True Anomaly's $190 million Series C funding round highlights investor confidence in the burgeoning space domain awareness market."
+      "title": "Military Space Initiatives Expand",
+      "body": "The Space Force's tripling of launch contract ceilings indicates a robust demand for military space capabilities. Furthermore, the Pentagon's $7.1 million investment in satellite cover glass production signals a push for domestic manufacturing in critical areas."
     },
     {
       "icon": "◆",
-      "title": "Defense Tech Developments",
-      "body": "Palantir's $480 million extension on the TITAN ground station program underscores the increasing reliance on data and analytics in defense. Additionally, the collaboration between Anduril and L3Harris for a tactical SDA constellation bid signals a shift towards integrated defense solutions."
+      "title": "Tech Partnerships on the Rise",
+      "body": "Anduril and L3Harris teaming up for a tactical satellite constellation bid illustrates the trend of defense firms consolidating resources for competitive advantage. This collaboration could enhance capabilities in an increasingly crowded space."
     }
   ],
-  "updated": "2026-07-19 14:49 UTC"
+  "updated": "2026-07-20 15:14 UTC"
 }

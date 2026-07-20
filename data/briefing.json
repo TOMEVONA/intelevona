@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-19",
-  "issue": "No. 89",
-  "headline": "Launch contracts soar. Small nations join. Space resilience funding increases.",
-  "deck": "This week saw significant moves in launch contracts, international space agreements, and funding for space resilience.",
+  "updated": "2026-07-20",
+  "issue": "No. 90",
+  "headline": "Funding flows. Contracts surge. Risks rise.",
+  "deck": "Investment in space tech continues as military contracts expand.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "CONTRACTS",
-      "head": "Space Force triples launch ceiling to $17 billion",
-      "body": "The Space Force has tripled its launch contract ceiling to $17 billion, responding to rising demand for satellite launches. This decision underscores the military's increasing reliance on commercial launch capabilities, which are now seen as essential to national security. Expect a flurry of bids as companies scramble to secure their piece of the pie.",
-      "soWhat": "This is a clear signal that the U.S. intends to leverage commercial capabilities more aggressively, which could squeeze smaller players out of the market."
-    },
-    {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid defense drive",
-      "body": "True Anomaly has secured $190 million in a Series C round, bringing its valuation to $1.6 billion. The funding highlights a strong demand for co-orbital security solutions and space domain awareness, as the DoD pushes for enhanced capabilities in these areas. Investors are clearly banking on the growing importance of space in defense strategies.",
-      "soWhat": "When defense budgets are tight, companies that can demonstrate a clear connection to national security will thrive, leaving less focused ventures in the dust."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured $190 million in a Series C funding round, valuing the company at $1.6 billion. This funding aims to enhance their co-orbital security and space domain awareness capabilities, aligning with rising DoD interests in space security. The cash infusion underscores a growing appetite for defense-oriented space technologies.",
+      "soWhat": "When the DoD is throwing money at co-orbital security, you know the competition for space is heating up—literally."
     },
     {
-      "kicker": "INTERNATIONAL",
-      "head": "Mauritius signs Artemis Accords, joins space club",
-      "body": "Mauritius has become the 70th nation to sign the Artemis Accords, signaling a broader global interest in lunar exploration and collaboration. This move, while seemingly symbolic, reflects a growing recognition among smaller nations of the strategic importance of space. As the U.S. expands its partnerships, expect more countries to jump on the bandwagon.",
-      "soWhat": "The more nations that join the Artemis Accords, the more complex the geopolitical landscape becomes—space diplomacy is about to get a lot more crowded."
+      "kicker": "CONTRACTS",
+      "head": "Space Force triples launch contract ceiling to $17B",
+      "body": "The Space Force has announced a tripling of its launch contract ceiling to $17 billion, reflecting increased demand for satellite launches and related services. This move comes as part of a broader strategy to bolster U.S. capabilities in space amid geopolitical tensions. Expect a flurry of activity as contractors scramble to get a piece of the pie.",
+      "soWhat": "When the Space Force opens the floodgates, it's not just about launches—it's a signal that they expect a lot more traffic in orbit."
+    },
+    {
+      "kicker": "TECH",
+      "head": "LegendSpace raises $29.5M to develop AI rocket engines",
+      "body": "Chinese startup LegendSpace has attracted $29.5 million in an angel funding round to expedite its AI-driven rocket engine development. The company aims to leverage algorithms to cut down on traditional engineering timelines, potentially reshaping the competitive landscape for rocket propulsion. This funding reflects a growing trend of using AI in aerospace engineering.",
+      "soWhat": "If AI can really cut down development times, traditional aerospace firms might need to rethink their decades-long playbook."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on SpaceX secondary market",
-      "body": "With SpaceX's valuation hitting $470 billion, the secondary market is likely to see increased activity as investors weigh their options."
+      "title": "Keep an eye on the Space Force's next moves",
+      "body": "With the launch contract ceiling raised, expect new contracts to be awarded soon, potentially reshaping the competitive landscape."
     },
     {
-      "title": "Anduril and L3Harris tactical bid developments",
-      "body": "Their collaboration for the tactical SDA constellation could reshape the competitive landscape in military satellite communications."
+      "title": "Watch for True Anomaly's next funding round",
+      "body": "Given their recent success, True Anomaly may attract more interest from investors looking to capitalize on defense contracts."
     },
     {
-      "title": "Sierra Space's Dream Chaser progress",
-      "body": "After passing its critical design review, the next milestone will be whether it can actually launch—stay tuned."
+      "title": "LegendSpace's AI engines could disrupt the market",
+      "body": "If successful, LegendSpace's approach could challenge established players and change how rocket engines are developed."
     },
     {
-      "title": "Hypersonic glide-vehicle testing delays",
-      "body": "With delays now stretching into the third quarter, the implications for defense readiness and funding allocations could be significant."
+      "title": "Sierra Space's Dream Chaser could finally launch",
+      "body": "With the critical design review cleared, the Dream Chaser's timeline might tighten, making it one to watch for future missions."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension for TITAN underscores government appetite for data solutions."
-    },
-    {
-      "sym": "SKYROOT",
-      "note": "Skyroot's successful Vikram-1 launch positions it as a key player in India's commercial space sector."
+      "note": "Palantir's $480M extension signals continued government reliance on data analytics."
     },
     {
       "sym": "ASTS",
-      "note": "The bull case for ASTS suggests a precarious balance between execution and disaster—investors should tread carefully."
+      "note": "ASTS's bull case illustrated in charts shows the struggle between execution and potential disaster."
     },
     {
-      "sym": "URSA",
-      "note": "Ursa Major's $85M Series E highlights a strong defense pull—propulsion is becoming a hot commodity."
+      "sym": "SPCE",
+      "note": "Virgin Galactic remains in limbo as it navigates the complexities of commercial space tourism."
+    },
+    {
+      "sym": "SLS",
+      "note": "NASA's Space Launch System is still a hot topic as delays continue to pile up."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
