@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-20",
-  "issue": "No. 90",
-  "headline": "Funding flows. Contracts expand. Diplomacy grows.",
-  "deck": "This week highlights significant funding rounds and military contracts in the space sector.",
+  "updated": "2026-07-21",
+  "issue": "No. 91",
+  "headline": "Funding flows. Partnerships form. Delays continue.",
+  "deck": "This week sees notable funding rounds and strategic partnerships in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured $190 million in a Series C funding round, pushing its valuation to $1.6 billion. The funding will bolster its co-orbital security and space domain awareness capabilities, aligning with the Pentagon's increasing focus on space resilience. Notably, the DoD's appetite for such services is evident as they continue to pull through projects like this.",
-      "soWhat": "Investors are betting big on space security, but it’s a crowded field; True Anomaly needs to deliver results before the next funding round."
+      "body": "True Anomaly has secured a $190 million Series C round, pushing its valuation to $1.6 billion. The funding will bolster its co-orbital security and space domain awareness capabilities, a timely move as the U.S. Department of Defense increases its focus on space threats. With DoD pull-through now a headline, True Anomaly is positioning itself as a key player in an increasingly competitive market.",
+      "soWhat": "If the government is betting big on co-orbital security, it might signal that traditional defense contractors are feeling the heat from agile newcomers."
     },
     {
-      "kicker": "CONTRACTS",
-      "head": "Space Force triples launch contract ceiling to $17B",
-      "body": "In a significant move, the Space Force has tripled its launch contract ceiling to $17 billion, reflecting a surge in demand for satellite launches. This increase suggests that the military is preparing for a more aggressive posture in space operations, likely driven by geopolitical tensions. Companies like SpaceX and Northrop Grumman are well-positioned to benefit from this expanded budget.",
-      "soWhat": "With more cash on the table, expect a frenzy of bids; the real question is whether this will lead to consolidation or just more players fighting for scraps."
+      "kicker": "PARTNERSHIP",
+      "head": "Anduril and L3Harris team up for tactical SDA",
+      "body": "Anduril and L3Harris have joined forces to bid for a tactical Space Development Agency constellation project. This partnership reflects a growing trend of collaboration between established defense firms and tech startups, aiming to leverage their respective strengths in a bid for government contracts. The SDA's focus on rapid deployment could favor nimble players like Anduril, which is known for its innovative defense solutions.",
+      "soWhat": "Expect more of these partnerships as larger firms seek to tap into the agility of startups while the latter aim for legitimacy through association."
     },
     {
-      "kicker": "DIPLOMACY",
-      "head": "Mauritius signs Artemis Accords, now 70 nations onboard",
-      "body": "Mauritius recently became the 70th nation to sign the Artemis Accords, underscoring the growing importance of international cooperation in space exploration. This move aligns with NASA's efforts to establish norms in outer space, which could have implications for future missions and commercial activities. The expanding coalition reflects a shift toward a more structured approach to space governance.",
-      "soWhat": "As more nations join the Accords, the pressure will mount on those who remain outside; non-signatories may find themselves at a diplomatic disadvantage."
+      "kicker": "BUDGET",
+      "head": "FY27 budget adds $1.4B for space resilience",
+      "body": "The FY27 budget markup has allocated an additional $1.4 billion for space resilience efforts, reflecting a growing recognition of the strategic importance of space assets. This funding is likely to support a range of initiatives, from satellite upgrades to cybersecurity measures. As threats in space increase, this financial commitment indicates that the government is finally taking the issue seriously.",
+      "soWhat": "More money in space resilience means less room for complacency; companies need to step up their game or risk being left behind."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on LegendSpace's AI rocket engine",
-      "body": "With $29.5 million in new funding, LegendSpace's AI-driven approach could shake up the rocket engine market if they deliver."
+      "title": "Keep an eye on True Anomaly's next moves",
+      "body": "With significant funding secured, True Anomaly's strategic decisions will be crucial as it seeks to capitalize on its new resources."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "Palantir's $480 million extension on the TITAN program signals continued government investment in data infrastructure, which could lead to more contracts."
+      "title": "Anduril's tactical SDA bid outcomes",
+      "body": "The results of Anduril and L3Harris's bid could reshape the competitive landscape in tactical space capabilities."
     },
     {
-      "title": "Sierra Space's Dream Chaser launch timeline",
-      "body": "After passing its critical design review, the timeline for Sierra Space's Dream Chaser variant will be crucial to watch as it could redefine logistics in space."
+      "title": "Implications of the $1.4B budget boost",
+      "body": "The allocation for space resilience could lead to increased procurement opportunities for companies focused on satellite and cybersecurity solutions."
     },
     {
-      "title": "Potential IPOs in defense-tech heating up",
-      "body": "With the defense-tech IPO window cracking open, expect increased activity from startups looking to capitalize on government contracts."
+      "title": "Watch for deltaVision's production ramp-up",
+      "body": "With a €10.2 million funding round, deltaVision's expansion in valve production for in-space refueling is worth monitoring for potential partnerships."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains volatile as it navigates the challenges of commercial spaceflight."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's extension on the TITAN program keeps its stock in the spotlight as government contracts pile up."
+      "note": "Palantir's $480M extension on the TITAN program shows the government's ongoing appetite for data solutions."
     },
     {
       "sym": "SLS",
-      "note": "Sierra Space's recent design review success could be a catalyst for investor interest in the upcoming months."
+      "note": "Sierra Space's Dream Chaser variant passing its critical design review brings it a step closer to operational readiness."
+    },
+    {
+      "sym": "KBR",
+      "note": "KBR's reorganization for Golden Dome work suggests a strategic pivot towards defense tech."
     },
     {
       "sym": "ASTS",
-      "note": "ASTS's bull case is intriguing, but execution will be key to sustaining investor confidence."
+      "note": "ASTS's bull case illustrated through charts is a reminder that hype doesn't always equal results."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
