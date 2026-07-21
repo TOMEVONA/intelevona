@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-21",
   "issue": "No. 91",
-  "headline": "Funding flows. Partnerships form. Delays continue.",
-  "deck": "This week sees notable funding rounds and strategic partnerships in the space sector.",
+  "headline": "Funding flows. Collaborations grow. Delays persist.",
+  "deck": "This week, space funding continues to surge while strategic partnerships form amid ongoing delays.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly has secured a $190 million Series C round, pushing its valuation to $1.6 billion. The funding will bolster its co-orbital security and space domain awareness capabilities, a timely move as the U.S. Department of Defense increases its focus on space threats. With DoD pull-through now a headline, True Anomaly is positioning itself as a key player in an increasingly competitive market.",
-      "soWhat": "If the government is betting big on co-orbital security, it might signal that traditional defense contractors are feeling the heat from agile newcomers."
+      "head": "True Anomaly raises $190M amid co-orbital concerns",
+      "body": "True Anomaly has secured a $190 million Series C funding round, valuing the company at $1.6 billion. This round underscores the increasing urgency for co-orbital security solutions, as evidenced by the U.S. government's heightened focus on space domain awareness. With the Department of Defense's appetite for innovative defense tech, True Anomaly is well-positioned for growth.",
+      "soWhat": "In space, cash often trumps actual innovation, and True Anomaly is cashing in on a hot topic."
     },
     {
-      "kicker": "PARTNERSHIP",
-      "head": "Anduril and L3Harris team up for tactical SDA",
-      "body": "Anduril and L3Harris have joined forces to bid for a tactical Space Development Agency constellation project. This partnership reflects a growing trend of collaboration between established defense firms and tech startups, aiming to leverage their respective strengths in a bid for government contracts. The SDA's focus on rapid deployment could favor nimble players like Anduril, which is known for its innovative defense solutions.",
-      "soWhat": "Expect more of these partnerships as larger firms seek to tap into the agility of startups while the latter aim for legitimacy through association."
+      "kicker": "COLLABORATION",
+      "head": "UK and Florida pledge $400,000 for space projects",
+      "body": "The UK and Florida have committed $400,000 towards joint space projects, showcasing a rare instance of state-level collaboration in the space sector. This funding will likely focus on technology development that benefits both regions, but the small amount raises questions about the scale of ambition behind the partnership.",
+      "soWhat": "When collaboration comes with a price tag, it’s worth wondering if the return will justify the investment."
     },
     {
-      "kicker": "BUDGET",
-      "head": "FY27 budget adds $1.4B for space resilience",
-      "body": "The FY27 budget markup has allocated an additional $1.4 billion for space resilience efforts, reflecting a growing recognition of the strategic importance of space assets. This funding is likely to support a range of initiatives, from satellite upgrades to cybersecurity measures. As threats in space increase, this financial commitment indicates that the government is finally taking the issue seriously.",
-      "soWhat": "More money in space resilience means less room for complacency; companies need to step up their game or risk being left behind."
+      "kicker": "DELAY",
+      "head": "Hypersonic glide-vehicle test slips again",
+      "body": "For the third consecutive quarter, a hypersonic glide-vehicle test has been postponed, highlighting the persistent challenges in this high-stakes domain. The delays reflect not just technical hurdles but also a broader trend of overpromising and underdelivering in defense tech.",
+      "soWhat": "If hypersonic tech is the future of warfare, we might need to recalibrate our expectations—and timelines."
     }
   ],
   "watchlist": [
     {
       "title": "Keep an eye on True Anomaly's next moves",
-      "body": "With significant funding secured, True Anomaly's strategic decisions will be crucial as it seeks to capitalize on its new resources."
+      "body": "With $190 million in fresh capital, True Anomaly's next steps could reshape co-orbital security strategies."
     },
     {
-      "title": "Anduril's tactical SDA bid outcomes",
-      "body": "The results of Anduril and L3Harris's bid could reshape the competitive landscape in tactical space capabilities."
+      "title": "Watch for KBR's Golden Dome unit developments",
+      "body": "KBR's new defense tech unit may signal an aggressive push into military contracts, particularly in the Golden Dome project."
     },
     {
-      "title": "Implications of the $1.4B budget boost",
-      "body": "The allocation for space resilience could lead to increased procurement opportunities for companies focused on satellite and cybersecurity solutions."
+      "title": "Agile Space's new CTO could shift strategy",
+      "body": "The appointment of a new CTO at Agile Space Industries might indicate a strategic pivot or renewed focus on their tech offerings."
     },
     {
-      "title": "Watch for deltaVision's production ramp-up",
-      "body": "With a €10.2 million funding round, deltaVision's expansion in valve production for in-space refueling is worth monitoring for potential partnerships."
+      "title": "Palantir's TITAN extension implications",
+      "body": "Palantir's $480 million extension on the TITAN program suggests ongoing government reliance on data analytics for defense operations."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program shows the government's ongoing appetite for data solutions."
-    },
-    {
-      "sym": "SLS",
-      "note": "Sierra Space's Dream Chaser variant passing its critical design review brings it a step closer to operational readiness."
+      "note": "Palantir's $480M TITAN extension shows the government’s relentless data appetite."
     },
     {
       "sym": "KBR",
-      "note": "KBR's reorganization for Golden Dome work suggests a strategic pivot towards defense tech."
+      "note": "KBR's new defense tech unit for Golden Dome indicates a serious commitment to military contracts."
+    },
+    {
+      "sym": "TRU",
+      "note": "True Anomaly's $190M funding round positions it well in the co-orbital security market."
     },
     {
       "sym": "ASTS",
-      "note": "ASTS's bull case illustrated through charts is a reminder that hype doesn't always equal results."
+      "note": "ASTS's bull case highlights the precarious balance between execution and potential disaster."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
