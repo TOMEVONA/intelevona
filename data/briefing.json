@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-21",
-  "issue": "No. 91",
-  "headline": "Funding flows. Collaborations grow. Delays persist.",
-  "deck": "This week, space funding continues to surge while strategic partnerships form amid ongoing delays.",
+  "updated": "2026-07-22",
+  "issue": "No. 92",
+  "headline": "New divisions. Expansions. Strategic partnerships.",
+  "deck": "Defense interests grow as companies pivot and expand.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amid co-orbital concerns",
-      "body": "True Anomaly has secured a $190 million Series C funding round, valuing the company at $1.6 billion. This round underscores the increasing urgency for co-orbital security solutions, as evidenced by the U.S. government's heightened focus on space domain awareness. With the Department of Defense's appetite for innovative defense tech, True Anomaly is well-positioned for growth.",
-      "soWhat": "In space, cash often trumps actual innovation, and True Anomaly is cashing in on a hot topic."
+      "kicker": "DEFENSE",
+      "head": "Vast aims for defense contracts with new division",
+      "body": "Vast has launched a new division specifically for national security projects, signaling a strategic pivot towards the defense sector. This move comes as companies like True Anomaly secure $190 million in Series C funding, showcasing the government's growing appetite for co-orbital security solutions. Vast's initiative reflects a broader trend where space companies are eager to tap into the lucrative defense market, previously dominated by traditional contractors.",
+      "soWhat": "If Vast can land defense contracts, it might just validate the notion that every space company should have a 'defense' wing."
+    },
+    {
+      "kicker": "EXPANSION",
+      "head": "Relativity Space ramps up Terran R production",
+      "body": "Relativity Space is expanding its Terran R production capabilities in Florida, aiming to capitalize on the growing demand for launch services. This expansion comes on the heels of a $260 million Series C funding round for Stoke Space, also focused on reusable launch systems. With the launch market heating up, Relativity's increased production could position it as a key player in the medium-lift category.",
+      "soWhat": "In a crowded field, the ability to scale quickly might just be the ticket to staying relevant—assuming they can actually launch on time."
     },
     {
       "kicker": "COLLABORATION",
-      "head": "UK and Florida pledge $400,000 for space projects",
-      "body": "The UK and Florida have committed $400,000 towards joint space projects, showcasing a rare instance of state-level collaboration in the space sector. This funding will likely focus on technology development that benefits both regions, but the small amount raises questions about the scale of ambition behind the partnership.",
-      "soWhat": "When collaboration comes with a price tag, it’s worth wondering if the return will justify the investment."
-    },
-    {
-      "kicker": "DELAY",
-      "head": "Hypersonic glide-vehicle test slips again",
-      "body": "For the third consecutive quarter, a hypersonic glide-vehicle test has been postponed, highlighting the persistent challenges in this high-stakes domain. The delays reflect not just technical hurdles but also a broader trend of overpromising and underdelivering in defense tech.",
-      "soWhat": "If hypersonic tech is the future of warfare, we might need to recalibrate our expectations—and timelines."
+      "head": "Anduril and L3Harris team for SDA constellation",
+      "body": "Anduril and L3Harris are joining forces to bid on a tactical Space Development Agency (SDA) constellation, highlighting the growing trend of collaboration in defense tech. Their partnership aims to leverage L3Harris's satellite expertise alongside Anduril's innovative defense capabilities. As the FY27 budget adds $1.4 billion for space resilience, this collaboration could be a timely move to secure government contracts amid increasing competition.",
+      "soWhat": "In defense contracting, partnerships can be more valuable than solo acts; it's all about who you know—and who you can convince to join you."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on True Anomaly's next moves",
-      "body": "With $190 million in fresh capital, True Anomaly's next steps could reshape co-orbital security strategies."
+      "title": "Keep an eye on True Anomaly's momentum",
+      "body": "With $190 million in fresh funding, True Anomaly could expand its influence in co-orbital security, potentially attracting more government contracts."
     },
     {
-      "title": "Watch for KBR's Golden Dome unit developments",
-      "body": "KBR's new defense tech unit may signal an aggressive push into military contracts, particularly in the Golden Dome project."
+      "title": "Watch for Sierra Space's next moves",
+      "body": "Having cleared a critical design review, Sierra Space's Dream Chaser DoD variant could soon be on the launch pad—if it ever gets there."
     },
     {
-      "title": "Agile Space's new CTO could shift strategy",
-      "body": "The appointment of a new CTO at Agile Space Industries might indicate a strategic pivot or renewed focus on their tech offerings."
+      "title": "Relativity's production timeline matters",
+      "body": "As Relativity ramps up production, any delays could impact its competitiveness in the increasingly crowded launch market."
     },
     {
-      "title": "Palantir's TITAN extension implications",
-      "body": "Palantir's $480 million extension on the TITAN program suggests ongoing government reliance on data analytics for defense operations."
+      "title": "Expect more from the Defense-Tech IPO window",
+      "body": "With signs of life in defense-tech IPOs, investors might start looking for the next big thing beyond the usual suspects."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension shows the government’s relentless data appetite."
+      "sym": "TRUE",
+      "note": "True Anomaly's $190M Series C shows the DoD's growing appetite for co-orbital security."
     },
     {
-      "sym": "KBR",
-      "note": "KBR's new defense tech unit for Golden Dome indicates a serious commitment to military contracts."
+      "sym": "RLV",
+      "note": "Relativity Space's expansion in Florida could be a game changer if they can deliver on production timelines."
     },
     {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M funding round positions it well in the co-orbital security market."
+      "sym": "PALANTIR",
+      "note": "Palantir's $480M extension on the TITAN program underscores the government's insatiable demand for data."
     },
     {
-      "sym": "ASTS",
-      "note": "ASTS's bull case highlights the precarious balance between execution and potential disaster."
+      "sym": "STOKE",
+      "note": "Stoke Space's $260M Series C positions it well, but can it actually deliver reusable rockets?"
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
