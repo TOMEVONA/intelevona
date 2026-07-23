@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity, from new funding initiatives to strategic partnerships aimed at enhancing national security. As companies vie for a slice of the expanding market, the focus on resilience and innovation remains paramount.",
+  "summary": "The space industry is buzzing with activity as satellite demand surges and regulatory changes reshape the landscape. Meanwhile, competition with China and emerging defense technologies continue to dominate discussions.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Funding for Space Resilience",
-      "body": "The recent FY27 budget markup adds $1.4 billion to the space resilience line, signaling a serious commitment to strengthening capabilities. This influx of cash could spur innovation and competition among contractors."
-    },
-    {
-      "icon": "◉",
-      "title": "Strategic Partnerships Emerge",
-      "body": "Anduril and L3Harris are teaming up for a tactical SDA constellation bid, highlighting the trend of collaboration in a competitive landscape. Such alliances may be crucial for navigating the complexities of modern defense needs."
+      "title": "Satellite Demand on the Rise",
+      "body": "Airbus is capitalizing on the growing appetite for satellite systems, positioning itself well in a competitive market. This trend reflects a broader shift as nations and companies prioritize space capabilities."
     },
     {
       "icon": "▲",
-      "title": "Expansion in Production Capabilities",
-      "body": "Relativity Space's decision to expand Terran R production in Florida underscores the growing demand for launch services. This move could position the company favorably as competition heats up in the commercial launch market."
+      "title": "Regulatory Changes Ahead",
+      "body": "The FCC's sweeping reforms and new C-band auction are set to reshape the satellite licensing landscape, potentially easing congestion for operators. These changes could pave the way for more efficient deployment of satellite services."
     },
     {
       "icon": "◆",
-      "title": "Geopolitical Tensions Influence Strategy",
-      "body": "The ongoing strategic competition with China is prompting a reevaluation of multi-domain capabilities, as seen in various industry discussions. This geopolitical backdrop is likely to shape investments and innovations in the space sector for years to come."
+      "title": "Defense Tech Collaboration",
+      "body": "Anduril and L3Harris's partnership on a tactical SDA constellation bid highlights the increasing integration of commercial tech in defense strategies. This trend signals a shift towards more agile and responsive military capabilities."
+    },
+    {
+      "icon": "◉",
+      "title": "China's Orbital Maneuvers",
+      "body": "China's Shijian-31 satellite is making waves with its unique GEO orbit, raising eyebrows among international observers. Such advancements underscore the strategic competition in space and the need for vigilance."
     }
   ],
-  "updated": "2026-07-22 15:28 UTC"
+  "updated": "2026-07-23 15:13 UTC"
 }

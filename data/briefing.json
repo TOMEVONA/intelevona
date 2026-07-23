@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-22",
-  "issue": "No. 92",
-  "headline": "Funding flows. Defense bids. Launches evolve.",
-  "deck": "This week highlights funding rounds and strategic partnerships shaping the space landscape.",
+  "updated": "2026-07-23",
+  "issue": "No. 93",
+  "headline": "Funding flows. Satellites soar. Tensions rise.",
+  "deck": "This week features a mix of funding boosts, strategic satellite maneuvers, and rising geopolitical tensions in space.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -45,38 +45,38 @@
     {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured a $190 million Series C funding round, underscoring the growing DoD interest in co-orbital security and space domain awareness (SDA). The company is now valued at $1.6 billion, reflecting the heavy pull from defense contracts. Investors are clearly betting on the need for enhanced security in increasingly crowded orbits.",
-      "soWhat": "With this kind of cash flow, True Anomaly is positioned to become a key player, but the real question is whether they can deliver on their promises in a timely manner."
+      "body": "True Anomaly secured a $190 million Series C round, emphasizing its focus on co-orbital security and space domain awareness. The funding highlights the Department of Defense's increasing reliance on commercial capabilities for national security. With a valuation now pegged at $1.6 billion, True Anomaly is positioning itself as a key player in the defense space.",
+      "soWhat": "Investors are clearly betting that space security will be a hot commodity, but it remains to be seen if True Anomaly can deliver beyond the cash."
     },
     {
-      "kicker": "PARTNERSHIP",
-      "head": "Anduril teams with L3Harris on SDA bid",
-      "body": "Anduril and L3Harris have joined forces to pursue a tactical SDA constellation contract, which could reshape how the military approaches space-based situational awareness. This collaboration comes at a time when the FY27 budget has earmarked an additional $1.4 billion for space resilience, indicating a serious commitment to strengthening U.S. capabilities.",
-      "soWhat": "If this bid succeeds, it might not just be a win for these companies, but a signal that the military is serious about integrating commercial tech into its operations."
+      "kicker": "STRATEGY",
+      "head": "Vast enters national security with new division",
+      "body": "Vast has launched a dedicated division for national security projects, aiming to secure contracts in a space increasingly defined by defense needs. This move comes as the company seeks to capitalize on growing government interest in private sector solutions. With the U.S. military ramping up its space operations, Vast is betting on its ability to navigate this complex landscape.",
+      "soWhat": "Vast's pivot to defense could be a sign that even space startups are realizing they need to play the government game to survive."
     },
     {
-      "kicker": "PRODUCTION",
-      "head": "Relativity Space ramps up Terran R production",
-      "body": "Relativity Space announced plans to expand its Terran R production in Florida, aiming to meet increasing demand for medium-lift launch services. The company’s focus on 3D printing technology is expected to streamline operations and reduce costs, although the timeline for first launches remains vague. Investors are keenly watching if this increased production will translate into actual missions.",
-      "soWhat": "Relativity's push for production efficiency might just be the edge they need, but they’ll have to prove they can deliver rockets on time, or risk losing ground to more established players."
+      "kicker": "REGULATION",
+      "head": "FCC clears C-band for 5G, complicating satellite ops",
+      "body": "The FCC has approved sweeping reforms that will push satellite operators out of more C-band spectrum to facilitate a 5G auction. This decision could significantly impact companies relying on this spectrum for satellite communications, with potential revenue implications. As the 5G landscape evolves, satellite operators may find themselves squeezed between terrestrial demands and orbital ambitions.",
+      "soWhat": "This move could be a wake-up call for satellite operators that the terrestrial world is not going to wait for them to catch up."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on True Anomaly's next moves",
-      "body": "With $190M in the bank, True Anomaly's strategic decisions will be closely scrutinized as they scale operations."
+      "title": "Watch for more funding rounds next week",
+      "body": "With True Anomaly's success, expect other startups to ramp up their fundraising efforts, particularly in defense and security."
     },
     {
-      "title": "Anduril-L3Harris bid results expected soon",
-      "body": "The outcome of their tactical SDA bid could set a precedent for future military partnerships in space."
+      "title": "Potential fallout from FCC's C-band decision",
+      "body": "Satellite companies will need to reassess their strategies in light of the FCC's new regulations, which could lead to consolidation."
     },
     {
-      "title": "Relativity's production timeline may shift",
-      "body": "Any delays in Terran R production could impact their competitive positioning in the launch market."
+      "title": "Vast's contracts could reshape defense landscape",
+      "body": "If Vast secures significant contracts, it could signal a new trend of startups becoming essential players in national security."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "The $480 million extension could signal more lucrative government contracts on the horizon for data-centric firms."
+      "title": "Implications of Shijian-31's orbit",
+      "body": "China's unique orbit for Shijian-31 may prompt U.S. operators to rethink their own orbital strategies and capabilities."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "TRUE",
-      "note": "True Anomaly's $190M Series C raises its profile significantly in the defense sector."
-    },
-    {
-      "sym": "REL",
-      "note": "Relativity Space's production expansion could be a make-or-break moment for their launch ambitions."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains stagnant as it continues to delay commercial flights."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's TITAN program extension shows that data analytics remains a government priority."
+      "note": "Palantir's $480M extension on the TITAN program shows the government is still keen on data solutions."
     },
     {
-      "sym": "AND",
-      "note": "Anduril's partnership with L3Harris is a strategic play, but execution will be key."
+      "sym": "SLS",
+      "note": "Boeing's SLS program faces delays again, raising questions about its future viability."
+    },
+    {
+      "sym": "AAPL",
+      "note": "Apple's interest in satellite tech could shake up the market, but details remain scarce."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
