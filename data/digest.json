@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as satellite demand surges and regulatory changes reshape the landscape. Meanwhile, competition with China and emerging defense technologies continue to dominate discussions.",
+  "summary": "The space and defense sectors are buzzing with activity as companies pivot to meet new demands and the regulatory landscape shifts. Notable developments include a focus on satellite systems and innovative approaches to national security.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Satellite Demand on the Rise",
-      "body": "Airbus is capitalizing on the growing appetite for satellite systems, positioning itself well in a competitive market. This trend reflects a broader shift as nations and companies prioritize space capabilities."
-    },
-    {
-      "icon": "▲",
-      "title": "Regulatory Changes Ahead",
-      "body": "The FCC's sweeping reforms and new C-band auction are set to reshape the satellite licensing landscape, potentially easing congestion for operators. These changes could pave the way for more efficient deployment of satellite services."
-    },
-    {
-      "icon": "◆",
-      "title": "Defense Tech Collaboration",
-      "body": "Anduril and L3Harris's partnership on a tactical SDA constellation bid highlights the increasing integration of commercial tech in defense strategies. This trend signals a shift towards more agile and responsive military capabilities."
+      "title": "Satellite Systems Surge",
+      "body": "Airbus is capitalizing on the increasing demand for satellite systems, a trend likely to continue as global connectivity needs rise. Meanwhile, the FCC's new licensing reforms could streamline satellite deployment, further fueling this growth."
     },
     {
       "icon": "◉",
-      "title": "China's Orbital Maneuvers",
-      "body": "China's Shijian-31 satellite is making waves with its unique GEO orbit, raising eyebrows among international observers. Such advancements underscore the strategic competition in space and the need for vigilance."
+      "title": "National Security Ventures",
+      "body": "Vast's new division for national security projects signals a growing recognition of the space domain's strategic importance. Similarly, Anduril and L3Harris's collaboration on a tactical SDA constellation bid highlights the competitive landscape for defense-related space initiatives."
+    },
+    {
+      "icon": "▲",
+      "title": "Regulatory Shifts Ahead",
+      "body": "The FCC's sweeping space reforms, including a new C-band auction, indicate a significant regulatory pivot that could reshape the satellite industry. This overhaul aims to enhance operational efficiency but may also invite new challenges for existing players."
+    },
+    {
+      "icon": "◆",
+      "title": "Funding and Innovation",
+      "body": "The FY27 budget markup's $1.4B boost for space resilience underscores a commitment to strengthening national capabilities in this arena. Additionally, True Anomaly's recent $190M Series C round showcases the venture capital interest in space tech innovation."
     }
   ],
-  "updated": "2026-07-23 15:13 UTC"
+  "updated": "2026-07-23 15:51 UTC"
 }

@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-23",
   "issue": "No. 93",
-  "headline": "Funding flows. Satellites soar. Tensions rise.",
-  "deck": "This week features a mix of funding boosts, strategic satellite maneuvers, and rising geopolitical tensions in space.",
+  "headline": "Funding flows. Satellites swarm. Defense budgets expand.",
+  "deck": "This week, space funding accelerates while national security projects gain traction.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured a $190 million Series C round, emphasizing its focus on co-orbital security and space domain awareness. The funding highlights the Department of Defense's increasing reliance on commercial capabilities for national security. With a valuation now pegged at $1.6 billion, True Anomaly is positioning itself as a key player in the defense space.",
-      "soWhat": "Investors are clearly betting that space security will be a hot commodity, but it remains to be seen if True Anomaly can deliver beyond the cash."
+      "head": "True Anomaly's $190M Series C raises eyebrows",
+      "body": "True Anomaly has secured a $190 million Series C funding round, pushing its valuation to $1.6 billion. The company specializes in co-orbital security and space domain awareness, indicating a strong pull from the Department of Defense. This funding underscores the growing emphasis on securing space assets, as the military increasingly views space as a contested domain.",
+      "soWhat": "Investors are clearly betting that the future of warfare will play out in orbit, making True Anomaly a key player in a crowded field."
     },
     {
       "kicker": "STRATEGY",
-      "head": "Vast enters national security with new division",
-      "body": "Vast has launched a dedicated division for national security projects, aiming to secure contracts in a space increasingly defined by defense needs. This move comes as the company seeks to capitalize on growing government interest in private sector solutions. With the U.S. military ramping up its space operations, Vast is betting on its ability to navigate this complex landscape.",
-      "soWhat": "Vast's pivot to defense could be a sign that even space startups are realizing they need to play the government game to survive."
+      "head": "Airbus capitalizes on satellite demand surge",
+      "body": "Airbus is taking advantage of the growing demand for satellite systems, reportedly ramping up production to meet the needs of both commercial and governmental clients. The company’s recent reorganization appears to be paying off, as it aligns with a market that’s projected to expand by nearly 10% annually over the next five years. This comes at a time when competitors are still figuring out their strategies.",
+      "soWhat": "Airbus's timing suggests they’re not just in the game; they’re playing to win, leaving others scrambling to catch up."
     },
     {
-      "kicker": "REGULATION",
-      "head": "FCC clears C-band for 5G, complicating satellite ops",
-      "body": "The FCC has approved sweeping reforms that will push satellite operators out of more C-band spectrum to facilitate a 5G auction. This decision could significantly impact companies relying on this spectrum for satellite communications, with potential revenue implications. As the 5G landscape evolves, satellite operators may find themselves squeezed between terrestrial demands and orbital ambitions.",
-      "soWhat": "This move could be a wake-up call for satellite operators that the terrestrial world is not going to wait for them to catch up."
+      "kicker": "DEFENSE",
+      "head": "Palantir extends TITAN program by $480M",
+      "body": "Palantir has received a $480 million extension on its TITAN ground station program, which is crucial for the Department of Defense's data management strategy. This extension highlights the government's ongoing commitment to data-driven decision-making in defense operations. With the Pentagon increasingly reliant on AI and data analytics, Palantir is firmly entrenched in the military’s tech ecosystem.",
+      "soWhat": "The extension is a reminder that in defense, data remains king, and Palantir is well-positioned to reign."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for more funding rounds next week",
-      "body": "With True Anomaly's success, expect other startups to ramp up their fundraising efforts, particularly in defense and security."
+      "title": "Keep an eye on Sierra Space's Dream Chaser",
+      "body": "With the DoD variant passing its critical design review, the next steps will be crucial for its future viability."
     },
     {
-      "title": "Potential fallout from FCC's C-band decision",
-      "body": "Satellite companies will need to reassess their strategies in light of the FCC's new regulations, which could lead to consolidation."
+      "title": "Airbus's satellite production ramp-up",
+      "body": "Watch for how quickly Airbus can scale its operations to meet increasing demand and how competitors respond."
     },
     {
-      "title": "Vast's contracts could reshape defense landscape",
-      "body": "If Vast secures significant contracts, it could signal a new trend of startups becoming essential players in national security."
+      "title": "Vast's new national security division",
+      "body": "This could signal a shift in focus for the company, potentially opening new avenues for government contracts."
     },
     {
-      "title": "Implications of Shijian-31's orbit",
-      "body": "China's unique orbit for Shijian-31 may prompt U.S. operators to rethink their own orbital strategies and capabilities."
+      "title": "Anduril and L3Harris tactical SDA bid",
+      "body": "Their partnership may set the stage for a new competitive landscape in tactical space architectures."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains stagnant as it continues to delay commercial flights."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's $480M extension on the TITAN program shows the government is still keen on data solutions."
+      "note": "Palantir’s $480M TITAN extension shows the military's growing reliance on data."
     },
     {
-      "sym": "SLS",
-      "note": "Boeing's SLS program faces delays again, raising questions about its future viability."
+      "sym": "EADSY",
+      "note": "Airbus is finally capitalizing on satellite demand, possibly outpacing competitors."
     },
     {
-      "sym": "AAPL",
-      "note": "Apple's interest in satellite tech could shake up the market, but details remain scarce."
+      "sym": "TRU",
+      "note": "True Anomaly's $190M funding round indicates strong market confidence in co-orbital security."
+    },
+    {
+      "sym": "SIEGY",
+      "note": "Sierra Space's Dream Chaser variant is gaining traction, but execution will be key."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
