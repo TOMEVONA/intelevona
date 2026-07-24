@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-23",
-  "issue": "No. 93",
-  "headline": "Funding flows. Satellites swarm. Defense budgets expand.",
-  "deck": "This week, space funding accelerates while national security projects gain traction.",
+  "updated": "2026-07-24",
+  "issue": "No. 94",
+  "headline": "Funding flows. Bureaucracy expands. Satellites stall.",
+  "deck": "This week highlights funding successes alongside bureaucratic inertia in space.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly's $190M Series C raises eyebrows",
-      "body": "True Anomaly has secured a $190 million Series C funding round, pushing its valuation to $1.6 billion. The company specializes in co-orbital security and space domain awareness, indicating a strong pull from the Department of Defense. This funding underscores the growing emphasis on securing space assets, as the military increasingly views space as a contested domain.",
-      "soWhat": "Investors are clearly betting that the future of warfare will play out in orbit, making True Anomaly a key player in a crowded field."
+      "head": "True Anomaly raises $190M amid defense demand",
+      "body": "True Anomaly has secured a $190 million Series C funding round, bringing its valuation to $1.6 billion as demand for co-orbital security and space domain awareness continues to grow. The company is well-positioned to capitalize on increasing DoD interest in its capabilities, which may soon become a staple in government contracts. In a sector where cash flow often trumps innovation, this funding illustrates the defense establishment's appetite for security solutions.",
+      "soWhat": "Investors are clearly betting that the future of space security is lucrative, even if the tech itself remains a work in progress."
     },
     {
-      "kicker": "STRATEGY",
-      "head": "Airbus capitalizes on satellite demand surge",
-      "body": "Airbus is taking advantage of the growing demand for satellite systems, reportedly ramping up production to meet the needs of both commercial and governmental clients. The company’s recent reorganization appears to be paying off, as it aligns with a market that’s projected to expand by nearly 10% annually over the next five years. This comes at a time when competitors are still figuring out their strategies.",
-      "soWhat": "Airbus's timing suggests they’re not just in the game; they’re playing to win, leaving others scrambling to catch up."
+      "kicker": "PROCUREMENT",
+      "head": "Air Force tackles troubled GPS receiver program",
+      "body": "The Air Force has taken control of a GPS receiver program that has faced significant challenges, including delays and technical difficulties. This intervention suggests a renewed commitment to rectifying past failures, but it also raises questions about how much longer the military will tolerate setbacks in critical navigation systems. With the stakes high, the agency's ability to turn this program around will be closely monitored.",
+      "soWhat": "If the Air Force can't fix this GPS mess, we might as well start handing out compasses."
     },
     {
-      "kicker": "DEFENSE",
-      "head": "Palantir extends TITAN program by $480M",
-      "body": "Palantir has received a $480 million extension on its TITAN ground station program, which is crucial for the Department of Defense's data management strategy. This extension highlights the government's ongoing commitment to data-driven decision-making in defense operations. With the Pentagon increasingly reliant on AI and data analytics, Palantir is firmly entrenched in the military’s tech ecosystem.",
-      "soWhat": "The extension is a reminder that in defense, data remains king, and Palantir is well-positioned to reign."
+      "kicker": "BUREAUCRACY",
+      "head": "Office of Space Commerce advances mission authorization",
+      "body": "The Commerce Department is moving forward with a voluntary mission authorization system aimed at unregulated space activities, highlighting the federal government’s ongoing struggle to keep pace with the rapid evolution of the space sector. While this initiative may streamline some processes, it also underscores the tendency of bureaucracy to expand in parallel with innovation. The implications for startups operating in the gray areas of space law could be significant.",
+      "soWhat": "Bureaucracy in space is like gravity—it's always there, and it can slow down even the fastest rockets."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on Sierra Space's Dream Chaser",
-      "body": "With the DoD variant passing its critical design review, the next steps will be crucial for its future viability."
+      "title": "Keep an eye on Sierra Space's timeline",
+      "body": "With the Dream Chaser DoD variant passing its design review, the real test will be whether they can stick to a credible flight schedule."
     },
     {
-      "title": "Airbus's satellite production ramp-up",
-      "body": "Watch for how quickly Airbus can scale its operations to meet increasing demand and how competitors respond."
+      "title": "Monitor Copernicus imagery release delays",
+      "body": "The EU's hold on Copernicus data could impact various stakeholders relying on timely satellite imagery, especially in defense and environmental sectors."
     },
     {
-      "title": "Vast's new national security division",
-      "body": "This could signal a shift in focus for the company, potentially opening new avenues for government contracts."
+      "title": "Anduril and L3Harris partnership developments",
+      "body": "Their bid for the tactical SDA constellation could reshape the competitive landscape, making it essential to track their progress."
     },
     {
-      "title": "Anduril and L3Harris tactical SDA bid",
-      "body": "Their partnership may set the stage for a new competitive landscape in tactical space architectures."
+      "title": "Watch for GPS jamming trends",
+      "body": "With GPS jamming in the Eastern Med returning to pre-2024 levels, this could signal shifts in operational tactics for both military and commercial entities."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "PLTR",
-      "note": "Palantir’s $480M TITAN extension shows the military's growing reliance on data."
+      "note": "Palantir's $480 million extension on the TITAN program shows the government's reliance on data analytics in defense."
     },
     {
-      "sym": "EADSY",
-      "note": "Airbus is finally capitalizing on satellite demand, possibly outpacing competitors."
+      "sym": "ASTS",
+      "note": "AST SpaceMobile's recent charts illustrate the fine line between potential and disaster in satellite communications."
     },
     {
-      "sym": "TRU",
-      "note": "True Anomaly's $190M funding round indicates strong market confidence in co-orbital security."
+      "sym": "K2",
+      "note": "K2 Space's $110 million raise for its satellite bus reflects a growing focus on high-power national security missions."
     },
     {
-      "sym": "SIEGY",
-      "note": "Sierra Space's Dream Chaser variant is gaining traction, but execution will be key."
+      "sym": "SLS",
+      "note": "Sierra Space's delayed flight schedule is becoming a recurring theme, raising eyebrows among investors."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

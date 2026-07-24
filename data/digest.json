@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity as companies pivot to meet new demands and the regulatory landscape shifts. Notable developments include a focus on satellite systems and innovative approaches to national security.",
+  "summary": "The space and defense sectors are seeing a mix of regulatory progress and operational hurdles this week. From military GPS program shake-ups to a notable satellite launch, the landscape remains as dynamic as ever.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Satellite Systems Surge",
-      "body": "Airbus is capitalizing on the increasing demand for satellite systems, a trend likely to continue as global connectivity needs rise. Meanwhile, the FCC's new licensing reforms could streamline satellite deployment, further fueling this growth."
-    },
-    {
-      "icon": "◉",
-      "title": "National Security Ventures",
-      "body": "Vast's new division for national security projects signals a growing recognition of the space domain's strategic importance. Similarly, Anduril and L3Harris's collaboration on a tactical SDA constellation bid highlights the competitive landscape for defense-related space initiatives."
+      "title": "Regulatory Moves Ahead",
+      "body": "The Office of Space Commerce is pushing forward with mission authorizations, potentially streamlining satellite operations. This could ease some bottlenecks for companies eager to deploy their technology."
     },
     {
       "icon": "▲",
-      "title": "Regulatory Shifts Ahead",
-      "body": "The FCC's sweeping space reforms, including a new C-band auction, indicate a significant regulatory pivot that could reshape the satellite industry. This overhaul aims to enhance operational efficiency but may also invite new challenges for existing players."
+      "title": "Launches and Mishaps",
+      "body": "Kinetica-1 successfully launched five satellites, but not without drama as the Long March 3B faced lightning strikes post-liftoff. This incident underscores the unpredictable nature of space launches, even as successes pile up."
     },
     {
       "icon": "◆",
-      "title": "Funding and Innovation",
-      "body": "The FY27 budget markup's $1.4B boost for space resilience underscores a commitment to strengthening national capabilities in this arena. Additionally, True Anomaly's recent $190M Series C round showcases the venture capital interest in space tech innovation."
+      "title": "Military Tech Developments",
+      "body": "The Air Force's takeover of a troubled GPS receiver program signals a shift towards greater oversight in military tech. Meanwhile, the Space Force is refining its battle management strategies through wargames, emphasizing the importance of integration."
+    },
+    {
+      "icon": "◉",
+      "title": "Funding and Investments",
+      "body": "The FY27 budget markup adds $1.4 billion to space resilience, indicating a growing recognition of the need for robust space capabilities. Meanwhile, True Anomaly's $190 million Series C funding round highlights the increasing interest in commercial space ventures."
     }
   ],
-  "updated": "2026-07-23 15:51 UTC"
+  "updated": "2026-07-24 15:00 UTC"
 }
