@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are seeing a mix of regulatory progress and operational hurdles this week. From military GPS program shake-ups to a notable satellite launch, the landscape remains as dynamic as ever.",
+  "summary": "The space industry is buzzing with activity as defense interests ramp up, particularly in the Indo-Pacific region. Meanwhile, budget allocations and partnerships are reshaping the landscape, even as some programs face delays and challenges.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Regulatory Moves Ahead",
-      "body": "The Office of Space Commerce is pushing forward with mission authorizations, potentially streamlining satellite operations. This could ease some bottlenecks for companies eager to deploy their technology."
-    },
-    {
-      "icon": "▲",
-      "title": "Launches and Mishaps",
-      "body": "Kinetica-1 successfully launched five satellites, but not without drama as the Long March 3B faced lightning strikes post-liftoff. This incident underscores the unpredictable nature of space launches, even as successes pile up."
-    },
-    {
-      "icon": "◆",
-      "title": "Military Tech Developments",
-      "body": "The Air Force's takeover of a troubled GPS receiver program signals a shift towards greater oversight in military tech. Meanwhile, the Space Force is refining its battle management strategies through wargames, emphasizing the importance of integration."
+      "title": "AI in Defense Applications",
+      "body": "LatConnect 60's unveiling of AI capabilities highlights a growing trend where defense firms are integrating advanced technologies into space operations. This shift is not just about innovation; it's a direct response to increasing geopolitical tensions."
     },
     {
       "icon": "◉",
-      "title": "Funding and Investments",
-      "body": "The FY27 budget markup adds $1.4 billion to space resilience, indicating a growing recognition of the need for robust space capabilities. Meanwhile, True Anomaly's $190 million Series C funding round highlights the increasing interest in commercial space ventures."
+      "title": "Budget Boost for Space Resilience",
+      "body": "The recent $1.4 billion addition to the space resilience budget signals a commitment to fortifying U.S. space capabilities amid rising threats. This funding will likely accelerate projects aimed at enhancing satellite security and operational effectiveness."
+    },
+    {
+      "icon": "▲",
+      "title": "Partnerships on the Rise",
+      "body": "The collaboration between Anduril and L3Harris for a tactical SDA constellation bid exemplifies a trend toward strategic partnerships in the space sector. As companies pool resources, we may see more innovative solutions emerge to address complex defense challenges."
+    },
+    {
+      "icon": "◆",
+      "title": "Delays and Setbacks Persist",
+      "body": "The ongoing delays in hypersonic glide-vehicle testing and issues with the GPS receiver program reflect the challenges that continue to plague the defense space sector. These setbacks could have implications for U.S. military readiness and technological leadership."
     }
   ],
-  "updated": "2026-07-24 15:00 UTC"
+  "updated": "2026-07-24 15:22 UTC"
 }
