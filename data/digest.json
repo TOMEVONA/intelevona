@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as defense interests ramp up, particularly in the Indo-Pacific region. Meanwhile, budget allocations and partnerships are reshaping the landscape, even as some programs face delays and challenges.",
+  "summary": "This week, the space industry is a mixed bag of progress and setbacks, with SpaceX continuing its Starship saga while ULA grapples with financial turbulence. Meanwhile, the Defense Department is increasingly eyeing AI for defense applications, and the budget for space resilience is getting a boost.",
   "themes": [
     {
       "icon": "▣",
-      "title": "AI in Defense Applications",
-      "body": "LatConnect 60's unveiling of AI capabilities highlights a growing trend where defense firms are integrating advanced technologies into space operations. This shift is not just about innovation; it's a direct response to increasing geopolitical tensions."
+      "title": "SpaceX's Starship Saga",
+      "body": "SpaceX's 13th test flight of the Starship demonstrates its relentless pursuit of orbital capability, though the road to operational status remains bumpy. Each test brings them closer, but also raises questions about the sustainability of their rapid-fire testing approach."
     },
     {
       "icon": "◉",
-      "title": "Budget Boost for Space Resilience",
-      "body": "The recent $1.4 billion addition to the space resilience budget signals a commitment to fortifying U.S. space capabilities amid rising threats. This funding will likely accelerate projects aimed at enhancing satellite security and operational effectiveness."
+      "title": "ULA's Financial Woes",
+      "body": "United Launch Alliance is feeling the pinch from the grounding of its Vulcan rocket, raising concerns about its financial health and future contracts. As competition heats up, ULA's ability to rebound will be closely watched by investors and partners alike."
     },
     {
       "icon": "▲",
-      "title": "Partnerships on the Rise",
-      "body": "The collaboration between Anduril and L3Harris for a tactical SDA constellation bid exemplifies a trend toward strategic partnerships in the space sector. As companies pool resources, we may see more innovative solutions emerge to address complex defense challenges."
+      "title": "AI in Defense",
+      "body": "With LatConnect 60 unveiling new AI capabilities, the defense sector's interest in artificial intelligence continues to grow, particularly in the Indo-Pacific region. This trend suggests a shift towards tech-driven solutions in military operations, potentially reshaping future engagements."
     },
     {
       "icon": "◆",
-      "title": "Delays and Setbacks Persist",
-      "body": "The ongoing delays in hypersonic glide-vehicle testing and issues with the GPS receiver program reflect the challenges that continue to plague the defense space sector. These setbacks could have implications for U.S. military readiness and technological leadership."
+      "title": "Budget Boost for Space Resilience",
+      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, signaling a strong commitment to safeguarding U.S. interests in orbit. This funding could lead to increased collaboration and innovation among defense contractors as they vie for a piece of the pie."
     }
   ],
-  "updated": "2026-07-24 15:22 UTC"
+  "updated": "2026-07-25 14:40 UTC"
 }

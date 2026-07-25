@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-24",
-  "issue": "No. 94",
-  "headline": "Funding flows. Regulations loom. Satellites launch.",
-  "deck": "This week sees significant funding in space tech and regulatory moves from the U.S. government.",
+  "updated": "2026-07-25",
+  "issue": "No. 95",
+  "headline": "Funding flows. Rockets wobble. AI buzzes.",
+  "deck": "This week saw significant funding rounds alongside a few rocky launches.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M for co-orbital security",
-      "body": "True Anomaly secured a $190 million Series C round, bringing its valuation to $1.6 billion as it focuses on co-orbital security and space domain awareness. The Department of Defense's interest in such capabilities is evident, as military contracts increasingly drive funding in this sector. This cash infusion could accelerate its development timeline significantly.",
-      "soWhat": "With DoD backing, True Anomaly is positioned to capitalize on increasing military demand for space security solutions—because who doesn't want their satellites to be less vulnerable?"
+      "head": "True Anomaly raises $190M in Series C",
+      "body": "True Anomaly secured $190 million in a Series C funding round, valuing the company at $1.6 billion. The investment highlights the increasing demand for co-orbital security and space domain awareness solutions, particularly from the DoD. Their focus on security in space is a timely response to rising geopolitical tensions.",
+      "soWhat": "In a world where satellites are becoming the new battlegrounds, True Anomaly's cash influx suggests investors are betting on the inevitability of space conflict."
     },
     {
-      "kicker": "REGULATIONS",
-      "head": "Commerce Department moves on mission authorization system",
-      "body": "The Office of Space Commerce is advancing a voluntary mission authorization system for unregulated space activities, which could reshape how companies approach compliance in the expanding space economy. This move comes amid growing concerns about space traffic management and safety, reflecting a shift towards self-regulation in the industry.",
-      "soWhat": "If companies don’t get their act together, the government might just do it for them—welcome to the new era of space governance."
+      "kicker": "LAUNCH",
+      "head": "SpaceX finally deploys satellites on 13th test flight",
+      "body": "SpaceX successfully launched Starship on its 13th test flight, deploying functioning satellites for the first time. After a series of explosive mishaps, this flight is a much-needed win for the company and its ambitious plans for future missions. The test flight indicates a possible return to operational normalcy for SpaceX's flagship vehicle.",
+      "soWhat": "With Starship now functioning as intended, the clock is ticking for competitors to catch up—especially those still grounded by financial woes."
     },
     {
-      "kicker": "LAUNCHES",
-      "head": "China's Long March 3B defies lightning to launch satellites",
-      "body": "Despite being struck by lightning shortly after liftoff, China's Long March 3B successfully deployed five satellites, showcasing the resilience of its launch capabilities. This incident raises questions about launch reliability and safety protocols in extreme conditions, particularly as China ramps up its space ambitions.",
-      "soWhat": "If lightning can’t stop a rocket, one has to wonder what it takes to ground the competition—perhaps a little more than a thunderstorm."
+      "kicker": "DEFENSE",
+      "head": "Palantir wins $480M extension for TITAN program",
+      "body": "Palantir Technologies secured a $480 million contract extension for its TITAN ground station program, reinforcing its position in the defense sector. This funding emphasizes the growing reliance on advanced data analytics in military operations, as the DoD seeks to enhance its situational awareness capabilities. Palantir's ability to secure large contracts continues to validate its business model.",
+      "soWhat": "Palantir's success in the defense arena suggests that government contracts are less about innovation and more about proven reliability—an interesting play in an industry often obsessed with the next big thing."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for more AI in defense contracts",
-      "body": "As the trend of 'AI for Defense' accelerates, expect more startups to pivot towards this lucrative sector, potentially reshaping the competitive landscape."
+      "title": "Watch for SpaceX's next moves",
+      "body": "With the successful Starship flight, SpaceX's next steps could redefine launch schedules and pricing strategies."
     },
     {
-      "title": "Sierra Space's timeline for Dream Chaser",
-      "body": "With its DoD variant passing critical design review, the clock is ticking for Sierra Space to deliver on its promises—investors will be watching closely."
+      "title": "Vulcan Centaur's future uncertain",
+      "body": "ULA's financial challenges due to the Vulcan grounding may lead to strategic shifts or partnerships in the coming weeks."
     },
     {
-      "title": "Palantir's TITAN extension implications",
-      "body": "Palantir's $480 million extension suggests the government is doubling down on ground station capabilities, which could set a precedent for future contracts."
+      "title": "AI for Defense startups on the rise",
+      "body": "The trend of 'AI for Defense' startups may lead to increased competition and innovation, especially in the upcoming funding rounds."
     },
     {
-      "title": "Kinetica-1's next launch plans",
-      "body": "Following its successful launch, Kinetica-1 may ramp up its schedule, making it a player to watch in the small satellite market."
+      "title": "Budget allocations for space resilience",
+      "body": "The FY27 budget's $1.4 billion boost for space resilience could impact procurement strategies across the defense sector."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic’s stock remains volatile, reflecting ongoing skepticism about its commercial viability."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's extension on the TITAN program underscores its stronghold in government contracts despite market fluctuations."
+      "note": "Palantir's $480M extension signals strong demand for data analytics in defense."
     },
     {
-      "sym": "ASTS",
-      "note": "AST SpaceMobile's recent bull case highlights the precarious balance between execution and disaster."
+      "sym": "SPCE",
+      "note": "Virgin Galactic's stock remains stagnant as it waits for its own breakthrough."
     },
     {
-      "sym": "SIEGY",
-      "note": "Siemens' investment in space tech signals a growing interest in industrial applications beyond traditional sectors."
+      "sym": "SPACEX",
+      "note": "SpaceX's successful Starship flight may reignite interest in its secondary market."
+    },
+    {
+      "sym": "ULA",
+      "note": "ULA's financial struggles could lead to further partnerships or restructuring."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
