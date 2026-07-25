@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space industry is a mixed bag of progress and setbacks, with SpaceX continuing its Starship saga while ULA grapples with financial turbulence. Meanwhile, the Defense Department is increasingly eyeing AI for defense applications, and the budget for space resilience is getting a boost.",
+  "summary": "This week in the space and defense sector saw a mix of testing, funding, and strategic partnerships. As established players like SpaceX continue to push boundaries, financial pressures and geopolitical interests are reshaping the landscape for emerging companies and defense initiatives.",
   "themes": [
     {
       "icon": "▣",
-      "title": "SpaceX's Starship Saga",
-      "body": "SpaceX's 13th test flight of the Starship demonstrates its relentless pursuit of orbital capability, though the road to operational status remains bumpy. Each test brings them closer, but also raises questions about the sustainability of their rapid-fire testing approach."
+      "title": "SpaceX's Starship Progress",
+      "body": "SpaceX completed its 13th Starship test flight, inching closer to operational readiness. This relentless pace underscores the company's commitment to dominating the launch market, despite the occasional hiccup."
     },
     {
       "icon": "◉",
-      "title": "ULA's Financial Woes",
-      "body": "United Launch Alliance is feeling the pinch from the grounding of its Vulcan rocket, raising concerns about its financial health and future contracts. As competition heats up, ULA's ability to rebound will be closely watched by investors and partners alike."
+      "title": "Financial Struggles for ULA",
+      "body": "United Launch Alliance is grappling with financial challenges stemming from the grounding of its Vulcan rocket. This situation highlights the precarious nature of relying on new technology in a competitive environment."
     },
     {
       "icon": "▲",
-      "title": "AI in Defense",
-      "body": "With LatConnect 60 unveiling new AI capabilities, the defense sector's interest in artificial intelligence continues to grow, particularly in the Indo-Pacific region. This trend suggests a shift towards tech-driven solutions in military operations, potentially reshaping future engagements."
+      "title": "Defense Tech IPOs on the Horizon",
+      "body": "The defense-tech IPO window appears to be cracking open, with several companies eyeing public offerings. This could signal a shift in investor appetite, as the sector seeks to capitalize on heightened interest in national security."
     },
     {
       "icon": "◆",
-      "title": "Budget Boost for Space Resilience",
-      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, signaling a strong commitment to safeguarding U.S. interests in orbit. This funding could lead to increased collaboration and innovation among defense contractors as they vie for a piece of the pie."
+      "title": "AI's Growing Role in Defense",
+      "body": "LatConnect 60's unveiling of AI capabilities reflects a broader trend of integrating advanced technology into defense strategies. As every startup seems to pivot towards 'AI for Defense,' the challenge will be differentiating genuine innovation from mere buzz."
     }
   ],
-  "updated": "2026-07-25 14:40 UTC"
+  "updated": "2026-07-25 14:57 UTC"
 }

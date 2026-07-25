@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-25",
   "issue": "No. 95",
-  "headline": "Funding flows. Rockets wobble. AI buzzes.",
-  "deck": "This week saw significant funding rounds alongside a few rocky launches.",
+  "headline": "SpaceX tests. ULA stumbles. True Anomaly thrives.",
+  "deck": "SpaceX continues its Starship saga while ULA faces financial woes.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M in Series C",
-      "body": "True Anomaly secured $190 million in a Series C funding round, valuing the company at $1.6 billion. The investment highlights the increasing demand for co-orbital security and space domain awareness solutions, particularly from the DoD. Their focus on security in space is a timely response to rising geopolitical tensions.",
-      "soWhat": "In a world where satellites are becoming the new battlegrounds, True Anomaly's cash influx suggests investors are betting on the inevitability of space conflict."
-    },
-    {
       "kicker": "LAUNCH",
-      "head": "SpaceX finally deploys satellites on 13th test flight",
-      "body": "SpaceX successfully launched Starship on its 13th test flight, deploying functioning satellites for the first time. After a series of explosive mishaps, this flight is a much-needed win for the company and its ambitious plans for future missions. The test flight indicates a possible return to operational normalcy for SpaceX's flagship vehicle.",
-      "soWhat": "With Starship now functioning as intended, the clock is ticking for competitors to catch up—especially those still grounded by financial woes."
+      "head": "SpaceX's 13th Starship flight outpaces airlines",
+      "body": "SpaceX successfully launched its 13th Starship test flight, deploying operational satellites while addressing past issues. At this pace, they may soon have more test flights than American Airlines has daily departures. The relentless pursuit of testing has become a hallmark of their strategy.",
+      "soWhat": "If SpaceX can keep this up, they'll redefine what it means to be operational in the launch market."
     },
     {
-      "kicker": "DEFENSE",
-      "head": "Palantir wins $480M extension for TITAN program",
-      "body": "Palantir Technologies secured a $480 million contract extension for its TITAN ground station program, reinforcing its position in the defense sector. This funding emphasizes the growing reliance on advanced data analytics in military operations, as the DoD seeks to enhance its situational awareness capabilities. Palantir's ability to secure large contracts continues to validate its business model.",
-      "soWhat": "Palantir's success in the defense arena suggests that government contracts are less about innovation and more about proven reliability—an interesting play in an industry often obsessed with the next big thing."
+      "kicker": "FINANCE",
+      "head": "ULA's Vulcan woes lead to financial strain",
+      "body": "United Launch Alliance is grappling with significant financial challenges due to the grounding of its Vulcan Centaur rocket. This situation has reportedly led to a reevaluation of contracts and a potential cash flow crisis, highlighting that even industry giants can falter when their launch vehicles are sidelined.",
+      "soWhat": "If ULA can't get Vulcan off the ground soon, it may lose its edge to more agile competitors."
+    },
+    {
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M amid defense demand",
+      "body": "True Anomaly secured $190 million in Series C funding, bringing its valuation to $1.6 billion. This investment underscores the increasing demand for co-orbital security and space domain awareness solutions, particularly from the Department of Defense, which is keen on enhancing its capabilities.",
+      "soWhat": "True Anomaly's success illustrates that in today's market, cash often speaks louder than actual innovation."
     }
   ],
   "watchlist": [
     {
-      "title": "Watch for SpaceX's next moves",
-      "body": "With the successful Starship flight, SpaceX's next steps could redefine launch schedules and pricing strategies."
+      "title": "Keep an eye on ULA's recovery plans",
+      "body": "With financial pressures mounting, ULA's next steps could redefine its competitive landscape in the coming weeks."
     },
     {
-      "title": "Vulcan Centaur's future uncertain",
-      "body": "ULA's financial challenges due to the Vulcan grounding may lead to strategic shifts or partnerships in the coming weeks."
+      "title": "Watch for SpaceX's next Starship test",
+      "body": "Another Starship test could further cement SpaceX's dominance in the launch sector if successful."
     },
     {
-      "title": "AI for Defense startups on the rise",
-      "body": "The trend of 'AI for Defense' startups may lead to increased competition and innovation, especially in the upcoming funding rounds."
+      "title": "True Anomaly's strategic partnerships",
+      "body": "As True Anomaly scales, its partnerships with defense agencies will be crucial to watch for future contracts."
     },
     {
-      "title": "Budget allocations for space resilience",
-      "body": "The FY27 budget's $1.4 billion boost for space resilience could impact procurement strategies across the defense sector."
+      "title": "Implications of the FY27 budget increase",
+      "body": "The additional $1.4 billion for space resilience could lead to increased opportunities for contractors in the defense space."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480M extension signals strong demand for data analytics in defense."
-    },
-    {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains stagnant as it waits for its own breakthrough."
+      "note": "Virgin Galactic's stock remains stagnant as commercial space tourism is still a distant dream."
     },
     {
-      "sym": "SPACEX",
-      "note": "SpaceX's successful Starship flight may reignite interest in its secondary market."
+      "sym": "LMT",
+      "note": "Lockheed Martin's focus on space resilience is aligning well with the increased defense budget."
     },
     {
-      "sym": "ULA",
-      "note": "ULA's financial struggles could lead to further partnerships or restructuring."
+      "sym": "PLTR",
+      "note": "Palantir's $480 million extension on the TITAN program shows the government is still a lucrative client."
+    },
+    {
+      "sym": "AER",
+      "note": "Aerojet Rocketdyne's recent contracts are a reminder that propulsion systems remain a hot commodity."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
