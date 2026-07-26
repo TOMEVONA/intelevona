@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-25",
-  "issue": "No. 95",
-  "headline": "SpaceX tests. ULA stumbles. True Anomaly thrives.",
-  "deck": "SpaceX continues its Starship saga while ULA faces financial woes.",
+  "updated": "2026-07-26",
+  "issue": "No. 96",
+  "headline": "Funding flows. Tests continue. Budgets expand.",
+  "deck": "This week highlights strategic investments and ongoing challenges in the space sector.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "LAUNCH",
-      "head": "SpaceX's 13th Starship flight outpaces airlines",
-      "body": "SpaceX successfully launched its 13th Starship test flight, deploying operational satellites while addressing past issues. At this pace, they may soon have more test flights than American Airlines has daily departures. The relentless pursuit of testing has become a hallmark of their strategy.",
-      "soWhat": "If SpaceX can keep this up, they'll redefine what it means to be operational in the launch market."
-    },
-    {
-      "kicker": "FINANCE",
-      "head": "ULA's Vulcan woes lead to financial strain",
-      "body": "United Launch Alliance is grappling with significant financial challenges due to the grounding of its Vulcan Centaur rocket. This situation has reportedly led to a reevaluation of contracts and a potential cash flow crisis, highlighting that even industry giants can falter when their launch vehicles are sidelined.",
-      "soWhat": "If ULA can't get Vulcan off the ground soon, it may lose its edge to more agile competitors."
-    },
-    {
       "kicker": "FUNDING",
       "head": "True Anomaly raises $190M amid defense demand",
-      "body": "True Anomaly secured $190 million in Series C funding, bringing its valuation to $1.6 billion. This investment underscores the increasing demand for co-orbital security and space domain awareness solutions, particularly from the Department of Defense, which is keen on enhancing its capabilities.",
-      "soWhat": "True Anomaly's success illustrates that in today's market, cash often speaks louder than actual innovation."
+      "body": "True Anomaly secured a $190 million Series C funding round, reflecting the growing importance of co-orbital security and space domain awareness in defense. The company's valuation now stands at $1.6 billion, with the Department of Defense increasingly pulling through contracts. Investors seem convinced that cash flow in space often trumps innovative ideas.",
+      "soWhat": "When defense contracts are the hottest ticket in town, innovation can take a backseat."
+    },
+    {
+      "kicker": "LAUNCH",
+      "head": "Stoke Space banks $260M for reusable rockets",
+      "body": "Stoke Space has successfully raised $260 million in Series C funding to advance its fully-reusable medium-lift launch system. The investment aims to scale up manufacturing in preparation for its first orbital launch. As the competition heats up, the question remains whether Stoke can deliver on its promises without adding to the orbital junkyard.",
+      "soWhat": "In a crowded launch market, being 'fully reusable' might just be the new baseline."
+    },
+    {
+      "kicker": "BUDGET",
+      "head": "FY27 budget boosts space resilience by $1.4B",
+      "body": "The FY27 budget markup has allocated an additional $1.4 billion for space resilience initiatives, signaling a significant commitment to strengthening U.S. capabilities in the face of increasing threats. This funding is part of a broader recognition that space is integral to national security, not just a playground for tech enthusiasts. The military seems to be finally taking space as seriously as it takes its coffee.",
+      "soWhat": "More budget means more opportunities—but also more scrutiny on how that money is spent."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on ULA's recovery plans",
-      "body": "With financial pressures mounting, ULA's next steps could redefine its competitive landscape in the coming weeks."
+      "title": "SpaceX's next Starship test looms",
+      "body": "With its 13th test flight under its belt, all eyes are on SpaceX to see if it can finally nail down a reliable launch cadence."
     },
     {
-      "title": "Watch for SpaceX's next Starship test",
-      "body": "Another Starship test could further cement SpaceX's dominance in the launch sector if successful."
+      "title": "Palantir's TITAN extension impacts market",
+      "body": "Palantir's $480 million extension on the TITAN program could influence other companies' bidding strategies in the ground station space."
     },
     {
-      "title": "True Anomaly's strategic partnerships",
-      "body": "As True Anomaly scales, its partnerships with defense agencies will be crucial to watch for future contracts."
+      "title": "Anduril and L3Harris partnership unfolds",
+      "body": "The collaboration on a tactical SDA constellation could shift the dynamics of space-based defense systems in the Indo-Pacific."
     },
     {
-      "title": "Implications of the FY27 budget increase",
-      "body": "The additional $1.4 billion for space resilience could lead to increased opportunities for contractors in the defense space."
+      "title": "Hypersonic test delays continue",
+      "body": "With yet another hypersonic glide-vehicle test slipping, the implications for military readiness and budget allocation are becoming clearer."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains stagnant as commercial space tourism is still a distant dream."
-    },
-    {
-      "sym": "LMT",
-      "note": "Lockheed Martin's focus on space resilience is aligning well with the increased defense budget."
+      "note": "Virgin Galactic's stock remains volatile as it navigates its post-launch reality."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's $480 million extension on the TITAN program shows the government is still a lucrative client."
+      "note": "Palantir's extension on the TITAN program solidifies its position in government contracts."
+    },
+    {
+      "sym": "SFTW",
+      "note": "Stoke Space's funding may bolster its position as a contender in the launch market."
     },
     {
       "sym": "AER",
-      "note": "Aerojet Rocketdyne's recent contracts are a reminder that propulsion systems remain a hot commodity."
+      "note": "Aerojet Rocketdyne's performance is under scrutiny as defense budgets expand."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
