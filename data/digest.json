@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space industry is a mixed bag of resilience and challenges, with NASA and ESA dodging wildfires while ULA grapples with financial woes. Meanwhile, SpaceX continues its relentless pursuit of Starship testing, and the defense sector sees a surge in AI interest.",
+  "summary": "This week, the space sector is navigating a mix of resilience and challenges, from NASA's wildfire avoidance to ULA's financial woes. Meanwhile, the defense tech landscape is buzzing with AI and tactical collaborations.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Wildfires and Resilience",
-      "body": "NASA and ESA facilities in Spain have emerged largely unscathed from recent wildfires, showcasing the sector's ability to weather environmental challenges. This incident underscores the importance of infrastructure resilience in the face of increasing climate-related threats."
+      "title": "Wildfires and Infrastructure Resilience",
+      "body": "NASA and ESA facilities in Spain have dodged major wildfire damage, showcasing the importance of strategic location and preparedness. This incident serves as a reminder that even the most advanced space agencies aren't immune to earthly disasters."
     },
     {
       "icon": "◉",
-      "title": "Starship's Ongoing Trials",
-      "body": "SpaceX's 13th Starship test flight indicates a relentless push towards operational readiness, despite the setbacks that have characterized previous attempts. Each flight brings the company closer to its ambitious goals, but the road remains bumpy."
+      "title": "SpaceX's Ongoing Starship Saga",
+      "body": "SpaceX has successfully conducted its 13th Starship test flight, continuing its relentless pursuit of orbital dominance. Each test brings them closer, but the road to operational capability remains as bumpy as ever."
     },
     {
       "icon": "▲",
       "title": "Financial Strains at ULA",
-      "body": "United Launch Alliance is feeling the financial pinch as the Vulcan rocket remains grounded, raising questions about its future viability. This situation highlights the precarious balance between innovation and fiscal responsibility in the aerospace sector."
+      "body": "United Launch Alliance is grappling with financial challenges stemming from the grounding of its Vulcan rocket. This situation underscores the precarious balance between innovation and fiscal responsibility in the aerospace sector."
     },
     {
       "icon": "◆",
-      "title": "AI's Defense Surge",
-      "body": "The growing interest in AI capabilities for defense, as evidenced by LatConnect 60's new offerings, reflects a broader trend of technological integration in military operations. This shift could redefine operational strategies as defense contractors scramble to keep pace."
+      "title": "AI's Growing Role in Defense",
+      "body": "As interest in defense applications surges, companies like LatConnect 60 are unveiling proprietary AI capabilities. This trend signals a shift where artificial intelligence is not just a buzzword, but a critical component of modern military strategy."
     }
   ],
-  "updated": "2026-07-26 14:40 UTC"
+  "updated": "2026-07-26 14:59 UTC"
 }
