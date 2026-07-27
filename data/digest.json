@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space sector is navigating a mix of resilience and challenges, from NASA's wildfire avoidance to ULA's financial woes. Meanwhile, the defense tech landscape is buzzing with AI and tactical collaborations.",
+  "summary": "The space industry is buzzing with new partnerships and technological advancements, while funding for resilience continues to be a hot topic. Meanwhile, the specter of hypersonic delays looms large, reminding us that not all progress is linear.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Wildfires and Infrastructure Resilience",
-      "body": "NASA and ESA facilities in Spain have dodged major wildfire damage, showcasing the importance of strategic location and preparedness. This incident serves as a reminder that even the most advanced space agencies aren't immune to earthly disasters."
+      "title": "New Partnerships Emerge",
+      "body": "Orbes' unveiling of Exo-ORB alongside a deal with Symphony Space signals a growing trend of collaboration in the sector. Such partnerships may be key to navigating the complexities of modern space endeavors."
     },
     {
       "icon": "◉",
-      "title": "SpaceX's Ongoing Starship Saga",
-      "body": "SpaceX has successfully conducted its 13th Starship test flight, continuing its relentless pursuit of orbital dominance. Each test brings them closer, but the road to operational capability remains as bumpy as ever."
+      "title": "Funding for Resilience Grows",
+      "body": "The FY27 budget markup's $1.4B boost for space resilience highlights a strategic pivot towards safeguarding assets in an increasingly contested environment. This funding could reshape priorities for both established players and newcomers."
     },
     {
       "icon": "▲",
-      "title": "Financial Strains at ULA",
-      "body": "United Launch Alliance is grappling with financial challenges stemming from the grounding of its Vulcan rocket. This situation underscores the precarious balance between innovation and fiscal responsibility in the aerospace sector."
+      "title": "Tech Innovations Continue",
+      "body": "Intel's new chip for space computing and Sierra Space's Dream Chaser DoD variant clearing critical design review showcase the relentless march of technological progress. These developments underscore the importance of innovation in maintaining competitive advantage."
     },
     {
       "icon": "◆",
-      "title": "AI's Growing Role in Defense",
-      "body": "As interest in defense applications surges, companies like LatConnect 60 are unveiling proprietary AI capabilities. This trend signals a shift where artificial intelligence is not just a buzzword, but a critical component of modern military strategy."
+      "title": "Hypersonic Hiccups Persist",
+      "body": "The repeated delays in hypersonic glide-vehicle tests serve as a sobering reminder that not all advancements are immediate. This ongoing struggle could have implications for defense strategies and funding allocations."
     }
   ],
-  "updated": "2026-07-26 14:59 UTC"
+  "updated": "2026-07-27 15:46 UTC"
 }

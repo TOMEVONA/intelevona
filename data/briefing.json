@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-26",
-  "issue": "No. 96",
-  "headline": "Funding flows. Satellites launch. Regulations loom.",
-  "deck": "Space funding surges while regulatory frameworks inch forward.",
+  "updated": "2026-07-27",
+  "issue": "No. 97",
+  "headline": "Funding grows. Satellites multiply. Testing continues.",
+  "deck": "This week sees significant funding rounds and ongoing satellite developments.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "FUNDING",
-      "head": "True Anomaly raises $190M amidst defense demand",
-      "body": "True Anomaly secured a $190 million Series C, bringing its valuation to $1.6 billion. This funding reflects growing interest in co-orbital security and space domain awareness, with the Department of Defense playing an increasingly pivotal role. Investors are clearly betting that space security will be a lucrative market.",
-      "soWhat": "If you thought the space race was just about exploration, think again—it's a defense play now."
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured a $190 million Series C to enhance its co-orbital security and space domain awareness capabilities. The round reflects a growing emphasis on national security in space, particularly as threats evolve. Investors seem to believe that securing space is as important as securing the ground.",
+      "soWhat": "It's clear that in the current landscape, cash is king, especially when it comes to defense applications."
     },
     {
-      "kicker": "LAUNCH",
-      "head": "SpaceX tests Starship 13, fixes and all",
-      "body": "SpaceX's 13th Starship test flight included some fixes and the debut of functioning satellites, demonstrating the company's relentless pursuit of launch frequency. Despite the ongoing challenges, each test brings them closer to operational readiness, though the timeline remains as flexible as their launch windows.",
-      "soWhat": "SpaceX is proving that in aerospace, failure is just a pit stop on the way to the next launch."
+      "kicker": "TECH",
+      "head": "Intel launches new chip for space computing",
+      "body": "Intel unveiled its latest chip designed specifically for space computing, aiming to boost satellite data processing speeds. While the exact performance metrics remain under wraps, the chip is expected to outperform traditional systems, which is crucial for real-time data applications in orbit. Given that many satellites still operate on outdated tech, this could shift the market significantly.",
+      "soWhat": "If Intel can deliver, we might finally see satellites that can process data faster than a 1990s desktop."
     },
     {
-      "kicker": "REGULATION",
-      "head": "Commerce Department advances mission authorization system",
-      "body": "The Office of Space Commerce is moving forward with a voluntary mission authorization system for novel space activities, a step that could streamline regulatory hurdles but also introduces a layer of ambiguity. This initiative could reshape how companies approach compliance, especially as space activities proliferate.",
-      "soWhat": "When regulations start to sound like a choose-your-own-adventure book, expect a wild ride for operators."
+      "kicker": "PROCUREMENT",
+      "head": "Palantir wins $480M extension on TITAN program",
+      "body": "Palantir has secured a $480 million extension for its TITAN ground station program, emphasizing the importance of data integration in military operations. This extension highlights the defense sector's reliance on established tech firms to manage complex data environments. Palantir's continued success raises questions about competition in the space data integration market.",
+      "soWhat": "This deal reinforces the notion that in defense procurement, familiarity often trumps innovation."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on SpaceX's next launch",
-      "body": "With the 14th test flight on the horizon, expect more updates on their operational timeline."
+      "title": "Amazon's satellite constellation application review",
+      "body": "Amazon's plans for a 5,100-satellite constellation could reshape direct-to-device services, but regulatory hurdles may slow progress."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "The $480 million extension could signal increased government reliance on tech for defense capabilities."
+      "title": "Blue Origin's New Glenn tests at Stennis",
+      "body": "Upcoming tests of the New Glenn upper stages could clarify Blue Origin's path to market, especially against SpaceX's established dominance."
     },
     {
-      "title": "Anduril and L3Harris partnership developments",
-      "body": "Their tactical SDA constellation bid could reshape the competitive landscape for satellite defense."
+      "title": "Sierra Space's Dream Chaser timeline uncertainty",
+      "body": "With the Dream Chaser DoD variant passing its design review, attention will turn to its launch timeline—will it actually meet expectations?"
     },
     {
-      "title": "Sierra Space's Dream Chaser launch timeline",
-      "body": "After passing the critical design review, the clock is ticking on when they'll finally launch."
+      "title": "True Anomaly's next moves post-funding",
+      "body": "After raising $190 million, True Anomaly's strategy will be crucial in determining how quickly it can scale its co-orbital capabilities."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPACEX",
-      "note": "SpaceX's valuation remains a topic of speculation as they push for more launches."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's extension on TITAN shows the government’s appetite for long-term tech partnerships."
+      "note": "Palantir's $480M contract extension indicates strong demand for its data services in defense."
     },
     {
-      "sym": "ULA",
-      "note": "United Launch Alliance's financial struggles highlight the risks of relying on a single launch vehicle."
+      "sym": "INTC",
+      "note": "Intel's new space chip launch could give it an edge in the satellite processing market."
     },
     {
-      "sym": "TRUE",
-      "note": "True Anomaly's funding success underscores the urgency of co-orbital security in national defense."
+      "sym": "AMZN",
+      "note": "Amazon's satellite constellation plans could add significant competition to the direct-to-device landscape."
+    },
+    {
+      "sym": "SPCE",
+      "note": "Blue Origin's New Glenn tests may impact its competitive standing against SpaceX in the launch market."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
