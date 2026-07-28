@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with new partnerships and technological advancements, while funding for resilience continues to be a hot topic. Meanwhile, the specter of hypersonic delays looms large, reminding us that not all progress is linear.",
+  "summary": "The space and defense sectors are buzzing with activity as NASA announces its next lunar venture and the GEO industry finds a boost from the Upper C-band auction. Meanwhile, contracts and collaborations are flowing, underscoring the ongoing push for advanced satellite communications and space resilience.",
   "themes": [
     {
       "icon": "▣",
-      "title": "New Partnerships Emerge",
-      "body": "Orbes' unveiling of Exo-ORB alongside a deal with Symphony Space signals a growing trend of collaboration in the sector. Such partnerships may be key to navigating the complexities of modern space endeavors."
+      "title": "NASA's Lunar Ambitions",
+      "body": "NASA's selection of a successor to the CAPSTONE mission signals a renewed commitment to lunar exploration. This could pave the way for more robust infrastructure on the Moon, though timelines remain as fluid as lunar regolith."
     },
     {
       "icon": "◉",
-      "title": "Funding for Resilience Grows",
-      "body": "The FY27 budget markup's $1.4B boost for space resilience highlights a strategic pivot towards safeguarding assets in an increasingly contested environment. This funding could reshape priorities for both established players and newcomers."
+      "title": "GEO Industry Gains Traction",
+      "body": "The Upper C-band auction is proving to be a financial boon for the GEO sector, with SES poised to reap $5.6 billion in incentive payments. This influx of capital may encourage further investment in satellite technology and infrastructure."
     },
     {
       "icon": "▲",
-      "title": "Tech Innovations Continue",
-      "body": "Intel's new chip for space computing and Sierra Space's Dream Chaser DoD variant clearing critical design review showcase the relentless march of technological progress. These developments underscore the importance of innovation in maintaining competitive advantage."
+      "title": "Defense Contracts on the Rise",
+      "body": "Sphinx Defense's $287 million contract for satellite communications software highlights the increasing demand for secure and robust defense systems. As geopolitical tensions rise, expect more players to enter this lucrative market."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Hiccups Persist",
-      "body": "The repeated delays in hypersonic glide-vehicle tests serve as a sobering reminder that not all advancements are immediate. This ongoing struggle could have implications for defense strategies and funding allocations."
+      "title": "Emerging Tech in Space",
+      "body": "Intel's new chip for space computing and the unveiling of Orbes' Exo-ORB reflect a growing trend towards integrating advanced technology in space operations. As capabilities expand, the competitive landscape will likely shift, favoring those who can innovate quickly."
     }
   ],
-  "updated": "2026-07-27 15:46 UTC"
+  "updated": "2026-07-28 15:25 UTC"
 }
