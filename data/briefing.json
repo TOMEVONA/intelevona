@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-28",
   "issue": "No. 98",
-  "headline": "Contracts surge. Funding flows. Space gets serious.",
-  "deck": "This week saw major contracts awarded and funding rounds that underscore the growing seriousness of the space sector.",
+  "headline": "NASA picks lunar successor. FCC auctions spectrum. Sphinx wins big.",
+  "deck": "This week sees significant moves in lunar missions, spectrum auctions, and defense contracts.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "CONTRACTS",
-      "head": "Sphinx Defense bags $287 million for satellite software",
-      "body": "Sphinx Defense has secured a $287 million contract to develop strategic satellite communications software, highlighting the increasing complexity of satellite operations. This contract reflects a broader trend where software is becoming just as critical as hardware in space missions. It's a reminder that in space, the software might just be the new rocket fuel.",
-      "soWhat": "As satellite operations grow more intricate, the demand for advanced software solutions will only intensify, making Sphinx Defense a key player in this evolving market."
+      "kicker": "NASA",
+      "head": "Advanced Space wins lunar mission follow-up contract",
+      "body": "NASA has selected Advanced Space to succeed the CAPSTONE lunar mission with a new small satellite designed for rendezvous technology testing. This contract underscores the moon's continued appeal as a testing ground for advanced space operations. Financial details remain undisclosed, but expect a hefty investment as lunar ambitions grow.",
+      "soWhat": "If the moon is the new frontier for testing, expect more players to jump into lunar missions, possibly diluting the market for contracts."
     },
     {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190 million amid defense pull",
-      "body": "True Anomaly has closed a $190 million Series C funding round, now valued at $1.6 billion, focusing on co-orbital security and space domain awareness. This funding is indicative of a broader defense interest in ensuring space security, especially as tensions rise. In a world where space is becoming the next battleground, True Anomaly is positioning itself well.",
-      "soWhat": "The influx of capital into space security suggests that the defense sector is recognizing the strategic importance of space, which could lead to further investment and innovation."
+      "kicker": "AUCTION",
+      "head": "FCC's upper C-band auction could net $6 billion",
+      "body": "The upcoming FCC auction for upper C-band spectrum is projected to generate over $6 billion for satellite operators, highlighting the value of clearing spectrum in the GEO sector. This auction is seen as a critical opportunity for companies looking to enhance their communication capabilities, particularly as demand for satellite services continues to rise.",
+      "soWhat": "With spectrum becoming the new gold rush, companies without a strong spectrum strategy may soon find themselves at a competitive disadvantage."
     },
     {
-      "kicker": "TECH",
-      "head": "Intel unveils new chip for space computing",
-      "body": "Intel has introduced a new chip designed for space computing, aiming to enhance processing power in extreme environments. While the exact specifications remain under wraps, this move could significantly improve onboard data processing capabilities for satellites and other space vehicles. It's a strong signal that even semiconductor giants see a future in the cosmos.",
-      "soWhat": "As space missions require more sophisticated computing, Intel's push into this market could reshape the competitive landscape, potentially sidelining smaller chipmakers."
+      "kicker": "DEFENSE",
+      "head": "Sphinx Defense lands $287 million software contract",
+      "body": "Sphinx Defense has secured a $287 million contract to develop mission planning software for next-gen strategic satellites. This contract emphasizes the increasing importance of software in enhancing satellite capabilities and operational efficiency. As the defense sector invests heavily in software upgrades, this could be a bellwether for future contracts.",
+      "soWhat": "If software is the backbone of modern defense, companies that can deliver robust solutions will continue to thrive, leaving hardware-focused firms in the dust."
     }
   ],
   "watchlist": [
     {
-      "title": "Upper C-band auction results expected",
-      "body": "The results of the Upper C-band auction could reshape the GEO industry landscape, with significant implications for frequency allocations."
+      "title": "Keep an eye on True Anomaly's growth",
+      "body": "With a recent $190 million Series C, True Anomaly is poised to capitalize on increasing demand for co-orbital security solutions."
     },
     {
-      "title": "Anduril and L3Harris bid outcome",
-      "body": "The outcome of Anduril and L3Harris' tactical SDA constellation bid will reveal how seriously the military is investing in space-based capabilities."
+      "title": "Sierra Space's Dream Chaser moves closer to launch",
+      "body": "Having passed its critical design review, the Dream Chaser DoD variant is now one step closer to operational deployment, which could shake up logistics for defense missions."
     },
     {
-      "title": "Sierra Space's next steps post-review",
-      "body": "With Sierra Space's Dream Chaser variant clearing its critical design review, attention will shift to its timeline for production and potential customers."
+      "title": "Watch for FCC auction outcomes",
+      "body": "The results of the upcoming upper C-band auction could reshape the competitive landscape in satellite communications, affecting stock prices and partnerships."
     },
     {
-      "title": "Palantir's TITAN program extension implications",
-      "body": "Palantir's $480 million extension on the TITAN ground station program signals confidence in long-term military contracts, which may affect future funding rounds."
+      "title": "Palantir's TITAN extension implications",
+      "body": "With a $480 million extension on the TITAN ground station program, Palantir's continued involvement in defense tech indicates a solidified role in future military operations."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "SPAC",
-      "note": "SPACs are back in the spotlight, with rumors of new launches surfacing."
-    },
-    {
-      "sym": "LMT",
-      "note": "Lockheed Martin's stock remains steady as defense contracts continue to roll in."
+      "note": "SpaceX remains a $470 billion enigma, as investors weigh risks against potential rewards."
     },
     {
       "sym": "PLTR",
-      "note": "Palantir's extension on TITAN suggests a strong backlog and future revenue stability."
+      "note": "Palantir's $480 million contract extension signals strong demand for its defense software solutions."
     },
     {
       "sym": "ASTS",
-      "note": "AST SpaceMobile is under scrutiny as investors await execution on their ambitious plans."
+      "note": "ASTS's stock may reflect the bullish sentiment from its recent bull case presentation, but execution risks loom."
+    },
+    {
+      "sym": "SIRI",
+      "note": "Sirius XM could see fluctuations as the FCC auction results impact satellite communication strategies."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
