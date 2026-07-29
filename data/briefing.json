@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-29",
   "issue": "No. 99",
-  "headline": "Funding grows. Partnerships form. Delays continue.",
-  "deck": "This week, the space industry sees a mix of partnerships, funding rounds, and persistent delays.",
+  "headline": "Funding flows. Partnerships form. Delays persist.",
+  "deck": "This week, space funding continues to surge while partnerships are formed to tackle inefficiencies.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "PARTNERSHIPS",
-      "head": "Fotrastra and Hadrian unite for satellite production",
-      "body": "Fotrastra and Hadrian are collaborating to enhance satellite production, leveraging precision machining and additive manufacturing techniques. This partnership underscores a growing trend of consolidation in the satellite manufacturing space, as companies seek efficiencies in a competitive market. The exact financial terms remain undisclosed, but the intention is clear: streamline production to meet rising demand.",
-      "soWhat": "In a sector where time-to-market is crucial, expect more companies to follow suit, potentially leading to fewer players but faster outputs."
+      "kicker": "FUNDING",
+      "head": "True Anomaly raises $190M for co-orbital security",
+      "body": "True Anomaly secured a $190 million Series C funding round, valuing the company at $1.6 billion. This cash influx is designed to enhance its co-orbital security and space domain awareness capabilities, a sector that’s gaining traction with defense contracts. DoD pull-through is now the headline, with the Pentagon keen on tracking threats in orbit.",
+      "soWhat": "In an era where space is the new frontier for defense, True Anomaly's funding is a clear signal that the government is ready to invest heavily in surveillance capabilities."
     },
     {
-      "kicker": "EXPANSION",
-      "head": "LatConnect 60 expands SWIRSAT into Malaysia and UAE",
-      "body": "LatConnect 60 is broadening its SWIRSAT constellation into Malaysia and the UAE, building on its existing operations in Western Australia. This expansion is part of a strategy to enhance its capabilities in satellite-based services across multiple regions. Financial specifics were not disclosed, but the move signals a growing interest in diversifying operational footprints.",
-      "soWhat": "As companies expand their geographic reach, the competition for local partnerships and regulatory approvals will intensify, adding layers of complexity to international operations."
+      "kicker": "PARTNERSHIP",
+      "head": "Fotrastra and Hadrian team up for satellite efficiency",
+      "body": "Fotrastra and Hadrian have announced a partnership aimed at streamlining satellite production processes. The collaboration reflects a growing trend in the industry where efficiency is prioritized, as both companies look to reduce costs and time-to-market for their satellite offerings. Given the high stakes of satellite deployment, this could set a new standard for production timelines.",
+      "soWhat": "If this partnership succeeds, it might force competitors to rethink their own production strategies, which could ripple through the satellite supply chain."
     },
     {
       "kicker": "DELAY",
-      "head": "Boeing's Starliner flight schedule remains uncertain",
-      "body": "Boeing continues to negotiate with NASA regarding the next launch of its CST-100 Starliner, with no firm date in sight. This ongoing delay adds to the growing list of setbacks for Boeing in the commercial crew program, which has already faced significant scrutiny. The implications for NASA's broader Artemis program could be substantial, as delays in crew transport affect mission timelines.",
-      "soWhat": "Boeing's struggles may embolden competitors like SpaceX, further eroding confidence in Boeing's capabilities in a critical market."
+      "head": "Boeing still waiting on Starliner flight schedule",
+      "body": "Boeing continues to negotiate with NASA regarding the schedule for its next Starliner flight, highlighting the ongoing challenges in the commercial crew program. The delays have raised questions about Boeing's ability to meet its contractual obligations and maintain its competitive edge in the space launch sector. Meanwhile, SpaceX continues to forge ahead with its own crewed missions.",
+      "soWhat": "At this point, it’s clear that patience is a virtue in space—Boeing may need more than just rockets to get back in the game."
     }
   ],
   "watchlist": [
     {
-      "title": "Keep an eye on True Anomaly's growth",
-      "body": "With a recent $190M Series C funding round, True Anomaly is positioned to expand its co-orbital security capabilities, potentially reshaping the competitive landscape."
+      "title": "Keep an eye on hypersonic tests",
+      "body": "With the hypersonic glide-vehicle test delayed for the third consecutive quarter, the implications for military readiness are becoming increasingly concerning."
     },
     {
-      "title": "Watch for ispace's lunar mission preparations",
-      "body": "As ispace gears up for its lunar lander mission in 2028, developments could signal a shift in private lunar transportation dynamics."
+      "title": "Watch for developments in satellite partnerships",
+      "body": "As Fotrastra and Hadrian's partnership unfolds, other companies may follow suit to enhance their production capabilities, potentially reshaping the satellite market."
     },
     {
-      "title": "Monitor the impact of the FY27 budget increase",
-      "body": "The $1.4B boost to space resilience may drive new contracts and opportunities for contractors involved in national security."
+      "title": "Funding trends to monitor next week",
+      "body": "With several companies in the pipeline for funding rounds, keep an eye on which sectors attract the most investment—defense tech or satellite communications?"
     },
     {
-      "title": "Expect more partnerships in satellite production",
-      "body": "Fotrastra and Hadrian's collaboration could lead to a wave of similar partnerships, as firms seek to optimize production amid rising demand."
+      "title": "Upcoming SBIR awards could shift focus",
+      "body": "Recent SBIR Phase II awards indicate a shift toward innovative technologies in space; watch for how these projects might influence future contracts."
     }
   ],
   "talent": {
@@ -90,19 +90,19 @@
   "tickers": [
     {
       "sym": "PLTR",
-      "note": "Palantir's $480M TITAN extension suggests strong defense tech demand."
+      "note": "Palantir's $480M extension on the TITAN program shows that defense software remains a lucrative field."
     },
     {
-      "sym": "ASTR",
-      "note": "Astranis's $250M funding indicates confidence in microGEO satellite production."
+      "sym": "ASTS",
+      "note": "ASTS's bull case, illustrated in recent charts, reflects the precarious balance between execution and potential disaster."
     },
     {
-      "sym": "K2",
-      "note": "K2 Space's $110M Series B underlines the importance of national security satellite missions."
+      "sym": "SPCE",
+      "note": "As SpaceX's valuation hits $470B, the secondary market for space investments is heating up."
     },
     {
-      "sym": "SLS",
-      "note": "Boeing's ongoing Starliner delays could impact future SLS missions and partnerships."
+      "sym": "SIE",
+      "note": "Sierra Space's Dream Chaser DoD variant passing its design review might finally lead to a launch—or more delays."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

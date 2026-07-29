@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry is buzzing with activity as new partnerships form and budget allocations shift. From satellite production collaborations to lunar lander missions, the momentum is palpable, albeit with a few delays in hypersonic testing.",
+  "summary": "The space industry continues to see a mix of collaboration and competition as companies gear up for new projects and funding rounds. Notably, satellite production efficiency is on the rise while some hypersonic ambitions remain grounded.",
   "themes": [
     {
       "icon": "▣",
       "title": "Satellite Production Partnerships",
-      "body": "Fastrastra and Hadrian's collaboration aims to streamline satellite production, a necessary move as demand surges. This could signal a trend toward consolidation in an industry that often resembles a crowded marketplace."
+      "body": "Fotrastra and Hadrian's collaboration aims to streamline satellite production, reflecting a broader trend of consolidation in the sector. As companies seek to cut costs and improve timelines, expect more alliances to emerge."
     },
     {
       "icon": "◉",
-      "title": "Lunar Ambitions Continue",
-      "body": "H3's upcoming lunar lander mission underscores the ongoing interest in lunar exploration, even as budgets tighten. The race to establish a foothold on the Moon is heating up, with both established players and newcomers vying for a piece of the pie."
+      "title": "Funding in Space Situational Awareness",
+      "body": "A Chinese startup's recent fundraising for a space situational awareness constellation highlights the growing commercial interest in this niche. With multiple players entering the field, competition for contracts and innovation will likely intensify."
     },
     {
       "icon": "▲",
-      "title": "Space Resilience Funding Boost",
-      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, reflecting a growing recognition of the strategic importance of space. This influx of cash may bolster domestic capabilities, but it remains to be seen how effectively it will be utilized."
+      "title": "Budget Boost for Space Resilience",
+      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, signaling a stronger commitment to safeguarding U.S. interests in orbit. This funding could accelerate projects aimed at enhancing national security in space."
     },
     {
       "icon": "◆",
-      "title": "Commercial SSA Rush",
-      "body": "Chinese startups are entering the space situational awareness market, joining a growing list of players. This influx could intensify competition and innovation, but also raises questions about data security and geopolitical implications."
+      "title": "Hypersonic Testing Delays",
+      "body": "The latest hypersonic glide-vehicle test has slipped for the third consecutive quarter, raising questions about the viability of these advanced systems. As funding pours into defense tech, stakeholders will be watching closely for any signs of progress."
     }
   ],
-  "updated": "2026-07-29 15:11 UTC"
+  "updated": "2026-07-29 15:47 UTC"
 }
