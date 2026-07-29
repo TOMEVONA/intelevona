@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "This week, the space and defense sectors are buzzing with contract wins and new technology developments. Notably, NASA's lunar mission successor has been selected, while the upper C-band auction continues to bolster the GEO industry.",
+  "summary": "The space industry is buzzing with activity as new partnerships form and budget allocations shift. From satellite production collaborations to lunar lander missions, the momentum is palpable, albeit with a few delays in hypersonic testing.",
   "themes": [
     {
       "icon": "▣",
-      "title": "NASA's Lunar Ambitions",
-      "body": "NASA's recent selection for the CAPSTONE successor signals a renewed focus on lunar exploration. This move could set the stage for more ambitious missions and partnerships in the coming years."
-    },
-    {
-      "icon": "▲",
-      "title": "GEO Industry Gains Traction",
-      "body": "The upper C-band auction is proving to be a financial boon for the GEO sector, with SES poised to reap significant rewards. This trend underscores the growing importance of spectrum management in satellite operations."
-    },
-    {
-      "icon": "◆",
-      "title": "Defense Contracts on the Rise",
-      "body": "Sphinx Defense's $287 million contract for satellite communications software highlights a robust demand for secure military communications. As geopolitical tensions rise, expect more such contracts to emerge."
+      "title": "Satellite Production Partnerships",
+      "body": "Fastrastra and Hadrian's collaboration aims to streamline satellite production, a necessary move as demand surges. This could signal a trend toward consolidation in an industry that often resembles a crowded marketplace."
     },
     {
       "icon": "◉",
-      "title": "Tech Innovations in Space",
-      "body": "Intel's new chip for space computing and Orbes' Exo-ORB unveilings reflect the ongoing tech race in the space sector. These advancements are crucial for enhancing operational capabilities in increasingly complex missions."
+      "title": "Lunar Ambitions Continue",
+      "body": "H3's upcoming lunar lander mission underscores the ongoing interest in lunar exploration, even as budgets tighten. The race to establish a foothold on the Moon is heating up, with both established players and newcomers vying for a piece of the pie."
+    },
+    {
+      "icon": "▲",
+      "title": "Space Resilience Funding Boost",
+      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, reflecting a growing recognition of the strategic importance of space. This influx of cash may bolster domestic capabilities, but it remains to be seen how effectively it will be utilized."
+    },
+    {
+      "icon": "◆",
+      "title": "Commercial SSA Rush",
+      "body": "Chinese startups are entering the space situational awareness market, joining a growing list of players. This influx could intensify competition and innovation, but also raises questions about data security and geopolitical implications."
     }
   ],
-  "updated": "2026-07-28 16:01 UTC"
+  "updated": "2026-07-29 15:11 UTC"
 }

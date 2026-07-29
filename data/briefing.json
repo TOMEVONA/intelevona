@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-28",
-  "issue": "No. 98",
-  "headline": "NASA picks lunar successor. FCC auctions spectrum. Sphinx wins big.",
-  "deck": "This week sees significant moves in lunar missions, spectrum auctions, and defense contracts.",
+  "updated": "2026-07-29",
+  "issue": "No. 99",
+  "headline": "Funding grows. Partnerships form. Delays continue.",
+  "deck": "This week, the space industry sees a mix of partnerships, funding rounds, and persistent delays.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -43,40 +43,40 @@
   ],
   "stories": [
     {
-      "kicker": "NASA",
-      "head": "Advanced Space wins lunar mission follow-up contract",
-      "body": "NASA has selected Advanced Space to succeed the CAPSTONE lunar mission with a new small satellite designed for rendezvous technology testing. This contract underscores the moon's continued appeal as a testing ground for advanced space operations. Financial details remain undisclosed, but expect a hefty investment as lunar ambitions grow.",
-      "soWhat": "If the moon is the new frontier for testing, expect more players to jump into lunar missions, possibly diluting the market for contracts."
+      "kicker": "PARTNERSHIPS",
+      "head": "Fotrastra and Hadrian unite for satellite production",
+      "body": "Fotrastra and Hadrian are collaborating to enhance satellite production, leveraging precision machining and additive manufacturing techniques. This partnership underscores a growing trend of consolidation in the satellite manufacturing space, as companies seek efficiencies in a competitive market. The exact financial terms remain undisclosed, but the intention is clear: streamline production to meet rising demand.",
+      "soWhat": "In a sector where time-to-market is crucial, expect more companies to follow suit, potentially leading to fewer players but faster outputs."
     },
     {
-      "kicker": "AUCTION",
-      "head": "FCC's upper C-band auction could net $6 billion",
-      "body": "The upcoming FCC auction for upper C-band spectrum is projected to generate over $6 billion for satellite operators, highlighting the value of clearing spectrum in the GEO sector. This auction is seen as a critical opportunity for companies looking to enhance their communication capabilities, particularly as demand for satellite services continues to rise.",
-      "soWhat": "With spectrum becoming the new gold rush, companies without a strong spectrum strategy may soon find themselves at a competitive disadvantage."
+      "kicker": "EXPANSION",
+      "head": "LatConnect 60 expands SWIRSAT into Malaysia and UAE",
+      "body": "LatConnect 60 is broadening its SWIRSAT constellation into Malaysia and the UAE, building on its existing operations in Western Australia. This expansion is part of a strategy to enhance its capabilities in satellite-based services across multiple regions. Financial specifics were not disclosed, but the move signals a growing interest in diversifying operational footprints.",
+      "soWhat": "As companies expand their geographic reach, the competition for local partnerships and regulatory approvals will intensify, adding layers of complexity to international operations."
     },
     {
-      "kicker": "DEFENSE",
-      "head": "Sphinx Defense lands $287 million software contract",
-      "body": "Sphinx Defense has secured a $287 million contract to develop mission planning software for next-gen strategic satellites. This contract emphasizes the increasing importance of software in enhancing satellite capabilities and operational efficiency. As the defense sector invests heavily in software upgrades, this could be a bellwether for future contracts.",
-      "soWhat": "If software is the backbone of modern defense, companies that can deliver robust solutions will continue to thrive, leaving hardware-focused firms in the dust."
+      "kicker": "DELAY",
+      "head": "Boeing's Starliner flight schedule remains uncertain",
+      "body": "Boeing continues to negotiate with NASA regarding the next launch of its CST-100 Starliner, with no firm date in sight. This ongoing delay adds to the growing list of setbacks for Boeing in the commercial crew program, which has already faced significant scrutiny. The implications for NASA's broader Artemis program could be substantial, as delays in crew transport affect mission timelines.",
+      "soWhat": "Boeing's struggles may embolden competitors like SpaceX, further eroding confidence in Boeing's capabilities in a critical market."
     }
   ],
   "watchlist": [
     {
       "title": "Keep an eye on True Anomaly's growth",
-      "body": "With a recent $190 million Series C, True Anomaly is poised to capitalize on increasing demand for co-orbital security solutions."
+      "body": "With a recent $190M Series C funding round, True Anomaly is positioned to expand its co-orbital security capabilities, potentially reshaping the competitive landscape."
     },
     {
-      "title": "Sierra Space's Dream Chaser moves closer to launch",
-      "body": "Having passed its critical design review, the Dream Chaser DoD variant is now one step closer to operational deployment, which could shake up logistics for defense missions."
+      "title": "Watch for ispace's lunar mission preparations",
+      "body": "As ispace gears up for its lunar lander mission in 2028, developments could signal a shift in private lunar transportation dynamics."
     },
     {
-      "title": "Watch for FCC auction outcomes",
-      "body": "The results of the upcoming upper C-band auction could reshape the competitive landscape in satellite communications, affecting stock prices and partnerships."
+      "title": "Monitor the impact of the FY27 budget increase",
+      "body": "The $1.4B boost to space resilience may drive new contracts and opportunities for contractors involved in national security."
     },
     {
-      "title": "Palantir's TITAN extension implications",
-      "body": "With a $480 million extension on the TITAN ground station program, Palantir's continued involvement in defense tech indicates a solidified role in future military operations."
+      "title": "Expect more partnerships in satellite production",
+      "body": "Fotrastra and Hadrian's collaboration could lead to a wave of similar partnerships, as firms seek to optimize production amid rising demand."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPAC",
-      "note": "SpaceX remains a $470 billion enigma, as investors weigh risks against potential rewards."
-    },
-    {
       "sym": "PLTR",
-      "note": "Palantir's $480 million contract extension signals strong demand for its defense software solutions."
+      "note": "Palantir's $480M TITAN extension suggests strong defense tech demand."
     },
     {
-      "sym": "ASTS",
-      "note": "ASTS's stock may reflect the bullish sentiment from its recent bull case presentation, but execution risks loom."
+      "sym": "ASTR",
+      "note": "Astranis's $250M funding indicates confidence in microGEO satellite production."
     },
     {
-      "sym": "SIRI",
-      "note": "Sirius XM could see fluctuations as the FCC auction results impact satellite communication strategies."
+      "sym": "K2",
+      "note": "K2 Space's $110M Series B underlines the importance of national security satellite missions."
+    },
+    {
+      "sym": "SLS",
+      "note": "Boeing's ongoing Starliner delays could impact future SLS missions and partnerships."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"
