@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space industry continues to see a mix of collaboration and competition as companies gear up for new projects and funding rounds. Notably, satellite production efficiency is on the rise while some hypersonic ambitions remain grounded.",
+  "summary": "The space and defense sectors are buzzing with activity, from launch contracts to new patents in space data management. Meanwhile, the regulatory landscape is shifting as commercial launch licensing faces potential environmental exemptions.",
   "themes": [
     {
       "icon": "▣",
-      "title": "Satellite Production Partnerships",
-      "body": "Fotrastra and Hadrian's collaboration aims to streamline satellite production, reflecting a broader trend of consolidation in the sector. As companies seek to cut costs and improve timelines, expect more alliances to emerge."
+      "title": "Launch Contracts Galore",
+      "body": "Rocket Lab's recent contract win from Japan's iQPS and SpaceX's $1.6 billion in military satellite launch orders highlight a robust demand for launch services. This trend suggests that the appetite for satellite deployment continues to grow, particularly in defense applications."
     },
     {
       "icon": "◉",
-      "title": "Funding in Space Situational Awareness",
-      "body": "A Chinese startup's recent fundraising for a space situational awareness constellation highlights the growing commercial interest in this niche. With multiple players entering the field, competition for contracts and innovation will likely intensify."
+      "title": "Patents and Data Centers",
+      "body": "Sophia Space and Caltech's patent for space data centers signals an emerging focus on data management in orbit. As the volume of space-based data increases, so too does the need for innovative solutions to handle it."
     },
     {
       "icon": "▲",
-      "title": "Budget Boost for Space Resilience",
-      "body": "The FY27 budget markup adds $1.4 billion to the space resilience line, signaling a stronger commitment to safeguarding U.S. interests in orbit. This funding could accelerate projects aimed at enhancing national security in space."
+      "title": "Regulatory Shifts Ahead",
+      "body": "A proposed rule to exempt commercial launch licensing from environmental regulations could streamline operations for launch providers. However, this move may raise eyebrows among environmental advocates, setting the stage for a potential clash."
     },
     {
       "icon": "◆",
-      "title": "Hypersonic Testing Delays",
-      "body": "The latest hypersonic glide-vehicle test has slipped for the third consecutive quarter, raising questions about the viability of these advanced systems. As funding pours into defense tech, stakeholders will be watching closely for any signs of progress."
+      "title": "IPO Delays and Defense Demand",
+      "body": "L3Harris's decision to postpone its missile business IPO to 2027 reflects the complexities of capitalizing on surging defense demand. This delay may indicate a cautious approach amid market volatility and evolving defense priorities."
     }
   ],
-  "updated": "2026-07-29 15:47 UTC"
+  "updated": "2026-07-30 15:15 UTC"
 }
