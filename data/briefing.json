@@ -1,8 +1,8 @@
 {
   "updated": "2026-07-30",
   "issue": "No. 100",
-  "headline": "Launch contracts multiply. IPOs delay. Defense budgets grow.",
-  "deck": "SpaceX's military orders soar while L3Harris hits pause on IPO plans.",
+  "headline": "Rocket Lab launches contracts. Space data centers patent. Defense IPOs delayed.",
+  "deck": "Rocket Lab snags another contract while SpaceX's military orders surge and L3Harris pushes back its IPO.",
   "stats": [
     {
       "label": "Capital deployed",
@@ -44,39 +44,39 @@
   "stories": [
     {
       "kicker": "CONTRACTS",
-      "head": "SpaceX secures $1.6 billion in military launches",
-      "body": "SpaceX has clinched $1.6 billion in military satellite launch orders, reinforcing its dominance in the defense sector. This latest win underscores the military's ongoing reliance on Falcon 9, which remains the go-to rocket for many high-stakes missions. With the U.S. military increasingly outsourcing launch capabilities, SpaceX seems to be the only game in town.",
-      "soWhat": "The military's love affair with SpaceX suggests that competitors may need to rethink their strategies, as loyalty often trumps innovation in government contracts."
-    },
-    {
-      "kicker": "FUNDING",
-      "head": "True Anomaly raises $190 million for co-orbital security",
-      "body": "True Anomaly has raised $190 million in a Series C funding round, bringing its valuation to $1.6 billion. The company focuses on co-orbital security and space domain awareness, illustrating that in the current landscape, cash can often outweigh actual innovation. With defense contracts on the horizon, True Anomaly is positioning itself as a critical player in a rapidly evolving sector.",
-      "soWhat": "This funding round highlights a growing trend where investors prioritize defense capabilities, even if the technology isn't yet fully developed."
+      "head": "Rocket Lab secures contract with Japan's iQPS",
+      "body": "Rocket Lab has won another launch contract from Japan's iQPS for its Electron rocket, solidifying its position in the competitive launch market. This comes on the heels of SpaceX's $1.6 billion military satellite launch orders, illustrating that demand for launch services remains robust. The contract details were not disclosed, but Rocket Lab continues to prove that its strategy of targeting niche markets is paying off.",
+      "soWhat": "With Rocket Lab's consistent wins, the question is whether they can scale fast enough to keep pace with SpaceX's massive contracts."
     },
     {
       "kicker": "PATENTS",
       "head": "Sophia Space and Caltech patent space data centers",
-      "body": "Sophia Space and Caltech have patented a modular design for space-based data centers, aiming to capitalize on the increasing demand for data storage in orbit. This patent could lead to new business models in the space data sector, as companies look to leverage low-latency access to data. The vacuum of space might just be the next frontier for data management.",
-      "soWhat": "As traditional data centers face capacity issues, this patent could signal a shift in how we think about data storage—if you're not in space, are you even in the game?"
+      "body": "Sophia Space and Caltech have patented large, modular space-based data centers, aiming to capitalize on the growing need for data storage in orbit. While the market for space data centers is still nascent, this patent could position them advantageously as satellite constellations proliferate. The investment in this area reflects a broader trend of moving critical infrastructure into space.",
+      "soWhat": "If these data centers become a reality, we might soon see a new kind of data arms race, but who really needs more data storage in space?"
+    },
+    {
+      "kicker": "IPO DELAYS",
+      "head": "L3Harris postpones missile business IPO to 2027",
+      "body": "L3Harris has delayed its missile business IPO until 2027, a surprising move given the surging demand for defense tech. This decision reflects the current market sentiment, which appears cautious despite strong defense spending. Investors had anticipated a quicker entry into the public market, but now must wait as the company navigates market conditions.",
+      "soWhat": "This delay suggests L3Harris might be sensing a market correction, indicating that even defense isn’t immune to broader economic shifts."
     }
   ],
   "watchlist": [
     {
-      "title": "L3Harris IPO delay impacts market sentiment",
-      "body": "With L3Harris pushing its missile business IPO to 2027, investors may become wary of the defense sector's immediate prospects."
+      "title": "Watch for SpaceX's military satellite launches",
+      "body": "With $1.6 billion in new orders, SpaceX's ability to execute will be under scrutiny."
     },
     {
-      "title": "Anduril and L3Harris tactical bid heats up",
-      "body": "The collaboration for a tactical SDA constellation bid could set the stage for a new wave of competitive bidding in military contracts."
+      "title": "Keep an eye on Rocket Lab's growth trajectory",
+      "body": "If Rocket Lab continues securing contracts, it could challenge larger players for market share."
     },
     {
-      "title": "True Anomaly's next moves post-funding",
-      "body": "Investors will be watching closely to see how True Anomaly deploys its new capital to secure government contracts."
+      "title": "Monitor L3Harris' strategic shifts",
+      "body": "The postponed IPO may signal a broader strategy realignment in response to market conditions."
     },
     {
-      "title": "SpaceX's military orders may draw scrutiny",
-      "body": "As SpaceX continues to dominate military launches, regulatory bodies may start looking closer at potential monopolistic practices."
+      "title": "Follow True Anomaly's Series C implications",
+      "body": "With $190 million raised, True Anomaly's focus on defense could reshape co-orbital security."
     }
   ],
   "talent": {
@@ -89,20 +89,20 @@
   },
   "tickers": [
     {
-      "sym": "SPCE",
-      "note": "Virgin Galactic's stock remains stagnant as the company struggles to define its path forward."
-    },
-    {
       "sym": "RKLB",
-      "note": "Rocket Lab's recent contract win with Japan’s iQPS may provide a much-needed boost to its stock performance."
+      "note": "Rocket Lab's recent contract win underscores its niche strategy in the launch market."
     },
     {
-      "sym": "PLTR",
-      "note": "Palantir's $480 million extension on the TITAN program shows that defense tech continues to pay dividends."
+      "sym": "SPCE",
+      "note": "SpaceX's military orders highlight its dominance, but profitability remains a question."
     },
     {
       "sym": "LHX",
-      "note": "L3Harris's IPO delay suggests that even the giants of defense are not immune to market volatility."
+      "note": "L3Harris' IPO delay suggests a cautious approach in a volatile defense market."
+    },
+    {
+      "sym": "TRU",
+      "note": "True Anomaly's Series C funding reflects strong investor confidence in co-orbital solutions."
     }
   ],
   "footnote": "Updated daily at 09:00 EDT. SBIR weekly. Stock prices live. Read the raw intel in the terminal →"

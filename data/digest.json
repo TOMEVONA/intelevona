@@ -1,27 +1,27 @@
 {
   "title": "Week in Orbit",
-  "summary": "The space and defense sectors are buzzing with activity, from launch contracts to new patents in space data management. Meanwhile, the regulatory landscape is shifting as commercial launch licensing faces potential environmental exemptions.",
+  "summary": "The space and defense sectors are buzzing with activity as companies vie for contracts and navigate regulatory changes. Meanwhile, the push for space resilience funding continues amid a backdrop of persistent technological challenges.",
   "themes": [
     {
       "icon": "▣",
       "title": "Launch Contracts Galore",
-      "body": "Rocket Lab's recent contract win from Japan's iQPS and SpaceX's $1.6 billion in military satellite launch orders highlight a robust demand for launch services. This trend suggests that the appetite for satellite deployment continues to grow, particularly in defense applications."
+      "body": "Rocket Lab's latest win with Japan’s iQPS adds to the growing list of launch contracts, underscoring a competitive landscape. SpaceX's $1.6 billion in military satellite orders further cements its dominance in this arena."
     },
     {
       "icon": "◉",
-      "title": "Patents and Data Centers",
-      "body": "Sophia Space and Caltech's patent for space data centers signals an emerging focus on data management in orbit. As the volume of space-based data increases, so too does the need for innovative solutions to handle it."
+      "title": "Regulatory Shifts Ahead",
+      "body": "A proposed rule to exempt commercial launch licensing from environmental regulations could streamline operations for many players. This move may also spark debates on environmental accountability in the burgeoning space economy."
     },
     {
       "icon": "▲",
-      "title": "Regulatory Shifts Ahead",
-      "body": "A proposed rule to exempt commercial launch licensing from environmental regulations could streamline operations for launch providers. However, this move may raise eyebrows among environmental advocates, setting the stage for a potential clash."
+      "title": "Defense IPOs on the Horizon",
+      "body": "The defense-tech IPO window appears to be cracking open, though L3Harris has opted to delay its missile business IPO until 2027. This cautious approach reflects the complexities of the current defense market despite surging demand."
     },
     {
       "icon": "◆",
-      "title": "IPO Delays and Defense Demand",
-      "body": "L3Harris's decision to postpone its missile business IPO to 2027 reflects the complexities of capitalizing on surging defense demand. This delay may indicate a cautious approach amid market volatility and evolving defense priorities."
+      "title": "Space Resilience Funding Boost",
+      "body": "The FY27 budget markup's $1.4 billion addition to space resilience funding signals a growing recognition of the need for robust space capabilities. As geopolitical tensions rise, expect more focus on enhancing national security through space."
     }
   ],
-  "updated": "2026-07-30 15:15 UTC"
+  "updated": "2026-07-30 15:48 UTC"
 }
