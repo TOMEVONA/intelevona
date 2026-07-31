@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-31T15:23:00.712Z",
+  "updated": "2026-07-31T15:58:34.272Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Spain commits up to $2.3 billion for national military communications for IRIS²",
+      "summary": "WARSAW, Poland — The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite communications constellation that",
+      "date": "2026-07-31",
+      "link": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Inside the effort to show Congress what war in space looks like",
@@ -28,13 +35,6 @@
       "summary": "In March 2021, while serving as a senior fellow at the Brookings Institution, I hosted a discussion with General Chance Saltzman, now Chief of Space Operations for the United States",
       "date": "2026-07-31",
       "link": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Rules of the road needed for orbital data center constellations",
-      "summary": "As companies develop large constellations of orbital data center satellites, experts say now is the time to start thinking about some critical space safety topics and rules of the road.",
-      "date": "2026-07-31",
-      "link": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/"
     },
     {
       "sourceId": "tectonic",
@@ -290,17 +290,17 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! July 31, 1971: Apollo 15 astronauts drive on the moon for 1st time",
-      "summary": "On July 31, 1971, Apollo 15 astronauts drove on the moon for the first time. Here's how it happened and why it mattered.",
-      "date": "2026-07-31",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-31-2026"
-    },
-    {
-      "sourceId": "spacecom",
       "title": "Artemis moonsuits take a dive | Space photo of the day for July 31, 2026",
       "summary": "NASA is using its Neutral Buoyancy Laboratory to develop the training programs it will use to prepare its astronauts to explore the lunar surface.",
       "date": "2026-07-31",
       "link": "https://www.space.com/space-exploration/artemis/artemis-moonsuits-take-a-dive-space-photo-of-the-day-for-july-31-2026"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "On this day in space! July 31, 1971: Apollo 15 astronauts drive on the moon for 1st time",
+      "summary": "On July 31, 1971, Apollo 15 astronauts drove on the moon for the first time. Here's how it happened and why it mattered.",
+      "date": "2026-07-31",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-31-2026"
     },
     {
       "sourceId": "spacecom",
