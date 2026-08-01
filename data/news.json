@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-31T15:58:34.272Z",
+  "updated": "2026-08-01T14:36:29.861Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
+      "summary": "HELSINKI — China sent a new pair of secretive satellites into a programmatically new orbit Wednesday, while also upgrading its on-orbit communications relay capabilities. A Long March 6A rocket lifted",
+      "date": "2026-08-01",
+      "link": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
+      "summary": "Converting an engineering model of a Mars rover into an actual lunar rover could cost NASA more than $1 billion, an estimate strongly rejected by the agency’s administrator.",
+      "date": "2026-07-31",
+      "link": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Spain commits up to $2.3 billion for national military communications for IRIS²",
@@ -21,20 +35,6 @@
       "summary": "Vendors will compete for orders to build satellites, sensors and systems for more realistic military space exercises The post Space Force picks 15 companies for $981 million training range contract appeared first on SpaceNews .",
       "date": "2026-07-31",
       "link": "https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "NASA still assessing Starliner-1 flight opportunities",
-      "summary": "A NASA official says that work with Boeing on the company’s CST-100 Starliner vehicle is making “good progress” but declined to offer a date when the spacecraft could fly again. The post NASA still assessing Starliner-1 flight opportunities appeared first on SpaceNews .",
-      "date": "2026-07-31",
-      "link": "https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "The new space wars: lessons from Ukraine and the Middle East",
-      "summary": "In March 2021, while serving as a senior fellow at the Brookings Institution, I hosted a discussion with General Chance Saltzman, now Chief of Space Operations for the United States",
-      "date": "2026-07-31",
-      "link": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/"
     },
     {
       "sourceId": "tectonic",
@@ -213,6 +213,27 @@
     },
     {
       "sourceId": "dod",
+      "title": "Hegseth: Department Success Buoyed by Courage, Spirit, Leadership",
+      "summary": "The War Department has had a lot of success in the past 19 months, in no small part due to the men and women of the U.S. military, but also because of presidential leadership, Secretary of War Pete Hegseth said during a cabinet meeting at Camp David, Md.",
+      "date": "2026-07-31",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4561838/hegseth-department-success-buoyed-by-courage-spirit-leadership/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "USS Minnesota Completes First Forward-Deployment",
+      "summary": "The submarine USS Minnesota returned to its home port at Naval Base Guam after completing its first deployment since becoming the Navy's first forward-deployed submarine.",
+      "date": "2026-07-31",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4561139/uss-minnesota-completes-first-forward-deployment/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Oregon Guard Aircrews Support State Wildfire Response",
+      "summary": "Oregon Army National Guard members began water bucket operations in support of wildland firefighting efforts in Umatilla County, part of a broader National Guard response to the state's wildfire season.",
+      "date": "2026-07-31",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4561168/oregon-guard-aircrews-support-state-wildfire-response/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Freedom Haulers Initiative to Help Veterans Get Commercial Driver's Licenses, Better Jobs",
       "summary": "President Donald J. Trump announced the kickoff of the Freedom Haulers campaign, a new effort to help military veterans find good-paying jobs as commercial drivers following their military service by establishing a military-to-commercial driver's license pipeline.",
       "date": "2026-07-30",
@@ -224,27 +245,6 @@
       "summary": "Surgeons at Walter Reed National Military Medical Center recently removed a Marine's massive brain tumor through his nose and reconstructed his skull base. Two days later, there were no visible signs that Marine Corps Staff Sgt.",
       "date": "2026-07-30",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4560184/walter-reeds-skull-base-team-performs-innovative-brain-surgery/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "U.S., U.K. Air Forces Conduct Fighter Weapons Certification During Exercise Combat Archer",
-      "summary": "U.S. Air Force units stationed in England achieved combat certifications after completing two weeks of high-end, tactical air and missile training during Exercise Combat Archer U.K. 26.",
-      "date": "2026-07-30",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4560115/us-uk-air-forces-conduct-fighter-weapons-certification-during-exercise-combat-a/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Army Chaplain Corps Celebrates 251 Years",
-      "summary": "For 251 years, the Army Chaplain Corps provided faith-based, intentional support aimed at serving each soldier wholly, helping them find strength during difficult circumstances, build resilience for the challenges of battle and prepare to thrive in life beyond military service.",
-      "date": "2026-07-30",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4560080/army-chaplain-corps-celebrates-251-years/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Vice Chairman Presents Purple Heart to Operation Iraqi Freedom Vets",
-      "summary": "Marine Corps Gen. Christopher J. Mahoney, vice chairman of the Joint Chiefs of Staff, presented the Purple Heart to six service members — four retired, one on active duty and one receiving it posthumously — during a ceremony in the Pentagon's Hall of Heroes.",
-      "date": "2026-07-29",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4559355/vice-chairman-presents-purple-heart-to-operation-iraqi-freedom-vets/"
     },
     {
       "sourceId": "viasat",
@@ -283,73 +283,73 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "Watch SpaceX's Starship land at sea in these stunning new videos",
-      "summary": "SpaceX used drones and a special 'buoy cam' to capture incredible footage of its Starship upper stage making a soft ocean landing after its 13th test flight on July 24.",
-      "date": "2026-07-31",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-starship-land-at-sea-in-these-stunning-new-videos"
+      "title": "This Week In Space podcast: Episode 221 — Starship Can Float?",
+      "summary": "On Episode 221 of This Week In Space, Tariq Malik and guest host Rick Jenet of the National Space Society talk about SpaceX's Starship Flight 13, which survived reentry intact enough to float.",
+      "date": "2026-08-01",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-221-starship-can-float"
     },
     {
       "sourceId": "spacecom",
-      "title": "Artemis moonsuits take a dive | Space photo of the day for July 31, 2026",
-      "summary": "NASA is using its Neutral Buoyancy Laboratory to develop the training programs it will use to prepare its astronauts to explore the lunar surface.",
-      "date": "2026-07-31",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-moonsuits-take-a-dive-space-photo-of-the-day-for-july-31-2026"
+      "title": "Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans",
+      "summary": "The dinosaurs may not have starved through a years-long winter. New evidence suggests a blanket of ultrafine impact dust set the planet on fire within hours.",
+      "date": "2026-08-01",
+      "link": "https://www.space.com/astronomy/asteroids/dinosaur-killing-asteroid-may-have-caused-firestorms-17-times-hotter-than-the-thermal-limit-lethal-to-humans"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! July 31, 1971: Apollo 15 astronauts drive on the moon for 1st time",
-      "summary": "On July 31, 1971, Apollo 15 astronauts drove on the moon for the first time. Here's how it happened and why it mattered.",
-      "date": "2026-07-31",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-31-2026"
+      "title": "On this day in space! Aug. 1, 1968: NASA ends production of Saturn V moon rocket",
+      "summary": "On Aug. 1, 1968, NASA canceled the production of its Saturn V moon rocket, one year before the historic Apollo 11 moon landing, spelling the end of the Apollo program due to budget concerns.",
+      "date": "2026-08-01",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Watching August's 2026 solar eclipse from the UK? Stay safe with the best solar eclipse glasses",
-      "summary": "We've rounded up the best solar eclipse glasses so you can watch safely from the UK.",
-      "date": "2026-07-31",
-      "link": "https://www.space.com/stargazing/skywatching-kit/watching-augusts-solar-eclipse-from-the-uk-stay-safe-with-the-best-solar-eclipse-glasses"
+      "title": "'Flight of the Navigator' at 40: the Disney space movie that messed with time dilation long before 'Interstellar'",
+      "summary": "40 years later, 'Flight of the Navigator' remains an ambitious cult classic that refuses to speak down to its target audience.",
+      "date": "2026-08-01",
+      "link": "https://www.space.com/entertainment/space-movies-shows/flight-of-the-navigator-at-40-the-disney-space-movie-that-messed-with-time-dilation-long-before-interstellar"
     },
     {
       "sourceId": "spacecom",
-      "title": "The night sky is changing this August — here's which planets to watch",
-      "summary": "Venus dominates the evening sky while Mercury and Jupiter stage a beautiful dawn pairing you won't want to miss.",
-      "date": "2026-07-31",
-      "link": "https://www.space.com/stargazing/the-night-sky-is-changing-this-august-heres-which-planets-to-watch"
+      "title": "SpaceX launches 24 Starlink satellites to orbit from California (photos)",
+      "summary": "A SpaceX Falcon 9 rocket launched 24 more of the company's Starlink internet satellites from California's central coast late on Friday night (July 31).",
+      "date": "2026-08-01",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-17-52-ocisly-vandenberg"
     },
     {
       "sourceId": "rspace",
-      "title": "A discarded SpaceX rocket is on a high-speed collision course with the moon",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vbsepc/a_discarded_spacex_rocket_is_on_a_highspeed/\"> <img src=\"https://external-preview.redd.it/Y8QsIfzzfOnmoWO2xjNJQshEK8DniefkOtOfQH467uI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5cd4b53e6969d9945f28c2…",
-      "date": "2026-07-31",
-      "link": "https://www.reddit.com/r/space/comments/1vbsepc/a_discarded_spacex_rocket_is_on_a_highspeed/"
+      "title": "Efforts Continue to Stabilize LINK Spacecraft for NASA’s Swift Boost",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vckhrt/efforts_continue_to_stabilize_link_spacecraft_for/\"> <img src=\"https://external-preview.redd.it/UYzfA25gI9x1OLFDA0kvpeiGfWfQDhZLxrJLIMAuQNk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d854b395dad6b90ce…",
+      "date": "2026-08-01",
+      "link": "https://www.reddit.com/r/space/comments/1vckhrt/efforts_continue_to_stabilize_link_spacecraft_for/"
     },
     {
       "sourceId": "rspace",
-      "title": "How to surf on Saturn’s moon Titan",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vbr1ut/how_to_surf_on_saturns_moon_titan/\"> <img src=\"https://external-preview.redd.it/qMObxhulCikT6wFwPYDDCmTn2nkiENz3iwJQ9ETvVAg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b19e642d7b146c06890da150e5a643b0…",
-      "date": "2026-07-31",
-      "link": "https://www.reddit.com/r/space/comments/1vbr1ut/how_to_surf_on_saturns_moon_titan/"
+      "title": "[Official] Video of Ship 40 in space, pirouetting while exercising flaps. Taken from a retreating Starlink V3 satellite. [Having stood almost under SN-15, it's astonishing to see a 15 story tall \"building\" do this.]",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Adeldor\"> /u/Adeldor </a> <br/> <span><a href=\"https://x.com/SpaceX/status/2083296921230164378\">[link]</a></span> &#32; <span><a…",
+      "date": "2026-08-01",
+      "link": "https://www.reddit.com/r/space/comments/1vcbqoq/official_video_of_ship_40_in_space_pirouetting/"
     },
     {
       "sourceId": "rspace",
-      "title": "The prediction for the August 12th total eclipse’s solar corona is out!",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vbm0d6/the_prediction_for_the_august_12th_total_eclipses/\"> <img src=\"https://external-preview.redd.it/cOViyH0t-sXwVvpyDcnJSabv19qAK3rs_2Nmo3eGlrU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ea38863b57979fe…",
+      "title": "SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vc7bzk/spacexs_falcon_9_rocket_is_about_to_crash_into/\"> <img src=\"https://external-preview.redd.it/5teK5Ad1OL7UasbY8cpNQZoBFafLn9jLFl268plg0SE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=edda5274e4336b31fab…",
       "date": "2026-07-31",
-      "link": "https://www.reddit.com/r/space/comments/1vbm0d6/the_prediction_for_the_august_12th_total_eclipses/"
+      "link": "https://www.reddit.com/r/space/comments/1vc7bzk/spacexs_falcon_9_rocket_is_about_to_crash_into/"
     },
     {
       "sourceId": "rspace",
-      "title": "[Official] \"The first Starlink V3 satellites in space ...\" (note the clear views of the ion drive exhaust, reminiscent of science fiction)",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Adeldor\"> /u/Adeldor </a> <br/> <span><a href=\"https://x.com/Starlink/status/2082892420300366247\">[link]</a></span> &#32; <span><a…",
+      "title": "The Top Photos in the CWAS David Malin Awards Highlight Astronomical Wonders",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vc6ybi/the_top_photos_in_the_cwas_david_malin_awards/\"> <img src=\"https://external-preview.redd.it/D6y8coDW4CbfwT3Nx2G6WTsJUZ5Oq8s9ktYQlKcCcVs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6c8f4088984d7b5eb6c…",
       "date": "2026-07-31",
-      "link": "https://www.reddit.com/r/space/comments/1vbcycu/official_the_first_starlink_v3_satellites_in/"
+      "link": "https://www.reddit.com/r/space/comments/1vc6ybi/the_top_photos_in_the_cwas_david_malin_awards/"
     },
     {
       "sourceId": "rspace",
-      "title": "Actually, Starliner might fly into space this year | “We’re feeling pretty good about that,” Boeing CEO Kelly Ortberg said.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vb8hc0/actually_starliner_might_fly_into_space_this_year/\"> <img src=\"https://external-preview.redd.it/gUwHJ9EcykCr2QJJxvgI9dt5fz5Q_7wkk6cpNnw4I6A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ff4340adfeb291f7…",
-      "date": "2026-07-30",
-      "link": "https://www.reddit.com/r/space/comments/1vb8hc0/actually_starliner_might_fly_into_space_this_year/"
+      "title": "Tabby's Star might have a giant planetary companion",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A new study shows that the famous Tabby&#39;s Star might have a huge planet or brown dwarf orbiting it. 9 times as massive as Jupiter and 1.7 times the radius. This is separate from the other red dwarf binary star companion.",
+      "date": "2026-07-31",
+      "link": "https://www.reddit.com/r/space/comments/1vc58kd/tabbys_star_might_have_a_giant_planetary_companion/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?",
-      "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, July 24, 2026 Curiosity spent the week continuing to climb her way up through the layers of Mount Sharp, exploring the sedimentary…",
-      "date": "2026-07-31",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/"
+      "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+      "summary": "APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-08-01",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
-      "summary": "On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope.",
+      "title": "What’s Up: August 2026 Skywatching Tips from NASA",
+      "summary": "A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Transcript A solar eclipse, one of the year’s best meteor showers, Venus at its brightest in the evening sky, and a lunar eclipse to…",
       "date": "2026-07-31",
-      "link": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/"
+      "link": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
-      "summary": "APOD Science APOD APOD: 2026 July 31 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "title": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
+      "summary": "NASA will hold a news conference at 2:30 p.m. EDT, Friday, Aug. 14, live from the agency’s Kennedy Space Center in Florida, and media and digital creators are invited to attend in person.",
       "date": "2026-07-31",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/"
+      "link": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/"
     },
     {
       "sourceId": "nasa",
-      "title": "Destructive Fires Char Western Europe",
-      "summary": "Raging wildfires disrupted summer in Spain and France amid sweltering heat waves and prolonged drought.",
+      "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
+      "summary": "On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA’s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia.",
       "date": "2026-07-31",
-      "link": "https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/"
+      "link": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/"
     },
     {
       "sourceId": "nasa",
-      "title": "Students Take on Airborne Field Research with NASA",
-      "summary": "The gusty wind didn’t make it easy to hold tight to a balloon so large. The balloon, a scientific instrument called an ozonesonde, was about to be released into the atmosphere above the Texas Gulf Coast by students from NASA’s SARP (Student Airborne Research Program), which…",
-      "date": "2026-07-30",
-      "link": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/"
+      "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+      "summary": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions.",
+      "date": "2026-07-31",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/"
     }
   ]
 }
