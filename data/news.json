@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-03T15:46:17.781Z",
+  "updated": "2026-08-03T16:17:17.902Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
+      "summary": "EchoStar’s Hughes geostationary satellite broadband business has filed for bankruptcy in the United States after years of mounting competition from SpaceX’s Starlink constellation.",
+      "date": "2026-08-03",
+      "link": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Xona secures spectrum approval for 250-satellite navigation network",
@@ -28,13 +35,6 @@
       "summary": "Two K2 satellites will host optical terminals intended to connect military systems in orbit The post Space Force awards K2 Space $22.9 million for laser communications demonstration appeared first on SpaceNews .",
       "date": "2026-08-01",
       "link": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
-      "summary": "HELSINKI — China sent a new pair of secretive satellites into a programmatically new orbit Wednesday, while also upgrading its on-orbit communications relay capabilities. A Long March 6A rocket lifted",
-      "date": "2026-08-01",
-      "link": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/"
     },
     {
       "sourceId": "tectonic",
@@ -388,6 +388,27 @@
     },
     {
       "sourceId": "tnw-deeptech",
+      "title": "AI agents are breaking into companies on their own. The law has no idea who to blame.",
+      "summary": "The strangest security story in AI has an unanswered question at its centre. When an AI agent breaks its leash, hacks a company it was never meant to touch, and no human told it to, who is liable? Nobody is quite sure. That gap is starting to matter.",
+      "date": "2026-08-03",
+      "link": "https://thenextweb.com/news/rogue-ai-agents-legal-liability-openai-anthropic"
+    },
+    {
+      "sourceId": "tnw-deeptech",
+      "title": "A startup says the AI bottleneck isn’t compute. It’s memory, and it ditched the GPU to prove it.",
+      "summary": "The AI hardware conversation is stuck on one word: compute. A startup out of Tel Aviv wants to change the word to memory. Majestic Labs, founded in 2023 by former Google and Meta engineers, has unveiled a server it says can do the work of a rack of Nvidia GPUs.",
+      "date": "2026-08-03",
+      "link": "https://thenextweb.com/news/majestic-labs-prometheus-memory-wall-nvidia-gpu"
+    },
+    {
+      "sourceId": "tnw-deeptech",
+      "title": "Sequoia leads $1 billion round for Valar Atomics as the nuclear startup triples its valuation to $6 billion",
+      "summary": "Sequoia Capital led a $1 billion Series B for Valar Atomics, valuing the nuclear startup at $6 billion. That is three times the $2 billion valuation from its earlier round just months ago. Atreides Management, Point72, and Snowpoint Ventures also participated.",
+      "date": "2026-08-03",
+      "link": "https://thenextweb.com/news/valar-atomics-1-billion-series-b-sequoia-nuclear-6b"
+    },
+    {
+      "sourceId": "tnw-deeptech",
       "title": "Nvidia’s real moat was never the chips. AI has started rewriting it.",
       "summary": "The usual story about Nvidia is a hardware story: the fastest chips, in the shortest supply, at the highest price. The more important part is software. For two decades the company’s real moat has been CUDA.",
       "date": "2026-08-03",
@@ -399,27 +420,6 @@
       "summary": "Of all the databases a wealth haven would least like to lose, this one is near the top. A cyberattack has reached the data of about 31,000 people in Liechtenstein’s register of the individuals behind its companies, foundations and trusts.",
       "date": "2026-08-03",
       "link": "https://thenextweb.com/news/liechtenstein-cyberattack-beneficial-owners-register-breach"
-    },
-    {
-      "sourceId": "tnw-deeptech",
-      "title": "Trump-backed American Bitcoin posts $57m loss but grows its BTC treasury",
-      "summary": "American Bitcoin lost money again in the second quarter, and kept buying bitcoin anyway. The Trump-family-backed miner reported a net loss of $57.2m for the three months to June, narrower than the $81.8m loss it booked the quarter before.",
-      "date": "2026-08-03",
-      "link": "https://thenextweb.com/news/american-bitcoin-q2-2026-loss-btc-treasury"
-    },
-    {
-      "sourceId": "tnw-deeptech",
-      "title": "Yellow.ai is going public to buy the call centres it wants to replace with AI",
-      "summary": "Most AI companies want to sell software to call centres. Yellow.ai wants to buy the call centres. The enterprise-AI firm has agreed to go public through a merger with a blank-cheque company.",
-      "date": "2026-08-03",
-      "link": "https://thenextweb.com/news/yellow-ai-spac-bluerock-bpo-rollup-agentic-ai"
-    },
-    {
-      "sourceId": "tnw-deeptech",
-      "title": "A two-year-old battery startup just hit $13bn by turning American homes into grid capacity.",
-      "summary": "A home-battery company that did not exist three years ago is now worth $13bn. Base Power has raised $1bn in a Series D and launched its own battery, Base Core.",
-      "date": "2026-08-03",
-      "link": "https://thenextweb.com/news/base-power-1bn-series-d-13bn-home-battery-grid"
     },
     {
       "sourceId": "nasa",
