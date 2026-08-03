@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-02T14:56:49.267Z",
+  "updated": "2026-08-03T15:46:17.781Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Xona secures spectrum approval for 250-satellite navigation network",
+      "summary": "The approval allows the startup to transmit stronger signals in spectrum adjacent to GPS frequencies The post Xona secures spectrum approval for 250-satellite navigation network appeared first on SpaceNews .",
+      "date": "2026-08-03",
+      "link": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Airbus and Thales win order for SpainSat replacement",
+      "summary": "Airbus Defence and Space and Thales Alenia Space will build a replacement military communications satellite for Spain as they, along with Leonardo, continue efforts on a space joint venture.",
+      "date": "2026-08-03",
+      "link": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/"
+    },
     {
       "sourceId": "spacenews",
       "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
@@ -21,20 +35,6 @@
       "summary": "HELSINKI — China sent a new pair of secretive satellites into a programmatically new orbit Wednesday, while also upgrading its on-orbit communications relay capabilities. A Long March 6A rocket lifted",
       "date": "2026-08-01",
       "link": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
-      "summary": "Converting an engineering model of a Mars rover into an actual lunar rover could cost NASA more than $1 billion, an estimate strongly rejected by the agency’s administrator.",
-      "date": "2026-07-31",
-      "link": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Spain commits up to $2.3 billion for national military communications for IRIS²",
-      "summary": "WARSAW, Poland — The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite communications constellation that",
-      "date": "2026-07-31",
-      "link": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/"
     },
     {
       "sourceId": "tectonic",
@@ -283,73 +283,73 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone",
-      "summary": "Stratolaunch has now conducted more than 10 flights with its Talon-A hypersonic vehicle, an autonomous, air-launched craft that can travel five times the speed of sound.",
-      "date": "2026-08-02",
-      "link": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone"
+      "title": "The 1st 'three-headed' asteroid | Space photo of the day for Aug. 3, 2026",
+      "summary": "New images reveal what astronomers believe is the first-known \"trilobate\" or three-headed asteroid in our solar system.",
+      "date": "2026-08-03",
+      "link": "https://www.space.com/astronomy/asteroids/the-1st-three-headed-asteroid-space-photo-of-the-day-for-aug-3-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon",
-      "summary": "On Aug. 2, 1971, a lunar liftoff was televised for the first time on NASA's Apollo 15 mission, one giant leap for live TV from the moon.",
-      "date": "2026-08-02",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026"
+      "title": "On this day in space! Aug. 3, 2004: NASA launches MESSENGER spacecraft to orbit Mercury",
+      "summary": "NASA's MESSENGER spacecraft aimed to orbit Mercury for the first time to hunt for clues of water on the tiny, innermost planet.",
+      "date": "2026-08-03",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-3-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "From Hardspace to Clearspace: How space salvage games compare to real debris removal",
-      "summary": "Clean up on spacelane five.",
-      "date": "2026-08-02",
-      "link": "https://www.space.com/entertainment/space-games/from-hardspace-to-clearspace-how-space-salvage-games-compare-to-real-debris-removal"
+      "title": "13 amazing things to see during the total solar eclipse on Aug. 12",
+      "summary": "The solar corona is the ultimate sight during a total solar eclipse, but there'll be a chance to see much more on Aug. 12, 2026.",
+      "date": "2026-08-03",
+      "link": "https://www.space.com/stargazing/solar-eclipses/13-amazing-things-to-see-during-the-total-solar-eclipse-on-aug-12"
     },
     {
       "sourceId": "spacecom",
-      "title": "Rocket issue delays 1st orbital rocket launch from the UK",
-      "summary": "While testing a rocket on the launch pad at the U.K.'s SaxaVord Spaceport, RFA found 'an issue with the vehicle that requires further investigation.'",
-      "date": "2026-08-02",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk"
+      "title": "Is the Nocs Provisions Lite View spotting scope a good alternative to a traditional telescope?",
+      "summary": "A compact spotting scope delivering detailed views of the moon and bright star clusters.",
+      "date": "2026-08-03",
+      "link": "https://www.space.com/stargazing/skywatching-kit/is-the-nocs-provisions-lite-view-spotting-scope-a-good-alternative-to-a-traditional-telescope"
     },
     {
       "sourceId": "spacecom",
-      "title": "Celestron Moon Mission 100mm tabletop Dobsonian review",
-      "summary": "Celestron’s mini-Dobsonian provides affordable, accessible access to the night sky.",
-      "date": "2026-08-02",
-      "link": "https://www.space.com/stargazing/skywatching-kit/celestron-moon-mission-100mm-tabletop-dobsonian-review"
+      "title": "Astronomers watch a black hole's feeding frenzy end with a bad case of cosmic indigestion",
+      "summary": "Astronomers have discovered that the feeding frenzy of a distant black hole ended with a windy outburst.",
+      "date": "2026-08-03",
+      "link": "https://www.space.com/astronomy/black-holes/astronomers-watch-a-black-holes-feeding-frenzy-end-with-a-bad-case-of-cosmic-indigestion"
     },
     {
       "sourceId": "rspace",
-      "title": "Manned orbital launches by year, 1961 - 2026 H1",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vdd2k6/manned_orbital_launches_by_year_1961_2026_h1/\"> <img src=\"https://preview.redd.it/lofgkcmdfxgh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aaa8b16bf1c89ca9fd01c0d5948095425cf1ec74\" alt=\"Manned…",
-      "date": "2026-08-02",
-      "link": "https://www.reddit.com/r/space/comments/1vdd2k6/manned_orbital_launches_by_year_1961_2026_h1/"
+      "title": "Artists, writers and scientists urge UK government to save Jodrell Bank Observatory | New Order and Simon Armitage among more than 100 signatories to criticize ‘foolish and shortsighted’ cuts",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vec6ao/artists_writers_and_scientists_urge_uk_government/\"> <img src=\"https://external-preview.redd.it/duEHwx0s40xTJLfPfck8y7a1QsDXecvvUQtdDj9KZt8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e74ff293fef5ab7…",
+      "date": "2026-08-03",
+      "link": "https://www.reddit.com/r/space/comments/1vec6ao/artists_writers_and_scientists_urge_uk_government/"
     },
     {
       "sourceId": "rspace",
-      "title": "I'm totally in love with space and I want to work with it.",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>(English from Google Translate)</p> <p>So, I&#39;ve always had an absurd fascination with space, the universe, and how everything is connected.",
-      "date": "2026-08-02",
-      "link": "https://www.reddit.com/r/space/comments/1vdampj/im_totally_in_love_with_space_and_i_want_to_work/"
+      "title": "The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1ve8jj9/the_james_webb_telescope_is_changing_astronomers/\"> <img src=\"https://external-preview.redd.it/T7lyOFijIdPxI88ujTtY01hohp8P-srbmtIzZJZ9cm8.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=782457b72d2c02d9f…",
+      "date": "2026-08-03",
+      "link": "https://www.reddit.com/r/space/comments/1ve8jj9/the_james_webb_telescope_is_changing_astronomers/"
     },
     {
       "sourceId": "rspace",
-      "title": "Gum nebula in Tuscany",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vd1sxs/gum_nebula_in_tuscany/\"> <img src=\"https://preview.redd.it/1c7e0qngjugh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6370d541f725dd4a415a7ac66549f1bd5863be5\" alt=\"Gum nebula in Tuscany\" title=\"Gum…",
-      "date": "2026-08-01",
-      "link": "https://www.reddit.com/r/space/comments/1vd1sxs/gum_nebula_in_tuscany/"
+      "title": "The Terra Satellite",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1ve66bt/the_terra_satellite/\"> <img src=\"https://preview.redd.it/sqpkqvtt04hh1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=be8426e35b89e296a950eb94aa1125447c3ae631\" alt=\"The Terra Satellite\" title=\"The Terra…",
+      "date": "2026-08-03",
+      "link": "https://www.reddit.com/r/space/comments/1ve66bt/the_terra_satellite/"
     },
     {
       "sourceId": "rspace",
-      "title": "Neptune's Inner Moons May Be Shattered Remains of Ancient Icy Worlds",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vcuw1e/neptunes_inner_moons_may_be_shattered_remains_of/\"> <img src=\"https://external-preview.redd.it/OEHQz_n2f-ry29kH0EC58r_znFyrTNmXnA3vqqzO7-g.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4645f1fd04e95c22d…",
-      "date": "2026-08-01",
-      "link": "https://www.reddit.com/r/space/comments/1vcuw1e/neptunes_inner_moons_may_be_shattered_remains_of/"
+      "title": "Betelgeuse vs Rigel ... becoming a blackhole",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Now blackholes are formed when stars 15-20 x the mass of our sun go supernova and the core collapses on themselves...</p> <p>betelgeuse is a literal supergiant with about 700x the mass of the sun but reports say it&#39;ll end up as a neutron…",
+      "date": "2026-08-03",
+      "link": "https://www.reddit.com/r/space/comments/1ve4se4/betelgeuse_vs_rigel_becoming_a_blackhole/"
     },
     {
       "sourceId": "rspace",
-      "title": "Earth and Proba-3’s Coronagraph play hide and seek",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vcurib/earth_and_proba3s_coronagraph_play_hide_and_seek/\"> <img src=\"https://external-preview.redd.it/zLrL1-O9-hw6tUQp4LyE_tAyBQSdnc5mtsHWVx3TGLE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b154043acfc33dcd36…",
-      "date": "2026-08-01",
-      "link": "https://www.reddit.com/r/space/comments/1vcurib/earth_and_proba3s_coronagraph_play_hide_and_seek/"
+      "title": "There May Be 170 Million Black Holes Lurking in The Milky Way's Graveyard",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1ve00mf/there_may_be_170_million_black_holes_lurking_in/\"> <img src=\"https://external-preview.redd.it/gOmp7lelinbwx5W744sQy-mZwy-S033rGAg-8RRyvqc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=82cd340f47f3c630dd…",
+      "date": "2026-08-03",
+      "link": "https://www.reddit.com/r/space/comments/1ve00mf/there_may_be_170_million_black_holes_lurking_in/"
     },
     {
       "sourceId": "nga",
@@ -388,73 +388,73 @@
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "To find out what customers think, this $2bn startup asks their AI twins",
-      "summary": "A startup wants companies to stop asking real people what they think, and ask fake ones instead; welcome to the age of AI twins.",
-      "date": "2026-07-30",
-      "link": "https://thenextweb.com/news/simile-200-million-agentic-twins-ai-market-research"
+      "title": "Nvidia’s real moat was never the chips. AI has started rewriting it.",
+      "summary": "The usual story about Nvidia is a hardware story: the fastest chips, in the shortest supply, at the highest price. The more important part is software. For two decades the company’s real moat has been CUDA.",
+      "date": "2026-08-03",
+      "link": "https://thenextweb.com/news/nvidia-cuda-moat-ai-coding-agents-inference"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Scale AI hired a cloud salesman as CEO. That tells you where it’s going.",
-      "summary": "Scale AI hired a cloud salesman as CEO, which tells you exactly where the company is heading—toward the clouds.",
-      "date": "2026-07-30",
-      "link": "https://thenextweb.com/news/scale-ai-francis-desouza-ceo-enterprise-pivot"
+      "title": "A hack hit the one list a wealth haven guards most: the names behind its shell companies",
+      "summary": "Of all the databases a wealth haven would least like to lose, this one is near the top. A cyberattack has reached the data of about 31,000 people in Liechtenstein’s register of the individuals behind its companies, foundations and trusts.",
+      "date": "2026-08-03",
+      "link": "https://thenextweb.com/news/liechtenstein-cyberattack-beneficial-owners-register-breach"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "Amazon’s Zoox just won the first US OK to charge for rides in a no-wheel robotaxi",
-      "summary": "Amazon’s Zoox just won the first US OK to charge for rides in a no-wheel robotaxi, marking a milestone for the driverless-car industry.",
-      "date": "2026-07-30",
-      "link": "https://thenextweb.com/news/zoox-nhtsa-first-paid-robotaxi-approval-no-steering-wheel"
+      "title": "Trump-backed American Bitcoin posts $57m loss but grows its BTC treasury",
+      "summary": "American Bitcoin lost money again in the second quarter, and kept buying bitcoin anyway. The Trump-family-backed miner reported a net loss of $57.2m for the three months to June, narrower than the $81.8m loss it booked the quarter before.",
+      "date": "2026-08-03",
+      "link": "https://thenextweb.com/news/american-bitcoin-q2-2026-loss-btc-treasury"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "A hidden line in a Word doc can rewrite your numbers, and infect the next file too",
-      "summary": "A hidden line in a Word document can halve your financial report numbers, proving that sometimes the real threat is in plain sight.",
-      "date": "2026-07-30",
-      "link": "https://thenextweb.com/news/microsoft-copilot-word-worm-prompt-injection-super-app"
+      "title": "Yellow.ai is going public to buy the call centres it wants to replace with AI",
+      "summary": "Most AI companies want to sell software to call centres. Yellow.ai wants to buy the call centres. The enterprise-AI firm has agreed to go public through a merger with a blank-cheque company.",
+      "date": "2026-08-03",
+      "link": "https://thenextweb.com/news/yellow-ai-spac-bluerock-bpo-rollup-agentic-ai"
     },
     {
       "sourceId": "tnw-deeptech",
-      "title": "ByteDance quietly makes $4bn a year from AI. It just broke up an app to make more.",
-      "summary": "ByteDance is quietly making $4bn a year from AI, showing that while the world watches TikTok, the real money is in the backend.",
-      "date": "2026-07-30",
-      "link": "https://thenextweb.com/news/bytedance-4-billion-ai-revenue-lark-doubao-restructure"
+      "title": "A two-year-old battery startup just hit $13bn by turning American homes into grid capacity.",
+      "summary": "A home-battery company that did not exist three years ago is now worth $13bn. Base Power has raised $1bn in a Series D and launched its own battery, Base Core.",
+      "date": "2026-08-03",
+      "link": "https://thenextweb.com/news/base-power-1bn-series-d-13bn-home-battery-grid"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
-      "summary": "APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-08-01",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/"
+      "title": "NASA Delivers Navigation System for Commercial Lunar Relay",
+      "summary": "NASA delivered the NavCube3-mini payload on July 13 to Intuitive Machines for integration into Altus-1, the company’s first lunar relay satellite, marking an important milestone in the development of future lunar communications and navigation services.",
+      "date": "2026-08-03",
+      "link": "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/"
     },
     {
       "sourceId": "nasa",
-      "title": "What’s Up: August 2026 Skywatching Tips from NASA",
-      "summary": "A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Transcript A solar eclipse, one of the year’s best meteor showers, Venus at its brightest in the evening sky, and a lunar eclipse to…",
-      "date": "2026-07-31",
-      "link": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/"
+      "title": "Ike Theriot Helps Prepare Astronauts to Work on the Moon",
+      "summary": "From serving in the U.S. Army to helping prepare astronauts to explore the lunar surface, Ike Theriot built a path to NASA through discipline and determination.",
+      "date": "2026-08-03",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
-      "summary": "NASA will hold a news conference at 2:30 p.m. EDT, Friday, Aug. 14, live from the agency’s Kennedy Space Center in Florida, and media and digital creators are invited to attend in person.",
-      "date": "2026-07-31",
-      "link": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/"
+      "title": "NASA Brings Space Exploration to the FIFA World Cup",
+      "summary": "From June 11 through July 19, NASA’s free interactive exhibit at FIFA Fan Festival™ brought space exploration to soccer fans in East Downtown Houston.",
+      "date": "2026-08-03",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
-      "summary": "On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA’s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia.",
-      "date": "2026-07-31",
-      "link": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/"
+      "title": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
+      "summary": "APODScienceAPODAPOD: 2026 August 3 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-08-03",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/"
     },
     {
       "sourceId": "nasa",
-      "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
-      "summary": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions.",
-      "date": "2026-07-31",
-      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/"
+      "title": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
+      "summary": "APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-08-02",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-2-a-fire-rainbow-over-west-virginia/"
     }
   ]
 }
