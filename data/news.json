@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-04T15:26:58.662Z",
+  "updated": "2026-08-04T16:08:46.666Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Rubicon ASCENT thruster moves from hot-fire testing to production",
+      "summary": "SAN FRANCISCO – Rubicon Space Systems completed hot-fire testing of its Velox 5-newton ASCENT monopropellant thruster, paving the way for on-orbit operations in 2027. “The program demonstrated performance beyond our",
+      "date": "2026-08-04",
+      "link": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Military demand shapes market for satellite propulsion",
@@ -18,7 +25,7 @@
     {
       "sourceId": "spacenews",
       "title": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
-      "summary": "Demand for microgravity research and manufacturing is brewing — perhaps literally.When SpaceX launched the first test flight of Starfall, its commercial reentry capsule, on June 23, the company did not",
+      "summary": "Demand for microgravity research and manufacturing is brewing — perhaps literally. When SpaceX launched the first test flight of Starfall, its commercial reentry capsule, on June 23, the company did",
       "date": "2026-08-04",
       "link": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/"
     },
@@ -28,13 +35,6 @@
       "summary": "AE Industrial private-equity firm takes 60% stake as L3Harris retains a noncontrolling interest The post Rocketdyne reemerges as standalone space company appeared first on SpaceNews .",
       "date": "2026-08-04",
       "link": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
-      "summary": "SAN FRANCISCO – Spanish startup Kreios Space announced plans Aug. 4 to conduct the first very low Earth orbit (VLEO) demonstration of its air-breathing electric propulsion (ABEP) in a Kongsberg",
-      "date": "2026-08-04",
-      "link": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/"
     },
     {
       "sourceId": "tectonic",
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "A 9,000-pound SpaceX rocket will crash into the moon tonight. Will you be able to see it?",
+      "summary": "While the impact itself probably won't be visible from Earth, observers may have a chance to spot a plume of debris rising above the lunar surface.",
+      "date": "2026-08-04",
+      "link": "https://www.space.com/astronomy/moon/a-9-000-pound-spacex-rocket-will-crash-into-the-moon-tonight-will-you-be-able-to-see-it"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "ISS astronaut spies a swirling super storm | Space photo of the day for Aug. 4, 2026",
       "summary": "From the International Space Station on Aug. 2, 2026, NASA astronaut Anil Menon captured an incredible photograph of a swirling typhoon in the Pacific Ocean.",
       "date": "2026-08-04",
@@ -310,11 +317,11 @@
       "link": "https://www.space.com/space-exploration/search-for-life/are-aliens-running-out-of-places-to-hide-it-turns-out-weve-searched-much-more-of-the-galaxy-than-we-realized"
     },
     {
-      "sourceId": "spacecom",
-      "title": "I bought a $50 telescope on Facebook Marketplace — here's what I learned",
-      "summary": "I bought a $50 telescope from Facebook Marketplace",
+      "sourceId": "rspace",
+      "title": "A SpaceX rocket is about to hit the moon—these videos show what could happen",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vfdsqk/a_spacex_rocket_is_about_to_hit_the_moonthese/\"> <img src=\"https://external-preview.redd.it/YIpeZqqMatlodaCHeuxvktnBwMmvrZcnojWypGWwTX4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1010766523e62a5547fa…",
       "date": "2026-08-04",
-      "link": "https://www.space.com/stargazing/skywatching-kit/i-bought-a-50-dollar-telescope-on-facebook-marketplace-heres-what-i-learned"
+      "link": "https://www.reddit.com/r/space/comments/1vfdsqk/a_spacex_rocket_is_about_to_hit_the_moonthese/"
     },
     {
       "sourceId": "rspace",
@@ -343,13 +350,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vf9hpq/in_april_2029_a_massive_asteroid_will_just_miss/\"> <img src=\"https://external-preview.redd.it/JZ-f8f8U-R2gQtijHO6G2ACx8io9XlBLIqJpeVhOAD0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a162eb3842d34c352…",
       "date": "2026-08-04",
       "link": "https://www.reddit.com/r/space/comments/1vf9hpq/in_april_2029_a_massive_asteroid_will_just_miss/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "NASA Delivers Navigation System for Commercial Lunar Relay - NASA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vezd1t/nasa_delivers_navigation_system_for_commercial/\"> <img src=\"https://external-preview.redd.it/RxrGT3y-IIIbtPpXMZ_Zp8rheXCUuZIBLq6ph7f4EY8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a3f2857fafda84f11a…",
-      "date": "2026-08-04",
-      "link": "https://www.reddit.com/r/space/comments/1vezd1t/nasa_delivers_navigation_system_for_commercial/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "Roman Space Telescope Plaque Install",
+      "summary": "Technicians installed a commemorative plaque, seen in this July 28, 2026, photo, on NASA’s Nancy Grace Roman Space Telescope. The plaque honors the legacy of Dr. Nancy Grace Roman, NASA’s first chief astronomer and one of the architects of the agency’s modern science program.",
+      "date": "2026-08-04",
+      "link": "https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "APOD: August 4, 2026 – Curious Cometary Knots in the Helix Nebula",
       "summary": "APOD Science APOD APOD: August 4, 2026 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-08-04",
@@ -448,13 +455,6 @@
       "summary": "Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bissau’s Bijagós Archipelago (Arquipélago dos Bijagós in Portuguese). Seen from above in this image from Nov.",
       "date": "2026-08-03",
       "link": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "A Bare Summer for Barnes Ice Cap",
-      "summary": "The expanse of glacial ice on Canada’s Baffin Island lost its snow cover quickly and early in summer 2026, revealing a network of melt features.",
-      "date": "2026-08-03",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-bare-summer-for-barnes-ice-cap/"
     }
   ]
 }
