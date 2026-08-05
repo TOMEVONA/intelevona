@@ -1,40 +1,40 @@
 {
-  "updated": "2026-08-04T16:08:46.666Z",
+  "updated": "2026-08-05T15:17:36.652Z",
   "articles": [
     {
       "sourceId": "spacenews",
-      "title": "Rubicon ASCENT thruster moves from hot-fire testing to production",
-      "summary": "SAN FRANCISCO – Rubicon Space Systems completed hot-fire testing of its Velox 5-newton ASCENT monopropellant thruster, paving the way for on-orbit operations in 2027. “The program demonstrated performance beyond our",
-      "date": "2026-08-04",
-      "link": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/"
+      "title": "Finding room in Starlink’s shadow",
+      "summary": "Another wave of constellations has staked claims for communications satellites in non-geostationary orbit (NGSO), but what hope do newcomers have alongside the industry’s entrenched, vertically integrated giants? A mix of",
+      "date": "2026-08-05",
+      "link": "https://spacenews.com/finding-room-in-starlinks-shadow/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Military demand shapes market for satellite propulsion",
-      "summary": "Startups and established spacecraft manufacturers are investing in engines designed to give small satellites more freedom to change orbit The post Military demand shapes market for satellite propulsion appeared first on SpaceNews .",
-      "date": "2026-08-04",
-      "link": "https://spacenews.com/military-demand-shapes-market-for-sat-propulsion/"
+      "title": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
+      "summary": "The mood was celebratory at the ribbon-cutting for Muon Space’s San Jose, California, manufacturing facility in June. State, local, United States Space Force and Pentagon representatives lauded the startup and,",
+      "date": "2026-08-05",
+      "link": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Future of Crew Dragon weighs on commercial spaceflight industry",
-      "summary": "While SpaceX says there is a “significant” amount of life left in its Crew Dragon fleet, the company has hedged on how long it will continue flying the spacecraft. The post Future of Crew Dragon weighs on commercial spaceflight industry appeared first on SpaceNews .",
-      "date": "2026-08-04",
-      "link": "https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/"
+      "title": "Think tank warns Europe’s orbital compute gap is widening",
+      "summary": "Europe risks becoming dependent on foreign orbital computing infrastructure as U.S. companies and China’s government-led push accelerate the development of space-based data centers, according to the European Space Policy Institute.",
+      "date": "2026-08-05",
+      "link": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/"
     },
     {
       "sourceId": "spacenews",
-      "title": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
-      "summary": "Demand for microgravity research and manufacturing is brewing — perhaps literally. When SpaceX launched the first test flight of Starfall, its commercial reentry capsule, on June 23, the company did",
-      "date": "2026-08-04",
-      "link": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/"
+      "title": "Neuraspace raises $18 million to expand sovereign space awareness",
+      "summary": "Neuraspace, the Portuguese space traffic management startup, announced around $18 million in fresh funding Aug. 5 to expand European space domain awareness and defense capabilities.",
+      "date": "2026-08-05",
+      "link": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Rocketdyne reemerges as standalone space company",
-      "summary": "AE Industrial private-equity firm takes 60% stake as L3Harris retains a noncontrolling interest The post Rocketdyne reemerges as standalone space company appeared first on SpaceNews .",
-      "date": "2026-08-04",
-      "link": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/"
+      "title": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
+      "summary": "Voyager Technologies remains upbeat about the prospects for its Starlab commercial space station but is hoping for some tweaks to NASA’s plans to support the station’s development.",
+      "date": "2026-08-05",
+      "link": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/"
     },
     {
       "sourceId": "tectonic",
@@ -213,6 +213,27 @@
     },
     {
       "sourceId": "dod",
+      "title": "Always Present: Joint Task Force D.C. Patrols the City",
+      "summary": "Soldiers assigned to Joint Task Force District of Columbia conducted presence patrols near museums and monuments as part of the D.C. Safe and Beautiful mission in Washington.",
+      "date": "2026-08-04",
+      "link": "https://www.war.gov/Multimedia/Photo-Collections/20081/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Washington National Guardsmen Support Statewide Wildfire Response",
+      "summary": "Washington National Guardsmen accumulated 146.5 flight hours and dropped 1,181 buckets of water as wildfires spread across the state recently, working with state and local partners to protect communities, property and critical infrastructure.",
+      "date": "2026-08-04",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4563880/washington-national-guardsmen-support-statewide-wildfire-response/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Air National Guard Squadron Sharpens Readiness in Jungle Terrain",
+      "summary": "For two weeks, airmen assigned to the Ohio Air National Guard's 178th Security Forces Squadron challenged themselves through annual training designed to strengthen small-unit tactics, decision-making and expeditionary readiness.",
+      "date": "2026-08-04",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4563721/air-national-guard-squadron-sharpens-readiness-in-jungle-terrain/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Trump Establishes Military Spouse Commission",
       "summary": "President Donald J. Trump signed an executive order in the White House's Oval Office establishing the President's Military Spouse Commission.",
       "date": "2026-08-03",
@@ -226,25 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4562605/largest-pacific-joint-maritime-exercise-successfully-concludes/"
     },
     {
-      "sourceId": "dod",
-      "title": "Marine Expeditionary Unit Transits Panama Canal",
-      "summary": "The 24th Marine Expeditionary Unit — operating as Littoral Combat Force 24 — recently transited the Panama Canal aboard the amphibious transport dock USS San Antonio, marking the first time a Marine expeditionary unit has navigated the canal since 2008.",
-      "date": "2026-08-03",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4562420/marine-expeditionary-unit-transits-panama-canal/"
+      "sourceId": "viasat",
+      "title": "L3Harris Confirms Successful Deployment for First Perimeter Truss Reflector on ViaSat-3",
+      "summary": "L3Harris Technologies confirmed a successful deployment for its first perimeter truss reflector onboard the ViaSat-3 Flight 3 satellite. SpaceX launched the satellite in late April, the third deployment in Viasat’s",
+      "date": "2026-08-04",
+      "link": "https://www.satellitetoday.com/technology/2026/08/04/l3harris-confirms-successful-deployment-for-first-perimeter-truss-reflector-on-viasat-3/"
     },
     {
-      "sourceId": "dod",
-      "title": "Hegseth: Department Success Buoyed by Courage, Spirit, Leadership",
-      "summary": "The War Department has had a lot of success in the past 19 months, in no small part due to the men and women of the U.S. military, but also because of presidential leadership, Secretary of War Pete Hegseth said during a cabinet meeting at Camp David, Md.",
-      "date": "2026-07-31",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4561838/hegseth-department-success-buoyed-by-courage-spirit-leadership/"
+      "sourceId": "viasat",
+      "title": "Kreios Space to Demo Air-breathing Electric Propulsion in VLEO With NanoAvionics",
+      "summary": "Spanish satellite startup Kreios Space is set to demonstrate an air-breathing electric propulsion (ABEP) system in Very Low Earth Orbit (VLEO), tapping Kongsberg NanoAvionics to provide the spacecraft bus. Kreios",
+      "date": "2026-08-04",
+      "link": "https://www.satellitetoday.com/technology/2026/08/04/kreios-space-to-demo-air-breathing-electric-propulsion-in-vleo-with-nanoavionics/"
     },
     {
-      "sourceId": "dod",
-      "title": "USS Minnesota Completes First Forward-Deployment",
-      "summary": "The submarine USS Minnesota returned to its home port at Naval Base Guam after completing its first deployment since becoming the Navy's first forward-deployed submarine.",
-      "date": "2026-07-31",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4561139/uss-minnesota-completes-first-forward-deployment/"
+      "sourceId": "viasat",
+      "title": "Telesat Expands Lightspeed Constellation for Arctic Military Satcom Program",
+      "summary": "Telesat signed a $1.9 billion (U.S. dollar) contract with the government of Canada for Arctic military satcom connectivity and will expand the Lightspeed constellation by 69 satellites to fulfill the",
+      "date": "2026-08-04",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/04/telesat-expands-lightspeed-constellation-for-arctic-military-satcom-program/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Endeavor Optical Networks Emerges From Stealth to Build Optical MEO Data Transfer",
+      "summary": "A new startup Endeavor Optical Networks emerged from stealth on Tuesday, with a plan to build an optical satellite network in Medium-Earth Orbit (MEO) for space-based data transfer. The company",
+      "date": "2026-08-04",
+      "link": "https://www.satellitetoday.com/finance/2026/08/04/endeavor-optical-networks-emerges-from-stealth-to-build-optical-meo-data-transfer/"
     },
     {
       "sourceId": "viasat",
@@ -254,102 +282,74 @@
       "link": "https://www.satellitetoday.com/government-military/2026/08/03/airbus-and-thales-alenia-space-to-build-spainsat-ng-iii/"
     },
     {
-      "sourceId": "viasat",
-      "title": "ETL Acquires Software Developer Amphinicy Technologies",
-      "summary": "ETL Systems has acquired Amphinicy Technologies, which develops software for satcom and Earth Observation markets, in a move the company said will help solve more complex ground segment challenges for",
-      "date": "2026-08-03",
-      "link": "https://www.satellitetoday.com/finance/2026/08/03/etl-acquires-software-developer-amphinicy-technologies/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Xona Gets Approval to Deploy Commercial Navigation Constellation",
-      "summary": "Xona has received FCC approval to deploy its commercial navigation constellation called Pulsar, planned for more than 250 satellites. Xona announced Monday it has received authorization to broadcast radionavigation signals",
-      "date": "2026-08-03",
-      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/08/03/xona-gets-approval-to-deploy-commercial-navigation-constellation/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Hughes Files for Chapter 11 With Plan to Reorganize Around Enterprise, Defense Business",
-      "summary": "Hughes Satellite Systems Corporation filed for Chapter 11 bankruptcy protection on Monday, with the intention of refocusing its operations around business-to-business, government, and defense customers amid a decline in consumer",
-      "date": "2026-08-03",
-      "link": "https://www.satellitetoday.com/finance/2026/08/03/hughes-files-for-chapter-11-with-plan-to-reorganize-around-enterprise-defense-business/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "AccelerCom and Eclipse Space Reveals Details of D2D Collaboration",
-      "summary": "AccelerCom has completed two engineering engagements with Eclipse Space, a sovereign satellite infrastructure company. AccelerComm supported Eclipse in defining the physical-layer architecture for its next-generation spacecraft, spanning both its Direct-to-Device",
-      "date": "2026-07-31",
-      "link": "https://www.satellitetoday.com/connectivity/2026/07/31/accelercom-and-eclipse-space-reveals-details-of-d2d-collaboration/"
+      "sourceId": "spacecom",
+      "title": "Curiosity rover spots mysterious honeycombs on Mars | Space photo of the day for Aug. 5, 2026",
+      "summary": "NASA's Curiosity Mars rover spotted surprising honeycomb-like shapes in the Red Planet soil while exploring a large valley.",
+      "date": "2026-08-05",
+      "link": "https://www.space.com/astronomy/mars/curiosity-rover-spots-mysterious-honeycombs-on-mars-space-photo-of-the-day-for-aug-5-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "A 9,000-pound SpaceX rocket will crash into the moon tonight. Will you be able to see it?",
-      "summary": "While the impact itself probably won't be visible from Earth, observers may have a chance to spot a plume of debris rising above the lunar surface.",
-      "date": "2026-08-04",
-      "link": "https://www.space.com/astronomy/moon/a-9-000-pound-spacex-rocket-will-crash-into-the-moon-tonight-will-you-be-able-to-see-it"
+      "title": "On this day in space! Aug. 5, 2011: NASA's Juno spacecraft launches to Jupiter",
+      "summary": "On Aug. 5, 2011, NASA launched the Juno spacecraft on a mission to study Jupiter, the largest planet in the solar system. Here's why it mattered.",
+      "date": "2026-08-05",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-5-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "ISS astronaut spies a swirling super storm | Space photo of the day for Aug. 4, 2026",
-      "summary": "From the International Space Station on Aug. 2, 2026, NASA astronaut Anil Menon captured an incredible photograph of a swirling typhoon in the Pacific Ocean.",
-      "date": "2026-08-04",
-      "link": "https://www.space.com/astronomy/earth/iss-astronaut-spies-a-swirling-super-storm-space-photo-of-the-day-for-aug-4-2026"
+      "title": "Mars dust is toxic. How will future astronauts deal with it?",
+      "summary": "Mars dust is known to contain various carcinogens, such as silica and numerous heavy metals. How will future astronauts mitigate the health risks?",
+      "date": "2026-08-05",
+      "link": "https://www.space.com/astronomy/mars/mars-dust-is-toxic-how-will-future-astronauts-deal-with-it"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 4, 2007: NASA launches Phoenix Mars lander to Red Planet",
-      "summary": "On Aug. 4, 2007, NASA launched its Phoenix Mars Lander on a mission to touch down in the Martian arctic for the first time. Here's why it mattered.",
-      "date": "2026-08-04",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-4-2026"
+      "title": "'The Ninth Jedi' review: This anime spin-off abandons 'Star Wars' canon, and it's all the stronger for it",
+      "summary": "Star Wars: Visions Presents – The Ninth Jedi may not be the Star Wars TV show you were looking for, but it's something the franchise desperately needed.",
+      "date": "2026-08-05",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-ninth-jedi-review-this-anime-spin-off-abandons-star-wars-canon-and-its-all-the-stronger-for-it"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Significant areas of Mars may have once been covered by water': Scientists find hidden clue in Spirit rover data",
-      "summary": "A new analysis of decades-old data from NASA's Spirit rover has uncovered overlooked traces of crystalline hematite and altered magnetite, adding to growing evidence that liquid water once played a major role in shaping the Red Planet.",
-      "date": "2026-08-04",
-      "link": "https://www.space.com/astronomy/mars/significant-areas-of-mars-may-have-once-been-covered-by-water-scientists-find-hidden-clue-in-spirit-rover-data"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Are aliens running out of places to hide? It turns out we've searched much more of the galaxy than we realized",
-      "summary": "Astronomers may have already scanned millions of more stars than they thought, a realization that might lead to new ways to hunt for extraterrestrial radio signals.",
-      "date": "2026-08-04",
-      "link": "https://www.space.com/space-exploration/search-for-life/are-aliens-running-out-of-places-to-hide-it-turns-out-weve-searched-much-more-of-the-galaxy-than-we-realized"
+      "title": "Heading to Europe or the U.K. for the Aug. 12 solar eclipse? Best eclipse glasses to buy before you leave — or after you arrive",
+      "summary": "We've rounded up the best solar eclipse glasses so you can watch safely from wherever you are.",
+      "date": "2026-08-05",
+      "link": "https://www.space.com/stargazing/skywatching-kit/heading-to-europe-or-the-u-k-for-the-aug-12-solar-eclipse-best-eclipse-glasses-to-buy-before-you-leave-or-after-you-arrive"
     },
     {
       "sourceId": "rspace",
-      "title": "A SpaceX rocket is about to hit the moon—these videos show what could happen",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vfdsqk/a_spacex_rocket_is_about_to_hit_the_moonthese/\"> <img src=\"https://external-preview.redd.it/YIpeZqqMatlodaCHeuxvktnBwMmvrZcnojWypGWwTX4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1010766523e62a5547fa…",
-      "date": "2026-08-04",
-      "link": "https://www.reddit.com/r/space/comments/1vfdsqk/a_spacex_rocket_is_about_to_hit_the_moonthese/"
+      "title": "European spaceport launching to the east",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I claim that if Europe wants to develop a truly competitive heavy-lift capability, it must move away from French Guiana.",
+      "date": "2026-08-05",
+      "link": "https://www.reddit.com/r/space/comments/1vg9qdl/european_spaceport_launching_to_the_east/"
     },
     {
       "sourceId": "rspace",
-      "title": "Need 2 min short script on space proofreaders!",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello dear space lovers! </p> <p>Can anyone volunteer to proofread a short 2 min script I have for scientific accuracy and if it’s interesting or not to you as a reader/viewer?",
-      "date": "2026-08-04",
-      "link": "https://www.reddit.com/r/space/comments/1vfcer3/need_2_min_short_script_on_space_proofreaders/"
+      "title": "NSF–DOE Rubin Observatory Opens Deep Window on Famous Cosmic Field",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vg90ys/nsfdoe_rubin_observatory_opens_deep_window_on/\"> <img src=\"https://external-preview.redd.it/bFGiuxhrEJ_5M_rg8eGoBh7hQsHv08VhuPl7GZquCbU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1c90e1210858ab5222e…",
+      "date": "2026-08-05",
+      "link": "https://www.reddit.com/r/space/comments/1vg90ys/nsfdoe_rubin_observatory_opens_deep_window_on/"
     },
     {
       "sourceId": "rspace",
-      "title": "A free real-time 3D Moon: every landing site clickable, live lunar orbiters from NASA data, and a replay of the whole space age from 1958",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A few weeks ago I posted the Moon mission catalogue behind this here, when the 3D part was still an untextured grey sphere under development. It isn&#39;t any more.</p> <p>A part I had a lot of fun building is the replay.",
-      "date": "2026-08-04",
-      "link": "https://www.reddit.com/r/space/comments/1vfb3nl/a_free_realtime_3d_moon_every_landing_site/"
+      "title": "SpaceX rocket expected to have crashed into Moon",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vg1sc5/spacex_rocket_expected_to_have_crashed_into_moon/\"> <img src=\"https://external-preview.redd.it/I9BR_YnnNa8yTGTGCGx89KH8qcO-c26egmRogtOldjI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7a315e91023ea10e…",
+      "date": "2026-08-05",
+      "link": "https://www.reddit.com/r/space/comments/1vg1sc5/spacex_rocket_expected_to_have_crashed_into_moon/"
     },
     {
       "sourceId": "rspace",
-      "title": "Giant Waves of Solar Wind May Have Stripped Mars of Its Atmosphere. The Red Planet may have once been habitable, with a thicker atmosphere and surface liquid water.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vfan89/giant_waves_of_solar_wind_may_have_stripped_mars/\"> <img src=\"https://external-preview.redd.it/aYsw4JeC7uPaAI3LNcFE9nOQoAIcbziDupVEcYiBCFw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df2a33ce9d6aab72d…",
-      "date": "2026-08-04",
-      "link": "https://www.reddit.com/r/space/comments/1vfan89/giant_waves_of_solar_wind_may_have_stripped_mars/"
+      "title": "Our high school team won 1st Place at a satellite builder competition! Here is our SAS-3 micro-satellite test flight with real-time telemetry overlay.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vg1rn9/our_high_school_team_won_1st_place_at_a_satellite/\"> <img src=\"https://external-preview.redd.it/vKy5-nEM-pt-0jYmU4n-EY6XvoSfNz80PmcZCZojxeM.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a776fbebdc235f01…",
+      "date": "2026-08-05",
+      "link": "https://www.reddit.com/r/space/comments/1vg1rn9/our_high_school_team_won_1st_place_at_a_satellite/"
     },
     {
       "sourceId": "rspace",
-      "title": "In April 2029, a Massive Asteroid Will Just Miss Earth. Scientists Are Worried There Could Still Be Major Consequences",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vf9hpq/in_april_2029_a_massive_asteroid_will_just_miss/\"> <img src=\"https://external-preview.redd.it/JZ-f8f8U-R2gQtijHO6G2ACx8io9XlBLIqJpeVhOAD0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a162eb3842d34c352…",
-      "date": "2026-08-04",
-      "link": "https://www.reddit.com/r/space/comments/1vf9hpq/in_april_2029_a_massive_asteroid_will_just_miss/"
+      "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vfumko/nasa_shuts_off_instrument_on_voyager_1_to_keep/\"> <img src=\"https://external-preview.redd.it/ZYZe7jS_1OjGosm9PGNQAWFTJqRX97r88QeC9jK52K0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae3ddcd7af60027f653…",
+      "date": "2026-08-05",
+      "link": "https://www.reddit.com/r/space/comments/1vfumko/nasa_shuts_off_instrument_on_voyager_1_to_keep/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "Roman Space Telescope Plaque Install",
-      "summary": "Technicians installed a commemorative plaque, seen in this July 28, 2026, photo, on NASA’s Nancy Grace Roman Space Telescope. The plaque honors the legacy of Dr. Nancy Grace Roman, NASA’s first chief astronomer and one of the architects of the agency’s modern science program.",
+      "title": "Advanced Mini-laboratories Automate Space Station Research",
+      "summary": "The International Space Station hosts hundreds of science experiments at a time. Some experiments can take hours to perform, and researchers need to account for astronauts’ limited time.",
+      "date": "2026-08-05",
+      "link": "https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "APOD: 2026 August 5 – Spokes on Saturn’s B Ring",
+      "summary": "APOD Science APOD APOD: 2026 August 5 – Spokes… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-08-05",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "The Paradox of Lençóis Maranhenses National Park",
+      "summary": "The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.",
+      "date": "2026-08-05",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
+      "summary": "Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters.",
       "date": "2026-08-04",
-      "link": "https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/"
+      "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: August 4, 2026 – Curious Cometary Knots in the Helix Nebula",
-      "summary": "APOD Science APOD APOD: August 4, 2026 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
+      "summary": "Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test.",
       "date": "2026-08-04",
-      "link": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Smoke Streams Across Eastern Washington",
-      "summary": "Wildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations in Spokane.",
-      "date": "2026-08-04",
-      "link": "https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
-      "summary": "Every spring in Palestine, Texas, the wide-open fields around NASA’s Columbia Scientific Balloon Facility fill with students and faculty from across Louisiana. They arrive carrying sensors, laptops, and carefully engineered payloads they have spent months preparing.",
-      "date": "2026-08-03",
-      "link": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Guinea-Bissau Tidal Waters",
-      "summary": "Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bissau’s Bijagós Archipelago (Arquipélago dos Bijagós in Portuguese). Seen from above in this image from Nov.",
-      "date": "2026-08-03",
-      "link": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/"
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/"
     }
   ]
 }
