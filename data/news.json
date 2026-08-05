@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T15:17:36.652Z",
+  "updated": "2026-08-05T15:58:15.318Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon",
+      "summary": "Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA’s Perseverance Mars rover. Earth appears as a point of light in the Martian sky, disappearing behind the crescent of Phobos, the larger of Mars’ two moons.",
+      "date": "2026-08-05",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "Advanced Mini-laboratories Automate Space Station Research",
       "summary": "The International Space Station hosts hundreds of science experiments at a time. Some experiments can take hours to perform, and researchers need to account for astronauts’ limited time.",
       "date": "2026-08-05",
@@ -431,7 +438,7 @@
     {
       "sourceId": "nasa",
       "title": "APOD: 2026 August 5 – Spokes on Saturn’s B Ring",
-      "summary": "APOD Science APOD APOD: 2026 August 5 – Spokes… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "summary": "APODScienceAPODAPOD: 2026 August 5 – Spokes…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-08-05",
       "link": "https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/"
     },
@@ -448,13 +455,6 @@
       "summary": "Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters.",
       "date": "2026-08-04",
       "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
-      "summary": "Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test.",
-      "date": "2026-08-04",
-      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/"
     }
   ]
 }
