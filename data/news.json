@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T14:14:29.213Z",
+  "updated": "2026-08-07T14:47:51.522Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "On this day in space! Aug. 7, 1980: NASA's Viking 1 Mars orbiter shuts down 4 years into a 90-day mission",
+      "summary": "On Aug. 7, 1980, NASA's Viking 1 spacecraft orbiting Mars ended its epic and historic mission to the Red Planet. Here's why it mattered.",
+      "date": "2026-08-07",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-7-2026"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "Cosmic treasure chest explodes with baby stars | Space photo of the day for Aug. 7, 2026",
       "summary": "The Carina Nebula is truly something to behold in this new snapshot.",
       "date": "2026-08-07",
@@ -308,13 +315,6 @@
       "summary": "Jessica Meir and Anil Menon completed a 6.5-hour spacewalk to install solar array mounting hardware outside of the International Space Station on Thursday, Aug. 6, 2026.",
       "date": "2026-08-06",
       "link": "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Rocket Lab launches Japanese Earth-observing satellite after 5-week delay (video, photos)",
-      "summary": "Rocket Lab launched its eighth mission for the Japanese Earth-imaging company iQPS on Thursday morning (Aug. 6), five weeks later than originally planned.",
-      "date": "2026-08-06",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-japanese-earth-observing-satellite-after-5-week-delay-video-photos"
     },
     {
       "sourceId": "rspace",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA’s IXPE Studies Magnetar",
+      "summary": "Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist’s concept, between March and April 2025.",
+      "date": "2026-08-07",
+      "link": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon",
       "summary": "Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment.",
       "date": "2026-08-07",
@@ -448,13 +455,6 @@
       "summary": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners.",
       "date": "2026-08-06",
       "link": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s SkyFall Helicopters at Work (Artist’s Concept)",
-      "summary": "Description This artist’s concept depicts NASA’s three SkyFall Mars helicopters collecting data while flying over the surface of the Red Planet. The green frequency waves emanating from the helicopters’ large antennas depict collection of subsurface radar data.",
-      "date": "2026-08-06",
-      "link": "https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/"
     }
   ]
 }
