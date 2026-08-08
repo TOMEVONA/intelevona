@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-07T14:47:51.522Z",
+  "updated": "2026-08-08T13:49:14.484Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
+      "summary": "Erich Hernandez-Baquero will take over military space acquisition; Roger Mason will lead the National Reconnaissance Office The post Senate installs new chiefs for U.S. military space acquisition, spy satellites appeared first on SpaceNews .",
+      "date": "2026-08-07",
+      "link": "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
+      "summary": "The FCC is turning to Space Bureau deputy chief Jennifer Gilsenan to keep its satellite regulatory overhaul moving as Jay Schwarz prepares to retire as its chief later this month.",
+      "date": "2026-08-07",
+      "link": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/"
+    },
     {
       "sourceId": "spacenews",
       "title": "U.S. Senate confirms Schiess to lead Space Force",
@@ -21,20 +35,6 @@
       "summary": "Sens. Cortez Masto and Britt propose expanded space wargaming and an unclassified assessment of China's commercial space sector The post Bipartisan Senate bill would sharpen Space Force training for conflict with China appeared first on SpaceNews .",
       "date": "2026-08-07",
       "link": "https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "How should Europe’s militaries respond to space threats",
-      "summary": "In this episode, SpaceNews’ Emma Gatti leads a panel of experts to discuss Europe’s defense posture and the reaction to space threats. This session was recorded in May at SpaceNews’",
-      "date": "2026-08-06",
-      "link": "https://spacenews.com/how-should-europes-militaries-respond-to-space-threats/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Lessons for the future of NASA Mars exploration from a 1970s mission",
-      "summary": "July 20 marked the 50th anniversary of one of the biggest robotic spaceflight achievements in NASA’s history: the landing of the Viking 1 spacecraft on Mars. It was the first",
-      "date": "2026-08-06",
-      "link": "https://spacenews.com/lessons-for-the-future-of-nasa-mars-exploration-from-a-1970s-mission/"
     },
     {
       "sourceId": "tectonic",
@@ -213,38 +213,59 @@
     },
     {
       "sourceId": "dod",
+      "title": "War Department Releases Open Letter to Defense Industry Stakeholders",
+      "summary": "The War Department is inviting the defense industrial base and the acquisition community to provide input on ways to streamline data and audit requirements related to business systems, as part of Secretary of War Pete Hegseth's arsenal of freedom acquisition transformation…",
+      "date": "2026-08-07",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4566672/war-department-releases-open-letter-to-defense-industry-stakeholders/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Boys & Girls Clubs Honor Military Youth",
+      "summary": "Five young Americans from across the War Department were honored as finalists during the Boys & Girls Clubs of America's 2026 National Military Youth of the Year celebration in the nation's capital, and one walked away with the honor and the opportunity to compete at the next…",
+      "date": "2026-08-07",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4566639/boys-girls-clubs-honor-military-youth/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Multinational Partners Strengthen Regional Readiness During Exercise Panamax 2026",
+      "summary": "U.S. airmen joined 40 military personnel from across the Americas during Panamax 2026, a U.S. Southern Command-sponsored multinational exercise focused on an integrated approach against simulated threats to the Panama Canal and the region.",
+      "date": "2026-08-07",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4566693/multinational-partners-strengthen-regional-readiness-during-exercise-panamax-20/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Space Launch Delta 45 Partners With Florida National Guard to Strengthen Hazmat Response",
+      "summary": "Space Launch Delta 45 and the Florida Army National Guard's 44th Weapons of Mass Destruction Civil Support Team recently partnered for a multiday training exercise designed to ensure both organizations remain prepared to respond rapidly to chemical, biological or radiological…",
+      "date": "2026-08-07",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4566255/space-launch-delta-45-partners-with-florida-national-guard-to-strengthen-hazmat/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Marines Make History With First Attack Drone Live-Fire Series in South Korea",
       "summary": "Marines successfully concluded the service's first series of live-fire first-person view attack drone flights in South Korea, demonstrating the ability to field emerging technologies in the Western Pacific rapidly.",
       "date": "2026-08-06",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4565502/marines-make-history-with-first-attack-drone-live-fire-series-in-south-korea/"
     },
     {
-      "sourceId": "dod",
-      "title": "Northcom Prepares Deployment to Support Wildfire Suppression",
-      "summary": "At the request of the National Interagency Fire Center, U.S. Northern Command is preparing to deploy approximately 200 soldiers to support a wildland fire ground response operation in the Pacific Northwest.",
-      "date": "2026-08-06",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4565533/northcom-prepares-deployment-to-support-wildfire-suppression/"
+      "sourceId": "viasat",
+      "title": "SES, Eutelsat Complete RDV1 Milestone for Europe’s IRIS2 Sovereign Constellation Program",
+      "summary": "Satellite operator SES completed the Rendez-vous 1 (RDV1) milestone on the implementation phase of the Infrastructure for Resilience, Interconnectivity and Security by Satellite (IRIS²) constellation program. The goal of the",
+      "date": "2026-08-07",
+      "link": "https://www.satellitetoday.com/connectivity/2026/08/07/ses-eutelsat-complete-rdv1-milestone-for-europes-iris2-sovereign-constellation-program/"
     },
     {
-      "sourceId": "dod",
-      "title": "Coast Guard Participates in Panama Canal Counter-Threat Exercise",
-      "summary": "Panama's National Aeronaval Service welcomed key leaders from Mexico, Ecuador, Colombia and the United States during the pre-sail conference for Panamax 2026, one of the largest military exercises in the Western Hemisphere.",
-      "date": "2026-08-05",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4564659/coast-guard-participates-in-panama-canal-counter-threat-exercise/"
+      "sourceId": "viasat",
+      "title": "CEO Fallacher Suggests Eutelsat is ‘Undervalued’ Compared to SpaceX Following 2025-26 Results",
+      "summary": "European satellite operator Eutelsat reported strong growth in its Low Earth Orbit (LEO) business segment during the 2026-2027 fiscal year, according to its 2025-2026 full year fiscal report issued Friday.",
+      "date": "2026-08-07",
+      "link": "https://www.satellitetoday.com/finance/2026/08/07/ceo-fallacher-suggests-eutelsat-is-undervalued-compared-to-spacex-following-2025-26-results/"
     },
     {
-      "sourceId": "dod",
-      "title": "Southcom Establishes Joint Task Force Western Hemisphere",
-      "summary": "Joint Task Force Western Hemisphere, led by Marine Corps Maj. Gen. Kevin Jarrard, integrates military capabilities with the 18 partner nations of the Americas Counter Cartel Coalition.",
-      "date": "2026-08-05",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4564574/southcom-establishes-joint-task-force-western-hemisphere/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Always Present: Joint Task Force D.C. Patrols the City",
-      "summary": "Soldiers assigned to Joint Task Force District of Columbia conducted presence patrols near museums and monuments as part of the D.C. Safe and Beautiful mission in Washington.",
-      "date": "2026-08-04",
-      "link": "https://www.war.gov/Multimedia/Photo-Collections/20081/"
+      "sourceId": "viasat",
+      "title": "How the Internet of Space is Reshaping Active Resiliency",
+      "summary": "For decades, satellite data has played a critical role in helping governments, emergency responders, and infrastructure operators understand the impact of disasters. Whether assessing the damage caused by a wildfire,",
+      "date": "2026-08-07",
+      "link": "https://www.satellitetoday.com/opinion/2026/08/07/how-the-internet-of-space-is-reshaping-active-resiliency/"
     },
     {
       "sourceId": "viasat",
@@ -261,60 +282,67 @@
       "link": "https://www.satellitetoday.com/technology/2026/08/06/gilat-demonstrates-interference-detection-and-cancellation-technology/"
     },
     {
-      "sourceId": "viasat",
-      "title": "BlackStar Orbital Takes SPAC Deal",
-      "summary": "Blackstar Orbital Technologies, a company developing a reusable spacecraft platform, plans to go public through a special purpose acquisition company (SPAC) merger. BlackStar announced the deal with SPAC Pono Capital",
-      "date": "2026-08-06",
-      "link": "https://www.satellitetoday.com/finance/2026/08/06/blackstar-orbital-takes-spac-deal/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "MatSing Details Manufacturing Technology to Improve Satellite Antenna Performance",
-      "summary": "MatSing developed a new proprietary manufacturing technology that it says will enable multibeam, wideband antennas to able to transmit and receive signals simultaneously across a range of directions and frequencies.",
-      "date": "2026-08-06",
-      "link": "https://www.satellitetoday.com/technology/2026/08/06/matsing-details-manufacturing-technology-to-improve-satellite-antenna-performance/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Capella, Iceye US, and Umbra Receive NRO Commercial SAR Contracts",
-      "summary": "IonQ‘s Capella Space, Iceye US, and Umbra have received Radar Commercial Augmentation (RCA) sole source contracts from the National Reconnaissance Office (NRO) for commercial synthetic aperture radar (SAR) imagery, the",
-      "date": "2026-08-05",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/05/capella-iceye-us-and-umbra-receive-nro-commercial-sar-contracts/"
+      "sourceId": "spacecom",
+      "title": "Yes, North America gets a solar eclipse on Aug. 12. Here's where and when to see it",
+      "summary": "The Aug. 12 eclipse won't rival 2024's Great American Eclipse, but millions across the U.S. and Canada will still see the moon take a bite out of the sun.",
+      "date": "2026-08-08",
+      "link": "https://www.space.com/stargazing/solar-eclipses/yes-north-america-gets-a-solar-eclipse-on-aug-12-heres-where-and-when-to-see-it"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 7, 1980: NASA's Viking 1 Mars orbiter shuts down 4 years into a 90-day mission",
-      "summary": "On Aug. 7, 1980, NASA's Viking 1 spacecraft orbiting Mars ended its epic and historic mission to the Red Planet. Here's why it mattered.",
+      "title": "Sky-Watcher SolarQuest mount head review",
+      "summary": "A brilliantly simple grab-and-go solar mount that finds and follows the sun for you, Sky-Watcher’s SolarQuest is perfect for small-scope solar astronomy and solar eclipses.",
+      "date": "2026-08-08",
+      "link": "https://www.space.com/stargazing/skywatching-kit/sky-watcher-solarquest-mount-head-review"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "SpaceX serious about building factories on the moon: 'It’s going to happen,' Elon Musk says",
+      "summary": "SpaceX plans to build factories on the moon, using robots to do much of the heavy lifting, Elon Musk said on Tuesday (Aug. 4) during SpaceX's first-ever quarterly earnings call.",
       "date": "2026-08-07",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-7-2026"
+      "link": "https://www.space.com/astronomy/moon/spacex-serious-about-building-factories-on-the-moon-its-going-to-happen-elon-musk-says"
     },
     {
       "sourceId": "spacecom",
-      "title": "Cosmic treasure chest explodes with baby stars | Space photo of the day for Aug. 7, 2026",
-      "summary": "The Carina Nebula is truly something to behold in this new snapshot.",
+      "title": "'Not looking good right now': Starship likely to be lost at sea 2 weeks after epic 13th test flight, Elon Musk says",
+      "summary": "SpaceX is still towing Starship's upper stage toward shore two weeks after its latest test flight, but the unprecedented effort is unlikely to succeed, according to Elon Musk.",
       "date": "2026-08-07",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/cosmic-treasure-chest-explodes-with-baby-stars-space-photo-of-the-day-for-aug-7-2026"
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/not-looking-good-right-now-starship-likely-to-be-lost-at-sea-2-weeks-after-epic-13th-test-flight-elon-musk-says"
     },
     {
       "sourceId": "spacecom",
-      "title": "The UK is about to witness its most spectacular solar eclipse in 11 years. Here's what you need to know",
-      "summary": "The Aug. 12 eclipse won't bring totality to Britain, but up to 98% of the sun will disappear in one of the U.K.'s most dramatic partial eclipses in decades.",
+      "title": "NASA figured out how to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "summary": "NASA's Voyager 2 probe, which launched in 1977, can keep operating its last science instruments after a power reduction operation performed in interstellar space.",
       "date": "2026-08-07",
-      "link": "https://www.space.com/stargazing/solar-eclipses/the-uk-is-about-to-witness-its-most-spectacular-solar-eclipse-in-11-years-heres-what-you-need-to-know"
+      "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year"
     },
     {
-      "sourceId": "spacecom",
-      "title": "Why you don't need a perfectly clear sky to enjoy the total solar eclipse on Aug. 12",
-      "summary": "Millions will see a deep partial or total solar eclipse on Aug. 12, but there's no need to fixate on completely clear skies.",
+      "sourceId": "rspace",
+      "title": "A SpaceX rocket crashed into the moon. New images show the aftermath",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vintk2/a_spacex_rocket_crashed_into_the_moon_new_images/\"> <img src=\"https://external-preview.redd.it/uBP4cFnJ5SDfAynP8DwqAdOJq4lYDfKSFzqkVFZXKfY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=845d844d2c69fe7eb…",
+      "date": "2026-08-08",
+      "link": "https://www.reddit.com/r/space/comments/1vintk2/a_spacex_rocket_crashed_into_the_moon_new_images/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Scientists in Hawaii capture clearest images of the Sun to date",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vil9tt/scientists_in_hawaii_capture_clearest_images_of/\"> <img src=\"https://external-preview.redd.it/OvWowl5VMcmY4mgmO1O3UopwHDLQoK2YMEecK_gezCg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87f10ee1d58cb45e00…",
+      "date": "2026-08-08",
+      "link": "https://www.reddit.com/r/space/comments/1vil9tt/scientists_in_hawaii_capture_clearest_images_of/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident | “The anomaly originated at the main oxygen valve on one of the BE-4 engines.”",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vibpww/blue_origin_narrowing_in_on_root_cause_of/\"> <img src=\"https://external-preview.redd.it/h715YqOPruVigHhp-y4KheSBka5RGVPc5oviQwkG2PI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a1aabf5b77090726a4a0467…",
       "date": "2026-08-07",
-      "link": "https://www.space.com/stargazing/solar-eclipses/why-you-dont-need-a-perfectly-clear-sky-to-enjoy-the-total-solar-eclipse-on-aug-12"
+      "link": "https://www.reddit.com/r/space/comments/1vibpww/blue_origin_narrowing_in_on_root_cause_of/"
     },
     {
-      "sourceId": "spacecom",
-      "title": "'One more step': NASA astronauts conduct 6.5-hour spacewalk to prep ISS for solar array upgrade",
-      "summary": "Jessica Meir and Anil Menon completed a 6.5-hour spacewalk to install solar array mounting hardware outside of the International Space Station on Thursday, Aug. 6, 2026.",
-      "date": "2026-08-06",
-      "link": "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade"
+      "sourceId": "rspace",
+      "title": "India’s first privately-built 800 kN FFSC engine unveiled",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vib35v/indias_first_privatelybuilt_800_kn_ffsc_engine/\"> <img src=\"https://external-preview.redd.it/ZwRXOUTXTJqOSqgfyJXOV0lrlHPhi_pZ8v7Ukd2HCls.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3dc520d7dddcfbdd3f…",
+      "date": "2026-08-07",
+      "link": "https://www.reddit.com/r/space/comments/1vib35v/indias_first_privatelybuilt_800_kn_ffsc_engine/"
     },
     {
       "sourceId": "rspace",
@@ -322,34 +350,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vi0j4i/nasas_voyager_2_survives_daring_big_bang_maneuver/\"> <img src=\"https://external-preview.redd.it/IkNCQiP1JUUN_CSgXrJFPYufCWEeZ0ILzIaYJkA-9sg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b904c974188f3556…",
       "date": "2026-08-07",
       "link": "https://www.reddit.com/r/space/comments/1vi0j4i/nasas_voyager_2_survives_daring_big_bang_maneuver/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Mars Climate Orbiter didn't fail because of a unit conversion it failed because nobody verified the software against a spec that already existed",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Quick context most retellings skip: NASA&#39;s Software Interface Specification for this mission was published in 1996, two years before launch, and it explicitly required newton-seconds for thruster data.",
-      "date": "2026-08-07",
-      "link": "https://www.reddit.com/r/space/comments/1vhzat7/mars_climate_orbiter_didnt_fail_because_of_a_unit/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Frontiers | Past, present and future of human reproduction and development in space",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vhyi38/frontiers_past_present_and_future_of_human/\"> <img src=\"https://external-preview.redd.it/0FwACmSd5qTiMTWDFaqDbFtrA4c0_tn5qBpNeYABZWA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7786b9d2855a447885a92b5…",
-      "date": "2026-08-07",
-      "link": "https://www.reddit.com/r/space/comments/1vhyi38/frontiers_past_present_and_future_of_human/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "India becomes 4th country to develop a FFSC rocket engine.",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/astrobase_space/status/2085656034799149064\">https://x.com/astrobase_space/status/2085656034799149064</a></p> <p>Astrobase space developed the engine in less than 2 years( Founded in 2024).",
-      "date": "2026-08-07",
-      "link": "https://www.reddit.com/r/space/comments/1vhx9bh/india_becomes_4th_country_to_develop_a_ffsc/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Pluto’s Famous Glacial Heart Has Been Secretly Leaking Liquid Nitrogen | “Pluto never stops surprising us.”",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vhx3at/plutos_famous_glacial_heart_has_been_secretly/\"> <img src=\"https://external-preview.redd.it/AwyFR1QRmRwapM2MQpuefy2xIpxrhYNm4gJpWjO14Jo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c812b285341086b31e22…",
-      "date": "2026-08-07",
-      "link": "https://www.reddit.com/r/space/comments/1vhx3at/plutos_famous_glacial_heart_has_been_secretly/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,20 @@
     },
     {
       "sourceId": "nasa",
+      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+      "summary": "APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-08-08",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "2026 IGARSS Hyperwall Schedule",
+      "summary": "IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15 PM Discovery Earth: New Missions & Technical Innovation…",
+      "date": "2026-08-07",
+      "link": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA’s IXPE Studies Magnetar",
       "summary": "Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist’s concept, between March and April 2025.",
       "date": "2026-08-07",
@@ -441,20 +455,6 @@
       "summary": "APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-08-07",
       "link": "https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Sensing the Poles’ Hidden Heat",
-      "summary": "New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
-      "date": "2026-08-07",
-      "link": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
-      "summary": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners.",
-      "date": "2026-08-06",
-      "link": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/"
     }
   ]
 }
