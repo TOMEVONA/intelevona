@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-08T14:25:19.189Z",
+  "updated": "2026-08-09T13:52:04.900Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
+      "summary": "Northrop Grumman and the Canadian Space Agency will adapt what they had been working on for NASA’s lunar Gateway into applications for a planned lunar base, albeit with few specifics.",
+      "date": "2026-08-08",
+      "link": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
@@ -28,13 +35,6 @@
       "summary": "The European Commission has reached an agreement with an industrial consortium to proceed with a secure connectivity constellation, increasing the number of satellites as well as its cost.",
       "date": "2026-08-07",
       "link": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Bipartisan Senate bill would sharpen Space Force training for conflict with China",
-      "summary": "Sens. Cortez Masto and Britt propose expanded space wargaming and an unclassified assessment of China's commercial space sector The post Bipartisan Senate bill would sharpen Space Force training for conflict with China appeared first on SpaceNews .",
-      "date": "2026-08-07",
-      "link": "https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china/"
     },
     {
       "sourceId": "tectonic",
@@ -283,73 +283,73 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9",
-      "summary": "Early risers will catch a spectacular sight in the predawn hours of Aug. 9, as the slender crescent moon shines close to the red light of Mars among the stars of the constellation Taurus.",
-      "date": "2026-08-08",
-      "link": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026"
+      "title": "The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before",
+      "summary": "A naked-eye view of the sun's outer atmosphere is the reason eclipse chasers travel the world. Here's what it may look like on Aug. 12.",
+      "date": "2026-08-09",
+      "link": "https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-on-aug-12-will-reveal-something-nobody-has-ever-seen-before"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 8, 1977: Soviet Union's Salyut 5 reconnaissance space station burns up in Earth's atmosphere",
-      "summary": "Salyut 5 was a Soviet space station and part of the highly-secretive Almaz military space station program.",
-      "date": "2026-08-08",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026"
+      "title": "Here's what to expect from 5 stages of the total solar eclipse 2026",
+      "summary": "From first contact to totality and beyond, this is what will happen during each stage of the Aug. 12 total solar eclipse.",
+      "date": "2026-08-09",
+      "link": "https://www.space.com/stargazing/solar-eclipses/heres-what-to-expect-from-5-stages-of-the-total-solar-eclipse-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Yes, North America gets a solar eclipse on Aug. 12. Here's where and when to see it",
-      "summary": "The Aug. 12 eclipse won't rival 2024's Great American Eclipse, but millions across the U.S. and Canada will still see the moon take a bite out of the sun.",
+      "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
+      "summary": "SpaceX launched another batch of its Starlink internet satellites to orbit today (Aug. 8) from California's scenic central coast.",
       "date": "2026-08-08",
-      "link": "https://www.space.com/stargazing/solar-eclipses/yes-north-america-gets-a-solar-eclipse-on-aug-12-heres-where-and-when-to-see-it"
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly"
     },
     {
       "sourceId": "spacecom",
-      "title": "Sky-Watcher SolarQuest mount head review",
-      "summary": "A brilliantly simple grab-and-go solar mount that finds and follows the sun for you, Sky-Watcher’s SolarQuest is perfect for small-scope solar astronomy and solar eclipses.",
+      "title": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
+      "summary": "With many fan-favorite Autobots and Decepticons bumped off in the opening act, this was not the big-screen romp '80s kids were expecting.",
       "date": "2026-08-08",
-      "link": "https://www.space.com/stargazing/skywatching-kit/sky-watcher-solarquest-mount-head-review"
+      "link": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids"
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX serious about building factories on the moon: 'It’s going to happen,' Elon Musk says",
-      "summary": "SpaceX plans to build factories on the moon, using robots to do much of the heavy lifting, Elon Musk said on Tuesday (Aug. 4) during SpaceX's first-ever quarterly earnings call.",
-      "date": "2026-08-07",
-      "link": "https://www.space.com/astronomy/moon/spacex-serious-about-building-factories-on-the-moon-its-going-to-happen-elon-musk-says"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "A SpaceX rocket crashed into the moon. New images show the aftermath",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vintk2/a_spacex_rocket_crashed_into_the_moon_new_images/\"> <img src=\"https://external-preview.redd.it/uBP4cFnJ5SDfAynP8DwqAdOJq4lYDfKSFzqkVFZXKfY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=845d844d2c69fe7eb…",
+      "title": "This Week In Space podcast: Episode 222 — How to Invade Earth in 22 Easy Steps",
+      "summary": "On Episode 222 of This Week In Space, Rod Pyle and Tariq Malik are joined by space writer Rich Edwards to discuss the best ways to repel space invaders.",
       "date": "2026-08-08",
-      "link": "https://www.reddit.com/r/space/comments/1vintk2/a_spacex_rocket_crashed_into_the_moon_new_images/"
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-222-how-to-invade-earth-in-22-easy-steps"
     },
     {
       "sourceId": "rspace",
-      "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident | “The anomaly originated at the main oxygen valve on one of the BE-4 engines.”",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vibpww/blue_origin_narrowing_in_on_root_cause_of/\"> <img src=\"https://external-preview.redd.it/h715YqOPruVigHhp-y4KheSBka5RGVPc5oviQwkG2PI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a1aabf5b77090726a4a0467…",
-      "date": "2026-08-07",
-      "link": "https://www.reddit.com/r/space/comments/1vibpww/blue_origin_narrowing_in_on_root_cause_of/"
+      "title": "I captured Milky way Galaxy from my phone Camera in a remote location.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vjpo12/i_captured_milky_way_galaxy_from_my_phone_camera/\"> <img src=\"https://preview.redd.it/2dnuynysncih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22eaa5b64c8ccccbd5adda7bfd09c89331f0e8ce\" alt=\"I…",
+      "date": "2026-08-09",
+      "link": "https://www.reddit.com/r/space/comments/1vjpo12/i_captured_milky_way_galaxy_from_my_phone_camera/"
     },
     {
       "sourceId": "rspace",
-      "title": "India’s first privately-built 800 kN FFSC engine unveiled",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vib35v/indias_first_privatelybuilt_800_kn_ffsc_engine/\"> <img src=\"https://external-preview.redd.it/ZwRXOUTXTJqOSqgfyJXOV0lrlHPhi_pZ8v7Ukd2HCls.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3dc520d7dddcfbdd3f…",
-      "date": "2026-08-07",
-      "link": "https://www.reddit.com/r/space/comments/1vib35v/indias_first_privatelybuilt_800_kn_ffsc_engine/"
+      "title": "\"Pyraxis\", my latest texture space painting",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vjpiah/pyraxis_my_latest_texture_space_painting/\"> <img src=\"https://preview.redd.it/mcm4jaiemcih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3394a645a450d9ad79c948d33b573956c4e52a1\" alt=\"\"Pyraxis\", my…",
+      "date": "2026-08-09",
+      "link": "https://www.reddit.com/r/space/comments/1vjpiah/pyraxis_my_latest_texture_space_painting/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA’s Voyager 2 survives daring ‘big bang’ maneuver",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vi0j4i/nasas_voyager_2_survives_daring_big_bang_maneuver/\"> <img src=\"https://external-preview.redd.it/IkNCQiP1JUUN_CSgXrJFPYufCWEeZ0ILzIaYJkA-9sg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b904c974188f3556…",
-      "date": "2026-08-07",
-      "link": "https://www.reddit.com/r/space/comments/1vi0j4i/nasas_voyager_2_survives_daring_big_bang_maneuver/"
+      "title": "Dust Storm in the South Polar Region. Imaged by ESA Mars Express, processing by Andrea Luck",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vjng8t/dust_storm_in_the_south_polar_region_imaged_by/\"> <img src=\"https://preview.redd.it/qnefivlp3cih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=19a9faba852575a0d5156fc17906d4c3fbf497c4\" alt=\"Dust Storm…",
+      "date": "2026-08-09",
+      "link": "https://www.reddit.com/r/space/comments/1vjng8t/dust_storm_in_the_south_polar_region_imaged_by/"
     },
     {
       "sourceId": "rspace",
-      "title": "India becomes 4th country to develop a FFSC rocket engine.",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/astrobase_space/status/2085656034799149064\">https://x.com/astrobase_space/status/2085656034799149064</a></p> <p>Astrobase space developed the engine in less than 2 years( Founded in 2024).",
-      "date": "2026-08-07",
-      "link": "https://www.reddit.com/r/space/comments/1vhx9bh/india_becomes_4th_country_to_develop_a_ffsc/"
+      "title": "I captured zeta and Rho cloud complex in Tuscany",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vjl598/i_captured_zeta_and_rho_cloud_complex_in_tuscany/\"> <img src=\"https://preview.redd.it/72b8rq7tfbih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdd35178e8ab88d1d44404ec393840cf8adecd9e\" alt=\"I…",
+      "date": "2026-08-09",
+      "link": "https://www.reddit.com/r/space/comments/1vjl598/i_captured_zeta_and_rho_cloud_complex_in_tuscany/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "A spiral galaxy: one of the most beautiful sights in the night sky",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vjkvq7/a_spiral_galaxy_one_of_the_most_beautiful_sights/\"> <img src=\"https://preview.redd.it/i8z33qozcbih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f6accd8f65a8c1d9e57d835074fdefa2547cb856\" alt=\"A spiral…",
+      "date": "2026-08-09",
+      "link": "https://www.reddit.com/r/space/comments/1vjkvq7/a_spiral_galaxy_one_of_the_most_beautiful_sights/"
     },
     {
       "sourceId": "nga",
@@ -454,7 +454,7 @@
       "title": "APOD: 2026 August 7 – Rubin’s Cosmos Field",
       "summary": "APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-08-07",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field/"
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-6-rubins-cosmos-field/"
     }
   ]
 }
