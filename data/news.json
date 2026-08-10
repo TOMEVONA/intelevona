@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T14:21:17.293Z",
+  "updated": "2026-08-10T14:52:12.246Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -290,17 +290,17 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 10, 1972: A 'Great Daylight Fireball' lights up the sky over North America",
-      "summary": "On Aug. 10, 1972, an Earth-grazing fireball burst through the sky over North America. Here's what happened.",
-      "date": "2026-08-10",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-10-2026"
-    },
-    {
-      "sourceId": "spacecom",
       "title": "Sharpest image of the sun ever captured! | Space photo of the day for Aug. 10, 2026",
       "summary": "An international team of researchers using the U.S. National Science Foundation's Inouye Solar Telescope has captured the highest-resolution view of the sun's surface.",
       "date": "2026-08-10",
       "link": "https://www.space.com/astronomy/sun/sharpest-image-of-the-sun-ever-captured-space-photo-of-the-day-for-aug-10-2026"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "On this day in space! Aug. 10, 1972: A 'Great Daylight Fireball' lights up the sky over North America",
+      "summary": "On Aug. 10, 1972, an Earth-grazing fireball burst through the sky over North America. Here's what happened.",
+      "date": "2026-08-10",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-10-2026"
     },
     {
       "sourceId": "spacecom",
@@ -318,6 +318,13 @@
     },
     {
       "sourceId": "rspace",
+      "title": "Earth looking like the moon from Artemis II.🌎🌙",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vkmphc/earth_looking_like_the_moon_from_artemis_ii/\"> <img src=\"https://preview.redd.it/dl5gi7uc7kih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c932101b9009aa23198cf45c41dea6c6dfe1e001\" alt=\"Earth looking…",
+      "date": "2026-08-10",
+      "link": "https://www.reddit.com/r/space/comments/1vkmphc/earth_looking_like_the_moon_from_artemis_ii/"
+    },
+    {
+      "sourceId": "rspace",
       "title": "The Milky Way, Captured on a Smartphone",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vklnui/the_milky_way_captured_on_a_smartphone/\"> <img src=\"https://preview.redd.it/yr3d801a0kih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2deb87205a9dfef3809f295dfc07433ebed9551\" alt=\"The Milky Way,…",
       "date": "2026-08-10",
@@ -329,13 +336,6 @@
       "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AgreeableEmploy1884\"> /u/AgreeableEmploy1884 </a> <br/> <span><a href=\"https://www.youtube.com/live/GBj4IB6zM1s\">[link]</a></span> &#32; <span><a…",
       "date": "2026-08-10",
       "link": "https://www.reddit.com/r/space/comments/1vkk0ud/long_march_7a_explodes_during_first_stage_burn/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Planned satellite megaconstellations could generate runaway space debris | Science | AAAS",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>An article about the risks of runaway collisions in the proposed megaconstellations, and the lack of regulations</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Germanofthebored\"> /u/Germanofthebored </a>…",
-      "date": "2026-08-10",
-      "link": "https://www.reddit.com/r/space/comments/1vkj9rq/planned_satellite_megaconstellations_could/"
     },
     {
       "sourceId": "rspace",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "Lion Nebula Roars to Life With NASA’s Webb",
+      "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA’s Hubble Space Telescope previously viewed this planetary nebula in 2000, imaging the lion face-shaped target in visible light and…",
+      "date": "2026-08-10",
+      "link": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "Launch Into a New School Year With NASA",
       "summary": "A new school year brings fresh opportunities to get involved with NASA. Whether you’re curious about space or eager to build real STEM skills, NASA offers a world of experiences putting you close to the action.",
       "date": "2026-08-10",
@@ -448,13 +455,6 @@
       "summary": "APOD Science APOD APOD: 2026 August 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-08-09",
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-9-contemplating-the-sun/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
-      "summary": "APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-08-08",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/"
     }
   ]
 }
