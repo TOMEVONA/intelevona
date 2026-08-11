@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-11T14:20:58.540Z",
+  "updated": "2026-08-11T14:52:06.358Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "SpaceX increasing footprint in missile defense",
+      "summary": "With multibillion-dollar awards for satellite networks, sensing and launch services, SpaceX is leveraging its vertically integrated manufacturing model to win a share of the Pentagon's missile defense business The post SpaceX increasing footprint in missile defense appeared…",
+      "date": "2026-08-11",
+      "link": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Former Space Force general joins Lunar Outpost board",
@@ -11,7 +18,7 @@
     {
       "sourceId": "spacenews",
       "title": "BlackSky wins seven-figure, multiyear international contract",
-      "summary": "SAN FRANCISCO — BlackSky announced Aug. 11 a seven-figure, multiyear contract to provide an international customer with persistent space-based monitoring and on-demand satellite tasking. Prior to the award, BlackSky conducted",
+      "summary": "SAN FRANCISCO — BlackSky announced Aug. 11 a seven-figure, multiyear contract to provide an international customer with persistent space-based monitoring and assured and on-demand satellite tasking. Prior to the award,",
       "date": "2026-08-11",
       "link": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/"
     },
@@ -28,13 +35,6 @@
       "summary": "Rocket Lab warned that the chances of launching its Neutron rocket for the first time before the end of the year are “narrowing” despite progress on the vehicle’s development. The post First Neutron launch may slip to 2027 appeared first on SpaceNews .",
       "date": "2026-08-11",
       "link": "https://spacenews.com/first-neutron-launch-may-slip-to-2027/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
-      "summary": "LOS ANGELES, August 11th, 2026. Proteus Space, an AI-native aerospace company delivering rapid, end-to-end access to space, today announced that retired U.S. Air Force Maj. Gen. Kimberly “Kim” Crider has",
-      "date": "2026-08-11",
-      "link": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/"
     },
     {
       "sourceId": "tectonic",
@@ -318,6 +318,13 @@
     },
     {
       "sourceId": "rspace",
+      "title": "NASA’s most interesting Martian sample won’t be returned after budget cuts",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vljblr/nasas_most_interesting_martian_sample_wont_be/\"> <img src=\"https://external-preview.redd.it/Mu5Xwpj7VCxGUxhJKlygtkbWnEP7WmH9POPM6ko2XFU.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2f9d7951fb2b260cb557…",
+      "date": "2026-08-11",
+      "link": "https://www.reddit.com/r/space/comments/1vljblr/nasas_most_interesting_martian_sample_wont_be/"
+    },
+    {
+      "sourceId": "rspace",
       "title": "This simple demonstration puts the Earth–Moon distance into perspective",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vlgxn7/this_simple_demonstration_puts_the_earthmoon/\"> <img src=\"https://external-preview.redd.it/BdKIqMUE2sYgRsql5NWWGAEbHoceLbIHqferSv2S5gE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=030a71239db7ca6a409c1…",
       "date": "2026-08-11",
@@ -343,13 +350,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vkoi2x/earth_extremophile_can_grow_in_nearmarslike/\"> <img src=\"https://external-preview.redd.it/HarTcwCrU8Cg2RzlFmL59HrrEULQ_7kxHXWa7PUd_50.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a054f4bcb30f5dc5b18803…",
       "date": "2026-08-10",
       "link": "https://www.reddit.com/r/space/comments/1vkoi2x/earth_extremophile_can_grow_in_nearmarslike/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "The Milky Way, Captured on a Smartphone",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vklnui/the_milky_way_captured_on_a_smartphone/\"> <img src=\"https://preview.redd.it/yr3d801a0kih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2deb87205a9dfef3809f295dfc07433ebed9551\" alt=\"The Milky Way,…",
-      "date": "2026-08-10",
-      "link": "https://www.reddit.com/r/space/comments/1vklnui/the_milky_way_captured_on_a_smartphone/"
     },
     {
       "sourceId": "nga",
