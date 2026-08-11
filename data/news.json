@@ -1,40 +1,40 @@
 {
-  "updated": "2026-08-10T14:52:12.246Z",
+  "updated": "2026-08-11T14:20:58.540Z",
   "articles": [
     {
       "sourceId": "spacenews",
-      "title": "Chinese Long March 7A rocket explodes shortly after liftoff",
-      "summary": "HELSINKI — China appears to have lost an unknown payload after a Long March 7A rocket exploded less than 90 seconds into flight, according to amateur footage. The Long March",
-      "date": "2026-08-10",
-      "link": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/"
+      "title": "Former Space Force general joins Lunar Outpost board",
+      "summary": "A retired Space Force general who served as deputy commander of U.S. Space Command is joining the board of lunar rover developer Lunar Outpost. The post Former Space Force general joins Lunar Outpost board appeared first on SpaceNews .",
+      "date": "2026-08-11",
+      "link": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/"
     },
     {
       "sourceId": "spacenews",
-      "title": "National security doesn’t need more maps or imagery; it needs measurement",
-      "summary": "A decade ago, a United States carrier strike group departing San Diego could cross the Pacific with only intermittent detection. China might catch a glimpse — a satellite pass here,",
-      "date": "2026-08-10",
-      "link": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/"
+      "title": "BlackSky wins seven-figure, multiyear international contract",
+      "summary": "SAN FRANCISCO — BlackSky announced Aug. 11 a seven-figure, multiyear contract to provide an international customer with persistent space-based monitoring and on-demand satellite tasking. Prior to the award, BlackSky conducted",
+      "date": "2026-08-11",
+      "link": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Tank problem delays first RFA launch",
-      "summary": "The majority owner of Rocket Factory Augsburg is still confident the company will conduct its first orbital launch attempt this year despite a setback in testing. The post Tank problem delays first RFA launch appeared first on SpaceNews .",
-      "date": "2026-08-10",
-      "link": "https://spacenews.com/tank-problem-delays-first-rfa-launch/"
+      "title": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
+      "summary": "For most of its history, the United States has been largely insulated from foreign threats. Vast oceans made it an impractical destination for invading armies before the advent of modern",
+      "date": "2026-08-11",
+      "link": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite",
-      "summary": "WARSAW, Poland — The Lithuanian space laser communications company Astrolight has signed a memorandum of understanding with ATMOS Space Cargo, to demonstrate in-flight optical communications link between a reentry spacecraft",
-      "date": "2026-08-10",
-      "link": "https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/"
+      "title": "First Neutron launch may slip to 2027",
+      "summary": "Rocket Lab warned that the chances of launching its Neutron rocket for the first time before the end of the year are “narrowing” despite progress on the vehicle’s development. The post First Neutron launch may slip to 2027 appeared first on SpaceNews .",
+      "date": "2026-08-11",
+      "link": "https://spacenews.com/first-neutron-launch-may-slip-to-2027/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
-      "summary": "The company that developed a spacecraft to boost the orbit of a NASA observatory says it is making progress in recovering from its own spacecraft’s problems. The post Katalyst Space makes progress in restoring control of Swift servicing spacecraft appeared first on SpaceNews .",
-      "date": "2026-08-10",
-      "link": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/"
+      "title": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
+      "summary": "LOS ANGELES, August 11th, 2026. Proteus Space, an AI-native aerospace company delivering rapid, end-to-end access to space, today announced that retired U.S. Air Force Maj. Gen. Kimberly “Kim” Crider has",
+      "date": "2026-08-11",
+      "link": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "Space Launch Delta 45 partners with Florida National Guard to strengthen hazmat response",
+      "summary": "Space Launch Delta 45 Emergency Management personnel partnered with the Florida National Guard’s 44th Weapons of Mass Destruction Civil Support Team for a joint hazardous materials response exercise across Patrick Space Force Base and Kennedy Space Center, Florida.",
+      "date": "2026-08-10",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4567530/space-launch-delta-45-partners-with-florida-national-guard-to-strengthen-hazmat/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "Schiess confirmed as new Chief of Space Operations",
       "summary": "The Senate confirmed Lt. Gen. Douglas Schiess to succeed Gen. Chance Saltzman as the new CSO. <br/> <img src='https://media.defense.gov/2026/Jul/27/2003968068/300/300/0/260716-F-JJ904-1320.JPG' alt='CSO nomination hearing.' /> <br />",
       "date": "2026-08-07",
@@ -205,11 +212,25 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4561099/space-force-selects-technical-direction-agent-for-sbi-program/"
     },
     {
-      "sourceId": "ussf",
-      "title": "Space Force outlines acquisition wins amid ongoing Department wide transformation at Air and Space Summit",
-      "summary": "Thomas Ainsworth, acting assistant secretary of the Air Force for Space Acquisition and Integration, highlighted the Space Force's sweeping acquisition reforms successes amid the ongoing acquisition transformation, including enhanced commercial partnerships and the delivery of…",
-      "date": "2026-07-30",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4559692/space-force-outlines-acquisition-wins-amid-ongoing-department-wide-transformati/"
+      "sourceId": "dod",
+      "title": "U.S., Moroccan Forces Leverage Africa's Multidomain Experimentation Center",
+      "summary": "U.S. service members partnered with Morocco's royal armed forces to enable the first-ever live-fire demonstration leveraging the Africa Multidomain Training and Experimentation Center, supporting a U.S.",
+      "date": "2026-08-10",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4567934/us-moroccan-forces-leverage-africas-multidomain-experimentation-center/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Hegseth Renames Joint Base Charleston to Honor Late Sen. Lindsey Graham",
+      "summary": "Joint Base Charleston, S.C., became Joint Base Lindsey Graham during a ceremony to rename the installation after the late senator, Air Force veteran and South Carolina native son.",
+      "date": "2026-08-10",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4567534/hegseth-renames-joint-base-charleston-to-honor-late-sen-lindsey-graham/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "USS Thomas Hudner Returns to Naval Station Mayport From Deployment",
+      "summary": "The guided-missile destroyer USS Thomas Hudner returned to Naval Station Mayport, Fla., concluding an almost nine-month deployment across multiple geographic theaters, including the U.S. 4th, 5th and 6th Fleet areas of operations.",
+      "date": "2026-08-10",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4567181/uss-thomas-hudner-returns-to-naval-station-mayport-from-deployment/"
     },
     {
       "sourceId": "dod",
@@ -226,25 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4566639/boys-girls-clubs-honor-military-youth/"
     },
     {
-      "sourceId": "dod",
-      "title": "Multinational Partners Strengthen Regional Readiness During Exercise Panamax 2026",
-      "summary": "U.S. airmen joined 40 military personnel from across the Americas during Panamax 2026, a U.S. Southern Command-sponsored multinational exercise focused on an integrated approach against simulated threats to the Panama Canal and the region.",
-      "date": "2026-08-07",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4566693/multinational-partners-strengthen-regional-readiness-during-exercise-panamax-20/"
+      "sourceId": "viasat",
+      "title": "The Trump Administration Attempts to Fill an Empty FCC Seat Ahead of Midterm Elections",
+      "summary": "After operating for almost two years as a trio, the Federal Communications Commission (FCC) may finally sit a fourth member. On Friday, U.S. President Donald Trump nominated FCC Chairman Brendan Carr’s",
+      "date": "2026-08-10",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/10/the-trump-administration-attempts-to-fill-an-empty-fcc-seat-ahead-of-midterm-elections/"
     },
     {
-      "sourceId": "dod",
-      "title": "Space Launch Delta 45 Partners With Florida National Guard to Strengthen Hazmat Response",
-      "summary": "Space Launch Delta 45 and the Florida Army National Guard's 44th Weapons of Mass Destruction Civil Support Team recently partnered for a multiday training exercise designed to ensure both organizations remain prepared to respond rapidly to chemical, biological or radiological…",
-      "date": "2026-08-07",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4566255/space-launch-delta-45-partners-with-florida-national-guard-to-strengthen-hazmat/"
+      "sourceId": "viasat",
+      "title": "Arabsat Signs Digital Communications Infrastructure Deal with Libya Telecom and Technology (LTT)",
+      "summary": "Arabsat has signed a new deal with Libya Telecom and Technology (LTT) as Libya looks to develop its digital communications infrastructure. Libya has a population of around 7.5 million people.",
+      "date": "2026-08-10",
+      "link": "https://www.satellitetoday.com/connectivity/2026/08/10/arabsat-signs-digital-communications-infrastructure-deal-with-libya-telecom-and-technology-ltt/"
     },
     {
-      "sourceId": "dod",
-      "title": "Marines Make History With First Attack Drone Live-Fire Series in South Korea",
-      "summary": "Marines successfully concluded the service's first series of live-fire first-person view attack drone flights in South Korea, demonstrating the ability to field emerging technologies in the Western Pacific rapidly.",
-      "date": "2026-08-06",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4565502/marines-make-history-with-first-attack-drone-live-fire-series-in-south-korea/"
+      "sourceId": "viasat",
+      "title": "ALL.SPACE to Provide Hydra MAX Terminals to Aalyria",
+      "summary": "ALL.SPACE has won a contract to provide its Hydra MAX terminals to Aalyria. They will be deployed with Aalyria’s Spacetime orchestration software integrated directly with the platform. The two companies",
+      "date": "2026-08-10",
+      "link": "https://www.satellitetoday.com/technology/2026/08/10/all-space-to-provide-hydra-max-terminals-to-aalyria/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Catalyst Completes Infrastructure EO Analysis Pilot Program with UK Rail Operator",
+      "summary": "Network Rail, the owner and operator of Britain’s railway infrastructure, teamed up with Earth Observation (EO) analytics Catalyst (PCI Geomatics) on a 12-week pilot program that investigated how weather-driven risks",
+      "date": "2026-08-10",
+      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/08/10/catalyst-completes-infrastructure-eo-analysis-pilot-program-with-uk-rail-operator/"
     },
     {
       "sourceId": "viasat",
@@ -254,74 +282,67 @@
       "link": "https://www.satellitetoday.com/connectivity/2026/08/07/ses-eutelsat-complete-rdv1-milestone-for-europes-iris2-sovereign-constellation-program/"
     },
     {
-      "sourceId": "viasat",
-      "title": "CEO Fallacher Suggests Eutelsat is ‘Undervalued’ Compared to SpaceX Following 2025-26 Results",
-      "summary": "European satellite operator Eutelsat reported strong growth in its Low Earth Orbit (LEO) business segment during the 2026-2027 fiscal year, according to its 2025-2026 full year fiscal report issued Friday.",
-      "date": "2026-08-07",
-      "link": "https://www.satellitetoday.com/finance/2026/08/07/ceo-fallacher-suggests-eutelsat-is-undervalued-compared-to-spacex-following-2025-26-results/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "How the Internet of Space is Reshaping Active Resiliency",
-      "summary": "For decades, satellite data has played a critical role in helping governments, emergency responders, and infrastructure operators understand the impact of disasters. Whether assessing the damage caused by a wildfire,",
-      "date": "2026-08-07",
-      "link": "https://www.satellitetoday.com/opinion/2026/08/07/how-the-internet-of-space-is-reshaping-active-resiliency/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "BlackSky Reports Record Service Revenue and International Growth From Gen-3 Adoption",
-      "summary": "BlackSky reported record service revenue in the second quarter of 2026, driven by adoption of its Gen-3 satellite solutions. The company reported total revenue of $33 million in Q2, up",
-      "date": "2026-08-06",
-      "link": "https://www.satellitetoday.com/finance/2026/08/06/blacksky-reports-record-service-revenue-and-international-growth-from-gen-3-adoption/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Gilat Demonstrates Interference Detection and Cancellation Technology",
-      "summary": "Gilat Satellite Networks reports a demonstration of an interference detection and cancellation technology for satellite communication links, calling it a milestone toward improved operations in contested spectrum environments. Gilat said",
-      "date": "2026-08-06",
-      "link": "https://www.satellitetoday.com/technology/2026/08/06/gilat-demonstrates-interference-detection-and-cancellation-technology/"
+      "sourceId": "spacecom",
+      "title": "On this day in space! Aug. 11, 1960: 1st object successfully recovered from orbit",
+      "summary": "President Eisenhower inspects the Discoverer 13 capsule after its return to Earth.",
+      "date": "2026-08-11",
+      "link": "https://www.space.com/space-exploration/aug-11-1960-1st-object-successfully-recovered-from-orbit"
     },
     {
       "sourceId": "spacecom",
-      "title": "This ZWO astronomy camera is perfect for solar and lunar imaging",
-      "summary": "Easy to use and with an excellent build quality, the ZWO ASI174MM is a fast, monochrome USB 3.0 camera that’s perfect for solar and lunar imaging.",
-      "date": "2026-08-10",
-      "link": "https://www.space.com/stargazing/skywatching-kit/this-zwo-astronomy-camera-is-perfect-for-solar-and-lunar-imaging"
+      "title": "Behold the majestic mane of the Lion Nebula | Space photo of the day for Aug. 11, 2026",
+      "summary": "The Lion Nebula glows gloriously in this new snapshot from the James Webb Space Telescope.",
+      "date": "2026-08-11",
+      "link": "https://www.space.com/astronomy/behold-the-majestic-mane-of-the-lion-nebula-space-photo-of-the-day-for-august-11-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Sharpest image of the sun ever captured! | Space photo of the day for Aug. 10, 2026",
-      "summary": "An international team of researchers using the U.S. National Science Foundation's Inouye Solar Telescope has captured the highest-resolution view of the sun's surface.",
-      "date": "2026-08-10",
-      "link": "https://www.space.com/astronomy/sun/sharpest-image-of-the-sun-ever-captured-space-photo-of-the-day-for-aug-10-2026"
+      "title": "SpaceX wants to put 1 million AI satellites in orbit. What would that do to Earth's climate?",
+      "summary": "Operating a million or more data centers in space would mean a massive increase in air pollution from rocket launches and concentrations of toxic ash from reentering satellites.",
+      "date": "2026-08-11",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-put-1-million-ai-satellites-in-orbit-what-would-that-do-to-earths-climate"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 10, 1972: A 'Great Daylight Fireball' lights up the sky over North America",
-      "summary": "On Aug. 10, 1972, an Earth-grazing fireball burst through the sky over North America. Here's what happened.",
-      "date": "2026-08-10",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-10-2026"
+      "title": "Will Perseid shooting stars be visible during the Aug. 12 total solar eclipse?",
+      "summary": "\"If anyone does see one, they had better go play the lottery asap!\"",
+      "date": "2026-08-11",
+      "link": "https://www.space.com/stargazing/meteor-showers/will-perseid-shooting-stars-be-visible-during-the-aug-12-total-solar-eclipse"
     },
     {
       "sourceId": "spacecom",
-      "title": "Watch Japanese H3 rocket launch 10,800-pound navigation satellite to orbit today",
-      "summary": "Japan's H3 rocket will launch the Michibiki 7 navigation satellite to orbit this afternoon (Aug. 10), and you can watch the action live.",
-      "date": "2026-08-10",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-navigation-satellite-michibiki-7"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Pluto's atmosphere is collapsing as it drifts away from the sun into a deep freeze",
-      "summary": "As Pluto edges further away from the sun, the chilly temperatures are causing its atmosphere to condense onto its barren surface as frost.",
-      "date": "2026-08-10",
-      "link": "https://www.space.com/astronomy/pluto/plutos-atmosphere-is-collapsing-as-it-drifts-away-from-the-sun-into-a-deep-freeze"
+      "title": "Watch the total solar eclipse online Aug. 12 with these free livestreams",
+      "summary": "Here's how to watch the Aug. 12 total solar eclipse live online for free.",
+      "date": "2026-08-11",
+      "link": "https://www.space.com/stargazing/solar-eclipses/watch-the-total-solar-eclipse-online-aug-12-with-these-free-livestreams"
     },
     {
       "sourceId": "rspace",
-      "title": "Earth looking like the moon from Artemis II.🌎🌙",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vkmphc/earth_looking_like_the_moon_from_artemis_ii/\"> <img src=\"https://preview.redd.it/dl5gi7uc7kih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c932101b9009aa23198cf45c41dea6c6dfe1e001\" alt=\"Earth looking…",
+      "title": "This simple demonstration puts the Earth–Moon distance into perspective",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vlgxn7/this_simple_demonstration_puts_the_earthmoon/\"> <img src=\"https://external-preview.redd.it/BdKIqMUE2sYgRsql5NWWGAEbHoceLbIHqferSv2S5gE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=030a71239db7ca6a409c1…",
+      "date": "2026-08-11",
+      "link": "https://www.reddit.com/r/space/comments/1vlgxn7/this_simple_demonstration_puts_the_earthmoon/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Aug 5 SpaceX Moon Crash - Post Processing of Einstein Crater region",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vl6zgk/aug_5_spacex_moon_crash_post_processing_of/\"> <img src=\"https://external-preview.redd.it/DCUTbbqhqluHNFhdiFZGEaFAPjL80nMQJJ-yyrKSoBM.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3d6949127c8a83c3ee31132…",
+      "date": "2026-08-11",
+      "link": "https://www.reddit.com/r/space/comments/1vl6zgk/aug_5_spacex_moon_crash_post_processing_of/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Aftershock: How a club of college students made spaceflight history",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vl2btd/aftershock_how_a_club_of_college_students_made/\"> <img src=\"https://external-preview.redd.it/E_PCk1jzgXk2wJ9fVGt5Ax8wPtBAHvYdsSU1I9SYA9Q.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=17ad5450d9453a2e7a0…",
+      "date": "2026-08-11",
+      "link": "https://www.reddit.com/r/space/comments/1vl2btd/aftershock_how_a_club_of_college_students_made/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Earth extremophile can grow in near-Mars-like conditions",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vkoi2x/earth_extremophile_can_grow_in_nearmarslike/\"> <img src=\"https://external-preview.redd.it/HarTcwCrU8Cg2RzlFmL59HrrEULQ_7kxHXWa7PUd_50.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a054f4bcb30f5dc5b18803…",
       "date": "2026-08-10",
-      "link": "https://www.reddit.com/r/space/comments/1vkmphc/earth_looking_like_the_moon_from_artemis_ii/"
+      "link": "https://www.reddit.com/r/space/comments/1vkoi2x/earth_extremophile_can_grow_in_nearmarslike/"
     },
     {
       "sourceId": "rspace",
@@ -329,27 +350,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vklnui/the_milky_way_captured_on_a_smartphone/\"> <img src=\"https://preview.redd.it/yr3d801a0kih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2deb87205a9dfef3809f295dfc07433ebed9551\" alt=\"The Milky Way,…",
       "date": "2026-08-10",
       "link": "https://www.reddit.com/r/space/comments/1vklnui/the_milky_way_captured_on_a_smartphone/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Long March 7A explodes during first stage burn",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AgreeableEmploy1884\"> /u/AgreeableEmploy1884 </a> <br/> <span><a href=\"https://www.youtube.com/live/GBj4IB6zM1s\">[link]</a></span> &#32; <span><a…",
-      "date": "2026-08-10",
-      "link": "https://www.reddit.com/r/space/comments/1vkk0ud/long_march_7a_explodes_during_first_stage_burn/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Perseid meteor shower set to dazzle northern hemisphere this week",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vkhfzt/perseid_meteor_shower_set_to_dazzle_northern/\"> <img src=\"https://external-preview.redd.it/RYifgMHFRyzN7Urnc-HOJioFeIjzOfw8OjcZXzSgwPM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27ad15f563242806e735c…",
-      "date": "2026-08-10",
-      "link": "https://www.reddit.com/r/space/comments/1vkhfzt/perseid_meteor_shower_set_to_dazzle_northern/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vkghis/space_agencies_are_trying_to_keep_astronauts_from/\"> <img src=\"https://external-preview.redd.it/8l46c4oQQl9FzK6bZCoATq2p1BdCoADDDMoPvYurN08.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b635d32e3bd3a24b…",
-      "date": "2026-08-10",
-      "link": "https://www.reddit.com/r/space/comments/1vkghis/space_agencies_are_trying_to_keep_astronauts_from/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "Lion Nebula Roars to Life With NASA’s Webb",
-      "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA’s Hubble Space Telescope previously viewed this planetary nebula in 2000, imaging the lion face-shaped target in visible light and…",
-      "date": "2026-08-10",
-      "link": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/"
+      "title": "Building the Moon Base: NASA Stories at the Ion",
+      "summary": "As NASA prepares to return astronauts to the lunar surface for longer stays and increasingly complex operations, building the Moon Base will require new ideas, advanced technologies, and expertise across many fields.",
+      "date": "2026-08-11",
+      "link": "https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/"
     },
     {
       "sourceId": "nasa",
-      "title": "Launch Into a New School Year With NASA",
-      "summary": "A new school year brings fresh opportunities to get involved with NASA. Whether you’re curious about space or eager to build real STEM skills, NASA offers a world of experiences putting you close to the action.",
-      "date": "2026-08-10",
-      "link": "https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/"
+      "title": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
+      "summary": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond.",
+      "date": "2026-08-11",
+      "link": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 August 10 – Three Galaxy Pairs",
-      "summary": "APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos!",
-      "date": "2026-08-10",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/"
+      "title": "Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity",
+      "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, July 31, 2026 As mentioned in the previous blog, Curiosity has been exploring a large-scale feature in Gale’s sedimentary record suspected to be an “erosional…",
+      "date": "2026-08-11",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/"
     },
     {
       "sourceId": "nasa",
-      "title": "El Niño Alters Marine Life in the Pacific",
-      "summary": "Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026.",
-      "date": "2026-08-10",
-      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/"
+      "title": "APOD: 2026 August 11 – Six Moons of Saturn",
+      "summary": "APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-08-11",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 August 9 – Contemplating the Sun",
-      "summary": "APOD Science APOD APOD: 2026 August 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-08-09",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-9-contemplating-the-sun/"
+      "title": "Bountiful Roebuck Bay",
+      "summary": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region.",
+      "date": "2026-08-11",
+      "link": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/"
     }
   ]
 }
