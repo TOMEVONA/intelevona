@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-13T14:23:37.965Z",
+  "updated": "2026-08-13T14:51:18.070Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "An optical link ‘internet’ to connect networks in space",
+      "summary": "In this episode, David Ariosto speaks with John Mackey, CEO, co-founder and director of Mbryonics. They discuss building optical links for satellites and other space infrastructure, and what it would",
+      "date": "2026-08-13",
+      "link": "https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
+      "summary": "Paris, France | July 2026 — The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novaspace’s newly",
+      "date": "2026-08-13",
+      "link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Paragon lays off staff after Gateway cancellation",
@@ -21,20 +35,6 @@
       "summary": "Virgin Galactic says it will not start commercial flights of its new suborbital spaceplane until early 2027, a delay of a few months. The post Virgin Galactic delays resumption of commercial flights to 2027 appeared first on SpaceNews .",
       "date": "2026-08-13",
       "link": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
-      "summary": "A $28 million contract expansion adds Victus Salo 2 and 3 to an earlier award for responsive-space missions The post Space Force orders two more Impulse Space vehicles for maneuvering demonstrations appeared first on SpaceNews .",
-      "date": "2026-08-12",
-      "link": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Pentagon missile buildup changing the factory floor",
-      "summary": "Startups are bringing software, robotics and manufacturing methods developed around commercial space into a defense industry under pressure to produce weapons faster The post Pentagon missile buildup changing the factory floor appeared first on SpaceNews .",
-      "date": "2026-08-12",
-      "link": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/"
     },
     {
       "sourceId": "tectonic",
@@ -248,38 +248,38 @@
     },
     {
       "sourceId": "viasat",
+      "title": "Planet Labs to Support Government, Public Services in Rwanda",
+      "summary": "The Rwanda Government is looking to tap more into the benefits of satellite technology. It is teaming up with Planet Labs as it plans to launch a new national program",
+      "date": "2026-08-13",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/13/planet-labs-to-support-government-public-services-in-rwanda/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Mantis Space Appoints Ex-Boeing Exec as CTO",
+      "summary": "Mantis Space has appointed ex-Boeing exec Dale Parkes as its new CTO. His appointment comes as the company is building its constellation of spacecraft to orbit Earth in almost continual",
+      "date": "2026-08-13",
+      "link": "https://www.satellitetoday.com/people/2026/08/13/mantis-space-appoints-ex-boeing-exec-as-cto/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Impulse Space Wins New Space Force Contract",
+      "summary": "Impulse Space has won further business with U.S. Space Force. It has won a $28 million Small Business Innovation Research (SBIR) Phase III contract extension in support of two missions:",
+      "date": "2026-08-13",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/13/impulse-space-wins-new-space-force-contract/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Telesat Remains Optimistic About Lightspeed Despite Shaky 1H26 Financial Results, Looming Debt",
+      "summary": "Canadian satellite operator Telesat’s latest financial results paint a picture of short-term pain in the first six months of 2026 and raises concern over debt that matures in the next",
+      "date": "2026-08-13",
+      "link": "https://www.satellitetoday.com/finance/2026/08/13/telesat-remains-optimistic-about-lightspeed-despite-shaky-1h26-financial-results-looming-debt/"
+    },
+    {
+      "sourceId": "viasat",
       "title": "Optus Completes First Part of Project Aurora",
       "summary": "Optus, an Australian based telco and satellite player, has achieved a key milestone in the area of satellite life extension. It has completed the first phase of Project Aurora, with",
       "date": "2026-08-12",
       "link": "https://www.satellitetoday.com/sustainability/2026/08/12/optus-completes-first-part-of-project-aurora/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Marlink to Acquire U.K. Defense Comms Specialist GRC",
-      "summary": "Marlink has made a significant move as it looks to better position itself in the European government, defense and critical infrastructure markets. It is to acquire Global RadioData Communications (GRC),",
-      "date": "2026-08-12",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/12/marlink-to-acquire-u-k-defense-comms-specialist-grc/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Space42 and Leonardo DRS to Boost UAE National Security",
-      "summary": "Space42 has signed a key new sovereign national security deal with Leonardo DRS to boost security across the United Arab Emirates (UAE). The MoU will see Leonardo DRS contribute its",
-      "date": "2026-08-12",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/12/space42-and-leonardo-drs-to-boost-uae-national-security/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Rocket Lab Margins Under the Microscope Following 2Q Earnings",
-      "summary": "Rocket Lab became the latest space company to experience earnings scrutiny from investors after it released its second quarter (2Q) earnings late Monday. All eyes were focused on the long",
-      "date": "2026-08-11",
-      "link": "https://www.satellitetoday.com/finance/2026/08/11/rocket-lab-margins-under-the-microscope-following-2q-earnings/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "DamoTech Joins Space ISAC",
-      "summary": "DamoTech is the latest company to join the Space Information Sharing and Analysis Center (Space ISAC). The company specializes in advanced cybersecurity in the space sector. This significant development is",
-      "date": "2026-08-11",
-      "link": "https://www.satellitetoday.com/cybersecurity/2026/08/11/damotech-joins-space-isac/"
     },
     {
       "sourceId": "spacecom",
