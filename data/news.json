@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T14:17:22.410Z",
+  "updated": "2026-08-14T14:45:12.136Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Centcom Launches First-Ever Multinational Attack Drone Task Force",
+      "summary": "U.S. Central Command announced efforts to establish the first multidomain, multinational attack drone task force, which will employ one-way attack drones operated by military support staff from the United States and regional partners.",
+      "date": "2026-08-14",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4573946/centcom-launches-first-ever-multinational-attack-drone-task-force/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Southcom Mission Shifts to Protecting Sovereignty of U.S., Partner Nations",
       "summary": "Secretary of War Pete Hegseth met in Panama with U.S. service members who are learning how to survive in the most brutal, unforgiving jungles of the Western Hemisphere, all while retaining their combat effectiveness.",
       "date": "2026-08-13",
@@ -238,13 +245,6 @@
       "summary": "The U.S. Army Corps of Engineers Pittsburgh District is rehabilitating two cranes used for the past 84 years to position the steel gates that manage water output at the Loyalhanna Dam in Saltsburg, Pa.",
       "date": "2026-08-12",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4570097/army-corps-of-engineers-rehabilitates-1942-flood-mitigation-machinery/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Naval Academy Integrates Robotics, Autonomous Systems Into Summer Training",
-      "summary": "U.S. Naval Academy midshipmen recently deployed robotics and autonomous systems directly from 100-foot yard patrol craft for the first time, marking an important milestone in preparing future naval leaders for an increasingly autonomous maritime battlespace.",
-      "date": "2026-08-12",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4569991/naval-academy-integrates-robotics-autonomous-systems-into-summer-training/"
     },
     {
       "sourceId": "viasat",
@@ -283,17 +283,17 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
-      "summary": "On Aug. 14, 1992, a space rock entered the atmosphere over Mbale, Uganda and exploded into hundreds of pieces!",
-      "date": "2026-08-14",
-      "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda"
-    },
-    {
-      "sourceId": "spacecom",
       "title": "The ISS photobombs the sun during the total solar eclipse | Space photo of the day for Aug. 14, 2026",
       "summary": "The silhouette of the ISS transiting across the sun's face during the Aug. 12, 2026 total solar eclipse.",
       "date": "2026-08-14",
       "link": "https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
+      "summary": "On Aug. 14, 1992, a space rock entered the atmosphere over Mbale, Uganda and exploded into hundreds of pieces!",
+      "date": "2026-08-14",
+      "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda"
     },
     {
       "sourceId": "spacecom",
