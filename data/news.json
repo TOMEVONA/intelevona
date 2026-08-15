@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-14T14:45:12.136Z",
+  "updated": "2026-08-15T13:33:40.254Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
+      "summary": "The Aug. 10 launch of QZS-7 completes bilateral program to host U.S. sensors aboard Japanese navigation satellites The post U.S. Space Force adds second surveillance sensor to Japanese constellation appeared first on SpaceNews .",
+      "date": "2026-08-14",
+      "link": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Wallops gears up for an increase in launches",
+      "summary": "With a projected surge in launches from Wallops Island in the coming years, companies and officials say now is the time for infrastructure improvements to benefit companies and their workers. The post Wallops gears up for an increase in launches appeared first on SpaceNews .",
+      "date": "2026-08-14",
+      "link": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Spire and PlanetiQ win NOAA radio-occultation contracts",
+      "summary": "SAN FRANCISCO – The National Oceanic and Atmospheric Administration has awarded contracts to Spire Global and PlanetiQ to provide radio occultation data for terrestrial and space weather forecasts. The NOAA",
+      "date": "2026-08-14",
+      "link": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.",
@@ -14,27 +35,6 @@
       "summary": "Blue Origin disclosed new details about its plans to not only rebuild but also expand its Florida launch site, adding a second pad for a larger version of New Glenn. The post Blue Origin outlines plans for second Cape Canaveral launch pad appeared first on SpaceNews .",
       "date": "2026-08-14",
       "link": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Intuitive Machines wins contract for three GEO satellites",
-      "summary": "Intuitive Machines announced Aug. 13 that it won a $600 million contract from an undisclosed customer for three geostationary orbit communications satellites. The post Intuitive Machines wins contract for three GEO satellites appeared first on SpaceNews .",
-      "date": "2026-08-14",
-      "link": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Bulgaria advances project to launch new space, defense innovation hub",
-      "summary": "WARSAW, Poland — Bulgaria’s government has approved a draft memorandum of understanding with local company Starbase Europe to collaborate on the development of a new space and defense innovation hub",
-      "date": "2026-08-14",
-      "link": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
-      "summary": "Paris, France | August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in cumulative service revenues over the next decade, highlighting the early development",
-      "date": "2026-08-14",
-      "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/"
     },
     {
       "sourceId": "tectonic",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "U.S. Forces Japan Airlifts Supplies to Region Recovering From Earthquake",
+      "summary": "U.S. Forces Japan rapidly delivered more than 100,000 pounds of humanitarian aid to Kumamoto Prefecture, Japan, following a devastating earthquake.",
+      "date": "2026-08-14",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4574045/us-forces-japan-airlifts-supplies-to-region-recovering-from-earthquake/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Centcom Launches First-Ever Multinational Attack Drone Task Force",
       "summary": "U.S. Central Command announced efforts to establish the first multidomain, multinational attack drone task force, which will employ one-way attack drones operated by military support staff from the United States and regional partners.",
       "date": "2026-08-14",
@@ -240,15 +247,22 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/"
     },
     {
-      "sourceId": "dod",
-      "title": "Army Corps of Engineers Rehabilitates 1942 Flood Mitigation Machinery",
-      "summary": "The U.S. Army Corps of Engineers Pittsburgh District is rehabilitating two cranes used for the past 84 years to position the steel gates that manage water output at the Loyalhanna Dam in Saltsburg, Pa.",
-      "date": "2026-08-12",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4570097/army-corps-of-engineers-rehabilitates-1942-flood-mitigation-machinery/"
+      "sourceId": "viasat",
+      "title": "Space Force Awards Space Data Network Contracts to Five Satellite Manufacturers",
+      "summary": "The U.S Space Force has awarded a series of contracts to five companies as it looks to reap the benefits of a a more diverse multi-vendor architecture approach related to",
+      "date": "2026-08-14",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/14/space-force-awards-space-data-network-contracts-to-five-satellite-manufacturers/"
     },
     {
       "sourceId": "viasat",
-      "title": "CesiumAstro Initiates Acquisition of Semiconductor Company Jariet Technologies",
+      "title": "Astranis Unveils Perceptor Space Domain Awareness GEO Satellite",
+      "summary": "Astranis is bringing to market a new space domain awareness and maneuverability satellite for GEO orbit, called “Perceptor,” the company announced Thursday. Adding the satellite is Astranis’ latest effort to",
+      "date": "2026-08-14",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/08/14/astranis-unveils-perceptor-space-domain-awareness-geo-satellite/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "CesiumAstro Acquires Semiconductor Company Jariet Technologies",
       "summary": "CesiumAstro is to acquire Jariet Technologies in a major acquisition that aims to boosts its ability to deliver communications and sensing systems across commercial, civil and national security customers. Jariet",
       "date": "2026-08-14",
       "link": "https://www.satellitetoday.com/technology/2026/08/14/cesiumastro-initiates-acquisition-of-semiconductor-company-jariet-technologies/"
@@ -268,53 +282,60 @@
       "link": "https://www.satellitetoday.com/people/2026/08/13/mantis-space-appoints-ex-boeing-exec-as-cto/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Impulse Space Wins New Space Force Contract",
-      "summary": "Impulse Space has won further business with U.S. Space Force. It has won a $28 million Small Business Innovation Research (SBIR) Phase III contract extension in support of two missions:",
-      "date": "2026-08-13",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/13/impulse-space-wins-new-space-force-contract/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Telesat Remains Optimistic About Lightspeed Despite Shaky 1H26 Financial Results, Looming Debt",
-      "summary": "Canadian satellite operator Telesat’s latest financial results paint a picture of short-term pain in the first six months of 2026 and raises concern over debt that matures in the next",
-      "date": "2026-08-13",
-      "link": "https://www.satellitetoday.com/finance/2026/08/13/telesat-remains-optimistic-about-lightspeed-despite-shaky-1h26-financial-results-looming-debt/"
+      "sourceId": "spacecom",
+      "title": "'Lanterns': Who's who in HBO's Green Lantern show?",
+      "summary": "In brightest day, in blackest night, no Lanterns character shall escape our sight!",
+      "date": "2026-08-15",
+      "link": "https://www.space.com/entertainment/space-movies-shows/lanterns-whos-who-in-hbos-green-lantern-show"
     },
     {
       "sourceId": "spacecom",
-      "title": "The ISS photobombs the sun during the total solar eclipse | Space photo of the day for Aug. 14, 2026",
-      "summary": "The silhouette of the ISS transiting across the sun's face during the Aug. 12, 2026 total solar eclipse.",
-      "date": "2026-08-14",
-      "link": "https://www.space.com/stargazing/solar-eclipses/the-iss-photobombs-the-sun-during-the-total-solar-eclipse-space-photo-of-the-day-for-aug-14-2026"
+      "title": "This Week In Space podcast: Episode 223 — The Lunar Domain",
+      "summary": "On Episode 223 of This Week In Space, Rod Pyle and guest co-host Dale Skran are joined by Dr. Scott Pace to discuss the future of exploration on the Moon.",
+      "date": "2026-08-15",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-223-the-lunar-domain"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
-      "summary": "On Aug. 14, 1992, a space rock entered the atmosphere over Mbale, Uganda and exploded into hundreds of pieces!",
-      "date": "2026-08-14",
-      "link": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda"
+      "title": "We think these Nikon binoculars are excellent for variable magnification on the go",
+      "summary": "Get everything between 10x and 22x with Nikon’s new Action Zoom 10-22x50 binoculars",
+      "date": "2026-08-15",
+      "link": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-these-nikon-binoculars-are-brilliant-for-variable-magnification-on-the-go"
     },
     {
       "sourceId": "spacecom",
-      "title": "India-US space ties deepen as NASA invites ISRO to join moon base program",
-      "summary": "NASA has invited the Indian Space Research Organisation to collaborate on its Moon Base program, which aims to build a permanent human outpost near the lunar south pole.",
+      "title": "'Strap yourself in and feel the Gs': NASA announces 'Max Power' aerospace expo",
+      "summary": "NASA announced today (Aug. 14) that it will hold a two-day aerospace expo this November — an event whose name should draw a chuckle from \"Simpsons\" fans.",
       "date": "2026-08-14",
-      "link": "https://www.space.com/astronomy/moon/india-us-space-ties-deepen-as-nasa-invites-isro-to-join-moon-base-program"
+      "link": "https://www.space.com/space-exploration/strap-yourself-in-and-feel-the-gs-nasa-announces-max-power-aerospace-expo"
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX rocket's moon crash highlights 'a tangible operational risk' of lunar settlement",
-      "summary": "A SpaceX rocket body slammed into the moon earlier this month, showcasing a risk that will increase as humanity establishes a footprint on Earth's nearest neighbor.",
+      "title": "Is empty space really empty? This magnetic star may finally solve a 90-year-old mystery",
+      "summary": "\"We're not just studying astronomical objects anymore; we're using them to test the laws of nature.\"",
       "date": "2026-08-14",
-      "link": "https://www.space.com/astronomy/moon/spacex-rockets-moon-crash-highlights-a-tangible-operational-risk-of-lunar-settlement"
+      "link": "https://www.space.com/astronomy/stars/is-empty-space-really-empty-this-magnetic-star-may-finally-solve-a-90-year-old-mystery"
     },
     {
-      "sourceId": "spacecom",
-      "title": "Our expert thinks this portable Celestron telescope will delight beginners and younger stargazers",
-      "summary": "The perfect instrument for introducing beginner astronomers to the moon and stars",
+      "sourceId": "rspace",
+      "title": "Ukraine’s Flamingo Missiles Strike Russia’s Soyuz Rocket Factory Behind Its Starlink Rival",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vp10a2/ukraines_flamingo_missiles_strike_russias_soyuz/\"> <img src=\"https://external-preview.redd.it/BrruMPeZyTLucK2YoUKTeCE7fA7BIBgfNKBWvBQvRNM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9265f7349e27e3e7c3…",
+      "date": "2026-08-15",
+      "link": "https://www.reddit.com/r/space/comments/1vp10a2/ukraines_flamingo_missiles_strike_russias_soyuz/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Dr. Robert Zubrin, President of the Mars Society, to Headline 2026 Voices for Mars: Global Youth Roundtable: Watch the live Zoom interview on Wednesday, August 26, at 4:00 pm ET.",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/EdwardHeisler\"> /u/EdwardHeisler </a> <br/> <span><a href=\"https://www.reddit.com/r/MarsSociety/new/\">[link]</a></span> &#32; <span><a…",
       "date": "2026-08-14",
-      "link": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-this-portable-celestron-telescope-will-delight-beginners-and-younger-stargazers"
+      "link": "https://www.reddit.com/r/space/comments/1vobzmt/dr_robert_zubrin_president_of_the_mars_society_to/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Corundum Discovered by SuperCam and the Perseverance Rover at Jezero Crater, Mars",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/peterabbit456\"> /u/peterabbit456 </a> <br/> <span><a href=\"https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122537\">[link]</a></span> &#32; <span><a…",
+      "date": "2026-08-14",
+      "link": "https://www.reddit.com/r/space/comments/1vob0qv/corundum_discovered_by_supercam_and_the/"
     },
     {
       "sourceId": "rspace",
@@ -329,27 +350,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vnyw4e/the_moons_shadow_sweeps_across_the_arctic_ocean/\"> <img src=\"https://external-preview.redd.it/M7a3kRJcc8cGwmsr73ZRsRpZBX_cqFL5LU1QzdqQqOE.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=895e6ca9ed88a78a10…",
       "date": "2026-08-14",
       "link": "https://www.reddit.com/r/space/comments/1vnyw4e/the_moons_shadow_sweeps_across_the_arctic_ocean/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "New Horizons PI update",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Reasonable_Night_247\"> /u/Reasonable_Night_247 </a> <br/> <span><a href=\"https://pluto.jhuapl.edu/News-Center/PI-Perspectives.php?page=piPerspective_08_13_2026\">[link]</a></span> &#32; <span><a…",
-      "date": "2026-08-14",
-      "link": "https://www.reddit.com/r/space/comments/1vnvdzb/new_horizons_pi_update/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Solar eclipse of August 2, 2027 (gif) [250x270]",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vnr9yj/solar_eclipse_of_august_2_2027_gif_250x270/\"> <img src=\"https://external-preview.redd.it/9hkg9i2e48jh1.gif?width=216&amp;crop=smart&amp;s=646fb3c2b8a40c71380c8ed2343c6c660d9101d8\" alt=\"Solar eclipse of…",
-      "date": "2026-08-13",
-      "link": "https://www.reddit.com/r/space/comments/1vnr9yj/solar_eclipse_of_august_2_2027_gif_250x270/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Solar eclipse of August 12, 2026 (gif) [250x270]",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vnr9j1/solar_eclipse_of_august_12_2026_gif_250x270/\"> <img src=\"https://external-preview.redd.it/buh0bw1u08jh1.gif?width=216&amp;crop=smart&amp;s=9523297da27a43a142ff96ec51a12698ec087615\" alt=\"Solar eclipse of…",
-      "date": "2026-08-13",
-      "link": "https://www.reddit.com/r/space/comments/1vnr9j1/solar_eclipse_of_august_12_2026_gif_250x270/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
-      "summary": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
+      "summary": "APOD Science APOD APOD: 2026 August 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-08-15",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
+      "summary": "NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology.",
       "date": "2026-08-14",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/"
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/"
     },
     {
       "sourceId": "nasa",
-      "title": "A Sunflower’s View of Totality",
-      "summary": "The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026.",
+      "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
+      "summary": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida.",
       "date": "2026-08-14",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/"
+      "link": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s 737 Reveals New Paint",
-      "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency.",
-      "date": "2026-08-13",
-      "link": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/"
+      "title": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds",
+      "summary": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the…",
+      "date": "2026-08-14",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/"
     },
     {
       "sourceId": "nasa",
-      "title": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
-      "summary": "Growing up in Grafton, West Virginia, engrossed in Star Wars and all things science fiction, Fletcher Newell had an early interest in space exploration.",
-      "date": "2026-08-13",
-      "link": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Perseids Meteor Shower",
-      "summary": "The constellation Orion is framed by two Perseid meteors in this photo from Aug. 12, 2018, in Cedar Breaks National Monument, Utah. The Perseids – one of the year’s brightest and most popular meteor showers – has been ramping up since early July and will sparkle in the skies…",
-      "date": "2026-08-13",
-      "link": "https://www.nasa.gov/image-article/perseids-meteor-shower-2/"
+      "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
+      "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever.",
+      "date": "2026-08-14",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/"
     }
   ]
 }
