@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T13:34:46.736Z",
+  "updated": "2026-08-16T14:16:02.093Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "On this day in space! Aug. 16, 1963: Wingless M2-F1 completes 1st glide flight",
+      "summary": "On this day in space Aug. 16, 1963: NASA's M2-F1 aircraft prototype makes its first glide flight.",
+      "date": "2026-08-16",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/on-this-day-in-space-aug-16-1963-wingless-m2-f1-completes-1st-glide-flight"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "Artemis II pilot thanks NASA for letting him fly Orion by hand: 'I'm still blown away by that trust'",
       "summary": "The Artemis II crew thanked NASA and its contractors in front of a crowd of over 8,000 on on Aug. 3, 2026 at Red Rocks Amphitheatre in Colorado.",
       "date": "2026-08-16",
@@ -308,13 +315,6 @@
       "summary": "SpaceX launched two of its Falcon 9 rockets just 38 minutes apart on Saturday evening (Aug. 15), setting a new spaceflight record.",
       "date": "2026-08-16",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-breaks-record-launch-doubleheader-ussf-366-globalstar-2r"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 15, 1977: Mysterious 'Wow!' Signal boosts search for E.T.",
-      "summary": "On Aug. 15, 1977, astronomers using Ohio State University's Big Ear radio telescope detected the famous \"Wow!\" signal, which remains unexplained to this day.",
-      "date": "2026-08-15",
-      "link": "https://www.space.com/space-exploration/search-for-life/on-this-day-in-space-aug-15-1977-mysterious-wow-signal-boosts-search-for-e-t"
     },
     {
       "sourceId": "rspace",
