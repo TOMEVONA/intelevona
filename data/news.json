@@ -1,40 +1,40 @@
 {
-  "updated": "2026-08-20T14:29:01.374Z",
+  "updated": "2026-08-21T13:49:41.611Z",
   "articles": [
     {
       "sourceId": "spacenews",
-      "title": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
-      "summary": "Portal Space Systems has acquired a Falcon 9 to launch its first Supernova spacecraft and will offer excess capacity on the vehicle for rideshare payloads. The post Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova appeared first on SpaceNews .",
-      "date": "2026-08-20",
-      "link": "https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova/"
+      "title": "The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.",
+      "summary": "Policy documents from both the White House and the Office of Space Commerce this summer acknowledge that space is a complex system, as to which forms of adaptive governance should",
+      "date": "2026-08-21",
+      "link": "https://spacenews.com/the-cosmosis-framework-can-ensure-that-washington-governs-space-with-its-complexity-in-mind/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
-      "summary": "San Diego, CA – Rock West Composites (RWC) is premiering its recently launched space-grade STRATOPultrusion™ product line at the 2026 Small Satellite Conference this August in Salt Lake City, Utah.",
-      "date": "2026-08-20",
-      "link": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/"
+      "title": "Landspace aims to refly recovered Zhuque-3 booster within six months",
+      "summary": "HELSINKI — Chinese commercial launch firm Landspace is targeting a reflight of its Zhuque-3 first stage in months, following its historic successful vertical landing Aug. 18. A company representative told",
+      "date": "2026-08-21",
+      "link": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months/"
     },
     {
       "sourceId": "spacenews",
-      "title": "China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch",
-      "summary": "HELSINKI — China will launch a complex, multi-spacecraft mission late Sunday to study and land near the lunar south pole, including a search for evidence of water-ice. A Long March",
+      "title": "New space transportation policy focuses on increased launch rates",
+      "summary": "The White House released a new space transportation policy Aug. 20 with an emphasis on enabling a sharp increase in the number of launches and reentries. The post New space transportation policy focuses on increased launch rates appeared first on SpaceNews .",
       "date": "2026-08-20",
-      "link": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch/"
+      "link": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/"
     },
     {
       "sourceId": "spacenews",
-      "title": "Muon Space raises $250 million to ramp up satellite production",
-      "summary": "Muon Space has raised $250 million to fuel the small satellite specialist’s push into larger, more powerful spacecraft and constellations. The post Muon Space raises $250 million to ramp up satellite production appeared first on SpaceNews .",
+      "title": "Golden Dome chief touts progress as funding questions loom",
+      "summary": "Guetlein joins North Dakota senators in making the case for the missile defense program The post Golden Dome chief touts progress as funding questions loom appeared first on SpaceNews .",
       "date": "2026-08-20",
-      "link": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production/"
+      "link": "https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/"
     },
     {
       "sourceId": "spacenews",
-      "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
-      "summary": "SAN FRANCISCO / PERTH, 20 AUGUST 2026: LatConnect 60 (LC60) has signed a commercial contract with Transcelestial for an optical communications terminal on its SWIRSAT-1 mission, plus access to Transcelestial’s",
+      "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
+      "summary": "SAN FRANCISCO – California startup Elve has qualified its 100-watt millimeter-wave Traveling Wave Tube Amplifier platform for spaceflight. With U.S. Space Force Small Business Innovation Research funding, Elve “didn’t just",
       "date": "2026-08-20",
-      "link": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/"
+      "link": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/"
     },
     {
       "sourceId": "tectonic",
@@ -213,6 +213,20 @@
     },
     {
       "sourceId": "dod",
+      "title": "Corps of Engineers Modernizes Historic Fort Sill Barracks",
+      "summary": "Behind the historic facade of Building 900 at U.S. Army Garrison, Fort Sill, Okla., the U.S. Army Corps of Engineers, Tulsa District, is executing a high-tech modernization project that will make it one of the most structurally reinforced buildings on the installation.",
+      "date": "2026-08-20",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4578917/corps-of-engineers-modernizes-historic-fort-sill-barracks/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "USS George Washington Celebrates Historic Aircraft Milestone",
+      "summary": "After 34 years of continuous service projecting American sea power, the aircraft carrier USS George Washington achieved a major aviation milestone by recovering its 200,000th fixed-wing aircraft while underway in the Indian Ocean.",
+      "date": "2026-08-20",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4578782/uss-george-washington-celebrates-historic-aircraft-milestone/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Learning With Every Launch: Inside Exercise Cold Raptor",
       "summary": "During Exercise Cold Raptor in Poland, soldiers launched micro-high-altitude balloons into the stratosphere to test emerging sensing and communication technologies.",
       "date": "2026-08-19",
@@ -233,123 +247,109 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4576945/uss-essex-hosts-tiger-cruise-on-return-to-san-diego/"
     },
     {
-      "sourceId": "dod",
-      "title": "Army Develops Ultra-Light Vehicle for Changing Battlefields",
-      "summary": "In fielding the Infantry Squad Vehicle, an ultra-light tactical vehicle that carries nine passengers and their equipment, the Army took a rapid acquisition approach, using commercial off-the-shelf solutions and minimal military modifications.",
-      "date": "2026-08-18",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4576723/army-develops-ultra-light-vehicle-for-changing-battlefields/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "United Nations Command Pays Tribute to Fallen Soldiers During 50th Commemoration of Attack",
-      "summary": "The United Nations Command commemorated the sacrifice of Army Capt. Arthur Bonifas and 1st Lt. Mark Barrett, who were killed in an unprovoked attack 50 years ago in the Korean Demilitarized Zone, in the name of peace and stability.",
-      "date": "2026-08-18",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4576426/united-nations-command-pays-tribute-to-fallen-soldiers-during-50th-commemoratio/"
+      "sourceId": "viasat",
+      "title": "Sypris Electronics Wins Manufacturing Deal to Support LEO Constellation",
+      "summary": "Sypris Electronics has won a major new contract to support an unnamed Low-Earth Orbit (LEO) constellation. The company manufacture power processing units for an unnamed, next-generation satellite constellation. Sypris Electronics,",
+      "date": "2026-08-20",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/08/20/sypris-electronics-wins-manufacturing-deal-to-support-leo-constellation/"
     },
     {
       "sourceId": "viasat",
-      "title": "TGS Taps Speedcast for All-LEO Solution",
-      "summary": "Speedcast has secured another connectivity deal in the energy industry. It has implemented an all-LEO solution across the fleet of TGS, a global provider of data and intelligence to the",
-      "date": "2026-08-19",
-      "link": "https://www.satellitetoday.com/connectivity/2026/08/19/tgs-taps-speedcast-for-all-leo-solution/"
+      "title": "Muon Space Raises $250M Series C to Build Large-Scale Constellations",
+      "summary": "Muon Space closed a $250 million Series C round as the satellite manufacturer looks to accelerate building large-scale constellations and grow differentiated mission capabilities. This brings the company’s total fundraising",
+      "date": "2026-08-20",
+      "link": "https://www.satellitetoday.com/finance/2026/08/20/muon-space-raises-250m-series-c-to-build-large-scale-constellations/"
     },
     {
       "sourceId": "viasat",
-      "title": "Will Cocos to Lead Vantor’s US Government Business",
-      "summary": "Vantor has new leadership for its U.S. government business, appointing Will Cocos as executive vice president and general manager to lead the company’s business in U.S. defense, intelligence and civil",
-      "date": "2026-08-19",
-      "link": "https://www.satellitetoday.com/people/2026/08/19/will-cocos-to-lead-vantors-us-government-business/"
+      "title": "Phantom Space Names Worth Wray as COO",
+      "summary": "Phantom Space has appointed Worth Wray as chief operating officer with responsibility for day-to-day operations, operational efficiency, capital formation, and scaling business processes, as the company works to ramp up",
+      "date": "2026-08-20",
+      "link": "https://www.satellitetoday.com/people/2026/08/20/phantom-space-names-worth-wray-as-coo/"
     },
     {
       "sourceId": "viasat",
-      "title": "Katalyst Link Mission is Unable to Rescue NASA Swift Observatory",
-      "summary": "The recently launched Katalyst Space servicing mission to boost NASA’s Swift Observatory won’t be able to complete the rescue, NASA and Katalyst confirmed Wednesday. After the Katalyst Link spacecraft was",
-      "date": "2026-08-19",
-      "link": "https://www.satellitetoday.com/technology/2026/08/19/katalyst-link-mission-is-unable-to-rescue-nasa-swift-observatory/"
+      "title": "Rocket Lab Launches SAR Satellite for Japan’s iQPS",
+      "summary": "Rocket Lab completed its ninth launch for Japanese synthetic aperture radar (SAR) company Institute for Q-shu Pioneers of Space, Inc. (iQPS) on Aug. 21 from New Zealand. iQPS based in",
+      "date": "2026-08-20",
+      "link": "https://www.satellitetoday.com/launch/2026/08/20/rocket-lab-launches-sar-satellite-for-japans-iqps/"
     },
     {
       "sourceId": "viasat",
-      "title": "Kratos Reports Growing Tri-Band Antenna Demand and Debuts New Model",
-      "summary": "Kratos Defense & Security Solutions has received multi-million-dollar orders from multiple international customers for GAIA antenna systems by Orbit Communication Systems, now a Kratos company. These orders support Earth Observation",
-      "date": "2026-08-19",
-      "link": "https://www.satellitetoday.com/technology/2026/08/19/kratos-reports-growing-tri-band-antenna-demand-and-debuts-new-model/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "The Rogue Element: How Transnational Cartels Could Establish an Asymmetric Lunar Presence",
-      "summary": "The Mitchell Institute for Aerospace Studies recently upended the space policy community with a stark warning: the U.S. Space Force must prepare for an “in-person” lunar conflict with China. The",
-      "date": "2026-08-19",
-      "link": "https://www.satellitetoday.com/opinion/2026/08/19/the-rogue-element-how-transnational-cartels-could-establish-an-asymmetric-lunar-presence/"
+      "title": "Rocket Lab’s Bold Move to Acquire Iridium: Analysts Break Down the Strategy",
+      "summary": "2026 continues to be a seismic year for news in the satellite sector. On June 29, in one of the biggest, and maybe even surprising stories of the year, Rocket",
+      "date": "2026-08-20",
+      "link": "https://www.satellitetoday.com/connectivity/2026/08/20/rocket-labs-bold-move-to-acquire-iridium-analysts-break-down-the-strategy/"
     },
     {
       "sourceId": "spacecom",
-      "title": "Try not to be hypnotized by the 'Eye of Africa' | Space photo of the day for Aug. 20, 2026",
-      "summary": "This geologic feature has been mesmerizing astronauts since 1965.",
-      "date": "2026-08-20",
-      "link": "https://www.space.com/astronomy/earth/try-not-to-be-hypnotized-by-the-eye-of-africa-space-photo-of-the-day-for-aug-20-2026"
+      "title": "My favorite thing in the night sky appears on Aug. 28 — and it proves Earth is a sphere",
+      "summary": "We'll soon get a chance to see a giant curved shadow in space move slowly across the moon during a very deep partial lunar eclipse. There are few more awesome or enlightening sights.",
+      "date": "2026-08-21",
+      "link": "https://www.space.com/stargazing/my-favorite-thing-in-the-night-sky-appears-on-aug-28-and-it-proves-earth-is-a-sphere"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets",
-      "summary": "On this day in space! Aug. 20, 1977: NASA launched the Voyager 2 spacecraft on a mission to explore the outer planets.",
-      "date": "2026-08-20",
-      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets"
+      "title": "Could 'dark photons' explain dark matter?",
+      "summary": "New research suggests that if dark matter is composed of \"dark photons,\" it would not have heated the early cosmos like scientists thought.",
+      "date": "2026-08-21",
+      "link": "https://www.space.com/astronomy/dark-universe/could-dark-photons-explain-dark-matter"
     },
     {
       "sourceId": "spacecom",
-      "title": "James Webb Space Telescope finds 'hidden stars' making the universe's 1st galaxies much bigger than we knew",
-      "summary": "James Webb Space Telescope is finding that between the brightest stars, the cosmic skyscrapers, there are much fainter stars, meaning early galaxies are more massive than we believed.",
+      "title": "China's Chang'e 7 moon probe will launch this weekend on the most ambitious lunar mission in history",
+      "summary": "China aims to launch its Chang'e 7 moon mission on Aug. 24 to send a lander, a rover, a hopper and a wide range of science experiments to the lunar south pole.",
       "date": "2026-08-20",
-      "link": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies"
+      "link": "https://www.space.com/astronomy/moon/chinas-change-7-moon-probe-will-launch-this-weekend-on-the-most-ambitious-lunar-mission-in-history"
     },
     {
       "sourceId": "spacecom",
-      "title": "Partial lunar eclipse live: Latest news, viewing tips and live updates from Aug. 27-28 eclipse",
-      "summary": "Follow our live coverage as we count down to the deepest partial lunar eclipse until December 2028, with the latest news, viewing tips and live updates.",
+      "title": "SpaceX will try for 1st Starship tower catch 'in a few months,' Elon Musk says",
+      "summary": "SpaceX will likely try to make the first-ever catch of its Starship upper stage a few months from now, according to Elon Musk. He had earlier flagged late August as a potential date for the milestone.",
       "date": "2026-08-20",
-      "link": "https://www.space.com/news/live/partial-lunar-eclipse-2026-live-updates-one-week-to-go"
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-try-for-1st-starship-tower-catch-in-a-few-months-elon-musk-says"
     },
     {
       "sourceId": "spacecom",
-      "title": "A 96% partial lunar eclipse is just 1 week away: Here's what you need to know",
-      "summary": "Earth's curved inner shadow will darken the moon's disk during the Aug. 27-28 partial lunar eclipse.",
+      "title": "Microbes from Earth may survive on the moon, scientists find",
+      "summary": "\"Even a bootprint or a rover's tread may create a habitable area.\"",
       "date": "2026-08-20",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/a-96-percent-partial-lunar-eclipse-is-just-1-week-away-heres-what-you-need-to-know-aug-27-28"
+      "link": "https://www.space.com/astronomy/moon/microbes-from-earth-may-survive-on-the-moon-scientists-find"
     },
     {
       "sourceId": "rspace",
-      "title": "Canada’s Scrappy Rocket Startups Aim for Sovereign Space Launch",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vtkjug/canadas_scrappy_rocket_startups_aim_for_sovereign/\"> <img src=\"https://external-preview.redd.it/ODATofMzgTdcbAS0vvrkbzmFJiqE5edmTBYLOvHjXfw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4b0ed131621c8b8c…",
-      "date": "2026-08-20",
-      "link": "https://www.reddit.com/r/space/comments/1vtkjug/canadas_scrappy_rocket_startups_aim_for_sovereign/"
+      "title": "‘Earth-like’ exoplanets may exist—but we don’t know of any yet",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vugug5/earthlike_exoplanets_may_existbut_we_dont_know_of/\"> <img src=\"https://external-preview.redd.it/gwCI3165wubP1O31MkBkUKal-9AV8GivvtBXYkh4D20.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b212809161afa390…",
+      "date": "2026-08-21",
+      "link": "https://www.reddit.com/r/space/comments/1vugug5/earthlike_exoplanets_may_existbut_we_dont_know_of/"
     },
     {
       "sourceId": "rspace",
-      "title": "China is going back to the moon in search of water ice",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vtjezp/china_is_going_back_to_the_moon_in_search_of/\"> <img src=\"https://external-preview.redd.it/edrdo2jmHyWXk8pLYBSFric8ouc5DAfuOXcz8UUkD9M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=64108224f77fa3cc25856…",
-      "date": "2026-08-20",
-      "link": "https://www.reddit.com/r/space/comments/1vtjezp/china_is_going_back_to_the_moon_in_search_of/"
+      "title": "The history of the ENTIRE universe in under 1 minute",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vufcyw/the_history_of_the_entire_universe_in_under_1/\"> <img src=\"https://external-preview.redd.it/RRhsBQu5YCmiCAZ05U7-pMGvgR2Ut3Mfa9FHoCb1PKM.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6fd6267526bf7be55128…",
+      "date": "2026-08-21",
+      "link": "https://www.reddit.com/r/space/comments/1vufcyw/the_history_of_the_entire_universe_in_under_1/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Space Review: Wishing for rockets",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Royal_Platform_6754\"> /u/Royal_Platform_6754 </a> <br/> <span><a href=\"https://www.thespacereview.com/article/5291/1\">[link]</a></span> &#32; <span><a…",
-      "date": "2026-08-20",
-      "link": "https://www.reddit.com/r/space/comments/1vthwwu/the_space_review_wishing_for_rockets/"
+      "title": "I recorded the eclipse’s umbra from the stratosphere",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone. First of all thanks for all the teachings and inspiring images from this sub!</p> <p>For a long time, I wanted to do something special for the 2026 total eclipse in Spain. I ended up launching a weather balloon with a 360 camera.",
+      "date": "2026-08-21",
+      "link": "https://www.reddit.com/r/space/comments/1vudfp3/i_recorded_the_eclipses_umbra_from_the/"
     },
     {
       "sourceId": "rspace",
-      "title": "4K footage of the Zhuque-3 Y2 rocket launch and landing, filmed from the rocket’s perspective (with a DJI ad).",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vtgykn/4k_footage_of_the_zhuque3_y2_rocket_launch_and/\"> <img src=\"https://external-preview.redd.it/VAqT5Wdqy7hW_isucSSNa5Zr0dvEo-rTg9ZD72hjOnI.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=91acffbd15c907c6875…",
-      "date": "2026-08-20",
-      "link": "https://www.reddit.com/r/space/comments/1vtgykn/4k_footage_of_the_zhuque3_y2_rocket_launch_and/"
+      "title": "Starship cinematic",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Legitimate_Flan_7620\"> /u/Legitimate_Flan_7620 </a> <br/> <span><a href=\"https://youtu.be/rDSH39hGWbg?si=QaBvwr6_-s9z6HD_\">[link]</a></span> &#32; <span><a…",
+      "date": "2026-08-21",
+      "link": "https://www.reddit.com/r/space/comments/1vu5w0e/starship_cinematic/"
     },
     {
       "sourceId": "rspace",
-      "title": "Looks like SpaceX's Starship S40 is going to get a lift home on a heavy lift vessel",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><em>\"Heavy lift Vessel Forte currently has its AIS set for Christmas Island\"</em></p> <p><em>\"It has an ETA of August 23.\"</em></p> <p><a…",
-      "date": "2026-08-20",
-      "link": "https://www.reddit.com/r/space/comments/1vtgkej/looks_like_spacexs_starship_s40_is_going_to_get_a/"
+      "title": "Dr. Robert Zubrin to Headline GYP’s 2026 Voices for Mars Global Youth Roundtable Wednesday, August 26, 2026, at 1:00 PM Pacific Time Live & Online.",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/EdwardHeisler\"> /u/EdwardHeisler </a> <br/> <span><a href=\"https://globalyouthphilanthropy.org/2026/08/11/dr-robert-zubrin-to-headline-gyps-2026-voices-for-mars-global-youth-roundtable/?utm_source=chatgpt.com\">[link]</…",
+      "date": "2026-08-21",
+      "link": "https://www.reddit.com/r/space/comments/1vu3gfn/dr_robert_zubrin_to_headline_gyps_2026_voices_for/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
-      "summary": "APOD Science APOD APOD: 2026 August 20 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "title": "Europe’s Scorching Summer",
+      "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
+      "date": "2026-08-21",
+      "link": "https://science.nasa.gov/earth/europes-scorching-summer/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "SmallSat 2026",
+      "summary": "SmallSat 2026 Join NASA in the Exhibit Hall (Booth # 635, 835, 641, and 940) for Storytelling by NASA experts. Full Agenda below. MONDAY, AUGUST 24, 9:00 – 10:00 AM WelcomeJose NunezBryceTech’s Smallsats by the Numbers: 2026Fletcher FranklinSupply Chain ObservationsBruce…",
       "date": "2026-08-20",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/"
+      "link": "https://science.nasa.gov/earth/smallsat-2026/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
-      "summary": "The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s Heliophysics Division, Flight Opportunities program, and Center of Excellence for Collaborative Innovation.",
-      "date": "2026-08-19",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/"
+      "title": "Artemis Mission Patches",
+      "summary": "A jacket decorated with Artemis I and II mission patches, along with other NASA patches hangs on the back of a chair on Thursday, Aug. 6, 2026, inside the Rocco A.",
+      "date": "2026-08-20",
+      "link": "https://www.nasa.gov/image-article/artemis-mission-patches/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
-      "summary": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned.",
-      "date": "2026-08-19",
-      "link": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/"
+      "title": "NASA Selects University Teams to Help Advance Aviation Research",
+      "summary": "NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes for small aircraft flying through cities.",
+      "date": "2026-08-20",
+      "link": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/"
     },
     {
       "sourceId": "nasa",
-      "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
-      "summary": "Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say. Published on Aug.",
-      "date": "2026-08-19",
-      "link": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Ancient Milky Way Merger",
-      "summary": "This artist’s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago.",
-      "date": "2026-08-19",
-      "link": "https://www.nasa.gov/image-article/ancient-milky-way-merger/"
+      "title": "The View from Above: The Gemini Visual Acuity Experiments",
+      "summary": "NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963.",
+      "date": "2026-08-20",
+      "link": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/"
     }
   ]
 }
