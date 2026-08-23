@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T13:35:36.153Z",
+  "updated": "2026-08-23T14:16:38.700Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -283,6 +283,20 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "How a huge fleet of 17 spacecraft discovered something surprising about solar eruptions",
+      "summary": "Taking measurements of the same CME from different vantage points in the solar system revealed the true extent of a solar eruption.",
+      "date": "2026-08-23",
+      "link": "https://www.space.com/astronomy/sun/how-a-huge-fleet-of-17-spacecraft-discovered-something-surprising-about-solar-eruptions"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "Bad weather delays launch of China's historic Chang'e 7 mission to moon's south pole",
+      "summary": "China has delayed its ambitious ice-hunting Chang'e 7 mission to the moon's south pole due to a brewing storm near the launch site. A new target date has not been announced.",
+      "date": "2026-08-23",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/bad-weather-delays-launch-of-chinas-historic-change-7-mission-to-moons-south-pole"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "Launching 10,000 tiny 'femtosats' to Saturn? NASA funds 18 futuristic spaceflight ideas",
       "summary": "NASA has chosen 18 technology proposals for its Innovative Advanced Concepts awards to help turn some out-of-the-box ideas into out-of-this-world research.",
       "date": "2026-08-23",
@@ -301,20 +315,6 @@
       "summary": "Acclaimed literary critic and Senior Editor at The Atlantic Adam Kirsch explores humanity's insatiable drive to wonder at unidentified phenomena in the skies.",
       "date": "2026-08-22",
       "link": "https://www.space.com/entertainment/we-want-to-believe-book-explores-the-reality-of-ufos-its-always-going-to-be-more-likely-that-someone-is-wrong-about-what-they-saw-interview"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "This Week In Space podcast: Episode 224 — The Science of Artemis",
-      "summary": "On Episode 224 of This Week In Space, Rod Pyle and guest co-host Rick Jenet are joined by Dr. David Kring to discuss the where, whys, and hows of the Artemis Program's lunar exploration plans.",
-      "date": "2026-08-22",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-224-the-science-of-artemis"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year (video, photos)",
-      "summary": "SpaceX launched 27 Starlink satellites from California early this morning (Aug. 22), on the 100th mission of the year for the company's Falcon rocket family.",
-      "date": "2026-08-22",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-15-20"
     },
     {
       "sourceId": "rspace",
