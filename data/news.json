@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T14:14:47.045Z",
+  "updated": "2026-08-23T13:35:36.153Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "USSF Honor Guard debuts new ceremonial uniform at Freedom 250 Grand Prix",
+      "summary": "The newly designed attire will replace the modified U.S. Air Force uniforms worn since 2019, and establish a distinct visual identity with unique service colors and insignia.",
+      "date": "2026-08-21",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4580864/ussf-honor-guard-debuts-new-ceremonial-uniform-at-freedom-250-grand-prix/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "STARCOM activates 320th Recruiting Squadron to prepare next generation of Guardians",
       "summary": "STARCOM activated the Space Force's 320th Recruiting Squadron to lead the Guardian Talent Scout program and recruit specialized talent nationwide.<br/> <img src='https://media.defense.gov/2026/Aug/18/2003983362/300/300/0/260814-F-QS775-1273.JPG' alt='Space Training and Readiness…",
       "date": "2026-08-19",
@@ -203,13 +210,6 @@
       "summary": "The two-day conference provided a forum for Guardians to hear directly from senior leaders about the current state and future trajectory of the Space Force and ask questions directly to the individuals making the decisions that are shaping the seven-year-old service as it looks…",
       "date": "2026-08-12",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4570009/space-force-guardians-conference-focuses-on-service-trajectory-professional-gro/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "DAF updates COVID-19 reinstatement process, reduces time for members returning to service",
-      "summary": "The DAF has streamlined its COVID-19 reinstatement process by establishing parallel processing for medical screening and military record correction board actions alongside deploying dedicated reinstatement case managers.<br/>",
-      "date": "2026-08-11",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4568962/daf-updates-covid-19-reinstatement-process-reduces-time-for-members-returning-t/"
     },
     {
       "sourceId": "dod",
@@ -283,6 +283,20 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "Launching 10,000 tiny 'femtosats' to Saturn? NASA funds 18 futuristic spaceflight ideas",
+      "summary": "NASA has chosen 18 technology proposals for its Innovative Advanced Concepts awards to help turn some out-of-the-box ideas into out-of-this-world research.",
+      "date": "2026-08-23",
+      "link": "https://www.space.com/technology/launching-10-000-tiny-femtosats-to-saturn-nasa-funds-18-futuristic-spaceflight-ideas"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "How will NASA's astronaut training hub change with commercial space stations?",
+      "summary": "A tour of Johnson Space Center in Houston shows how NASA and private industry are already working together on the future of human spaceflight.",
+      "date": "2026-08-22",
+      "link": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "'We Want to Believe' book explores the reality of UFOs: 'It's always going to be more likely that someone is wrong about what they saw' (interview)",
       "summary": "Acclaimed literary critic and Senior Editor at The Atlantic Adam Kirsch explores humanity's insatiable drive to wonder at unidentified phenomena in the skies.",
       "date": "2026-08-22",
@@ -297,59 +311,45 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year (photos)",
+      "title": "SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year (video, photos)",
       "summary": "SpaceX launched 27 Starlink satellites from California early this morning (Aug. 22), on the 100th mission of the year for the company's Falcon rocket family.",
       "date": "2026-08-22",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-15-20"
     },
     {
-      "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 22, 1963: X-15 sets world altitude record",
-      "summary": "On this day in space! Aug. 22, 1963: U.S. Air Force Captain Joe Walker flew an X-15 rocket plane higher than any pilot had ever flown before.",
-      "date": "2026-08-22",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/on-this-day-in-space-aug-22-1963-x-15-sets-world-altitude-record"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Partial lunar eclipse August 2026: Where will it be visible from?",
-      "summary": "Here's where the 96% partial lunar eclipse will be visible from on Earth.",
-      "date": "2026-08-22",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/where-will-the-partial-lunar-eclipse-on-aug-27-2026-be-visible-from"
+      "sourceId": "rspace",
+      "title": "Photo of the eclipse my dad took",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vw7dyz/photo_of_the_eclipse_my_dad_took/\"> <img src=\"https://preview.redd.it/ydt6t5rsn4lh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4a1d325c8c1d34210de5cda717ca2970d99dc32\" alt=\"Photo of the eclipse my…",
+      "date": "2026-08-23",
+      "link": "https://www.reddit.com/r/space/comments/1vw7dyz/photo_of_the_eclipse_my_dad_took/"
     },
     {
       "sourceId": "rspace",
-      "title": "[Australia] Northern Territory’s Karlu Karlu conservation reserve recognised as a rare International Dark Sky Sanctuary",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vv52uq/australia_northern_territorys_karlu_karlu/\"> <img src=\"https://external-preview.redd.it/esWyUse7PZBkirvDRV7u70IcOt2pD73-3rRl7MkYN4I.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eeb2089b27eb79f8ecff057a…",
-      "date": "2026-08-22",
-      "link": "https://www.reddit.com/r/space/comments/1vv52uq/australia_northern_territorys_karlu_karlu/"
+      "title": "Printing in orbit outside of the space station.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vw7567/printing_in_orbit_outside_of_the_space_station/\"> <img src=\"https://preview.redd.it/eq01l2wkl4lh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1dd6252cba2eaa467f89c6bb5e098e6cda605a0c\" alt=\"Printing in…",
+      "date": "2026-08-23",
+      "link": "https://www.reddit.com/r/space/comments/1vw7567/printing_in_orbit_outside_of_the_space_station/"
     },
     {
       "sourceId": "rspace",
-      "title": "Could JWST's mysterious “Little Red Dots” help us understand objects like MoM-BH-1?*",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Today, I was looking into MoM-BH-1\\*, a tiny, intensely red, and extremely luminous object from the early universe.",
-      "date": "2026-08-22",
-      "link": "https://www.reddit.com/r/space/comments/1vv4e2c/could_jwsts_mysterious_little_red_dots_help_us/"
+      "title": "Made this textured painting of an imaginary planet!",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vw4kw9/made_this_textured_painting_of_an_imaginary_planet/\"> <img src=\"https://preview.redd.it/0aljb2tfz3lh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d49f511d63870063e0484a49fc5c441fee4a134\" alt=\"Made…",
+      "date": "2026-08-23",
+      "link": "https://www.reddit.com/r/space/comments/1vw4kw9/made_this_textured_painting_of_an_imaginary_planet/"
     },
     {
       "sourceId": "rspace",
-      "title": "ClearSpace beats Astroscale (and a surprise US bidder) to win UK's first national debris removal contract",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>UK Space Agency published the contract award notice today (21 Aug). ClearSpace has won the UK&#39;s first national Active Debris Removal mission — £61.3M excluding VAT, five year contract, capturing two UK-licensed defunct satellites from LEO by…",
-      "date": "2026-08-21",
-      "link": "https://www.reddit.com/r/space/comments/1vusksa/clearspace_beats_astroscale_and_a_surprise_us/"
+      "title": "How Quasi-Zenith Satellite sees the earth",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vw3t7f/how_quasizenith_satellite_sees_the_earth/\"> <img src=\"https://preview.redd.it/5cu3tpmcr3lh1.gif?width=640&amp;crop=smart&amp;s=005ca3da57c1e4fdafa732f0a38ab06fa481fd82\" alt=\"How Quasi-Zenith Satellite sees…",
+      "date": "2026-08-23",
+      "link": "https://www.reddit.com/r/space/comments/1vw3t7f/how_quasizenith_satellite_sees_the_earth/"
     },
     {
       "sourceId": "rspace",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vuoov3/starcloud_raises_250_million_for_orbital_data/\"> <img src=\"https://external-preview.redd.it/MC_czr5JP1Ps57JTJT_DcenYG4hKycdqpvJ0R-C8aNg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3a0dc6c02b73d8c1c71…",
-      "date": "2026-08-21",
-      "link": "https://www.reddit.com/r/space/comments/1vuoov3/starcloud_raises_250_million_for_orbital_data/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Luna 24: The Last Soviet Lunar Sample Return Mission - 50 years ago",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vumk47/luna_24_the_last_soviet_lunar_sample_return/\"> <img src=\"https://external-preview.redd.it/DPcQ0VUEXkiu9N62sXCQXgKx47z6HwRDVGm3TvFAqUw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=db1da2a7d8570dbc31bae3…",
-      "date": "2026-08-21",
-      "link": "https://www.reddit.com/r/space/comments/1vumk47/luna_24_the_last_soviet_lunar_sample_return/"
+      "title": "Eclipse Spain Cascante",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vw2bxm/eclipse_spain_cascante/\"> <img src=\"https://preview.redd.it/knwzteulc3lh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d5595980cb341c90e5f27c1999848bfe2a0ff75\" alt=\"Eclipse Spain Cascante\"…",
+      "date": "2026-08-23",
+      "link": "https://www.reddit.com/r/space/comments/1vw2bxm/eclipse_spain_cascante/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+      "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the…",
+      "date": "2026-08-23",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "APOD: 2026 August 22 – Mostly Perseids",
       "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-08-22",
@@ -448,13 +455,6 @@
       "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule.",
       "date": "2026-08-21",
       "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
-      "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston.",
-      "date": "2026-08-21",
-      "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/"
     }
   ]
 }
