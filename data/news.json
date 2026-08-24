@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-23T14:16:38.700Z",
+  "updated": "2026-08-24T13:54:26.060Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
+      "summary": "Houston — World Space Week Association announced today that Tory Bruno, President of National Security at Blue Origin, will serve as Honorary Chair of World Space Week 2027. “Tory Bruno",
+      "date": "2026-08-24",
+      "link": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/"
+    },
     {
       "sourceId": "spacenews",
       "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
@@ -28,13 +35,6 @@
       "summary": "Huntsville, AL — Moog Inc. (NYSE: MOG.A and MOG.B) announces a significant expansion at its Huntsville, AL facility that now includes a new secure Hypersonic/Interceptor Hardware-in-the-Loop (HWIL) lab. It is",
       "date": "2026-08-20",
       "link": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
-      "summary": "San Diego, CA – Rock West Composites (RWC) is premiering its recently launched space-grade STRATOPultrusion™ product line at the 2026 Small Satellite Conference this August in Salt Lake City, Utah.",
-      "date": "2026-08-20",
-      "link": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/"
     },
     {
       "sourceId": "tectonic",
@@ -283,73 +283,73 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "How a huge fleet of 17 spacecraft discovered something surprising about solar eruptions",
-      "summary": "Taking measurements of the same CME from different vantage points in the solar system revealed the true extent of a solar eruption.",
-      "date": "2026-08-23",
-      "link": "https://www.space.com/astronomy/sun/how-a-huge-fleet-of-17-spacecraft-discovered-something-surprising-about-solar-eruptions"
+      "title": "The earliest galaxy 'swallowed' by the cannibal Milky Way left a scar at its heart",
+      "summary": "The earliest example of the Milky Way cannibalising a smaller galaxy for its growth involved a cosmic meal that left a scar at the heart of our galaxy.",
+      "date": "2026-08-24",
+      "link": "https://www.space.com/astronomy/galaxies/the-earliest-galaxy-swallowed-by-the-cannibal-milky-way-left-a-scar-at-its-heart"
     },
     {
       "sourceId": "spacecom",
-      "title": "Bad weather delays launch of China's historic Chang'e 7 mission to moon's south pole",
-      "summary": "China has delayed its ambitious ice-hunting Chang'e 7 mission to the moon's south pole due to a brewing storm near the launch site. A new target date has not been announced.",
-      "date": "2026-08-23",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/bad-weather-delays-launch-of-chinas-historic-change-7-mission-to-moons-south-pole"
+      "title": "Nancy Grace Roman Telescope live updates: NASA readies Roman for launch",
+      "summary": "Follow NASA's Nancy Grace Roman Space Telescope and its launch aboard a SpaceX Falcon Heavy rocket to begin its mission to explore the universe.",
+      "date": "2026-08-24",
+      "link": "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-24-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Launching 10,000 tiny 'femtosats' to Saturn? NASA funds 18 futuristic spaceflight ideas",
-      "summary": "NASA has chosen 18 technology proposals for its Innovative Advanced Concepts awards to help turn some out-of-the-box ideas into out-of-this-world research.",
-      "date": "2026-08-23",
-      "link": "https://www.space.com/technology/launching-10-000-tiny-femtosats-to-saturn-nasa-funds-18-futuristic-spaceflight-ideas"
+      "title": "What to expect from each stage of the partial lunar eclipse on Aug. 27-28",
+      "summary": "Here's what to expect during the 5 key stages of the \"almost Blood Moon\" 96% partial lunar eclipse on Aug. 27-28.",
+      "date": "2026-08-24",
+      "link": "https://www.space.com/stargazing/lunar-eclipses/what-to-expect-during-the-almost-blood-moon-lunar-eclipse-on-aug-27-28-2026-key-stages-explained"
     },
     {
       "sourceId": "spacecom",
-      "title": "How will NASA's astronaut training hub change with commercial space stations?",
-      "summary": "A tour of Johnson Space Center in Houston shows how NASA and private industry are already working together on the future of human spaceflight.",
-      "date": "2026-08-22",
-      "link": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations"
+      "title": "It's been 20 years since Pluto lost planet status. Will it ever get its title back?",
+      "summary": "The reclassification of Pluto as a dwarf planet continues to stir up a hornet's nest of controversy and debate, as Space.com meets one astronomer who believes the decision to have been a mistake.",
+      "date": "2026-08-24",
+      "link": "https://www.space.com/astronomy/pluto/its-been-20-years-since-pluto-lost-planet-status-will-it-ever-get-its-title-back"
     },
     {
       "sourceId": "spacecom",
-      "title": "'We Want to Believe' book explores the reality of UFOs: 'It's always going to be more likely that someone is wrong about what they saw' (interview)",
-      "summary": "Acclaimed literary critic and Senior Editor at The Atlantic Adam Kirsch explores humanity's insatiable drive to wonder at unidentified phenomena in the skies.",
-      "date": "2026-08-22",
-      "link": "https://www.space.com/entertainment/we-want-to-believe-book-explores-the-reality-of-ufos-its-always-going-to-be-more-likely-that-someone-is-wrong-about-what-they-saw-interview"
+      "title": "New 'Star Trek' documentary featuring William Shatner hits theaters this fall, celebrating 60 years of Trek",
+      "summary": "\"This film is a love letter to 'Star Trek'\"",
+      "date": "2026-08-23",
+      "link": "https://www.space.com/entertainment/space-movies-shows/new-star-trek-documentary-featuring-william-shatner-hits-theaters-this-fall-celebrating-60-years-of-trek"
     },
     {
       "sourceId": "rspace",
-      "title": "Photo of the eclipse my dad took",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vw7dyz/photo_of_the_eclipse_my_dad_took/\"> <img src=\"https://preview.redd.it/ydt6t5rsn4lh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4a1d325c8c1d34210de5cda717ca2970d99dc32\" alt=\"Photo of the eclipse my…",
-      "date": "2026-08-23",
-      "link": "https://www.reddit.com/r/space/comments/1vw7dyz/photo_of_the_eclipse_my_dad_took/"
+      "title": "Pluto was officially declared a dwarf planet 20 years ago today | Mike “Pluto Killer” Brown explains why any reversal of that infamous demotion would be driven more by nostalgia than science",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vx31vl/pluto_was_officially_declared_a_dwarf_planet_20/\"> <img src=\"https://external-preview.redd.it/ZJdS8co_zlngYrFhjjdX0QmiGThC6dlf-R6XAMmhKvw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec3b5b04cc9bf5ae61…",
+      "date": "2026-08-24",
+      "link": "https://www.reddit.com/r/space/comments/1vx31vl/pluto_was_officially_declared_a_dwarf_planet_20/"
     },
     {
       "sourceId": "rspace",
-      "title": "Printing in orbit outside of the space station.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vw7567/printing_in_orbit_outside_of_the_space_station/\"> <img src=\"https://preview.redd.it/eq01l2wkl4lh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1dd6252cba2eaa467f89c6bb5e098e6cda605a0c\" alt=\"Printing in…",
-      "date": "2026-08-23",
-      "link": "https://www.reddit.com/r/space/comments/1vw7567/printing_in_orbit_outside_of_the_space_station/"
+      "title": "The earliest galaxy 'swallowed' by the cannibal Milky Way left a scar at its heart",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vx269u/the_earliest_galaxy_swallowed_by_the_cannibal/\"> <img src=\"https://external-preview.redd.it/jVHLns6Ak78mtpi9Y86Y_DDRTzqhzHRvREOuIjfwXJU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c168def6d73c2ead715db…",
+      "date": "2026-08-24",
+      "link": "https://www.reddit.com/r/space/comments/1vx269u/the_earliest_galaxy_swallowed_by_the_cannibal/"
     },
     {
       "sourceId": "rspace",
-      "title": "Made this textured painting of an imaginary planet!",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vw4kw9/made_this_textured_painting_of_an_imaginary_planet/\"> <img src=\"https://preview.redd.it/0aljb2tfz3lh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d49f511d63870063e0484a49fc5c441fee4a134\" alt=\"Made…",
-      "date": "2026-08-23",
-      "link": "https://www.reddit.com/r/space/comments/1vw4kw9/made_this_textured_painting_of_an_imaginary_planet/"
+      "title": "Eclipse in Spain",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vx18ry/eclipse_in_spain/\"> <img src=\"https://preview.redd.it/cmhl8lx9fblh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f88d061b905f83034068dcf0fd4d1afe00100d31\" alt=\"Eclipse in Spain\" title=\"Eclipse in…",
+      "date": "2026-08-24",
+      "link": "https://www.reddit.com/r/space/comments/1vx18ry/eclipse_in_spain/"
     },
     {
       "sourceId": "rspace",
-      "title": "How Quasi-Zenith Satellite sees the earth",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vw3t7f/how_quasizenith_satellite_sees_the_earth/\"> <img src=\"https://preview.redd.it/5cu3tpmcr3lh1.gif?width=640&amp;crop=smart&amp;s=005ca3da57c1e4fdafa732f0a38ab06fa481fd82\" alt=\"How Quasi-Zenith Satellite sees…",
-      "date": "2026-08-23",
-      "link": "https://www.reddit.com/r/space/comments/1vw3t7f/how_quasizenith_satellite_sees_the_earth/"
+      "title": "NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vwyuxy/nasas_new_space_telescope_is_poised_to_discover/\"> <img src=\"https://external-preview.redd.it/3lGJmLPlOtTCJplJ6YIWwGhI2jlgrcKu9XKH0k6XMl4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=07c6fea9ccad2a53b3…",
+      "date": "2026-08-24",
+      "link": "https://www.reddit.com/r/space/comments/1vwyuxy/nasas_new_space_telescope_is_poised_to_discover/"
     },
     {
       "sourceId": "rspace",
-      "title": "Eclipse Spain Cascante",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vw2bxm/eclipse_spain_cascante/\"> <img src=\"https://preview.redd.it/knwzteulc3lh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d5595980cb341c90e5f27c1999848bfe2a0ff75\" alt=\"Eclipse Spain Cascante\"…",
-      "date": "2026-08-23",
-      "link": "https://www.reddit.com/r/space/comments/1vw2bxm/eclipse_spain_cascante/"
+      "title": "Hi i photographed the moon",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vwn7ny/hi_i_photographed_the_moon/\"> <img src=\"https://preview.redd.it/hede0uc1s7lh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd272b6888b23fc6dabb7a8bc3c04a81a7eb4873\" alt=\"Hi i photographed the moon\"…",
+      "date": "2026-08-24",
+      "link": "https://www.reddit.com/r/space/comments/1vwn7ny/hi_i_photographed_the_moon/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "What Lake Bonneville Left Behind",
+      "summary": "The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.",
+      "date": "2026-08-24",
+      "link": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
       "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the…",
       "date": "2026-08-23",
@@ -448,13 +455,6 @@
       "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis.",
       "date": "2026-08-21",
       "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Webb Opens Treasure Chest",
-      "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule.",
-      "date": "2026-08-21",
-      "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/"
     }
   ]
 }
