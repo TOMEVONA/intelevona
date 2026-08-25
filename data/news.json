@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-25T13:54:13.771Z",
+  "updated": "2026-08-25T14:38:02.852Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
+      "summary": "Space Angel has welcomed its selection by the Western Australian Government as the recipient of the $1.75 million Spaceport Establishment Support Grant, announced by Science and Innovation Minister Stephen Dawson.",
+      "date": "2026-08-25",
+      "link": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
@@ -28,13 +35,6 @@
       "summary": "PHOENIX, AZ — August 24, 2026 — Spirit Electronics, a value‑added distributor of high‑reliability electronics focused on performance‑driven program requirements, announced that space‑grade and high‑reliability components from Texas Instruments and",
       "date": "2026-08-24",
       "link": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
-      "summary": "After NASA astronauts landed on the moon in 1969, their achievement bore decades’ worth of fruit, including scientific discoveries and a strategic national security advantage. Now — with plans to",
-      "date": "2026-08-24",
-      "link": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent/"
     },
     {
       "sourceId": "tectonic",
@@ -283,6 +283,20 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026",
+      "summary": "ESA astronaut Sophie Adenot and NASA astronaut Anil Menon complete a spacewalk on Aug. 18, 2026.",
+      "date": "2026-08-25",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more",
+      "summary": "On Aug. 25, 1997, NASA launched the Advanced Composition Explorer, or ACE satellite to study energetic particles traveling through space, including solar wind and space weather. Here's why it mattered.",
+      "date": "2026-08-25",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "Polish startup Ares Shield hired to protect data center satellites with high-power microwave weapons",
       "summary": "Florida-based Lonestar Data Holdings has contracted Polish startup Ares Shield to provide protection for its off-Earth data centers, in a deal worth up to $6 million.",
       "date": "2026-08-25",
@@ -303,18 +317,11 @@
       "link": "https://www.space.com/technology/stream-star-trek-strange-new-worlds-and-silo-securely-from-anywhere-with-87-percent-off-surfshark-vpn"
     },
     {
-      "sourceId": "spacecom",
-      "title": "What time is the partial lunar eclipse on Aug. 27-28? Here's when to see the 96% 'blood moon'",
-      "summary": "Don't miss the best lunar eclipse until New Year's Eve 2028. Here's when to look up to catch the deep partial lunar eclipse on Aug. 27-28.",
+      "sourceId": "rspace",
+      "title": "NASA Research Shows How Sun’s Ancient History Shaped Earth",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vy0ob5/nasa_research_shows_how_suns_ancient_history/\"> <img src=\"https://external-preview.redd.it/xvsM3jUcwxhUsK1XrG0BIf0iK8jq08jkfTJTnKmEP8k.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6b9264e20993e3d0abf950…",
       "date": "2026-08-25",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-partial-lunar-eclipse-on-aug-27-28-heres-when-to-see-the-96-percent-blood-moon"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Watch 2 astronauts replace failed ISS antenna during spacewalk today",
-      "summary": "NASA astronaut Anil Menon and France's Sophie Adenot will conduct a spacewalk today (Aug. 25) to replace a space-to-ground-antenna on the International Space Station. Here's how to watch live.",
-      "date": "2026-08-25",
-      "link": "https://www.space.com/space-exploration/international-space-station/watch-2-astronauts-replace-failed-iss-antenna-during-spacewalk-today"
+      "link": "https://www.reddit.com/r/space/comments/1vy0ob5/nasa_research_shows_how_suns_ancient_history/"
     },
     {
       "sourceId": "rspace",
@@ -343,13 +350,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vxh63u/astronomers_spot_a_cosmic_hatchling_quasar/\"> <img src=\"https://external-preview.redd.it/Rz8xsy72vNIE3Ew1qDpZJuAN75Y_wPvYUjtd7iYLYIE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0faa24365bb0ede20f37f5…",
       "date": "2026-08-24",
       "link": "https://www.reddit.com/r/space/comments/1vxh63u/astronomers_spot_a_cosmic_hatchling_quasar/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Full recap of Zhuque-3 first stage's journey from launch to landing by onboard camera",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vx8v6r/full_recap_of_zhuque3_first_stages_journey_from/\"> <img src=\"https://external-preview.redd.it/lKOF2RMJcL_A1gVFbvh2eObObEybum8VAzQT782zarw.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8231e5bba757b5e645…",
-      "date": "2026-08-24",
-      "link": "https://www.reddit.com/r/space/comments/1vx8v6r/full_recap_of_zhuque3_first_stages_journey_from/"
     },
     {
       "sourceId": "nga",
