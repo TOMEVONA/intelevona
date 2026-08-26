@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-25T14:38:02.852Z",
+  "updated": "2026-08-26T13:57:16.121Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Propulsion is having a moment",
+      "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical",
+      "date": "2026-08-25",
+      "link": "https://spacenews.com/propulsion-is-having-a-moment/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
@@ -21,13 +28,6 @@
       "summary": "In this episode, SpaceNews’ Mike Gruss interviews Icarus Robotics CEO and co-founder Ethan Barajas at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why astronauts have",
       "date": "2026-08-24",
       "link": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
-      "summary": "SALT LAKE CITY – The Aerospace Corp. is continuing to demonstrate the viability of pancake-shaped DiskSats in the wake of their December launch on a Rocket Lab Electron. “It’s the",
-      "date": "2026-08-24",
-      "link": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/"
     },
     {
       "sourceId": "spacenews",
@@ -213,6 +213,20 @@
     },
     {
       "sourceId": "dod",
+      "title": "Kabul Airport Attack Investigation Uncovers Previously Hidden, Classified Documents",
+      "summary": "Senior Advisor to the Secretary of War Sean Parnell revealed in a social media post that an ongoing War Department investigation into the circumstances surrounding the 2021 terrorist airport bombing in Kabul, Afghanistan, has uncovered classified documents that had not been…",
+      "date": "2026-08-26",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4582866/kabul-airport-attack-investigation-uncovers-previously-hidden-classified-docume/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "U.S., Brunei Forces Build Readiness, Trust During Exercise Pahlawan Warrior",
+      "summary": "U.S. soldiers and Oklahoma National Guardsmen partnered with Royal Brunei Land Forces soldiers to sharpen their skills during Exercise Pahlawan Warrior 26 at Tutong Camp, Brunei, increasing readiness through shared tactics, jungle training and relationship-building.",
+      "date": "2026-08-25",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4582389/us-brunei-forces-build-readiness-trust-during-exercise-pahlawan-warrior/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Hegseth Greets Troops at Stratcom, Talks Arsenal of Freedom in Wisconsin",
       "summary": "Secretary of War Pete Hegseth told military personnel assigned to U.S. Strategic Command at Offutt Air Force Base, Neb., that they are the center of America's deterrent capability.",
       "date": "2026-08-24",
@@ -233,123 +247,109 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4580293/motors-assembled-at-tobyhanna-army-depot-power-drone-to-world-record-flight/"
     },
     {
-      "sourceId": "dod",
-      "title": "Navy Advances MH-60 Modernization, Identifies Industry Performers for Prototype Project",
-      "summary": "The Navy's MH-60 Sea Hawk helicopter service life modernization program recently announced the industry performers identified to proceed to the first phase of a statement of work collaboration for the MH-60 tailorable architecture leveraging open systems prototype project.",
-      "date": "2026-08-21",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4580264/navy-advances-mh-60-modernization-identifies-industry-performers-for-prototype/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Corps of Engineers Modernizes Historic Fort Sill Barracks",
-      "summary": "Behind the historic facade of Building 900 at U.S. Army Garrison, Fort Sill, Okla., the U.S. Army Corps of Engineers, Tulsa District, is executing a high-tech modernization project that will make it one of the most structurally reinforced buildings on the installation.",
-      "date": "2026-08-20",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4578917/corps-of-engineers-modernizes-historic-fort-sill-barracks/"
+      "sourceId": "viasat",
+      "title": "Lyntris Targets Faster Delivery Timelines in Smallsat Interview With Madison Dye",
+      "summary": "Lyntris was formed earlier this year when Vitesse Systems combined with Accelint to form a new defense tech company. The combined company supports defense and national security missions across space,",
+      "date": "2026-08-25",
+      "link": "https://www.satellitetoday.com/partner-content/2026/08/25/lyntris-targets-faster-delivery-timelines-in-smallsat-interview-with-madison-dye/"
     },
     {
       "sourceId": "viasat",
-      "title": "SSC Space Execs Talk Ground Service and Lunar Mission Growth at Smallsat",
-      "summary": "To kick off the Small Satellite Conference, Via Satellite interviews SSC Space executives Erwin Mercado, head of market region Americas, and Greg Johnson, business development director, about the company’s offerings",
+      "title": "Impulse Space Scales Rideshare Program to GEO With Increased Demand",
+      "summary": "SALT LAKE CITY, UTAH – Impulse Space has three rideshare missions to Geostationary Orbit (GEO) fully booked through 2028 and is looking at increasing the rideshare missions to twice as a",
       "date": "2026-08-25",
-      "link": "https://www.satellitetoday.com/partner-content/2026/08/25/ssc-space-execs-talk-ground-service-and-lunar-mission-growth-at-smallsat/"
+      "link": "https://www.satellitetoday.com/launch/2026/08/25/impulse-space-scales-rideshare-program-to-geo-with-increased-demand/"
     },
     {
       "sourceId": "viasat",
-      "title": "NanoAvionics Upgrades its Flagship MP42 Bus Line, Adding a 500kg Platform",
-      "summary": "SALT LAKE CITY, UTAH — Kongsberg NanoAvionics is rolling out an upgrade to its MP42 line of satellite buses, including a new 500 kg platform which is now the company’s largest",
-      "date": "2026-08-24",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/08/24/nanoavionics-upgrades-its-flagship-mp42-bus-line-adding-a-500kg-platform/"
+      "title": "Redwire to Manufacture Edge Aerospace Data Processing Units in US",
+      "summary": "SALT LAKE CITY, UTAH – Edge Aerospace is scaling its manufacturing in the U.S. through a licensing agreement with Redwire under which Redwire will manufacture Edge’s data processing units (DPUs) and",
+      "date": "2026-08-25",
+      "link": "https://www.satellitetoday.com/technology/2026/08/25/redwire-to-manufacture-edge-aerospace-data-processing-units-in-us/"
     },
     {
       "sourceId": "viasat",
-      "title": "Kepler Launches Service on its New Optical Data Relay Constellation",
-      "summary": "Kepler Communications is now offering service from the next-generation optical data relay network constellation to global commercial and government customers, the operator announced Monday. With service now active following SpaceX’s",
-      "date": "2026-08-24",
-      "link": "https://www.satellitetoday.com/technology/2026/08/24/kepler-launches-service-on-its-new-optical-data-relay-constellation/"
+      "title": "CesiumAstro Acquires 1Aardvark, Its 3rd Defense Systems Acquisition This Year",
+      "summary": "Space-based communications and intelligence provider CesiumAstro acquired a Virginia-based mission software and defense systems engineering company, 1Aardvark. Both companies announced the acquisition on Tuesday. The combination brings CesiumAstro’s satellites, communications",
+      "date": "2026-08-25",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/25/cesiumastro-acquires-1aardvark-its-3rd-defense-systems-acquisition-this-year/"
     },
     {
       "sourceId": "viasat",
-      "title": "KSAT Rolls Out Demonstration Campaign for Hyper Hybrid RF/Optional Network",
-      "summary": "Kongsberg Satellite Services (KSAT) is kicking off a “Hyperion” demonstration campaign for its next-generation hybrid radio frequency (RF) and optical relay network, Hyper. KSAT announced Monday that the campaign will",
-      "date": "2026-08-24",
-      "link": "https://www.satellitetoday.com/technology/2026/08/24/ksat-rolls-out-demonstration-campaign-for-hyper-hybrid-rf-optional-network/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "SDA Director Says Constellation’s Tranche 1 Checkouts Progressing Faster After a Slow Start",
-      "summary": "SALT LAKE CITY, UTAH — On-orbit checkouts of the Tranche 1 Space Development Agency (SDA) satellites launched in July are progressing much faster than previous plane launches, SDA Director Dr. Gurpartap",
-      "date": "2026-08-24",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/24/sda-director-says-constellations-tranche-1-checkouts-progressing-faster-after-a-slow-start/"
+      "title": "TrustPoint Aces C-band GNSS Interference Demo for U.S. Naval Air Systems Command",
+      "summary": "Space-based positioning and navigation solutions firm TrustPoint successfully demonstrated its C-band signals in the presence of GNSS interference, a milestone listed under its contract with U.S. Naval Air Systems Command",
+      "date": "2026-08-25",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/25/trustpoint-aces-c-band-gnss-interference-demo-for-u-s-naval-air-systems-command/"
     },
     {
       "sourceId": "spacecom",
-      "title": "Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026",
-      "summary": "ESA astronaut Sophie Adenot and NASA astronaut Anil Menon complete a spacewalk on Aug. 18, 2026.",
-      "date": "2026-08-25",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026"
+      "title": "'Star Wars: Zero Company' review: XCOM-like strategically recaptures the magic of your favorite Star Wars films",
+      "summary": "Bitreactor's blend of XCOM combat and a smaller-stakes story nails what makes the Star Wars franchise so special.",
+      "date": "2026-08-26",
+      "link": "https://www.space.com/entertainment/space-games/star-wars-zero-company-review-xcom-like-strategically-recaptures-the-magic-of-your-favorite-star-wars-films"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more",
-      "summary": "On Aug. 25, 1997, NASA launched the Advanced Composition Explorer, or ACE satellite to study energetic particles traveling through space, including solar wind and space weather. Here's why it mattered.",
-      "date": "2026-08-25",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026"
+      "title": "SpaceX's final Falcon 9 Starlink launch from Florida creates gorgeous 'jellyfish' over New York City (video)",
+      "summary": "SpaceX's last planned Falcon 9 Starlink launch from Florida created a memorable sight for folks hundreds of miles away — a glowing \"jellyfish\" high in the sky.",
+      "date": "2026-08-26",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-final-falcon-9-starlink-launch-from-florida-creates-gorgeous-jellyfish-over-new-york-city-video"
     },
     {
       "sourceId": "spacecom",
-      "title": "Polish startup Ares Shield hired to protect data center satellites with high-power microwave weapons",
-      "summary": "Florida-based Lonestar Data Holdings has contracted Polish startup Ares Shield to provide protection for its off-Earth data centers, in a deal worth up to $6 million.",
-      "date": "2026-08-25",
-      "link": "https://www.space.com/space-exploration/satellites/satellite-defense-ares-shield-contract-lonestar-data-holdings"
+      "title": "SpaceX sends Starlink satellites to orbit on predawn launch from California",
+      "summary": "SpaceX launched 27 more of its Starlink broadband satellites to orbit today (Aug. 26), in a predawn liftoff from California's central coast.",
+      "date": "2026-08-26",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink--15-22-b1082-ocisly"
     },
     {
       "sourceId": "spacecom",
-      "title": "NASA satellites ace world's 1st 'lost-in-space' GPS-free navigation experiment",
-      "summary": "No GPS? No problem. A team of NASA satellites are extending their stay in space after successfully proving out navigation by other means.",
-      "date": "2026-08-25",
-      "link": "https://www.space.com/space-exploration/satellites/nasa-satellites-ace-worlds-1st-lost-in-space-gps-free-navigation-experiment"
+      "title": "Inside the Nancy Grace Roman Space Telescope, NASA's next great observatory",
+      "summary": "Here's a rundown of all the major parts of NASA's Roman Space Telescope launching Aug. 30.",
+      "date": "2026-08-26",
+      "link": "https://www.space.com/astronomy/inside-the-nancy-grace-roman-space-telescope-nasas-next-great-observatory"
     },
     {
       "sourceId": "spacecom",
-      "title": "Stream 'Star Trek: Strange New Worlds' and 'Silo' securely from anywhere with 87% off Surfshark VPN",
-      "summary": "Want to watch your favorite shows wherever you boldly go? From Star Trek: Strange New Worlds season 4 to Silo's upcoming finale, stream and browse in safety with huge savings on Surfshark VPN.",
+      "title": "Watch the partial lunar eclipse online Aug. 27-28 with these free livestreams",
+      "summary": "You can catch the partial lunar eclipse live online here with these free livestreams starting at 9:23 p.m. EDT (0123 GMT).",
+      "date": "2026-08-26",
+      "link": "https://www.space.com/stargazing/lunar-eclipses/how-to-watch-the-aug-27-28-2026-partial-lunar-eclipse-live-online"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Deloitte Report: Lunar Economy Could Generate up to $566 Billion in Economic Value Through 2050",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vywtcb/deloitte_report_lunar_economy_could_generate_up/\"> <img src=\"https://external-preview.redd.it/BllM7i-MvRdIqW_04lbc8AF0YbFtlWkOha0LILba4ds.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3dd126ed35e9453bef…",
+      "date": "2026-08-26",
+      "link": "https://www.reddit.com/r/space/comments/1vywtcb/deloitte_report_lunar_economy_could_generate_up/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Any astrophotographers in the North West, UK?!",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve recently started a North West Astrophotography WhatsApp Community after realising there isn&#39;t really one place for astrophotographers across the region to connect.</p> <p>It&#39;s for beginners and experienced imagers alike — DSLR,…",
+      "date": "2026-08-26",
+      "link": "https://www.reddit.com/r/space/comments/1vys2k4/any_astrophotographers_in_the_north_west_uk/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "The Space Industry Keeps Growing, Boosted By Defense Initiatives",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vykgpl/the_space_industry_keeps_growing_boosted_by/\"> <img src=\"https://external-preview.redd.it/PbYLlCWchdUEpn5CduTj0_D_6kJqaSXMAwx8A3gKOGE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d83ca7106775a32b26109…",
+      "date": "2026-08-26",
+      "link": "https://www.reddit.com/r/space/comments/1vykgpl/the_space_industry_keeps_growing_boosted_by/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "High-resolution PSB/TIFF space images (Multi GB files)",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was looking at some websites, and there used to be links for high-resolution photos. I even downloaded some a few years ago, but now they are no longer there.",
       "date": "2026-08-25",
-      "link": "https://www.space.com/technology/stream-star-trek-strange-new-worlds-and-silo-securely-from-anywhere-with-87-percent-off-surfshark-vpn"
+      "link": "https://www.reddit.com/r/space/comments/1vy9f1k/highresolution_psbtiff_space_images_multi_gb_files/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA Research Shows How Sun’s Ancient History Shaped Earth",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vy0ob5/nasa_research_shows_how_suns_ancient_history/\"> <img src=\"https://external-preview.redd.it/xvsM3jUcwxhUsK1XrG0BIf0iK8jq08jkfTJTnKmEP8k.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6b9264e20993e3d0abf950…",
+      "title": "This is one hour of satellite trails over the world's darkest sky. Astronomers say nearly 2 million planned satellites could be 'devastating' — BBC Sky at Night Magazine",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is one hour of satellite trails over the world&#39;s darkest sky. Astronomers say nearly 2 million planned satellites could be &#39;devastating&#39; - BBC Sky at Night Magazine</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a…",
       "date": "2026-08-25",
-      "link": "https://www.reddit.com/r/space/comments/1vy0ob5/nasa_research_shows_how_suns_ancient_history/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "China delays ambitious Chang’e 7 moon mission until 2027",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vy0a0w/china_delays_ambitious_change_7_moon_mission/\"> <img src=\"https://external-preview.redd.it/3IFUMruzlI6FEvMZO0oCaFY89Zpv37-MjrerXf4tEW4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bedf4a0f8ab2a834e34b8…",
-      "date": "2026-08-25",
-      "link": "https://www.reddit.com/r/space/comments/1vy0a0w/china_delays_ambitious_change_7_moon_mission/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "2d space map? I know space is 3d but just of local star systems.",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Been thinking about a star map tattoo but cant find any 2d maps that are just the star systems. Most have every space object added in or some hard to read psudeo 3d map.",
-      "date": "2026-08-25",
-      "link": "https://www.reddit.com/r/space/comments/1vxlrfp/2d_space_map_i_know_space_is_3d_but_just_of_local/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "NASA’s Roman Telescope Enclosed in SpaceX Falcon Heavy Rocket Fairing",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vxi9pc/nasas_roman_telescope_enclosed_in_spacex_falcon/\"> <img src=\"https://external-preview.redd.it/ixquhYQmULFALZKcJt386ImgyCHbdV7ZNO5t60G_XlU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e6b2dc85909240bf3e…",
-      "date": "2026-08-24",
-      "link": "https://www.reddit.com/r/space/comments/1vxi9pc/nasas_roman_telescope_enclosed_in_spacex_falcon/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Astronomers Spot a Cosmic 'Hatchling' Quasar Shedding Its Dusty Cocoon",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vxh63u/astronomers_spot_a_cosmic_hatchling_quasar/\"> <img src=\"https://external-preview.redd.it/Rz8xsy72vNIE3Ew1qDpZJuAN75Y_wPvYUjtd7iYLYIE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0faa24365bb0ede20f37f5…",
-      "date": "2026-08-24",
-      "link": "https://www.reddit.com/r/space/comments/1vxh63u/astronomers_spot_a_cosmic_hatchling_quasar/"
+      "link": "https://www.reddit.com/r/space/comments/1vy6gyl/this_is_one_hour_of_satellite_trails_over_the/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
-      "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy.",
-      "date": "2026-08-24",
-      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/"
+      "title": "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
+      "summary": "At 17, Jeret Howard raised his right hand to serve his country as a United States Army combat medic in Iraq. This past summer, he raised his right hand again at NASA’s Stennis Space Center near Bay St. Louis, Mississippi.",
+      "date": "2026-08-26",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/"
     },
     {
       "sourceId": "nasa",
-      "title": "Perseverance Captures Another Phobos Transit",
-      "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.",
-      "date": "2026-08-24",
-      "link": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/"
+      "title": "APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula",
+      "summary": "APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-08-26",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/"
     },
     {
       "sourceId": "nasa",
-      "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
-      "summary": "At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.",
-      "date": "2026-08-24",
-      "link": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/"
+      "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+      "summary": "NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space communications and navigation system.",
+      "date": "2026-08-25",
+      "link": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
-      "summary": "NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug. 23, 2026, in Washington, D.C. Image credit: NASA/Joel Kowsky",
-      "date": "2026-08-24",
-      "link": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/"
+      "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
+      "summary": "NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama.",
+      "date": "2026-08-25",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/"
     },
     {
       "sourceId": "nasa",
-      "title": "MAIA Air Sensor at Work in Addis Ababa",
-      "summary": "Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s air quality.",
-      "date": "2026-08-24",
-      "link": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/"
+      "title": "NASA Ames’ Contributions to Roman’s Mission",
+      "summary": "Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark matter, planets outside our solar system, and the formation and growth of…",
+      "date": "2026-08-25",
+      "link": "https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/"
     }
   ]
 }
