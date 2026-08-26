@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T13:57:16.121Z",
+  "updated": "2026-08-26T14:37:32.740Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,10 +213,10 @@
     },
     {
       "sourceId": "dod",
-      "title": "Kabul Airport Attack Investigation Uncovers Previously Hidden, Classified Documents",
+      "title": "Review Panel Continues Its Mission as Pentagon Marks Fifth Anniversary of Abbey Gate Bombing",
       "summary": "Senior Advisor to the Secretary of War Sean Parnell revealed in a social media post that an ongoing War Department investigation into the circumstances surrounding the 2021 terrorist airport bombing in Kabul, Afghanistan, has uncovered classified documents that had not been…",
       "date": "2026-08-26",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4582866/kabul-airport-attack-investigation-uncovers-previously-hidden-classified-docume/"
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4582866/review-panel-continues-its-mission-as-pentagon-marks-fifth-anniversary-of-abbey/"
     },
     {
       "sourceId": "dod",
@@ -283,6 +283,20 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "Heat shield under fire | Space photo of the day for Aug. 26, 2026",
+      "summary": "This little satellite is doomed.",
+      "date": "2026-08-26",
+      "link": "https://www.space.com/technology/heat-shield-under-fire-space-photo-of-the-day-for-aug-26-2026"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "On this day in space! Aug. 26, 1978: Sigmund Jähn becomes 1st German in space",
+      "summary": "On Aug. 26, 1978, cosmonaut and pilot Sigmund Jähn became the first German to fly in space. Here's why it mattered.",
+      "date": "2026-08-26",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-26-2026"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "'Star Wars: Zero Company' review: XCOM-like strategically recaptures the magic of your favorite Star Wars films",
       "summary": "Bitreactor's blend of XCOM combat and a smaller-stakes story nails what makes the Star Wars franchise so special.",
       "date": "2026-08-26",
@@ -301,20 +315,6 @@
       "summary": "SpaceX launched 27 more of its Starlink broadband satellites to orbit today (Aug. 26), in a predawn liftoff from California's central coast.",
       "date": "2026-08-26",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink--15-22-b1082-ocisly"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Inside the Nancy Grace Roman Space Telescope, NASA's next great observatory",
-      "summary": "Here's a rundown of all the major parts of NASA's Roman Space Telescope launching Aug. 30.",
-      "date": "2026-08-26",
-      "link": "https://www.space.com/astronomy/inside-the-nancy-grace-roman-space-telescope-nasas-next-great-observatory"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Watch the partial lunar eclipse online Aug. 27-28 with these free livestreams",
-      "summary": "You can catch the partial lunar eclipse live online here with these free livestreams starting at 9:23 p.m. EDT (0123 GMT).",
-      "date": "2026-08-26",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/how-to-watch-the-aug-27-28-2026-partial-lunar-eclipse-live-online"
     },
     {
       "sourceId": "rspace",
@@ -423,6 +423,20 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned",
+      "summary": "NASA will provide coverage as two astronauts step outside the International Space Station on Tuesday, Sept. 1, to replace a spacecraft navigational aid and complete several maintenance tasks in support of space station operations. Watch live coverage beginning at 7 a.m. EDT.",
+      "date": "2026-08-26",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA Begins Moon Mission Plume-Surface Interaction Tests",
+      "summary": "EDITOR’S NOTE: This story, originally published in December, was revised Aug. 26, 2026 with an update on a new phase of testing, including video from a recent test run and new images.",
+      "date": "2026-08-26",
+      "link": "https://www.nasa.gov/missions/artemis/nasa-begins-moon-mission-plume-surface-interaction-tests/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
       "summary": "At 17, Jeret Howard raised his right hand to serve his country as a United States Army combat medic in Iraq. This past summer, he raised his right hand again at NASA’s Stennis Space Center near Bay St. Louis, Mississippi.",
       "date": "2026-08-26",
@@ -441,20 +455,6 @@
       "summary": "NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space communications and navigation system.",
       "date": "2026-08-25",
       "link": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
-      "summary": "NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama.",
-      "date": "2026-08-25",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Ames’ Contributions to Roman’s Mission",
-      "summary": "Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark matter, planets outside our solar system, and the formation and growth of…",
-      "date": "2026-08-25",
-      "link": "https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/"
     }
   ]
 }
