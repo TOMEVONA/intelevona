@@ -1,40 +1,40 @@
 {
-  "updated": "2026-08-26T14:37:32.740Z",
+  "updated": "2026-08-27T22:53:08.854Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "The electronics ‘under the hood’ of space networking",
+      "summary": "In this episode, SpaceNews’ Mike Gruss interviews Jeff Janicik, founder and chairman of Innoflight. They discuss Golden Dome, Artemis and working with big numbers for the Space Development Agency. Sponsored",
+      "date": "2026-08-27",
+      "link": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
+      "summary": "Nature-based projects are generating more environmental data than ever before. Satellites observe landscapes from orbit, while field teams capture what is happening on the ground. Yet these data sources often",
+      "date": "2026-08-27",
+      "link": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
+      "summary": "LAFAYETTE, Colo. (August 26, 2026) — Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX’s (NYSE: RTX) Raytheon business, has unveiled its latest spacecraft subsystem, the",
+      "date": "2026-08-26",
+      "link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "The threat environment and processing at the edge",
+      "summary": "In this episode, SpaceNews’ Mike Gruss interviews FrontGrade CTO Lorne Graves. They discuss how processing power on spacecraft is adapting to the rise of megaconstellations, what benefits satellite processing power",
+      "date": "2026-08-26",
+      "link": "https://spacenews.com/the-threat-environment-and-processing-at-the-edge/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Propulsion is having a moment",
       "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical",
       "date": "2026-08-25",
       "link": "https://spacenews.com/propulsion-is-having-a-moment/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
-      "summary": "Space Angel has welcomed its selection by the Western Australian Government as the recipient of the $1.75 million Spaceport Establishment Support Grant, announced by Science and Innovation Minister Stephen Dawson.",
-      "date": "2026-08-25",
-      "link": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
-      "summary": "SALT LAKE CITY – Aug. 25, 2026 – Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveiled Monday, Aug.",
-      "date": "2026-08-25",
-      "link": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Robotics and the future of on-orbit labor",
-      "summary": "In this episode, SpaceNews’ Mike Gruss interviews Icarus Robotics CEO and co-founder Ethan Barajas at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why astronauts have",
-      "date": "2026-08-24",
-      "link": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
-      "summary": "PHOENIX, AZ — August 24, 2026 — Spirit Electronics, a value‑added distributor of high‑reliability electronics focused on performance‑driven program requirements, announced that space‑grade and high‑reliability components from Texas Instruments and",
-      "date": "2026-08-24",
-      "link": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026/"
     },
     {
       "sourceId": "tectonic",
@@ -213,143 +213,143 @@
     },
     {
       "sourceId": "dod",
-      "title": "Review Panel Continues Its Mission as Pentagon Marks Fifth Anniversary of Abbey Gate Bombing",
-      "summary": "Senior Advisor to the Secretary of War Sean Parnell revealed in a social media post that an ongoing War Department investigation into the circumstances surrounding the 2021 terrorist airport bombing in Kabul, Afghanistan, has uncovered classified documents that had not been…",
-      "date": "2026-08-26",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4582866/review-panel-continues-its-mission-as-pentagon-marks-fifth-anniversary-of-abbey/"
+      "title": "Army Selects Vendors, Sites for Nuclear Microreactors",
+      "summary": "The Army's Janus Program selected five nuclear energy vendors and five initial locations to build and operate nuclear microreactors.",
+      "date": "2026-08-27",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4584583/army-selects-vendors-sites-for-nuclear-microreactors/"
     },
     {
       "sourceId": "dod",
-      "title": "U.S., Brunei Forces Build Readiness, Trust During Exercise Pahlawan Warrior",
-      "summary": "U.S. soldiers and Oklahoma National Guardsmen partnered with Royal Brunei Land Forces soldiers to sharpen their skills during Exercise Pahlawan Warrior 26 at Tutong Camp, Brunei, increasing readiness through shared tactics, jungle training and relationship-building.",
-      "date": "2026-08-25",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4582389/us-brunei-forces-build-readiness-trust-during-exercise-pahlawan-warrior/"
+      "title": "Global Strike Reimagines Readiness With Tactical Training Simulator",
+      "summary": "To ensure operational readiness and maintain the tactical edge, airmen must train their brains with the same rigor as their bodies. Air Force Global Strike Command is looking to accelerate and modernize this effort with MindGym, a tactical training simulator.",
+      "date": "2026-08-27",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4584469/global-strike-reimagines-readiness-with-tactical-training-simulator/"
     },
     {
       "sourceId": "dod",
-      "title": "Hegseth Greets Troops at Stratcom, Talks Arsenal of Freedom in Wisconsin",
-      "summary": "Secretary of War Pete Hegseth told military personnel assigned to U.S. Strategic Command at Offutt Air Force Base, Neb., that they are the center of America's deterrent capability.",
-      "date": "2026-08-24",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4581463/hegseth-greets-troops-at-stratcom-talks-arsenal-of-freedom-in-wisconsin/"
+      "title": "Marines Receive Upgraded Awards for 2021 Abbey Gate Attack Response",
+      "summary": "Secretary of War Pete Hegseth presented three retired Marines with upgraded awards for valor during a ceremony at the Pentagon. The upgrade was as a result of their heroic actions immediately following the Aug.",
+      "date": "2026-08-26",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4583445/marines-receive-upgraded-awards-for-2021-abbey-gate-attack-response/"
     },
     {
       "sourceId": "dod",
-      "title": "EOD Airmen Train on Full Spectrum of Explosive Threats",
-      "summary": "Airmen trained in high-pressure, simulated deployment scenarios during a weeklong exercise in Montana to sharpen their leadership and survival skills.",
-      "date": "2026-08-24",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4581480/eod-airmen-train-on-full-spectrum-of-explosive-threats/"
+      "title": "The Capital's Defenders: Two Centuries After Historic Battle, Citizen-Soldiers are Recognized",
+      "summary": "A ceremony commemorating the 212th anniversary of the Battle of Bladensburg connected America's Freedom 250 celebration with the citizen-soldier tradition that helped defend the nation in its earliest years and continues today with the National Guard.",
+      "date": "2026-08-26",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4583941/the-capitals-defenders-two-centuries-after-historic-battle-citizen-soldiers-are/"
     },
     {
       "sourceId": "dod",
-      "title": "Motors Assembled at Tobyhanna Army Depot Power Drone to World-Record Flight",
-      "summary": "A battery-powered small unmanned aircraft system recently shattered a world endurance record, flying for more than eight hours in the desert heat — a milestone achieved using critical propulsion components assembled by the Army's organic industrial base.",
-      "date": "2026-08-21",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4580293/motors-assembled-at-tobyhanna-army-depot-power-drone-to-world-record-flight/"
+      "title": "Army Armaments Center Unveils New Ammo Packaging System",
+      "summary": "The U.S. Army Combat Capabilities Development Command Armaments Center's new SixPAC system blends lightweight polymers with a rugged steel shell, marking a leap in small-caliber ammunition packaging intended to reshape how soldiers use munitions.",
+      "date": "2026-08-26",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4583508/army-armaments-center-unveils-new-ammo-packaging-system/"
     },
     {
       "sourceId": "viasat",
-      "title": "Lyntris Targets Faster Delivery Timelines in Smallsat Interview With Madison Dye",
-      "summary": "Lyntris was formed earlier this year when Vitesse Systems combined with Accelint to form a new defense tech company. The combined company supports defense and national security missions across space,",
-      "date": "2026-08-25",
-      "link": "https://www.satellitetoday.com/partner-content/2026/08/25/lyntris-targets-faster-delivery-timelines-in-smallsat-interview-with-madison-dye/"
+      "title": "PLD Space, Isar Aerospace, and Rocket Factory Augsburg Land ESA Contracts in Launch Challenge",
+      "summary": "The European Space Agency (ESA) has awarded more than 500 million euro in funding for the European Launch Challenge between PLD Space, Isar Aerospace, and Rocket Factory Augsburg. ESA also",
+      "date": "2026-08-27",
+      "link": "https://www.satellitetoday.com/launch/2026/08/27/pld-space-isar-aerospace-and-rocket-factory-augsburg-land-esa-contracts-in-launch-challenge/"
     },
     {
       "sourceId": "viasat",
-      "title": "Impulse Space Scales Rideshare Program to GEO With Increased Demand",
-      "summary": "SALT LAKE CITY, UTAH – Impulse Space has three rideshare missions to Geostationary Orbit (GEO) fully booked through 2028 and is looking at increasing the rideshare missions to twice as a",
-      "date": "2026-08-25",
-      "link": "https://www.satellitetoday.com/launch/2026/08/25/impulse-space-scales-rideshare-program-to-geo-with-increased-demand/"
+      "title": "Astrum Space Strikes SPAC Deal for D2D Service at $1B Valuation",
+      "summary": "Astrum Space plans to go public through a special purpose acquisition company (SPAC) merger to fund the company’s plans for a “satellite-to-device” (S2D) broadcast network for the Asia-Pacific region. The",
+      "date": "2026-08-27",
+      "link": "https://www.satellitetoday.com/finance/2026/08/27/astrum-space-strikes-spac-deal-for-d2d-service-at-1b-valuation/"
     },
     {
       "sourceId": "viasat",
-      "title": "Redwire to Manufacture Edge Aerospace Data Processing Units in US",
-      "summary": "SALT LAKE CITY, UTAH – Edge Aerospace is scaling its manufacturing in the U.S. through a licensing agreement with Redwire under which Redwire will manufacture Edge’s data processing units (DPUs) and",
-      "date": "2026-08-25",
-      "link": "https://www.satellitetoday.com/technology/2026/08/25/redwire-to-manufacture-edge-aerospace-data-processing-units-in-us/"
+      "title": "Lite Coms Adds SES MEO Compatibility, Comtech WGS-Certified Modem to Lite Sat 1.3A Terminal",
+      "summary": "U.S. satcom terminal manufacturer Lite Coms is now selling its Lite Sat 1.3A terminal in a validated remote-terminal configuration for SES O3b mPOWER Sovereign Services and Hybrid Sovereign Gateway architectures.",
+      "date": "2026-08-27",
+      "link": "https://www.satellitetoday.com/technology/2026/08/27/lite-coms-adds-ses-meo-compatibility-comtech-wgs-certified-modem-to-lite-sat-1-3a-terminal/"
     },
     {
       "sourceId": "viasat",
-      "title": "CesiumAstro Acquires 1Aardvark, Its 3rd Defense Systems Acquisition This Year",
-      "summary": "Space-based communications and intelligence provider CesiumAstro acquired a Virginia-based mission software and defense systems engineering company, 1Aardvark. Both companies announced the acquisition on Tuesday. The combination brings CesiumAstro’s satellites, communications",
-      "date": "2026-08-25",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/25/cesiumastro-acquires-1aardvark-its-3rd-defense-systems-acquisition-this-year/"
+      "title": "Kepler Enters Optical Tech Partnership, Hosted Payload Agreement with NorthStar",
+      "summary": "Kepler Communications will combine its optical data relay infrastructure with NorthStar’s Space Domain Awareness (SDA) services under the terms of a new strategic partnership the two companies announced Thursday. The deal",
+      "date": "2026-08-27",
+      "link": "https://www.satellitetoday.com/technology/2026/08/27/kepler-enters-optical-tech-partnership-hosted-payload-agreement-with-northstar/"
     },
     {
       "sourceId": "viasat",
-      "title": "TrustPoint Aces C-band GNSS Interference Demo for U.S. Naval Air Systems Command",
-      "summary": "Space-based positioning and navigation solutions firm TrustPoint successfully demonstrated its C-band signals in the presence of GNSS interference, a milestone listed under its contract with U.S. Naval Air Systems Command",
-      "date": "2026-08-25",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/25/trustpoint-aces-c-band-gnss-interference-demo-for-u-s-naval-air-systems-command/"
+      "title": "LeoLabs to Provide Space Force With Surveillance Radar",
+      "summary": "LeoLabs on Wednesday said the Space Force has awarded the company a $20.7 million contract to deliver a modified version of its Scout containerized space surveillance radar for a “new",
+      "date": "2026-08-26",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/26/leolabs-to-provide-space-force-with-surveillance-radar/"
     },
     {
       "sourceId": "spacecom",
-      "title": "Heat shield under fire | Space photo of the day for Aug. 26, 2026",
-      "summary": "This little satellite is doomed.",
-      "date": "2026-08-26",
-      "link": "https://www.space.com/technology/heat-shield-under-fire-space-photo-of-the-day-for-aug-26-2026"
+      "title": "James Webb Space Telescope observes 72 stars and finds planet formation is a race against time",
+      "summary": "Using the James Webb Space Telescope, astronomers have studied 72 young sun-like stars to discover that forming planets is a real race against time.",
+      "date": "2026-08-27",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-observes-72-stars-and-finds-planet-formation-is-a-race-against-time"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 26, 1978: Sigmund Jähn becomes 1st German in space",
-      "summary": "On Aug. 26, 1978, cosmonaut and pilot Sigmund Jähn became the first German to fly in space. Here's why it mattered.",
-      "date": "2026-08-26",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-26-2026"
+      "title": "Astronaut Jonny Kim leaves NASA, will return to active military duty",
+      "summary": "NASA astronaut Jonny Kim is leaving the space agency to continue his military career. Kim, who's also a medical doctor, completed one spaceflight during his NASA career.",
+      "date": "2026-08-27",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-jonny-kim-leaves-nasa-will-return-to-active-military-duty"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Star Wars: Zero Company' review: XCOM-like strategically recaptures the magic of your favorite Star Wars films",
-      "summary": "Bitreactor's blend of XCOM combat and a smaller-stakes story nails what makes the Star Wars franchise so special.",
-      "date": "2026-08-26",
-      "link": "https://www.space.com/entertainment/space-games/star-wars-zero-company-review-xcom-like-strategically-recaptures-the-magic-of-your-favorite-star-wars-films"
+      "title": "After failure of private rescue mission, NASA's Swift space telescope will crash back to Earth. But when and where?",
+      "summary": "A private spacecraft failed to rescue NASA's Swift space telescope, meaning the big observatory will come crashing back to Earth in the near future. But details are sparse at the moment.",
+      "date": "2026-08-27",
+      "link": "https://www.space.com/space-exploration/missions/after-failure-of-private-rescue-mission-nasas-swift-space-telescope-will-crash-back-to-earth-but-when-and-where"
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX's final Falcon 9 Starlink launch from Florida creates gorgeous 'jellyfish' over New York City (video)",
-      "summary": "SpaceX's last planned Falcon 9 Starlink launch from Florida created a memorable sight for folks hundreds of miles away — a glowing \"jellyfish\" high in the sky.",
-      "date": "2026-08-26",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-final-falcon-9-starlink-launch-from-florida-creates-gorgeous-jellyfish-over-new-york-city-video"
+      "title": "Starship is coming home! SpaceX loads floating spacecraft onto huge ship in the Indian Ocean (photos)",
+      "summary": "SpaceX has loaded Flight 13's Starship upper stage onto a ship in the Indian Ocean, more than a month after the vehicle splashed down. It is now headed home to Texas.",
+      "date": "2026-08-27",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/starship-is-coming-home-spacex-loads-floating-spacecraft-onto-huge-ship-in-the-indian-ocean-photos"
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX sends Starlink satellites to orbit on predawn launch from California",
-      "summary": "SpaceX launched 27 more of its Starlink broadband satellites to orbit today (Aug. 26), in a predawn liftoff from California's central coast.",
-      "date": "2026-08-26",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink--15-22-b1082-ocisly"
+      "title": "Trump tried to scrap NASA's Roman Space Telescope last year. Now it's ready to launch",
+      "summary": "NASA's Nancy Grace Roman Space Telescope is about to launch, but the observatory almost had a very different fate. President Trump's leaked budget proposal last year marked it for cancellation.",
+      "date": "2026-08-27",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/trump-tried-to-scrap-nasas-roman-space-telescope-last-year-now-its-ready-to-launch"
     },
     {
       "sourceId": "rspace",
-      "title": "Deloitte Report: Lunar Economy Could Generate up to $566 Billion in Economic Value Through 2050",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vywtcb/deloitte_report_lunar_economy_could_generate_up/\"> <img src=\"https://external-preview.redd.it/BllM7i-MvRdIqW_04lbc8AF0YbFtlWkOha0LILba4ds.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3dd126ed35e9453bef…",
-      "date": "2026-08-26",
-      "link": "https://www.reddit.com/r/space/comments/1vywtcb/deloitte_report_lunar_economy_could_generate_up/"
+      "title": "How Orbital Mechanics Wizardry Got Cassini To Saturn",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w0530q/how_orbital_mechanics_wizardry_got_cassini_to/\"> <img src=\"https://external-preview.redd.it/0kGRDLvuwkV3YGOj8sfq0MBqrr9qw3VqgkwMLwAWBGw.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a413f69a98caf6550635…",
+      "date": "2026-08-27",
+      "link": "https://www.reddit.com/r/space/comments/1w0530q/how_orbital_mechanics_wizardry_got_cassini_to/"
     },
     {
       "sourceId": "rspace",
-      "title": "Any astrophotographers in the North West, UK?!",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve recently started a North West Astrophotography WhatsApp Community after realising there isn&#39;t really one place for astrophotographers across the region to connect.</p> <p>It&#39;s for beginners and experienced imagers alike — DSLR,…",
-      "date": "2026-08-26",
-      "link": "https://www.reddit.com/r/space/comments/1vys2k4/any_astrophotographers_in_the_north_west_uk/"
+      "title": "NASA’s Roman Space Telescope will rewrite how we study the universe",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w01o1f/nasas_roman_space_telescope_will_rewrite_how_we/\"> <img src=\"https://external-preview.redd.it/aoupzzLNHOUjrhveCFVowlBhAim7OIUmqlXIrZC_Edw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=551787733673f01868…",
+      "date": "2026-08-27",
+      "link": "https://www.reddit.com/r/space/comments/1w01o1f/nasas_roman_space_telescope_will_rewrite_how_we/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Space Industry Keeps Growing, Boosted By Defense Initiatives",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vykgpl/the_space_industry_keeps_growing_boosted_by/\"> <img src=\"https://external-preview.redd.it/PbYLlCWchdUEpn5CduTj0_D_6kJqaSXMAwx8A3gKOGE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d83ca7106775a32b26109…",
-      "date": "2026-08-26",
-      "link": "https://www.reddit.com/r/space/comments/1vykgpl/the_space_industry_keeps_growing_boosted_by/"
+      "title": "U of A scientists play crucial roles in Nancy Grace Roman Space Telescope science, eagerly await Sunday's launch",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w01c1a/u_of_a_scientists_play_crucial_roles_in_nancy/\"> <img src=\"https://external-preview.redd.it/ptzeXy9hAZUGwzvf_KC-5kZP-e_nSRZnfD2AxpEGYqo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e4838dc967a03547bcc3…",
+      "date": "2026-08-27",
+      "link": "https://www.reddit.com/r/space/comments/1w01c1a/u_of_a_scientists_play_crucial_roles_in_nancy/"
     },
     {
       "sourceId": "rspace",
-      "title": "High-resolution PSB/TIFF space images (Multi GB files)",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was looking at some websites, and there used to be links for high-resolution photos. I even downloaded some a few years ago, but now they are no longer there.",
-      "date": "2026-08-25",
-      "link": "https://www.reddit.com/r/space/comments/1vy9f1k/highresolution_psbtiff_space_images_multi_gb_files/"
+      "title": "ESA Awards €544 Million in European Launcher Challenge Contracts",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w002wt/esa_awards_544_million_in_european_launcher/\"> <img src=\"https://external-preview.redd.it/dCvW5yX6oLRZDmcIevjfahwNFSp6EydYd_3aDmLJDR8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3898ef02129c6e612ba217…",
+      "date": "2026-08-27",
+      "link": "https://www.reddit.com/r/space/comments/1w002wt/esa_awards_544_million_in_european_launcher/"
     },
     {
       "sourceId": "rspace",
-      "title": "This is one hour of satellite trails over the world's darkest sky. Astronomers say nearly 2 million planned satellites could be 'devastating' — BBC Sky at Night Magazine",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is one hour of satellite trails over the world&#39;s darkest sky. Astronomers say nearly 2 million planned satellites could be &#39;devastating&#39; - BBC Sky at Night Magazine</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a…",
-      "date": "2026-08-25",
-      "link": "https://www.reddit.com/r/space/comments/1vy6gyl/this_is_one_hour_of_satellite_trails_over_the/"
+      "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vzy2pp/nasa_astronaut_jonny_kim_departs_agency_to/\"> <img src=\"https://external-preview.redd.it/Z1leNfL1DNIQ21HLjr4XsL_x7cCJnQ2-DJseEcw1sk0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=63dcc64c09b8b15d3825a69…",
+      "date": "2026-08-27",
+      "link": "https://www.reddit.com/r/space/comments/1vzy2pp/nasa_astronaut_jonny_kim_departs_agency_to/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned",
-      "summary": "NASA will provide coverage as two astronauts step outside the International Space Station on Tuesday, Sept. 1, to replace a spacecraft navigational aid and complete several maintenance tasks in support of space station operations. Watch live coverage beginning at 7 a.m. EDT.",
-      "date": "2026-08-26",
-      "link": "https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned/"
+      "title": "NASA Invites Media to Turkey Artemis Accords Signing Ceremony",
+      "summary": "Turkey will sign the Artemis Accords during a ceremony at 2:30 p.m. EDT Monday, Aug. 31, at NASA Headquarters in Washington, becoming the 71st country signatory.",
+      "date": "2026-08-27",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Begins Moon Mission Plume-Surface Interaction Tests",
-      "summary": "EDITOR’S NOTE: This story, originally published in December, was revised Aug. 26, 2026 with an update on a new phase of testing, including video from a recent test run and new images.",
-      "date": "2026-08-26",
-      "link": "https://www.nasa.gov/missions/artemis/nasa-begins-moon-mission-plume-surface-interaction-tests/"
+      "title": "Civil Servants Sworn in at NASA Ames",
+      "summary": "New civil servants and guests pose for a group photo with NASA and center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221 on Aug. 24, 2026.",
+      "date": "2026-08-27",
+      "link": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/"
     },
     {
       "sourceId": "nasa",
-      "title": "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
-      "summary": "At 17, Jeret Howard raised his right hand to serve his country as a United States Army combat medic in Iraq. This past summer, he raised his right hand again at NASA’s Stennis Space Center near Bay St. Louis, Mississippi.",
-      "date": "2026-08-26",
-      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/"
+      "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
+      "summary": "NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. EDT on Sunday, Aug. 30. While you wait to watch the launch, brush up on some key facts about this wide-view mission.",
+      "date": "2026-08-27",
+      "link": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula",
-      "summary": "APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-08-26",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/"
+      "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
+      "summary": "After nearly a decade of service to NASA, including an eight-month science expedition aboard the International Space Station, astronaut Jonny Kim’s last day at the agency is Thursday. He will continue serving as lieutenant commander in the U.S. Navy.",
+      "date": "2026-08-27",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/"
     },
     {
       "sourceId": "nasa",
-      "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-      "summary": "NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space communications and navigation system.",
-      "date": "2026-08-25",
-      "link": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/"
+      "title": "APOD: 2026 August 27 – Colorful Aurora over an Icelandic Waterfall",
+      "summary": "APOD Science APOD APOD: 2026 August 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-08-27",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-27-colorful-aurora-over-an-icelandic-waterfall/"
     }
   ]
 }
