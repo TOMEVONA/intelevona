@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T23:27:32.414Z",
+  "updated": "2026-08-28T22:57:37.858Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,27 @@
     },
     {
       "sourceId": "dod",
+      "title": "Army Lasers Blast Drones, Proving Directed-Energy Weapons Are Future",
+      "summary": "Service members assigned to Joint Task Force Southern Border used the Army Multipurpose High Energy Laser system to stop three hostile, unmanned aircraft systems deemed a threat. They were believed to be linked to drug cartels.",
+      "date": "2026-08-28",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4586023/army-lasers-blast-drones-proving-directed-energy-weapons-are-future/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Guard Program Links Global Partnership to DOW Priorities",
+      "summary": "Senior leaders and security cooperation personnel from across the War Department gathered for the 2026 National Guard Bureau State Partnership Program conference in Atlanta to align activities and engagements with national defense strategy lines of effort.",
+      "date": "2026-08-28",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4585627/guard-program-links-global-partnership-to-dow-priorities/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Sky Soldiers Train for Modern Conflict in Europe's Premier Crucible Event",
+      "summary": "U.S. soldiers participated in Exercise Saber Junction 26 alongside allied troops in Germany to test combat readiness and new drone technology.",
+      "date": "2026-08-28",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4585252/sky-soldiers-train-for-modern-conflict-in-europes-premier-crucible-event/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Army Selects Vendors, Sites for Nuclear Microreactors",
       "summary": "The Army's Janus Program selected five nuclear energy vendors and five initial locations to build and operate nuclear microreactors.",
       "date": "2026-08-27",
@@ -226,130 +247,109 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4584469/global-strike-reimagines-readiness-with-tactical-training-simulator/"
     },
     {
-      "sourceId": "dod",
-      "title": "Marines Receive Upgraded Awards for 2021 Abbey Gate Attack Response",
-      "summary": "Secretary of War Pete Hegseth presented three retired Marines with upgraded awards for valor during a ceremony at the Pentagon. The upgrade was as a result of their heroic actions immediately following the Aug.",
-      "date": "2026-08-26",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4583445/marines-receive-upgraded-awards-for-2021-abbey-gate-attack-response/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "The Capital's Defenders: Two Centuries After Historic Battle, Citizen-Soldiers are Recognized",
-      "summary": "A ceremony commemorating the 212th anniversary of the Battle of Bladensburg connected America's Freedom 250 celebration with the citizen-soldier tradition that helped defend the nation in its earliest years and continues today with the National Guard.",
-      "date": "2026-08-26",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4583941/the-capitals-defenders-two-centuries-after-historic-battle-citizen-soldiers-are/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Army Armaments Center Unveils New Ammo Packaging System",
-      "summary": "The U.S. Army Combat Capabilities Development Command Armaments Center's new SixPAC system blends lightweight polymers with a rugged steel shell, marking a leap in small-caliber ammunition packaging intended to reshape how soldiers use munitions.",
-      "date": "2026-08-26",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4583508/army-armaments-center-unveils-new-ammo-packaging-system/"
+      "sourceId": "viasat",
+      "title": "Smaller Space Companies Want to See Programs of Record for Their Investments",
+      "summary": "Smaller space companies want to see how the “commercial first” mantra of Pentagon acquisition reform translates into programs of record. The Space Force contends that its nine, new program acquisition",
+      "date": "2026-08-28",
+      "link": "https://www.satellitetoday.com/finance/2026/08/28/smaller-space-companies-want-to-see-programs-of-record-for-their-investments/"
     },
     {
       "sourceId": "viasat",
-      "title": "PLD Space, Isar Aerospace, and Rocket Factory Augsburg Land ESA Contracts in Launch Challenge",
-      "summary": "The European Space Agency (ESA) has awarded more than 500 million euro in funding for the European Launch Challenge between PLD Space, Isar Aerospace, and Rocket Factory Augsburg. ESA also",
-      "date": "2026-08-27",
-      "link": "https://www.satellitetoday.com/launch/2026/08/27/pld-space-isar-aerospace-and-rocket-factory-augsburg-land-esa-contracts-in-launch-challenge/"
+      "title": "India’s InspeCity Raises $10.5M in Pre-Series A round",
+      "summary": "InspeCity, a space startup based in India, has raised $10.5 million in a pre-Series A funding round to support four planned on-orbit missions over the next year and a half.",
+      "date": "2026-08-28",
+      "link": "https://www.satellitetoday.com/finance/2026/08/28/indias-inspecity-raises-10-5m-in-pre-series-a-round/"
     },
     {
       "sourceId": "viasat",
-      "title": "Astrum Space Strikes SPAC Deal for D2D Service at $1B Valuation",
-      "summary": "Astrum Space plans to go public through a special purpose acquisition company (SPAC) merger to fund the company’s plans for a “satellite-to-device” (S2D) broadcast network for the Asia-Pacific region. The",
-      "date": "2026-08-27",
-      "link": "https://www.satellitetoday.com/finance/2026/08/27/astrum-space-strikes-spac-deal-for-d2d-service-at-1b-valuation/"
+      "title": "NASA’s Nancy Grace Roman Telescope Set for Falcon Heavy Launch on Sunday",
+      "summary": "NASA’s Nancy Grace Roman Telescope is set to launch on Sunday morning on a SpaceX Falcon Heavy mission. The telescope, named after NASA’s first chief of astronomy, will orbit 1",
+      "date": "2026-08-28",
+      "link": "https://www.satellitetoday.com/launch/2026/08/28/nasas-nancy-grace-roman-telescope-set-for-falcon-heavy-launch-on-sunday/"
     },
     {
       "sourceId": "viasat",
-      "title": "Lite Coms Adds SES MEO Compatibility, Comtech WGS-Certified Modem to Lite Sat 1.3A Terminal",
-      "summary": "U.S. satcom terminal manufacturer Lite Coms is now selling its Lite Sat 1.3A terminal in a validated remote-terminal configuration for SES O3b mPOWER Sovereign Services and Hybrid Sovereign Gateway architectures.",
-      "date": "2026-08-27",
-      "link": "https://www.satellitetoday.com/technology/2026/08/27/lite-coms-adds-ses-meo-compatibility-comtech-wgs-certified-modem-to-lite-sat-1-3a-terminal/"
+      "title": "Europe’s Meteosat Third Generation Constellation Complete After Latest Launch",
+      "summary": "The Meteosat Third Generation system imaging system is now complete after Arianespace launched the second satellite on Aug. 27. European meteorological agency EUMETSAT confirmed after the launch that the MTG-I2",
+      "date": "2026-08-28",
+      "link": "https://www.satellitetoday.com/earth-observation/2026/08/28/europes-meteosat-third-generation-constellation-complete-after-latest-launch/"
     },
     {
       "sourceId": "viasat",
-      "title": "Kepler Enters Optical Tech Partnership, Hosted Payload Agreement with NorthStar",
-      "summary": "Kepler Communications will combine its optical data relay infrastructure with NorthStar’s Space Domain Awareness (SDA) services under the terms of a new strategic partnership the two companies announced Thursday. The deal",
-      "date": "2026-08-27",
-      "link": "https://www.satellitetoday.com/technology/2026/08/27/kepler-enters-optical-tech-partnership-hosted-payload-agreement-with-northstar/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "LeoLabs to Provide Space Force With Surveillance Radar",
-      "summary": "LeoLabs on Wednesday said the Space Force has awarded the company a $20.7 million contract to deliver a modified version of its Scout containerized space surveillance radar for a “new",
-      "date": "2026-08-26",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/26/leolabs-to-provide-space-force-with-surveillance-radar/"
+      "title": "Ovzon to Enter German Market With New Partnerships",
+      "summary": "Swedish satellite operator Ovzon is beginning to enter the German market through two new partnerships announced this week. The company will perform an initial test implementation with a German government",
+      "date": "2026-08-28",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/28/ovzon-to-enter-german-market-with-new-partnerships/"
     },
     {
       "sourceId": "spacecom",
-      "title": "James Webb Space Telescope observes 72 stars and finds planet formation is a race against time",
-      "summary": "Using the James Webb Space Telescope, astronomers have studied 72 young sun-like stars to discover that forming planets is a real race against time.",
-      "date": "2026-08-27",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-observes-72-stars-and-finds-planet-formation-is-a-race-against-time"
+      "title": "What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline)",
+      "summary": "SpaceX will launch the Nancy Grace Roman Space Telescope, NASA's next great observatory, atop a Falcon Heavy rocket on Aug. 30. Here's what time it flies.",
+      "date": "2026-08-28",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time"
     },
     {
       "sourceId": "spacecom",
-      "title": "Astronaut Jonny Kim leaves NASA, will return to active military duty",
-      "summary": "NASA astronaut Jonny Kim is leaving the space agency to continue his military career. Kim, who's also a medical doctor, completed one spaceflight during his NASA career.",
-      "date": "2026-08-27",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-jonny-kim-leaves-nasa-will-return-to-active-military-duty"
+      "title": "Our choice as one of the best budget telescopes now has 17% off — this telescope deal is worth grabbing fast",
+      "summary": "Our expert tester rated the Celestron StarSense Explorer DX 130AZ telescope with an impressive review and it's now at one of its lowest prices this year in this limited-time Amazon deal.",
+      "date": "2026-08-28",
+      "link": "https://www.space.com/stargazing/skywatching-kit/our-choice-as-one-of-the-best-budget-telescopes-now-has-17-percent-off-this-telescope-deal-is-worth-grabbing-fast"
     },
     {
       "sourceId": "spacecom",
-      "title": "After failure of private rescue mission, NASA's Swift space telescope will crash back to Earth. But when and where?",
-      "summary": "A private spacecraft failed to rescue NASA's Swift space telescope, meaning the big observatory will come crashing back to Earth in the near future. But details are sparse at the moment.",
-      "date": "2026-08-27",
-      "link": "https://www.space.com/space-exploration/missions/after-failure-of-private-rescue-mission-nasas-swift-space-telescope-will-crash-back-to-earth-but-when-and-where"
+      "title": "The night we nearly saw a 'blood moon' (and why I love near-misses in astronomy)",
+      "summary": "Astronomy is often about being close to extraordinary things without fully experiencing them. Here's why to love partials, grazings, faint objects and other almost-events.",
+      "date": "2026-08-28",
+      "link": "https://www.space.com/stargazing/the-night-we-nearly-saw-a-blood-moon-and-why-i-love-near-misses-in-astronomy"
     },
     {
       "sourceId": "spacecom",
-      "title": "Starship is coming home! SpaceX loads floating spacecraft onto huge ship in the Indian Ocean (photos)",
-      "summary": "SpaceX has loaded Flight 13's Starship upper stage onto a ship in the Indian Ocean, more than a month after the vehicle splashed down. It is now headed home to Texas.",
-      "date": "2026-08-27",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/starship-is-coming-home-spacex-loads-floating-spacecraft-onto-huge-ship-in-the-indian-ocean-photos"
+      "title": "'It's going to be beautiful': President Trump signs order to create US Space Academy",
+      "summary": "President Trump just signed an executive order creating the U.S. Space Academy, which will train students for a career studying, exploring, exploiting or helping to protect the final frontier.",
+      "date": "2026-08-28",
+      "link": "https://www.space.com/space-exploration/its-going-to-be-beautiful-president-trump-signs-order-to-create-us-space-academy"
     },
     {
       "sourceId": "spacecom",
-      "title": "Trump tried to scrap NASA's Roman Space Telescope last year. Now it's ready to launch",
-      "summary": "NASA's Nancy Grace Roman Space Telescope is about to launch, but the observatory almost had a very different fate. President Trump's leaked budget proposal last year marked it for cancellation.",
-      "date": "2026-08-27",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/trump-tried-to-scrap-nasas-roman-space-telescope-last-year-now-its-ready-to-launch"
+      "title": "'Silo' season 3: Common and Alexandria Riley talk shocking truths and writers tearing their on-screen marriage apart (interview)",
+      "summary": "\"I love that they’ve given our characters this much of a journey.\"",
+      "date": "2026-08-28",
+      "link": "https://www.space.com/entertainment/space-movies-shows/silo-season-3-common-and-alexandria-riley-talk-shocking-truths-and-writers-tearing-their-on-screen-marriage-apart-interview"
     },
     {
       "sourceId": "rspace",
-      "title": "How Orbital Mechanics Wizardry Got Cassini To Saturn",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w0530q/how_orbital_mechanics_wizardry_got_cassini_to/\"> <img src=\"https://external-preview.redd.it/0kGRDLvuwkV3YGOj8sfq0MBqrr9qw3VqgkwMLwAWBGw.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a413f69a98caf6550635…",
-      "date": "2026-08-27",
-      "link": "https://www.reddit.com/r/space/comments/1w0530q/how_orbital_mechanics_wizardry_got_cassini_to/"
+      "title": "See which Louisiana officials signed NDAs for SpaceX’s ‘Project Osprey’. Dozens of state officials, companies and consultants signed nondisclosure agreements to keep information secret about SpaceX’s Vermilion Parish spaceport, records show.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w125my/see_which_louisiana_officials_signed_ndas_for/\"> <img src=\"https://external-preview.redd.it/dHWpNbR8mj36U-0wbztuNcjST-hG-JiY5tGiJ_JQ-CU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=67f95c18e68d14f1155b…",
+      "date": "2026-08-28",
+      "link": "https://www.reddit.com/r/space/comments/1w125my/see_which_louisiana_officials_signed_ndas_for/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA’s Roman Space Telescope will rewrite how we study the universe",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w01o1f/nasas_roman_space_telescope_will_rewrite_how_we/\"> <img src=\"https://external-preview.redd.it/aoupzzLNHOUjrhveCFVowlBhAim7OIUmqlXIrZC_Edw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=551787733673f01868…",
-      "date": "2026-08-27",
-      "link": "https://www.reddit.com/r/space/comments/1w01o1f/nasas_roman_space_telescope_will_rewrite_how_we/"
+      "title": "NASA's Swift Obseratory Restarts Science Observations After Failure of Rescue Mission",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w121kn/nasas_swift_obseratory_restarts_science/\"> <img src=\"https://external-preview.redd.it/kBLKW6rvaXtZ7grPtIydIcgiJJwFFlDHaINb_N6n7NA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=19188d1dd791f2114f1b2132c68…",
+      "date": "2026-08-28",
+      "link": "https://www.reddit.com/r/space/comments/1w121kn/nasas_swift_obseratory_restarts_science/"
     },
     {
       "sourceId": "rspace",
-      "title": "U of A scientists play crucial roles in Nancy Grace Roman Space Telescope science, eagerly await Sunday's launch",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w01c1a/u_of_a_scientists_play_crucial_roles_in_nancy/\"> <img src=\"https://external-preview.redd.it/ptzeXy9hAZUGwzvf_KC-5kZP-e_nSRZnfD2AxpEGYqo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e4838dc967a03547bcc3…",
-      "date": "2026-08-27",
-      "link": "https://www.reddit.com/r/space/comments/1w01c1a/u_of_a_scientists_play_crucial_roles_in_nancy/"
+      "title": "Ten cosmic discoveries we’ll get from NASA’s Roman Space Telescope",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w0zqgb/ten_cosmic_discoveries_well_get_from_nasas_roman/\"> <img src=\"https://external-preview.redd.it/D6MM6B70MQBUwC5otEY8WH2c1-A_9ZNxtwNANUBaDbw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2ce92c80d14e509c…",
+      "date": "2026-08-28",
+      "link": "https://www.reddit.com/r/space/comments/1w0zqgb/ten_cosmic_discoveries_well_get_from_nasas_roman/"
     },
     {
       "sourceId": "rspace",
-      "title": "ESA Awards €544 Million in European Launcher Challenge Contracts",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w002wt/esa_awards_544_million_in_european_launcher/\"> <img src=\"https://external-preview.redd.it/dCvW5yX6oLRZDmcIevjfahwNFSp6EydYd_3aDmLJDR8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3898ef02129c6e612ba217…",
-      "date": "2026-08-27",
-      "link": "https://www.reddit.com/r/space/comments/1w002wt/esa_awards_544_million_in_european_launcher/"
+      "title": "Establishing the United States Space Academy - The White House",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w0x0tx/establishing_the_united_states_space_academy_the/\"> <img src=\"https://external-preview.redd.it/4FzYal9cqXZ3s9Qt8n9HScEecjdldqOd04HXExzO8i8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb89e898879eb7ade…",
+      "date": "2026-08-28",
+      "link": "https://www.reddit.com/r/space/comments/1w0x0tx/establishing_the_united_states_space_academy_the/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1vzy2pp/nasa_astronaut_jonny_kim_departs_agency_to/\"> <img src=\"https://external-preview.redd.it/Z1leNfL1DNIQ21HLjr4XsL_x7cCJnQ2-DJseEcw1sk0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=63dcc64c09b8b15d3825a69…",
-      "date": "2026-08-27",
-      "link": "https://www.reddit.com/r/space/comments/1vzy2pp/nasa_astronaut_jonny_kim_departs_agency_to/"
+      "title": "To see exoplanets, NASA’s Roman Space Telescope will throw shade on stars",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w0qzj6/to_see_exoplanets_nasas_roman_space_telescope/\"> <img src=\"https://external-preview.redd.it/m-QrMIt-j0kpn9clfVHYJx01nRuroYhxQGBqrFL_R74.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6b0fbe8d0e85bc144aaa…",
+      "date": "2026-08-28",
+      "link": "https://www.reddit.com/r/space/comments/1w0qzj6/to_see_exoplanets_nasas_roman_space_telescope/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Invites Media to Turkey Artemis Accords Signing Ceremony",
-      "summary": "Turkey will sign the Artemis Accords during a ceremony at 2:30 p.m. EDT Monday, Aug. 31, at NASA Headquarters in Washington, becoming the 71st country signatory.",
-      "date": "2026-08-27",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+      "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+      "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug.",
+      "date": "2026-08-28",
+      "link": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/"
     },
     {
       "sourceId": "nasa",
-      "title": "Civil Servants Sworn in at NASA Ames",
-      "summary": "New civil servants and guests pose for a group photo with NASA and center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221 on Aug. 24, 2026.",
-      "date": "2026-08-27",
-      "link": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/"
+      "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
+      "summary": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials,…",
+      "date": "2026-08-28",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/"
     },
     {
       "sourceId": "nasa",
-      "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
-      "summary": "NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. EDT on Sunday, Aug. 30. While you wait to watch the launch, brush up on some key facts about this wide-view mission.",
-      "date": "2026-08-27",
-      "link": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/"
+      "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+      "summary": "President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission.",
+      "date": "2026-08-28",
+      "link": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
-      "summary": "After nearly a decade of service to NASA, including an eight-month science expedition aboard the International Space Station, astronaut Jonny Kim’s last day at the agency is Thursday. He will continue serving as lieutenant commander in the U.S. Navy.",
-      "date": "2026-08-27",
-      "link": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/"
+      "title": "President Trump Signs Executive Order to Create US Space Academy",
+      "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy.",
+      "date": "2026-08-28",
+      "link": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 August 27 – Colorful Aurora over an Icelandic Waterfall",
-      "summary": "APOD Science APOD APOD: 2026 August 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-08-27",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-27-colorful-aurora-over-an-icelandic-waterfall/"
+      "title": "Grants",
+      "summary": "*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with PMS to resolve the issue. Updates will be posted here.",
+      "date": "2026-08-28",
+      "link": "https://www.nasa.gov/centers-and-facilities/grants-2/"
     }
   ]
 }
