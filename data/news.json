@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T19:27:12.312Z",
+  "updated": "2026-08-31T19:47:25.985Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -248,38 +248,38 @@
     },
     {
       "sourceId": "viasat",
+      "title": "ViaSat-3 F3 Satellite Enters Service",
+      "summary": "Viasat’s third ViaSat-3 satellite (F3) has officially entered service over the Asia-Pacific region, the operator confirmed Monday. The F3 satellite will add 1 terabit per second of capacity to Viasat’s",
+      "date": "2026-08-31",
+      "link": "https://www.satellitetoday.com/connectivity/2026/08/31/viasat-3-f3-satellite-enters-service/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "All.Space Wins DIU Award Focused on Increasing Production Rate",
+      "summary": "All.Space has received a contract from the Defense Innovation Unit (DIU) for its Hydra satcom terminal under a contract focused on increasing production rates in the U.S. defense supply chain.",
+      "date": "2026-08-31",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/31/all-space-wins-diu-award-focused-on-increasing-production-rate/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "NorthStar to Lead ESA Consortium on Uncontrolled Reentry",
+      "summary": "The European Space Agency (ESA) has selected NorthStar Earth & Space to lead a study on uncontrolled atmospheric re-entry. NorthStar’s European subsidiary will lead a consortium for ESA’s Forecasting of",
+      "date": "2026-08-31",
+      "link": "https://www.satellitetoday.com/sustainability/2026/08/31/northstar-to-lead-esa-consortium-on-uncontrolled-reentry/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "OHB to Build 18 MEO Satellites for IRIS² in Nearly €1B Award",
+      "summary": "SES awarded a contract to OHB to manufacture 18 Medium-Earth Orbit (MEO) satellites for Europe’s IRIS² constellation in a deal announced Monday. OHB said the contract is worth nearly 1",
+      "date": "2026-08-31",
+      "link": "https://www.satellitetoday.com/connectivity/2026/08/31/ohb-to-build-18-meo-satellites-for-iris%c2%b2-in-nearly-e1b-award/"
+    },
+    {
+      "sourceId": "viasat",
       "title": "Smaller Space Companies Want to See Programs of Record for Their Investments",
       "summary": "Smaller space companies want to see how the “commercial first” mantra of Pentagon acquisition reform translates into programs of record. The Space Force contends that its nine, new program acquisition",
       "date": "2026-08-28",
       "link": "https://www.satellitetoday.com/finance/2026/08/28/smaller-space-companies-want-to-see-programs-of-record-for-their-investments/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "India’s InspeCity Raises $10.5M in Pre-Series A round",
-      "summary": "InspeCity, a space startup based in India, has raised $10.5 million in a pre-Series A funding round to support four planned on-orbit missions over the next year and a half.",
-      "date": "2026-08-28",
-      "link": "https://www.satellitetoday.com/finance/2026/08/28/indias-inspecity-raises-10-5m-in-pre-series-a-round/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "NASA’s Nancy Grace Roman Telescope Launches on Falcon Heavy Rocket",
-      "summary": "NASA’s Nancy Grace Roman Telescope lifted off on Sunday morning on a SpaceX Falcon Heavy mission. The telescope, named after NASA’s first chief of astronomy, will orbit 1 million miles",
-      "date": "2026-08-28",
-      "link": "https://www.satellitetoday.com/launch/2026/08/28/nasas-nancy-grace-roman-telescope-set-for-falcon-heavy-launch-on-sunday/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Europe’s Meteosat Third Generation Constellation Complete After Latest Launch",
-      "summary": "The Meteosat Third Generation system imaging system is now complete after Arianespace launched the second satellite on Aug. 27. European meteorological agency EUMETSAT confirmed after the launch that the MTG-I2",
-      "date": "2026-08-28",
-      "link": "https://www.satellitetoday.com/earth-observation/2026/08/28/europes-meteosat-third-generation-constellation-complete-after-latest-launch/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Ovzon to Enter German Market With New Partnerships",
-      "summary": "Swedish satellite operator Ovzon is beginning to enter the German market through two new partnerships announced this week. The company will perform an initial test implementation with a German government",
-      "date": "2026-08-28",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/28/ovzon-to-enter-german-market-with-new-partnerships/"
     },
     {
       "sourceId": "spacecom",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "September 2026 Satellite Puzzler",
+      "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
+      "date": "2026-08-31",
+      "link": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
       "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer.",
       "date": "2026-08-31",
@@ -448,13 +455,6 @@
       "summary": "Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026.",
       "date": "2026-08-30",
       "link": "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Deep Space Network’s New Goldstone Antenna Goes Online",
-      "summary": "Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026.",
-      "date": "2026-08-30",
-      "link": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/"
     }
   ]
 }
