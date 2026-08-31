@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-30T17:51:56.922Z",
+  "updated": "2026-08-31T19:27:12.312Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
+      "summary": "August 31, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome Outlier and Rendezvous Robotics as its newest Associate Members, bringing expertise in reusable satellite platforms and adaptable",
+      "date": "2026-08-31",
+      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Speed to Field Starts Below the Prime",
+      "summary": "I have spent much of my career looking at the defense industrial base from different vantage points: as a warfighter, inside major defense companies, and now leading a company whose",
+      "date": "2026-08-31",
+      "link": "https://spacenews.com/speed-to-field-starts-below-the-prime/"
+    },
     {
       "sourceId": "spacenews",
       "title": "The electronics ‘under the hood’ of space networking",
@@ -21,20 +35,6 @@
       "summary": "LAFAYETTE, Colo. (August 26, 2026) — Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX’s (NYSE: RTX) Raytheon business, has unveiled its latest spacecraft subsystem, the",
       "date": "2026-08-26",
       "link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "The threat environment and processing at the edge",
-      "summary": "In this episode, SpaceNews’ Mike Gruss interviews FrontGrade CTO Lorne Graves. They discuss how processing power on spacecraft is adapting to the rise of megaconstellations, what benefits satellite processing power",
-      "date": "2026-08-26",
-      "link": "https://spacenews.com/the-threat-environment-and-processing-at-the-edge/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Propulsion is having a moment",
-      "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical",
-      "date": "2026-08-25",
-      "link": "https://spacenews.com/propulsion-is-having-a-moment/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "DAF announces additional guidance implementing changes in response to SECWAR memorandums",
+      "summary": "Key changes address medical shaving profile separations, mandatory CBRN mask fit validation deadlines, religious ministry evaluation criteria for chaplains, and streamlined equal opportunity reporting processes. <br/>",
+      "date": "2026-08-31",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4585049/daf-announces-additional-guidance-implementing-changes-in-response-to-secwar-me/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "Hernandez-Baquero swears in as Department of the Air Force space acquisition and integration lead",
       "summary": "Dr. Erich \"HB\" Hernandez-Baquero was sworn in as the second Assistant Secretary of the Air Force for Space Acquisition and Integration during a Pentagon ceremony this morning, following his confirmation to the role by the U.S. Senate, Aug. 7. <br/>",
       "date": "2026-08-24",
@@ -205,11 +212,11 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4573126/cso-notice-to-guardians-the-guardian-spirit-endures/"
     },
     {
-      "sourceId": "ussf",
-      "title": "Space Forces in Europe - Space Forces Africa changes command",
-      "summary": "Brig. Gen. Christopher A. Fernengel assumed command of U.S. Space Forces in Europe – Space Forces Africa during a change of command ceremony at Ramstein Air Base, Germany, Aug.",
-      "date": "2026-08-13",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4572659/space-forces-in-europe-space-forces-africa-changes-command/"
+      "sourceId": "dod",
+      "title": "Michigan National Guard Trains Mission-Ready Pilots Over Lake Huron",
+      "summary": "The Michigan National Guard debuted its newly acquired Mark VI patrol boat in Lake Huron during Exercise Northern Strike 26-2 to simulate fast-attack threats and train visiting aviation units in complex maritime targeting.",
+      "date": "2026-08-31",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4586595/michigan-national-guard-trains-mission-ready-pilots-over-lake-huron/"
     },
     {
       "sourceId": "dod",
@@ -240,13 +247,6 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4584583/army-selects-vendors-sites-for-nuclear-microreactors/"
     },
     {
-      "sourceId": "dod",
-      "title": "Global Strike Reimagines Readiness With Tactical Training Simulator",
-      "summary": "To ensure operational readiness and maintain the tactical edge, airmen must train their brains with the same rigor as their bodies. Air Force Global Strike Command is looking to accelerate and modernize this effort with MindGym, a tactical training simulator.",
-      "date": "2026-08-27",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4584469/global-strike-reimagines-readiness-with-tactical-training-simulator/"
-    },
-    {
       "sourceId": "viasat",
       "title": "Smaller Space Companies Want to See Programs of Record for Their Investments",
       "summary": "Smaller space companies want to see how the “commercial first” mantra of Pentagon acquisition reform translates into programs of record. The Space Force contends that its nine, new program acquisition",
@@ -262,8 +262,8 @@
     },
     {
       "sourceId": "viasat",
-      "title": "NASA’s Nancy Grace Roman Telescope Set for Falcon Heavy Launch on Sunday",
-      "summary": "NASA’s Nancy Grace Roman Telescope is set to launch on Sunday morning on a SpaceX Falcon Heavy mission. The telescope, named after NASA’s first chief of astronomy, will orbit 1",
+      "title": "NASA’s Nancy Grace Roman Telescope Launches on Falcon Heavy Rocket",
+      "summary": "NASA’s Nancy Grace Roman Telescope lifted off on Sunday morning on a SpaceX Falcon Heavy mission. The telescope, named after NASA’s first chief of astronomy, will orbit 1 million miles",
       "date": "2026-08-28",
       "link": "https://www.satellitetoday.com/launch/2026/08/28/nasas-nancy-grace-roman-telescope-set-for-falcon-heavy-launch-on-sunday/"
     },
@@ -283,73 +283,73 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 30, 1992: Astronomers discover 1st Kuiper Belt object out beyond Pluto",
-      "summary": "On Aug. 30, 1992, astronomers spotted an object orbiting the sun beyond Pluto for the very first time. Here's why the discovery of 1992 QB-1 mattered.",
-      "date": "2026-08-30",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-30-2026"
+      "title": "What's next for Roman Space Telescope? Here's how NASA's flagship observatory will open up the universe",
+      "summary": "NASA's Nancy Grace Roman Space Telescope has left Earth, but it'll be a while before it starts its highly anticipated science mission. Here are the next steps for the observatory.",
+      "date": "2026-08-31",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nancy-grace-roman-space-telescope-next-steps-commissioning"
     },
     {
       "sourceId": "spacecom",
-      "title": "Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)",
-      "summary": "NASA's Nancy Grace Roman Space Telescope launched into space atop a SpaceX Falcon Heavy rocket on Aug. 30, ushering in a new era for astronomy and our understanding of the cosmos.",
-      "date": "2026-08-30",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video"
+      "title": "SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft",
+      "summary": "The launch of SpaceX's Crew-13 mission to the ISS, previously scheduled for Sept. 12, has been delayed due to an oxidizer leak on the Dragon spacecraft. A new target has not yet been announced.",
+      "date": "2026-08-31",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-nasa-delay-next-astronaut-launch-to-iss-due-to-leak-on-dragon-spacecraft"
     },
     {
       "sourceId": "spacecom",
-      "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
-      "summary": "A SpaceX Falcon Heavy rocket is poised to lift off with the Nancy Grace Roman Space Telescope on Aug. 30. This observatory is on a mission to usher in a new wave of astronomical discovery.",
-      "date": "2026-08-29",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket"
+      "title": "On this day in space! Aug. 31, 1965: NASA's ginormous Super Guppy carrier plane takes 1st flight like a flying whale",
+      "summary": "On August 31, 1965, NASA's Super Guppy cargo plane took its first test flight. like a flying whale. Here's why it mattered for the space agency.",
+      "date": "2026-08-31",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-31-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "This Week In Space podcast: Episode 225 — Get a Grip!",
-      "summary": "On Episode 225 of This Week In Space, Rod Pyle and Tariq Malik are joined by Adam Kall of KMI to discuss their work on the ISS may provide answers for orbital debris mitigation.",
-      "date": "2026-08-29",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-225-get-a-grip"
+      "title": "Roman telescope leaves its rocket behind | Space photo of the day for Aug. 31, 2026",
+      "summary": "NASA caught a breathtaking image of its next-generation Nancy Grace Roman Space Telescope deploying into space shortly after launch.",
+      "date": "2026-08-31",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/roman-telescope-leaves-its-rocket-behind-space-photo-of-the-day-for-aug-31-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "When is the next lunar eclipse?",
-      "summary": "When will Earth's shadow cover the moon next following the August 2026 partial lunar eclipse?",
-      "date": "2026-08-29",
-      "link": "https://www.space.com/stargazing/lunar-eclipses/when-is-the-next-lunar-eclipse"
+      "title": "September full moon 2026: When, where and how to see the Harvest Moon",
+      "summary": "Your guide to September's full Harvest Moon, from peak times to skywatching highlights.",
+      "date": "2026-08-31",
+      "link": "https://www.space.com/stargazing/september-full-moon-2026-when-where-and-how-to-see-the-harvest-moon"
     },
     {
       "sourceId": "rspace",
-      "title": "Inside Kourou: how a satellite is readied to watch Europe's skies and prevent natural disasters | Euronews",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w2o7lg/inside_kourou_how_a_satellite_is_readied_to_watch/\"> <img src=\"https://external-preview.redd.it/HiGtp_CypCpafx_b8w-3CU7dZwDlJ9MOzQT-zziy0_o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25906f744002ea5a…",
-      "date": "2026-08-30",
-      "link": "https://www.reddit.com/r/space/comments/1w2o7lg/inside_kourou_how_a_satellite_is_readied_to_watch/"
+      "title": "Planet formation is a 'race against time,' according to new U of A research",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w3mdi5/planet_formation_is_a_race_against_time_according/\"> <img src=\"https://external-preview.redd.it/WhzCNw6meaQGoikuFAo-mJ7UkPeX9DbdjFIcnI9_T10.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe3d5f46e8276f2f…",
+      "date": "2026-08-31",
+      "link": "https://www.reddit.com/r/space/comments/1w3mdi5/planet_formation_is_a_race_against_time_according/"
     },
     {
       "sourceId": "rspace",
-      "title": "Successful deployment of Nancy Grace Roman Space Telescope, as it begins its 1-million-mile-journey to the second Earth-Sun Lagrange point",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w2g0x9/successful_deployment_of_nancy_grace_roman_space/\"> <img src=\"https://external-preview.redd.it/czRreThjbno2aW1oMfX1yah7IHDh4kUHKOpGKIKYgg1dF4HmBzydUAZ6s6C5.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8…",
-      "date": "2026-08-30",
-      "link": "https://www.reddit.com/r/space/comments/1w2g0x9/successful_deployment_of_nancy_grace_roman_space/"
+      "title": "Tom Scott: This Mars rover's cool. But have you seen its wheels?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w3lfzs/tom_scott_this_mars_rovers_cool_but_have_you_seen/\"> <img src=\"https://external-preview.redd.it/doqxAEkxYnJ_1OpRvQ4d_3kIus86PF7lvi96IhESupw.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=372e24d3c6d514b9…",
+      "date": "2026-08-31",
+      "link": "https://www.reddit.com/r/space/comments/1w3lfzs/tom_scott_this_mars_rovers_cool_but_have_you_seen/"
     },
     {
       "sourceId": "rspace",
-      "title": "[MEGATHREAD] Nancy Grace Roman Space Telescope Launch",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is the official <a href=\"https://www.reddit.com/r/space/\">r/space</a> live megathread for NASA&#39;s Nancy Grace Roman Space Telescope mission - being launched today by a SpaceX Falcon Heavy rocket from NASA&#39;s Kennedy Space Center (KSC)…",
-      "date": "2026-08-30",
-      "link": "https://www.reddit.com/r/space/comments/1w2ebdc/megathread_nancy_grace_roman_space_telescope/"
+      "title": "An exoplanet with a shorter orbital period generally produces a larger RV amplitude, while a planet with a longer period produces a smaller amplitude.",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>More massive exoplanet produces a larger stellar wobble, so Radial Velocity increases directly with planet mass.",
+      "date": "2026-08-31",
+      "link": "https://www.reddit.com/r/space/comments/1w3gkq7/an_exoplanet_with_a_shorter_orbital_period/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Future That Never Came: The Mariner A Mission to Venus | Cancelled 65 year ago",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w2a2n1/the_future_that_never_came_the_mariner_a_mission/\"> <img src=\"https://external-preview.redd.it/yacarh_2shT4OBFSMjnrA4wrJvzY9XQAYfLr8Pb1UK8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a2cab8eefa658e9e…",
-      "date": "2026-08-30",
-      "link": "https://www.reddit.com/r/space/comments/1w2a2n1/the_future_that_never_came_the_mariner_a_mission/"
+      "title": "ESA’s Draco Reentry Mission Clears Its Critical Design Review",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w3686n/esas_draco_reentry_mission_clears_its_critical/\"> <img src=\"https://external-preview.redd.it/s6ACilqKevFdNk-TXU_Gi4vU049HqDD73v7u1CvMMEQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4f3cbcafce133235a2…",
+      "date": "2026-08-31",
+      "link": "https://www.reddit.com/r/space/comments/1w3686n/esas_draco_reentry_mission_clears_its_critical/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA is about to launch a space telescope that could change how we see the universe",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w22u9w/nasa_is_about_to_launch_a_space_telescope_that/\"> <img src=\"https://external-preview.redd.it/So4z2QnYbM57Mq9hAzbxmmNxyce1Bgt5mR0cmQ1dBB0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22827b599c86c2e9dd2…",
-      "date": "2026-08-30",
-      "link": "https://www.reddit.com/r/space/comments/1w22u9w/nasa_is_about_to_launch_a_space_telescope_that/"
+      "title": "Orbex’s Sutherland Spaceport Assets Sold to Scottish Development Agency",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w363z8/orbexs_sutherland_spaceport_assets_sold_to/\"> <img src=\"https://external-preview.redd.it/ZpB9_Ri9zOu1WEKhflNUFcm2Kd0v_NglxfHNxVCaeEE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a60b916a53a6cddc9db48e…",
+      "date": "2026-08-31",
+      "link": "https://www.reddit.com/r/space/comments/1w363z8/orbexs_sutherland_spaceport_assets_sold_to/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,27 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
+      "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer.",
+      "date": "2026-08-31",
+      "link": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Roman Commissioning",
+      "summary": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations.",
+      "date": "2026-08-31",
+      "link": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
+      "summary": "APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-08-31",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
       "summary": "Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026.",
       "date": "2026-08-30",
@@ -434,27 +455,6 @@
       "summary": "Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026.",
       "date": "2026-08-30",
       "link": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex",
-      "summary": "Description Five antennas soak in the summer sun at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. The recently completed Deep Space Station 23, a 34-meter (114-foot) beam-waveguide antenna, can be seen to the right of the frame in the…",
-      "date": "2026-08-30",
-      "link": "https://science.nasa.gov/photojournal/panorama-showcasing-the-34-meter-antennas-of-the-dsns-goldstone-complex/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
-      "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m.",
-      "date": "2026-08-30",
-      "link": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
-      "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug.",
-      "date": "2026-08-28",
-      "link": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/"
     }
   ]
 }
