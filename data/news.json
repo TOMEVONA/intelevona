@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T19:47:25.985Z",
+  "updated": "2026-09-01T17:14:54.496Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "AFAS offers Road Ready grant for spouses of deployed Airmen, Guardians",
+      "summary": "The initiative helps alleviate family burdens during deployments and ensures household transportation remains safe and operational. <br/>",
+      "date": "2026-09-01",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4585857/afas-offers-road-ready-grant-for-spouses-of-deployed-airmen-guardians/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "DAF announces additional guidance implementing changes in response to SECWAR memorandums",
       "summary": "Key changes address medical shaving profile separations, mandatory CBRN mask fit validation deadlines, religious ministry evaluation criteria for chaplains, and streamlined equal opportunity reporting processes. <br/>",
       "date": "2026-08-31",
@@ -203,13 +210,6 @@
       "summary": "STARCOM activated the Space Force's 320th Recruiting Squadron to lead the Guardian Talent Scout program and recruit specialized talent nationwide.<br/> <img src='https://media.defense.gov/2026/Aug/18/2003983362/300/300/0/260814-F-QS775-1273.JPG' alt='Space Training and Readiness…",
       "date": "2026-08-19",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4577373/starcom-activates-320th-recruiting-squadron-to-prepare-next-generation-of-guard/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "CSO notice to Guardians: The Guardian spirit endures",
-      "summary": "Chief of Space Operations Gen. Chance Saltzman released his final Notice to Guardians on the day of his retirement ceremony.<br/> <img src='https://media.defense.gov/2026/Aug/13/2003981897/300/300/0/260813-F-AT849-1619.JPG' alt='Chairman of the Joint Chiefs of Staff Gen.",
-      "date": "2026-08-13",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4573126/cso-notice-to-guardians-the-guardian-spirit-endures/"
     },
     {
       "sourceId": "dod",
@@ -248,108 +248,108 @@
     },
     {
       "sourceId": "viasat",
-      "title": "ViaSat-3 F3 Satellite Enters Service",
-      "summary": "Viasat’s third ViaSat-3 satellite (F3) has officially entered service over the Asia-Pacific region, the operator confirmed Monday. The F3 satellite will add 1 terabit per second of capacity to Viasat’s",
-      "date": "2026-08-31",
-      "link": "https://www.satellitetoday.com/connectivity/2026/08/31/viasat-3-f3-satellite-enters-service/"
+      "title": "Celebrating 40 Years of Via Satellite",
+      "summary": "Welcome to the 40th Anniversary Edition of Via Satellite where we celebrate an absolutely remarkable 40 years. It is hard to believe this magazine started in 1986 and 40 years",
+      "date": "2026-09-01",
+      "link": "https://www.satellitetoday.com/opinion/2026/09/01/celebrating-40-years-of-via-satellite/"
     },
     {
       "sourceId": "viasat",
-      "title": "All.Space Wins DIU Award Focused on Increasing Production Rate",
-      "summary": "All.Space has received a contract from the Defense Innovation Unit (DIU) for its Hydra satcom terminal under a contract focused on increasing production rates in the U.S. defense supply chain.",
-      "date": "2026-08-31",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/31/all-space-wins-diu-award-focused-on-increasing-production-rate/"
+      "title": "Via Satellite Editors and Writers Share Industry Memories",
+      "summary": "Over a 40-year history, Via Satellite has told countless stories of the space and satellite industry. From its first edition in 1986 to today, the magazine’s writers and editors and",
+      "date": "2026-09-01",
+      "link": "https://www.satellitetoday.com/people/2026/09/01/via-satellite-editors-and-writers-share-industry-memories/"
     },
     {
       "sourceId": "viasat",
-      "title": "NorthStar to Lead ESA Consortium on Uncontrolled Reentry",
-      "summary": "The European Space Agency (ESA) has selected NorthStar Earth & Space to lead a study on uncontrolled atmospheric re-entry. NorthStar’s European subsidiary will lead a consortium for ESA’s Forecasting of",
-      "date": "2026-08-31",
-      "link": "https://www.satellitetoday.com/sustainability/2026/08/31/northstar-to-lead-esa-consortium-on-uncontrolled-reentry/"
+      "title": "Space Defense in 2040: A Networked, Weaponized, and Contested Frontier",
+      "summary": "Autonomous systems, ubiquitous sensors, and AI-optimized targeting are positioned to transform tomorrow’s warfighting domain, where the ability to see, decide, and act first may rest with constellations in orbit rather",
+      "date": "2026-09-01",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/01/space-defense-in-2040-a-networked-weaponized-and-contested-frontier/"
     },
     {
       "sourceId": "viasat",
-      "title": "OHB to Build 18 MEO Satellites for IRIS² in Nearly €1B Award",
-      "summary": "SES awarded a contract to OHB to manufacture 18 Medium-Earth Orbit (MEO) satellites for Europe’s IRIS² constellation in a deal announced Monday. OHB said the contract is worth nearly 1",
-      "date": "2026-08-31",
-      "link": "https://www.satellitetoday.com/connectivity/2026/08/31/ohb-to-build-18-meo-satellites-for-iris%c2%b2-in-nearly-e1b-award/"
+      "title": "Mapping the Future of Space in 2040: From Constant Connectivity to AI-Powered Intelligence",
+      "summary": "Talk to space industry aficionados about their vision of the not so distant future and you’ll hear about a world of science fiction turned reality. Fleets of orbital data centers",
+      "date": "2026-09-01",
+      "link": "https://www.satellitetoday.com/space-economy/2026/09/01/mapping-the-future-of-space-in-2040-from-constant-connectivity-to-ai-powered-intelligence/"
     },
     {
       "sourceId": "viasat",
-      "title": "Smaller Space Companies Want to See Programs of Record for Their Investments",
-      "summary": "Smaller space companies want to see how the “commercial first” mantra of Pentagon acquisition reform translates into programs of record. The Space Force contends that its nine, new program acquisition",
-      "date": "2026-08-28",
-      "link": "https://www.satellitetoday.com/finance/2026/08/28/smaller-space-companies-want-to-see-programs-of-record-for-their-investments/"
+      "title": "Some Highs and Lows of a 40-Year Journey in Space",
+      "summary": "Viasat celebrates its 40-year anniversary in 2026, alongside Via Satellite. The enormous changes in the last four decades begat enormous opportunity, and fortunately Viasat has been able to convert opportunities",
+      "date": "2026-09-01",
+      "link": "https://www.satellitetoday.com/opinion/2026/09/01/some-highs-and-lows-of-a-40-year-journey-in-space/"
     },
     {
       "sourceId": "spacecom",
-      "title": "What's next for Roman Space Telescope? Here's how NASA's flagship observatory will open up the universe",
-      "summary": "NASA's Nancy Grace Roman Space Telescope has left Earth, but it'll be a while before it starts its highly anticipated science mission. Here are the next steps for the observatory.",
-      "date": "2026-08-31",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/nancy-grace-roman-space-telescope-next-steps-commissioning"
+      "title": "Why do black hole flares die out? It may be down to how stars spin",
+      "summary": "Some stars encounter supermassive black holes and live to tell the tale. New research shows why the flares these encounters cause dim over repeated episodes.",
+      "date": "2026-09-01",
+      "link": "https://www.space.com/astronomy/black-holes/why-do-black-hole-flares-die-out-it-may-be-down-to-how-stars-spin"
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft",
-      "summary": "The launch of SpaceX's Crew-13 mission to the ISS, previously scheduled for Sept. 12, has been delayed due to an oxidizer leak on the Dragon spacecraft. A new target has not yet been announced.",
-      "date": "2026-08-31",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-nasa-delay-next-astronaut-launch-to-iss-due-to-leak-on-dragon-spacecraft"
+      "title": "NASA's Roman Space Telescope is just one of a few missions named after real-life women",
+      "summary": "NASA's Roman space telescope, which launched on Aug. 30, is part of a small set of missions named after female historical figures.",
+      "date": "2026-09-01",
+      "link": "https://www.space.com/space-exploration/missions/nasas-roman-space-telescope-is-just-one-of-a-few-missions-named-after-real-life-women"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Aug. 31, 1965: NASA's ginormous Super Guppy carrier plane takes 1st flight like a flying whale",
-      "summary": "On August 31, 1965, NASA's Super Guppy cargo plane took its first test flight. like a flying whale. Here's why it mattered for the space agency.",
-      "date": "2026-08-31",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-31-2026"
+      "title": "5 planets will light up the September sky — here's how to see them",
+      "summary": "Mercury, Venus, Mars, Jupiter and Saturn are all visible this September. Here's when and where to look.",
+      "date": "2026-09-01",
+      "link": "https://www.space.com/stargazing/5-planets-will-light-up-the-september-sky-heres-how-to-see-them"
     },
     {
       "sourceId": "spacecom",
-      "title": "Roman telescope leaves its rocket behind | Space photo of the day for Aug. 31, 2026",
-      "summary": "NASA caught a breathtaking image of its next-generation Nancy Grace Roman Space Telescope deploying into space shortly after launch.",
-      "date": "2026-08-31",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/roman-telescope-leaves-its-rocket-behind-space-photo-of-the-day-for-aug-31-2026"
+      "title": "Repairing the ISS 250 miles above Earth | Space photo of the day for Sept. 1, 2026",
+      "summary": "A photo of ESA astronaut Sophie Adenot on the outside of the International Space Station captures the staggering altitude at which the crewed laboratory orbits Earth.",
+      "date": "2026-09-01",
+      "link": "https://www.space.com/space-exploration/international-space-station/repairing-the-iss-250-miles-above-earth-space-photo-of-the-day-for-sept-1-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "September full moon 2026: When, where and how to see the Harvest Moon",
-      "summary": "Your guide to September's full Harvest Moon, from peak times to skywatching highlights.",
-      "date": "2026-08-31",
-      "link": "https://www.space.com/stargazing/september-full-moon-2026-when-where-and-how-to-see-the-harvest-moon"
+      "title": "'Orbitals' is a co-op sci-fi adventure that recaptures the magic of Saturday morning cartoons",
+      "summary": "We buddied up to check out Orbitals, a sci-fi anime spin on \"It Takes Two\"'s classic co-op action.",
+      "date": "2026-09-01",
+      "link": "https://www.space.com/entertainment/space-games/orbitals-is-a-co-op-sci-fi-adventure-that-recaptures-the-magic-of-saturday-morning-cartoons"
     },
     {
       "sourceId": "rspace",
-      "title": "Planet formation is a 'race against time,' according to new U of A research",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w3mdi5/planet_formation_is_a_race_against_time_according/\"> <img src=\"https://external-preview.redd.it/WhzCNw6meaQGoikuFAo-mJ7UkPeX9DbdjFIcnI9_T10.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe3d5f46e8276f2f…",
-      "date": "2026-08-31",
-      "link": "https://www.reddit.com/r/space/comments/1w3mdi5/planet_formation_is_a_race_against_time_according/"
+      "title": "We isolated six people for 100 days to simulate life on a long-duration space mission – learn about the study design of \"SOLIS100\" and ask project lead Amelie Therre anything!",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w4hxof/we_isolated_six_people_for_100_days_to_simulate/\"> <img src=\"https://preview.redd.it/deoevdfjqxmh1.png?width=140&amp;height=105&amp;auto=webp&amp;s=16949c6ca69266adc7eaffde2b0c79654c2b606f\" alt=\"We…",
+      "date": "2026-09-01",
+      "link": "https://www.reddit.com/r/space/comments/1w4hxof/we_isolated_six_people_for_100_days_to_simulate/"
     },
     {
       "sourceId": "rspace",
-      "title": "Tom Scott: This Mars rover's cool. But have you seen its wheels?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w3lfzs/tom_scott_this_mars_rovers_cool_but_have_you_seen/\"> <img src=\"https://external-preview.redd.it/doqxAEkxYnJ_1OpRvQ4d_3kIus86PF7lvi96IhESupw.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=372e24d3c6d514b9…",
-      "date": "2026-08-31",
-      "link": "https://www.reddit.com/r/space/comments/1w3lfzs/tom_scott_this_mars_rovers_cool_but_have_you_seen/"
+      "title": "U.S. Spacewalk 99",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m always amazed at these spacewalks!</p> <p><a href=\"https://www.youtube.com/watch?v=-HQOp1-LpU0\">https://www.youtube.com/watch?v=-HQOp1-LpU0</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a…",
+      "date": "2026-09-01",
+      "link": "https://www.reddit.com/r/space/comments/1w4fjzb/us_spacewalk_99/"
     },
     {
       "sourceId": "rspace",
-      "title": "An exoplanet with a shorter orbital period generally produces a larger RV amplitude, while a planet with a longer period produces a smaller amplitude.",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>More massive exoplanet produces a larger stellar wobble, so Radial Velocity increases directly with planet mass.",
-      "date": "2026-08-31",
-      "link": "https://www.reddit.com/r/space/comments/1w3gkq7/an_exoplanet_with_a_shorter_orbital_period/"
+      "title": "'Fermi Explorer' Mission To Alpha Centauri Star-System Announced | Private group aims to launch spacecraft comprising of a Xenon gas tank, solar panels & a few scientific payloads in 2029. The craft will hang around the Sun for 12 years before charging out to Alpha Centauri on a 77,000-year journey",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p>On Tuesday, Johnston and a handful of other entrepreneurs announced the “Fermi Explorer” mission. In concept, it is simple.",
+      "date": "2026-09-01",
+      "link": "https://www.reddit.com/r/space/comments/1w4f9g0/fermi_explorer_mission_to_alpha_centauri/"
     },
     {
       "sourceId": "rspace",
-      "title": "ESA’s Draco Reentry Mission Clears Its Critical Design Review",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w3686n/esas_draco_reentry_mission_clears_its_critical/\"> <img src=\"https://external-preview.redd.it/s6ACilqKevFdNk-TXU_Gi4vU049HqDD73v7u1CvMMEQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4f3cbcafce133235a2…",
-      "date": "2026-08-31",
-      "link": "https://www.reddit.com/r/space/comments/1w3686n/esas_draco_reentry_mission_clears_its_critical/"
+      "title": "This quirky spot in space is where NASA’s Roman Telescope will call home",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w4co8x/this_quirky_spot_in_space_is_where_nasas_roman/\"> <img src=\"https://external-preview.redd.it/u-WgfKyELNVSLsqQ0m3gktHqW-349m_k778RDhIptQ8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7c55b35a0c7043cafb…",
+      "date": "2026-09-01",
+      "link": "https://www.reddit.com/r/space/comments/1w4co8x/this_quirky_spot_in_space_is_where_nasas_roman/"
     },
     {
       "sourceId": "rspace",
-      "title": "Orbex’s Sutherland Spaceport Assets Sold to Scottish Development Agency",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w363z8/orbexs_sutherland_spaceport_assets_sold_to/\"> <img src=\"https://external-preview.redd.it/ZpB9_Ri9zOu1WEKhflNUFcm2Kd0v_NglxfHNxVCaeEE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a60b916a53a6cddc9db48e…",
-      "date": "2026-08-31",
-      "link": "https://www.reddit.com/r/space/comments/1w363z8/orbexs_sutherland_spaceport_assets_sold_to/"
+      "title": "Synthetic micro meteors could be a stealth attack vector for satellite constellations",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>If a satellite is targeted by a missile, that&#39;s a clear escalation that evokes a tit for tat response. But synthetic dark micro meteors, such as tungsten beads coated with vantablack, deployed from a normal satellite could create plausible…",
+      "date": "2026-09-01",
+      "link": "https://www.reddit.com/r/space/comments/1w4bo44/synthetic_micro_meteors_could_be_a_stealth_attack/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,27 @@
     },
     {
       "sourceId": "nasa",
+      "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
+      "summary": "APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-09-01",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Ice Island Survives Run-In With Joe Island",
+      "summary": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way.",
+      "date": "2026-09-01",
+      "link": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
+      "summary": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space…",
+      "date": "2026-08-31",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "September 2026 Satellite Puzzler",
       "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
       "date": "2026-08-31",
@@ -434,27 +455,6 @@
       "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer.",
       "date": "2026-08-31",
       "link": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Roman Commissioning",
-      "summary": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations.",
-      "date": "2026-08-31",
-      "link": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-      "summary": "APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-08-31",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-      "summary": "Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026.",
-      "date": "2026-08-30",
-      "link": "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/"
     }
   ]
 }
