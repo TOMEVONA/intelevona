@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T17:14:54.496Z",
+  "updated": "2026-09-01T17:31:36.906Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Airlift Wing Builds Mobility Readiness During Exercises",
+      "summary": "The 86th Airlift Wing recently supported Exercise Saber Junction 26 with joint air mobility operations alongside Army and Marine Corps forces at Ramstein Air Base, Germany.",
+      "date": "2026-09-01",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4587771/airlift-wing-builds-mobility-readiness-during-exercises/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Michigan National Guard Trains Mission-Ready Pilots Over Lake Huron",
       "summary": "The Michigan National Guard debuted its newly acquired Mark VI patrol boat in Lake Huron during Exercise Northern Strike 26-2 to simulate fast-attack threats and train visiting aviation units in complex maritime targeting.",
       "date": "2026-08-31",
@@ -238,13 +245,6 @@
       "summary": "U.S. soldiers participated in Exercise Saber Junction 26 alongside allied troops in Germany to test combat readiness and new drone technology.",
       "date": "2026-08-28",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4585252/sky-soldiers-train-for-modern-conflict-in-europes-premier-crucible-event/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Army Selects Vendors, Sites for Nuclear Microreactors",
-      "summary": "The Army's Janus Program selected five nuclear energy vendors and five initial locations to build and operate nuclear microreactors.",
-      "date": "2026-08-27",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4584583/army-selects-vendors-sites-for-nuclear-microreactors/"
     },
     {
       "sourceId": "viasat",
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn",
+      "summary": "On Sept. 1, 1979, NASA's robotic space probe Pioneer 11 became the first spacecraft to fly by Saturn. Here's why it mattered.",
+      "date": "2026-09-01",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-1-2026"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "Why do black hole flares die out? It may be down to how stars spin",
       "summary": "Some stars encounter supermassive black holes and live to tell the tale. New research shows why the flares these encounters cause dim over repeated episodes.",
       "date": "2026-09-01",
@@ -308,13 +315,6 @@
       "summary": "A photo of ESA astronaut Sophie Adenot on the outside of the International Space Station captures the staggering altitude at which the crewed laboratory orbits Earth.",
       "date": "2026-09-01",
       "link": "https://www.space.com/space-exploration/international-space-station/repairing-the-iss-250-miles-above-earth-space-photo-of-the-day-for-sept-1-2026"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "'Orbitals' is a co-op sci-fi adventure that recaptures the magic of Saturday morning cartoons",
-      "summary": "We buddied up to check out Orbitals, a sci-fi anime spin on \"It Takes Two\"'s classic co-op action.",
-      "date": "2026-09-01",
-      "link": "https://www.space.com/entertainment/space-games/orbitals-is-a-co-op-sci-fi-adventure-that-recaptures-the-magic-of-saturday-morning-cartoons"
     },
     {
       "sourceId": "rspace",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "Historic Engines Take Their Place on Artemis III",
+      "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027.",
+      "date": "2026-09-01",
+      "link": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
       "summary": "APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-09-01",
@@ -448,13 +455,6 @@
       "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
       "date": "2026-08-31",
       "link": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
-      "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer.",
-      "date": "2026-08-31",
-      "link": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/"
     }
   ]
 }
