@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-01T17:31:36.906Z",
+  "updated": "2026-09-02T17:04:33.785Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
+      "summary": "DURANGO, Colo. — Sept. 2, 2026 — Agile Space Industries celebrated the completion of a 20,500-square-foot expansion of its Durango headquarters with a ribbon-cutting ceremony on August 26, joined by",
+      "date": "2026-09-02",
+      "link": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
@@ -28,13 +35,6 @@
       "summary": "Nature-based projects are generating more environmental data than ever before. Satellites observe landscapes from orbit, while field teams capture what is happening on the ground. Yet these data sources often",
       "date": "2026-08-27",
       "link": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
-      "summary": "LAFAYETTE, Colo. (August 26, 2026) — Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX’s (NYSE: RTX) Raytheon business, has unveiled its latest spacecraft subsystem, the",
-      "date": "2026-08-26",
-      "link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/"
     },
     {
       "sourceId": "tectonic",
@@ -213,6 +213,20 @@
     },
     {
       "sourceId": "dod",
+      "title": "Officials Provide Progress Update on Major Operation 1 Year After its Launch",
+      "summary": "Officials spoke to the media regarding the successful progress of Operation Southern Spear, the large-scale counter-narco-terrorism campaign in the Western Hemisphere, one year after the operation launched in September 2025.",
+      "date": "2026-09-02",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4588400/officials-provide-progress-update-on-major-operation-1-year-after-its-launch/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "ChatGPT, Grok Added to War Department's AI System Options",
+      "summary": "The War Department increased its artificial intelligence offerings by launching versions of Grok and ChatGPT to GenAI.mil to go alongside Google's Gemini.",
+      "date": "2026-09-01",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4588244/chatgpt-grok-added-to-war-departments-ai-system-options/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Airlift Wing Builds Mobility Readiness During Exercises",
       "summary": "The 86th Airlift Wing recently supported Exercise Saber Junction 26 with joint air mobility operations alongside Army and Marine Corps forces at Ramstein Air Base, Germany.",
       "date": "2026-09-01",
@@ -233,18 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4586023/army-lasers-blast-drones-proving-directed-energy-weapons-are-future/"
     },
     {
-      "sourceId": "dod",
-      "title": "Guard Program Links Global Partnership to DOW Priorities",
-      "summary": "Senior leaders and security cooperation personnel from across the War Department gathered for the 2026 National Guard Bureau State Partnership Program conference in Atlanta to align activities and engagements with national defense strategy lines of effort.",
-      "date": "2026-08-28",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4585627/guard-program-links-global-partnership-to-dow-priorities/"
+      "sourceId": "viasat",
+      "title": "Inmarsat Maritime Launches New Safety Data Hub",
+      "summary": "Inmarsat Maritime is launching a new product to provide new insights as well as direct access to the comprehensive analysis of risks shaping global shipping. Inmarsat Maritime, now a Viasat",
+      "date": "2026-09-01",
+      "link": "https://www.satellitetoday.com/mobility/2026/09/01/inmarsat-maritime-launches-new-safety-data-hub/"
     },
     {
-      "sourceId": "dod",
-      "title": "Sky Soldiers Train for Modern Conflict in Europe's Premier Crucible Event",
-      "summary": "U.S. soldiers participated in Exercise Saber Junction 26 alongside allied troops in Germany to test combat readiness and new drone technology.",
-      "date": "2026-08-28",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4585252/sky-soldiers-train-for-modern-conflict-in-europes-premier-crucible-event/"
+      "sourceId": "viasat",
+      "title": "Kymeta Lands $20M DoD Order for Osprey u8 Satcom Terminals",
+      "summary": "Kymeta secured an order from a branch within the U.S. Department of Defense for 100 Osprey u8 multi-orbit satcom terminals worth $20 million. The award announced Tuesday includes multi-orbit connectivity",
+      "date": "2026-09-01",
+      "link": "https://www.satellitetoday.com/technology/2026/09/01/kymeta-lands-20m-dod-order-for-osprey-u8-satcom-terminals/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Telesat Considers Space-to-Ground Optical Coms with Cailabs",
+      "summary": "Telesat will consider adopting space-to-ground optical communications capabilities through a new strategic collaboration agreement with Cailabs. Under the agreement announced Tuesday, the companies will explore integrating Cailabs optical space-to-ground connectivity",
+      "date": "2026-09-01",
+      "link": "https://www.satellitetoday.com/technology/2026/09/01/telesat-considers-space-to-ground-optical-coms-with-cailabs/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Intuitive Machines Books 2-Satellite Order for Unnamed Customer",
+      "summary": "Intuitive Machines has secured a two-satellite order for an unnamed commercial customer. The order is for two IM 300 platforms, the same platform that has supported Space Development Agency missions.",
+      "date": "2026-09-01",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/09/01/intuitive-machines-books-2-satellite-order-for-unnamed-customer/"
     },
     {
       "sourceId": "viasat",
@@ -254,102 +282,74 @@
       "link": "https://www.satellitetoday.com/opinion/2026/09/01/celebrating-40-years-of-via-satellite/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Via Satellite Editors and Writers Share Industry Memories",
-      "summary": "Over a 40-year history, Via Satellite has told countless stories of the space and satellite industry. From its first edition in 1986 to today, the magazine’s writers and editors and",
-      "date": "2026-09-01",
-      "link": "https://www.satellitetoday.com/people/2026/09/01/via-satellite-editors-and-writers-share-industry-memories/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Space Defense in 2040: A Networked, Weaponized, and Contested Frontier",
-      "summary": "Autonomous systems, ubiquitous sensors, and AI-optimized targeting are positioned to transform tomorrow’s warfighting domain, where the ability to see, decide, and act first may rest with constellations in orbit rather",
-      "date": "2026-09-01",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/01/space-defense-in-2040-a-networked-weaponized-and-contested-frontier/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Mapping the Future of Space in 2040: From Constant Connectivity to AI-Powered Intelligence",
-      "summary": "Talk to space industry aficionados about their vision of the not so distant future and you’ll hear about a world of science fiction turned reality. Fleets of orbital data centers",
-      "date": "2026-09-01",
-      "link": "https://www.satellitetoday.com/space-economy/2026/09/01/mapping-the-future-of-space-in-2040-from-constant-connectivity-to-ai-powered-intelligence/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Some Highs and Lows of a 40-Year Journey in Space",
-      "summary": "Viasat celebrates its 40-year anniversary in 2026, alongside Via Satellite. The enormous changes in the last four decades begat enormous opportunity, and fortunately Viasat has been able to convert opportunities",
-      "date": "2026-09-01",
-      "link": "https://www.satellitetoday.com/opinion/2026/09/01/some-highs-and-lows-of-a-40-year-journey-in-space/"
+      "sourceId": "spacecom",
+      "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
+      "summary": "NASA has picked Blue Origin to build its next Mars telecommunications orbiter, awarding a $700 million contract to Jeff Bezos' spaceflight company.",
+      "date": "2026-09-02",
+      "link": "https://www.space.com/space-exploration/missions/blue-origin-wins-usd700-million-contract-to-build-nasas-next-mars-orbiter"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn",
-      "summary": "On Sept. 1, 1979, NASA's robotic space probe Pioneer 11 became the first spacecraft to fly by Saturn. Here's why it mattered.",
-      "date": "2026-09-01",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-1-2026"
+      "title": "'You’re going to feel exposed, vulnerable, and very isolated' — 'Alien Isolation 2' creative director talks upping the scare factor for the sequel (interview)",
+      "summary": "After a decade of waiting, Creative Director Al Hope says Alien Isolation 2 \"feels like coming home\".",
+      "date": "2026-09-02",
+      "link": "https://www.space.com/entertainment/space-games/youre-going-to-feel-exposed-vulnerable-and-very-isolated-alien-isolation-2-creative-director-talks-upping-the-scare-factor-for-the-sequel-interview"
     },
     {
       "sourceId": "spacecom",
-      "title": "Why do black hole flares die out? It may be down to how stars spin",
-      "summary": "Some stars encounter supermassive black holes and live to tell the tale. New research shows why the flares these encounters cause dim over repeated episodes.",
-      "date": "2026-09-01",
-      "link": "https://www.space.com/astronomy/black-holes/why-do-black-hole-flares-die-out-it-may-be-down-to-how-stars-spin"
+      "title": "Supermassive black holes 'too big' for the early universe may not be so massive after all",
+      "summary": "Over massive supermassive black holes too big for early galaxies and detected by the James Webb Space Telescope may not be quite so massive after all.",
+      "date": "2026-09-02",
+      "link": "https://www.space.com/astronomy/black-holes/supermassive-black-holes-too-big-for-the-early-universe-may-not-be-so-massive-after-all"
     },
     {
       "sourceId": "spacecom",
-      "title": "NASA's Roman Space Telescope is just one of a few missions named after real-life women",
-      "summary": "NASA's Roman space telescope, which launched on Aug. 30, is part of a small set of missions named after female historical figures.",
-      "date": "2026-09-01",
-      "link": "https://www.space.com/space-exploration/missions/nasas-roman-space-telescope-is-just-one-of-a-few-missions-named-after-real-life-women"
+      "title": "Falcon Heavy brings the heat | Space photo of the day for Sept. 2, 2026",
+      "summary": "An incredible launch photo captures fire spewing from a SpaceX Falcon Heavy rocket during the launch of NASA's Roman Space Telescope on Aug. 30, 2026.",
+      "date": "2026-09-02",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/falcon-heavy-brings-the-heat-space-photo-of-the-day-for-sept-2-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "5 planets will light up the September sky — here's how to see them",
-      "summary": "Mercury, Venus, Mars, Jupiter and Saturn are all visible this September. Here's when and where to look.",
-      "date": "2026-09-01",
-      "link": "https://www.space.com/stargazing/5-planets-will-light-up-the-september-sky-heres-how-to-see-them"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Repairing the ISS 250 miles above Earth | Space photo of the day for Sept. 1, 2026",
-      "summary": "A photo of ESA astronaut Sophie Adenot on the outside of the International Space Station captures the staggering altitude at which the crewed laboratory orbits Earth.",
-      "date": "2026-09-01",
-      "link": "https://www.space.com/space-exploration/international-space-station/repairing-the-iss-250-miles-above-earth-space-photo-of-the-day-for-sept-1-2026"
+      "title": "On this day in space! Sept. 2, 2016: Rosetta spacecraft finds long-lost Philae lander on Comet 67P after 2-year search",
+      "summary": "On Sept. 2, 2016, the European Space Agency finally located Philae, its long-lost comet lander on the surface of the Comet 67P. Here's why it mattered.",
+      "date": "2026-09-02",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-2-2026"
     },
     {
       "sourceId": "rspace",
-      "title": "We isolated six people for 100 days to simulate life on a long-duration space mission – learn about the study design of \"SOLIS100\" and ask project lead Amelie Therre anything!",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w4hxof/we_isolated_six_people_for_100_days_to_simulate/\"> <img src=\"https://preview.redd.it/deoevdfjqxmh1.png?width=140&amp;height=105&amp;auto=webp&amp;s=16949c6ca69266adc7eaffde2b0c79654c2b606f\" alt=\"We…",
-      "date": "2026-09-01",
-      "link": "https://www.reddit.com/r/space/comments/1w4hxof/we_isolated_six_people_for_100_days_to_simulate/"
+      "title": "Roman deployed straight onto its L2 transfer trajectory a few days ago, no parking orbit. It'll take about three months to get there.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w5eso3/roman_deployed_straight_onto_its_l2_transfer/\"> <img src=\"https://external-preview.redd.it/e4g6UlIgSI1o_KnOmDBptu3qvj8XGQx0Fizke_K_ZwU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d7ea84aa4541f30a24ce3…",
+      "date": "2026-09-02",
+      "link": "https://www.reddit.com/r/space/comments/1w5eso3/roman_deployed_straight_onto_its_l2_transfer/"
     },
     {
       "sourceId": "rspace",
-      "title": "U.S. Spacewalk 99",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m always amazed at these spacewalks!</p> <p><a href=\"https://www.youtube.com/watch?v=-HQOp1-LpU0\">https://www.youtube.com/watch?v=-HQOp1-LpU0</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a…",
-      "date": "2026-09-01",
-      "link": "https://www.reddit.com/r/space/comments/1w4fjzb/us_spacewalk_99/"
+      "title": "US, China arm for space warfare: hunter satellites and orbital weapons",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CackleRooster\"> /u/CackleRooster </a> <br/> <span><a href=\"https://www.reuters.com/world/asia-pacific/us-china-arm-space-warfare-hunter-satellites-orbital-weapons-2026-09-02/\">[link]</a></span> &#32; <span><a…",
+      "date": "2026-09-02",
+      "link": "https://www.reddit.com/r/space/comments/1w5d4z2/us_china_arm_for_space_warfare_hunter_satellites/"
     },
     {
       "sourceId": "rspace",
-      "title": "'Fermi Explorer' Mission To Alpha Centauri Star-System Announced | Private group aims to launch spacecraft comprising of a Xenon gas tank, solar panels & a few scientific payloads in 2029. The craft will hang around the Sun for 12 years before charging out to Alpha Centauri on a 77,000-year journey",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p>On Tuesday, Johnston and a handful of other entrepreneurs announced the “Fermi Explorer” mission. In concept, it is simple.",
-      "date": "2026-09-01",
-      "link": "https://www.reddit.com/r/space/comments/1w4f9g0/fermi_explorer_mission_to_alpha_centauri/"
+      "title": "ESA ISAM Innovation Sprint",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am building a team for the ESA ISAM Innovation Sprint and need 3-4 people. </p> <p>ESA opened an OSIP campaign on In-Space Servicing, Assembly and Manufacturing.",
+      "date": "2026-09-02",
+      "link": "https://www.reddit.com/r/space/comments/1w588g5/esa_isam_innovation_sprint/"
     },
     {
       "sourceId": "rspace",
-      "title": "This quirky spot in space is where NASA’s Roman Telescope will call home",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w4co8x/this_quirky_spot_in_space_is_where_nasas_roman/\"> <img src=\"https://external-preview.redd.it/u-WgfKyELNVSLsqQ0m3gktHqW-349m_k778RDhIptQ8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7c55b35a0c7043cafb…",
-      "date": "2026-09-01",
-      "link": "https://www.reddit.com/r/space/comments/1w4co8x/this_quirky_spot_in_space_is_where_nasas_roman/"
+      "title": "I built a live 3D tracker for the Roman Space Telescope's journey to L2 (using JPL Horizons data)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w55pbf/i_built_a_live_3d_tracker_for_the_roman_space/\"> <img src=\"https://external-preview.redd.it/NSUiZhZMJHt1VOcDa_HUcaES_75shNl6RvUTt_48mz0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=91a3b90ffeb329d25cac…",
+      "date": "2026-09-02",
+      "link": "https://www.reddit.com/r/space/comments/1w55pbf/i_built_a_live_3d_tracker_for_the_roman_space/"
     },
     {
       "sourceId": "rspace",
-      "title": "Synthetic micro meteors could be a stealth attack vector for satellite constellations",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>If a satellite is targeted by a missile, that&#39;s a clear escalation that evokes a tit for tat response. But synthetic dark micro meteors, such as tungsten beads coated with vantablack, deployed from a normal satellite could create plausible…",
-      "date": "2026-09-01",
-      "link": "https://www.reddit.com/r/space/comments/1w4bo44/synthetic_micro_meteors_could_be_a_stealth_attack/"
+      "title": "Can Europe take on Elon Musk’s Starlink?",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TimesandSundayTimes\"> /u/TimesandSundayTimes </a> <br/> <span><a href=\"https://www.thetimes.com/business/technology/article/eutelsat-oneweb-europe-space-race-starlink-9lf5pntb7?utm_medium=Social&amp;utm_source=Reddit&a…",
+      "date": "2026-09-02",
+      "link": "https://www.reddit.com/r/space/comments/1w52ce9/can_europe_take_on_elon_musks_starlink/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
+      "title": "Rising Over Louisiana",
+      "summary": "On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m.",
+      "date": "2026-09-02",
+      "link": "https://www.nasa.gov/image-article/rising-over-louisiana/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
+      "summary": "High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate.",
+      "date": "2026-09-02",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
+      "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions.",
+      "date": "2026-09-01",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "What’s Up: September 2026 Skywatching Tips from NASA",
+      "summary": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune.",
+      "date": "2026-09-01",
+      "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "Historic Engines Take Their Place on Artemis III",
       "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027.",
       "date": "2026-09-01",
       "link": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
-      "summary": "APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-01",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Ice Island Survives Run-In With Joe Island",
-      "summary": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way.",
-      "date": "2026-09-01",
-      "link": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
-      "summary": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space…",
-      "date": "2026-08-31",
-      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "September 2026 Satellite Puzzler",
-      "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
-      "date": "2026-08-31",
-      "link": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/"
     }
   ]
 }
