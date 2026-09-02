@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T17:04:33.785Z",
+  "updated": "2026-09-02T17:32:30.370Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Army Artillery Brigade Builds Tactical Proficiency",
+      "summary": "Soldiers assigned to the 75th Field Artillery Brigade's 2nd Battalion, 4th Field Artillery Regiment, recently trained at Fort Sill, Okla., to execute Artillery Table VI section qualifications and validate Role 1 combat medical support capabilities.",
+      "date": "2026-09-02",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4588980/army-artillery-brigade-builds-tactical-proficiency/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Officials Provide Progress Update on Major Operation 1 Year After its Launch",
       "summary": "Officials spoke to the media regarding the successful progress of Operation Southern Spear, the large-scale counter-narco-terrorism campaign in the Western Hemisphere, one year after the operation launched in September 2025.",
       "date": "2026-09-02",
@@ -238,13 +245,6 @@
       "summary": "The Michigan National Guard debuted its newly acquired Mark VI patrol boat in Lake Huron during Exercise Northern Strike 26-2 to simulate fast-attack threats and train visiting aviation units in complex maritime targeting.",
       "date": "2026-08-31",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4586595/michigan-national-guard-trains-mission-ready-pilots-over-lake-huron/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Army Lasers Blast Drones, Proving Directed-Energy Weapons Are Future",
-      "summary": "Service members assigned to Joint Task Force Southern Border used the Army Multipurpose High Energy Laser system to stop three hostile, unmanned aircraft systems deemed a threat. They were believed to be linked to drug cartels.",
-      "date": "2026-08-28",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4586023/army-lasers-blast-drones-proving-directed-energy-weapons-are-future/"
     },
     {
       "sourceId": "viasat",
