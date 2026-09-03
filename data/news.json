@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T16:58:46.888Z",
+  "updated": "2026-09-03T17:26:23.265Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,27 +213,6 @@
     },
     {
       "sourceId": "dod",
-      "title": "Hegseth Welcomes Australian Prime Minister, Commemorates Alliance",
-      "summary": "Secretary of War Pete Hegseth hosted Richard Marles, Australia's deputy prime minister and defense minister, at the Pentagon, where the two men commemorated the 75th anniversary of the historic alliance between Australia, New Zealand and the U.S.",
-      "date": "2026-09-02",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4588907/hegseth-welcomes-australian-prime-minister-commemorates-alliance/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Sentinel Samurai Strengthens Joint EOD Readiness",
-      "summary": "Air Force, Marine Corps and Navy explosive ordnance disposal technicians participated in Exercise Sentinel Samurai at Kadena Air Base, Japan.",
-      "date": "2026-09-02",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4589357/sentinel-samurai-strengthens-joint-eod-readiness/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Army Artillery Brigade Builds Tactical Proficiency",
-      "summary": "Soldiers assigned to the 75th Field Artillery Brigade's 2nd Battalion, 4th Field Artillery Regiment, recently trained at Fort Sill, Okla., to execute Artillery Table VI section qualifications and validate Role 1 combat medical support capabilities.",
-      "date": "2026-09-02",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4588980/army-artillery-brigade-builds-tactical-proficiency/"
-    },
-    {
-      "sourceId": "dod",
       "title": "Officials Provide Progress Update on Major Operation 1 Year After its Launch",
       "summary": "Officials spoke to the media regarding the successful progress of Operation Southern Spear, the large-scale counter-narco-terrorism campaign in the Western Hemisphere, one year after the operation launched in September 2025.",
       "date": "2026-09-02",
@@ -245,6 +224,27 @@
       "summary": "The War Department increased its artificial intelligence offerings by launching versions of Grok and ChatGPT to GenAI.mil to go alongside Google's Gemini.",
       "date": "2026-09-01",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4588244/chatgpt-grok-added-to-war-departments-ai-system-options/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Airlift Wing Builds Mobility Readiness During Exercises",
+      "summary": "The 86th Airlift Wing recently supported Exercise Saber Junction 26 with joint air mobility operations alongside Army and Marine Corps forces at Ramstein Air Base, Germany.",
+      "date": "2026-09-01",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4587771/airlift-wing-builds-mobility-readiness-during-exercises/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Michigan National Guard Trains Mission-Ready Pilots Over Lake Huron",
+      "summary": "The Michigan National Guard debuted its newly acquired Mark VI patrol boat in Lake Huron during Exercise Northern Strike 26-2 to simulate fast-attack threats and train visiting aviation units in complex maritime targeting.",
+      "date": "2026-08-31",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4586595/michigan-national-guard-trains-mission-ready-pilots-over-lake-huron/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Army Lasers Blast Drones, Proving Directed-Energy Weapons Are Future",
+      "summary": "Service members assigned to Joint Task Force Southern Border used the Army Multipurpose High Energy Laser system to stop three hostile, unmanned aircraft systems deemed a threat. They were believed to be linked to drug cartels.",
+      "date": "2026-08-28",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4586023/army-lasers-blast-drones-proving-directed-energy-weapons-are-future/"
     },
     {
       "sourceId": "viasat",
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "'Strange New Worlds'' latest episode is a soap opera spoof, but hasn't 'Star Trek' always been a soap opera in space anyway?",
+      "summary": "The latest 'Strange New Worlds' takes the silliness to warp factor nine, but soap opera plots have long been part of the 'Star Trek' mix",
+      "date": "2026-09-03",
+      "link": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-a-soap-opera-spoof-but-hasnt-star-trek-always-been-a-soap-opera-in-space-anyway"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival",
       "summary": "After nearly eight years traveling through the inner solar system, the trailblazing BepiColombo spacecraft has finally begun its arrival at Mercury.",
       "date": "2026-09-03",
@@ -308,13 +315,6 @@
       "summary": "On this day in space! Sept. 3, 2006: Europe's SMART-1 spacecraft crashes into the moon in lunar death dive",
       "date": "2026-09-03",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-3-2026"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Watch India launch its 1st geosynchronous Earth-imaging satellite today",
-      "summary": "India aims to launch an Earth-imaging satellite toward geosynchronous orbit today (Sept. 3) —something it has never done successfully — and you can watch the action live.",
-      "date": "2026-09-03",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/gslv-mark-ii-eos-05-launch-first-indian-geo-earth-observing-satellite"
     },
     {
       "sourceId": "rspace",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
+      "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress 96 resupply spacecraft is scheduled to launch at 12:15 p.m.",
+      "date": "2026-09-03",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
       "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise.",
       "date": "2026-09-03",
@@ -448,13 +455,6 @@
       "summary": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-09-03",
       "link": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Peatland Fires Darken Skies in Indonesia",
-      "summary": "With Indonesia gripped by drought, fires are smoldering on the surface and underground.",
-      "date": "2026-09-03",
-      "link": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/"
     }
   ]
 }
