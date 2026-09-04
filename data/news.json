@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T16:47:49.931Z",
+  "updated": "2026-09-04T17:19:31.083Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Exercise Urgent Response Tests Marine Corps Installation Partnerships",
+      "summary": "Service members, civilians and contractors at Marine Corps Support Facility Blount Island, Fla., participated in Exercise Urgent Response, a four-hour force protection exercise that tested how they preserve the military installation's mission during a complex emergency.",
+      "date": "2026-09-04",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4591269/exercise-urgent-response-tests-marine-corps-installation-partnerships/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Cadets Explore Potential Army Careers During Branch Week",
       "summary": "Representatives from 16 Army branches provided members of the U.S. Military Academy's Corps of Cadets a glimpse into what they may encounter after graduation and commissioning during Branch Week at West Point, N.Y.",
       "date": "2026-09-03",
@@ -238,13 +245,6 @@
       "summary": "Air Force, Marine Corps and Navy explosive ordnance disposal technicians participated in Exercise Sentinel Samurai at Kadena Air Base, Japan.",
       "date": "2026-09-02",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4589357/sentinel-samurai-strengthens-joint-eod-readiness/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Army Artillery Brigade Builds Tactical Proficiency",
-      "summary": "Soldiers assigned to the 75th Field Artillery Brigade's 2nd Battalion, 4th Field Artillery Regiment, recently trained at Fort Sill, Okla., to execute Artillery Table VI section qualifications and validate Role 1 combat medical support capabilities.",
-      "date": "2026-09-02",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4588980/army-artillery-brigade-builds-tactical-proficiency/"
     },
     {
       "sourceId": "viasat",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
+      "summary": "NASA will host a virtual webinar at 2 p.m. on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and…",
+      "date": "2026-09-04",
+      "link": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "Lunar Occultation of Venus",
       "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it…",
       "date": "2026-09-04",
@@ -448,13 +455,6 @@
       "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress 96 resupply spacecraft is scheduled to launch at 12:15 p.m.",
       "date": "2026-09-03",
       "link": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
-      "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise.",
-      "date": "2026-09-03",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/"
     }
   ]
 }
