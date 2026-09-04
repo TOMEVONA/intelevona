@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T17:26:23.265Z",
+  "updated": "2026-09-04T16:47:49.931Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -178,6 +178,20 @@
     },
     {
       "sourceId": "ussf",
+      "title": "Schiess sworn in as the Space Force’s highest-ranking uniformed leader",
+      "summary": "Gen. Douglas A. Schiess was formally installed as the third CSO during a change of responsibility ceremony succeeding retiring Gen. Chance Saltzman.<br/> <img src='https://media.defense.gov/2026/Sep/03/2003991896/300/300/0/260903-F-LE393-1384.JPG' alt='Chief of Space Operations…",
+      "date": "2026-09-03",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4590732/schiess-sworn-in-as-the-space-forces-highest-ranking-uniformed-leader/"
+    },
+    {
+      "sourceId": "ussf",
+      "title": "CSO notice to Guardians: Day One message to the force",
+      "summary": "Chief of Space Operations Gen. Douglas A. Schiess released his first message to the force on the day of the CSO change of responsibility ceremony.<br/> <img src='https://media.defense.gov/2026/Sep/03/2003991897/300/300/0/260903-F-LE393-1310.JPG' alt='Chief of Space Operations…",
+      "date": "2026-09-03",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4590601/cso-notice-to-guardians-day-one-message-to-the-force/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "AFAS offers Road Ready grant for spouses of deployed Airmen, Guardians",
       "summary": "The initiative helps alleviate family burdens during deployments and ensures household transportation remains safe and operational. <br/>",
       "date": "2026-09-01",
@@ -198,158 +212,144 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4581284/hernandez-baquero-swears-in-as-department-of-the-air-force-space-acquisition-an/"
     },
     {
-      "sourceId": "ussf",
-      "title": "USSF Honor Guard debuts new ceremonial uniform at Freedom 250 Grand Prix",
-      "summary": "The newly designed attire will replace the modified U.S. Air Force uniforms worn since 2019, and establish a distinct visual identity with unique service colors and insignia.",
-      "date": "2026-08-21",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4580864/ussf-honor-guard-debuts-new-ceremonial-uniform-at-freedom-250-grand-prix/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "STARCOM activates 320th Recruiting Squadron to prepare next generation of Guardians",
-      "summary": "STARCOM activated the Space Force's 320th Recruiting Squadron to lead the Guardian Talent Scout program and recruit specialized talent nationwide.<br/> <img src='https://media.defense.gov/2026/Aug/18/2003983362/300/300/0/260814-F-QS775-1273.JPG' alt='Space Training and Readiness…",
-      "date": "2026-08-19",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4577373/starcom-activates-320th-recruiting-squadron-to-prepare-next-generation-of-guard/"
+      "sourceId": "dod",
+      "title": "Cadets Explore Potential Army Careers During Branch Week",
+      "summary": "Representatives from 16 Army branches provided members of the U.S. Military Academy's Corps of Cadets a glimpse into what they may encounter after graduation and commissioning during Branch Week at West Point, N.Y.",
+      "date": "2026-09-03",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4590564/cadets-explore-potential-army-careers-during-branch-week/"
     },
     {
       "sourceId": "dod",
-      "title": "Officials Provide Progress Update on Major Operation 1 Year After its Launch",
-      "summary": "Officials spoke to the media regarding the successful progress of Operation Southern Spear, the large-scale counter-narco-terrorism campaign in the Western Hemisphere, one year after the operation launched in September 2025.",
+      "title": "Naval Warfare Center Showcases Unmanned Refueling at Sea",
+      "summary": "The Navy took a major step toward enabling persistent, unmanned operations when the Naval Air Warfare Center Weapons Division led a demonstration off the coast of Virginia using a robotic towed connector to repeatedly capture, refuel and release an unmanned surface vessel.",
+      "date": "2026-09-03",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4590448/naval-warfare-center-showcases-unmanned-refueling-at-sea/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Hegseth Welcomes Australian Deputy Prime Minister, Commemorates Alliance",
+      "summary": "Secretary of War Pete Hegseth hosted Richard Marles, Australia's deputy prime minister and defense minister, at the Pentagon, where the two men commemorated the 75th anniversary of the historic alliance between Australia, New Zealand and the U.S.",
       "date": "2026-09-02",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4588400/officials-provide-progress-update-on-major-operation-1-year-after-its-launch/"
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4588907/hegseth-welcomes-australian-deputy-prime-minister-commemorates-alliance/"
     },
     {
       "sourceId": "dod",
-      "title": "ChatGPT, Grok Added to War Department's AI System Options",
-      "summary": "The War Department increased its artificial intelligence offerings by launching versions of Grok and ChatGPT to GenAI.mil to go alongside Google's Gemini.",
-      "date": "2026-09-01",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4588244/chatgpt-grok-added-to-war-departments-ai-system-options/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Airlift Wing Builds Mobility Readiness During Exercises",
-      "summary": "The 86th Airlift Wing recently supported Exercise Saber Junction 26 with joint air mobility operations alongside Army and Marine Corps forces at Ramstein Air Base, Germany.",
-      "date": "2026-09-01",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4587771/airlift-wing-builds-mobility-readiness-during-exercises/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Michigan National Guard Trains Mission-Ready Pilots Over Lake Huron",
-      "summary": "The Michigan National Guard debuted its newly acquired Mark VI patrol boat in Lake Huron during Exercise Northern Strike 26-2 to simulate fast-attack threats and train visiting aviation units in complex maritime targeting.",
-      "date": "2026-08-31",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4586595/michigan-national-guard-trains-mission-ready-pilots-over-lake-huron/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Army Lasers Blast Drones, Proving Directed-Energy Weapons Are Future",
-      "summary": "Service members assigned to Joint Task Force Southern Border used the Army Multipurpose High Energy Laser system to stop three hostile, unmanned aircraft systems deemed a threat. They were believed to be linked to drug cartels.",
-      "date": "2026-08-28",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4586023/army-lasers-blast-drones-proving-directed-energy-weapons-are-future/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Open Cosmos Wins UK Government Contract for ConnectedCosmos",
-      "summary": "Open Cosmos has won a significant new contract from the U.K. government as the U.K. looks to build better sovereign connectivity architecture. It has been selected by the British Government",
+      "title": "Sentinel Samurai Strengthens Joint EOD Readiness",
+      "summary": "Air Force, Marine Corps and Navy explosive ordnance disposal technicians participated in Exercise Sentinel Samurai at Kadena Air Base, Japan.",
       "date": "2026-09-02",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/02/open-cosmos-wins-uk-government-contract-for-connectedcosmos/"
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4589357/sentinel-samurai-strengthens-joint-eod-readiness/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Blue Origin Wins Award for NASA’s Mars Telecommunications Network",
-      "summary": "NASA awarded Blue Origin a contract worth up to $700 million to build the Mars Telecommunications Network, which will provide communications and navigation services for future Mars missions. Under the",
+      "sourceId": "dod",
+      "title": "Army Artillery Brigade Builds Tactical Proficiency",
+      "summary": "Soldiers assigned to the 75th Field Artillery Brigade's 2nd Battalion, 4th Field Artillery Regiment, recently trained at Fort Sill, Okla., to execute Artillery Table VI section qualifications and validate Role 1 combat medical support capabilities.",
       "date": "2026-09-02",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/02/blue-origin-wins-award-for-nasas-mars-telecommunications-network/"
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4588980/army-artillery-brigade-builds-tactical-proficiency/"
     },
     {
       "sourceId": "viasat",
-      "title": "Boeing Delivers O3b mPOWER Satellites to SES",
-      "summary": "Boeing has delivered the final three satellites that will complete SES’s O3b mPOWER constellation. The satellites are set for launch later this month on a SpaceX Falcon 9 mission. Satellites",
-      "date": "2026-09-02",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/09/02/boeing-delivers-o3b-mpower-satellites-to-ses/"
+      "title": "Via Satellite 2027 Media Kit",
+      "summary": "For 40 years, Via Satellite has been the most trusted source of in-depth satellite and space industry news and market intelligence. We stay ahead so our readers and partners can,",
+      "date": "2026-09-04",
+      "link": "https://www.satellitetoday.com/uncategorized/2026/09/04/via-satellite-2027-media-kit/"
     },
     {
       "sourceId": "viasat",
-      "title": "Inmarsat Maritime Launches New Safety Data Hub",
-      "summary": "Inmarsat Maritime is launching a new product to provide new insights as well as direct access to the comprehensive analysis of risks shaping global shipping. Inmarsat Maritime, now a Viasat",
-      "date": "2026-09-01",
-      "link": "https://www.satellitetoday.com/mobility/2026/09/01/inmarsat-maritime-launches-new-safety-data-hub/"
+      "title": "SES Wins Peruvian Navy Deal",
+      "summary": "SES has signed a new government deal in Latin America, extending its collaboration with the Peruvian Navy (Marina de Guerra del Perú) to deliver sovereign, multi-orbit satellite connectivity. This will",
+      "date": "2026-09-03",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/03/ses-wins-peruvian-navy-deal/"
     },
     {
       "sourceId": "viasat",
-      "title": "Kymeta Lands $20M DoD Order for Osprey u8 Satcom Terminals",
-      "summary": "Kymeta secured an order from a branch within the U.S. Department of Defense for 100 Osprey u8 multi-orbit satcom terminals worth $20 million. The award announced Tuesday includes multi-orbit connectivity",
-      "date": "2026-09-01",
-      "link": "https://www.satellitetoday.com/technology/2026/09/01/kymeta-lands-20m-dod-order-for-osprey-u8-satcom-terminals/"
+      "title": "From Ground to Orbit: KSAT Exec Details Plans for Hyper Relay Network",
+      "summary": "KSAT, the company known for downlinking satellite data and operating the largest commercial ground station network, plans to expand its network to space with its upcoming Hyper network of relay",
+      "date": "2026-09-03",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/03/from-ground-to-orbit-ksat-exec-details-plans-for-hyper-relay-network/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Hungary’s 4iG Group to Launch Starlink Mobile",
+      "summary": "Hungarian tech, telecommunications, and defense company 4iG Group will launch SpaceX’s Starlink Mobile in certain European markets. The companies’ Sept. 2 announcement involved three initiatives — the current Starlink Mobile",
+      "date": "2026-09-03",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/03/hungarys-4ig-group-to-launch-starlink-mobile/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Axelspace to Reach Broader Market With Airbus Imagery Deal",
+      "summary": "Japanese satellite imagery provider Axelspace signed an agreement with Airbus Defence and Space to provide Airbus with the company’s mid-resolution optical images. The partners plan to jointly develop and deliver",
+      "date": "2026-09-03",
+      "link": "https://www.satellitetoday.com/earth-observation/2026/09/03/axelspace-to-reach-broader-market-with-airbus-imagery-deal/"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Strange New Worlds'' latest episode is a soap opera spoof, but hasn't 'Star Trek' always been a soap opera in space anyway?",
-      "summary": "The latest 'Strange New Worlds' takes the silliness to warp factor nine, but soap opera plots have long been part of the 'Star Trek' mix",
-      "date": "2026-09-03",
-      "link": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-a-soap-opera-spoof-but-hasnt-star-trek-always-been-a-soap-opera-in-space-anyway"
+      "title": "Stars forge and deliver the elements that make up your body — and scientists may finally know how",
+      "summary": "Scientists are close to understanding how stars forge the elements that comprise our planet, bodies and pretty much everything else around us, and how they explode to distribute these elements.",
+      "date": "2026-09-04",
+      "link": "https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how"
     },
     {
       "sourceId": "spacecom",
-      "title": "'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival",
-      "summary": "After nearly eight years traveling through the inner solar system, the trailblazing BepiColombo spacecraft has finally begun its arrival at Mercury.",
-      "date": "2026-09-03",
-      "link": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival"
+      "title": "Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026",
+      "summary": "The Hubble Space Telescope has spotted a spectacular 'super bubble' in our Milky Way's nearest neighbor the Large Magellanic Cloud. Check out our space photo of the day.",
+      "date": "2026-09-04",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Comet McNaught put on a surprise show this summer: Here's how to spot it before it fades",
-      "summary": "Comet McNaught brightened dramatically during two outbursts around perihelion as it made a close approach to the sun.",
-      "date": "2026-09-03",
-      "link": "https://www.space.com/astronomy/comets/comet-mcnaught-put-on-a-surprise-show-this-summer-heres-how-to-spot-it-before-it-fades"
+      "title": "On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus",
+      "summary": "On Sept. 4, 1962, NASA's Mariner 2 spacecraft performed the first-ever rocket maneuver in deep space as it did a quick mid-course correction on its way to Venus. Here's why it mattered.",
+      "date": "2026-09-04",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus"
     },
     {
       "sourceId": "spacecom",
-      "title": "Mesmerizing plasma loops on the sun | Space photo of the day for Sept. 3, 2026",
-      "summary": "\"To see one AND catch it right on the limb AND have it happen on a clear day when I'm home and able to catch it was a real treat.\"",
-      "date": "2026-09-03",
-      "link": "https://www.space.com/stargazing/astrophotography/mesmerizing-plasma-loops-on-the-sun-space-photo-of-the-day-for-sept-3-2026"
+      "title": "We played 'Exodus', a sci-fi RPG that should please 'Mass Effect' fans, even if you can't romance the talking octopus",
+      "summary": "An explosive hands-on demo has us more excited than before for the new action RPG led by BioWare veterans, who talked to us about its making.",
+      "date": "2026-09-04",
+      "link": "https://www.space.com/entertainment/space-games/we-played-exodus-and-this-sci-fi-rpg-should-please-mass-effect-fans-even-if-you-cant-romance-the-talking-octopus"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Sept. 3, 2006: Europe's SMART-1 spacecraft crashes into the moon in lunar death dive",
-      "summary": "On this day in space! Sept. 3, 2006: Europe's SMART-1 spacecraft crashes into the moon in lunar death dive",
-      "date": "2026-09-03",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-3-2026"
+      "title": "How did the infant sun form? Scientists get surprising new insights from 4.6-billion-year-old space dust",
+      "summary": "New research suggests that dust from meteorites contains a \"fossil record\" dating back 4.6 billion years to the formation of the sun, revealing the role magnetism played in the birth of the solar system.",
+      "date": "2026-09-04",
+      "link": "https://www.space.com/astronomy/solar-system/how-did-the-infant-sun-form-scientists-get-surprising-new-insights-from-4-6-billion-year-old-space-dust"
     },
     {
       "sourceId": "rspace",
-      "title": "First Pictures: Viking 2 on Mars – September 3, 1976 | 50 years ago",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w6ax2u/first_pictures_viking_2_on_mars_september_3_1976/\"> <img src=\"https://external-preview.redd.it/c9bFafFWI4sP7ttjqa5HofyvL9koRuQ2rU5Cbp8S7v8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=86cb5c895764fc3b2…",
-      "date": "2026-09-03",
-      "link": "https://www.reddit.com/r/space/comments/1w6ax2u/first_pictures_viking_2_on_mars_september_3_1976/"
+      "title": "German Space Situation Awareness Startup Project-S Emerges from Stealth",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w77go1/german_space_situation_awareness_startup_projects/\"> <img src=\"https://external-preview.redd.it/yPbv_uNRNToVBKSnRm5B2xSy1StYnwMyBkFRc0dB-fc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca0b27ecff8d7d36…",
+      "date": "2026-09-04",
+      "link": "https://www.reddit.com/r/space/comments/1w77go1/german_space_situation_awareness_startup_projects/"
     },
     {
       "sourceId": "rspace",
-      "title": "Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w68z5u/isar_aerospace_could_attempt_second_spectrum/\"> <img src=\"https://external-preview.redd.it/wPya-KB0sAUm-C80IZPlgVN7_C7Es3m-p2VuWZFUq_Y.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0c3971856f400b521bf7…",
-      "date": "2026-09-03",
-      "link": "https://www.reddit.com/r/space/comments/1w68z5u/isar_aerospace_could_attempt_second_spectrum/"
+      "title": "Saw a weird blinking light in the night sky",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Saw a weird light in the sky while looking for the ISS — what could this have been?</p> <p>So I was outside tonight looking for the ISS, and before I spotted it, I noticed another light in the sky.</p> <p>It was a really small, dim point of…",
+      "date": "2026-09-04",
+      "link": "https://www.reddit.com/r/space/comments/1w766sk/saw_a_weird_blinking_light_in_the_night_sky/"
     },
     {
       "sourceId": "rspace",
-      "title": "Tuesday's Daytime Jupiter Occultation a Warm-Up for the \"Big One\"",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w6430m/tuesdays_daytime_jupiter_occultation_a_warmup_for/\"> <img src=\"https://external-preview.redd.it/Y3_OImo7EgkykSgrSiS6_8s5bcTC7-FkQlOBuO4167M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c783addfb2cd48a…",
-      "date": "2026-09-03",
-      "link": "https://www.reddit.com/r/space/comments/1w6430m/tuesdays_daytime_jupiter_occultation_a_warmup_for/"
+      "title": "Simulating what a Warp Drive would look like 🚀",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w75lml/simulating_what_a_warp_drive_would_look_like/\"> <img src=\"https://external-preview.redd.it/iNXLvsVVYBCyn_n9otGCUYdUYF-uCMW2MTifjcMjPnk.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b767d1f3dc988a7e8d2b5…",
+      "date": "2026-09-04",
+      "link": "https://www.reddit.com/r/space/comments/1w75lml/simulating_what_a_warp_drive_would_look_like/"
     },
     {
       "sourceId": "rspace",
-      "title": "Without new landers or rovers, it’s helicopters or bust for NASA’s Mars program. \"For the first time in more than 30 years, NASA has no firm plans to send any new landers or rovers to Mars\"",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w5ylsq/without_new_landers_or_rovers_its_helicopters_or/\"> <img src=\"https://external-preview.redd.it/0pVteNmSRR2rLlSV3nk9api-9R0sJa43sx4cqFxBQMk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c445c4209e3c44c25…",
-      "date": "2026-09-03",
-      "link": "https://www.reddit.com/r/space/comments/1w5ylsq/without_new_landers_or_rovers_its_helicopters_or/"
+      "title": "Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w72tdb/japan_is_launching_a_probe_to_collect_the/\"> <img src=\"https://external-preview.redd.it/R--ETvtpS-l1sj8ZTY798rPY1gPN5kEzU-vyuyf--ew.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=917717e2f97a5c640aee5f8b…",
+      "date": "2026-09-04",
+      "link": "https://www.reddit.com/r/space/comments/1w72tdb/japan_is_launching_a_probe_to_collect_the/"
     },
     {
       "sourceId": "rspace",
-      "title": "Space cargo costs could fall more than 90% by 2040",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w5v1ul/space_cargo_costs_could_fall_more_than_90_by_2040/\"> <img src=\"https://external-preview.redd.it/eR_diXrbWig8t6rjzmt30lhnIyoTYAD9XL194QnweCw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c47dcfcb3b2b6674…",
-      "date": "2026-09-03",
-      "link": "https://www.reddit.com/r/space/comments/1w5v1ul/space_cargo_costs_could_fall_more_than_90_by_2040/"
+      "title": "🇮🇳 ISRO’s GSLV-F17 Successfully Launches EOS-05 Today 🚀 Bounce back moment",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.indiatoday.in/science/story/isro-gslv-f17-eos-05-launch-september-4-2026-2986214-2026-09-04\">https://www.indiatoday.in/science/story/isro-gslv-f17-eos-05-launch-september-4-2026-2986214-2026-09-04</a></p> <p>ISRO’s…",
+      "date": "2026-09-04",
+      "link": "https://www.reddit.com/r/space/comments/1w6yv59/isros_gslvf17_successfully_launches_eos05_today/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,27 @@
     },
     {
       "sourceId": "nasa",
+      "title": "Lunar Occultation of Venus",
+      "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it…",
+      "date": "2026-09-04",
+      "link": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
+      "summary": "APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-09-04",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "A Trio of Tropical Cyclones in the Pacific",
+      "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
+      "date": "2026-09-04",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
       "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress 96 resupply spacecraft is scheduled to launch at 12:15 p.m.",
       "date": "2026-09-03",
@@ -434,27 +455,6 @@
       "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise.",
       "date": "2026-09-03",
       "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Igniting Roman’s Journey",
-      "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug.",
-      "date": "2026-09-03",
-      "link": "https://www.nasa.gov/image-article/igniting-romans-journey/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Hubble Spies Superbubble Scene",
-      "summary": "This Hubble Space Telescope image features a sprawling cosmic vista called N44.",
-      "date": "2026-09-03",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
-      "summary": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-03",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/"
     }
   ]
 }
