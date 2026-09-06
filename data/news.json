@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T16:04:56.256Z",
+  "updated": "2026-09-06T16:38:54.140Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "On this day in space! Sept. 6, 1947: The US Navy launches 1st V-2 rocket at sea in ballistic missile test",
+      "summary": "On Sept. 6, 1947, a V-2 rocket launched from an U.S. Navy aircraft carrier for the first time. Here's why it mattered.",
+      "date": "2026-09-06",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video)",
       "summary": "SpaceX launched yet another batch of its Starlink internet satellites today (Sept. 6), sending them up from California's central coast.",
       "date": "2026-09-06",
@@ -310,11 +317,18 @@
       "link": "https://www.space.com/stargazing/venus-is-disappearing-from-the-evening-sky-heres-how-to-see-it-while-you-can"
     },
     {
-      "sourceId": "spacecom",
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "summary": "Isar Aerospace's Spectrum rocket made history today (Sept. 5), becoming the first vehicle ever to reach orbit from European soil.",
-      "date": "2026-09-05",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"
+      "sourceId": "rspace",
+      "title": "Japan aims for the moons of Mars: It will collect at least 10 grams (0.35 ounces) of material from the surface of Phobos",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w90sz6/japan_aims_for_the_moons_of_mars_it_will_collect/\"> <img src=\"https://external-preview.redd.it/Mjqb-kRS9OK1P77JccoSV6WzWpjUjiyqLN9eXnsrZFM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0bbdc964332e5b79…",
+      "date": "2026-09-06",
+      "link": "https://www.reddit.com/r/space/comments/1w90sz6/japan_aims_for_the_moons_of_mars_it_will_collect/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Why It Rains Solid Diamonds on Neptune 💎",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w90ii6/why_it_rains_solid_diamonds_on_neptune/\"> <img src=\"https://external-preview.redd.it/knnqRqNyv40Y69AD6lQaWG4SA2Amz38uBZMq1-y5AFU.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2fdf9c887dac383495c66782c91…",
+      "date": "2026-09-06",
+      "link": "https://www.reddit.com/r/space/comments/1w90ii6/why_it_rains_solid_diamonds_on_neptune/"
     },
     {
       "sourceId": "rspace",
@@ -336,20 +350,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w8rxch/the_andromeda_galaxy_in_4k/\"> <img src=\"https://preview.redd.it/76bgsnr1hvnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e42f21efdae4733eff02d8b1490e39af95d36b7\" alt=\"The Andromeda Galaxy In 4K!\"…",
       "date": "2026-09-06",
       "link": "https://www.reddit.com/r/space/comments/1w8rxch/the_andromeda_galaxy_in_4k/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "I recreated Apollo 11's final descent, synced to the actual flight computer's assembly code (1202 alarm and all)",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w8rgiv/i_recreated_apollo_11s_final_descent_synced_to/\"> <img src=\"https://external-preview.redd.it/HActFOyhJ9SJxMZgSauKE1oZaw8zlcZ0F4R2u6_vKlA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a965a79fcf38201b439…",
-      "date": "2026-09-06",
-      "link": "https://www.reddit.com/r/space/comments/1w8rgiv/i_recreated_apollo_11s_final_descent_synced_to/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "I used 3 cameras precisely placed to capture Nancy Grace Roman transiting our sun. One of the cameras was connected to a solar telescope, allowing me to see chromosphere details [OC]",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w8fk7r/i_used_3_cameras_precisely_placed_to_capture/\"> <img src=\"https://preview.redd.it/khhvw1pfasnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7ec02a3edd8c7efd4bd65edb6996d3765c36c88\" alt=\"I used 3…",
-      "date": "2026-09-05",
-      "link": "https://www.reddit.com/r/space/comments/1w8fk7r/i_used_3_cameras_precisely_placed_to_capture/"
     },
     {
       "sourceId": "nga",
