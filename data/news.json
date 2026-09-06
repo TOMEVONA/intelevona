@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T16:27:57.293Z",
+  "updated": "2026-09-06T16:04:56.256Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -283,6 +283,27 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video)",
+      "summary": "SpaceX launched yet another batch of its Starlink internet satellites today (Sept. 6), sending them up from California's central coast.",
+      "date": "2026-09-06",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "Feel the Force with these 10 out-of-this-world Lego Star Wars starships",
+      "summary": "Whether you're a Jedi or a Sith, if you love Star Wars' iconic vessels you'll want to own these ten Lego Star Wars starships.",
+      "date": "2026-09-06",
+      "link": "https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-these-ten-out-of-this-world-lego-star-wars-starships"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "NASA expands Deep Space Network with giant new dish in California desert",
+      "summary": "The new antenna will boost capacity on NASA's increasingly strained deep-space communications network as Artemis and other missions drive up demand.",
+      "date": "2026-09-06",
+      "link": "https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "Venus is disappearing from the evening sky — here's how to see it while you can",
       "summary": "Venus is sinking lower into the sunset this September, but the brilliant Evening Star won't be gone for long.",
       "date": "2026-09-05",
@@ -290,66 +311,45 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "This Lego Star Wars UCS AT-ST set is cheaper than ever — I'll always love this chicken walker",
-      "summary": "Forget the AT-AT, the AT-ST is my favorite Star Wars land vehicle. Now, this massive Lego Star Wars Ultimate Collector Series AT-ST is $39 off at Amazon, its lowest ever price.",
-      "date": "2026-09-05",
-      "link": "https://www.space.com/entertainment/space-toys-lego/this-lego-star-wars-ucs-at-st-set-is-cheaper-than-ever-and-ill-always-love-this-chicken-walker"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Watch Isar Aerospace try to make history today with launch from Norway",
-      "summary": "Isar Aerospace's Spectrum rocket will attempt to become the first vehicle to reach orbit from European soil today (Sept. 5), and you can watch the action live.",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "summary": "Isar Aerospace's Spectrum rocket made history today (Sept. 5), becoming the first vehicle ever to reach orbit from European soil.",
       "date": "2026-09-05",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"
     },
     {
-      "sourceId": "spacecom",
-      "title": "This Week In Space podcast: Episode 226 — Who Owns The Moon?",
-      "summary": "On Episode 226 of This Week In Space, Rod Pyle and Tariq Malik are joined by Dr. Rainer Zitelmann to discuss the history of capitalism and how it applies to our future in space.",
-      "date": "2026-09-05",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-226-who-owns-the-moon"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "On this day in space! Sept. 5, 1977: NASA launches Voyager 1 on epic journey across the solar system",
-      "summary": "On Sept. 5, 1977, Voyager 1 began its epic journey through deep space with a glorious morning launch from Cape Canaveral, Florida. Here's why it mattered.",
-      "date": "2026-09-05",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-5-1977-nasa-launches-voyager-1-on-epic-journey-across-the-solar-system"
+      "sourceId": "rspace",
+      "title": "Milky Way galaxy Captured by my phone from a remote location",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w8zbdb/milky_way_galaxy_captured_by_my_phone_from_a/\"> <img src=\"https://preview.redd.it/4aj9r17o5xnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=08d252744adc9c9369b7d5f5cc3f1d150e551384\" alt=\"Milky Way…",
+      "date": "2026-09-06",
+      "link": "https://www.reddit.com/r/space/comments/1w8zbdb/milky_way_galaxy_captured_by_my_phone_from_a/"
     },
     {
       "sourceId": "rspace",
-      "title": "OTD 49 years ago, Voyager 1 was launched",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w859of/otd_49_years_ago_voyager_1_was_launched/\"> <img src=\"https://preview.redd.it/eqfanneaaqnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=898d480847a861c9d15dd8b9b4c290f42fe13511\" alt=\"OTD 49 years ago,…",
-      "date": "2026-09-05",
-      "link": "https://www.reddit.com/r/space/comments/1w859of/otd_49_years_ago_voyager_1_was_launched/"
+      "title": "My capture of the Helix Nebula",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w8uel3/my_capture_of_the_helix_nebula/\"> <img src=\"https://preview.redd.it/nprsxlcd4wnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=466c74b9e72c55feaf44e2a8bf1ab71d51706bea\" alt=\"My capture of the Helix…",
+      "date": "2026-09-06",
+      "link": "https://www.reddit.com/r/space/comments/1w8uel3/my_capture_of_the_helix_nebula/"
     },
     {
       "sourceId": "rspace",
-      "title": "Miami's LED lighting seen from the ISS",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w84itj/miamis_led_lighting_seen_from_the_iss/\"> <img src=\"https://preview.redd.it/bhqw15pt4qnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=efeaa6d9b33846beb68019a10e9fa2b2c5789f7f\" alt=\"Miami's LED…",
-      "date": "2026-09-05",
-      "link": "https://www.reddit.com/r/space/comments/1w84itj/miamis_led_lighting_seen_from_the_iss/"
+      "title": "The Andromeda Galaxy In 4K!",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w8rxch/the_andromeda_galaxy_in_4k/\"> <img src=\"https://preview.redd.it/76bgsnr1hvnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e42f21efdae4733eff02d8b1490e39af95d36b7\" alt=\"The Andromeda Galaxy In 4K!\"…",
+      "date": "2026-09-06",
+      "link": "https://www.reddit.com/r/space/comments/1w8rxch/the_andromeda_galaxy_in_4k/"
     },
     {
       "sourceId": "rspace",
-      "title": "Apophis's 2029 pass, visualised from JPL Horizons data",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://youtu.be/9MUJXbU3agg?si=gkXSk2_s4oGGB5PY\">https://youtu.be/9MUJXbU3agg?si=gkXSk2_s4oGGB5PY</a></p> <p>So I&#39;ve been obsessed with this for a few weeks.",
-      "date": "2026-09-05",
-      "link": "https://www.reddit.com/r/space/comments/1w83w4z/apophiss_2029_pass_visualised_from_jpl_horizons/"
+      "title": "I recreated Apollo 11's final descent, synced to the actual flight computer's assembly code (1202 alarm and all)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w8rgiv/i_recreated_apollo_11s_final_descent_synced_to/\"> <img src=\"https://external-preview.redd.it/HActFOyhJ9SJxMZgSauKE1oZaw8zlcZ0F4R2u6_vKlA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a965a79fcf38201b439…",
+      "date": "2026-09-06",
+      "link": "https://www.reddit.com/r/space/comments/1w8rgiv/i_recreated_apollo_11s_final_descent_synced_to/"
     },
     {
       "sourceId": "rspace",
-      "title": "Isar Aerospace: Mission 'Onward and Upward' new launch attempt September 5th, 20:00 UTC",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w7zfnn/isar_aerospace_mission_onward_and_upward_new/\"> <img src=\"https://external-preview.redd.it/kUX1cHIptqX2nE9h3WAavNMMSO8-58kbiqLArUITMzA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=569f3e40345630a68166b…",
+      "title": "I used 3 cameras precisely placed to capture Nancy Grace Roman transiting our sun. One of the cameras was connected to a solar telescope, allowing me to see chromosphere details [OC]",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w8fk7r/i_used_3_cameras_precisely_placed_to_capture/\"> <img src=\"https://preview.redd.it/khhvw1pfasnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7ec02a3edd8c7efd4bd65edb6996d3765c36c88\" alt=\"I used 3…",
       "date": "2026-09-05",
-      "link": "https://www.reddit.com/r/space/comments/1w7zfnn/isar_aerospace_mission_onward_and_upward_new/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Betelgeuse's atmosphere is becoming spotty and asymmetric—and a nearby companion could be shaping the pattern",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1w7po3s/betelgeuses_atmosphere_is_becoming_spotty_and/\"> <img src=\"https://external-preview.redd.it/oBjQaqsdaej4XKv-95STR1aWHbWbPZYvWXFbLmNVY6w.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83aab95ea9034d60b89c…",
-      "date": "2026-09-05",
-      "link": "https://www.reddit.com/r/space/comments/1w7po3s/betelgeuses_atmosphere_is_becoming_spotty_and/"
+      "link": "https://www.reddit.com/r/space/comments/1w8fk7r/i_used_3_cameras_precisely_placed_to_capture/"
     },
     {
       "sourceId": "nga",
