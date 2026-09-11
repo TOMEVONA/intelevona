@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-10T17:26:26.439Z",
+  "updated": "2026-09-11T16:57:37.614Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+      "summary": "Australian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, spanning satellite",
+      "date": "2026-09-11",
+      "link": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
@@ -28,13 +35,6 @@
       "summary": "I have spent much of my career looking at the defense industrial base from different vantage points: as a warfighter, inside major defense companies, and now leading a company whose",
       "date": "2026-08-31",
       "link": "https://spacenews.com/speed-to-field-starts-below-the-prime/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "The electronics ‘under the hood’ of space networking",
-      "summary": "In this episode, SpaceNews’ Mike Gruss interviews Jeff Janicik, founder and chairman of Innoflight. They discuss Golden Dome, Artemis and working with big numbers for the Space Development Agency. Sponsored",
-      "date": "2026-08-27",
-      "link": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking/"
     },
     {
       "sourceId": "tectonic",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "War Department Marks 9/11 Anniversary",
+      "summary": "The War Department conducted an early morning flag unfurling at the Pentagon to mark the 25th anniversary of 9/11.",
+      "date": "2026-09-11",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4596754/war-department-marks-911-anniversary/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Space Academy Commission Holds First Meeting",
       "summary": "Secretary of War Pete Hegseth attended the first meeting of the presidential commission on the U.S. Space Academy at NASA's headquarters in Washington.",
       "date": "2026-09-10",
@@ -240,11 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4593037/rebuilding-defense-industrial-base-requires-skilled-labor/"
     },
     {
-      "sourceId": "dod",
-      "title": "Joint Interagency Task Force 401 Publishes Counter-UAS Reference Guide",
-      "summary": "Joint Interagency Task Force 401 published its 2026 Counter-Small Unmanned Aircraft Systems Quick Reference Guide, establishing a shared baseline of technical and tactical knowledge across the joint force and interagency partners.",
-      "date": "2026-09-08",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4592780/joint-interagency-task-force-401-publishes-counter-uas-reference-guide/"
+      "sourceId": "viasat",
+      "title": "MaiaSpace Wins First Long-Term Asia Customer Deal",
+      "summary": "Institute for Q-shu Pioneers of Space (iQPS) has tapped MaiaSpace, the up-and-coming French launch provider, to launch a range of SAR (synthetic aperture radar) satellites starting in 2029. This is",
+      "date": "2026-09-10",
+      "link": "https://www.satellitetoday.com/launch/2026/09/10/maiaspace-wins-first-long-term-asia-customer-deal/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "York Space to Build Platforms for Tomorrow.io’s Next-Gen DeepSky Constellation",
+      "summary": "Tomorrow.io has selected York Space Systems to build the initial phase of its next-generation DeepSky weather monitoring constellation under a $187 million contract announced Thursday. For Tomorrow.io, DeepSky will serve",
+      "date": "2026-09-10",
+      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/09/10/york-space-to-build-tomorrow-ios-next-gen-deepsky-constellation/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "TrustPoint CEO Previews Constellation Build-Out With EnduroSat Deal",
+      "summary": "TrustPoint is moving forward to build out its GPS-independent PNT constellation plans, tapping EnduroSat US to build 40 satellites in a deal announced Thursday. These 40 satellites will take the",
+      "date": "2026-09-10",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/09/10/trustpoint-ceo-previews-constellation-build-out-with-endurosat-deal/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Eutelsat Taps Airbus and Aerospacelab for OneWeb and IRIS² Satellites",
+      "summary": "Eutelsat announced major orders of satellites to support service continuity for the OneWeb constellation, and Europe’s IRIS² constellation. Airbus Defence and Space received authorization to proceed for 229 OneWeb satellites",
+      "date": "2026-09-10",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/09/10/eutelsat-taps-airbus-and-aerospacelab-for-oneweb-and-iris%c2%b2-satellites/"
     },
     {
       "sourceId": "viasat",
@@ -254,102 +282,74 @@
       "link": "https://www.satellitetoday.com/podcast/2026/09/09/building-exact-ai-for-high-stakes-space-missions-with-pilogic-ceo-johannes-waldstein/"
     },
     {
-      "sourceId": "viasat",
-      "title": "UK Government Releases Latest Space Strategy, With Heavy Emphasis on Defense",
-      "summary": "The U.K. Government has published its latest national space strategy as it looks to bring space investment and activity under one plan. The aim is to drive growth, strengthen security",
-      "date": "2026-09-09",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/09/uk-government-releases-latest-space-strategy-with-heavy-emphasis-on-defense/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "New Eclipse Satellite Platforms Target D2D, Broadband, and Computing",
-      "summary": "Eclipse Space, a new megaconstellation startup, announced a lineup of satellite platforms on Wednesday geared toward direct-to-device (D2D), broadband, and on-orbit computing. Eclipse Space was founded by a group of",
-      "date": "2026-09-09",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/09/new-eclipse-satellite-platforms-target-d2d-broadband-and-computing/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Loft Orbital, Marlan Space to Build AI Constellation to Serve France, Europe and UAE",
-      "summary": "Loft Orbital, Marlan Space, and partners are investing $1 billion to build an artificial intelligence satellite constellation to serve customers across France, Europe, the UAE, and the rest of the",
-      "date": "2026-09-09",
-      "link": "https://www.satellitetoday.com/earth-observation/2026/09/09/loft-orbital-marlan-space-to-build-ai-constellation-to-serve-france-europe-and-uae/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Amazon Leo Orders 6 More Ariane 64 Launches from Arianespace",
-      "summary": "Amazon Leo is increasing its work with Arianespace, ordering six more Ariane 64 launches to deploy its constellation. Arianespace is a key launch provider for Amazon Leo, which has faced",
-      "date": "2026-09-09",
-      "link": "https://www.satellitetoday.com/launch/2026/09/09/amazon-leo-orders-6-more-ariane-64-launches-from-arianespace/"
+      "sourceId": "spacecom",
+      "title": "The sun may once have swallowed a super-Earth planet and could still be hiding the evidence",
+      "summary": "The sun may have swallowed a super-Earth planet in its early history, and our star may still be hiding the evidence, new research suggests.",
+      "date": "2026-09-11",
+      "link": "https://www.space.com/astronomy/sun/the-sun-may-once-have-swallowed-a-super-earth-planet-and-could-still-be-hiding-the-evidence"
     },
     {
       "sourceId": "spacecom",
-      "title": "Scientists study 3,000 supernovas and discover that dark energy may be evolving",
-      "summary": "A catalog of almost 3,000 white dwarfs that exploded as type Ia supernovas after overfeeding on companion stars indicates that dark energy is changing over time.",
-      "date": "2026-09-10",
-      "link": "https://www.space.com/astronomy/dark-universe/scientists-study-3-000-supernovas-and-discover-that-dark-energy-may-be-evolving"
+      "title": "60 years of Star Trek uniforms: Looking back at the everchanging wardrobe of Starfleet",
+      "summary": "Federation fashions have gone through many evolutions over the last six decades, from pastel pajamas to back-breaking Spandex.",
+      "date": "2026-09-11",
+      "link": "https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-uniforms-looking-back-at-the-everchanging-wardrobe-of-starfleet"
     },
     {
       "sourceId": "spacecom",
-      "title": "The next 'Star Trek' movie will be inspired by 'Crimson Tide', and 'Strange New Worlds' latest episode just showed them how to do it",
-      "summary": "The chain of command collides with questions of right and wrong in this space-set spin on the '90s submarine classic.",
-      "date": "2026-09-10",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-next-star-trek-movie-will-be-inspired-by-crimson-tide-and-strange-new-worlds-latest-episode-just-showed-them-how-to-do-it"
+      "title": "On this day in space! Sept. 11, 1985: The International Cometary Explorer makes 1st comet flyby in history for NASA and Europe",
+      "summary": "On Sept. 11, 1985, the International Cometary Explorer, or \"ICE,\" became the first spacecraft to fly by a comet. Here's why it mattered.",
+      "date": "2026-09-11",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-11-1985-the-international-cometary-explorer-makes-1st-comet-flyby-in-history-for-nasa-and-europe"
     },
     {
       "sourceId": "spacecom",
-      "title": "Mercury is shrinking faster than we thought. What's going on inside of it?",
-      "summary": "Wrinkles on the surface of Mercury have revealed that the closest planet to the sun is shrinking faster than scientists thought.",
-      "date": "2026-09-10",
-      "link": "https://www.space.com/astronomy/mercury/mercury-is-shrinking-faster-than-we-thought-whats-going-on-inside-of-it"
+      "title": "Wavy alien dune fields stretch across Mars | Space photo of the day for Sept. 11, 2026",
+      "summary": "A dune field on Mars, as seen by the Mars Reconnaissance Orbiter.",
+      "date": "2026-09-11",
+      "link": "https://www.space.com/astronomy/mars/wavy-alien-dune-fields-stretch-across-mars-space-photo-of-the-day-for-sept-11-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Iconic Star Trek filming location spotted from space | Space photo of the day for Sept. 10, 2026",
-      "summary": "This new satellite image shows Vasquez Rocks in southern California, where Captain Kirk once faced off against the Gorn.",
-      "date": "2026-09-10",
-      "link": "https://www.space.com/astronomy/earth/iconic-star-trek-filming-location-spotted-from-space-space-photo-of-the-day-for-sept-10-2026"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "What comes after the moon? Artemis II commander and pilot shift to 'emeritus' status at NASA",
-      "summary": "Artemis II astronauts Reid Wiseman, Victor Glover and Jeremy Hansen are planning new journeys after their April 2026 moon mission.",
-      "date": "2026-09-10",
-      "link": "https://www.space.com/space-exploration/artemis/what-comes-after-the-moon-artemis-ii-commander-and-pilot-shift-to-emeritus-status-at-nasa"
+      "title": "2 private spacecraft zoom within 650 feet of each other to showcase 'advanced capabilities' in orbit (photos)",
+      "summary": "Two spacecraft operated by the company Impulse Space pulled off an impressive orbital feat recently, coming within less than 650 feet of each other.",
+      "date": "2026-09-11",
+      "link": "https://www.space.com/space-exploration/satellites/2-private-spacecraft-zoom-within-650-feet-of-each-other-to-showcase-advanced-capabilities-in-orbit-photos"
     },
     {
       "sourceId": "rspace",
-      "title": "Soft and stretchy or rock solid? New modeling study sheds light on how the Earth got its moon",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wcng9t/soft_and_stretchy_or_rock_solid_new_modeling/\"> <img src=\"https://external-preview.redd.it/0rVCCELkjwIiqHjSOOb40p-ymxqjwU7MniXLdiZU8KE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7258792298bf46ba218ff…",
-      "date": "2026-09-10",
-      "link": "https://www.reddit.com/r/space/comments/1wcng9t/soft_and_stretchy_or_rock_solid_new_modeling/"
+      "title": "Hidden clues show Mercury shrank more than previously thought, new study finds",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wdlw09/hidden_clues_show_mercury_shrank_more_than/\"> <img src=\"https://external-preview.redd.it/6Ak7XNhZm9QqNhGIdxQ_-cwCEONujCvUCD6Jxo0YLs4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef222cf4b0bac90ffcbee24…",
+      "date": "2026-09-11",
+      "link": "https://www.reddit.com/r/space/comments/1wdlw09/hidden_clues_show_mercury_shrank_more_than/"
     },
     {
       "sourceId": "rspace",
-      "title": "Fermi Explorer Bets on Today’s Tech for an 80,000 Year Journey",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wcl5fz/fermi_explorer_bets_on_todays_tech_for_an_80000/\"> <img src=\"https://external-preview.redd.it/ie9O1pvtUA-rRQaijMbLRaEqIGUeQJkdej40LcVCTuE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9b1382d442c7bbf96…",
-      "date": "2026-09-10",
-      "link": "https://www.reddit.com/r/space/comments/1wcl5fz/fermi_explorer_bets_on_todays_tech_for_an_80000/"
+      "title": "I re-created and tested Orion’s heat shield…",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Ever since Artemis II I’ve been curious about the Artemis I/Orion heat shield so <a href=\"https://youtu.be/9kU6V6sayL0?si=J-EBwO5UBB9RWXf_\">I decided to do a video</a> on it in my own rebuild/recreation style.</p> <p>I figure if any group had…",
+      "date": "2026-09-11",
+      "link": "https://www.reddit.com/r/space/comments/1wddqv6/i_recreated_and_tested_orions_heat_shield/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Exploration Company Books Ariane 6 Flight for Nyx Demo Mission",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wcj5y4/the_exploration_company_books_ariane_6_flight_for/\"> <img src=\"https://external-preview.redd.it/cquKapf5wS9dWzixonEFTErjR8ad7ucbz03OqC0YXCI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da877d8fc9c52b5d…",
-      "date": "2026-09-10",
-      "link": "https://www.reddit.com/r/space/comments/1wcj5y4/the_exploration_company_books_ariane_6_flight_for/"
+      "title": "ESA Awards The Exploration Company a €760M Space Station Cargo Contract",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wdbfrg/esa_awards_the_exploration_company_a_760m_space/\"> <img src=\"https://external-preview.redd.it/c8b9l2vS7yM120MXGnWrUeyWdKUiX7giMnuozBa5vjc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0e4f9246c9f5e8000…",
+      "date": "2026-09-11",
+      "link": "https://www.reddit.com/r/space/comments/1wdbfrg/esa_awards_the_exploration_company_a_760m_space/"
     },
     {
       "sourceId": "rspace",
-      "title": "Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wcj5cy/aerospacelab_thales_alenia_space_secure_54/\"> <img src=\"https://external-preview.redd.it/24UCn5F1x2lgMrdzc56IKG9x01hRg8dfJ6q27uoRT4k.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b264bfe0be0ca4d6469a741…",
+      "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wct2j8/europe_will_go_it_alone_on_venus_mission_after/\"> <img src=\"https://external-preview.redd.it/p2q9wO65iCKUIqyXjknQFPyBDvQIxd0SPMPJDPa_XOQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d87fb540cae7667324…",
       "date": "2026-09-10",
-      "link": "https://www.reddit.com/r/space/comments/1wcj5cy/aerospacelab_thales_alenia_space_secure_54/"
+      "link": "https://www.reddit.com/r/space/comments/1wct2j8/europe_will_go_it_alone_on_venus_mission_after/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA Calls for Proposals to Accelerate Lunar Surface Technologies",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wchfmr/nasa_calls_for_proposals_to_accelerate_lunar/\"> <img src=\"https://external-preview.redd.it/eGAc3Fnjqu4YgLxOEcCRkqMZSSNHNShd9Y6UoeYTdRA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b81b7af3a9ac821b70180d…",
+      "title": "Mercury may be shrinking faster than scientists expected",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wcsipi/mercury_may_be_shrinking_faster_than_scientists/\"> <img src=\"https://external-preview.redd.it/IQMkcHO_mpZ8tGXeJZ0GZ_H3BTD2Nzk-oDqZ4iTr8-s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=456caaddb1d3e71b36…",
       "date": "2026-09-10",
-      "link": "https://www.reddit.com/r/space/comments/1wchfmr/nasa_calls_for_proposals_to_accelerate_lunar/"
+      "link": "https://www.reddit.com/r/space/comments/1wcsipi/mercury_may_be_shrinking_faster_than_scientists/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "Dust and Water in Sagittarius A*",
-      "summary": "A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA’s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this starfield.",
+      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+      "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station.",
+      "date": "2026-09-11",
+      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+      "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community.",
+      "date": "2026-09-11",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
+      "summary": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-09-11",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Monterrey Amid Mountains",
+      "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
+      "date": "2026-09-11",
+      "link": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
+      "summary": "The Republic of Djibouti will sign the Artemis Accords during a ceremony at 11 a.m. EDT, Monday, Sept. 14, at NASA Headquarters in Washington, becoming the 72nd country signatory.",
       "date": "2026-09-10",
-      "link": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
-      "summary": "APOD Science APOD APOD: 2026 September 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-10",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Dust Storm Sweeps Over Mali",
-      "summary": "At a time of year when dust storm activity winds down, a plume of dust blanketed parts of the West African nation and its neighbors.",
-      "date": "2026-09-10",
-      "link": "https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
-      "summary": "A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision.",
-      "date": "2026-09-09",
-      "link": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
-      "summary": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics.",
-      "date": "2026-09-09",
-      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/"
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/"
     }
   ]
 }
