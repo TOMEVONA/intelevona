@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T17:27:28.767Z",
+  "updated": "2026-09-12T16:07:39.665Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -178,8 +178,15 @@
     },
     {
       "sourceId": "ussf",
+      "title": "US, international partners to bolster global secure communications with updated multinational agreement",
+      "summary": "The U.S. Department of War, in partnership with defense ministries from 10 international partners, has signed Amendment Three to the multilateral Wideband Global SATCOM Memorandum of Understanding.<br/> <img src='' alt='' /> <br />",
+      "date": "2026-09-12",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4599066/us-international-partners-to-bolster-global-secure-communications-with-updated/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "US Space Force selects Texas as preferred location for third DARC site",
-      "summary": "The USSF has approved project planning and selected Lake Kickapoo, Texas, as the preferred location for the third and final site of the DARC, a network designed to provide continuous space domain awareness and uninterrupted, overlapping coverage of geostationary orbit.<br/>",
+      "summary": "The USSF has approved project planning and selected Lake Kickapoo, Texas, as the preferred location for the third and final site of the DARC, a network designed to provide continuous space domain awareness and uninterrupted, overlapping coverage of geostationary orbit.<br/> <img…",
       "date": "2026-09-09",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4592096/us-space-force-selects-texas-as-preferred-location-for-third-darc-site/"
     },
@@ -193,30 +200,23 @@
     {
       "sourceId": "ussf",
       "title": "CMSSF visits National Space Defense Center",
-      "summary": "CMSSF Bentivegna visited the National Space Defense Center to engage with Guardians.<br/> <img src='https://media.defense.gov/2026/Sep/04/2003992813/300/300/0/260901-X-DA809-2001.JPG' alt='Chief Master Sgt.",
+      "summary": "CMSSF Bentivegna visited the National Space Defense Center to engage with Guardians.<br/> <img src='' alt='' /> <br />",
       "date": "2026-09-08",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4592344/cmssf-visits-national-space-defense-center/"
     },
     {
       "sourceId": "ussf",
       "title": "Schiess sworn in as the Space Force’s highest-ranking uniformed leader",
-      "summary": "Gen. Douglas A. Schiess was formally installed as the third CSO during a change of responsibility ceremony succeeding retiring Gen. Chance Saltzman.<br/> <img src='https://media.defense.gov/2026/Sep/03/2003991896/300/300/0/260903-F-LE393-1384.JPG' alt='Chief of Space Operations…",
+      "summary": "Gen. Douglas A. Schiess was formally installed as the third CSO during a change of responsibility ceremony succeeding retiring Gen. Chance Saltzman.<br/> <img src='' alt='' /> <br />",
       "date": "2026-09-03",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4590732/schiess-sworn-in-as-the-space-forces-highest-ranking-uniformed-leader/"
     },
     {
-      "sourceId": "ussf",
-      "title": "CSO notice to Guardians: Day One message to the force",
-      "summary": "Chief of Space Operations Gen. Douglas A. Schiess released his first message to the force on the day of the CSO change of responsibility ceremony.<br/> <img src='https://media.defense.gov/2026/Sep/03/2003991897/300/300/0/260903-F-LE393-1310.JPG' alt='Chief of Space Operations…",
-      "date": "2026-09-03",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4590601/cso-notice-to-guardians-day-one-message-to-the-force/"
-    },
-    {
       "sourceId": "dod",
-      "title": "Trump, Hegseth, Caine Host 9/11 Observance Ceremony",
+      "title": "Trump, Hegseth Commemorate 25th Anniversary of 9/11 at the Pentagon",
       "summary": "President Donald J. Trump, Secretary of War Pete Hegseth and Joint Chiefs Chairman Air Force Gen. Dan Caine hosted the 25th Anniversary 9/11 Observance Ceremony at the Pentagon.",
       "date": "2026-09-11",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4599127/trump-hegseth-caine-host-911-observance-ceremony/"
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4599127/trump-hegseth-commemorate-25th-anniversary-of-911-at-the-pentagon/"
     },
     {
       "sourceId": "dod",
@@ -248,73 +248,101 @@
     },
     {
       "sourceId": "viasat",
+      "title": "NATO Invests for the New Era of Space Defense: Interview with NCIA GM Dylan Browne",
+      "summary": "The era of space defense has well and truly arrived. NATO, one of the key organizations focused on space and defense, has made a number of signature announcements over the",
+      "date": "2026-09-11",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/11/nato-invests-for-the-new-era-of-space-defense-interview-with-ncia-gm-dylan-browne/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "SES Brings New Platform to Media and Broadcast Partners",
+      "summary": "SES is launching a new platform designed for next generating broadcasting. SES CORE will be a content orchestration and hybrid delivery platform, designed to enable broadcasters and media customers to",
+      "date": "2026-09-11",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/11/ses-brings-new-platform-to-media-and-broadcast-partners/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Iridium Sends Voice Message from Toyota Vehicle With Deutsche Telekom IoT",
+      "summary": "In a new satellite-connected car demonstration, Iridium reports a demo in which a Toyota vehicle sent a voice message using Iridium NTN Direct, working with Deutsche Telekom IoT (DT IoT).",
+      "date": "2026-09-11",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/11/iridium-sends-voice-message-from-toyota-vehicle-with-deutsche-telekom-iot/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "NOAA Names 14 Commercial Providers for Weather Data Contract",
+      "summary": "NOAA is expanding its work with commercial satellite companies for weather data, working with 14 companies to acquire data across seven categories to improve weather forecasting. NOAA announced partner companies",
+      "date": "2026-09-11",
+      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/09/11/noaa-names-14-commercial-providers-for-weather-data-contract/"
+    },
+    {
+      "sourceId": "viasat",
       "title": "MaiaSpace Wins First Long-Term Asia Customer Deal",
       "summary": "Institute for Q-shu Pioneers of Space (iQPS) has tapped MaiaSpace, the up-and-coming French launch provider, to launch a range of SAR (synthetic aperture radar) satellites starting in 2029. This is",
       "date": "2026-09-10",
       "link": "https://www.satellitetoday.com/launch/2026/09/10/maiaspace-wins-first-long-term-asia-customer-deal/"
     },
     {
-      "sourceId": "viasat",
-      "title": "York Space to Build Platforms for Tomorrow.io’s Next-Gen DeepSky Constellation",
-      "summary": "Tomorrow.io has selected York Space Systems to build the initial phase of its next-generation DeepSky weather monitoring constellation under a $187 million contract announced Thursday. For Tomorrow.io, DeepSky will serve",
-      "date": "2026-09-10",
-      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/09/10/york-space-to-build-tomorrow-ios-next-gen-deepsky-constellation/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "TrustPoint CEO Previews Constellation Build-Out With EnduroSat Deal",
-      "summary": "TrustPoint is moving forward to build out its GPS-independent PNT constellation plans, tapping EnduroSat US to build 40 satellites in a deal announced Thursday. These 40 satellites will take the",
-      "date": "2026-09-10",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/09/10/trustpoint-ceo-previews-constellation-build-out-with-endurosat-deal/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Eutelsat Taps Airbus and Aerospacelab for OneWeb and IRIS² Satellites",
-      "summary": "Eutelsat announced major orders of satellites to support service continuity for the OneWeb constellation, and Europe’s IRIS² constellation. Airbus Defence and Space received authorization to proceed for 229 OneWeb satellites",
-      "date": "2026-09-10",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/09/10/eutelsat-taps-airbus-and-aerospacelab-for-oneweb-and-iris%c2%b2-satellites/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Building Exact AI for High-Stakes Space Missions With PiLogic CEO Johannes Waldstein",
-      "summary": "Startup PiLogic is taking a unique approach to AI for the space industry, developing what it calls “exact AI,” a type of AI in the category of automated reasoning. It",
-      "date": "2026-09-09",
-      "link": "https://www.satellitetoday.com/podcast/2026/09/09/building-exact-ai-for-high-stakes-space-missions-with-pilogic-ceo-johannes-waldstein/"
+      "sourceId": "spacecom",
+      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
+      "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order.",
+      "date": "2026-09-12",
+      "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed"
     },
     {
       "sourceId": "spacecom",
-      "title": "The sun may once have swallowed a super-Earth planet and could still be hiding the evidence",
-      "summary": "The sun may have swallowed a super-Earth planet in its early history, and our star may still be hiding the evidence, new research suggests.",
-      "date": "2026-09-11",
-      "link": "https://www.space.com/astronomy/sun/the-sun-may-once-have-swallowed-a-super-earth-planet-and-could-still-be-hiding-the-evidence"
+      "title": "On this day in space! NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
+      "summary": "On Sept. 12, 1992, NASA astronaut Mae Jemison became the first African American woman to go to space. Here's why it mattered.",
+      "date": "2026-09-12",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "60 years of Star Trek uniforms: Looking back at the everchanging wardrobe of Starfleet",
-      "summary": "Federation fashions have gone through many evolutions over the last six decades, from pastel pajamas to back-breaking Spandex.",
-      "date": "2026-09-11",
-      "link": "https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-uniforms-looking-back-at-the-everchanging-wardrobe-of-starfleet"
+      "title": "This Week In Space podcast: Episode 227 — Trekmania",
+      "summary": "On Episode 227 of This Week In Space, Rod Pyle and Tariq Malik are joined by Michael Okuda, who with wife and others have been central to the look, feel, and substance of the Star Trek universe.",
+      "date": "2026-09-12",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-227-trekmania"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Sept. 11, 1985: The International Cometary Explorer makes 1st comet flyby in history for NASA and Europe",
-      "summary": "On Sept. 11, 1985, the International Cometary Explorer, or \"ICE,\" became the first spacecraft to fly by a comet. Here's why it mattered.",
-      "date": "2026-09-11",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-11-1985-the-international-cometary-explorer-makes-1st-comet-flyby-in-history-for-nasa-and-europe"
+      "title": "The best 'Star Trek' spaceships: 14 classic vessels from the Federation and beyond",
+      "summary": "If you're going to boldly go where no one has gone before, you may as well do it in a kick-ass spaceship.",
+      "date": "2026-09-12",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-best-star-trek-spaceships-14-classic-vessels-from-the-federation-and-beyond"
     },
     {
       "sourceId": "spacecom",
-      "title": "Wavy alien dune fields stretch across Mars | Space photo of the day for Sept. 11, 2026",
-      "summary": "A dune field on Mars, as seen by the Mars Reconnaissance Orbiter.",
-      "date": "2026-09-11",
-      "link": "https://www.space.com/astronomy/mars/wavy-alien-dune-fields-stretch-across-mars-space-photo-of-the-day-for-sept-11-2026"
+      "title": "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert",
+      "summary": "Osama Fathi captured this breathtaking view of Perseids cutting through star trails from Egypt's Western Desert on Aug. 13-14.",
+      "date": "2026-09-12",
+      "link": "https://www.space.com/stargazing/astrophotography/perseid-meteors-meet-mesmerizing-star-trails-over-egypts-western-desert"
     },
     {
-      "sourceId": "spacecom",
-      "title": "2 private spacecraft zoom within 650 feet of each other to showcase 'advanced capabilities' in orbit (photos)",
-      "summary": "Two spacecraft operated by the company Impulse Space pulled off an impressive orbital feat recently, coming within less than 650 feet of each other.",
-      "date": "2026-09-11",
-      "link": "https://www.space.com/space-exploration/satellites/2-private-spacecraft-zoom-within-650-feet-of-each-other-to-showcase-advanced-capabilities-in-orbit-photos"
+      "sourceId": "rspace",
+      "title": "One of my ideas",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Yo so I’m 11 and I’ve been using logic to try and figure out how space actually works. I came up with 3 theories and it honestly blew my mind how much sense they make. Let me know what you think!!</p> <p>First is dark matter.",
+      "date": "2026-09-12",
+      "link": "https://www.reddit.com/r/space/comments/1wefb1e/one_of_my_ideas/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1weescx/trump_is_proposing_a_us_space_academy_if_created/\"> <img src=\"https://external-preview.redd.it/k-HdG6NdHM0csmPfvVh9lofaQJV0F8t7M5fbhC94US0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=187826097f000232b…",
+      "date": "2026-09-12",
+      "link": "https://www.reddit.com/r/space/comments/1weescx/trump_is_proposing_a_us_space_academy_if_created/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Gemini 11: Preparing for Apollo | Launched 60 years ago",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1we3fux/gemini_11_preparing_for_apollo_launched_60_years/\"> <img src=\"https://external-preview.redd.it/0ilOQEc_BDwp1aw-bc0UvR8RMMK2_Oh3NUjzWPp49Hc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f16338414d21d4e63…",
+      "date": "2026-09-12",
+      "link": "https://www.reddit.com/r/space/comments/1we3fux/gemini_11_preparing_for_apollo_launched_60_years/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Starlink's Signal Leakage Is Threatening Radio Astronomy's Most Critical Frequencies | SpaceX hardware leakage up to 10,000 times stronger than the cosmic signals Square Kilometre Array Low (SKA-Low) must detect",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1we2ogh/starlinks_signal_leakage_is_threatening_radio/\"> <img src=\"https://external-preview.redd.it/4by7PmYu8csmoQJGfViXwMCpeoW9htIKOJsvxjrbYz0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9658acc6142f513870b2…",
+      "date": "2026-09-12",
+      "link": "https://www.reddit.com/r/space/comments/1we2ogh/starlinks_signal_leakage_is_threatening_radio/"
     },
     {
       "sourceId": "rspace",
@@ -322,34 +350,6 @@
       "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Andromeda321\"> /u/Andromeda321 </a> <br/> <span><a href=\"https://aas.org/posts/news/2026/08/nsf-astronomical-sciences-grants-reduced-over-50-fiscal-year-2026\">[link]</a></span> &#32; <span><a…",
       "date": "2026-09-11",
       "link": "https://www.reddit.com/r/space/comments/1wdm7rw/research_grants_in_the_astronomical_sciences_have/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Hidden clues show Mercury shrank more than previously thought, new study finds",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wdlw09/hidden_clues_show_mercury_shrank_more_than/\"> <img src=\"https://external-preview.redd.it/6Ak7XNhZm9QqNhGIdxQ_-cwCEONujCvUCD6Jxo0YLs4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef222cf4b0bac90ffcbee24…",
-      "date": "2026-09-11",
-      "link": "https://www.reddit.com/r/space/comments/1wdlw09/hidden_clues_show_mercury_shrank_more_than/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "I re-created and tested Orion’s heat shield…",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Ever since Artemis II I’ve been curious about the Artemis I/Orion heat shield so <a href=\"https://youtu.be/9kU6V6sayL0?si=J-EBwO5UBB9RWXf_\">I decided to do a video</a> on it in my own rebuild/recreation style.</p> <p>I figure if any group had…",
-      "date": "2026-09-11",
-      "link": "https://www.reddit.com/r/space/comments/1wddqv6/i_recreated_and_tested_orions_heat_shield/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "ESA Awards The Exploration Company a €760M Space Station Cargo Contract",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wdbfrg/esa_awards_the_exploration_company_a_760m_space/\"> <img src=\"https://external-preview.redd.it/c8b9l2vS7yM120MXGnWrUeyWdKUiX7giMnuozBa5vjc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0e4f9246c9f5e8000…",
-      "date": "2026-09-11",
-      "link": "https://www.reddit.com/r/space/comments/1wdbfrg/esa_awards_the_exploration_company_a_760m_space/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wct2j8/europe_will_go_it_alone_on_venus_mission_after/\"> <img src=\"https://external-preview.redd.it/p2q9wO65iCKUIqyXjknQFPyBDvQIxd0SPMPJDPa_XOQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d87fb540cae7667324…",
-      "date": "2026-09-10",
-      "link": "https://www.reddit.com/r/space/comments/1wct2j8/europe_will_go_it_alone_on_venus_mission_after/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+      "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace…",
+      "date": "2026-09-11",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA’s Chandra Spots Galactic Gem",
       "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes.",
       "date": "2026-09-11",
@@ -448,13 +455,6 @@
       "summary": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-09-11",
       "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Monterrey Amid Mountains",
-      "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
-      "date": "2026-09-11",
-      "link": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/"
     }
   ]
 }
