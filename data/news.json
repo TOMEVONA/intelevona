@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T16:07:39.665Z",
+  "updated": "2026-09-12T16:40:37.054Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -179,14 +179,14 @@
     {
       "sourceId": "ussf",
       "title": "US, international partners to bolster global secure communications with updated multinational agreement",
-      "summary": "The U.S. Department of War, in partnership with defense ministries from 10 international partners, has signed Amendment Three to the multilateral Wideband Global SATCOM Memorandum of Understanding.<br/> <img src='' alt='' /> <br />",
+      "summary": "The U.S. Department of War, in partnership with defense ministries from 10 international partners, has signed Amendment Three to the multilateral Wideband Global SATCOM Memorandum of Understanding.<br/>",
       "date": "2026-09-12",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4599066/us-international-partners-to-bolster-global-secure-communications-with-updated/"
     },
     {
       "sourceId": "ussf",
       "title": "US Space Force selects Texas as preferred location for third DARC site",
-      "summary": "The USSF has approved project planning and selected Lake Kickapoo, Texas, as the preferred location for the third and final site of the DARC, a network designed to provide continuous space domain awareness and uninterrupted, overlapping coverage of geostationary orbit.<br/> <img…",
+      "summary": "The USSF has approved project planning and selected Lake Kickapoo, Texas, as the preferred location for the third and final site of the DARC, a network designed to provide continuous space domain awareness and uninterrupted, overlapping coverage of geostationary orbit.<br/>",
       "date": "2026-09-09",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4592096/us-space-force-selects-texas-as-preferred-location-for-third-darc-site/"
     },
@@ -200,14 +200,14 @@
     {
       "sourceId": "ussf",
       "title": "CMSSF visits National Space Defense Center",
-      "summary": "CMSSF Bentivegna visited the National Space Defense Center to engage with Guardians.<br/> <img src='' alt='' /> <br />",
+      "summary": "CMSSF Bentivegna visited the National Space Defense Center to engage with Guardians.<br/> <img src='https://media.defense.gov/2026/Sep/04/2003992813/300/300/0/260901-X-DA809-2001.JPG' alt='Chief Master Sgt.",
       "date": "2026-09-08",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4592344/cmssf-visits-national-space-defense-center/"
     },
     {
       "sourceId": "ussf",
       "title": "Schiess sworn in as the Space Force’s highest-ranking uniformed leader",
-      "summary": "Gen. Douglas A. Schiess was formally installed as the third CSO during a change of responsibility ceremony succeeding retiring Gen. Chance Saltzman.<br/> <img src='' alt='' /> <br />",
+      "summary": "Gen. Douglas A. Schiess was formally installed as the third CSO during a change of responsibility ceremony succeeding retiring Gen. Chance Saltzman.<br/> <img src='https://media.defense.gov/2026/Sep/03/2003991896/300/300/0/260903-F-LE393-1384.JPG' alt='Chief of Space Operations…",
       "date": "2026-09-03",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4590732/schiess-sworn-in-as-the-space-forces-highest-ranking-uniformed-leader/"
     },
@@ -248,6 +248,13 @@
     },
     {
       "sourceId": "viasat",
+      "title": "Stc Group Orders Dedicated Astranis Satellite for Saudi Arabia",
+      "summary": "Saudi Arabia’s top telecommunications provider stc group has ordered a dedicated satellite from Astranis to provide satellite communication services. Astranis builds smaller Geostationary Orbit (GEO) satellites than traditional GEOs. Customer",
+      "date": "2026-09-12",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/12/stc-group-orders-dedicated-astranis-satellite-for-saudi-arabia/"
+    },
+    {
+      "sourceId": "viasat",
       "title": "NATO Invests for the New Era of Space Defense: Interview with NCIA GM Dylan Browne",
       "summary": "The era of space defense has well and truly arrived. NATO, one of the key organizations focused on space and defense, has made a number of signature announcements over the",
       "date": "2026-09-11",
@@ -273,13 +280,6 @@
       "summary": "NOAA is expanding its work with commercial satellite companies for weather data, working with 14 companies to acquire data across seven categories to improve weather forecasting. NOAA announced partner companies",
       "date": "2026-09-11",
       "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/09/11/noaa-names-14-commercial-providers-for-weather-data-contract/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "MaiaSpace Wins First Long-Term Asia Customer Deal",
-      "summary": "Institute for Q-shu Pioneers of Space (iQPS) has tapped MaiaSpace, the up-and-coming French launch provider, to launch a range of SAR (synthetic aperture radar) satellites starting in 2029. This is",
-      "date": "2026-09-10",
-      "link": "https://www.satellitetoday.com/launch/2026/09/10/maiaspace-wins-first-long-term-asia-customer-deal/"
     },
     {
       "sourceId": "spacecom",
