@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-13T17:11:18.962Z",
+  "updated": "2026-09-14T18:27:26.561Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
+      "summary": "Join us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem The post Sept. 21: What Comes Next for On-Orbit Servicing? appeared first on SpaceNews .",
+      "date": "2026-09-14",
+      "link": "https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Space’s growing billion-dollar club",
+      "summary": "Download our new mapping of every private space company valued at $1 billion or more. The post Space’s growing billion-dollar club appeared first on SpaceNews .",
+      "date": "2026-09-14",
+      "link": "https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/"
+    },
     {
       "sourceId": "spacenews",
       "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
@@ -21,20 +35,6 @@
       "summary": "DURANGO, Colo. — Sept. 2, 2026 — Agile Space Industries celebrated the completion of a 20,500-square-foot expansion of its Durango headquarters with a ribbon-cutting ceremony on August 26, joined by",
       "date": "2026-09-02",
       "link": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
-      "summary": "August 31, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome Outlier and Rendezvous Robotics as its newest Associate Members, bringing expertise in reusable satellite platforms and adaptable",
-      "date": "2026-08-31",
-      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Speed to Field Starts Below the Prime",
-      "summary": "I have spent much of my career looking at the defense industrial base from different vantage points: as a warfighter, inside major defense companies, and now leading a company whose",
-      "date": "2026-08-31",
-      "link": "https://spacenews.com/speed-to-field-starts-below-the-prime/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "US, international partners to bolster global secure communications with updated multinational agreement",
+      "summary": "The U.S. Department of War, in partnership with defense ministries from 10 international partners, has signed Amendment Three to the multilateral Wideband Global SATCOM Memorandum of Understanding.<br/>",
+      "date": "2026-09-12",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4599066/us-international-partners-to-bolster-global-secure-communications-with-updated/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "US Space Force selects Texas as preferred location for third DARC site",
       "summary": "The USSF has approved project planning and selected Lake Kickapoo, Texas, as the preferred location for the third and final site of the DARC, a network designed to provide continuous space domain awareness and uninterrupted, overlapping coverage of geostationary orbit.<br/>",
       "date": "2026-09-09",
@@ -203,13 +210,6 @@
       "summary": "Gen. Douglas A. Schiess was formally installed as the third CSO during a change of responsibility ceremony succeeding retiring Gen. Chance Saltzman.<br/> <img src='https://media.defense.gov/2026/Sep/03/2003991896/300/300/0/260903-F-LE393-1384.JPG' alt='Chief of Space Operations…",
       "date": "2026-09-03",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4590732/schiess-sworn-in-as-the-space-forces-highest-ranking-uniformed-leader/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "CSO notice to Guardians: Day One message to the force",
-      "summary": "Chief of Space Operations Gen. Douglas A. Schiess released his first message to the force on the day of the CSO change of responsibility ceremony.<br/> <img src='https://media.defense.gov/2026/Sep/03/2003991897/300/300/0/260903-F-LE393-1310.JPG' alt='Chief of Space Operations…",
-      "date": "2026-09-03",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4590601/cso-notice-to-guardians-day-one-message-to-the-force/"
     },
     {
       "sourceId": "dod",
@@ -248,108 +248,108 @@
     },
     {
       "sourceId": "viasat",
+      "title": "Elveo Mobile Partners With Apex to Scale Up D2D Constellation Production in the U.S.",
+      "summary": "Elveo Mobile entered into a strategic partnership with spacecraft manufacturer Apex to establish a dedicated spacecraft factory in the United States for Elveo’s planned Low-Earth Orbit direct-to-device (D2D) constellation. Elveo,",
+      "date": "2026-09-14",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/14/elveo-mobile-partners-with-apex-to-scale-up-d2d-constellation-production-in-the-u-s/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Top Satellite Operators Detail Pivots to Multi-Domain Strategies With Defense and AI",
+      "summary": "PARIS — Satellite operators find themselves at the intersection of sovereign space strategies, capabilities across multiple domains, and integration and collaboration with the tech ecosystem and AI. These issues drove",
+      "date": "2026-09-14",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/14/top-satellite-operators-detail-pivots-to-multi-domain-strategies-with-defense-and-ai/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Space-Based Computing: EO and Tech Experts Assess the AI-Space Convergence",
+      "summary": "PARIS — The topic of AI is everywhere right now. At World Space Business Week (WSBW), experts looked at the future for space-based computing and how AI could make a difference",
+      "date": "2026-09-14",
+      "link": "https://www.satellitetoday.com/technology/2026/09/14/space-based-computing-eo-and-tech-experts-assess-the-ai-space-convergence/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Nigeria Contracts Thales Alenia Space to Build NigComSat-2A Geostationary Satellite",
+      "summary": "The Nigerian Government selected European spacecraft manufacturer Thales Alenia Space to build a new communications satellite, NigComSat-2A, for the government-owned NigComSat organization. The satellite will be designed to provide communication",
+      "date": "2026-09-14",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/09/14/nigeria-contracts-thales-alenia-space-to-build-nigcomsat-2a-geostationary-satellite/"
+    },
+    {
+      "sourceId": "viasat",
       "title": "Stc Group Orders Dedicated Astranis Satellite for Saudi Arabia",
       "summary": "Saudi Arabia’s top telecommunications provider stc group has ordered a dedicated satellite from Astranis to provide satellite communication services. Astranis builds smaller Geostationary Orbit (GEO) satellites than traditional GEOs. Customer",
       "date": "2026-09-12",
       "link": "https://www.satellitetoday.com/connectivity/2026/09/12/stc-group-orders-dedicated-astranis-satellite-for-saudi-arabia/"
     },
     {
-      "sourceId": "viasat",
-      "title": "NATO Invests for the New Era of Space Defense: Interview with NCIA GM Dylan Browne",
-      "summary": "The era of space defense has well and truly arrived. NATO, one of the key organizations focused on space and defense, has made a number of signature announcements over the",
-      "date": "2026-09-11",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/11/nato-invests-for-the-new-era-of-space-defense-interview-with-ncia-gm-dylan-browne/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "SES Brings New Platform to Media and Broadcast Partners",
-      "summary": "SES is launching a new platform designed for next generating broadcasting. SES CORE will be a content orchestration and hybrid delivery platform, designed to enable broadcasters and media customers to",
-      "date": "2026-09-11",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/11/ses-brings-new-platform-to-media-and-broadcast-partners/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Iridium Sends Voice Message from Toyota Vehicle With Deutsche Telekom IoT",
-      "summary": "In a new satellite-connected car demonstration, Iridium reports a demo in which a Toyota vehicle sent a voice message using Iridium NTN Direct, working with Deutsche Telekom IoT (DT IoT).",
-      "date": "2026-09-11",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/11/iridium-sends-voice-message-from-toyota-vehicle-with-deutsche-telekom-iot/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "NOAA Names 14 Commercial Providers for Weather Data Contract",
-      "summary": "NOAA is expanding its work with commercial satellite companies for weather data, working with 14 companies to acquire data across seven categories to improve weather forecasting. NOAA announced partner companies",
-      "date": "2026-09-11",
-      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/09/11/noaa-names-14-commercial-providers-for-weather-data-contract/"
+      "sourceId": "spacecom",
+      "title": "2 European Earth-observing satellites launching to orbit from South America tonight: Watch it live",
+      "summary": "A Vega C rocket will launch Europe's FLEX and Copernicus-3C spacecraft to orbit from French Guiana tonight (Sept. 14), and you can watch the action live.",
+      "date": "2026-09-14",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites"
     },
     {
       "sourceId": "spacecom",
-      "title": "The 10 best underground sci-fi movies to dig into now that 'Silo' season 3 has ended",
-      "summary": "We're going deeper underground; there's too much panic in this town.",
-      "date": "2026-09-13",
-      "link": "https://www.space.com/entertainment/best-underground-sci-fi-movies"
+      "title": "The US government is 'sincere in its efforts to understand UAP', new White House council chair says",
+      "summary": "The recently created UAP Science Advisory Council recently gathered at a private meeting at the Office of the Director of National Intelligence.",
+      "date": "2026-09-14",
+      "link": "https://www.space.com/space-exploration/search-for-life/the-us-government-is-sincere-in-its-efforts-to-understand-uap-new-white-house-council-chair-says"
     },
     {
       "sourceId": "spacecom",
-      "title": "NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS (video)",
-      "summary": "In a great moment for curly-haired folks around the world, NASA astronaut Jessica Meir just shared some styling tips from the ISS.",
-      "date": "2026-09-13",
-      "link": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video"
+      "title": "The original 'Star Wars' is coming to IMAX for the first time ever in 2027",
+      "summary": "Both the OG 'Star Wars' and 'Star Wars: Starfighter' score the ultimate cinematic treatment in 2027.",
+      "date": "2026-09-14",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-original-star-wars-is-coming-to-imax-for-the-first-time-ever-in-2027"
     },
     {
       "sourceId": "spacecom",
-      "title": "James Webb Space Telescope discovers the rings of tiny solar system body Chariklo are changing",
-      "summary": "Using the James Webb Space Telescope, astronomers have discovered that the ring system of the tiny solar system body is even more interesting than they knew.",
-      "date": "2026-09-13",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-rings-of-tiny-solar-system-body-chariklo-are-changing"
+      "title": "No cities on the moon — there isn't enough water, scientists say (op-ed)",
+      "summary": "The discovery of water in dark craters at the moon's poles has sparked a \"moon rush\" to establish bases there, and then villages, cities and heavy industry. How sustainable is this rush?",
+      "date": "2026-09-14",
+      "link": "https://www.space.com/astronomy/moon/no-cities-on-the-moon-there-isnt-enough-water-scientists-say-op-ed"
     },
     {
       "sourceId": "spacecom",
-      "title": "Don't miss Venus shine beside the crescent moon at sunset tonight",
-      "summary": "Venus will shine close to the waxing crescent moon at sunset on Sept. 13.",
-      "date": "2026-09-13",
-      "link": "https://www.space.com/stargazing/dont-miss-venus-shine-beside-the-crescent-moon-at-sunset-tonight"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
-      "summary": "As a space policy expert, I see several open questions and potential problems related to the vision of a U.S. Space Academy laid out by President Trump’s recent executive order.",
-      "date": "2026-09-12",
-      "link": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed"
+      "title": "On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years",
+      "summary": "On Sept. 14, 1966, NASA's Gemini 11 mission set an spaceflight altitude record that lasted for nearly six decades. Here's why the mission mattered.",
+      "date": "2026-09-14",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-14-2026"
     },
     {
       "sourceId": "rspace",
-      "title": "Bangladesh's Ganges river delta seen in near-infrared from orbit",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wfcqb8/bangladeshs_ganges_river_delta_seen_in/\"> <img src=\"https://preview.redd.it/xoy2dudkgbph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df777adc3a9675a537e929c6ed7f4dcaaa9c1db5\" alt=\"Bangladesh's…",
-      "date": "2026-09-13",
-      "link": "https://www.reddit.com/r/space/comments/1wfcqb8/bangladeshs_ganges_river_delta_seen_in/"
+      "title": "U.S. has deployed space-control weapons in orbit, Air Force secretary says",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wg9dsf/us_has_deployed_spacecontrol_weapons_in_orbit_air/\"> <img src=\"https://external-preview.redd.it/Nj8vvsOgcwiPw8QdnAl1R-vE1YcMq7WJxpA0sh2t5_s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26f007ec24bfa1bc…",
+      "date": "2026-09-14",
+      "link": "https://www.reddit.com/r/space/comments/1wg9dsf/us_has_deployed_spacecontrol_weapons_in_orbit_air/"
     },
     {
       "sourceId": "rspace",
-      "title": "Cygnus region captured with a phone. No scope",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wfb22k/cygnus_region_captured_with_a_phone_no_scope/\"> <img src=\"https://preview.redd.it/dfz7tf2g5bph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed71edc90f46d04bc5c477fc1fe8fe694dc48e2e\" alt=\"Cygnus region…",
-      "date": "2026-09-13",
-      "link": "https://www.reddit.com/r/space/comments/1wfb22k/cygnus_region_captured_with_a_phone_no_scope/"
+      "title": "Physicists zoom into the birth of cosmic rainstorms with new study at Large Hadron Collider",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wg459q/physicists_zoom_into_the_birth_of_cosmic/\"> <img src=\"https://external-preview.redd.it/WG5c4OYjnZmluZh7IlkHs-sjaoacQrWlNPTpQ8fj-bM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09828c7428fa971124594bfbe…",
+      "date": "2026-09-14",
+      "link": "https://www.reddit.com/r/space/comments/1wg459q/physicists_zoom_into_the_birth_of_cosmic/"
     },
     {
       "sourceId": "rspace",
-      "title": "IC 1396 - The Elephant's Trunk Nebula (SHO, 23hrs)",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wfagfv/ic_1396_the_elephants_trunk_nebula_sho_23hrs/\"> <img src=\"https://preview.redd.it/qawgt5751bph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8444c2fdd41b2830b041ab2eb09a957af81361b2\" alt=\"IC 1396 -…",
-      "date": "2026-09-13",
-      "link": "https://www.reddit.com/r/space/comments/1wfagfv/ic_1396_the_elephants_trunk_nebula_sho_23hrs/"
+      "title": "Celestial Alignment (Venus with Moon)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wg316h/celestial_alignment_venus_with_moon/\"> <img src=\"https://preview.redd.it/q4h4jrwhjhph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=292426cf4001b7574e000ae5306284614e8f5fa2\" alt=\"Celestial Alignment…",
+      "date": "2026-09-14",
+      "link": "https://www.reddit.com/r/space/comments/1wg316h/celestial_alignment_venus_with_moon/"
     },
     {
       "sourceId": "rspace",
-      "title": "Day 2 orion pull",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wfad96/day_2_orion_pull/\"> <img src=\"https://preview.redd.it/3cerw3zl0bph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=48513b83e374dd0ae3e1bbe91241099fbd6c7e0e\" alt=\"Day 2 orion pull\" title=\"Day 2 orion…",
-      "date": "2026-09-13",
-      "link": "https://www.reddit.com/r/space/comments/1wfad96/day_2_orion_pull/"
+      "title": "James Webb Space Telescope and Hubble discover 27 puzzling new objects far beyond Neptune",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wg0frl/james_webb_space_telescope_and_hubble_discover_27/\"> <img src=\"https://external-preview.redd.it/FJ1JPdXRef8RVXk0gqtUHKriKeLALoDC4KUnz_GR85g.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b50294dadb52393b…",
+      "date": "2026-09-14",
+      "link": "https://www.reddit.com/r/space/comments/1wg0frl/james_webb_space_telescope_and_hubble_discover_27/"
     },
     {
       "sourceId": "rspace",
-      "title": "I was lucky enough to capture both Eclipses last month. Here is a composite I created of both",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wf9xae/i_was_lucky_enough_to_capture_both_eclipses_last/\"> <img src=\"https://preview.redd.it/4mkqrlsjxaph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1fedb3bfce1eb2cfaa2af0eaf10efa56b70c502\" alt=\"I was…",
-      "date": "2026-09-13",
-      "link": "https://www.reddit.com/r/space/comments/1wf9xae/i_was_lucky_enough_to_capture_both_eclipses_last/"
+      "title": "Japan's Hayabusa2 achieves first-ever laser ranging experiment with an asteroid",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wftrho/japans_hayabusa2_achieves_firstever_laser_ranging/\"> <img src=\"https://external-preview.redd.it/t-KpmTVff-0UvTR8vKz16IkO6cNV90ftybaw095Q65o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa3144d8605b9f3b…",
+      "date": "2026-09-14",
+      "link": "https://www.reddit.com/r/space/comments/1wftrho/japans_hayabusa2_achieves_firstever_laser_ranging/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
-      "summary": "APOD Science APOD APOD: 2026 September 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-13",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/"
+      "title": "NASA Welcomes Djibouti as Newest Artemis Accords Signatory",
+      "summary": "The Republic of Djibouti became the 72nd nation and eighth African country to sign the Artemis Accords during a ceremony Monday at NASA Headquarters in Washington.",
+      "date": "2026-09-14",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/"
     },
     {
       "sourceId": "nasa",
-      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-      "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace…",
-      "date": "2026-09-11",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/"
+      "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
+      "summary": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept. 13, 2026, in Pittsburgh, Pennsylvania.",
+      "date": "2026-09-14",
+      "link": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Chandra Spots Galactic Gem",
-      "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes.",
-      "date": "2026-09-11",
-      "link": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/"
+      "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
+      "summary": "Did you spend part of your summer camping, hiking, at the pool, or in an aircraft? So did NASA’s 2025 Astronaut Candidate Class. The 10 candidates have been working their way through a comprehensive and rigorous training program since the agency introduced them to the public on…",
+      "date": "2026-09-14",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-      "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station.",
-      "date": "2026-09-11",
-      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/"
+      "title": "APOD: 2026 September 14 – Where Your Elements Came From",
+      "summary": "APODScienceAPODAPOD: 2026 September 14 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-09-14",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-      "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community.",
-      "date": "2026-09-11",
-      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/"
+      "title": "An Early Look at Fall Color in Canada",
+      "summary": "Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut.",
+      "date": "2026-09-14",
+      "link": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/"
     }
   ]
 }
