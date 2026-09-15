@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-14T18:58:39.587Z",
+  "updated": "2026-09-15T17:34:16.795Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "More satellites watch the battlefield, putting a premium on making sense of the data",
+      "summary": "Space Force programs are tapping satellite data and AI to get intelligence to military commanders faster The post More satellites watch the battlefield, putting a premium on making sense of the data appeared first on SpaceNews .",
+      "date": "2026-09-15",
+      "link": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Iceye’s global presence expands to address sovereign demand",
+      "summary": "Since raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. In quick succession, the Finnish synthetic",
+      "date": "2026-09-15",
+      "link": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
@@ -21,20 +35,6 @@
       "summary": "Australian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, spanning satellite",
       "date": "2026-09-11",
       "link": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
-      "summary": "Leuven, Belgium & Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging",
-      "date": "2026-09-03",
-      "link": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
-      "summary": "DURANGO, Colo. — Sept. 2, 2026 — Agile Space Industries celebrated the completion of a 20,500-square-foot expansion of its Durango headquarters with a ribbon-cutting ceremony on August 26, joined by",
-      "date": "2026-09-02",
-      "link": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,20 @@
     },
     {
       "sourceId": "ussf",
+      "title": "SecAF announces on-orbit space control weapons",
+      "summary": "SecAF Troy Meink said in a closely watched keynote address at the 2026 Air and Space Cyber Conference, the Air Force and Space Force must confront and defeat rapidly changing, AI-enabled threats while navigating a budget process built for a different pace of warfare.<br/> <img…",
+      "date": "2026-09-15",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4601219/secaf-announces-on-orbit-space-control-weapons/"
+    },
+    {
+      "sourceId": "ussf",
+      "title": "Space Force announces interservice transfer opportunities",
+      "summary": "The U.S. Space Force will open its FY27 Interservice Transfer application window Sept. 15 through Oct. 2, 2026, seeking experienced active-duty service members from across the joint force, particularly those with space-related expertise.<br/>",
+      "date": "2026-09-15",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4601150/space-force-announces-interservice-transfer-opportunities/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "US, international partners to bolster global secure communications with updated multinational agreement",
       "summary": "The U.S. Department of War, in partnership with defense ministries from 10 international partners, has signed Amendment Three to the multilateral Wideband Global SATCOM Memorandum of Understanding.<br/>",
       "date": "2026-09-12",
@@ -198,18 +212,11 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4592644/daf-accelerates-joint-c2-with-ai-space-force-integration-in-latest-dash-experim/"
     },
     {
-      "sourceId": "ussf",
-      "title": "CMSSF visits National Space Defense Center",
-      "summary": "CMSSF Bentivegna visited the National Space Defense Center to engage with Guardians.<br/> <img src='https://media.defense.gov/2026/Sep/04/2003992813/300/300/0/260901-X-DA809-2001.JPG' alt='Chief Master Sgt.",
-      "date": "2026-09-08",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4592344/cmssf-visits-national-space-defense-center/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "Schiess sworn in as the Space Force’s highest-ranking uniformed leader",
-      "summary": "Gen. Douglas A. Schiess was formally installed as the third CSO during a change of responsibility ceremony succeeding retiring Gen. Chance Saltzman.<br/> <img src='https://media.defense.gov/2026/Sep/03/2003991896/300/300/0/260903-F-LE393-1384.JPG' alt='Chief of Space Operations…",
-      "date": "2026-09-03",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4590732/schiess-sworn-in-as-the-space-forces-highest-ranking-uniformed-leader/"
+      "sourceId": "dod",
+      "title": "Southern Vanguard 2026 Turns Peruvian Jungle Into a Classroom",
+      "summary": "U.S. soldiers train alongside Peruvian and Chilean forces during Southern Vanguard 26, a multinational exercise hosted by the Peruvian army and designed to strengthen interoperability while building proficiency in jungle mobility, survivability and tactical operations.",
+      "date": "2026-09-14",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4600439/southern-vanguard-2026-turns-peruvian-jungle-into-a-classroom/"
     },
     {
       "sourceId": "dod",
@@ -240,116 +247,109 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4594128/dow-hosts-2nd-interagency-summit-to-strengthen-counter-drone-defense/"
     },
     {
-      "sourceId": "dod",
-      "title": "Exercise Big Rescue Kanagawa 2026 Strengthens Bilateral Disaster Medical Readiness",
-      "summary": "Sailors assigned to the U.S. Navy Medicine Readiness and Training Command Yokosuka, Japan, joined U.S. and Japanese military, government, medical and emergency response organizations for Exercise Big Rescue Kanagawa 2026.",
-      "date": "2026-09-09",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4593593/exercise-big-rescue-kanagawa-2026-strengthens-bilateral-disaster-medical-readin/"
+      "sourceId": "viasat",
+      "title": "SES, Elveo Mobile Expand Strategic Partnership to Develop Mobile Roaming, Manufacturing Capabilities",
+      "summary": "European satellite operator SES will utilize Elveo Mobile’s D2D technology to enable mobile roaming capabilities for European consumers, businesses, governments, institutional, and defense users under the terms of a partnership",
+      "date": "2026-09-15",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/09/15/ses-elveo-mobile-expand-strategic-partnership-to-develop-mobile-roaming-manufacturing-capabilities/"
     },
     {
       "sourceId": "viasat",
-      "title": "Elveo Mobile Partners With Apex to Scale Up D2D Constellation Production in the U.S.",
-      "summary": "Elveo Mobile entered into a strategic partnership with spacecraft manufacturer Apex to establish a dedicated spacecraft factory in the United States for Elveo’s planned Low-Earth Orbit direct-to-device (D2D) constellation. Elveo,",
-      "date": "2026-09-14",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/14/elveo-mobile-partners-with-apex-to-scale-up-d2d-constellation-production-in-the-u-s/"
+      "title": "NextNav’s 5G-Powered 3D PNT Inches Closer to GPS Accuracy During Outdoor Demonstration",
+      "summary": "Positioning, navigation, and timing (PNT) company NextNav achieved single-digit-meter positioning performance using standards-based 5G Positioning Reference Signals (PRS) during a field test over the air in both outdoor and indoor",
+      "date": "2026-09-15",
+      "link": "https://www.satellitetoday.com/technology/2026/09/15/nextnavs-5g-powered-3d-pnt-inches-closer-to-gps-accuracy-during-outdoor-demonstration/"
     },
     {
       "sourceId": "viasat",
-      "title": "Top Satellite Operators Detail Pivots to Multi-Domain Strategies With Defense and AI",
-      "summary": "PARIS — Satellite operators find themselves at the intersection of sovereign space strategies, capabilities across multiple domains, and integration and collaboration with the tech ecosystem and AI. These issues drove",
-      "date": "2026-09-14",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/14/top-satellite-operators-detail-pivots-to-multi-domain-strategies-with-defense-and-ai/"
+      "title": "Open Cosmos Raises $346M to Expand Manufacturing and Government Services in Europe",
+      "summary": "European satellite manufacturer Open Cosmos raised 300 million euro (approximately $346 million) in a funding round led by European investors Lightrock, ETF Partners, Institut Català de Finances (ICF), Entrepreneurs First",
+      "date": "2026-09-15",
+      "link": "https://www.satellitetoday.com/finance/2026/09/15/open-cosmos-raises-346m-to-expand-manufacturing-and-government-services-in-europe/"
     },
     {
       "sourceId": "viasat",
-      "title": "Space-Based Computing: EO and Tech Experts Assess the AI-Space Convergence",
-      "summary": "PARIS — The topic of AI is everywhere right now. At World Space Business Week (WSBW), experts looked at the future for space-based computing and how AI could make a difference",
-      "date": "2026-09-14",
-      "link": "https://www.satellitetoday.com/technology/2026/09/14/space-based-computing-eo-and-tech-experts-assess-the-ai-space-convergence/"
+      "title": "DIU Wants AI System to Understand and Predict Space Threats",
+      "summary": "The Pentagon’s Silicon Valley-based Defense Innovation Unit (DIU) is looking for domestic and foreign company proposals for an artificial intelligence (AI) system to understand and predict space threats. “Today’s space",
+      "date": "2026-09-15",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/15/diu-wants-ai-system-to-understand-and-predict-space-threats/"
     },
     {
       "sourceId": "viasat",
-      "title": "Nigeria Contracts Thales Alenia Space to Build NigComSat-2A Geostationary Satellite",
-      "summary": "The Nigerian Government selected European spacecraft manufacturer Thales Alenia Space to build a new communications satellite, NigComSat-2A, for the government-owned NigComSat organization. The satellite will be designed to provide communication",
+      "title": "MDA Space Satellite VP Details New Aurora Black Satellite at WSBW",
+      "summary": "To kick off World Space Business Week, Via Satellite interviews MDA Space VP of Satellite Systems Luigi Pozzebon about the company’s recently announced Aurora Black satellite for customers. Pozzebon explains",
       "date": "2026-09-14",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/09/14/nigeria-contracts-thales-alenia-space-to-build-nigcomsat-2a-geostationary-satellite/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Stc Group Orders Dedicated Astranis Satellite for Saudi Arabia",
-      "summary": "Saudi Arabia’s top telecommunications provider stc group has ordered a dedicated satellite from Astranis to provide satellite communication services. Astranis builds smaller Geostationary Orbit (GEO) satellites than traditional GEOs. Customer",
-      "date": "2026-09-12",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/12/stc-group-orders-dedicated-astranis-satellite-for-saudi-arabia/"
+      "link": "https://www.satellitetoday.com/partner-content/2026/09/14/mda-space-satellite-vp-details-new-aurora-black-satellite-at-wsbw/"
     },
     {
       "sourceId": "spacecom",
-      "title": "2 European Earth-observing satellites launching to orbit from South America tonight: Watch it live",
-      "summary": "A Vega C rocket will launch Europe's FLEX and Copernicus-3C spacecraft to orbit from French Guiana tonight (Sept. 14), and you can watch the action live.",
-      "date": "2026-09-14",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites"
+      "title": "'Captain EO' at 40: Michael Jackson's wild sci-fi movie that you could only watch at Disney theme parks",
+      "summary": "Remember when the King of Pop joined forces with Coppola, Lucas and Disney for an inspiring 3D space musical?",
+      "date": "2026-09-15",
+      "link": "https://www.space.com/entertainment/space-movies-shows/captain-eo-at-40-michael-jacksons-wild-sci-fi-movie-that-you-could-only-watch-at-disney-theme-parks"
     },
     {
       "sourceId": "spacecom",
-      "title": "The US government is 'sincere in its efforts to understand UAP', new White House council chair says",
-      "summary": "The recently created UAP Science Advisory Council recently gathered at a private meeting at the Office of the Director of National Intelligence.",
-      "date": "2026-09-14",
-      "link": "https://www.space.com/space-exploration/search-for-life/the-us-government-is-sincere-in-its-efforts-to-understand-uap-new-white-house-council-chair-says"
+      "title": "Making rocket fuel out of Mars' thin air: New breakthrough could make it happen",
+      "summary": "By making fuel on the Red Planet rather than bringing it from Earth, a Mars mission could save vital mass.",
+      "date": "2026-09-15",
+      "link": "https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen"
     },
     {
       "sourceId": "spacecom",
-      "title": "The original 'Star Wars' is coming to IMAX for the first time ever in 2027",
-      "summary": "Both the OG 'Star Wars' and 'Star Wars: Starfighter' score the ultimate cinematic treatment in 2027.",
-      "date": "2026-09-14",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-original-star-wars-is-coming-to-imax-for-the-first-time-ever-in-2027"
+      "title": "'The violence leaves a mark': How satellites are helping the world monitor war and atrocities",
+      "summary": "A satellite's view from above fills the gaps in our understanding of the grim realities of war and makes it harder for totalitarian regimes to hide their crimes. But challenges exist.",
+      "date": "2026-09-15",
+      "link": "https://www.space.com/space-exploration/satellites/the-violence-leaves-a-mark-how-satellites-are-helping-the-world-monitor-war-and-atrocities"
     },
     {
       "sourceId": "spacecom",
-      "title": "No cities on the moon — there isn't enough water, scientists say (op-ed)",
-      "summary": "The discovery of water in dark craters at the moon's poles has sparked a \"moon rush\" to establish bases there, and then villages, cities and heavy industry. How sustainable is this rush?",
-      "date": "2026-09-14",
-      "link": "https://www.space.com/astronomy/moon/no-cities-on-the-moon-there-isnt-enough-water-scientists-say-op-ed"
+      "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
+      "summary": "On Sept. 15, 1968, the Soviet Union launched the Zond 5 spacecraft carrying tortoises and more on a mission to loop around the moon and return to Earth. Here's why it mattered.",
+      "date": "2026-09-15",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years",
-      "summary": "On Sept. 14, 1966, NASA's Gemini 11 mission set an spaceflight altitude record that lasted for nearly six decades. Here's why the mission mattered.",
-      "date": "2026-09-14",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-14-2026"
+      "title": "Curiosity rover spots odd 'footprints' on Mars | Space photo of the day for Sept. 15, 2026",
+      "summary": "\"Both of our workspaces this week contained features unlike quite anything we have seen in the past.\"",
+      "date": "2026-09-15",
+      "link": "https://www.space.com/astronomy/mars/curiosity-rover-spots-odd-footprints-on-mars-space-photo-of-the-day-for-sept-15-2026"
     },
     {
       "sourceId": "rspace",
-      "title": "U.S. has deployed space-control weapons in orbit, Air Force secretary says",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wg9dsf/us_has_deployed_spacecontrol_weapons_in_orbit_air/\"> <img src=\"https://external-preview.redd.it/Nj8vvsOgcwiPw8QdnAl1R-vE1YcMq7WJxpA0sh2t5_s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26f007ec24bfa1bc…",
-      "date": "2026-09-14",
-      "link": "https://www.reddit.com/r/space/comments/1wg9dsf/us_has_deployed_spacecontrol_weapons_in_orbit_air/"
+      "title": "NASA says exercise can preserve heart health on missions to Mars",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wgzilh/nasa_says_exercise_can_preserve_heart_health_on/\"> <img src=\"https://external-preview.redd.it/peCNjhj3S4C-QVef9wVVb2zqBeYpjc3garoVn2xElQM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=38e7c033e27f62853f…",
+      "date": "2026-09-15",
+      "link": "https://www.reddit.com/r/space/comments/1wgzilh/nasa_says_exercise_can_preserve_heart_health_on/"
     },
     {
       "sourceId": "rspace",
-      "title": "Physicists zoom into the birth of cosmic rainstorms with new study at Large Hadron Collider",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wg459q/physicists_zoom_into_the_birth_of_cosmic/\"> <img src=\"https://external-preview.redd.it/WG5c4OYjnZmluZh7IlkHs-sjaoacQrWlNPTpQ8fj-bM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09828c7428fa971124594bfbe…",
-      "date": "2026-09-14",
-      "link": "https://www.reddit.com/r/space/comments/1wg459q/physicists_zoom_into_the_birth_of_cosmic/"
+      "title": "NASA rushed engineers out of their labs. They say it risks future space missions",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wgxv4d/nasa_rushed_engineers_out_of_their_labs_they_say/\"> <img src=\"https://external-preview.redd.it/ngvPgCujEX9ymK2MXp4_I-4QzLnDT51Pgn5fngDYoCM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2c1a5dcf89c009fd…",
+      "date": "2026-09-15",
+      "link": "https://www.reddit.com/r/space/comments/1wgxv4d/nasa_rushed_engineers_out_of_their_labs_they_say/"
     },
     {
       "sourceId": "rspace",
-      "title": "Celestial Alignment (Venus with Moon)",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wg316h/celestial_alignment_venus_with_moon/\"> <img src=\"https://preview.redd.it/q4h4jrwhjhph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=292426cf4001b7574e000ae5306284614e8f5fa2\" alt=\"Celestial Alignment…",
-      "date": "2026-09-14",
-      "link": "https://www.reddit.com/r/space/comments/1wg316h/celestial_alignment_venus_with_moon/"
+      "title": "Could gravitational-wave astronomy reveal an entirely different population of objects than telescopes can see?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We normally think of astronomy as observing things through electromagnetic radiation: visible light, radio, X-rays, infrared, and so on.",
+      "date": "2026-09-15",
+      "link": "https://www.reddit.com/r/space/comments/1wgs3sf/could_gravitationalwave_astronomy_reveal_an/"
     },
     {
       "sourceId": "rspace",
-      "title": "James Webb Space Telescope and Hubble discover 27 puzzling new objects far beyond Neptune",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wg0frl/james_webb_space_telescope_and_hubble_discover_27/\"> <img src=\"https://external-preview.redd.it/FJ1JPdXRef8RVXk0gqtUHKriKeLALoDC4KUnz_GR85g.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b50294dadb52393b…",
-      "date": "2026-09-14",
-      "link": "https://www.reddit.com/r/space/comments/1wg0frl/james_webb_space_telescope_and_hubble_discover_27/"
+      "title": "Successful Launch of EU Copernicus Sentinel-3C to Monitor Our Changing Planet",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wgr20b/successful_launch_of_eu_copernicus_sentinel3c_to/\"> <img src=\"https://external-preview.redd.it/2TMurOCbWPP4L2pfS9wqy-_MDCkPl88hBUvWLnOKSxY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=484e463b11219483a…",
+      "date": "2026-09-15",
+      "link": "https://www.reddit.com/r/space/comments/1wgr20b/successful_launch_of_eu_copernicus_sentinel3c_to/"
     },
     {
       "sourceId": "rspace",
-      "title": "Japan's Hayabusa2 achieves first-ever laser ranging experiment with an asteroid",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wftrho/japans_hayabusa2_achieves_firstever_laser_ranging/\"> <img src=\"https://external-preview.redd.it/t-KpmTVff-0UvTR8vKz16IkO6cNV90ftybaw095Q65o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa3144d8605b9f3b…",
-      "date": "2026-09-14",
-      "link": "https://www.reddit.com/r/space/comments/1wftrho/japans_hayabusa2_achieves_firstever_laser_ranging/"
+      "title": "A Military Official Says U.S. Has Put ‘Space Control Weapons’ in Orbit",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wgpaiq/a_military_official_says_us_has_put_space_control/\"> <img src=\"https://external-preview.redd.it/cLeP6PpJY5CsqFlw23S7lIJNLuMzbyT8IDyH33bWSl0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3685df478dcd663b…",
+      "date": "2026-09-15",
+      "link": "https://www.reddit.com/r/space/comments/1wgpaiq/a_military_official_says_us_has_put_space_control/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Welcomes Djibouti as Newest Artemis Accords Signatory",
-      "summary": "The Republic of Djibouti became the 72nd nation and eighth African country to sign the Artemis Accords during a ceremony Monday at NASA Headquarters in Washington.",
-      "date": "2026-09-14",
-      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/"
+      "title": "Celebrate International Observe the Moon Night with NASA",
+      "summary": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission. On Saturday, Sept.",
+      "date": "2026-09-15",
+      "link": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
-      "summary": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept. 13, 2026, in Pittsburgh, Pennsylvania.",
-      "date": "2026-09-14",
-      "link": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/"
+      "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
+      "summary": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026.",
+      "date": "2026-09-15",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/"
     },
     {
       "sourceId": "nasa",
-      "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
-      "summary": "Did you spend part of your summer camping, hiking, at the pool, or in an aircraft? So did NASA’s 2025 Astronaut Candidate Class. The 10 candidates have been working their way through a comprehensive and rigorous training program since the agency introduced them to the public on…",
-      "date": "2026-09-14",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/"
+      "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
+      "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA’s James Webb Space Telescope. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars.",
+      "date": "2026-09-15",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 September 14 – Where Your Elements Came From",
-      "summary": "APODScienceAPODAPOD: 2026 September 14 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-14",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/"
+      "title": "Travel",
+      "summary": "The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS).",
+      "date": "2026-09-15",
+      "link": "https://www.nasa.gov/centers-and-facilities/nssc/travel/"
     },
     {
       "sourceId": "nasa",
-      "title": "An Early Look at Fall Color in Canada",
-      "summary": "Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut.",
-      "date": "2026-09-14",
-      "link": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/"
+      "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
+      "summary": "APOD Science APOD APOD: 2026 September 15 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-09-15",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/"
     }
   ]
 }
