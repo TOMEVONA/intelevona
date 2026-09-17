@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T17:33:08.114Z",
+  "updated": "2026-09-17T17:53:16.110Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "Space Force leaders outline blueprint to double force size over next 5 years",
+      "summary": "The panel addressed critical requirements across accession pipelines, mission infrastructure, and simulation training necessary to generate credible combat capability for the Joint Force.<br/>",
+      "date": "2026-09-17",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4603973/space-force-leaders-outline-blueprint-to-double-force-size-over-next-5-years/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "Space Force announces Commercial Solutions Opening strategy for Satellite Communications Augmentation Resource program",
       "summary": "The USSF is implementing a commercial acquisition strategy using Commercial Solutions Openings to enhance satellite command and control capabilities.<br/>",
       "date": "2026-09-16",
@@ -203,20 +210,6 @@
       "summary": "Senior acquisition and DAF leaders discussed ongoing acquisition transformation and the need to put operational outcomes at the center of decision-making during the “Sustaining Forces Through Acquisition and Innovation” panel at the 2026 AFA Air, Space and Cyber Conference.<br/>",
       "date": "2026-09-15",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602069/acquisition-leaders-emphasize-mission-speed-risk-in-changing-acquisition-culture/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "Space Force growth prioritizes combat forces, space superiority",
-      "summary": "Senior leaders at the 2026 Air, Space and Cyber Conference emphasized that the USSF must double in size over the next five years, a strategic imperative directly impacting Combat Forces Command as it scales operational capacity to protect the Joint Force from space-enabled…",
-      "date": "2026-09-15",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4601797/space-force-growth-prioritizes-combat-forces-space-superiority/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Interagency Effort Enables Airlift Support to Kauai Following Hurricane",
-      "summary": "An interagency effort provided military assistance to transport specialized utility vehicles in Hawaii, addressing widespread power outages in the aftermath of Hurricane Lowell.",
-      "date": "2026-09-17",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4604037/interagency-effort-enables-airlift-support-to-kauai-following-hurricane/"
     },
     {
       "sourceId": "dod",
@@ -245,6 +238,13 @@
       "summary": "The Navy awarded a contract valued at $562 million for initial production of the MQ-25A Stingray carrier-based unmanned aircraft.",
       "date": "2026-09-15",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4601414/navy-awards-first-production-contract-for-mq-25a-stingray/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "USS St. Louis Assumes U.S. Northern Command Mission at Southern Border",
+      "summary": "The littoral combat ship USS St. Louis departed Naval Station Mayport, Fla., in support of U.S. Northern Command's mission to secure the U.S. southern border, enabling maritime interdiction missions to prevent the flow of illegal drugs or other illegal activity.",
+      "date": "2026-09-15",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4601362/uss-st-louis-assumes-us-northern-command-mission-at-southern-border/"
     },
     {
       "sourceId": "viasat",
