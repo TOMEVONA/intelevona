@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-17T17:53:16.110Z",
+  "updated": "2026-09-18T16:59:49.763Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
+      "summary": "IRVINE, Calif. and TORINO, Italy – Sept. 17, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries,",
+      "date": "2026-09-18",
+      "link": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
@@ -28,13 +35,6 @@
       "summary": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative",
       "date": "2026-09-17",
       "link": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
-      "summary": "PARIS — Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahead of a 2027 demonstration on the International Space",
-      "date": "2026-09-17",
-      "link": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "CMSSF highlights cyber Guardians’ role in creating joint decision advantage",
+      "summary": "CMSSF Bentivegna detailed the service's \"train, test and trust\" approach to developing mission-ready cyber operators capable of defending critical space and joint infrastructure.<br/> <img src='https://media.defense.gov/2026/Sep/18/2004002773/300/300/0/280915-F-KN216-1571.JPG'…",
+      "date": "2026-09-17",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4604507/cmssf-highlights-cyber-guardians-role-in-creating-joint-decision-advantage/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "Space Force leaders outline blueprint to double force size over next 5 years",
       "summary": "The panel addressed critical requirements across accession pipelines, mission infrastructure, and simulation training necessary to generate credible combat capability for the Joint Force.<br/>",
       "date": "2026-09-17",
@@ -205,11 +212,25 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602018/remarks-by-cso-gen-douglas-schiess-at-the-air-and-space-forces-associations-202/"
     },
     {
-      "sourceId": "ussf",
-      "title": "Acquisition leaders emphasize mission, speed, risk in changing acquisition culture",
-      "summary": "Senior acquisition and DAF leaders discussed ongoing acquisition transformation and the need to put operational outcomes at the center of decision-making during the “Sustaining Forces Through Acquisition and Innovation” panel at the 2026 AFA Air, Space and Cyber Conference.<br/>",
-      "date": "2026-09-15",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602069/acquisition-leaders-emphasize-mission-speed-risk-in-changing-acquisition-culture/"
+      "sourceId": "dod",
+      "title": "Department Releases Guidance on Implementing Testosterone Deficiency Screenings for Male Service Members",
+      "summary": "The War Department released clinical practice guidelines for medical professionals across the force on how to evaluate and treat potential testosterone deficiencies in male warfighters.",
+      "date": "2026-09-17",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4604632/department-releases-guidance-on-implementing-testosterone-deficiency-screenings/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "NORAD F-16s Deploy to High North Under Operation Arctic Vanguard",
+      "summary": "The Alaskan North American Aerospace Defense Command Region deployed F-16 Fighting Falcons from Eielson Air Force Base, Alaska, to Goose Bay, Newfoundland and Labrador, Canada, in support of Operation Arctic Vanguard, executing critical defense missions across the Arctic.",
+      "date": "2026-09-17",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4604174/norad-f-16s-deploy-to-high-north-under-operation-arctic-vanguard/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Interagency Effort Enables Airlift Support to Kauai Following Hurricane",
+      "summary": "An interagency effort provided military assistance to transport specialized utility vehicles in Hawaii, addressing widespread power outages in the aftermath of Hurricane Lowell.",
+      "date": "2026-09-17",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4604037/interagency-effort-enables-airlift-support-to-kauai-following-hurricane/"
     },
     {
       "sourceId": "dod",
@@ -226,25 +247,25 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4602704/joint-task-force-southern-border-soldiers-innovate-to-reinforce-barriers/"
     },
     {
-      "sourceId": "dod",
-      "title": "Hegseth, German Counterpart Agree to Advance Defense Industrial Cooperation",
-      "summary": "Secretary of War Pete Hegseth and Boris Pistorius, Germany's defense minister, met at the Pentagon to discuss NATO 3.0, increased European defense spending and the defense industrial bases of both nations.",
-      "date": "2026-09-15",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4602094/hegseth-german-counterpart-agree-to-advance-defense-industrial-cooperation/"
+      "sourceId": "viasat",
+      "title": "ST Engineering Wins Cloud Service Ground Systems Support Deal from Datacom in Asia",
+      "summary": "Satellite network integrator and service provider Datacom signed a contract with ST Engineering iDirect earlier this week to utilize the Intuition ground system and deliver cloud native services for satellite",
+      "date": "2026-09-18",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/18/st-engineering-wins-cloud-service-ground-systems-support-deal-from-datacom-in-asia/"
     },
     {
-      "sourceId": "dod",
-      "title": "Navy Awards First Production Contract for MQ-25A Stingray",
-      "summary": "The Navy awarded a contract valued at $562 million for initial production of the MQ-25A Stingray carrier-based unmanned aircraft.",
-      "date": "2026-09-15",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4601414/navy-awards-first-production-contract-for-mq-25a-stingray/"
+      "sourceId": "viasat",
+      "title": "NigComSat Buys Jupiter Gateway Access from Hughes for Upcoming 2A, 2B Satellites",
+      "summary": "Nigerian Communications Satellite Limited (NigComSat) signed a contract with Hughes Network Systems earlier this week to utilize its Jupiter scalable gateway system in support of the operator’s NIGCOMSAT-2A and NIGCOMSAT-2B",
+      "date": "2026-09-18",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/18/nigcomsat-buys-jupiter-gateway-access-from-hughes-for-upcoming-2a-2b-satellites/"
     },
     {
-      "sourceId": "dod",
-      "title": "USS St. Louis Assumes U.S. Northern Command Mission at Southern Border",
-      "summary": "The littoral combat ship USS St. Louis departed Naval Station Mayport, Fla., in support of U.S. Northern Command's mission to secure the U.S. southern border, enabling maritime interdiction missions to prevent the flow of illegal drugs or other illegal activity.",
-      "date": "2026-09-15",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4601362/uss-st-louis-assumes-us-northern-command-mission-at-southern-border/"
+      "sourceId": "viasat",
+      "title": "Iceye-led ARISE Consortium to Conduct Space Intelligence Architecture Study for ESA",
+      "summary": "The Architecture for Resilient and Federated ISR in Sovereign Europe (ARISE), a European sovereign intelligence consortium led by Iceye, will conduct an architecture design study for the European Space Agency",
+      "date": "2026-09-18",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/18/iceye-led-arise-consortium-to-conduct-space-intelligence-architecture-study-for-esa/"
     },
     {
       "sourceId": "viasat",
@@ -259,27 +280,6 @@
       "summary": "SatPort Infrastructure will develop, build, and host landing stations for the Telesat Lightspeed constellation, to connect Lightspeed to terrestrial networks. The two companies announced a master services agreement on Sept.",
       "date": "2026-09-17",
       "link": "https://www.satellitetoday.com/technology/2026/09/17/satport-to-build-landing-stations-for-telesat-lightspeed/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "SiriusXM-11 Satellite Enters Service",
-      "summary": "SiriusXM’s latest satellite, SXM-11, has entered service after launching in June. It is now the satellite radio company’s most powerful satellite in its fleet. Intuitive Machines built the satellite based",
-      "date": "2026-09-17",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/17/siriusxm-11-satellite-enters-service/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "The Era of Cheap, Price-Per-Kilo Launch is Over, Launchers Say",
-      "summary": "PARIS — Space launch competitors think it’s time for a new model of pricing in the launch market. Against the backdrop of SpaceX winding down the Falcon 9 launch program,",
-      "date": "2026-09-17",
-      "link": "https://www.satellitetoday.com/launch/2026/09/17/the-era-of-cheap-price-per-kilo-launch-is-over-launchers-say/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Space Leaders Say AI is Moving from Tool to Autonomous Decision-Maker",
-      "summary": "PARIS – New AI tools are opening the opportunity for more people to get involved when it comes to AI and space. Over the past year, AI has moved from a",
-      "date": "2026-09-17",
-      "link": "https://www.satellitetoday.com/technology/2026/09/17/space-leaders-say-ai-is-moving-from-tool-to-autonomous-decision-maker/"
     },
     {
       "sourceId": "spacecom",
@@ -318,6 +318,27 @@
     },
     {
       "sourceId": "rspace",
+      "title": "The Nancy Grace Roman Space Telescope is only 1/4 of the way to its final destination.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wjsvnu/the_nancy_grace_roman_space_telescope_is_only_14/\"> <img src=\"https://external-preview.redd.it/_B4RdRuAlY6n9jXjGnPYp2huy4K9DND5VCK6XBDze_Y.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b79baa69cc59227a3e…",
+      "date": "2026-09-18",
+      "link": "https://www.reddit.com/r/space/comments/1wjsvnu/the_nancy_grace_roman_space_telescope_is_only_14/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Galaxies housing the James Webb Space Telescope's mysterious 'Little Red Dots' might've revealed their secrets",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wjpasl/galaxies_housing_the_james_webb_space_telescopes/\"> <img src=\"https://external-preview.redd.it/r3WaVR7wtAQ4uKS1Q03zeD3BvIqJtAQpOxWThWYfKSg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=836163684b9cbc4340…",
+      "date": "2026-09-18",
+      "link": "https://www.reddit.com/r/space/comments/1wjpasl/galaxies_housing_the_james_webb_space_telescopes/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "NASA Unveils Enterprise, the First Space Shuttle - NASA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wj3pqs/nasa_unveils_enterprise_the_first_space_shuttle/\"> <img src=\"https://external-preview.redd.it/az_srYGMnpdP-paRM7OkHcUovzJK7rerW0-aDwGR-js.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=469f03f8afdeec33d1…",
+      "date": "2026-09-17",
+      "link": "https://www.reddit.com/r/space/comments/1wj3pqs/nasa_unveils_enterprise_the_first_space_shuttle/"
+    },
+    {
+      "sourceId": "rspace",
       "title": "\"NASA to order more Starliner missions and help certify a new rocket to keep it flying\"",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wiw53w/nasa_to_order_more_starliner_missions_and_help/\"> <img src=\"https://external-preview.redd.it/AnpIHJ7eL_gKijTJ1FevaPv6eRtMpb3XnWaoUMQZ0fY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=baafc57fe58437b6365…",
       "date": "2026-09-17",
@@ -325,31 +346,10 @@
     },
     {
       "sourceId": "rspace",
-      "title": "Scientists Find 'Once In A Century' New Crater",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wioyfz/scientists_find_once_in_a_century_new_crater/\"> <img src=\"https://external-preview.redd.it/Pu0V48UuU2ZZYvPxyhxYccfvw3TDVGLJiHIsQ97HWQI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5913c9f185678b7adbfca…",
-      "date": "2026-09-17",
-      "link": "https://www.reddit.com/r/space/comments/1wioyfz/scientists_find_once_in_a_century_new_crater/"
-    },
-    {
-      "sourceId": "rspace",
       "title": "Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wio6yo/open_cosmos_raises_300_million_as_investors_back/\"> <img src=\"https://external-preview.redd.it/SNdKgN4Fc_Sbrl8d9v3dyOwYXwnt9gljYD0aeQVEb0Y.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bde6916c2e4289777…",
       "date": "2026-09-17",
       "link": "https://www.reddit.com/r/space/comments/1wio6yo/open_cosmos_raises_300_million_as_investors_back/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Progress of autonomousity in space",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey there, i just wanted to know what&#39;s the current stage of development in autonomousity in space like I&#39;m a first year undergraduate in aerospace engineering and I&#39;m thinking to dedicate most of my time and energy ie my future in…",
-      "date": "2026-09-17",
-      "link": "https://www.reddit.com/r/space/comments/1wim6dt/progress_of_autonomousity_in_space/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Recommendation Request: Are there any Space videos/documentaries that are also dubbed in Spanish or are in Spanish",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am requesting this so I can share some space-related videos/documentaries with my Spanish-speaking mom. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RogueInWOW\"> /u/RogueInWOW </a> <br/> <span><a…",
-      "date": "2026-09-17",
-      "link": "https://www.reddit.com/r/space/comments/1wijedi/recommendation_request_are_there_any_space/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Unveils Enterprise, the First Space Shuttle",
-      "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans.",
+      "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+      "summary": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
+      "date": "2026-09-18",
+      "link": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "COSI Telescope Comes Together",
+      "summary": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
+      "date": "2026-09-18",
+      "link": "https://www.nasa.gov/image-article/cosi-telescope-comes-together/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
+      "summary": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo.",
+      "date": "2026-09-18",
+      "link": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
+      "summary": "APOD Science APOD APOD: 2026 September 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-09-18",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+      "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts.",
       "date": "2026-09-17",
-      "link": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
-      "summary": "APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-17",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Summer Goes Out With a Heat Dome",
-      "summary": "Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.",
-      "date": "2026-09-17",
-      "link": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Passion Meets Precision at NASA’s Flight Research Lab",
-      "summary": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events.",
-      "date": "2026-09-16",
-      "link": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
-      "summary": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface…",
-      "date": "2026-09-16",
-      "link": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
+      "link": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/"
     }
   ]
 }
