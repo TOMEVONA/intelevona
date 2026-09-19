@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T17:24:36.620Z",
+  "updated": "2026-09-19T16:19:21.324Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -11,7 +11,7 @@
     {
       "sourceId": "spacenews",
       "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
-      "summary": "PARIS — South Korean company Satrec Initiative is working with parent company Hanwha Systems to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical",
+      "summary": "PARIS — South Korean company Satrec Initiative is working with parent company Hanwha Aerospace to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical",
       "date": "2026-09-17",
       "link": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/"
     },
@@ -178,38 +178,59 @@
     },
     {
       "sourceId": "ussf",
-      "title": "CMSSF highlights cyber Guardians’ role in creating joint decision advantage",
-      "summary": "CMSSF Bentivegna detailed the service's \"train, test and trust\" approach to developing mission-ready cyber operators capable of defending critical space and joint infrastructure.<br/> <img src='https://media.defense.gov/2026/Sep/18/2004002773/300/300/0/280915-F-KN216-1571.JPG'…",
-      "date": "2026-09-17",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4604507/cmssf-highlights-cyber-guardians-role-in-creating-joint-decision-advantage/"
+      "title": "US, international partners to bolster global secure communications with updated multinational agreement",
+      "summary": "The U.S. Department of War, in partnership with defense ministries from 10 international partners, has signed Amendment Three to the multilateral Wideband Global SATCOM Memorandum of Understanding.<br/>",
+      "date": "2026-09-12",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4599066/us-international-partners-to-bolster-global-secure-communications-with-updated/"
     },
     {
       "sourceId": "ussf",
-      "title": "Space Force leaders outline blueprint to double force size over next 5 years",
-      "summary": "The panel addressed critical requirements across accession pipelines, mission infrastructure, and simulation training necessary to generate credible combat capability for the Joint Force.<br/>",
-      "date": "2026-09-17",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4603973/space-force-leaders-outline-blueprint-to-double-force-size-over-next-5-years/"
+      "title": "US Space Force selects Texas as preferred location for third DARC site",
+      "summary": "The USSF has approved project planning and selected Lake Kickapoo, Texas, as the preferred location for the third and final site of the DARC, a network designed to provide continuous space domain awareness and uninterrupted, overlapping coverage of geostationary orbit.<br/>",
+      "date": "2026-09-09",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4592096/us-space-force-selects-texas-as-preferred-location-for-third-darc-site/"
     },
     {
       "sourceId": "ussf",
-      "title": "Space Force announces Commercial Solutions Opening strategy for Satellite Communications Augmentation Resource program",
-      "summary": "The USSF is implementing a commercial acquisition strategy using Commercial Solutions Openings to enhance satellite command and control capabilities.<br/>",
-      "date": "2026-09-16",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602934/space-force-announces-commercial-solutions-opening-strategy-for-satellite-commu/"
+      "title": "DAF accelerates joint C2 with AI, Space Force integration in latest DASH experiment",
+      "summary": "In a fast-paced, two-week experiment, the Department of the Air Force continued to demonstrate that human-machine teaming, integrating artificial intelligence to handle heavy data processing so human operators can make faster and smarter decisions, can significantly accelerate…",
+      "date": "2026-09-08",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4592644/daf-accelerates-joint-c2-with-ai-space-force-integration-in-latest-dash-experim/"
     },
     {
       "sourceId": "ussf",
-      "title": "Chief of Space Operations Schiess outlines priorities to strengthen Space Force combat power",
-      "summary": "CSO Gen. Douglas Schiess outlined three priorities for his tenure: forging the Guardian ethos, arming and growing the force, and integrating Guardian power at scale. He emphasized strengthening combat power and delivering space power directly to the Joint Force.",
-      "date": "2026-09-16",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602550/chief-of-space-operations-schiess-outlines-priorities-to-strengthen-space-force/"
+      "title": "CMSSF visits National Space Defense Center",
+      "summary": "CMSSF Bentivegna visited the National Space Defense Center to engage with Guardians.<br/> <img src='https://media.defense.gov/2026/Sep/04/2003992813/300/300/0/260901-X-DA809-2001.JPG' alt='Chief Master Sgt.",
+      "date": "2026-09-08",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4592344/cmssf-visits-national-space-defense-center/"
     },
     {
       "sourceId": "ussf",
-      "title": "Remarks by CSO Gen. Douglas Schiess at the Air and Space Forces Association’s 2026 Air, Space and Cyber Conference",
-      "summary": "In a keynote address at the Air and Space Forces Association’s Air, Space and Cyber Conference, CSO Schiess outlined core priorities to accelerate U.S. Space Force growth.<br/>",
-      "date": "2026-09-15",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602018/remarks-by-cso-gen-douglas-schiess-at-the-air-and-space-forces-associations-202/"
+      "title": "Schiess sworn in as the Space Force’s highest-ranking uniformed leader",
+      "summary": "Gen. Douglas A. Schiess was formally installed as the third CSO during a change of responsibility ceremony succeeding retiring Gen. Chance Saltzman.<br/> <img src='https://media.defense.gov/2026/Sep/03/2003991896/300/300/0/260903-F-LE393-1384.JPG' alt='Chief of Space Operations…",
+      "date": "2026-09-03",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4590732/schiess-sworn-in-as-the-space-forces-highest-ranking-uniformed-leader/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "'We've Got Their Back,' Hegseth Tells Parents of Enlistees in Texas",
+      "summary": "Secretary of War Pete Hegseth swore in new military recruits in Austin, Texas, promising that the War Department will prioritize and protect America's warfighters.",
+      "date": "2026-09-19",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4606655/weve-got-their-back-hegseth-tells-parents-of-enlistees-in-texas/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Hegseth Addresses Team Who Built Sea Drone Used to Rescue Downed Apache Crew",
+      "summary": "Secretary of War Pete Hegseth spoke to employees at Saronic Technologies during an Arsenal of Freedom tour stop in Austin, Texas.",
+      "date": "2026-09-18",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4606534/hegseth-addresses-team-who-built-sea-drone-used-to-rescue-downed-apache-crew/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Hegseth, Caine Honor Nation's POW/MIAs",
+      "summary": "Secretary of War Pete Hegseth and Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, hosted a group of approximately 300 people including former prisoners of war, family members of POWs and those missing in action on the Pentagon parade field as part of National…",
+      "date": "2026-09-18",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4605196/hegseth-caine-honor-nations-powmias/"
     },
     {
       "sourceId": "dod",
@@ -224,27 +245,6 @@
       "summary": "The Alaskan North American Aerospace Defense Command Region deployed F-16 Fighting Falcons from Eielson Air Force Base, Alaska, to Goose Bay, Newfoundland and Labrador, Canada, in support of Operation Arctic Vanguard, executing critical defense missions across the Arctic.",
       "date": "2026-09-17",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4604174/norad-f-16s-deploy-to-high-north-under-operation-arctic-vanguard/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Interagency Effort Enables Airlift Support to Kauai Following Hurricane",
-      "summary": "An interagency effort provided military assistance to transport specialized utility vehicles in Hawaii, addressing widespread power outages in the aftermath of Hurricane Lowell.",
-      "date": "2026-09-17",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4604037/interagency-effort-enables-airlift-support-to-kauai-following-hurricane/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Fort Hunter Liggett, Partners Unify to Battle Plaskett Fire",
-      "summary": "The swift response of Fort Hunter Liggett to contain the encroaching Plaskett Fire, which burned about 30,000 acres in the adjacent Los Padres National Forest, reflects its emergency preparedness and strong mutual aid partnerships in Monterey County, Calif.",
-      "date": "2026-09-16",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4603018/fort-hunter-liggett-partners-unify-to-battle-plaskett-fire/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Joint Task Force Southern Border Soldiers Innovate to Reinforce Barriers",
-      "summary": "Soldiers assigned to Joint Task Force Southern Border in support of Operation Ardent Vanguard, recently reinforced a challenging section of the southern border barrier.",
-      "date": "2026-09-16",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4602704/joint-task-force-southern-border-soldiers-innovate-to-reinforce-barriers/"
     },
     {
       "sourceId": "viasat",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
-      "title": "The Nancy Grace Roman Space Telescope is only 1/4 of the way to its final destination.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wjsvnu/the_nancy_grace_roman_space_telescope_is_only_14/\"> <img src=\"https://external-preview.redd.it/_B4RdRuAlY6n9jXjGnPYp2huy4K9DND5VCK6XBDze_Y.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b79baa69cc59227a3e…",
+      "title": "Express ur designs on space settlement in the comment (even if its absurd)",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>just draw the design or tell them as text and I will rate it out of 10</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Kokuryo-067\"> /u/Kokuryo-067 </a> <br/> <span><a…",
+      "date": "2026-09-19",
+      "link": "https://www.reddit.com/r/space/comments/1wkov5h/express_ur_designs_on_space_settlement_in_the/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "What are realistic ways to get down to 50-100$/kg?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Naturally reusable rockets will get us pretty close if not there, but then theres the whole supply/demand side of things with the space economy, and the R&amp;D that goes into figuring out big problems like artificial gravity, radiation…",
+      "date": "2026-09-19",
+      "link": "https://www.reddit.com/r/space/comments/1wkgbvm/what_are_realistic_ways_to_get_down_to_50100kg/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Demolition of NASA's Cape Canaveral Space Launch Complex 17 in (2018)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wk3r0k/demolition_of_nasas_cape_canaveral_space_launch/\"> <img src=\"https://external-preview.redd.it/IvJITZAKWIUXPZvIG5VKcrxCnnKmFKEkYn_3W-IDZr4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e29c0bea698a5251e4…",
       "date": "2026-09-18",
-      "link": "https://www.reddit.com/r/space/comments/1wjsvnu/the_nancy_grace_roman_space_telescope_is_only_14/"
+      "link": "https://www.reddit.com/r/space/comments/1wk3r0k/demolition_of_nasas_cape_canaveral_space_launch/"
     },
     {
       "sourceId": "rspace",
-      "title": "Galaxies housing the James Webb Space Telescope's mysterious 'Little Red Dots' might've revealed their secrets",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wjpasl/galaxies_housing_the_james_webb_space_telescopes/\"> <img src=\"https://external-preview.redd.it/r3WaVR7wtAQ4uKS1Q03zeD3BvIqJtAQpOxWThWYfKSg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=836163684b9cbc4340…",
+      "title": "NASA's PUNCH mission releases a full-year movie of the solar corona, showing coronal detail and evolution over the first 12 months of the mission",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/drzowie\"> /u/drzowie </a> <br/> <span><a href=\"https://punch.space.swri.edu/punch_news.php?story=2026-09-18_punch_news_a-year-of-nfi\">[link]</a></span> &#32; <span><a…",
       "date": "2026-09-18",
-      "link": "https://www.reddit.com/r/space/comments/1wjpasl/galaxies_housing_the_james_webb_space_telescopes/"
+      "link": "https://www.reddit.com/r/space/comments/1wk0mi8/nasas_punch_mission_releases_a_fullyear_movie_of/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA Unveils Enterprise, the First Space Shuttle - NASA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wj3pqs/nasa_unveils_enterprise_the_first_space_shuttle/\"> <img src=\"https://external-preview.redd.it/az_srYGMnpdP-paRM7OkHcUovzJK7rerW0-aDwGR-js.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=469f03f8afdeec33d1…",
-      "date": "2026-09-17",
-      "link": "https://www.reddit.com/r/space/comments/1wj3pqs/nasa_unveils_enterprise_the_first_space_shuttle/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "\"NASA to order more Starliner missions and help certify a new rocket to keep it flying\"",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wiw53w/nasa_to_order_more_starliner_missions_and_help/\"> <img src=\"https://external-preview.redd.it/AnpIHJ7eL_gKijTJ1FevaPv6eRtMpb3XnWaoUMQZ0fY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=baafc57fe58437b6365…",
-      "date": "2026-09-17",
-      "link": "https://www.reddit.com/r/space/comments/1wiw53w/nasa_to_order_more_starliner_missions_and_help/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wio6yo/open_cosmos_raises_300_million_as_investors_back/\"> <img src=\"https://external-preview.redd.it/SNdKgN4Fc_Sbrl8d9v3dyOwYXwnt9gljYD0aeQVEb0Y.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bde6916c2e4289777…",
-      "date": "2026-09-17",
-      "link": "https://www.reddit.com/r/space/comments/1wio6yo/open_cosmos_raises_300_million_as_investors_back/"
+      "title": "Time is running out.",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>We should seriously consider a mission to Sedna before we miss the window.</strong> </p> <p>Sedna is one of the weirdest objects in the Solar System.",
+      "date": "2026-09-18",
+      "link": "https://www.reddit.com/r/space/comments/1wjz9km/time_is_running_out/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,27 @@
     },
     {
       "sourceId": "nasa",
+      "title": "APOD: 2026 September 19 – A Zodiacal Night",
+      "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-09-19",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
+      "summary": "The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory.",
+      "date": "2026-09-18",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
+      "summary": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares.",
+      "date": "2026-09-18",
+      "link": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
       "summary": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
       "date": "2026-09-18",
@@ -434,27 +455,6 @@
       "summary": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
       "date": "2026-09-18",
       "link": "https://www.nasa.gov/image-article/cosi-telescope-comes-together/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
-      "summary": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo.",
-      "date": "2026-09-18",
-      "link": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
-      "summary": "APOD Science APOD APOD: 2026 September 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-18",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-      "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts.",
-      "date": "2026-09-17",
-      "link": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/"
     }
   ]
 }
