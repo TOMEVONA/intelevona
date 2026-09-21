@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T18:33:44.662Z",
+  "updated": "2026-09-21T19:00:15.683Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
+      "summary": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&T Bank Stadium, Sunday, Sept. 20, 2026, in Baltimore.",
+      "date": "2026-09-21",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
       "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found.",
       "date": "2026-09-21",
@@ -448,13 +455,6 @@
       "summary": "APODScienceAPODAPOD: 2026 September 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-09-21",
       "link": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Arctic Melt Season Length Levels Off",
-      "summary": "While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010.",
-      "date": "2026-09-21",
-      "link": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/"
     }
   ]
 }
