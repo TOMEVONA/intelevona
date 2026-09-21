@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T17:13:16.298Z",
+  "updated": "2026-09-21T18:33:44.662Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
+      "summary": "September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply",
+      "date": "2026-09-21",
+      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
@@ -28,13 +35,6 @@
       "summary": "In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss",
       "date": "2026-09-17",
       "link": "https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
-      "summary": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative",
-      "date": "2026-09-17",
-      "link": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "Guardian Wins Men’s Air Force Marathon Title",
+      "summary": "More than 9,000 runners participated in the 30th annual Air Force Marathon at Wright-Patterson Air Force Base, showcasing physical stamina and mental toughness.<br/> <img src='https://media.defense.gov/2026/Sep/19/2004004418/300/300/0/260919-F-QL361-1957.JPG' alt='A man runs…",
+      "date": "2026-09-19",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4607144/guardian-wins-mens-air-force-marathon-title/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "After being discharged under vaccine mandate, Army Soldier reinstates and completes transfer to Space Force",
       "summary": "Following the signing of Executive Order 14184, Tech. Sgt. Kandice Whitt returned to military service after previously being discharged under the COVID-19 vaccination mandate.",
       "date": "2026-09-18",
@@ -205,11 +212,11 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602934/space-force-announces-commercial-solutions-opening-strategy-for-satellite-commu/"
     },
     {
-      "sourceId": "ussf",
-      "title": "Chief of Space Operations Schiess outlines priorities to strengthen Space Force combat power",
-      "summary": "CSO Gen. Douglas Schiess outlined three priorities for his tenure: forging the Guardian ethos, arming and growing the force, and integrating Guardian power at scale. He emphasized strengthening combat power and delivering space power directly to the Joint Force.",
-      "date": "2026-09-16",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602550/chief-of-space-operations-schiess-outlines-priorities-to-strengthen-space-force/"
+      "sourceId": "dod",
+      "title": "Air Force, Japan Exercise Tsunami Evacuation Procedures",
+      "summary": "Members of the Air Force's 18th Wing and local government officials in Okinawa, Japan, conducted a joint tsunami evacuation drill across Kadena Air Base.",
+      "date": "2026-09-21",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4607156/air-force-japan-exercise-tsunami-evacuation-procedures/"
     },
     {
       "sourceId": "dod",
@@ -238,13 +245,6 @@
       "summary": "Secretary of War Pete Hegseth and Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, hosted a group of approximately 300 people including former prisoners of war, family members of POWs and those missing in action on the Pentagon parade field as part of National…",
       "date": "2026-09-18",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4605196/hegseth-caine-honor-nations-powmias/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Department Releases Guidance on Implementing Testosterone Deficiency Screenings for Male Service Members",
-      "summary": "The War Department released clinical practice guidelines for medical professionals across the force on how to evaluate and treat potential testosterone deficiencies in male warfighters.",
-      "date": "2026-09-17",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4604632/department-releases-guidance-on-implementing-testosterone-deficiency-screenings/"
     },
     {
       "sourceId": "viasat",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
-      "title": "What role should VR have in visiting other planets?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Do you think VR could play a meaningful role in preparing astronauts for future Mars missions?</p> <p>Beyond things like equipment training, could VR help people prepare for isolation, confined environments, navigation, or other challenges of…",
-      "date": "2026-09-20",
-      "link": "https://www.reddit.com/r/space/comments/1wlhz0z/what_role_should_vr_have_in_visiting_other_planets/"
+      "title": "September 16, 1960 Soviet Union launched an R-2A geophysical rocket carrying biological specimens. The primary objectives of the flight were to study the ionosphere and conduct meteorological observations. The dogs Palma and Malek were aboard the rocket's nose cone",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wmio7z/september_16_1960_soviet_union_launched_an_r2a/\"> <img src=\"https://preview.redd.it/kr43ajkcnwqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=763892a06274511ee2858d07b003339b5f727560\" alt=\"September…",
+      "date": "2026-09-21",
+      "link": "https://www.reddit.com/r/space/comments/1wmio7z/september_16_1960_soviet_union_launched_an_r2a/"
     },
     {
       "sourceId": "rspace",
-      "title": "I wanna work at esa",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am curently 16, in india and my mother is in germany. I plan on moving to germany after my 12th graduation. Its been my dream to work in the space industry since i was around 8 or so.",
-      "date": "2026-09-20",
-      "link": "https://www.reddit.com/r/space/comments/1wlhoqp/i_wanna_work_at_esa/"
+      "title": "The Milky Way from my office",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wmhsse/the_milky_way_from_my_office/\"> <img src=\"https://preview.redd.it/xch2rb6qhwqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f685b130c4a07cfbe1eeadd1d582576e0b10698e\" alt=\"The Milky Way from my…",
+      "date": "2026-09-21",
+      "link": "https://www.reddit.com/r/space/comments/1wmhsse/the_milky_way_from_my_office/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Surveyor 2 Lunar Landing Mission: Things Don’t Always Go As Planned | 60 years ago",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wl9pmn/the_surveyor_2_lunar_landing_mission_things_dont/\"> <img src=\"https://external-preview.redd.it/PM8UQTb0OD7t3qLsMdEJ-7xo-86feEk9Bm5y0uGVOlc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a52d63eab804482b…",
-      "date": "2026-09-20",
-      "link": "https://www.reddit.com/r/space/comments/1wl9pmn/the_surveyor_2_lunar_landing_mission_things_dont/"
+      "title": "Google Pixel 10 capture",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wmckv5/google_pixel_10_capture/\"> <img src=\"https://preview.redd.it/z56doci9jvqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c2b86fc9ef7a6363059ea9e7a85b7fe974256d9\" alt=\"Google Pixel 10 capture\"…",
+      "date": "2026-09-21",
+      "link": "https://www.reddit.com/r/space/comments/1wmckv5/google_pixel_10_capture/"
     },
     {
       "sourceId": "rspace",
-      "title": "What Will It Take to Build NASA’s Permanent Moon Base? | Johns Hopkins University Panel",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wl3mv9/what_will_it_take_to_build_nasas_permanent_moon/\"> <img src=\"https://external-preview.redd.it/3HuvqhdQOyxLI0htDJE57MRG_nL7caRrnEi--HkgXNU.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=687db8f3123ca6b291…",
-      "date": "2026-09-20",
-      "link": "https://www.reddit.com/r/space/comments/1wl3mv9/what_will_it_take_to_build_nasas_permanent_moon/"
+      "title": "How supermassive black holes are the architects of entire galaxies",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wmbm0n/how_supermassive_black_holes_are_the_architects/\"> <img src=\"https://external-preview.redd.it/FbEXgSWUjoNP5-v-UrX_hmyKIS_sUHaGODOWe_8oFDk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce0721ee6502efba302…",
+      "date": "2026-09-21",
+      "link": "https://www.reddit.com/r/space/comments/1wmbm0n/how_supermassive_black_holes_are_the_architects/"
     },
     {
       "sourceId": "rspace",
-      "title": "Nuri rocket launch heralds South Korea’s first microsatellite constallation — and shows it might have the technology to launch its own Starlink",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wkua6g/nuri_rocket_launch_heralds_south_koreas_first/\"> <img src=\"https://external-preview.redd.it/IGqFuo47RqlObrC2iMz0SJ3Y9wWzPlOSj5KiNCS6cN8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d6bf6e4f767b4f12c49…",
-      "date": "2026-09-19",
-      "link": "https://www.reddit.com/r/space/comments/1wkua6g/nuri_rocket_launch_heralds_south_koreas_first/"
+      "title": "Andromeda galaxy",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wm952t/andromeda_galaxy/\"> <img src=\"https://preview.redd.it/qzffymjfquqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f54d484d08283eb601492dcbf72a017bcf7108c5\" alt=\"Andromeda galaxy\" title=\"Andromeda…",
+      "date": "2026-09-21",
+      "link": "https://www.reddit.com/r/space/comments/1wm952t/andromeda_galaxy/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
-      "summary": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-20",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/"
+      "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
+      "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found.",
+      "date": "2026-09-21",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 September 19 – A Zodiacal Night",
-      "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-19",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/"
+      "title": "Widely Attended Gatherings (WAGs) Determinations",
+      "summary": "2026 NAHF Enshrinement Ceremony 9.24.26.pdf An Evening with the Stars EWTS 9.16.26.pdf Maryland Space Business Roundtable 9.9.26 Virginia Aerospace Business Association (VASBA) Gala 9.24.26.pdf Roman Space Telescope Event 8.28.26.pdf The Planetary Society_Celebrating Viking…",
+      "date": "2026-09-21",
+      "link": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
-      "summary": "The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory.",
-      "date": "2026-09-18",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/"
+      "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
+      "summary": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Park.",
+      "date": "2026-09-21",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
-      "summary": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares.",
-      "date": "2026-09-18",
-      "link": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/"
+      "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+      "summary": "APODScienceAPODAPOD: 2026 September 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-09-21",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
-      "summary": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
-      "date": "2026-09-18",
-      "link": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/"
+      "title": "Arctic Melt Season Length Levels Off",
+      "summary": "While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010.",
+      "date": "2026-09-21",
+      "link": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/"
     }
   ]
 }
