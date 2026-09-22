@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T17:34:37.805Z",
+  "updated": "2026-09-22T17:52:18.482Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "CMSSF Visits Vandenberg SFB",
+      "summary": "Chief Master Sgt. of the Space Force John F. Bentivegna visited Vandenberg Space Force Base Sept. 18, engaging with Guardians, Airmen and civilian personnel across multiple mission areas to reinforce the service's foundational priority to \"Forge the Guardian Ethos.\"<br/> <img…",
+      "date": "2026-09-21",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4608593/cmssf-visits-vandenberg-sfb/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "Guardian Wins Men’s Air Force Marathon Title",
       "summary": "More than 9,000 runners participated in the 30th annual Air Force Marathon at Wright-Patterson Air Force Base, showcasing physical stamina and mental toughness.<br/> <img src='https://media.defense.gov/2026/Sep/19/2004004418/300/300/0/260919-F-QL361-1957.JPG' alt='A man runs…",
       "date": "2026-09-19",
@@ -205,11 +212,11 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4603973/space-force-leaders-outline-blueprint-to-double-force-size-over-next-5-years/"
     },
     {
-      "sourceId": "ussf",
-      "title": "Space Force announces Commercial Solutions Opening strategy for Satellite Communications Augmentation Resource program",
-      "summary": "The USSF is implementing a commercial acquisition strategy using Commercial Solutions Openings to enhance satellite command and control capabilities.<br/>",
-      "date": "2026-09-16",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4602934/space-force-announces-commercial-solutions-opening-strategy-for-satellite-commu/"
+      "sourceId": "dod",
+      "title": "USS Stout Departs Norfolk for Deployment Operations",
+      "summary": "The guided-missile destroyer USS Stout departed Naval Station Norfolk, Va., to begin deployment operations after months of training, maintenance and certification events.",
+      "date": "2026-09-22",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4608460/uss-stout-departs-norfolk-for-deployment-operations/"
     },
     {
       "sourceId": "dod",
@@ -238,13 +245,6 @@
       "summary": "Secretary of War Pete Hegseth swore in new military recruits in Austin, Texas, promising that the War Department will prioritize and protect America's warfighters.",
       "date": "2026-09-19",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4606655/weve-got-their-back-hegseth-tells-parents-of-enlistees-in-texas/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Hegseth Addresses Team Who Built Sea Drone Used to Rescue Downed Apache Crew",
-      "summary": "Secretary of War Pete Hegseth spoke to employees at Saronic Technologies during an Arsenal of Freedom tour stop in Austin, Texas.",
-      "date": "2026-09-18",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4606534/hegseth-addresses-team-who-built-sea-drone-used-to-rescue-downed-apache-crew/"
     },
     {
       "sourceId": "viasat",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+      "summary": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus…",
+      "date": "2026-09-22",
+      "link": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
       "summary": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026.",
       "date": "2026-09-22",
@@ -448,13 +455,6 @@
       "summary": "Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and predicting equinoxes is one of the earliest skills in humanity’s astronomical toolkit.",
       "date": "2026-09-21",
       "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory",
-      "summary": "The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coalition of like‑minded nations committed to the responsible and transparent exploration of space.",
-      "date": "2026-09-21",
-      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/"
     }
   ]
 }
