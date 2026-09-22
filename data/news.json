@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T19:00:15.683Z",
+  "updated": "2026-09-22T17:34:37.805Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Military Spouse Commission Holds First Meeting, Identifies Top Issues",
+      "summary": "The Military Spouse Commission held its first meeting at the White House, and plans to tackle issues including employment, housing, education and healthcare.",
+      "date": "2026-09-21",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4607679/military-spouse-commission-holds-first-meeting-identifies-top-issues/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Air Force, Japan Exercise Tsunami Evacuation Procedures",
       "summary": "Members of the Air Force's 18th Wing and local government officials in Okinawa, Japan, conducted a joint tsunami evacuation drill across Kadena Air Base.",
       "date": "2026-09-21",
@@ -240,46 +247,39 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4606534/hegseth-addresses-team-who-built-sea-drone-used-to-rescue-downed-apache-crew/"
     },
     {
-      "sourceId": "dod",
-      "title": "Hegseth, Caine Honor Nation's POW/MIAs",
-      "summary": "Secretary of War Pete Hegseth and Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, hosted a group of approximately 300 people including former prisoners of war, family members of POWs and those missing in action on the Pentagon parade field as part of National…",
-      "date": "2026-09-18",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4605196/hegseth-caine-honor-nations-powmias/"
+      "sourceId": "viasat",
+      "title": "Final ViaSat-3 Satellite Enters Service, Completing High-Capacity Trio",
+      "summary": "The final ViaSat-3 satellite entered service late last week, completing deployment of Viasat’s high-capacity satellite trio. This satellite, ViaSat-3 F2, was actually the second satellite to launch, and it launched",
+      "date": "2026-09-21",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/21/final-viasat-3-satellite-enters-service-completing-high-capacity-trio/"
     },
     {
       "sourceId": "viasat",
-      "title": "ST Engineering Wins Cloud Service Ground Systems Support Deal from Datacom in Asia",
-      "summary": "Satellite network integrator and service provider Datacom signed a contract with ST Engineering iDirect earlier this week to utilize the Intuition ground system and deliver cloud native services for satellite",
-      "date": "2026-09-18",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/18/st-engineering-wins-cloud-service-ground-systems-support-deal-from-datacom-in-asia/"
+      "title": "True Anomaly and Northrop Grumman Aiming to Build GHOST-R Prototypes to Reduce RG-XX Costs",
+      "summary": "The Defense Innovation Unit and U.S. Space Force’s Space Systems Command (SSC) have awarded True Anomaly and Northrop Grumman Geosynchronous High-Resolution Optical Space-Based Tactical Reconnaissance (GHOST-R) prototype contracts to deliver “lower-cost” reconnaissance satellites",
+      "date": "2026-09-21",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/21/true-anomaly-and-northrop-grumman-aiming-to-build-ghost-r-prototypes-to-reduce-rg-xx-costs/"
     },
     {
       "sourceId": "viasat",
-      "title": "NigComSat Buys Jupiter Gateway Access from Hughes for Upcoming 2A, 2B Satellites",
-      "summary": "Nigerian Communications Satellite Limited (NigComSat) signed a contract with Hughes Network Systems earlier this week to utilize its Jupiter scalable gateway system in support of the operator’s NIGCOMSAT-2A and NIGCOMSAT-2B",
-      "date": "2026-09-18",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/18/nigcomsat-buys-jupiter-gateway-access-from-hughes-for-upcoming-2a-2b-satellites/"
+      "title": "Intellian to Develop Multi-Band WGS Terminals With Network Innovations",
+      "summary": "Intellian Technologies and Network Innovations plan to jointly develop and distribute multi-band Wideband Global Satcom (WGS) flyaway terminals for military and government customers under a new strategic partnership announced last",
+      "date": "2026-09-21",
+      "link": "https://www.satellitetoday.com/technology/2026/09/21/intellian-to-develop-multi-band-wgs-terminals-with-network-innovations/"
     },
     {
       "sourceId": "viasat",
-      "title": "Iceye-led ARISE Consortium to Conduct Space Intelligence Architecture Study for ESA",
-      "summary": "The Architecture for Resilient and Federated ISR in Sovereign Europe (ARISE), a European sovereign intelligence consortium led by Iceye, will conduct an architecture design study for the European Space Agency",
-      "date": "2026-09-18",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/18/iceye-led-arise-consortium-to-conduct-space-intelligence-architecture-study-for-esa/"
+      "title": "Europe Grapples With Faster Procurement Amid Space Defense Push",
+      "summary": "As Europe works to move faster in its space defense capabilities, leaders at the Space and Defense & Security Summit say Ukraine accelerated a shift in institutional urgency yet challenges",
+      "date": "2026-09-21",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/21/europe-grapples-with-faster-procurement-amid-space-defense-push/"
     },
     {
       "sourceId": "viasat",
-      "title": "Kymeta Kestrel u5 Terminal Now Certified for Rail Industry",
-      "summary": "Kymeta’s Kestrel u5 terminal has received certification for compliance with railway standards ahead of connectivity trials with some of Europe’s largest rail operators. The Kestrel u5 is a flat panel",
-      "date": "2026-09-17",
-      "link": "https://www.satellitetoday.com/technology/2026/09/17/kymeta-kestrel-u5-terminal-now-certified-for-rail-industry/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "SatPort to Build Landing Stations for Telesat Lightspeed",
-      "summary": "SatPort Infrastructure will develop, build, and host landing stations for the Telesat Lightspeed constellation, to connect Lightspeed to terrestrial networks. The two companies announced a master services agreement on Sept.",
-      "date": "2026-09-17",
-      "link": "https://www.satellitetoday.com/technology/2026/09/17/satport-to-build-landing-stations-for-telesat-lightspeed/"
+      "title": "Katalyst to Demo Space-Based Power Beaming for Pentagon Energy Investment Program",
+      "summary": "Katalyst Space has been selected by a Pentagon energy investment program to take part in a space-based power beaming to remote locations, working with the U.S. Naval Research Laboratory (NRL).",
+      "date": "2026-09-21",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/21/katalyst-to-demo-space-based-power-beaming-for-pentagon-energy-investment-program/"
     },
     {
       "sourceId": "spacecom",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
-      "title": "September 16, 1960 Soviet Union launched an R-2A geophysical rocket carrying biological specimens. The primary objectives of the flight were to study the ionosphere and conduct meteorological observations. The dogs Palma and Malek were aboard the rocket's nose cone",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wmio7z/september_16_1960_soviet_union_launched_an_r2a/\"> <img src=\"https://preview.redd.it/kr43ajkcnwqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=763892a06274511ee2858d07b003339b5f727560\" alt=\"September…",
-      "date": "2026-09-21",
-      "link": "https://www.reddit.com/r/space/comments/1wmio7z/september_16_1960_soviet_union_launched_an_r2a/"
+      "title": "We're working on In Control: Rocketry, a rocket builder and spaceflight sim with real orbital mechanics!",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wnfcff/were_working_on_in_control_rocketry_a_rocket/\"> <img src=\"https://external-preview.redd.it/jSblDeUEo_myDhGLJDHLtgAzYB0Yeac3tFXbJRruzP4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b7e92bc6894430e3a02bf…",
+      "date": "2026-09-22",
+      "link": "https://www.reddit.com/r/space/comments/1wnfcff/were_working_on_in_control_rocketry_a_rocket/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Milky Way from my office",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wmhsse/the_milky_way_from_my_office/\"> <img src=\"https://preview.redd.it/xch2rb6qhwqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f685b130c4a07cfbe1eeadd1d582576e0b10698e\" alt=\"The Milky Way from my…",
-      "date": "2026-09-21",
-      "link": "https://www.reddit.com/r/space/comments/1wmhsse/the_milky_way_from_my_office/"
+      "title": "June 29, 1995: Space Shuttle Atlantis docks with Mir during STS-71. Its seven crew members join the three already aboard the station, bringing the total to six astronauts and four cosmonauts.",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/letseatnudels\"> /u/letseatnudels </a> <br/> <span><a href=\"https://www.americaspace.com/2020/06/27/we-have-capture-remembering-sts-71-and-shuttle-mir-25-years-on/\">[link]</a></span> &#32; <span><a…",
+      "date": "2026-09-22",
+      "link": "https://www.reddit.com/r/space/comments/1wnefwd/june_29_1995_space_shuttle_atlantis_docks_with/"
     },
     {
       "sourceId": "rspace",
-      "title": "Google Pixel 10 capture",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wmckv5/google_pixel_10_capture/\"> <img src=\"https://preview.redd.it/z56doci9jvqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c2b86fc9ef7a6363059ea9e7a85b7fe974256d9\" alt=\"Google Pixel 10 capture\"…",
-      "date": "2026-09-21",
-      "link": "https://www.reddit.com/r/space/comments/1wmckv5/google_pixel_10_capture/"
+      "title": "NASA chief: I’m only interested in “good deals” from international partners | “There was absolutely a time where we were trying to make everyone happy.”",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wn7sf0/nasa_chief_im_only_interested_in_good_deals_from/\"> <img src=\"https://external-preview.redd.it/WiYtiV1UkDy7dY5PXsLbmNzvjQ2mYFB0HEu7PpndJ-w.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=666477b532909748a…",
+      "date": "2026-09-22",
+      "link": "https://www.reddit.com/r/space/comments/1wn7sf0/nasa_chief_im_only_interested_in_good_deals_from/"
     },
     {
       "sourceId": "rspace",
-      "title": "How supermassive black holes are the architects of entire galaxies",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wmbm0n/how_supermassive_black_holes_are_the_architects/\"> <img src=\"https://external-preview.redd.it/FbEXgSWUjoNP5-v-UrX_hmyKIS_sUHaGODOWe_8oFDk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce0721ee6502efba302…",
-      "date": "2026-09-21",
-      "link": "https://www.reddit.com/r/space/comments/1wmbm0n/how_supermassive_black_holes_are_the_architects/"
+      "title": "First ‘backwards’ planet discovered around a small star challenges ideas about how planets form",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/malcolm58\"> /u/malcolm58 </a> <br/> <span><a href=\"https://www.qmul.ac.uk/news/latest-news/2026/science-and-engineering/se/first-backwards-planet-discovered-around-a-small-star-challenges-ideas-about-how-planets-form.h…",
+      "date": "2026-09-22",
+      "link": "https://www.reddit.com/r/space/comments/1wn5kv6/first_backwards_planet_discovered_around_a_small/"
     },
     {
       "sourceId": "rspace",
-      "title": "Andromeda galaxy",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wm952t/andromeda_galaxy/\"> <img src=\"https://preview.redd.it/qzffymjfquqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f54d484d08283eb601492dcbf72a017bcf7108c5\" alt=\"Andromeda galaxy\" title=\"Andromeda…",
-      "date": "2026-09-21",
-      "link": "https://www.reddit.com/r/space/comments/1wm952t/andromeda_galaxy/"
+      "title": "NASA Chief: How To Reach Another Star System | Jared Isaacman",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wmx2dd/nasa_chief_how_to_reach_another_star_system_jared/\"> <img src=\"https://external-preview.redd.it/JOWOnh-98gvcFjFZ57fnbG0_52Pr92ohwyBWZ32VafA.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=49918cf3284aef80…",
+      "date": "2026-09-22",
+      "link": "https://www.reddit.com/r/space/comments/1wmx2dd/nasa_chief_how_to_reach_another_star_system_jared/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
-      "summary": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&T Bank Stadium, Sunday, Sept. 20, 2026, in Baltimore.",
-      "date": "2026-09-21",
-      "link": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/"
+      "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
+      "summary": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026.",
+      "date": "2026-09-22",
+      "link": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
-      "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found.",
-      "date": "2026-09-21",
-      "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
+      "title": "NASA Astronaut to Answer Questions from New Hampshire Students",
+      "summary": "Editor’s Note: This feature was updated Sept. 22, 2026, to note the time change for the in-flight call with students. Students in New Hampshire will hear from NASA astronaut Anil Menon as he answers prerecorded STEM questions while aboard the International Space Station.",
+      "date": "2026-09-22",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/"
     },
     {
       "sourceId": "nasa",
-      "title": "Widely Attended Gatherings (WAGs) Determinations",
-      "summary": "2026 NAHF Enshrinement Ceremony 9.24.26.pdf An Evening with the Stars EWTS 9.16.26.pdf Maryland Space Business Roundtable 9.9.26 Virginia Aerospace Business Association (VASBA) Gala 9.24.26.pdf Roman Space Telescope Event 8.28.26.pdf The Planetary Society_Celebrating Viking…",
-      "date": "2026-09-21",
-      "link": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/"
+      "title": "An Epic View of the Seasons",
+      "summary": "The tilt in Earth’s axis of rotation makes the apparent position of continents shift with the seasons in imagery from a NASA camera in deep space.",
+      "date": "2026-09-22",
+      "link": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/"
     },
     {
       "sourceId": "nasa",
-      "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
-      "summary": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Park.",
+      "title": "Embracing the Equinox",
+      "summary": "Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and predicting equinoxes is one of the earliest skills in humanity’s astronomical toolkit.",
       "date": "2026-09-21",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/"
+      "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
-      "summary": "APODScienceAPODAPOD: 2026 September 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory",
+      "summary": "The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coalition of like‑minded nations committed to the responsible and transparent exploration of space.",
       "date": "2026-09-21",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/"
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/"
     }
   ]
 }
