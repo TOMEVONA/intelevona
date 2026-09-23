@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T17:46:16.342Z",
+  "updated": "2026-09-23T18:09:07.117Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Joint Navy-Marine Corps Osprey Test Advances Future Fleet Anti-Submarine Capability",
+      "summary": "A joint Navy-Marine Corps test team executed the first lot acceptance test of sonobuoys from an MV-22B Osprey tiltrotor aircraft off the coast of San Clemente Island, Calif., laying the groundwork for expanded tactical employment across the fleet.",
+      "date": "2026-09-23",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4609476/joint-navy-marine-corps-osprey-test-advances-future-fleet-anti-submarine-capabi/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Pentagon Showcases Dozens of Advanced Energy Projects",
       "summary": "More than 100 exhibits related to energy innovation are on display at the Pentagon, including the Army's Tactical Microgrid Standard, the Navy's system to use microwaves to beam limitless power from space and the Air Force's Modular Energy for Tactical Expeditionary Operations…",
       "date": "2026-09-22",
@@ -238,13 +245,6 @@
       "summary": "The guided-missile destroyer USS Stout departed Naval Station Norfolk, Va., to begin deployment operations after months of training, maintenance and certification events.",
       "date": "2026-09-22",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4608460/uss-stout-departs-norfolk-for-deployment-operations/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Military Spouse Commission Holds First Meeting, Identifies Top Issues",
-      "summary": "The Military Spouse Commission held its first meeting at the White House, and plans to tackle issues including employment, housing, education and healthcare.",
-      "date": "2026-09-21",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4607679/military-spouse-commission-holds-first-meeting-identifies-top-issues/"
     },
     {
       "sourceId": "viasat",
@@ -318,6 +318,13 @@
     },
     {
       "sourceId": "rspace",
+      "title": "Who We Are — The European Way to Mars. An initiative of the European chapters of The Mars Society",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wocxmn/who_we_are_the_european_way_to_mars_an_initiative/\"> <img src=\"https://external-preview.redd.it/qRFC_UYgMKUn8x8uPsBzFidx_ufRWrNTjFIsAiYxR2c.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6725422d653926a6d…",
+      "date": "2026-09-23",
+      "link": "https://www.reddit.com/r/space/comments/1wocxmn/who_we_are_the_european_way_to_mars_an_initiative/"
+    },
+    {
+      "sourceId": "rspace",
       "title": "Prime Video’s NASA Limited Series ‘The Challenger’ Adds Six To Cast: : William Fichtner (Lucky), Kevin Carroll (Widow’s Bay), Eric Lange (Lucky), Adelaide Clemens (R.J. Decker), Louisa Jacobson (The Gilded Age) and Hunter Burke (Sweet Magnolias)",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wobvjr/prime_videos_nasa_limited_series_the_challenger/\"> <img src=\"https://external-preview.redd.it/nzE3Q6DWwCSYsB5MRFMTecLkkQ-POBA1YYjKuBkVGmA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ee174eb672330ec08e…",
       "date": "2026-09-23",
@@ -343,13 +350,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wo7fll/juice_to_fly_past_earth_for_third_gravity_assist/\"> <img src=\"https://external-preview.redd.it/l_IbrrGvFsgHOrRqohiy2W3VY-BVcDLv6aUxzMlTSSM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0d66f35cff00ebfab…",
       "date": "2026-09-23",
       "link": "https://www.reddit.com/r/space/comments/1wo7fll/juice_to_fly_past_earth_for_third_gravity_assist/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "The Pale Blue Dot.",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Voyager 1 was speeding out of the solar system — beyond Neptune and about 3.7 billion miles (6 billion kilometers) from the Sun — when mission managers commanded it to look back toward home for a final time.",
-      "date": "2026-09-23",
-      "link": "https://www.reddit.com/r/space/comments/1wo2l42/the_pale_blue_dot/"
     },
     {
       "sourceId": "nga",
