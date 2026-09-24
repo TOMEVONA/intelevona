@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-23T18:09:07.117Z",
+  "updated": "2026-09-24T17:48:03.598Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "True or false on space industry trends with Pacôme Révillon",
+      "summary": "In this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true",
+      "date": "2026-09-24",
+      "link": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production",
+      "summary": "East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B) announced the completion and commissioning of a new ISO Class 8 certified clean room at its Niagara Falls facility. This",
+      "date": "2026-09-24",
+      "link": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
@@ -21,20 +35,6 @@
       "summary": "IRVINE, Calif. and TORINO, Italy – Sept. 17, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries,",
       "date": "2026-09-18",
       "link": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
-      "summary": "PARIS — South Korean company Satrec Initiative is working with parent company Hanwha Aerospace to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical",
-      "date": "2026-09-17",
-      "link": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
-      "summary": "LEUVEN, BELGIUM and BILBAO, SPAIN – 17 September 2026—Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, one of",
-      "date": "2026-09-17",
-      "link": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/"
     },
     {
       "sourceId": "tectonic",
@@ -185,13 +185,6 @@
     },
     {
       "sourceId": "ussf",
-      "title": "DAF leaders, their spouses highlight families’ role in mission success",
-      "summary": "Top leaders of the Air Force and Space Force, joined by their spouses, offered observations into the lives of military families and how that dynamic contributes in real ways to readiness and defense of the nation.",
-      "date": "2026-09-23",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4609367/daf-leaders-their-spouses-highlight-families-role-in-mission-success/"
-    },
-    {
-      "sourceId": "ussf",
       "title": "CMSSF Visits Vandenberg SFB",
       "summary": "Chief Master Sgt. of the Space Force John F. Bentivegna visited Vandenberg Space Force Base Sept. 18, engaging with Guardians, Airmen and civilian personnel across multiple mission areas to reinforce the service's foundational priority to \"Forge the Guardian Ethos.\"<br/> <img…",
       "date": "2026-09-21",
@@ -210,6 +203,27 @@
       "summary": "Following the signing of Executive Order 14184, Tech. Sgt. Kandice Whitt returned to military service after previously being discharged under the COVID-19 vaccination mandate.",
       "date": "2026-09-18",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4605491/after-being-discharged-under-vaccine-mandate-army-soldier-reinstates-and-comple/"
+    },
+    {
+      "sourceId": "ussf",
+      "title": "SPACEFOREUR-AF commander speaks at Space Defense and Security Summit",
+      "summary": "Brig. Gen. Christopher Fernengel, U.S. Space Forces Europe and Space Forces Africa commander addressed European and international defense leaders, industry representatives and partners at the Space Defense and Security Summit.<br/> <img…",
+      "date": "2026-09-18",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4609399/spaceforeur-af-commander-speaks-at-space-defense-and-security-summit/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Idaho Army National Guard Conducts 3 Search, Rescue Missions in 3 Days",
+      "summary": "The Idaho Army National Guard conducted three successful search-and-rescue missions in three days beginning Sept. 16, assisting local search-and-rescue agencies with rescues in remote parts of Ada and Custer counties in Idaho.",
+      "date": "2026-09-24",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4610585/idaho-army-national-guard-conducts-3-search-rescue-missions-in-3-days/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Last Warthog Clears Nellis Air Force Base Runway",
+      "summary": "The last A-10 Thunderbolt II aircraft assigned to Nellis Air Force Base, Nev., made its final departure. The Warthog's impact will not soon be forgotten.",
+      "date": "2026-09-23",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4609504/last-warthog-clears-nellis-air-force-base-runway/"
     },
     {
       "sourceId": "dod",
@@ -233,53 +247,39 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4608847/expo-showcases-innovative-energy-technologies-that-support-warfighters/"
     },
     {
-      "sourceId": "dod",
-      "title": "America's Contingency Corps Trains Against Drone Threat, Prepares for Future Battlefields",
-      "summary": "At Fort Bragg, N.C., Exercise Scarlet Dragon brings soldiers and industry partners together to test emerging technologies in realistic field conditions, helping evaluate which capabilities can integrate across the force, including systems designed to detect, track and defeat…",
-      "date": "2026-09-22",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4608907/americas-contingency-corps-trains-against-drone-threat-prepares-for-future-batt/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "USS Stout Departs Norfolk for Deployment Operations",
-      "summary": "The guided-missile destroyer USS Stout departed Naval Station Norfolk, Va., to begin deployment operations after months of training, maintenance and certification events.",
-      "date": "2026-09-22",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4608460/uss-stout-departs-norfolk-for-deployment-operations/"
+      "sourceId": "viasat",
+      "title": "Eutelsat to Bring LEO Services to Portugal’s MEO Telco",
+      "summary": "Eutelsat has signed a deal with MEO, one of Portugal’s biggest telecoms operators to bring LEO services to customers in Portugal. The two companies announced the deal, Sept. 23. MEO",
+      "date": "2026-09-24",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/24/eutelsat-to-bring-leo-services-to-portugals-meo-telco/"
     },
     {
       "sourceId": "viasat",
-      "title": "Planet Opens New Berlin Manufacturing Facility for Pelican Build-Out",
-      "summary": "Planet officially opened its new Berlin manufacturing facility on Tuesday, marking facility handover and cleanroom fit-out. The 5,700-square-meter facility, announced last year to double Pelican satellite production capacity, is expected",
-      "date": "2026-09-22",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/09/22/planet-opens-new-berlin-manufacturing-facility-for-pelican-build-out/"
+      "title": "SSC Space and Saab Sign MoU to Enhance Sweden’s Space Capabilities",
+      "summary": "SSC Space and Saab are teaming up to explore potential areas of cooperation related to space and Multi-Domain Operations (MDO). These will include the use of Esrange Space Center as",
+      "date": "2026-09-24",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/24/ssc-space-and-saab-sign-mou-to-enhance-swedens-space-capabilities/"
     },
     {
       "sourceId": "viasat",
-      "title": "Estonian Company CybExer to Play Key Role in Testing IRIS² Security",
-      "summary": "CybExer, an Estonian cybersecurity company, is to play a key role in helping keep the EU’s future secure satellite connectivity system, IRIS² secure. It will lead a ten-company European consortium",
-      "date": "2026-09-22",
-      "link": "https://www.satellitetoday.com/cybersecurity/2026/09/22/estonian-company-cybexer-to-play-key-role-in-testing-iris%c2%b2-security/"
+      "title": "U.K. Launches Dedicated Squadron to Protect Space Assets",
+      "summary": "The U.K. Government has made a major new space defense initiative by launching its first ever dedicated squadron to protect its satellites. The No. 3 Space Effects Squadron (SES) will",
+      "date": "2026-09-24",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/24/u-k-launches-dedicated-squadron-to-protect-space-assets/"
     },
     {
       "sourceId": "viasat",
-      "title": "Boeing Taps Lite Coms for Terminals for Australian BLOS Program",
-      "summary": "Boeing Defence Australia selected New York-based Lite Coms to provide tactical satellite terminals for a beyond-line of sight (BLOS) satcom program for the Australian Defence Force (ADF). Under the award",
-      "date": "2026-09-22",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/22/boeing-taps-lite-coms-for-terminals-for-australian-blos-program/"
+      "title": "U.K. Defense Secretary Calls For Investment in Satellites Intelligence Gathering Capabilities",
+      "summary": "(London) U.K. Defense Secretary Wes Streeting said that the U.K. government considers satellites critical to intelligence gathering and missile warnings, and that they now underpin almost a fifth of the",
+      "date": "2026-09-24",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/24/u-k-defense-secretary-calls-for-investment-in-satellites-intelligence-gathering-capabilities/"
     },
     {
       "sourceId": "viasat",
-      "title": "Eutelsat Trials LEO Rail Connectivity in Poland",
-      "summary": "Eutelsat tested OneWeb Low-Earth Orbit (LEO) connectivity in Poland for the first time in a recent demonstration on PKP Intercity’s live rail network with a Kymeta terminal. The Kymeta Kestrel",
-      "date": "2026-09-22",
-      "link": "https://www.satellitetoday.com/mobility/2026/09/22/eutelsat-trials-leo-rail-connectivity-in-poland/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Final ViaSat-3 Satellite Enters Service, Completing High-Capacity Trio",
-      "summary": "The final ViaSat-3 satellite entered service late last week, completing deployment of Viasat’s high-capacity satellite trio. This satellite, ViaSat-3 F2, was actually the second satellite to launch, and it launched",
-      "date": "2026-09-21",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/21/final-viasat-3-satellite-enters-service-completing-high-capacity-trio/"
+      "title": "SES VP David Mathewson Explains MeoSphere Strategy in Thursday Morning Conversation",
+      "summary": "In our latest Thursday Morning Conversation, we talk to SES Vice President of Product Development Engineering David Mathewson about SES’s latest plans around developing satellites, the advantages of having a",
+      "date": "2026-09-23",
+      "link": "https://www.satellitetoday.com/partner-content/2026/09/23/ses-vp-david-mathewson-explains-meosphere-strategy-in-thursday-morning-conversation/"
     },
     {
       "sourceId": "spacecom",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
-      "title": "Who We Are — The European Way to Mars. An initiative of the European chapters of The Mars Society",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wocxmn/who_we_are_the_european_way_to_mars_an_initiative/\"> <img src=\"https://external-preview.redd.it/qRFC_UYgMKUn8x8uPsBzFidx_ufRWrNTjFIsAiYxR2c.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6725422d653926a6d…",
-      "date": "2026-09-23",
-      "link": "https://www.reddit.com/r/space/comments/1wocxmn/who_we_are_the_european_way_to_mars_an_initiative/"
+      "title": "Google Takes the A.I. Data Center Race to Outer Space",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wp6ae7/google_takes_the_ai_data_center_race_to_outer/\"> <img src=\"https://external-preview.redd.it/5F0biMbO8gZA_MXrWcP2IosKlGmtHT7fa0sU5mOtusM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd088454a126d369ffa3…",
+      "date": "2026-09-24",
+      "link": "https://www.reddit.com/r/space/comments/1wp6ae7/google_takes_the_ai_data_center_race_to_outer/"
     },
     {
       "sourceId": "rspace",
-      "title": "Prime Video’s NASA Limited Series ‘The Challenger’ Adds Six To Cast: : William Fichtner (Lucky), Kevin Carroll (Widow’s Bay), Eric Lange (Lucky), Adelaide Clemens (R.J. Decker), Louisa Jacobson (The Gilded Age) and Hunter Burke (Sweet Magnolias)",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wobvjr/prime_videos_nasa_limited_series_the_challenger/\"> <img src=\"https://external-preview.redd.it/nzE3Q6DWwCSYsB5MRFMTecLkkQ-POBA1YYjKuBkVGmA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ee174eb672330ec08e…",
-      "date": "2026-09-23",
-      "link": "https://www.reddit.com/r/space/comments/1wobvjr/prime_videos_nasa_limited_series_the_challenger/"
+      "title": "Venus May Have Devoured Its Moon",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1woxzfm/venus_may_have_devoured_its_moon/\"> <img src=\"https://external-preview.redd.it/YsfbnewwKD5E9qmcwDW1HR0YLIuXQc0N0oHuhhafO7U.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e7bbc7035b2aff0943672c035921775e9…",
+      "date": "2026-09-24",
+      "link": "https://www.reddit.com/r/space/comments/1woxzfm/venus_may_have_devoured_its_moon/"
     },
     {
       "sourceId": "rspace",
-      "title": "Vast Establishes Lunar Programs Division, Applying Haven Flight Heritage to Power, Communications, and Habitats on the Moon",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wob586/vast_establishes_lunar_programs_division_applying/\"> <img src=\"https://external-preview.redd.it/IUEPWvyBEsY6mjEo10Vyvt2u9S2gqNq9HOaAnI19Ico.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=48225612b0a2c3e0…",
+      "title": "SpaceX given unique access to classified DoD space tracking data, sources say",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wojlzf/spacex_given_unique_access_to_classified_dod/\"> <img src=\"https://external-preview.redd.it/uHw2dJNFiTpWbxiOaabIQI5mMxKTZMCZgNtmTrML9a8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f78b6fb4fbe0130ca26e0…",
       "date": "2026-09-23",
-      "link": "https://www.reddit.com/r/space/comments/1wob586/vast_establishes_lunar_programs_division_applying/"
+      "link": "https://www.reddit.com/r/space/comments/1wojlzf/spacex_given_unique_access_to_classified_dod/"
     },
     {
       "sourceId": "rspace",
-      "title": "Time is not running out to visit Sedna",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey folks, I spent a little time exploring the astrodynamics of a Sedna visit using a Starship refueled in orbit, and locating existing studies that have explored the possibilities to visit Sedna as it approaches during its 11.4k year orbit.",
+      "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wojj7z/former_nasa_chief_sounds_alarm_on_chinas_lunar/\"> <img src=\"https://external-preview.redd.it/5ZUKhbh3gQlVubjWIXLiT-lAGB0YkbHM3LnbA_YkqOg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c54518419867a8df54…",
       "date": "2026-09-23",
-      "link": "https://www.reddit.com/r/space/comments/1wo9n8a/time_is_not_running_out_to_visit_sedna/"
+      "link": "https://www.reddit.com/r/space/comments/1wojj7z/former_nasa_chief_sounds_alarm_on_chinas_lunar/"
     },
     {
       "sourceId": "rspace",
-      "title": "Juice to fly past Earth for third gravity assist",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wo7fll/juice_to_fly_past_earth_for_third_gravity_assist/\"> <img src=\"https://external-preview.redd.it/l_IbrrGvFsgHOrRqohiy2W3VY-BVcDLv6aUxzMlTSSM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0d66f35cff00ebfab…",
+      "title": "Would you support a Voyager III mission",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am just curious how many people would support voyager like mission in modern times, that would last longer and go further. Using all that we have learned from Voyager I and II. What would you add to voyager III to make it more meanginful.",
       "date": "2026-09-23",
-      "link": "https://www.reddit.com/r/space/comments/1wo7fll/juice_to_fly_past_earth_for_third_gravity_assist/"
+      "link": "https://www.reddit.com/r/space/comments/1woigps/would_you_support_a_voyager_iii_mission/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
-      "summary": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder.",
-      "date": "2026-09-23",
-      "link": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/"
+      "title": "NASA’s Machines for Mars Make Beer Bubbly",
+      "summary": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
+      "date": "2026-09-24",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/"
     },
     {
       "sourceId": "nasa",
-      "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
-      "summary": "Shannon Lucid’s Record-Setting Mission Aboard Mir Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir.",
-      "date": "2026-09-23",
-      "link": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/"
+      "title": "Practicing for Safe Landings on the Moon and Beyond",
+      "summary": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California.",
+      "date": "2026-09-24",
+      "link": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/"
     },
     {
       "sourceId": "nasa",
-      "title": "FFA 2026 Hyperwall Schedule",
-      "summary": "FFA 2026 Hyperwall Schedule",
-      "date": "2026-09-23",
-      "link": "https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/"
+      "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
+      "summary": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula.",
+      "date": "2026-09-24",
+      "link": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/"
     },
     {
       "sourceId": "nasa",
-      "title": "Risk of Hydrazine Use Following Freeze–Thaw Exposure",
-      "summary": "For more information, contact Jonathan E. Jones, Langley Research Center, jonathan.e.jones@nasa.gov Download the PDF version The purpose of this Technical Bulletin is to communicate the risks associated with freeze–thaw cycles in hydrazine monopropellant systems and to provide…",
-      "date": "2026-09-23",
-      "link": "https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/"
+      "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
+      "summary": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting.",
+      "date": "2026-09-24",
+      "link": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits",
-      "summary": "NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19, marking another new milestone for an observatory that continues to transform our understanding of the universe.",
-      "date": "2026-09-23",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/"
+      "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
+      "summary": "APOD Science APOD APOD: 2026 September 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-09-24",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/"
     }
   ]
 }
