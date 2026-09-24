@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T17:48:03.598Z",
+  "updated": "2026-09-24T18:05:51.026Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
+      "summary": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept.",
+      "date": "2026-09-24",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA’s Machines for Mars Make Beer Bubbly",
       "summary": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
       "date": "2026-09-24",
@@ -448,13 +455,6 @@
       "summary": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting.",
       "date": "2026-09-24",
       "link": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
-      "summary": "APOD Science APOD APOD: 2026 September 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-24",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/"
     }
   ]
 }
