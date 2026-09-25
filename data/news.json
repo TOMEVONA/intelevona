@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:51:23.420Z",
+  "updated": "2026-09-25T18:10:08.150Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,13 +213,6 @@
     },
     {
       "sourceId": "dod",
-      "title": "Idaho Army National Guard Conducts 3 Search, Rescue Missions in 3 Days",
-      "summary": "The Idaho Army National Guard conducted three successful search-and-rescue missions in three days beginning Sept. 16, assisting local search-and-rescue agencies with rescues in remote parts of Ada and Custer counties in Idaho.",
-      "date": "2026-09-24",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4610585/idaho-army-national-guard-conducts-3-search-rescue-missions-in-3-days/"
-    },
-    {
-      "sourceId": "dod",
       "title": "Last Warthog Clears Nellis Air Force Base Runway",
       "summary": "The last A-10 Thunderbolt II aircraft assigned to Nellis Air Force Base, Nev., made its final departure. The Warthog's impact will not soon be forgotten.",
       "date": "2026-09-23",
@@ -245,6 +238,13 @@
       "summary": "The Pentagon showcased more than 100 exhibits during the Energy Sentry - Pentagon: DoW's Energy Innovation Expo, which focused on areas such as multidomain mobility enhancements, installation energy resilience and unmanned systems.",
       "date": "2026-09-22",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4608847/expo-showcases-innovative-energy-technologies-that-support-warfighters/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "America's Contingency Corps Trains Against Drone Threat, Prepares for Future Battlefields",
+      "summary": "At Fort Bragg, N.C., Exercise Scarlet Dragon brings soldiers and industry partners together to test emerging technologies in realistic field conditions, helping evaluate which capabilities can integrate across the force, including systems designed to detect, track and defeat…",
+      "date": "2026-09-22",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4608907/americas-contingency-corps-trains-against-drone-threat-prepares-for-future-batt/"
     },
     {
       "sourceId": "viasat",
