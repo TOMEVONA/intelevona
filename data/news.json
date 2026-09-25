@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T18:05:51.026Z",
+  "updated": "2026-09-25T17:51:23.420Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "DAF to adopt standardized Religious Affiliation Codes: Action required in vMPF",
+      "summary": "Airmen and Guardians must take action to update their RAC in the Virtual Military Personnel Flight and certify their Record of Emergency Data is accurate.<br/>",
+      "date": "2026-09-25",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4611397/daf-to-adopt-standardized-religious-affiliation-codes-action-required-in-vmpf/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "Department of the Air Force pilot program expands to help more military spouses",
       "summary": "Administered by the AFPC and AFCS, the initiative connects active-duty spouses undergoing a permanent change of station with direct hiring opportunities.",
       "date": "2026-09-23",
@@ -203,13 +210,6 @@
       "summary": "Following the signing of Executive Order 14184, Tech. Sgt. Kandice Whitt returned to military service after previously being discharged under the COVID-19 vaccination mandate.",
       "date": "2026-09-18",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4605491/after-being-discharged-under-vaccine-mandate-army-soldier-reinstates-and-comple/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "SPACEFOREUR-AF commander speaks at Space Defense and Security Summit",
-      "summary": "Brig. Gen. Christopher Fernengel, U.S. Space Forces Europe and Space Forces Africa commander addressed European and international defense leaders, industry representatives and partners at the Space Defense and Security Summit.<br/> <img…",
-      "date": "2026-09-18",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4609399/spaceforeur-af-commander-speaks-at-space-defense-and-security-summit/"
     },
     {
       "sourceId": "dod",
@@ -248,38 +248,38 @@
     },
     {
       "sourceId": "viasat",
-      "title": "Eutelsat to Bring LEO Services to Portugal’s MEO Telco",
-      "summary": "Eutelsat has signed a deal with MEO, one of Portugal’s biggest telecoms operators to bring LEO services to customers in Portugal. The two companies announced the deal, Sept. 23. MEO",
-      "date": "2026-09-24",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/24/eutelsat-to-bring-leo-services-to-portugals-meo-telco/"
+      "title": "BlackSky CEO: Sovereign is the No. 1 Market Opportunity Right Now",
+      "summary": "At the Space Defense and Security in Summit (SDSS) in Paris last week, Via Satellite Senior Editorial Director Mark Holmes sat down with BlackSky CEO Brian O’Toole to talk about",
+      "date": "2026-09-25",
+      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/09/25/blacksky-ceo-sovereign-is-the-no-1-market-opportunity-right-now/"
     },
     {
       "sourceId": "viasat",
-      "title": "SSC Space and Saab Sign MoU to Enhance Sweden’s Space Capabilities",
-      "summary": "SSC Space and Saab are teaming up to explore potential areas of cooperation related to space and Multi-Domain Operations (MDO). These will include the use of Esrange Space Center as",
-      "date": "2026-09-24",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/24/ssc-space-and-saab-sign-mou-to-enhance-swedens-space-capabilities/"
+      "title": "Starfish Space’s Debut Otter Vehicle Hitches a Ride on SpaceX’s Transporter-18 Launch",
+      "summary": "Starfish Space will launch its first Otter satellite servicing vehicle next month aboard SpaceX’s Transporter-18 rideshare mission, the company announced Thursday. Starfish Space designed Otter vehicles with a flexible architecture",
+      "date": "2026-09-25",
+      "link": "https://www.satellitetoday.com/sustainability/2026/09/25/starfish-spaces-debut-otter-vehicle-hitches-a-ride-on-spacexs-transporter-18-launch/"
     },
     {
       "sourceId": "viasat",
-      "title": "U.K. Launches Dedicated Squadron to Protect Space Assets",
-      "summary": "The U.K. Government has made a major new space defense initiative by launching its first ever dedicated squadron to protect its satellites. The No. 3 Space Effects Squadron (SES) will",
-      "date": "2026-09-24",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/24/u-k-launches-dedicated-squadron-to-protect-space-assets/"
+      "title": "Vast Launches Lunar Programs Division",
+      "summary": "Vast, a next-generation space infrastructure company is launching a Lunar Programs division in a major strategic move for the company. Vast Lunar Programs will be dedicated to helping advance NASA’s",
+      "date": "2026-09-25",
+      "link": "https://www.satellitetoday.com/space-economy/2026/09/25/vast-launches-lunar-programs-division/"
     },
     {
       "sourceId": "viasat",
-      "title": "U.K. Defense Secretary Calls For Investment in Satellites Intelligence Gathering Capabilities",
-      "summary": "(London) U.K. Defense Secretary Wes Streeting said that the U.K. government considers satellites critical to intelligence gathering and missile warnings, and that they now underpin almost a fifth of the",
-      "date": "2026-09-24",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/24/u-k-defense-secretary-calls-for-investment-in-satellites-intelligence-gathering-capabilities/"
+      "title": "NSSLGlobal Acquires MetOcean Telematics",
+      "summary": "NSSLGlobal is making a new acquisition move in the security arena. The company announced Friday that it is purchasing MetOcean Telematics, a company that provides global security, surveillance and IOT",
+      "date": "2026-09-25",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/25/nsslglobal-acquires-metocean-telematics/"
     },
     {
       "sourceId": "viasat",
-      "title": "SES VP David Mathewson Explains MeoSphere Strategy in Thursday Morning Conversation",
-      "summary": "In our latest Thursday Morning Conversation, we talk to SES Vice President of Product Development Engineering David Mathewson about SES’s latest plans around developing satellites, the advantages of having a",
-      "date": "2026-09-23",
-      "link": "https://www.satellitetoday.com/partner-content/2026/09/23/ses-vp-david-mathewson-explains-meosphere-strategy-in-thursday-morning-conversation/"
+      "title": "Arabsat Reveals Details of 50-Year Anniversary Satellite",
+      "summary": "Arabsat announced Thursday that contracted China Great Wall Industry Corporation (CGWIC) to build and launch a new satellite named ARABSAT-50. The new satellite coincides with the regional operator’s 50th anniversary.",
+      "date": "2026-09-25",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/09/25/arabsat-reveals-details-of-50-year-anniversary-satellite/"
     },
     {
       "sourceId": "spacecom",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
-      "title": "Google Takes the A.I. Data Center Race to Outer Space",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wp6ae7/google_takes_the_ai_data_center_race_to_outer/\"> <img src=\"https://external-preview.redd.it/5F0biMbO8gZA_MXrWcP2IosKlGmtHT7fa0sU5mOtusM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd088454a126d369ffa3…",
-      "date": "2026-09-24",
-      "link": "https://www.reddit.com/r/space/comments/1wp6ae7/google_takes_the_ai_data_center_race_to_outer/"
+      "title": "STORY ARCHITECT to the STARS!",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wpyqg4/story_architect_to_the_stars/\"> <img src=\"https://external-preview.redd.it/dso9BWqbWeEk-6rtInljkVSxFTichvx0B_rI72OscdA.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0e9b2fe037b530367f718b1b3979f1ff5a1e5…",
+      "date": "2026-09-25",
+      "link": "https://www.reddit.com/r/space/comments/1wpyqg4/story_architect_to_the_stars/"
     },
     {
       "sourceId": "rspace",
-      "title": "Venus May Have Devoured Its Moon",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1woxzfm/venus_may_have_devoured_its_moon/\"> <img src=\"https://external-preview.redd.it/YsfbnewwKD5E9qmcwDW1HR0YLIuXQc0N0oHuhhafO7U.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e7bbc7035b2aff0943672c035921775e9…",
-      "date": "2026-09-24",
-      "link": "https://www.reddit.com/r/space/comments/1woxzfm/venus_may_have_devoured_its_moon/"
+      "title": "PBS Spacetime: The Universe May Have Just Revealed the True Nature of Empty Space",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wpx05o/pbs_spacetime_the_universe_may_have_just_revealed/\"> <img src=\"https://external-preview.redd.it/FTqcyh375kk1lIBu_p2R-FCkm6hidYcu52u3CnstHOQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8b1534640ca1bb9f…",
+      "date": "2026-09-25",
+      "link": "https://www.reddit.com/r/space/comments/1wpx05o/pbs_spacetime_the_universe_may_have_just_revealed/"
     },
     {
       "sourceId": "rspace",
-      "title": "SpaceX given unique access to classified DoD space tracking data, sources say",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wojlzf/spacex_given_unique_access_to_classified_dod/\"> <img src=\"https://external-preview.redd.it/uHw2dJNFiTpWbxiOaabIQI5mMxKTZMCZgNtmTrML9a8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f78b6fb4fbe0130ca26e0…",
-      "date": "2026-09-23",
-      "link": "https://www.reddit.com/r/space/comments/1wojlzf/spacex_given_unique_access_to_classified_dod/"
+      "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wpwuq5/nasa_welcomes_côte_divoire_as_newest_artemis/\"> <img src=\"https://external-preview.redd.it/NUGD1Uq4zCNOHqFauifsgxmAZIgB-O5_GbEM6kBGv9M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71577563fe6b8ab716961…",
+      "date": "2026-09-25",
+      "link": "https://www.reddit.com/r/space/comments/1wpwuq5/nasa_welcomes_côte_divoire_as_newest_artemis/"
     },
     {
       "sourceId": "rspace",
-      "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wojj7z/former_nasa_chief_sounds_alarm_on_chinas_lunar/\"> <img src=\"https://external-preview.redd.it/5ZUKhbh3gQlVubjWIXLiT-lAGB0YkbHM3LnbA_YkqOg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c54518419867a8df54…",
-      "date": "2026-09-23",
-      "link": "https://www.reddit.com/r/space/comments/1wojj7z/former_nasa_chief_sounds_alarm_on_chinas_lunar/"
+      "title": "Blue Ghost Mission 2 and LuSEE-Night, on the moon's far side",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wpjcu7/blue_ghost_mission_2_and_luseenight_on_the_moons/\"> <img src=\"https://external-preview.redd.it/-zTD2Zw8zmqKxaeR0Yrfxto9QsHfrVFU8VDNUKB3ewM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=73ff9c927708bda83…",
+      "date": "2026-09-25",
+      "link": "https://www.reddit.com/r/space/comments/1wpjcu7/blue_ghost_mission_2_and_luseenight_on_the_moons/"
     },
     {
       "sourceId": "rspace",
-      "title": "Would you support a Voyager III mission",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am just curious how many people would support voyager like mission in modern times, that would last longer and go further. Using all that we have learned from Voyager I and II. What would you add to voyager III to make it more meanginful.",
-      "date": "2026-09-23",
-      "link": "https://www.reddit.com/r/space/comments/1woigps/would_you_support_a_voyager_iii_mission/"
+      "title": "Questionable space object",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just now, this evening around 8:45ET, I was stargazing. </p> <p>I watched a few aircrafts flying overhead in different directions.",
+      "date": "2026-09-25",
+      "link": "https://www.reddit.com/r/space/comments/1wpiuqg/questionable_space_object/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
-      "summary": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept.",
-      "date": "2026-09-24",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/"
+      "title": "2026-2027 DWU: Middle School Design Challenge",
+      "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in…",
+      "date": "2026-09-25",
+      "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Machines for Mars Make Beer Bubbly",
-      "summary": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
-      "date": "2026-09-24",
-      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/"
+      "title": "2026-2027 DWU: High School Engineering Challenge",
+      "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at…",
+      "date": "2026-09-25",
+      "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/"
     },
     {
       "sourceId": "nasa",
-      "title": "Practicing for Safe Landings on the Moon and Beyond",
-      "summary": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California.",
-      "date": "2026-09-24",
-      "link": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/"
+      "title": "Hubble Spots Chaotic Secret in Galaxy",
+      "summary": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026.",
+      "date": "2026-09-25",
+      "link": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/"
     },
     {
       "sourceId": "nasa",
-      "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
-      "summary": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula.",
-      "date": "2026-09-24",
-      "link": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/"
+      "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
+      "summary": "For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to…",
+      "date": "2026-09-25",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
-      "summary": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting.",
-      "date": "2026-09-24",
-      "link": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/"
+      "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+      "summary": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-09-25",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/"
     }
   ]
 }
