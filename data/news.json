@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T20:03:11.801Z",
+  "updated": "2026-09-28T20:20:27.534Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,13 +213,6 @@
     },
     {
       "sourceId": "dod",
-      "title": "Tropic Lightning Division Tests Communication Capabilities Under Combat Conditions",
-      "summary": "For soldiers assigned to the 2nd Mobile Brigade, 25th Infantry Division, Exercise Nakoa Fleek in Hawaii was where the Army's operational evolution of its command-and-control systems met the friction of a live, tactical fight — providing the opportunity to turn promising…",
-      "date": "2026-09-28",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4612827/tropic-lightning-division-tests-communication-capabilities-under-combat-conditi/"
-    },
-    {
-      "sourceId": "dod",
       "title": "U.S., Indian Army Snipers Train on Long-Range Marksmanship",
       "summary": "U.S. and Indian Army snipers trained together in India during Exercise Yudh Abhyas 2026, engaging targets out to 580 meters with the Indian Army's Sako TRG rifle chambered in the .338 Lapua Magnum cartridge.",
       "date": "2026-09-25",
@@ -245,6 +238,13 @@
       "summary": "A joint Navy-Marine Corps test team executed the first lot acceptance test of sonobuoys from an MV-22B Osprey tiltrotor aircraft off the coast of San Clemente Island, Calif., laying the groundwork for expanded tactical employment across the fleet.",
       "date": "2026-09-23",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4609476/joint-navy-marine-corps-osprey-test-advances-future-fleet-anti-submarine-capabi/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Pentagon Showcases Dozens of Advanced Energy Projects",
+      "summary": "More than 100 exhibits related to energy innovation are on display at the Pentagon, including the Army's Tactical Microgrid Standard, the Navy's system to use microwaves to beam limitless power from space and the Air Force's Modular Energy for Tactical Expeditionary Operations…",
+      "date": "2026-09-22",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4609140/pentagon-showcases-dozens-of-advanced-energy-projects/"
     },
     {
       "sourceId": "viasat",
