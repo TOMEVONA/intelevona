@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-27T18:01:02.378Z",
+  "updated": "2026-09-28T20:03:11.801Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
+      "summary": "ORLANDO, FL — September 28th, 2026 — Space is rapidly becoming a practical business tool for industries far beyond aerospace, as satellite intelligence, resilient connectivity and other space-enabled technologies create",
+      "date": "2026-09-28",
+      "link": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
+      "summary": "DURANGO, Colo., Sept. 28, 2026 – Agile Space Industries today announced that Jason Wright will join the company as President in early October, strengthening Agile’s operational leadership as the company",
+      "date": "2026-09-28",
+      "link": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/"
+    },
     {
       "sourceId": "spacenews",
       "title": "True or false on space industry trends with Pacôme Révillon",
@@ -21,20 +35,6 @@
       "summary": "DENVER, Colorado – September 2026 – Ethereal Space, Inc. today announced that it has been awarded Task Order 1 under NOAA’s ProTech 2.0 Space-Based Environmental Monitoring (SBEM) program, following NOAA’s",
       "date": "2026-09-23",
       "link": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
-      "summary": "September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply",
-      "date": "2026-09-21",
-      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
-      "summary": "IRVINE, Calif. and TORINO, Italy – Sept. 17, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries,",
-      "date": "2026-09-18",
-      "link": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/"
     },
     {
       "sourceId": "tectonic",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Tropic Lightning Division Tests Communication Capabilities Under Combat Conditions",
+      "summary": "For soldiers assigned to the 2nd Mobile Brigade, 25th Infantry Division, Exercise Nakoa Fleek in Hawaii was where the Army's operational evolution of its command-and-control systems met the friction of a live, tactical fight — providing the opportunity to turn promising…",
+      "date": "2026-09-28",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4612827/tropic-lightning-division-tests-communication-capabilities-under-combat-conditi/"
+    },
+    {
+      "sourceId": "dod",
       "title": "U.S., Indian Army Snipers Train on Long-Range Marksmanship",
       "summary": "U.S. and Indian Army snipers trained together in India during Exercise Yudh Abhyas 2026, engaging targets out to 580 meters with the Indian Army's Sako TRG rifle chambered in the .338 Lapua Magnum cartridge.",
       "date": "2026-09-25",
@@ -240,46 +247,39 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4609476/joint-navy-marine-corps-osprey-test-advances-future-fleet-anti-submarine-capabi/"
     },
     {
-      "sourceId": "dod",
-      "title": "Pentagon Showcases Dozens of Advanced Energy Projects",
-      "summary": "More than 100 exhibits related to energy innovation are on display at the Pentagon, including the Army's Tactical Microgrid Standard, the Navy's system to use microwaves to beam limitless power from space and the Air Force's Modular Energy for Tactical Expeditionary Operations…",
-      "date": "2026-09-22",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4609140/pentagon-showcases-dozens-of-advanced-energy-projects/"
+      "sourceId": "viasat",
+      "title": "SpaceX’s Starship Reaches Orbit, Cuts 10-Hour Mission Short After Engine Issue",
+      "summary": "SpaceX successfully launched its massive Starship rocket into orbit for the first time and and deployed 26 V3 Starlink satellites during Monday’s Starship Flight 14 mission. However, the company was",
+      "date": "2026-09-28",
+      "link": "https://www.satellitetoday.com/launch/2026/09/28/spacexs-starship-reaches-orbit-cuts-10-hour-mission-short-after-engine-issue/"
     },
     {
       "sourceId": "viasat",
-      "title": "BlackSky CEO: Sovereign is the No. 1 Market Opportunity Right Now",
-      "summary": "At the Space Defense and Security in Summit (SDSS) in Paris last week, Via Satellite Senior Editorial Director Mark Holmes sat down with BlackSky CEO Brian O’Toole to talk about",
-      "date": "2026-09-25",
-      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/09/25/blacksky-ceo-sovereign-is-the-no-1-market-opportunity-right-now/"
+      "title": "5G is Not a Destination: Adapting to the NTN Landscape with Comtech’s Daniel Gizinski",
+      "summary": "The evolution of satellite being incorporated into 3GPP standards has been one of the key issues in the industry over the last few years, but it comes with important considerations",
+      "date": "2026-09-28",
+      "link": "https://www.satellitetoday.com/partner-content/2026/09/28/5g-is-not-a-destination-adapting-to-the-ntn-landscape-with-comtechs-daniel-gizinski/"
     },
     {
       "sourceId": "viasat",
-      "title": "Starfish Space’s Debut Otter Vehicle Hitches a Ride on SpaceX’s Transporter-18 Launch",
-      "summary": "Starfish Space will launch its first Otter satellite servicing vehicle next month aboard SpaceX’s Transporter-18 rideshare mission, the company announced Thursday. Starfish Space designed Otter vehicles with a flexible architecture",
-      "date": "2026-09-25",
-      "link": "https://www.satellitetoday.com/sustainability/2026/09/25/starfish-spaces-debut-otter-vehicle-hitches-a-ride-on-spacexs-transporter-18-launch/"
+      "title": "Space Norway Appoints New Chair",
+      "summary": "Bjørn Erik Reinseth is the new Chair of Space Norway. He is the CEO of Forskningsparken – Oslo Science Park, and brings extensive leadership experience from the telecommunications, investment, technology",
+      "date": "2026-09-28",
+      "link": "https://www.satellitetoday.com/people/2026/09/28/space-norway-appoints-new-chair/"
     },
     {
       "sourceId": "viasat",
-      "title": "Vast Launches Lunar Programs Division",
-      "summary": "Vast, a next-generation space infrastructure company is launching a Lunar Programs division in a major strategic move for the company. Vast Lunar Programs will be dedicated to helping advance NASA’s",
-      "date": "2026-09-25",
-      "link": "https://www.satellitetoday.com/space-economy/2026/09/25/vast-launches-lunar-programs-division/"
+      "title": "Star Catcher Gets Ready for Protostar Mission on SpaceX Transporter-18",
+      "summary": "Star Catcher Industries (Star Catcher) prototype power node, Protostar, will launch next month on board SpaceX’s Transporter-18 mission. The Protostar mission aims to conduct a landmark power beaming demonstration between",
+      "date": "2026-09-28",
+      "link": "https://www.satellitetoday.com/space-economy/2026/09/28/star-catcher-gets-ready-for-next-protostar-mission-on-spacex-transporter-18/"
     },
     {
       "sourceId": "viasat",
-      "title": "NSSLGlobal Acquires MetOcean Telematics",
-      "summary": "NSSLGlobal is making a new acquisition move in the security arena. The company announced Friday that it is purchasing MetOcean Telematics, a company that provides global security, surveillance and IOT",
-      "date": "2026-09-25",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/25/nsslglobal-acquires-metocean-telematics/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Arabsat Reveals Details of 50-Year Anniversary Satellite",
-      "summary": "Arabsat announced Thursday that contracted China Great Wall Industry Corporation (CGWIC) to build and launch a new satellite named ARABSAT-50. The new satellite coincides with the regional operator’s 50th anniversary.",
-      "date": "2026-09-25",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/09/25/arabsat-reveals-details-of-50-year-anniversary-satellite/"
+      "title": "Kazakhstan Population Gets Access to Starlink Connectivity Through Beeline",
+      "summary": "Satellite mobile connectivity is coming to Kazakhstan thanks to a partnership between Beeline Kazakhstan and Starlink Mobile. The introduction of Starlink Mobile is the result of agreements reached during Kazakhstan’s",
+      "date": "2026-09-28",
+      "link": "https://www.satellitetoday.com/connectivity/2026/09/28/kazakhstan-population-gets-access-to-starlink-connectivity-through-beeline/"
     },
     {
       "sourceId": "spacecom",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
-      "title": "All Space Questions thread for week of September 27, 2026",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please sort comments by &#39;new&#39; to find questions that would otherwise be buried.</p> <p>In this thread you can ask any space related question that you may have.</p> <p>Two examples of potential questions could be; \"How do rockets work?\",…",
-      "date": "2026-09-27",
-      "link": "https://www.reddit.com/r/space/comments/1wrqwwp/all_space_questions_thread_for_week_of_september/"
+      "title": "NASA, for the time being, is unable to move the space station’s large robotic arm | NASA isn’t saying much. The problem may be temporary.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wskxip/nasa_for_the_time_being_is_unable_to_move_the/\"> <img src=\"https://external-preview.redd.it/2ux_e89dWo7TT8mRLsm-DMHlAwEScGir7X0KuwR205A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6e1114410ea41fc8af2…",
+      "date": "2026-09-28",
+      "link": "https://www.reddit.com/r/space/comments/1wskxip/nasa_for_the_time_being_is_unable_to_move_the/"
     },
     {
       "sourceId": "rspace",
-      "title": "[OC] 99% Waxing Gibbous Moon. Taken from Bala, North Wales",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wrozl0/oc_99_waxing_gibbous_moon_taken_from_bala_north/\"> <img src=\"https://preview.redd.it/mn4oh949d3sh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=69ba784541eedf6fefc4ea8310fd5edf9c47d275\" alt=\"[OC] 99%…",
-      "date": "2026-09-27",
-      "link": "https://www.reddit.com/r/space/comments/1wrozl0/oc_99_waxing_gibbous_moon_taken_from_bala_north/"
+      "title": "The Space Review: From the sand to the stars: Saddam Hussein’s failed space program",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vahedemirjian\"> /u/vahedemirjian </a> <br/> <span><a href=\"https://www.thespacereview.com/article/4514/1\">[link]</a></span> &#32; <span><a…",
+      "date": "2026-09-28",
+      "link": "https://www.reddit.com/r/space/comments/1wshw3n/the_space_review_from_the_sand_to_the_stars/"
     },
     {
       "sourceId": "rspace",
-      "title": "Solar eclipse timelapse at Castillo de Zafra, Spain [OC]",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wroknd/solar_eclipse_timelapse_at_castillo_de_zafra/\"> <img src=\"https://preview.redd.it/ju0kf1d9a3sh1.gif?width=640&amp;crop=smart&amp;s=583d9ba687f265cfbb41034d25c5f8303c0e7137\" alt=\"Solar eclipse timelapse at…",
-      "date": "2026-09-27",
-      "link": "https://www.reddit.com/r/space/comments/1wroknd/solar_eclipse_timelapse_at_castillo_de_zafra/"
+      "title": "SpaceX launches Starship into orbit for 1st time — largest rocket ever built notches key milestone on dramatic Flight 14 test",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wsgshk/spacex_launches_starship_into_orbit_for_1st_time/\"> <img src=\"https://external-preview.redd.it/u2DiUqXFXAt28NnjCUKDwrBG8LPHHBGqCZYajkrfzT4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=033f3ce2540e09849…",
+      "date": "2026-09-28",
+      "link": "https://www.reddit.com/r/space/comments/1wsgshk/spacex_launches_starship_into_orbit_for_1st_time/"
     },
     {
       "sourceId": "rspace",
-      "title": "A Spacecraft That Can Refuel with Air? | Interview with Viridian CTO Matthew Feldman",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wrm5ha/a_spacecraft_that_can_refuel_with_air_interview/\"> <img src=\"https://external-preview.redd.it/Zu-NFqsLHS4e7Pk373iSj-YzOjubxH_6t0-4yFxsHUk.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=42927f2de01a3bc51e…",
-      "date": "2026-09-27",
-      "link": "https://www.reddit.com/r/space/comments/1wrm5ha/a_spacecraft_that_can_refuel_with_air_interview/"
+      "title": "Enabling images of distant worlds - The Roman Space Telescope is designed to directly image exoplanets",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wsfkzm/enabling_images_of_distant_worlds_the_roman_space/\"> <img src=\"https://external-preview.redd.it/BpmFSVMrNB1fmUt6vptItv36LblaOGfNEW7NHih-3tE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c5393475f278bcfa…",
+      "date": "2026-09-28",
+      "link": "https://www.reddit.com/r/space/comments/1wsfkzm/enabling_images_of_distant_worlds_the_roman_space/"
     },
     {
       "sourceId": "rspace",
-      "title": "JUICE mission to fly by Earth Monday",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wrjpnu/juice_mission_to_fly_by_earth_monday/\"> <img src=\"https://external-preview.redd.it/8Hf0UMlChnF_VEyvykxi6r2Z1nMiE8BAdhZJdzIE4S0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5776fe9ad8d1179898b63c6ce8c3f…",
-      "date": "2026-09-27",
-      "link": "https://www.reddit.com/r/space/comments/1wrjpnu/juice_mission_to_fly_by_earth_monday/"
+      "title": "Space: SpaceX Starship Flight 14 live updates: Launch countdown underway",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wsd6sg/space_spacex_starship_flight_14_live_updates/\"> <img src=\"https://external-preview.redd.it/mfVQyuWEq4f0eY_WrkAkn8WzF89IOmGv8UgKGc7bifk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a77a0865ecbeb0e6e103a…",
+      "date": "2026-09-28",
+      "link": "https://www.reddit.com/r/space/comments/1wsd6sg/space_spacex_starship_flight_14_live_updates/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
-      "summary": "APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-27",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/"
+      "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
+      "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit.",
+      "date": "2026-09-28",
+      "link": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
-      "summary": "APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-26",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/"
+      "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
+      "summary": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time.",
+      "date": "2026-09-28",
+      "link": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA, Boeing to Provide Update on Starliner Development",
-      "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station.",
-      "date": "2026-09-25",
-      "link": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/"
+      "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
+      "summary": "A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs.",
+      "date": "2026-09-28",
+      "link": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Welcomes San Marino Signing the Artemis Accords",
-      "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.",
-      "date": "2026-09-25",
-      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/"
+      "title": "NASA Celebrates as Artemis Accords Surpasses 75 Signatories",
+      "summary": "Marking a significant expansion in the number of signatories to the Artemis Accords, NASA welcomed Albania, Croatia, Côte d’Ivoire, and San Marino, bringing total participation to 76 countries.",
+      "date": "2026-09-28",
+      "link": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
-      "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm.",
-      "date": "2026-09-25",
-      "link": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/"
+      "title": "Meet NASA’s Artemis II Crew During Houston Public Event",
+      "summary": "Editor’s Note: This advisory was updated on Sept. 28, 2026, with ticketing information for the public. The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission…",
+      "date": "2026-09-28",
+      "link": "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/"
     }
   ]
 }
