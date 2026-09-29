@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T18:31:08.827Z",
+  "updated": "2026-09-29T19:04:07.489Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA Sets Crew-13 Launch, Docking Coverage",
+      "summary": "NASA will provide live coverage of prelaunch, launch, and docking activities for the agency’s SpaceX Crew‑13 mission to the International Space Station. Live coverage will stream through a variety of platforms.",
+      "date": "2026-09-29",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
       "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo.",
       "date": "2026-09-29",
@@ -448,13 +455,6 @@
       "summary": "Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufacturing during future space missions.",
       "date": "2026-09-29",
       "link": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
-      "summary": "APODScienceAPODAPOD: 2026 September 29 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-09-29",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/"
     }
   ]
 }
