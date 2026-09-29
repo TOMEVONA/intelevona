@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-28T20:20:27.534Z",
+  "updated": "2026-09-29T18:31:08.827Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Terran Orbital Names Jamin Brown Chief Operating Officer",
+      "summary": "IRVINE, Calif. – Sept. 29, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced the",
+      "date": "2026-09-29",
+      "link": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
+      "summary": "On September 9, 2026, Evan Hubinger, Anthropic’s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill",
+      "date": "2026-09-29",
+      "link": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
@@ -21,20 +35,6 @@
       "summary": "In this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true",
       "date": "2026-09-24",
       "link": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production",
-      "summary": "East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B) announced the completion and commissioning of a new ISO Class 8 certified clean room at its Niagara Falls facility. This",
-      "date": "2026-09-24",
-      "link": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
-      "summary": "DENVER, Colorado – September 2026 – Ethereal Space, Inc. today announced that it has been awarded Task Order 1 under NOAA’s ProTech 2.0 Space-Based Environmental Monitoring (SBEM) program, following NOAA’s",
-      "date": "2026-09-23",
-      "link": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/"
     },
     {
       "sourceId": "tectonic",
@@ -213,6 +213,20 @@
     },
     {
       "sourceId": "dod",
+      "title": "U.S., Indian Forces Fly, Fight Together in Combined Air Assault",
+      "summary": "U.S. and Indian Army forces executed a combined air assault during Exercise Yudh Abhyas 2026 near Auli, India, seizing two objectives in a mission that integrated soldiers from both nations into the same formations.",
+      "date": "2026-09-28",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4613123/us-indian-forces-fly-fight-together-in-combined-air-assault/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Tropic Lightning Division Tests Communication Capabilities Under Combat Conditions",
+      "summary": "For soldiers assigned to the 2nd Mobile Brigade, 25th Infantry Division, Exercise Nakoa Fleek in Hawaii was where the Army's operational evolution of its command-and-control systems met the friction of a live, tactical fight — providing the opportunity to turn promising…",
+      "date": "2026-09-28",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4612827/tropic-lightning-division-tests-communication-capabilities-under-combat-conditi/"
+    },
+    {
+      "sourceId": "dod",
       "title": "U.S., Indian Army Snipers Train on Long-Range Marksmanship",
       "summary": "U.S. and Indian Army snipers trained together in India during Exercise Yudh Abhyas 2026, engaging targets out to 580 meters with the Indian Army's Sako TRG rifle chambered in the .338 Lapua Magnum cartridge.",
       "date": "2026-09-25",
@@ -231,20 +245,6 @@
       "summary": "The last A-10 Thunderbolt II aircraft assigned to Nellis Air Force Base, Nev., made its final departure. The Warthog's impact will not soon be forgotten.",
       "date": "2026-09-23",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4609504/last-warthog-clears-nellis-air-force-base-runway/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Joint Navy-Marine Corps Osprey Test Advances Future Fleet Anti-Submarine Capability",
-      "summary": "A joint Navy-Marine Corps test team executed the first lot acceptance test of sonobuoys from an MV-22B Osprey tiltrotor aircraft off the coast of San Clemente Island, Calif., laying the groundwork for expanded tactical employment across the fleet.",
-      "date": "2026-09-23",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4609476/joint-navy-marine-corps-osprey-test-advances-future-fleet-anti-submarine-capabi/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Pentagon Showcases Dozens of Advanced Energy Projects",
-      "summary": "More than 100 exhibits related to energy innovation are on display at the Pentagon, including the Army's Tactical Microgrid Standard, the Navy's system to use microwaves to beam limitless power from space and the Air Force's Modular Energy for Tactical Expeditionary Operations…",
-      "date": "2026-09-22",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4609140/pentagon-showcases-dozens-of-advanced-energy-projects/"
     },
     {
       "sourceId": "viasat",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
+      "title": "New Study Finds Astronauts Show Measurable Bone Changes After Just 3-5 Days in Space.",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Express_Classic_1569\"> /u/Express_Classic_1569 </a> <br/> <span><a href=\"https://hive.blog/hive-272687/@worlddigestjrnl/astronauts-show-measurable-bone-changes\">[link]</a></span> &#32; <span><a…",
+      "date": "2026-09-29",
+      "link": "https://www.reddit.com/r/space/comments/1wtd1be/new_study_finds_astronauts_show_measurable_bone/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Rogue black holes could wander the cosmos sharing the histories of their home galaxies",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wt7k9j/rogue_black_holes_could_wander_the_cosmos_sharing/\"> <img src=\"https://external-preview.redd.it/FiLNkrS3DKHLelIbx3TMZnU_SfIdVKBeoMEqSKIdNzI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9fb72638231e45f8d…",
+      "date": "2026-09-29",
+      "link": "https://www.reddit.com/r/space/comments/1wt7k9j/rogue_black_holes_could_wander_the_cosmos_sharing/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "NASA Highlights Lessons Learned From Swift Boost Mission - NASA Science",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wt0wns/nasa_highlights_lessons_learned_from_swift_boost/\"> <img src=\"https://external-preview.redd.it/AoqW1Q_KjDPZhsOgHK69IzKWttSEQUzMqhraCEgymxQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba9352501d0b43dc5…",
+      "date": "2026-09-29",
+      "link": "https://www.reddit.com/r/space/comments/1wt0wns/nasa_highlights_lessons_learned_from_swift_boost/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "NASA plans unpiloted Starliner test flight after astronauts got stuck at space station in 2024",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wsw8p9/nasa_plans_unpiloted_starliner_test_flight_after/\"> <img src=\"https://external-preview.redd.it/Nl4GAhAd7ZBc5lJ1JnAOch1xJTny95ImcoYbMC8bm9A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d357389c70eba868…",
+      "date": "2026-09-29",
+      "link": "https://www.reddit.com/r/space/comments/1wsw8p9/nasa_plans_unpiloted_starliner_test_flight_after/"
+    },
+    {
+      "sourceId": "rspace",
       "title": "NASA, for the time being, is unable to move the space station’s large robotic arm | NASA isn’t saying much. The problem may be temporary.",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wskxip/nasa_for_the_time_being_is_unable_to_move_the/\"> <img src=\"https://external-preview.redd.it/2ux_e89dWo7TT8mRLsm-DMHlAwEScGir7X0KuwR205A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6e1114410ea41fc8af2…",
       "date": "2026-09-28",
       "link": "https://www.reddit.com/r/space/comments/1wskxip/nasa_for_the_time_being_is_unable_to_move_the/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "The Space Review: From the sand to the stars: Saddam Hussein’s failed space program",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vahedemirjian\"> /u/vahedemirjian </a> <br/> <span><a href=\"https://www.thespacereview.com/article/4514/1\">[link]</a></span> &#32; <span><a…",
-      "date": "2026-09-28",
-      "link": "https://www.reddit.com/r/space/comments/1wshw3n/the_space_review_from_the_sand_to_the_stars/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "SpaceX launches Starship into orbit for 1st time — largest rocket ever built notches key milestone on dramatic Flight 14 test",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wsgshk/spacex_launches_starship_into_orbit_for_1st_time/\"> <img src=\"https://external-preview.redd.it/u2DiUqXFXAt28NnjCUKDwrBG8LPHHBGqCZYajkrfzT4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=033f3ce2540e09849…",
-      "date": "2026-09-28",
-      "link": "https://www.reddit.com/r/space/comments/1wsgshk/spacex_launches_starship_into_orbit_for_1st_time/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Enabling images of distant worlds - The Roman Space Telescope is designed to directly image exoplanets",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wsfkzm/enabling_images_of_distant_worlds_the_roman_space/\"> <img src=\"https://external-preview.redd.it/BpmFSVMrNB1fmUt6vptItv36LblaOGfNEW7NHih-3tE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c5393475f278bcfa…",
-      "date": "2026-09-28",
-      "link": "https://www.reddit.com/r/space/comments/1wsfkzm/enabling_images_of_distant_worlds_the_roman_space/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Space: SpaceX Starship Flight 14 live updates: Launch countdown underway",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wsd6sg/space_spacex_starship_flight_14_live_updates/\"> <img src=\"https://external-preview.redd.it/mfVQyuWEq4f0eY_WrkAkn8WzF89IOmGv8UgKGc7bifk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a77a0865ecbeb0e6e103a…",
-      "date": "2026-09-28",
-      "link": "https://www.reddit.com/r/space/comments/1wsd6sg/space_spacex_starship_flight_14_live_updates/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
-      "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit.",
-      "date": "2026-09-28",
-      "link": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/"
+      "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
+      "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo.",
+      "date": "2026-09-29",
+      "link": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
-      "summary": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time.",
-      "date": "2026-09-28",
-      "link": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/"
+      "title": "NASA Opens Applications for Second Season of ORBIT Student Challenge",
+      "summary": "Following a successful inaugural year of ingenuity and career building, NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology) has officially returned for a second season to bring university and college student innovation to the forefront of Earth…",
+      "date": "2026-09-29",
+      "link": "https://www.nasa.gov/learning-resources/research-program-for-students/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
-      "summary": "A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs.",
-      "date": "2026-09-28",
-      "link": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/"
+      "title": "NSTGRO 2026",
+      "summary": "NSTGRO Homepage Omar AlyousefUniversity Of MemphisPolycatenated Architected Materials (PAM) for Origami-Inspired Space Docking Ports Cade ArmstrongUniversity Of Texas at AustinIntelligent Multi-Agent Constellations for Cooperative Cislunar Operations Laurel BarnettHarvard…",
+      "date": "2026-09-29",
+      "link": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Celebrates as Artemis Accords Surpasses 75 Signatories",
-      "summary": "Marking a significant expansion in the number of signatories to the Artemis Accords, NASA welcomed Albania, Croatia, Côte d’Ivoire, and San Marino, bringing total participation to 76 countries.",
-      "date": "2026-09-28",
-      "link": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/"
+      "title": "Under the Microscope: NASA-Made Material for Moon Manufacturing",
+      "summary": "Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufacturing during future space missions.",
+      "date": "2026-09-29",
+      "link": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/"
     },
     {
       "sourceId": "nasa",
-      "title": "Meet NASA’s Artemis II Crew During Houston Public Event",
-      "summary": "Editor’s Note: This advisory was updated on Sept. 28, 2026, with ticketing information for the public. The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission…",
-      "date": "2026-09-28",
-      "link": "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/"
+      "title": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
+      "summary": "APODScienceAPODAPOD: 2026 September 29 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-09-29",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/"
     }
   ]
 }
