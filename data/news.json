@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T18:19:48.072Z",
+  "updated": "2026-09-30T18:45:02.166Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,13 +213,6 @@
     },
     {
       "sourceId": "dod",
-      "title": "'We Want to Hear From You,' Hegseth Tells Troops at Early Morning PT Session",
-      "summary": "About 600 midcareer enlisted service members and officers formed up on the Pentagon's parade field for the chance to do a morning workout with Secretary of War Pete Hegseth.",
-      "date": "2026-09-30",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4615109/we-want-to-hear-from-you-hegseth-tells-troops-at-early-morning-pt-session/"
-    },
-    {
-      "sourceId": "dod",
       "title": "Army Nears Crucial Brain Health Testing Milestone",
       "summary": "About 97% of soldiers have used the Neurocognitive Assessment Tool, helping medical professionals combat the effects of blast overpressure and low-level blast exposure, the Army's top leader overseeing safety and occupational health said.",
       "date": "2026-09-30",
@@ -245,6 +238,13 @@
       "summary": "The Army named five companies as winners of its xTechHumanoid competition, capping an effort to assess how emerging commercial humanoid technologies could contribute to future military operations.",
       "date": "2026-09-29",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4613847/robotics-competition-winners-advance-military-exploration-of-humanoid-capabilit/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "U.S., Indian Forces Fly, Fight Together in Combined Air Assault",
+      "summary": "U.S. and Indian Army forces executed a combined air assault during Exercise Yudh Abhyas 2026 near Auli, India, seizing two objectives in a mission that integrated soldiers from both nations into the same formations.",
+      "date": "2026-09-28",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4613123/us-indian-forces-fly-fight-together-in-combined-air-assault/"
     },
     {
       "sourceId": "viasat",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA, International Partners Advance Work on Space Crops",
+      "summary": "NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon.",
+      "date": "2026-09-30",
+      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "Star Trails",
       "summary": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea on Sept. 20, 2026. Image credit: NASA/Anil Menon",
       "date": "2026-09-30",
@@ -448,13 +455,6 @@
       "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications.",
       "date": "2026-09-29",
       "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
-      "summary": "NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives.",
-      "date": "2026-09-29",
-      "link": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/"
     }
   ]
 }
