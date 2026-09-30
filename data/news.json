@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-29T19:04:07.489Z",
+  "updated": "2026-09-30T18:19:48.072Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+      "summary": "ROME, 30/09/2026 – NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its autonomous onboard precise",
+      "date": "2026-09-30",
+      "link": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+      "summary": "ROCKVILLE, Md. and MERRITT ISLAND, Fla. — September 30, 2026 — Quantum Space, LLC (the “Company” or “Quantum Space”), a company developing the next generation of advanced maneuverable spacecraft for",
+      "date": "2026-09-30",
+      "link": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
+      "summary": "Paris, France | September 2026 — Novaspace’s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satellite service revenues",
+      "date": "2026-09-29",
+      "link": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Terran Orbital Names Jamin Brown Chief Operating Officer",
@@ -14,27 +35,6 @@
       "summary": "On September 9, 2026, Evan Hubinger, Anthropic’s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill",
       "date": "2026-09-29",
       "link": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
-      "summary": "ORLANDO, FL — September 28th, 2026 — Space is rapidly becoming a practical business tool for industries far beyond aerospace, as satellite intelligence, resilient connectivity and other space-enabled technologies create",
-      "date": "2026-09-28",
-      "link": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
-      "summary": "DURANGO, Colo., Sept. 28, 2026 – Agile Space Industries today announced that Jason Wright will join the company as President in early October, strengthening Agile’s operational leadership as the company",
-      "date": "2026-09-28",
-      "link": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "True or false on space industry trends with Pacôme Révillon",
-      "summary": "In this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true",
-      "date": "2026-09-24",
-      "link": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/"
     },
     {
       "sourceId": "tectonic",
@@ -213,38 +213,66 @@
     },
     {
       "sourceId": "dod",
-      "title": "U.S., Indian Forces Fly, Fight Together in Combined Air Assault",
-      "summary": "U.S. and Indian Army forces executed a combined air assault during Exercise Yudh Abhyas 2026 near Auli, India, seizing two objectives in a mission that integrated soldiers from both nations into the same formations.",
-      "date": "2026-09-28",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4613123/us-indian-forces-fly-fight-together-in-combined-air-assault/"
+      "title": "'We Want to Hear From You,' Hegseth Tells Troops at Early Morning PT Session",
+      "summary": "About 600 midcareer enlisted service members and officers formed up on the Pentagon's parade field for the chance to do a morning workout with Secretary of War Pete Hegseth.",
+      "date": "2026-09-30",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4615109/we-want-to-hear-from-you-hegseth-tells-troops-at-early-morning-pt-session/"
     },
     {
       "sourceId": "dod",
-      "title": "Tropic Lightning Division Tests Communication Capabilities Under Combat Conditions",
-      "summary": "For soldiers assigned to the 2nd Mobile Brigade, 25th Infantry Division, Exercise Nakoa Fleek in Hawaii was where the Army's operational evolution of its command-and-control systems met the friction of a live, tactical fight — providing the opportunity to turn promising…",
-      "date": "2026-09-28",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4612827/tropic-lightning-division-tests-communication-capabilities-under-combat-conditi/"
+      "title": "Army Nears Crucial Brain Health Testing Milestone",
+      "summary": "About 97% of soldiers have used the Neurocognitive Assessment Tool, helping medical professionals combat the effects of blast overpressure and low-level blast exposure, the Army's top leader overseeing safety and occupational health said.",
+      "date": "2026-09-30",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4614910/army-nears-crucial-brain-health-testing-milestone/"
     },
     {
       "sourceId": "dod",
-      "title": "U.S., Indian Army Snipers Train on Long-Range Marksmanship",
-      "summary": "U.S. and Indian Army snipers trained together in India during Exercise Yudh Abhyas 2026, engaging targets out to 580 meters with the Indian Army's Sako TRG rifle chambered in the .338 Lapua Magnum cartridge.",
-      "date": "2026-09-25",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4611821/us-indian-army-snipers-train-on-long-range-marksmanship/"
+      "title": "War Department Prepares to Protect Election From Foreign Interference",
+      "summary": "Every seat in the U.S. House of Representatives and a third of U.S. Senate seats, some 470 contests in all, will be decided during the U.S. midterm elections Nov. 3, and the War Department will help ensure foreign actors don't meddle in the voting.",
+      "date": "2026-09-29",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4614290/war-department-prepares-to-protect-election-from-foreign-interference/"
     },
     {
       "sourceId": "dod",
-      "title": "Idaho Army National Guard Conducts 3 Search, Rescue Missions in 3 Days",
-      "summary": "The Idaho Army National Guard conducted three successful search-and-rescue missions in three days beginning Sept. 16, assisting local search-and-rescue agencies with rescues in remote parts of Ada and Custer counties in Idaho.",
-      "date": "2026-09-24",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4610585/idaho-army-national-guard-conducts-3-search-rescue-missions-in-3-days/"
+      "title": "75th Field Artillery Brigade, Singapore Complete Monthlong Exercise",
+      "summary": "Soldiers assigned to the 75th Field Artillery Brigade and the Singapore Armed Forces successfully concluded Exercise Daring Warrior 2026, finishing the bilateral training event with a decisive joint live-fire operation.",
+      "date": "2026-09-29",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4614125/75th-field-artillery-brigade-singapore-complete-monthlong-exercise/"
     },
     {
       "sourceId": "dod",
-      "title": "Last Warthog Clears Nellis Air Force Base Runway",
-      "summary": "The last A-10 Thunderbolt II aircraft assigned to Nellis Air Force Base, Nev., made its final departure. The Warthog's impact will not soon be forgotten.",
-      "date": "2026-09-23",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4609504/last-warthog-clears-nellis-air-force-base-runway/"
+      "title": "Robotics Competition Winners Advance Military Exploration of Humanoid Capabilities",
+      "summary": "The Army named five companies as winners of its xTechHumanoid competition, capping an effort to assess how emerging commercial humanoid technologies could contribute to future military operations.",
+      "date": "2026-09-29",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4613847/robotics-competition-winners-advance-military-exploration-of-humanoid-capabilit/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Astro Digital Takes SPAC Deal to Scale Satellite Manufacturing",
+      "summary": "Satellite manufacturer Astro Digital plans to go public in a special purpose acquisition company (SPAC) merger at a $587 million enterprise value. Astro Digital and blank check company Proem Acquisition",
+      "date": "2026-09-29",
+      "link": "https://www.satellitetoday.com/finance/2026/09/29/astro-digital-takes-spac-deal-to-scale-satellite-manufacturing/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Umbra Promotes Ashley Durmer to Role of COO",
+      "summary": "Umbra has named Ashely Durmer as the company’s new COO to lead the company’s day-to-day operations as the synthetic aperture radar (SAR) and space services company looks to grow. Durmer",
+      "date": "2026-09-29",
+      "link": "https://www.satellitetoday.com/people/2026/09/29/umbra-promotes-ashley-durmer-to-role-of-coo/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Iceye Expands Insurity Partnership for Insurance Data",
+      "summary": "Iceye is expanding its partnership with Insurity, a provider of cloud-based software for insurance carriers, brokers, and MGAs. Insurity will now offer Iceye’s complete natural catastrophe intelligence portfolio directly through",
+      "date": "2026-09-29",
+      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/09/29/iceye-expands-insurity-partnership-for-insurance-data/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "21 Tranche 1, Transport Layer Satellites Delivered to Vandenberg, Northrop Grumman Says",
+      "summary": "Northrop Grumman said on Monday that it has delivered 21 satellites to Vandenberg Space Force Base, Calif., for Tranche 1 of the U.S. Space Force Space Development Agency’s Transport Layer",
+      "date": "2026-09-29",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/29/21-tranche-1-transport-layer-satellites-delivered-to-vandenberg-northrop-grumman-says/"
     },
     {
       "sourceId": "viasat",
@@ -252,34 +280,6 @@
       "summary": "SpaceX successfully launched its massive Starship rocket into orbit for the first time and and deployed 26 V3 Starlink satellites during Monday’s Starship Flight 14 mission. However, the company was",
       "date": "2026-09-28",
       "link": "https://www.satellitetoday.com/launch/2026/09/28/spacexs-starship-reaches-orbit-cuts-10-hour-mission-short-after-engine-issue/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "5G is Not a Destination: Adapting to the NTN Landscape with Comtech’s Daniel Gizinski",
-      "summary": "The evolution of satellite being incorporated into 3GPP standards has been one of the key issues in the industry over the last few years, but it comes with important considerations",
-      "date": "2026-09-28",
-      "link": "https://www.satellitetoday.com/partner-content/2026/09/28/5g-is-not-a-destination-adapting-to-the-ntn-landscape-with-comtechs-daniel-gizinski/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Space Norway Appoints New Chair",
-      "summary": "Bjørn Erik Reinseth is the new Chair of Space Norway. He is the CEO of Forskningsparken – Oslo Science Park, and brings extensive leadership experience from the telecommunications, investment, technology",
-      "date": "2026-09-28",
-      "link": "https://www.satellitetoday.com/people/2026/09/28/space-norway-appoints-new-chair/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Star Catcher Gets Ready for Protostar Mission on SpaceX Transporter-18",
-      "summary": "Star Catcher Industries (Star Catcher) prototype power node, Protostar, will launch next month on board SpaceX’s Transporter-18 mission. The Protostar mission aims to conduct a landmark power beaming demonstration between",
-      "date": "2026-09-28",
-      "link": "https://www.satellitetoday.com/space-economy/2026/09/28/star-catcher-gets-ready-for-next-protostar-mission-on-spacex-transporter-18/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Kazakhstan Population Gets Access to Starlink Connectivity Through Beeline",
-      "summary": "Satellite mobile connectivity is coming to Kazakhstan thanks to a partnership between Beeline Kazakhstan and Starlink Mobile. The introduction of Starlink Mobile is the result of agreements reached during Kazakhstan’s",
-      "date": "2026-09-28",
-      "link": "https://www.satellitetoday.com/connectivity/2026/09/28/kazakhstan-population-gets-access-to-starlink-connectivity-through-beeline/"
     },
     {
       "sourceId": "spacecom",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
-      "title": "New Study Finds Astronauts Show Measurable Bone Changes After Just 3-5 Days in Space.",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Express_Classic_1569\"> /u/Express_Classic_1569 </a> <br/> <span><a href=\"https://hive.blog/hive-272687/@worlddigestjrnl/astronauts-show-measurable-bone-changes\">[link]</a></span> &#32; <span><a…",
-      "date": "2026-09-29",
-      "link": "https://www.reddit.com/r/space/comments/1wtd1be/new_study_finds_astronauts_show_measurable_bone/"
+      "title": "The observation of exoplanet LHS 1140b emitting helium gas, may indicate a \"secondary\" atmosphere, thought to be more stable and long-lived",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wua0xn/the_observation_of_exoplanet_lhs_1140b_emitting/\"> <img src=\"https://external-preview.redd.it/RpggvZ2bRyl4zsFmw3BydmsUBvtxF466UFYxFmGrfkM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9108225b00e43a6e18…",
+      "date": "2026-09-30",
+      "link": "https://www.reddit.com/r/space/comments/1wua0xn/the_observation_of_exoplanet_lhs_1140b_emitting/"
     },
     {
       "sourceId": "rspace",
-      "title": "Rogue black holes could wander the cosmos sharing the histories of their home galaxies",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wt7k9j/rogue_black_holes_could_wander_the_cosmos_sharing/\"> <img src=\"https://external-preview.redd.it/FiLNkrS3DKHLelIbx3TMZnU_SfIdVKBeoMEqSKIdNzI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9fb72638231e45f8d…",
-      "date": "2026-09-29",
-      "link": "https://www.reddit.com/r/space/comments/1wt7k9j/rogue_black_holes_could_wander_the_cosmos_sharing/"
+      "title": "Google attempts to launch satellite and escape data center backlash",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wu7wgc/google_attempts_to_launch_satellite_and_escape/\"> <img src=\"https://external-preview.redd.it/KnNrQi_zdEKQ9M9ECqzyIngFU5KV2TdveRyvd2m2BNI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50c0c2e82d2f9d2760b…",
+      "date": "2026-09-30",
+      "link": "https://www.reddit.com/r/space/comments/1wu7wgc/google_attempts_to_launch_satellite_and_escape/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA Highlights Lessons Learned From Swift Boost Mission - NASA Science",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wt0wns/nasa_highlights_lessons_learned_from_swift_boost/\"> <img src=\"https://external-preview.redd.it/AoqW1Q_KjDPZhsOgHK69IzKWttSEQUzMqhraCEgymxQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba9352501d0b43dc5…",
-      "date": "2026-09-29",
-      "link": "https://www.reddit.com/r/space/comments/1wt0wns/nasa_highlights_lessons_learned_from_swift_boost/"
+      "title": "ESA and China's Smile satellite is cleared to start science, with a catch: its X-ray camera is working very well but picks up too much stray light when pointed towards Earth",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wu7bmc/esa_and_chinas_smile_satellite_is_cleared_to/\"> <img src=\"https://external-preview.redd.it/m3i2Jq-DWdTp9SyHEJb_GWuXQageN3cJNT_za8eNRjk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7fc53668a2f35b9564798…",
+      "date": "2026-09-30",
+      "link": "https://www.reddit.com/r/space/comments/1wu7bmc/esa_and_chinas_smile_satellite_is_cleared_to/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA plans unpiloted Starliner test flight after astronauts got stuck at space station in 2024",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wsw8p9/nasa_plans_unpiloted_starliner_test_flight_after/\"> <img src=\"https://external-preview.redd.it/Nl4GAhAd7ZBc5lJ1JnAOch1xJTny95ImcoYbMC8bm9A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d357389c70eba868…",
-      "date": "2026-09-29",
-      "link": "https://www.reddit.com/r/space/comments/1wsw8p9/nasa_plans_unpiloted_starliner_test_flight_after/"
+      "title": "Perseverance rover update: Exploring ancient Martian terrain at \"Lac de Charmes\"",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wu6zgk/perseverance_rover_update_exploring_ancient/\"> <img src=\"https://external-preview.redd.it/dOALAvkAA3v_GPV_VZJc-K4HbLxxNa4CMUaB6OR-6uY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e4107a2c4591fe7ca5b324…",
+      "date": "2026-09-30",
+      "link": "https://www.reddit.com/r/space/comments/1wu6zgk/perseverance_rover_update_exploring_ancient/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA, for the time being, is unable to move the space station’s large robotic arm | NASA isn’t saying much. The problem may be temporary.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wskxip/nasa_for_the_time_being_is_unable_to_move_the/\"> <img src=\"https://external-preview.redd.it/2ux_e89dWo7TT8mRLsm-DMHlAwEScGir7X0KuwR205A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6e1114410ea41fc8af2…",
-      "date": "2026-09-28",
-      "link": "https://www.reddit.com/r/space/comments/1wskxip/nasa_for_the_time_being_is_unable_to_move_the/"
+      "title": "Microbes could survive on Saturn's moon Enceladus — and scientists think we can find them",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wu6yw3/microbes_could_survive_on_saturns_moon_enceladus/\"> <img src=\"https://external-preview.redd.it/Zh-sCYQB6ur661P362ImHJ074KoNTSbEzWPGxQ3k1hI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=973f6032ebffb46e7…",
+      "date": "2026-09-30",
+      "link": "https://www.reddit.com/r/space/comments/1wu6yw3/microbes_could_survive_on_saturns_moon_enceladus/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Sets Crew-13 Launch, Docking Coverage",
-      "summary": "NASA will provide live coverage of prelaunch, launch, and docking activities for the agency’s SpaceX Crew‑13 mission to the International Space Station. Live coverage will stream through a variety of platforms.",
-      "date": "2026-09-29",
-      "link": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+      "title": "Star Trails",
+      "summary": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea on Sept. 20, 2026. Image credit: NASA/Anil Menon",
+      "date": "2026-09-30",
+      "link": "https://www.nasa.gov/image-article/star-trails/"
     },
     {
       "sourceId": "nasa",
-      "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
-      "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo.",
-      "date": "2026-09-29",
-      "link": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/"
+      "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
+      "summary": "APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-09-30",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Opens Applications for Second Season of ORBIT Student Challenge",
-      "summary": "Following a successful inaugural year of ingenuity and career building, NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology) has officially returned for a second season to bring university and college student innovation to the forefront of Earth…",
-      "date": "2026-09-29",
-      "link": "https://www.nasa.gov/learning-resources/research-program-for-students/"
+      "title": "Powerful Storms Continue to Prowl the Pacific",
+      "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
+      "date": "2026-09-30",
+      "link": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/"
     },
     {
       "sourceId": "nasa",
-      "title": "NSTGRO 2026",
-      "summary": "NSTGRO Homepage Omar AlyousefUniversity Of MemphisPolycatenated Architected Materials (PAM) for Origami-Inspired Space Docking Ports Cade ArmstrongUniversity Of Texas at AustinIntelligent Multi-Agent Constellations for Cooperative Cislunar Operations Laurel BarnettHarvard…",
+      "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+      "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications.",
       "date": "2026-09-29",
-      "link": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/"
+      "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/"
     },
     {
       "sourceId": "nasa",
-      "title": "Under the Microscope: NASA-Made Material for Moon Manufacturing",
-      "summary": "Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufacturing during future space missions.",
+      "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
+      "summary": "NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives.",
       "date": "2026-09-29",
-      "link": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/"
+      "link": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/"
     }
   ]
 }
