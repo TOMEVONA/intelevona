@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T18:44:59.847Z",
+  "updated": "2026-10-01T19:11:36.000Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,13 +213,6 @@
     },
     {
       "sourceId": "dod",
-      "title": "War Department Increases Two Hazard Pays for First Time in Nearly Quarter Century",
-      "summary": "The War Department announced an increase in hostile fire pay and imminent danger pay today for the first time since 2002.",
-      "date": "2026-10-01",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4616621/war-department-increases-two-hazard-pays-for-first-time-in-nearly-quarter-centu/"
-    },
-    {
-      "sourceId": "dod",
       "title": "Hegseth Delivers 'State of the Force' Address, Outlines Series of New Initiatives",
       "summary": "Secretary of War Pete Hegseth delivered a speech on the status of the military, during which he announced six new initiatives for the War Department.",
       "date": "2026-09-30",
@@ -245,6 +238,13 @@
       "summary": "About 97% of soldiers have used the Neurocognitive Assessment Tool, helping medical professionals combat the effects of blast overpressure and low-level blast exposure, the Army's top leader overseeing safety and occupational health said.",
       "date": "2026-09-30",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4614910/army-nears-crucial-brain-health-testing-milestone/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "War Department Prepares to Protect Election From Foreign Interference",
+      "summary": "Every seat in the U.S. House of Representatives and a third of U.S. Senate seats, some 470 contests in all, will be decided during the U.S. midterm elections Nov. 3, and the War Department will help ensure foreign actors don't meddle in the voting.",
+      "date": "2026-09-29",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4614290/war-department-prepares-to-protect-election-from-foreign-interference/"
     },
     {
       "sourceId": "viasat",
