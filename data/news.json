@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T19:11:36.000Z",
+  "updated": "2026-10-02T18:17:19.581Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -178,10 +178,17 @@
     },
     {
       "sourceId": "ussf",
-      "title": "UnderSec sees Ramstein AB Airmen, Guardian readiness firsthand",
+      "title": "AFAS offers childcare assistance to Air Force, Space Force families",
+      "summary": "These targeted childcare relief programs assist families during high-stress periods, relocations, and educational pursuits.<br/> <img src='https://media.defense.gov/2026/Oct/01/2004010060/300/300/0/260611-F-TC518-1120.JPG' alt='U.S.",
+      "date": "2026-10-01",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4617168/afas-offers-childcare-assistance-to-air-force-space-force-families/"
+    },
+    {
+      "sourceId": "ussf",
+      "title": "USecAF sees Ramstein AB Airmen, Guardian readiness firsthand",
       "summary": "The visit provided an opportunity for Lohmeier to meet with command leaders and subject matter experts, who offered insights on current and future missions, challenges and opportunities.",
       "date": "2026-10-01",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4616154/undersec-sees-ramstein-ab-airmen-guardian-readiness-firsthand/"
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4616154/usecaf-sees-ramstein-ab-airmen-guardian-readiness-firsthand/"
     },
     {
       "sourceId": "ussf",
@@ -205,46 +212,60 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4608593/cmssf-visits-vandenberg-sfb/"
     },
     {
-      "sourceId": "ussf",
-      "title": "Guardian Wins Men’s Air Force Marathon Title",
-      "summary": "More than 9,000 runners participated in the 30th annual Air Force Marathon at Wright-Patterson Air Force Base, showcasing physical stamina and mental toughness.<br/> <img src='https://media.defense.gov/2026/Sep/19/2004004418/300/300/0/260919-F-QL361-1957.JPG' alt='A man runs…",
-      "date": "2026-09-19",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4607144/guardian-wins-mens-air-force-marathon-title/"
+      "sourceId": "dod",
+      "title": "Marine Corps Achieves FY26 Recruiting Mission, Secures Strong Start for FY27",
+      "summary": "Marine Corps Recruiting Command exceeded its fiscal year 2026 recruiting mission across every component and category, leading a historic, departmentwide rebound in military enlistments.",
+      "date": "2026-10-02",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4617895/marine-corps-achieves-fy26-recruiting-mission-secures-strong-start-for-fy27/"
     },
     {
       "sourceId": "dod",
-      "title": "Hegseth Delivers 'State of the Force' Address, Outlines Series of New Initiatives",
-      "summary": "Secretary of War Pete Hegseth delivered a speech on the status of the military, during which he announced six new initiatives for the War Department.",
-      "date": "2026-09-30",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4615637/hegseth-delivers-state-of-the-force-address-outlines-series-of-new-initiatives/"
+      "title": "Navy High-Speed Wi-Fi Reaches Milestone for Global Unaccompanied Housing",
+      "summary": "The Navy's initiative to provide free, high-speed Wi-Fi to all Navy unaccompanied housing is 90% complete, with the service now available in 865 of 962 buildings since the rollout began in November 2025.",
+      "date": "2026-10-02",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4617133/navy-high-speed-wi-fi-reaches-milestone-for-global-unaccompanied-housing/"
     },
     {
       "sourceId": "dod",
-      "title": "Government AI Models Advancing, Increasing Productivity",
-      "summary": "The War Department is working with industry partners to deploy the latest and greatest American artificial intelligence models and platforms, officials said today during GenAI.mil Excite Day at the Pentagon.",
-      "date": "2026-09-30",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4615232/government-ai-models-advancing-increasing-productivity/"
+      "title": "Kentucky Guardsmen Sharpen Capabilities Alongside NATO Partners",
+      "summary": "Airmen assigned to the Kentucky Air National Guard enhanced their global capabilities while training alongside NATO partners from the United Kingdom and Canada in Scotland this summer.",
+      "date": "2026-10-01",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4616828/kentucky-guardsmen-sharpen-capabilities-alongside-nato-partners/"
     },
     {
       "sourceId": "dod",
-      "title": "'We Want to Hear From You,' Hegseth Tells Troops at Early Morning PT Session",
-      "summary": "About 600 midcareer enlisted service members and officers formed up on the Pentagon's parade field for the chance to do a morning workout with Secretary of War Pete Hegseth.",
-      "date": "2026-09-30",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4615109/we-want-to-hear-from-you-hegseth-tells-troops-at-early-morning-pt-session/"
+      "title": "Marines to Support NATO Security Initiative in Baltic Sea",
+      "summary": "A specialized team of Marines deployed to Europe will be redirected to the Baltic Sea region to support the NATO-led enhanced vigilance activity Baltic Sentry.",
+      "date": "2026-10-01",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4616721/marines-to-support-nato-security-initiative-in-baltic-sea/"
     },
     {
       "sourceId": "dod",
-      "title": "Army Nears Crucial Brain Health Testing Milestone",
-      "summary": "About 97% of soldiers have used the Neurocognitive Assessment Tool, helping medical professionals combat the effects of blast overpressure and low-level blast exposure, the Army's top leader overseeing safety and occupational health said.",
-      "date": "2026-09-30",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4614910/army-nears-crucial-brain-health-testing-milestone/"
+      "title": "War Department Increases Two Hazard Pays for First Time in Nearly Quarter Century",
+      "summary": "The War Department announced an increase in hostile fire pay and imminent danger pay today for the first time since 2002.",
+      "date": "2026-10-01",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4616621/war-department-increases-two-hazard-pays-for-first-time-in-nearly-quarter-centu/"
     },
     {
-      "sourceId": "dod",
-      "title": "War Department Prepares to Protect Election From Foreign Interference",
-      "summary": "Every seat in the U.S. House of Representatives and a third of U.S. Senate seats, some 470 contests in all, will be decided during the U.S. midterm elections Nov. 3, and the War Department will help ensure foreign actors don't meddle in the voting.",
-      "date": "2026-09-29",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4614290/war-department-prepares-to-protect-election-from-foreign-interference/"
+      "sourceId": "viasat",
+      "title": "The First Mission Milestones Onboard SpaceX’s Transporter-18 Rideshare Launch",
+      "summary": "SpaceX launched 130 payloads on an Oct. 1 dedicated rideshare mission, including milestone first missions for a number of its customers. Transporter-18 is part of an attempt to launch three",
+      "date": "2026-10-01",
+      "link": "https://www.satellitetoday.com/launch/2026/10/01/the-first-mission-milestones-onboard-spacexs-transporter-18-rideshare-launch/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Analysys Mason Acquires AI and ML Consultancy Modulai",
+      "summary": "Consulting firm Analysys Mason has acquired Swedish AI and ML consultancy Modulai in a move to add specialist technical AI, ML and agentic solutions capabilities to its business. Financial terms",
+      "date": "2026-10-01",
+      "link": "https://www.satellitetoday.com/finance/2026/10/01/analysys-mason-acquires-ai-and-ml-consultancy-modulai/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Iceye Moves into Satcom With Nokia Partnership",
+      "summary": "Iceye, the Finnish space company known for building synthetic aperture radar (SAR) satellites is venturing into communication satellites — planning to build sovereign satcom satellites for governments through a new partnership",
+      "date": "2026-10-01",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/01/iceye-moves-into-satcom-with-nokia-partnership/"
     },
     {
       "sourceId": "viasat",
@@ -259,27 +280,6 @@
       "summary": "The Trusted Computing Group (TCG) has created a new Aerospace and Non-Terrestrial Systems Solutions Working Group (AERO-SWG) as it looks to play a key role in keeping satellite systems secure.",
       "date": "2026-09-30",
       "link": "https://www.satellitetoday.com/technology/2026/09/30/trusted-computing-group-creates-key-new-working-group-focusing-on-aerospace-security/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Meridian Space to Separate SpinLaunch Business Ahead of First Satellite Launch",
-      "summary": "Meridian Space is separating SpinLaunch into an independent company, while Meridian will maintain its focus on its broadband constellation plans. This comes as Meridian will launch its first satellite to test",
-      "date": "2026-09-30",
-      "link": "https://www.satellitetoday.com/finance/2026/09/30/meridian-space-to-separate-spinlaunch-business-ahead-of-first-satellite-launch/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "FCC Continues Deregulation Push with Environmental Regulations and More Spectrum",
-      "summary": "The FCC continued its push to deregulate and open up new spectrum with two major decisions on Wednesday — exempting space activities from certain federal environmental regulations and opening up",
-      "date": "2026-09-30",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/30/fcc-continues-deregulation-push-with-environmental-regulations-and-more-spectrum/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Astro Digital Takes SPAC Deal to Scale Satellite Manufacturing",
-      "summary": "Satellite manufacturer Astro Digital plans to go public in a special purpose acquisition company (SPAC) merger at a $587 million enterprise value. Astro Digital and blank check company Proem Acquisition",
-      "date": "2026-09-29",
-      "link": "https://www.satellitetoday.com/finance/2026/09/29/astro-digital-takes-spac-deal-to-scale-satellite-manufacturing/"
     },
     {
       "sourceId": "spacecom",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
-      "title": "Liftoff! NASA’s SpaceX Crew-13 Begins Journey to International Space Station",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wv5hy8/liftoff_nasas_spacex_crew13_begins_journey_to/\"> <img src=\"https://external-preview.redd.it/hFgUStYKuoAIFuPqxJW6wu78q6LCA6idTkjjUK9PHFE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6fedb08243e5d8658b10f…",
-      "date": "2026-10-01",
-      "link": "https://www.reddit.com/r/space/comments/1wv5hy8/liftoff_nasas_spacex_crew13_begins_journey_to/"
+      "title": "Big supernova dataset provides more evidence that dark energy may not be constant but instead be changing over time",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1ww037j/big_supernova_dataset_provides_more_evidence_that/\"> <img src=\"https://external-preview.redd.it/PG8WIFMU7vR1SCEXMAxPQWfUEl8mZ0TdITE4XGnc8vo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14f49ef5a6563671…",
+      "date": "2026-10-02",
+      "link": "https://www.reddit.com/r/space/comments/1ww037j/big_supernova_dataset_provides_more_evidence_that/"
     },
     {
       "sourceId": "rspace",
-      "title": "Norwegian Government Proposes Paying for Second Andøya Launch Pad",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wv4fss/norwegian_government_proposes_paying_for_second/\"> <img src=\"https://external-preview.redd.it/bwEYI3Gd9JE_Gk1Nht_pJSdC8BZ8PlWZbKnEsxDSfvM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=859bbf538e5d5ead78…",
-      "date": "2026-10-01",
-      "link": "https://www.reddit.com/r/space/comments/1wv4fss/norwegian_government_proposes_paying_for_second/"
+      "title": "Astronomers discover the lowest-mass double neutron star system to date",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wvzp0j/astronomers_discover_the_lowestmass_double/\"> <img src=\"https://external-preview.redd.it/j7laUxgFIIxz71Ejw8YKK_y7gX2qKhVCafNLXlwN-mY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b4319348036b2e15c06268…",
+      "date": "2026-10-02",
+      "link": "https://www.reddit.com/r/space/comments/1wvzp0j/astronomers_discover_the_lowestmass_double/"
     },
     {
       "sourceId": "rspace",
-      "title": "Crew dragon launch to iis docking times",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><table><thead> <tr> <th align=\"left\">Mission</th> <th align=\"left\">Launch → ISS docking</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>Crew-1</strong></td> <td align=\"left\">~27 hours</td> </tr> <tr> <td…",
-      "date": "2026-10-01",
-      "link": "https://www.reddit.com/r/space/comments/1wv2vkf/crew_dragon_launch_to_iis_docking_times/"
+      "title": "Whatever Trump claims, weaponisation of space makes losers of us all",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wvz5ek/whatever_trump_claims_weaponisation_of_space/\"> <img src=\"https://external-preview.redd.it/k6sv2YzSmCLcu3sf5TOo-DwJxD5v74bP0P_UoLWfVpU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c301e1093e5acbce0a59…",
+      "date": "2026-10-02",
+      "link": "https://www.reddit.com/r/space/comments/1wvz5ek/whatever_trump_claims_weaponisation_of_space/"
     },
     {
       "sourceId": "rspace",
-      "title": "(M22 UK) Getting into the space industry",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I’m 22, turning 23 soon, and dream is to try and work within the space industry. Currently I am a Software Engineer at a fintech where I have worked for a year, joining after graduating university with a CompSci degree.",
-      "date": "2026-10-01",
-      "link": "https://www.reddit.com/r/space/comments/1wv1kyf/m22_uk_getting_into_the_space_industry/"
+      "title": "Is An SR-71 Blackbird Returning to Flight 27 Years Later?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wvtcjv/is_an_sr71_blackbird_returning_to_flight_27_years/\"> <img src=\"https://external-preview.redd.it/Zoux7X6mgOpJdNo8nc2YHTD1kafi4yNAQ3fb7v8KjQc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=47b168eeecf47449…",
+      "date": "2026-10-02",
+      "link": "https://www.reddit.com/r/space/comments/1wvtcjv/is_an_sr71_blackbird_returning_to_flight_27_years/"
     },
     {
       "sourceId": "rspace",
-      "title": "Blood tests reveal why astronauts get constipated in space",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wuzn6f/blood_tests_reveal_why_astronauts_get_constipated/\"> <img src=\"https://external-preview.redd.it/g-BNykRCGPSEhcJlUNCR26ftGtIMhAcqxg3TDjEEdkY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=228f822a4c23cb90…",
-      "date": "2026-10-01",
-      "link": "https://www.reddit.com/r/space/comments/1wuzn6f/blood_tests_reveal_why_astronauts_get_constipated/"
+      "title": "‘An amazing ride’: SpaceX flight led by first Black female commander sets US speed record | Four astronauts pulled up at International Space Station after eight-hour express flight led by Jessica Watkins",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wvroml/an_amazing_ride_spacex_flight_led_by_first_black/\"> <img src=\"https://external-preview.redd.it/u8iXyOuhfXKc0_gqwe2RpmgLEh1jLD721XJ7_X0tVBI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb5285ebbda168b8c…",
+      "date": "2026-10-02",
+      "link": "https://www.reddit.com/r/space/comments/1wvroml/an_amazing_ride_spacex_flight_led_by_first_black/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s SpaceX Crew-13 Launches",
-      "summary": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida.",
-      "date": "2026-10-01",
-      "link": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/"
+      "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
+      "summary": "Lee esta nota de prensa en inglés aquí. La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro Espacial Johnson de la agencia, en Houston.",
+      "date": "2026-10-02",
+      "link": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/"
     },
     {
       "sourceId": "nasa",
-      "title": "What’s Up: October 2026 Skywatching Tips from NASA",
-      "summary": "A Meteor Shower and the Moon Near the Pleiades See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the Pleiades, also known as the Seven Sisters.",
-      "date": "2026-10-01",
-      "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/"
+      "title": "NASA Campaign Explores Clouds Spawned by Wildfires",
+      "summary": "The Wildhorse grass fire in eastern Idaho erupted with a massive pulse of smoke. No one had expected it, but the wildfire had launched what’s known as a pyrocumulonimbus cloud, or pyroCb.",
+      "date": "2026-10-02",
+      "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s SpaceX Crew-13 Launches to International Space Station",
-      "summary": "Four crew members of NASA’s SpaceX Crew-13 mission launched at 11:10 a.m. EDT Thursday from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for a science expedition aboard the International Space Station.",
-      "date": "2026-10-01",
-      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/"
+      "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
+      "summary": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.",
+      "date": "2026-10-02",
+      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
-      "summary": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space.",
-      "date": "2026-10-01",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/"
+      "title": "NASA Opens Applications for Next Class of Flight Directors",
+      "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston.",
+      "date": "2026-10-02",
+      "link": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
-      "summary": "APOD Science APOD APOD: 2026 October 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-01",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/"
+      "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
+      "summary": "What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore!",
+      "date": "2026-10-02",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/"
     }
   ]
 }
