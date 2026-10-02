@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T18:17:19.581Z",
+  "updated": "2026-10-02T18:52:47.880Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,13 +213,6 @@
     },
     {
       "sourceId": "dod",
-      "title": "Marine Corps Achieves FY26 Recruiting Mission, Secures Strong Start for FY27",
-      "summary": "Marine Corps Recruiting Command exceeded its fiscal year 2026 recruiting mission across every component and category, leading a historic, departmentwide rebound in military enlistments.",
-      "date": "2026-10-02",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4617895/marine-corps-achieves-fy26-recruiting-mission-secures-strong-start-for-fy27/"
-    },
-    {
-      "sourceId": "dod",
       "title": "Navy High-Speed Wi-Fi Reaches Milestone for Global Unaccompanied Housing",
       "summary": "The Navy's initiative to provide free, high-speed Wi-Fi to all Navy unaccompanied housing is 90% complete, with the service now available in 865 of 962 buildings since the rollout began in November 2025.",
       "date": "2026-10-02",
@@ -247,39 +240,46 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4616621/war-department-increases-two-hazard-pays-for-first-time-in-nearly-quarter-centu/"
     },
     {
-      "sourceId": "viasat",
-      "title": "The First Mission Milestones Onboard SpaceX’s Transporter-18 Rideshare Launch",
-      "summary": "SpaceX launched 130 payloads on an Oct. 1 dedicated rideshare mission, including milestone first missions for a number of its customers. Transporter-18 is part of an attempt to launch three",
-      "date": "2026-10-01",
-      "link": "https://www.satellitetoday.com/launch/2026/10/01/the-first-mission-milestones-onboard-spacexs-transporter-18-rideshare-launch/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Analysys Mason Acquires AI and ML Consultancy Modulai",
-      "summary": "Consulting firm Analysys Mason has acquired Swedish AI and ML consultancy Modulai in a move to add specialist technical AI, ML and agentic solutions capabilities to its business. Financial terms",
-      "date": "2026-10-01",
-      "link": "https://www.satellitetoday.com/finance/2026/10/01/analysys-mason-acquires-ai-and-ml-consultancy-modulai/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Iceye Moves into Satcom With Nokia Partnership",
-      "summary": "Iceye, the Finnish space company known for building synthetic aperture radar (SAR) satellites is venturing into communication satellites — planning to build sovereign satcom satellites for governments through a new partnership",
-      "date": "2026-10-01",
-      "link": "https://www.satellitetoday.com/connectivity/2026/10/01/iceye-moves-into-satcom-with-nokia-partnership/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Miller Tapped to Head SPACECOM, Oversee Move To Huntsville",
-      "summary": "The White House on Tuesday nominated U.S. Space Force Lt. Gen. David Miller for his fourth star as the head of U.S. Space Command (SPACECOM). Miller would replace Gen. Stephen",
+      "sourceId": "dod",
+      "title": "Hegseth Delivers 'State of the Force' Address, Outlines Series of New Initiatives",
+      "summary": "Secretary of War Pete Hegseth delivered a speech on the status of the military, during which he announced six new initiatives for the War Department.",
       "date": "2026-09-30",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/30/miller-tapped-to-head-spacecom-oversee-move-to-huntsville/"
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4615637/hegseth-delivers-state-of-the-force-address-outlines-series-of-new-initiatives/"
     },
     {
       "sourceId": "viasat",
-      "title": "Trusted Computing Group Creates Key New Working Group Focusing on Aerospace Security",
-      "summary": "The Trusted Computing Group (TCG) has created a new Aerospace and Non-Terrestrial Systems Solutions Working Group (AERO-SWG) as it looks to play a key role in keeping satellite systems secure.",
-      "date": "2026-09-30",
-      "link": "https://www.satellitetoday.com/technology/2026/09/30/trusted-computing-group-creates-key-new-working-group-focusing-on-aerospace-security/"
+      "title": "NorthStar Earth & Space Goes Public After SPAC Merger",
+      "summary": "Canadian space domain awareness (SDA) company NorthStar Earth & Space began trading on the New York Stock Exchange on Friday morning after completing a SPAC merger this week. NorthStar completed",
+      "date": "2026-10-02",
+      "link": "https://www.satellitetoday.com/finance/2026/10/02/northstar-earth-space-goes-public-after-spac-merger/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Satlyt Secures $8M in Seed Financing",
+      "summary": "Satlyt has been boosted by securing $8 million in seed financing led by non sibi ventures. The funding will accelerate development of its virtual Al data centers in space, expand",
+      "date": "2026-10-02",
+      "link": "https://www.satellitetoday.com/finance/2026/10/02/satlyt-secures-8m-in-seed-financing/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Verizon, AT&T and T-Mobile Formally Establish Joint Venture for D2D Services",
+      "summary": "AT&T, T-Mobile, and Verizon formally established the joint venture focused on direct-to-device services the telcos first announced in May of this year. Wireless industry exec Paul Roth will serve as",
+      "date": "2026-10-02",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/02/verizon-att-and-t-mobile-formally-establish-joint-venture-for-d2d-services/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Airbus Completes 32 OneWeb Refresh Satellites Ahead of Launch",
+      "summary": "Eutelsat hit a milestone for its OneWeb refresh plan as Airbus Defence and Space completed the first 32 satellites in the refresh for launch. The satellites are set to be",
+      "date": "2026-10-02",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/10/02/airbus-completes-32-oneweb-refresh-satellites-ahead-of-launch/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "From Mile High to Outer Space: Denver Broncos CCO Details Team’s Partnership With MDA Space",
+      "summary": "For those who follow the National Football League (NFL), it has often been described as a copycat league. In other words, one team does something new, and a number of",
+      "date": "2026-10-02",
+      "link": "https://www.satellitetoday.com/space-economy/2026/10/02/from-mile-high-to-outer-space-denver-broncos-cco-details-teams-partnership-with-mda-space/"
     },
     {
       "sourceId": "spacecom",
@@ -318,13 +318,6 @@
     },
     {
       "sourceId": "rspace",
-      "title": "Big supernova dataset provides more evidence that dark energy may not be constant but instead be changing over time",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1ww037j/big_supernova_dataset_provides_more_evidence_that/\"> <img src=\"https://external-preview.redd.it/PG8WIFMU7vR1SCEXMAxPQWfUEl8mZ0TdITE4XGnc8vo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14f49ef5a6563671…",
-      "date": "2026-10-02",
-      "link": "https://www.reddit.com/r/space/comments/1ww037j/big_supernova_dataset_provides_more_evidence_that/"
-    },
-    {
-      "sourceId": "rspace",
       "title": "Astronomers discover the lowest-mass double neutron star system to date",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wvzp0j/astronomers_discover_the_lowestmass_double/\"> <img src=\"https://external-preview.redd.it/j7laUxgFIIxz71Ejw8YKK_y7gX2qKhVCafNLXlwN-mY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b4319348036b2e15c06268…",
       "date": "2026-10-02",
@@ -350,6 +343,13 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wvroml/an_amazing_ride_spacex_flight_led_by_first_black/\"> <img src=\"https://external-preview.redd.it/u8iXyOuhfXKc0_gqwe2RpmgLEh1jLD721XJ7_X0tVBI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb5285ebbda168b8c…",
       "date": "2026-10-02",
       "link": "https://www.reddit.com/r/space/comments/1wvroml/an_amazing_ride_spacex_flight_led_by_first_black/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "The Best Dwarf Planet Candidate - Hygiea",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hygiea is in my personal opinion one of the best dwarf planet candidates, and if you don’t know what it is I thought to share some info!</p> <p>-Hygiea is the 4th largest object in the asteroid, and mostly composed of Carbonaceous Material and…",
+      "date": "2026-10-02",
+      "link": "https://www.reddit.com/r/space/comments/1wvlbz6/the_best_dwarf_planet_candidate_hygiea/"
     },
     {
       "sourceId": "nga",
@@ -430,13 +430,6 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Campaign Explores Clouds Spawned by Wildfires",
-      "summary": "The Wildhorse grass fire in eastern Idaho erupted with a massive pulse of smoke. No one had expected it, but the wildfire had launched what’s known as a pyrocumulonimbus cloud, or pyroCb.",
-      "date": "2026-10-02",
-      "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/"
-    },
-    {
-      "sourceId": "nasa",
       "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
       "summary": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.",
       "date": "2026-10-02",
@@ -455,6 +448,13 @@
       "summary": "What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore!",
       "date": "2026-10-02",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Rains Swamp the Gandak River",
+      "summary": "After days of torrential rain, the river rose to record-breaking levels in parts of Nepal and India.",
+      "date": "2026-10-02",
+      "link": "https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/"
     }
   ]
 }
