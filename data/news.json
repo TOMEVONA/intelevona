@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T17:07:20.339Z",
+  "updated": "2026-10-03T17:42:54.021Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Hegseth Speaks to Cadets Ahead of Air Force, Navy Football Game",
+      "summary": "Secretary of War Pete Hegseth traveled to the U.S. Air Force Academy near Colorado Springs, Colo., where he addressed roughly 3,500 members of the school's cadet wing ahead of the annual Air Force vs. Naval Academy collegiate football game.",
+      "date": "2026-10-03",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4618565/hegseth-speaks-to-cadets-ahead-of-air-force-navy-football-game/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Between Jumps: The Work Behind a 2-Hour Airborne Mission",
       "summary": "In less than two hours of flight time, an Alaska Air National Guard crew supported active-duty Army and Air National Guard parachutists at three altitudes, deployed free-fall parabundles and practiced visual and instrument landing system approaches.",
       "date": "2026-10-02",
@@ -238,13 +245,6 @@
       "summary": "Airmen assigned to the Kentucky Air National Guard enhanced their global capabilities while training alongside NATO partners from the United Kingdom and Canada in Scotland this summer.",
       "date": "2026-10-01",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4616828/kentucky-guardsmen-sharpen-capabilities-alongside-nato-partners/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Marines to Support NATO Security Initiative in Baltic Sea",
-      "summary": "A specialized team of Marines deployed to Europe will be redirected to the Baltic Sea region to support the NATO-led enhanced vigilance activity Baltic Sentry.",
-      "date": "2026-10-01",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4616721/marines-to-support-nato-security-initiative-in-baltic-sea/"
     },
     {
       "sourceId": "viasat",
@@ -318,10 +318,10 @@
     },
     {
       "sourceId": "rspace",
-      "title": "University of Houston is wearing 10 hand-painted helmets on Saturday, one for each planet plus the Sun and Pluto",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Notaballer25\"> /u/Notaballer25 </a> <br/> <span><a href=\"https://x.com/UHCougarFB/status/2106186354627629185?s=20\">[link]</a></span> &#32; <span><a…",
+      "title": "How to work closely with astronauts?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>As the title states, what are the jobs that directly puts you into contact with the astronauts located in the ISS (or in the future other space stations), or the astronaut&#39;s daily activities?</p> <p>For a long time I…",
       "date": "2026-10-03",
-      "link": "https://www.reddit.com/r/space/comments/1wwq778/university_of_houston_is_wearing_10_handpainted/"
+      "link": "https://www.reddit.com/r/space/comments/1wwsi47/how_to_work_closely_with_astronauts/"
     },
     {
       "sourceId": "rspace",
