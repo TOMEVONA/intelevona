@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-04T17:57:11.744Z",
+  "updated": "2026-10-05T21:11:42.923Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Resource competition intensifies with surge in megaconstellations",
+      "summary": "Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering",
+      "date": "2026-10-05",
+      "link": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
+      "summary": "DURANGO, Colo., Oct. 5, 2026 — Agile Space Industries today announced that Jonathan Baliff has joined its Board of Directors, bringing extensive experience in aerospace, finance, and corporate leadership. His",
+      "date": "2026-10-05",
+      "link": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/"
+    },
     {
       "sourceId": "spacenews",
       "title": "World Space Week 2026 Celebrates the “Rocket Revolution”",
@@ -21,20 +35,6 @@
       "summary": "Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone",
       "date": "2026-10-01",
       "link": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
-      "summary": "HELSINKI — China completed its ninth and tenth launches of September, sending Guowang and Yaogan satellites into orbit, ahead of an intense finish to the year. A Long March 8A",
-      "date": "2026-10-01",
-      "link": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
-      "summary": "Galileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can",
-      "date": "2026-10-01",
-      "link": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/"
     },
     {
       "sourceId": "tectonic",
@@ -192,6 +192,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "Partner to Win: Space Forces Japan integrates Regional Space Advisors to deepen Japanese partnership",
+      "summary": "U.S. Space Forces-Japan is pioneering a collaborative approach to international cooperation in the space domain by integrating specialized Regional Space Advisors into its daily operations.<br/> <img…",
+      "date": "2026-09-28",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4619061/partner-to-win-space-forces-japan-integrates-regional-space-advisors-to-deepen/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "DAF to adopt standardized Religious Affiliation Codes: Action required in vMPF",
       "summary": "Airmen and Guardians must take action to update their RAC in the Virtual Military Personnel Flight and certify their Record of Emergency Data is accurate.<br/> <img src='https://media.defense.gov/2026/Aug/21/2004007260/300/300/0/260819-F-AH757-1001.JPG' alt='A chaplain assigned…",
       "date": "2026-09-25",
@@ -205,11 +212,11 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4609375/department-of-the-air-force-pilot-program-expands-to-help-more-military-spouses/"
     },
     {
-      "sourceId": "ussf",
-      "title": "CMSSF Visits Vandenberg SFB",
-      "summary": "Chief Master Sgt. of the Space Force John F. Bentivegna visited Vandenberg Space Force Base Sept. 18, engaging with Guardians, Airmen and civilian personnel across multiple mission areas to reinforce the service's foundational priority to \"Forge the Guardian Ethos.\"<br/> <img…",
-      "date": "2026-09-21",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4608593/cmssf-visits-vandenberg-sfb/"
+      "sourceId": "dod",
+      "title": "Navy Commissions USS Ted Stevens, Honoring Senator's Defense Advocacy",
+      "summary": "The Navy commissioned its newest destroyer, the USS Ted Stevens, into active service during a formal ceremony in Whittier, Alaska.",
+      "date": "2026-10-05",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4619111/navy-commissions-uss-ted-stevens-honoring-senators-defense-advocacy/"
     },
     {
       "sourceId": "dod",
@@ -240,11 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4617133/navy-high-speed-wi-fi-reaches-milestone-for-global-unaccompanied-housing/"
     },
     {
-      "sourceId": "dod",
-      "title": "Kentucky Guardsmen Sharpen Capabilities Alongside NATO Partners",
-      "summary": "Airmen assigned to the Kentucky Air National Guard enhanced their global capabilities while training alongside NATO partners from the United Kingdom and Canada in Scotland this summer.",
-      "date": "2026-10-01",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4616828/kentucky-guardsmen-sharpen-capabilities-alongside-nato-partners/"
+      "sourceId": "viasat",
+      "title": "Open Cosmos Targets 192 Satellites for ConnectedCosmos LEO Constellation",
+      "summary": "Open Cosmos’ is targeting 192 satellites for its ConnectedCosmos Low-Earth Orbit (LEO). The company is building toward more than 96 satellites in orbit by the end of 2028, putting it",
+      "date": "2026-10-05",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/05/open-cosmos-targets-192-satellites-for-connectedcosmos-leo-constellation/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Kratos Reports More Than $100M in Contracts for Space Intelligence Data",
+      "summary": "Kratos Defense & Security Solutions has received multiple contracts worth more than $100 million combined for space and cyber capabilities to provide space intelligence data. Kratos’ work under these contracts",
+      "date": "2026-10-05",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/05/kratos-reports-more-than-100m-in-contracts-for-space-intelligence-data/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "York to Integrate Space Force Tetra 3 and 4 Missions on GEO Spacecraft",
+      "summary": "York Space Systems will integrate a government space domain awareness (SDA) into a spacecraft headed to Geostationary Orbit (GEO), marking the first time the company has integrated a satellite for",
+      "date": "2026-10-05",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/05/york-to-integrate-space-force-tetra-3-and-4-missions-on-geo-spacecraft/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Rocket Factory Augsburg Appoints Alexander Dahm as New CEO",
+      "summary": "German launcher in development Rocket Factory Augsburg (RFA) has made another change to its CEO leadership, after naming a new CEO last year. RFA has appointed Alexander Dahm, COO of",
+      "date": "2026-10-05",
+      "link": "https://www.satellitetoday.com/people/2026/10/05/rocket-factory-augsburg-appoints-alexander-dahm-as-new-ceo/"
     },
     {
       "sourceId": "viasat",
@@ -252,34 +280,6 @@
       "summary": "Canadian space domain awareness (SDA) company NorthStar Earth & Space began trading on the New York Stock Exchange on Friday morning after completing a SPAC merger this week. NorthStar completed",
       "date": "2026-10-02",
       "link": "https://www.satellitetoday.com/finance/2026/10/02/northstar-earth-space-goes-public-after-spac-merger/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Satlyt Secures $8M in Seed Financing",
-      "summary": "Satlyt has been boosted by securing $8 million in seed financing led by non sibi ventures. The funding will accelerate development of its virtual Al data centers in space, expand",
-      "date": "2026-10-02",
-      "link": "https://www.satellitetoday.com/finance/2026/10/02/satlyt-secures-8m-in-seed-financing/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Verizon, AT&T and T-Mobile Formally Establish Joint Venture for D2D Services",
-      "summary": "AT&T, T-Mobile, and Verizon formally established the joint venture focused on direct-to-device services the telcos first announced in May of this year. Wireless industry exec Paul Roth will serve as",
-      "date": "2026-10-02",
-      "link": "https://www.satellitetoday.com/connectivity/2026/10/02/verizon-att-and-t-mobile-formally-establish-joint-venture-for-d2d-services/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Airbus Completes 32 OneWeb Refresh Satellites Ahead of Launch",
-      "summary": "Eutelsat hit a milestone for its OneWeb refresh plan as Airbus Defence and Space completed the first 32 satellites in the refresh for launch. The satellites are set to be",
-      "date": "2026-10-02",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/10/02/airbus-completes-32-oneweb-refresh-satellites-ahead-of-launch/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "From Mile High to Outer Space: Denver Broncos CCO Details Team’s Partnership With MDA Space",
-      "summary": "For those who follow the National Football League (NFL), it has often been described as a copycat league. In other words, one team does something new, and a number of",
-      "date": "2026-10-02",
-      "link": "https://www.satellitetoday.com/space-economy/2026/10/02/from-mile-high-to-outer-space-denver-broncos-cco-details-teams-partnership-with-mda-space/"
     },
     {
       "sourceId": "spacecom",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
-      "title": "NASA's first commercial debris inspector has launched: Starfish Space's Otter will visit up to four dead satellites",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wxl299/nasas_first_commercial_debris_inspector_has/\"> <img src=\"https://external-preview.redd.it/8X3qh8TpXa0-xFI_iRXeeIczSO-RSojIJTmuXJmH-Yg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9ce6592454dcb6a297709…",
-      "date": "2026-10-04",
-      "link": "https://www.reddit.com/r/space/comments/1wxl299/nasas_first_commercial_debris_inspector_has/"
+      "title": "Do you guys also feel like the universe is way too big for us to be the only ones here?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It’s a question that always pops into my head on nights when I can&#39;t sleep and I&#39;m just staring out the window at the stars, wondering.",
+      "date": "2026-10-05",
+      "link": "https://www.reddit.com/r/space/comments/1wyjmjp/do_you_guys_also_feel_like_the_universe_is_way/"
     },
     {
       "sourceId": "rspace",
-      "title": "All Space Questions thread for week of October 04, 2026",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please sort comments by &#39;new&#39; to find questions that would otherwise be buried.</p> <p>In this thread you can ask any space related question that you may have.</p> <p>Two examples of potential questions could be; \"How do rockets work?\",…",
-      "date": "2026-10-04",
-      "link": "https://www.reddit.com/r/space/comments/1wxkmhe/all_space_questions_thread_for_week_of_october_04/"
+      "title": "Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wyg4zp/astronomers_confirm_discovery_of_the_youngest/\"> <img src=\"https://external-preview.redd.it/kS3KCcwRMU-KH58UUQuySCWMmByDdp-1N0rl0wOEs00.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e97048547895229e67f…",
+      "date": "2026-10-05",
+      "link": "https://www.reddit.com/r/space/comments/1wyg4zp/astronomers_confirm_discovery_of_the_youngest/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA invites researchers to propose Mars landing sites for its SkyFall helicopter mission",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wxk4t6/nasa_invites_researchers_to_propose_mars_landing/\"> <img src=\"https://external-preview.redd.it/sXBC-OjH4ezBJqPRtb4rT6YvZ9t_CWMAIXJ45XmanSA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31b06f481cb502601…",
-      "date": "2026-10-04",
-      "link": "https://www.reddit.com/r/space/comments/1wxk4t6/nasa_invites_researchers_to_propose_mars_landing/"
+      "title": "The phoenix planet: astronomers find a world reborn from its star's ashes",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wydmco/the_phoenix_planet_astronomers_find_a_world/\"> <img src=\"https://external-preview.redd.it/cndOainvXo7VKBHqBRApBdaHDDjml4xkQWIu7rPYSrk.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=175160a4485066e7b2ec1c…",
+      "date": "2026-10-05",
+      "link": "https://www.reddit.com/r/space/comments/1wydmco/the_phoenix_planet_astronomers_find_a_world/"
     },
     {
       "sourceId": "rspace",
-      "title": "China to complete new-generation Mars geologic map by end of 2028",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Adept_Ad_1543\"> /u/Adept_Ad_1543 </a> <br/> <span><a href=\"http://www.china.org.cn/2026-09/29/content_118716870.shtml\">[link]</a></span> &#32; <span><a…",
-      "date": "2026-10-04",
-      "link": "https://www.reddit.com/r/space/comments/1wxk1yh/china_to_complete_newgeneration_mars_geologic_map/"
+      "title": "Polaris Flare. Untracked with a mirrorless camera",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wya0wz/polaris_flare_untracked_with_a_mirrorless_camera/\"> <img src=\"https://preview.redd.it/polvimd7snth1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9ed0f7c9a01c207cddc828ba83a635b0073f8ca\" alt=\"Polaris…",
+      "date": "2026-10-05",
+      "link": "https://www.reddit.com/r/space/comments/1wya0wz/polaris_flare_untracked_with_a_mirrorless_camera/"
     },
     {
       "sourceId": "rspace",
-      "title": "UAE's MBR Explorer probe enters final tests for 2028 mission",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wxjipr/uaes_mbr_explorer_probe_enters_final_tests_for/\"> <img src=\"https://external-preview.redd.it/PksQ5TIFIzEuH7IXFoaR40dcRxt97L8yfGEJjvwfZVQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ed1ad86d599aac0f58…",
-      "date": "2026-10-04",
-      "link": "https://www.reddit.com/r/space/comments/1wxjipr/uaes_mbr_explorer_probe_enters_final_tests_for/"
+      "title": "Galactic Core Arc, Northern Lights along with Andromeda, Triangulum and the Seven Sisters captured outside Mackinaw Michigan on 8/27/26.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wy8ruu/galactic_core_arc_northern_lights_along_with/\"> <img src=\"https://preview.redd.it/igcvavxjinth1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=85ab6348708dab32dcbd6c8b37c33bfc750033fe\" alt=\"Galactic…",
+      "date": "2026-10-05",
+      "link": "https://www.reddit.com/r/space/comments/1wy8ruu/galactic_core_arc_northern_lights_along_with/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
-      "summary": "APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-04",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/"
+      "title": "NASA Astronaut Christina Koch at Eagles vs. Rams",
+      "summary": "NASA astronaut and mission specialist of the agency’s Artemis II mission, Christina Koch, leads the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct.",
+      "date": "2026-10-05",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-      "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-03",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/"
+      "title": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
+      "summary": "NASA is leveraging its expertise and enhancing its test facilities to help address a rare but persistent aviation hazard: icing that occurs when aircraft encounter unusually large, very cold water droplets in clouds.",
+      "date": "2026-10-05",
+      "link": "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
-      "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4.",
-      "date": "2026-10-02",
-      "link": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/"
+      "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
+      "summary": "New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems.",
+      "date": "2026-10-05",
+      "link": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/"
     },
     {
       "sourceId": "nasa",
-      "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
-      "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space…",
-      "date": "2026-10-02",
-      "link": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/"
+      "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
+      "summary": "APOD Science APOD APOD: 2026 October 5 – M104:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-10-05",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s DAVINCI Probe Can Stand the Heat",
-      "summary": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation.",
-      "date": "2026-10-02",
-      "link": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/"
+      "title": "Moon-Like Madagascar",
+      "summary": "A bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the country’s south.",
+      "date": "2026-10-05",
+      "link": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/"
     }
   ]
 }
