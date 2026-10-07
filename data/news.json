@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-06T19:16:11.666Z",
+  "updated": "2026-10-07T19:15:49.825Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
+      "summary": "Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months The post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on SpaceNews .",
+      "date": "2026-10-07",
+      "link": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format",
+      "summary": "Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for",
+      "date": "2026-10-06",
+      "link": "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Resource competition intensifies with surge in megaconstellations",
@@ -21,20 +35,6 @@
       "summary": "HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses",
       "date": "2026-10-01",
       "link": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Rethinking risk with electronics for space",
-      "summary": "In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk,",
-      "date": "2026-10-01",
-      "link": "https://spacenews.com/rethinking-risk-with-electronics-for-space/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
-      "summary": "Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone",
-      "date": "2026-10-01",
-      "link": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "DAF leaders, their spouses highlight families’ role in mission success",
+      "summary": "During a panel at the 2026 Air, Space & Cyber Conference, senior DAF leaders and their spouses discussed grassroots quality-of-life challenges alongside key initiatives, including the Global Military Spouse Connection pilot, DoD STARBASE STEM programs, and AFPAAS roster…",
+      "date": "2026-10-07",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4621304/daf-leaders-their-spouses-highlight-families-role-in-mission-success/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "AFAS offers childcare assistance to Air Force, Space Force families",
       "summary": "These targeted childcare relief programs assist families during high-stress periods, relocations, and educational pursuits.<br/> <img src='https://media.defense.gov/2026/Oct/01/2004010060/300/300/0/260611-F-TC518-1120.JPG' alt='U.S.",
       "date": "2026-10-01",
@@ -205,11 +212,25 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4611397/daf-to-adopt-standardized-religious-affiliation-codes-action-required-in-vmpf/"
     },
     {
-      "sourceId": "ussf",
-      "title": "Department of the Air Force pilot program expands to help more military spouses",
-      "summary": "Administered by the AFPC and AFCS, the initiative connects active-duty spouses undergoing a permanent change of station with direct hiring opportunities.",
-      "date": "2026-09-23",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4609375/department-of-the-air-force-pilot-program-expands-to-help-more-military-spouses/"
+      "sourceId": "dod",
+      "title": "Trump, Hegseth Announce New Maryland Shipyard",
+      "summary": "President Donald J. Trump and Secretary of War Pete Hegseth announced the development of a new shipyard, to be called \"Arsenal-2,\" during a ceremony at the future site in Sparrows Point, Md.",
+      "date": "2026-10-06",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4620633/trump-hegseth-announce-new-maryland-shipyard/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Air Test, Evaluation Squadron Provides Integral Capabilities During Exercise Gray Flag",
+      "summary": "Sailors honed the capabilities of the Navy's E-2D Advanced Hawkeye aircraft and set the stage for future developments during Exercise Gray Flag at Naval Base Ventura County, Calif.",
+      "date": "2026-10-06",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4620153/air-test-evaluation-squadron-provides-integral-capabilities-during-exercise-gra/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "New Clinical Guideline Helps Keep Women 'Optimized for the Fight'",
+      "summary": "The Department of Veterans Affairs and War Department have jointly released a clinical practice guideline to help clinicians provide improved care for women experiencing perimenopause and menopause.",
+      "date": "2026-10-06",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4620347/new-clinical-guideline-helps-keep-women-optimized-for-the-fight/"
     },
     {
       "sourceId": "dod",
@@ -226,60 +247,39 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4619111/navy-commissions-uss-ted-stevens-honoring-senators-defense-advocacy/"
     },
     {
-      "sourceId": "dod",
-      "title": "Hegseth Speaks to Cadets Ahead of Air Force, Navy Football Game",
-      "summary": "Secretary of War Pete Hegseth traveled to the U.S. Air Force Academy near Colorado Springs, Colo., where he addressed roughly 3,500 members of the school's cadet wing ahead of the annual Air Force vs. Naval Academy collegiate football game.",
-      "date": "2026-10-03",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4618565/hegseth-speaks-to-cadets-ahead-of-air-force-navy-football-game/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Between Jumps: The Work Behind a 2-Hour Airborne Mission",
-      "summary": "In less than two hours of flight time, an Alaska Air National Guard crew supported active-duty Army and Air National Guard parachutists at three altitudes, deployed free-fall parabundles and practiced visual and instrument landing system approaches.",
-      "date": "2026-10-02",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4618028/between-jumps-the-work-behind-a-2-hour-airborne-mission/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Marine Corps Achieves FY26 Recruiting Mission, Secures Strong Start for FY27",
-      "summary": "Marine Corps Recruiting Command exceeded its fiscal year 2026 recruiting mission across every component and category, leading a historic, departmentwide rebound in military enlistments.",
-      "date": "2026-10-02",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4617895/marine-corps-achieves-fy26-recruiting-mission-secures-strong-start-for-fy27/"
+      "sourceId": "viasat",
+      "title": "The Breakthroughs and Bottlenecks of Financing Europe’s Space Ambitions",
+      "summary": "The last year in space has garnered unprecedented new interest from the who’s who of international finance, smashing funding records for individual companies and marketwide as Silicon Valley has learned",
+      "date": "2026-10-07",
+      "link": "https://www.satellitetoday.com/finance/2026/10/07/the-breakthroughs-and-bottlenecks-of-financing-europes-space-ambitions/"
     },
     {
       "sourceId": "viasat",
-      "title": "Open Cosmos Targets 192 Satellites for ConnectedCosmos LEO Constellation",
-      "summary": "Open Cosmos’ is targeting 192 satellites for its ConnectedCosmos Low-Earth Orbit (LEO). The company is building toward more than 96 satellites in orbit by the end of 2028, putting it",
-      "date": "2026-10-05",
-      "link": "https://www.satellitetoday.com/connectivity/2026/10/05/open-cosmos-targets-192-satellites-for-connectedcosmos-leo-constellation/"
+      "title": "Russia’s LEO Advances Put New Pressure on Europe to Bolster its Space Security",
+      "summary": "As Russia begins deploying its military RASSVET constellation, internal political fractures and slow-moving bureaucracy are leaving Europe completely reliant on the U.S. for security in orbit. And things won’t change",
+      "date": "2026-10-07",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/07/russias-leo-advances-put-new-pressure-on-europe-to-bolster-its-space-security/"
     },
     {
       "sourceId": "viasat",
-      "title": "Kratos Reports More Than $100M in Contracts for Space Intelligence Data",
-      "summary": "Kratos Defense & Security Solutions has received multiple contracts worth more than $100 million combined for space and cyber capabilities to provide space intelligence data. Kratos’ work under these contracts",
-      "date": "2026-10-05",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/05/kratos-reports-more-than-100m-in-contracts-for-space-intelligence-data/"
+      "title": "A Decade in Space Cybersecurity: From Security Through Obscurity to Whole-of-System Defense",
+      "summary": "A decade is a long time in the space industry. In 2017 there was no Starlink or Amazon Leo; no commercial synthetic aperture radar constellations; and U.S. astronauts had to",
+      "date": "2026-10-07",
+      "link": "https://www.satellitetoday.com/cybersecurity/2026/10/07/a-decade-in-space-cybersecurity-from-security-through-obscurity-to-whole-of-system-defense/"
     },
     {
       "sourceId": "viasat",
-      "title": "York to Integrate Space Force Tetra 3 and 4 Missions on GEO Spacecraft",
-      "summary": "York Space Systems will integrate a government space domain awareness (SDA) into a spacecraft headed to Geostationary Orbit (GEO), marking the first time the company has integrated a satellite for",
-      "date": "2026-10-05",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/05/york-to-integrate-space-force-tetra-3-and-4-missions-on-geo-spacecraft/"
+      "title": "CyberSat at 10: The 10 Defining Moments of CyberSat",
+      "summary": "CyberSat was a first-of-its-kind event launched 10 years ago that brought the government, IT, cyber and space professionals together to talk about the security of space assets. It has featured",
+      "date": "2026-10-07",
+      "link": "https://www.satellitetoday.com/cybersecurity/2026/10/07/cybersat-at-10-the-10-defining-moments-of-cybersat/"
     },
     {
       "sourceId": "viasat",
-      "title": "Rocket Factory Augsburg Appoints Alexander Dahm as New CEO",
-      "summary": "German launcher in development Rocket Factory Augsburg (RFA) has made another change to its CEO leadership, after naming a new CEO last year. RFA has appointed Alexander Dahm, COO of",
-      "date": "2026-10-05",
-      "link": "https://www.satellitetoday.com/people/2026/10/05/rocket-factory-augsburg-appoints-alexander-dahm-as-new-ceo/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "NorthStar Earth & Space Goes Public After SPAC Merger",
-      "summary": "Canadian space domain awareness (SDA) company NorthStar Earth & Space began trading on the New York Stock Exchange on Friday morning after completing a SPAC merger this week. NorthStar completed",
-      "date": "2026-10-02",
-      "link": "https://www.satellitetoday.com/finance/2026/10/02/northstar-earth-space-goes-public-after-spac-merger/"
+      "title": "Poland’s Space Sector: From Emerging Player to European Partner",
+      "summary": "What role can Poland play in the European and global space market? Does its space sector have the capabilities to become a partner not only supplying technologies and subsystems, but",
+      "date": "2026-10-07",
+      "link": "https://www.satellitetoday.com/opinion/2026/10/07/polands-space-sector-from-emerging-player-to-european-partner/"
     },
     {
       "sourceId": "spacecom",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
-      "title": "It's Space Week! How Much Do You Know About Radiation In Space?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Learning about radiation and microcontrollers (electronics) in space as a potential career? There is a new learning resource available that specializes in this growing space engineering sector as space electronics require more radiation…",
-      "date": "2026-10-06",
-      "link": "https://www.reddit.com/r/space/comments/1wz8wg9/its_space_week_how_much_do_you_know_about/"
+      "title": "Korea achieves satellite deployment milestone with 5th Nuri launch",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wzzj7m/korea_achieves_satellite_deployment_milestone/\"> <img src=\"https://external-preview.redd.it/qnNmigS-5pQUtdc82tI6b7ualhjAiJhqdiJ3EptXyE0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e55e76e0d20da977682…",
+      "date": "2026-10-07",
+      "link": "https://www.reddit.com/r/space/comments/1wzzj7m/korea_achieves_satellite_deployment_milestone/"
     },
     {
       "sourceId": "rspace",
-      "title": "Simulated moon soil and recyclable thermoplastics could help build future space infrastructure, study shows",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wz8gjy/simulated_moon_soil_and_recyclable_thermoplastics/\"> <img src=\"https://external-preview.redd.it/bTyQVqmptp5OASqksJUpCO1SG5neqsFRYU0WbH3OZ04.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=7b097ddde4181f1a…",
-      "date": "2026-10-06",
-      "link": "https://www.reddit.com/r/space/comments/1wz8gjy/simulated_moon_soil_and_recyclable_thermoplastics/"
+      "title": "China’s secret spaceplane, known as Shenlong, has spent the past few months engaged in advanced rendezvous and proximity operations. In June it released a small satellite then captured it, probably with a robotic arm. In August it deployed a satellite, retreated a few thousand miles, then returned.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wzyezw/chinas_secret_spaceplane_known_as_shenlong_has/\"> <img src=\"https://external-preview.redd.it/IOKbl4wWjT_kVl5wi1xyKwCmIoFfo3O2uI5DG5KsVRw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=651658fd28ee9500390…",
+      "date": "2026-10-07",
+      "link": "https://www.reddit.com/r/space/comments/1wzyezw/chinas_secret_spaceplane_known_as_shenlong_has/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA’s Curiosity Rover Catches Stunning Martian Dawn",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ThatCrazyCanadian413\"> /u/ThatCrazyCanadian413 </a> <br/> <span><a href=\"https://www.jpl.nasa.gov/news/nasas-curiosity-rover-catches-stunning-martian-dawn/\">[link]</a></span> &#32; <span><a…",
-      "date": "2026-10-06",
-      "link": "https://www.reddit.com/r/space/comments/1wz7y5y/nasas_curiosity_rover_catches_stunning_martian/"
+      "title": "Space station crew heads home as replacements settle in for 6-month tour of duty",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wzxjh7/space_station_crew_heads_home_as_replacements/\"> <img src=\"https://external-preview.redd.it/Zf7rxkKk_sdXWD8vMubtWt34vpLyyb2rCtBkxF5r-CM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1715e31ee335738d1c70…",
+      "date": "2026-10-07",
+      "link": "https://www.reddit.com/r/space/comments/1wzxjh7/space_station_crew_heads_home_as_replacements/"
     },
     {
       "sourceId": "rspace",
-      "title": "Why is NASA bringing 7,500 contractors back to work as civil servants? | “The administrator’s directive is a coherent and necessary vision for the future.”",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wz7cem/why_is_nasa_bringing_7500_contractors_back_to/\"> <img src=\"https://external-preview.redd.it/BxsbkMHB_hh0H1UHrvWIEarI75MHQsHBddwYaouAzxA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3367bb7b2595e84adc57…",
-      "date": "2026-10-06",
-      "link": "https://www.reddit.com/r/space/comments/1wz7cem/why_is_nasa_bringing_7500_contractors_back_to/"
+      "title": "Ice Cube experiment (South pole)",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A Belgian scientist just won the noble price for this project, which tries to detect neutrinos in the pure ice of the south pole.</p> <p>The data is apparently live &amp; historically available, so I made a visualisation tool.</p> <p><a…",
+      "date": "2026-10-07",
+      "link": "https://www.reddit.com/r/space/comments/1wzvta9/ice_cube_experiment_south_pole/"
     },
     {
       "sourceId": "rspace",
-      "title": "I made a song based on the loneliness of space and the famous Pale Blue Dot image. Enjoy!",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wz5ai2/i_made_a_song_based_on_the_loneliness_of_space/\"> <img src=\"https://external-preview.redd.it/63GF-V6HD5rPg5fJ3RDWBhNGPMK6qtMWsavIvCnWPFs.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b44945c7c1392fe3b68…",
-      "date": "2026-10-06",
-      "link": "https://www.reddit.com/r/space/comments/1wz5ai2/i_made_a_song_based_on_the_loneliness_of_space/"
+      "title": "I built a free browser tool to fly through the observable universe using real catalog data (NASA/JPL, Hipparcos, Gaia, NED) — would love feedback from people who actually know the sky",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wzshf2/i_built_a_free_browser_tool_to_fly_through_the/\"> <img src=\"https://external-preview.redd.it/UaUjqoQ5NsOQNhrqxL0y2ukPF3JfstWplixcaFUEtXw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09e4cf1663ab4cd263b…",
+      "date": "2026-10-07",
+      "link": "https://www.reddit.com/r/space/comments/1wzshf2/i_built_a_free_browser_tool_to_fly_through_the/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
-      "summary": "After delivering more than 11,000 pounds of supplies, science experiments, and other cargo to the International Space Station for NASA, Northrop Grumman’s Cygnus XL spacecraft is scheduled to depart Friday, Oct.",
-      "date": "2026-10-06",
-      "link": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/"
+      "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
+      "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug.",
+      "date": "2026-10-07",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/"
     },
     {
       "sourceId": "nasa",
-      "title": "October 2026 Satellite Puzzler",
-      "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
-      "date": "2026-10-06",
-      "link": "https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/"
+      "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
+      "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed.",
+      "date": "2026-10-07",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/"
     },
     {
       "sourceId": "nasa",
-      "title": "Lunar Grounding Challenge",
-      "summary": "As an astronaut traverses the lunar South Pole, tribocharging from walking on the lunar surface and plasma charging from the ambient plasma generate electric charge on the spacesuit.",
-      "date": "2026-10-06",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/"
+      "title": "Artemis II Crew Moon Photo Annotations",
+      "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet.",
+      "date": "2026-10-07",
+      "link": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Glenn Invites Phase 1 Proposals for Aerospace Power Systems Laboratory",
-      "summary": "NASA’s Glenn Research Center in Cleveland is seeking Phase 1 proposals for the design and construction of the Aerospace Power Systems Laboratory.",
-      "date": "2026-10-06",
-      "link": "https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory/"
+      "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
+      "summary": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-10-07",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
     },
     {
       "sourceId": "nasa",
-      "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
-      "summary": "Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet. This artist’s concept released on Oct. 5, 2026, depicts that possible explanation.",
-      "date": "2026-10-06",
-      "link": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/"
+      "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
+      "summary": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
+      "date": "2026-10-07",
+      "link": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/"
     }
   ]
 }
