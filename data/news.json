@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T19:15:49.825Z",
+  "updated": "2026-10-07T19:40:24.036Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Florida National Guard Advances Battlefield Capabilities During Drone Crucible",
+      "summary": "The Florida National Guard integrated unmanned aircraft systems, communications technology and situational awareness integration capabilities to give commanders a more complete picture of the battlefield during Exercise Drone Crucible 26.3 at Camp Blanding Joint Training Center,…",
+      "date": "2026-10-07",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4621302/florida-national-guard-advances-battlefield-capabilities-during-drone-crucible/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Trump, Hegseth Announce New Maryland Shipyard",
       "summary": "President Donald J. Trump and Secretary of War Pete Hegseth announced the development of a new shipyard, to be called \"Arsenal-2,\" during a ceremony at the future site in Sparrows Point, Md.",
       "date": "2026-10-06",
@@ -238,13 +245,6 @@
       "summary": "Marines assigned to the 3rd Littoral Combat Team Medium-Range Missile Battery conducted a two-part training evolution in Hawaii to build proficiency in modernized artillery operations, distributed command and control and foundational field skills.",
       "date": "2026-10-06",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4620059/marines-enhance-anti-ship-tactics-in-hawaii/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Navy Commissions USS Ted Stevens, Honoring Senator's Defense Advocacy",
-      "summary": "The Navy commissioned its newest destroyer, the USS Ted Stevens, into active service during a formal ceremony in Whittier, Alaska.",
-      "date": "2026-10-05",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4619111/navy-commissions-uss-ted-stevens-honoring-senators-defense-advocacy/"
     },
     {
       "sourceId": "viasat",
