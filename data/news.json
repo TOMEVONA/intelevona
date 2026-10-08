@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-07T19:40:24.036Z",
+  "updated": "2026-10-08T19:12:09.206Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "What will it take to build a moon base?",
+      "summary": "In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly",
+      "date": "2026-10-08",
+      "link": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
@@ -28,13 +35,6 @@
       "summary": "DURANGO, Colo., Oct. 5, 2026 — Agile Space Industries today announced that Jonathan Baliff has joined its Board of Directors, bringing extensive experience in aerospace, finance, and corporate leadership. His",
       "date": "2026-10-05",
       "link": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "World Space Week 2026 Celebrates the “Rocket Revolution”",
-      "summary": "HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses",
-      "date": "2026-10-01",
-      "link": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "First Guardians complete Jungle Operations Training Course in Panama",
+      "summary": "Two U.S. Space Force officers became the first Guardians to complete the Jungle Operations Training Course-Panama at Aeronaval Base Cristóbal Colón.<br/> <img src='https://media.defense.gov/2026/Oct/08/2004013355/300/300/0/260912-A-WU359-9041.JPG' alt='Guardians graduate Panama…",
+      "date": "2026-10-08",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4622101/first-guardians-complete-jungle-operations-training-course-in-panama/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "DAF leaders, their spouses highlight families’ role in mission success",
       "summary": "During a panel at the 2026 Air, Space & Cyber Conference, senior DAF leaders and their spouses discussed grassroots quality-of-life challenges alongside key initiatives, including the Global Military Spouse Connection pilot, DoD STARBASE STEM programs, and AFPAAS roster…",
       "date": "2026-10-07",
@@ -205,11 +212,25 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4619061/partner-to-win-space-forces-japan-integrates-regional-space-advisors-to-deepen/"
     },
     {
-      "sourceId": "ussf",
-      "title": "DAF to adopt standardized Religious Affiliation Codes: Action required in vMPF",
-      "summary": "Airmen and Guardians must take action to update their RAC in the Virtual Military Personnel Flight and certify their Record of Emergency Data is accurate.<br/> <img src='https://media.defense.gov/2026/Aug/21/2004007260/300/300/0/260819-F-AH757-1001.JPG' alt='A chaplain assigned…",
-      "date": "2026-09-25",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4611397/daf-to-adopt-standardized-religious-affiliation-codes-action-required-in-vmpf/"
+      "sourceId": "dod",
+      "title": "Army Reserve Unit Supports Local Junior ROTC Raider Challenge",
+      "summary": "Junior ROTC cadets from eight high schools converged in Wichita, Kan., for the City League Raider Challenge, a competition testing physical strength and mental fortitude that connected the cadets to soldiers assigned to the Army Reserve's 451st Expeditionary Sustainment Command.",
+      "date": "2026-10-08",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4622475/army-reserve-unit-supports-local-junior-rotc-raider-challenge/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Army Command Holds Mercury Rising Event to Strengthen Readiness",
+      "summary": "Soldiers took part in the first \"Mercury Rising\" event of the new fiscal year, which combined physical training and professional development to strengthen readiness, cohesion and individual accountability.",
+      "date": "2026-10-07",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4621576/army-command-holds-mercury-rising-event-to-strengthen-readiness/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Hegseth Visits USS Lincoln Ahead of Homecoming After Record-Breaking Deployment",
+      "summary": "Secretary of War Pete Hegseth spoke to sailors aboard the aircraft carrier USS Abraham Lincoln in San Diego following their record-setting 321-day deployment, during which the ship spent 264 consecutive days at sea without a port call.",
+      "date": "2026-10-07",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4621688/hegseth-visits-uss-lincoln-ahead-of-homecoming-after-record-breaking-deployment/"
     },
     {
       "sourceId": "dod",
@@ -226,25 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4620633/trump-hegseth-announce-new-maryland-shipyard/"
     },
     {
-      "sourceId": "dod",
-      "title": "Air Test, Evaluation Squadron Provides Integral Capabilities During Exercise Gray Flag",
-      "summary": "Sailors honed the capabilities of the Navy's E-2D Advanced Hawkeye aircraft and set the stage for future developments during Exercise Gray Flag at Naval Base Ventura County, Calif.",
-      "date": "2026-10-06",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4620153/air-test-evaluation-squadron-provides-integral-capabilities-during-exercise-gra/"
+      "sourceId": "viasat",
+      "title": "Azercosmos Launches AI Platform",
+      "summary": "Azercosmos has made a significant move in the AI arena. It has launched Platerra, an AI-powered platform designed to automatically analyze satellite imagery and turn it into geospatial information that",
+      "date": "2026-10-07",
+      "link": "https://www.satellitetoday.com/technology/2026/10/07/azercosmos-launches-ai-platform/"
     },
     {
-      "sourceId": "dod",
-      "title": "New Clinical Guideline Helps Keep Women 'Optimized for the Fight'",
-      "summary": "The Department of Veterans Affairs and War Department have jointly released a clinical practice guideline to help clinicians provide improved care for women experiencing perimenopause and menopause.",
-      "date": "2026-10-06",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4620347/new-clinical-guideline-helps-keep-women-optimized-for-the-fight/"
+      "sourceId": "viasat",
+      "title": "Eutelsat Signs Broadcast Renewal With Algeria’s National Operator",
+      "summary": "Eutelsat signed a capacity renewal for the Eutelsat 7 West A satellite with Télédiffusion d’Algérie (TDA), Algeria’s national broadcasting network operator. TDA has been a long-time customer of Eutelsat and",
+      "date": "2026-10-07",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/07/eutelsat-signs-broadcast-renewal-with-algerias-national-operator/"
     },
     {
-      "sourceId": "dod",
-      "title": "Marines Enhance Anti-Ship Tactics in Hawaii",
-      "summary": "Marines assigned to the 3rd Littoral Combat Team Medium-Range Missile Battery conducted a two-part training evolution in Hawaii to build proficiency in modernized artillery operations, distributed command and control and foundational field skills.",
-      "date": "2026-10-06",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4620059/marines-enhance-anti-ship-tactics-in-hawaii/"
+      "sourceId": "viasat",
+      "title": "Gilat Reports $38M in Recent Contracts for SkyEdge and Peru Connectivity",
+      "summary": "Gilat Satellite Networks reports recent contract wins totalling $38 million for its SkyEdge system and connectivity projects in Peru. Wednesday, Gilat announced $10 million in orders from an unnamed satellite",
+      "date": "2026-10-07",
+      "link": "https://www.satellitetoday.com/technology/2026/10/07/gilat-reports-38m-in-recent-contracts-for-skyedge-and-peru-connectivity/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "FCC Grants SpaceX Approval for 15,000 Direct-to-Device Satellites in MSS Spectrum",
+      "summary": "The FCC approved SpaceX’s request to deploy 15,000 satellites for direct-to-device (D2D) services, while deferring some of SpaceX’s requests. This 15,000-satellite system is designed to provide both mobile satellite services",
+      "date": "2026-10-07",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/07/fcc-grants-spacex-approval-for-15000-direct-to-device-satellites-in-mss-spectrum/"
     },
     {
       "sourceId": "viasat",
@@ -252,34 +280,6 @@
       "summary": "The last year in space has garnered unprecedented new interest from the who’s who of international finance, smashing funding records for individual companies and marketwide as Silicon Valley has learned",
       "date": "2026-10-07",
       "link": "https://www.satellitetoday.com/finance/2026/10/07/the-breakthroughs-and-bottlenecks-of-financing-europes-space-ambitions/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Russia’s LEO Advances Put New Pressure on Europe to Bolster its Space Security",
-      "summary": "As Russia begins deploying its military RASSVET constellation, internal political fractures and slow-moving bureaucracy are leaving Europe completely reliant on the U.S. for security in orbit. And things won’t change",
-      "date": "2026-10-07",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/07/russias-leo-advances-put-new-pressure-on-europe-to-bolster-its-space-security/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "A Decade in Space Cybersecurity: From Security Through Obscurity to Whole-of-System Defense",
-      "summary": "A decade is a long time in the space industry. In 2017 there was no Starlink or Amazon Leo; no commercial synthetic aperture radar constellations; and U.S. astronauts had to",
-      "date": "2026-10-07",
-      "link": "https://www.satellitetoday.com/cybersecurity/2026/10/07/a-decade-in-space-cybersecurity-from-security-through-obscurity-to-whole-of-system-defense/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "CyberSat at 10: The 10 Defining Moments of CyberSat",
-      "summary": "CyberSat was a first-of-its-kind event launched 10 years ago that brought the government, IT, cyber and space professionals together to talk about the security of space assets. It has featured",
-      "date": "2026-10-07",
-      "link": "https://www.satellitetoday.com/cybersecurity/2026/10/07/cybersat-at-10-the-10-defining-moments-of-cybersat/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Poland’s Space Sector: From Emerging Player to European Partner",
-      "summary": "What role can Poland play in the European and global space market? Does its space sector have the capabilities to become a partner not only supplying technologies and subsystems, but",
-      "date": "2026-10-07",
-      "link": "https://www.satellitetoday.com/opinion/2026/10/07/polands-space-sector-from-emerging-player-to-european-partner/"
     },
     {
       "sourceId": "spacecom",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
-      "title": "Korea achieves satellite deployment milestone with 5th Nuri launch",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wzzj7m/korea_achieves_satellite_deployment_milestone/\"> <img src=\"https://external-preview.redd.it/qnNmigS-5pQUtdc82tI6b7ualhjAiJhqdiJ3EptXyE0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e55e76e0d20da977682…",
-      "date": "2026-10-07",
-      "link": "https://www.reddit.com/r/space/comments/1wzzj7m/korea_achieves_satellite_deployment_milestone/"
+      "title": "Stories from star dust: U of A-led mission will study light from distant stars",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x0v1df/stories_from_star_dust_u_of_aled_mission_will/\"> <img src=\"https://external-preview.redd.it/_AET-czdaVAmVyJFp1kXa2RVCTd3rVPY0oIWKrCKOkI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0b19b6be4f4a8503904…",
+      "date": "2026-10-08",
+      "link": "https://www.reddit.com/r/space/comments/1x0v1df/stories_from_star_dust_u_of_aled_mission_will/"
     },
     {
       "sourceId": "rspace",
-      "title": "China’s secret spaceplane, known as Shenlong, has spent the past few months engaged in advanced rendezvous and proximity operations. In June it released a small satellite then captured it, probably with a robotic arm. In August it deployed a satellite, retreated a few thousand miles, then returned.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wzyezw/chinas_secret_spaceplane_known_as_shenlong_has/\"> <img src=\"https://external-preview.redd.it/IOKbl4wWjT_kVl5wi1xyKwCmIoFfo3O2uI5DG5KsVRw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=651658fd28ee9500390…",
-      "date": "2026-10-07",
-      "link": "https://www.reddit.com/r/space/comments/1wzyezw/chinas_secret_spaceplane_known_as_shenlong_has/"
+      "title": "ArianeGroup Completes Second Themis Wet Dress Rehearsal",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x0na7h/arianegroup_completes_second_themis_wet_dress/\"> <img src=\"https://external-preview.redd.it/QhvKU1uwLy3vMu7wI0MbGgsSp4c2u2RNyeJHwx0GyT4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78d3857b461fd46645a7…",
+      "date": "2026-10-08",
+      "link": "https://www.reddit.com/r/space/comments/1x0na7h/arianegroup_completes_second_themis_wet_dress/"
     },
     {
       "sourceId": "rspace",
-      "title": "Space station crew heads home as replacements settle in for 6-month tour of duty",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wzxjh7/space_station_crew_heads_home_as_replacements/\"> <img src=\"https://external-preview.redd.it/Zf7rxkKk_sdXWD8vMubtWt34vpLyyb2rCtBkxF5r-CM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1715e31ee335738d1c70…",
-      "date": "2026-10-07",
-      "link": "https://www.reddit.com/r/space/comments/1wzxjh7/space_station_crew_heads_home_as_replacements/"
+      "title": "Blow your mind looking at the stars tonight",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We have Jupiter to the left and Saturn on the right in the sky right now. Orions belt is right up there... and Betelgeuce is just north of that.. that tiny red dot is the size of Jupiters orbit around our sun.",
+      "date": "2026-10-08",
+      "link": "https://www.reddit.com/r/space/comments/1x0lrp0/blow_your_mind_looking_at_the_stars_tonight/"
     },
     {
       "sourceId": "rspace",
-      "title": "Ice Cube experiment (South pole)",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A Belgian scientist just won the noble price for this project, which tries to detect neutrinos in the pure ice of the south pole.</p> <p>The data is apparently live &amp; historically available, so I made a visualisation tool.</p> <p><a…",
-      "date": "2026-10-07",
-      "link": "https://www.reddit.com/r/space/comments/1wzvta9/ice_cube_experiment_south_pole/"
+      "title": "Jessica Watkins becomes first Black woman to lead crew Mission to the International Space Station. She is also an alumna of the Mars Society Mars Desert Research Station (MDRS) analog program.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x0ivll/jessica_watkins_becomes_first_black_woman_to_lead/\"> <img src=\"https://external-preview.redd.it/twVwosvvJPRLlcxqatbrPzL3m0dL99Pk_JB771CHNGU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df33219d872dcd94…",
+      "date": "2026-10-08",
+      "link": "https://www.reddit.com/r/space/comments/1x0ivll/jessica_watkins_becomes_first_black_woman_to_lead/"
     },
     {
       "sourceId": "rspace",
-      "title": "I built a free browser tool to fly through the observable universe using real catalog data (NASA/JPL, Hipparcos, Gaia, NED) — would love feedback from people who actually know the sky",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1wzshf2/i_built_a_free_browser_tool_to_fly_through_the/\"> <img src=\"https://external-preview.redd.it/UaUjqoQ5NsOQNhrqxL0y2ukPF3JfstWplixcaFUEtXw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09e4cf1663ab4cd263b…",
-      "date": "2026-10-07",
-      "link": "https://www.reddit.com/r/space/comments/1wzshf2/i_built_a_free_browser_tool_to_fly_through_the/"
+      "title": "Artemis II Reentry video with Cabin Audio (full length)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x0fnno/artemis_ii_reentry_video_with_cabin_audio_full/\"> <img src=\"https://external-preview.redd.it/kvwWG91D-nTGJa1SglIWwV145XuszcntbuSSP4wnvl8.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d30c349b854947a640f…",
+      "date": "2026-10-08",
+      "link": "https://www.reddit.com/r/space/comments/1x0fnno/artemis_ii_reentry_video_with_cabin_audio_full/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
-      "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug.",
-      "date": "2026-10-07",
-      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/"
+      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+      "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris.",
+      "date": "2026-10-08",
+      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
-      "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed.",
-      "date": "2026-10-07",
-      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/"
+      "title": "Crew-12 Returns to Earth",
+      "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph.",
+      "date": "2026-10-08",
+      "link": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/"
     },
     {
       "sourceId": "nasa",
-      "title": "Artemis II Crew Moon Photo Annotations",
-      "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet.",
-      "date": "2026-10-07",
-      "link": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/"
+      "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
+      "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets.",
+      "date": "2026-10-08",
+      "link": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
-      "summary": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-07",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
+      "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
+      "summary": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again.",
+      "date": "2026-10-08",
+      "link": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/"
     },
     {
       "sourceId": "nasa",
-      "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
-      "summary": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
-      "date": "2026-10-07",
-      "link": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/"
+      "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
+      "summary": "After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. The crew members will discuss their science mission during a news conference at 3:30 p.m.",
+      "date": "2026-10-08",
+      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/"
     }
   ]
 }
