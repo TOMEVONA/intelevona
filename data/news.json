@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T19:36:44.099Z",
+  "updated": "2026-10-09T18:42:46.088Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,27 @@
     },
     {
       "sourceId": "dod",
+      "title": "Autonomous Surface Craft Help Patrol Panamanian Waters",
+      "summary": "When Exercise Panamax 2026 concluded in mid-August, Panamanian security leaders were impressed with the performance of the Corsair unmanned surface vessels that the U.S. Navy brought along with them.",
+      "date": "2026-10-09",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4623298/autonomous-surface-craft-help-patrol-panamanian-waters/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "USS Lincoln Leadership Sets Record Straight on Quality-of-Life Concerns",
+      "summary": "The commanding officer of the aircraft carrier USS Abraham Lincoln addressed concerns about quality-of-life issues for the crew during the ship's record-setting, 322-day deployment while speaking at a press conference, after the ship arrived at Naval Air Station North Island,…",
+      "date": "2026-10-08",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4623041/uss-lincoln-leadership-sets-record-straight-on-quality-of-life-concerns/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "DPAA Identifies Record Number of Missing Service Members",
+      "summary": "The Defense POW/MIA Accounting Agency identified the remains of 250 service members missing from past conflicts in fiscal 2026, surpassing its previous record.",
+      "date": "2026-10-08",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4622813/dpaa-identifies-record-number-of-missing-service-members/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Army Reserve Unit Supports Local Junior ROTC Raider Challenge",
       "summary": "Junior ROTC cadets from eight high schools converged in Wichita, Kan., for the City League Raider Challenge, a competition testing physical strength and mental fortitude that connected the cadets to soldiers assigned to the Army Reserve's 451st Expeditionary Sustainment Command.",
       "date": "2026-10-08",
@@ -226,60 +247,39 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4621576/army-command-holds-mercury-rising-event-to-strengthen-readiness/"
     },
     {
-      "sourceId": "dod",
-      "title": "Hegseth Visits USS Lincoln Ahead of Homecoming After Record-Breaking Deployment",
-      "summary": "Secretary of War Pete Hegseth spoke to sailors aboard the aircraft carrier USS Abraham Lincoln in San Diego following their record-setting 321-day deployment, during which the ship spent 264 consecutive days at sea without a port call.",
-      "date": "2026-10-07",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4621688/hegseth-visits-uss-lincoln-ahead-of-homecoming-after-record-breaking-deployment/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Florida National Guard Advances Battlefield Capabilities During Drone Crucible",
-      "summary": "The Florida National Guard integrated unmanned aircraft systems, communications technology and situational awareness integration capabilities to give commanders a more complete picture of the battlefield during Exercise Drone Crucible 26.3 at Camp Blanding Joint Training Center,…",
-      "date": "2026-10-07",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4621302/florida-national-guard-advances-battlefield-capabilities-during-drone-crucible/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Trump, Hegseth Announce New Maryland Shipyard",
-      "summary": "President Donald J. Trump and Secretary of War Pete Hegseth announced the development of a new shipyard, to be called \"Arsenal-2,\" during a ceremony at the future site in Sparrows Point, Md.",
-      "date": "2026-10-06",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4620633/trump-hegseth-announce-new-maryland-shipyard/"
+      "sourceId": "viasat",
+      "title": "Astrolight Delivers Space-to-Ground Laser Communications Links",
+      "summary": "Astrolight has reached a key technology milestone as it looks to bring laser communications more into the satellite mainstream. For the first time, it established end-to-end optical communication links from",
+      "date": "2026-10-09",
+      "link": "https://www.satellitetoday.com/technology/2026/10/09/astrolight-delivers-space-to-ground-laser-communications-links/"
     },
     {
       "sourceId": "viasat",
-      "title": "Azercosmos Launches AI Platform",
-      "summary": "Azercosmos has made a significant move in the AI arena. It has launched Platerra, an AI-powered platform designed to automatically analyze satellite imagery and turn it into geospatial information that",
-      "date": "2026-10-07",
-      "link": "https://www.satellitetoday.com/technology/2026/10/07/azercosmos-launches-ai-platform/"
+      "title": "Veon’s Banglalink to Launch Starlink Mobile in Bangladesh",
+      "summary": "Veon-owned operator Banglalink will bring SpaceX‘s Starlink Mobile service to its customers under a new agreement announced Friday. Bangladesh will be the first country in South Asia to introduce the",
+      "date": "2026-10-09",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/09/veons-banglalink-to-launch-starlink-mobile-in-bangladesh/"
     },
     {
       "sourceId": "viasat",
-      "title": "Eutelsat Signs Broadcast Renewal With Algeria’s National Operator",
-      "summary": "Eutelsat signed a capacity renewal for the Eutelsat 7 West A satellite with Télédiffusion d’Algérie (TDA), Algeria’s national broadcasting network operator. TDA has been a long-time customer of Eutelsat and",
-      "date": "2026-10-07",
-      "link": "https://www.satellitetoday.com/connectivity/2026/10/07/eutelsat-signs-broadcast-renewal-with-algerias-national-operator/"
+      "title": "Astrogate Labs Teams with Spacebeam on Optical Links and Ground Service",
+      "summary": "India’s Astrogate Labs is teaming with South Korea-based Spacebeam to demonstrate laser communications, including optical ground stations. Under the MoU, they plan to bring together the companies’ respective tech in",
+      "date": "2026-10-09",
+      "link": "https://www.satellitetoday.com/technology/2026/10/09/astrogate-labs-teams-with-spacebeam-on-optical-links-and-ground-service/"
     },
     {
       "sourceId": "viasat",
-      "title": "Gilat Reports $38M in Recent Contracts for SkyEdge and Peru Connectivity",
-      "summary": "Gilat Satellite Networks reports recent contract wins totalling $38 million for its SkyEdge system and connectivity projects in Peru. Wednesday, Gilat announced $10 million in orders from an unnamed satellite",
-      "date": "2026-10-07",
-      "link": "https://www.satellitetoday.com/technology/2026/10/07/gilat-reports-38m-in-recent-contracts-for-skyedge-and-peru-connectivity/"
+      "title": "L3Harris to Build Telescope for ESA’s LISA Mission",
+      "summary": "L3Harris will build an all-glass telescope for the Laser Interferometer Space Antenna (LISA) mission expected to launch in the mid-2030s. The European Space Agency (ESA) is leading the mission, with",
+      "date": "2026-10-09",
+      "link": "https://www.satellitetoday.com/technology/2026/10/09/l3harris-to-build-telescope-for-esas-lisa-mission/"
     },
     {
       "sourceId": "viasat",
-      "title": "FCC Grants SpaceX Approval for 15,000 Direct-to-Device Satellites in MSS Spectrum",
-      "summary": "The FCC approved SpaceX’s request to deploy 15,000 satellites for direct-to-device (D2D) services, while deferring some of SpaceX’s requests. This 15,000-satellite system is designed to provide both mobile satellite services",
-      "date": "2026-10-07",
-      "link": "https://www.satellitetoday.com/connectivity/2026/10/07/fcc-grants-spacex-approval-for-15000-direct-to-device-satellites-in-mss-spectrum/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "The Breakthroughs and Bottlenecks of Financing Europe’s Space Ambitions",
-      "summary": "The last year in space has garnered unprecedented new interest from the who’s who of international finance, smashing funding records for individual companies and marketwide as Silicon Valley has learned",
-      "date": "2026-10-07",
-      "link": "https://www.satellitetoday.com/finance/2026/10/07/the-breakthroughs-and-bottlenecks-of-financing-europes-space-ambitions/"
+      "title": "SpaceX Moves to Acquire Nationwide Low-Band Spectrum for Starlink Mobile",
+      "summary": "SpaceX announced a deal Thursday afternoon to acquire nationwide, low-band spectrum from Grain Management to improve service for Starlink Mobile and enable the service to operate indoors. SpaceX and Grain",
+      "date": "2026-10-08",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/08/spacex-moves-to-acquire-nationwide-low-band-spectrum-for-starlink-mobile/"
     },
     {
       "sourceId": "spacecom",
@@ -318,38 +318,38 @@
     },
     {
       "sourceId": "rspace",
-      "title": "Stories from star dust: U of A-led mission will study light from distant stars",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x0v1df/stories_from_star_dust_u_of_aled_mission_will/\"> <img src=\"https://external-preview.redd.it/_AET-czdaVAmVyJFp1kXa2RVCTd3rVPY0oIWKrCKOkI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0b19b6be4f4a8503904…",
-      "date": "2026-10-08",
-      "link": "https://www.reddit.com/r/space/comments/1x0v1df/stories_from_star_dust_u_of_aled_mission_will/"
+      "title": "Meteor 2-7, a Soviet weather satellite dead since 1984, may have broken up",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x1s0ht/meteor_27_a_soviet_weather_satellite_dead_since/\"> <img src=\"https://external-preview.redd.it/ukRpoqzxu4hW1KjOWkT6_GBRolO5bf8MqmxJFGCiCrs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=11d57cfabcbbfbd059a…",
+      "date": "2026-10-09",
+      "link": "https://www.reddit.com/r/space/comments/1x1s0ht/meteor_27_a_soviet_weather_satellite_dead_since/"
     },
     {
       "sourceId": "rspace",
-      "title": "ArianeGroup Completes Second Themis Wet Dress Rehearsal",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x0na7h/arianegroup_completes_second_themis_wet_dress/\"> <img src=\"https://external-preview.redd.it/QhvKU1uwLy3vMu7wI0MbGgsSp4c2u2RNyeJHwx0GyT4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78d3857b461fd46645a7…",
-      "date": "2026-10-08",
-      "link": "https://www.reddit.com/r/space/comments/1x0na7h/arianegroup_completes_second_themis_wet_dress/"
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x1ox8k/superpowers_race_to_put_nuclear_reactors_on_the/\"> <img src=\"https://external-preview.redd.it/V9lET2OnC7LMoAwfcZENiWNrI1PArWWzT70vUTf1ifU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60a23311ad27e23eee…",
+      "date": "2026-10-09",
+      "link": "https://www.reddit.com/r/space/comments/1x1ox8k/superpowers_race_to_put_nuclear_reactors_on_the/"
     },
     {
       "sourceId": "rspace",
-      "title": "Blow your mind looking at the stars tonight",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We have Jupiter to the left and Saturn on the right in the sky right now. Orions belt is right up there... and Betelgeuce is just north of that.. that tiny red dot is the size of Jupiters orbit around our sun.",
-      "date": "2026-10-08",
-      "link": "https://www.reddit.com/r/space/comments/1x0lrp0/blow_your_mind_looking_at_the_stars_tonight/"
+      "title": "Discovery marks the first detection of variable water clouds outside of our solar system",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x1hyu7/discovery_marks_the_first_detection_of_variable/\"> <img src=\"https://external-preview.redd.it/eRHyLdgVnVOkpVjVYa1PBXB1Xej2Se-SoG3zDZXO7KY.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=fcfec570a29d973e1b…",
+      "date": "2026-10-09",
+      "link": "https://www.reddit.com/r/space/comments/1x1hyu7/discovery_marks_the_first_detection_of_variable/"
     },
     {
       "sourceId": "rspace",
-      "title": "Jessica Watkins becomes first Black woman to lead crew Mission to the International Space Station. She is also an alumna of the Mars Society Mars Desert Research Station (MDRS) analog program.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x0ivll/jessica_watkins_becomes_first_black_woman_to_lead/\"> <img src=\"https://external-preview.redd.it/twVwosvvJPRLlcxqatbrPzL3m0dL99Pk_JB771CHNGU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df33219d872dcd94…",
-      "date": "2026-10-08",
-      "link": "https://www.reddit.com/r/space/comments/1x0ivll/jessica_watkins_becomes_first_black_woman_to_lead/"
+      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies - NASA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x186ip/nasas_sspicy_mission_to_demonstrate_inspace/\"> <img src=\"https://external-preview.redd.it/xse3AQCgKe4y-nU5ieU0ZNTJg2cpz5TQDk73U8gCt_I.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=da57289c37604de12fb3ad1…",
+      "date": "2026-10-09",
+      "link": "https://www.reddit.com/r/space/comments/1x186ip/nasas_sspicy_mission_to_demonstrate_inspace/"
     },
     {
       "sourceId": "rspace",
-      "title": "Artemis II Reentry video with Cabin Audio (full length)",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x0fnno/artemis_ii_reentry_video_with_cabin_audio_full/\"> <img src=\"https://external-preview.redd.it/kvwWG91D-nTGJa1SglIWwV145XuszcntbuSSP4wnvl8.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d30c349b854947a640f…",
+      "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition. SpaceX (SPCX.O) struck a deal on ‌Thursday to acquire a nationwide low-band spectrum portfolio",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/esporx\"> /u/esporx </a> <br/> <span><a href=\"https://www.reuters.com/business/media-telecom/spacex-acquire-spectrum-that-enables-starlink-mobile-services-2026-10-08/\">[link]</a></span> &#32; <span><a…",
       "date": "2026-10-08",
-      "link": "https://www.reddit.com/r/space/comments/1x0fnno/artemis_ii_reentry_video_with_cabin_audio_full/"
+      "link": "https://www.reddit.com/r/space/comments/1x15pa4/spacex_takes_aim_at_us_wireless_carriers_with/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
-      "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris.",
-      "date": "2026-10-08",
-      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
+      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+      "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit.",
+      "date": "2026-10-09",
+      "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
     },
     {
       "sourceId": "nasa",
-      "title": "Crew-12 Returns to Earth",
-      "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph.",
-      "date": "2026-10-08",
-      "link": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/"
+      "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+      "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash.",
+      "date": "2026-10-09",
+      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
-      "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets.",
-      "date": "2026-10-08",
-      "link": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/"
+      "title": "Cosmic House of Mirrors",
+      "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300.",
+      "date": "2026-10-09",
+      "link": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
     },
     {
       "sourceId": "nasa",
-      "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
-      "summary": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again.",
-      "date": "2026-10-08",
-      "link": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/"
+      "title": "APOD: 2026 October 9 – Stickney Crater",
+      "summary": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-10-09",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
-      "summary": "After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. The crew members will discuss their science mission during a news conference at 3:30 p.m.",
-      "date": "2026-10-08",
-      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/"
+      "title": "Floodwaters Overwhelm Thailand",
+      "summary": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.",
+      "date": "2026-10-09",
+      "link": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/"
     }
   ]
 }
