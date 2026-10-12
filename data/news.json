@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-11T18:34:21.153Z",
+  "updated": "2026-10-12T21:39:11.304Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+      "summary": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores",
+      "date": "2026-10-12",
+      "link": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/"
+    },
     {
       "sourceId": "spacenews",
       "title": "What will it take to build a moon base?",
@@ -28,13 +35,6 @@
       "summary": "Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering",
       "date": "2026-10-05",
       "link": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
-      "summary": "DURANGO, Colo., Oct. 5, 2026 — Agile Space Industries today announced that Jonathan Baliff has joined its Board of Directors, bringing extensive experience in aerospace, finance, and corporate leadership. His",
-      "date": "2026-10-05",
-      "link": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/"
     },
     {
       "sourceId": "tectonic",
@@ -248,108 +248,108 @@
     },
     {
       "sourceId": "viasat",
+      "title": "ispace and ALTEC Partner for New Lunar Testing",
+      "summary": "ispace-Europe and Aerospace Logistics Technology Engineering Company (ALTEC) are set to collaborate on lunar rover testing, mission simulations, and operations training in a new pan-European partnership. ispace-Europe and ALTEC will",
+      "date": "2026-10-12",
+      "link": "https://www.satellitetoday.com/space-economy/2026/10/12/ispace-and-altec-combine-for-new-lunar-testing/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "York Space Systems to Support Interoperability Demonstration for Space Data Network",
+      "summary": "York Space Systems will support a multi-vendor interoperability demonstration as part of a recent U.S. Space Force award for the Space Data Network (SDN). York Space was one of five",
+      "date": "2026-10-12",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/12/york-space-systems-to-support-interoperability-demonstration-for-space-data-network/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Kratos OpenSpace Used for KT SAT 5G NR NTN Demonstration",
+      "summary": "Kratos’ OpenSpace ground system platform was used in a recent KT SAT demonstration that showed end-to-end connectivity across a native, multi-vendor 5G New Radio (5G NR) non-terrestrial network (NTN). Kratos",
+      "date": "2026-10-12",
+      "link": "https://www.satellitetoday.com/technology/2026/10/12/kratos-openspace-used-for-kt-sat-5g-nr-ntn-demonstration/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Planet Introduces Map of World’s Population With Microsoft and IHME",
+      "summary": "Planet has debuted a new, continuously updated map of the world’s population built through a collaboration with the Institute for Health Metrics and Evaluation (IHME) at the University of Washington",
+      "date": "2026-10-12",
+      "link": "https://www.satellitetoday.com/earth-observation/2026/10/12/planet-introduces-map-of-worlds-population-with-microsoft-and-ihme/"
+    },
+    {
+      "sourceId": "viasat",
       "title": "Astrolight Delivers Space-to-Ground Laser Communications Links",
       "summary": "Astrolight has reached a key technology milestone as it looks to bring laser communications more into the satellite mainstream. For the first time, it established end-to-end optical communication links from",
       "date": "2026-10-09",
       "link": "https://www.satellitetoday.com/technology/2026/10/09/astrolight-delivers-space-to-ground-laser-communications-links/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Veon’s Banglalink to Launch Starlink Mobile in Bangladesh",
-      "summary": "Veon-owned operator Banglalink will bring SpaceX‘s Starlink Mobile service to its customers under a new agreement announced Friday. Bangladesh will be the first country in South Asia to introduce the",
-      "date": "2026-10-09",
-      "link": "https://www.satellitetoday.com/connectivity/2026/10/09/veons-banglalink-to-launch-starlink-mobile-in-bangladesh/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Astrogate Labs Teams with Spacebeam on Optical Links and Ground Service",
-      "summary": "India’s Astrogate Labs is teaming with South Korea-based Spacebeam to demonstrate laser communications, including optical ground stations. Under the MoU, they plan to bring together the companies’ respective tech in",
-      "date": "2026-10-09",
-      "link": "https://www.satellitetoday.com/technology/2026/10/09/astrogate-labs-teams-with-spacebeam-on-optical-links-and-ground-service/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "L3Harris to Build Telescope for ESA’s LISA Mission",
-      "summary": "L3Harris will build an all-glass telescope for the Laser Interferometer Space Antenna (LISA) mission expected to launch in the mid-2030s. The European Space Agency (ESA) is leading the mission, with",
-      "date": "2026-10-09",
-      "link": "https://www.satellitetoday.com/technology/2026/10/09/l3harris-to-build-telescope-for-esas-lisa-mission/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "SpaceX Moves to Acquire Nationwide Low-Band Spectrum for Starlink Mobile",
-      "summary": "SpaceX announced a deal Thursday afternoon to acquire nationwide, low-band spectrum from Grain Management to improve service for Starlink Mobile and enable the service to operate indoors. SpaceX and Grain",
-      "date": "2026-10-08",
-      "link": "https://www.satellitetoday.com/connectivity/2026/10/08/spacex-moves-to-acquire-nationwide-low-band-spectrum-for-starlink-mobile/"
+      "sourceId": "spacecom",
+      "title": "SpaceX launching 6,300 pounds of cargo to the ISS on Oct. 13: Watch it live",
+      "summary": "SpaceX will launch more than 3 tons of cargo toward the International Space Station on Tuesday morning (Oct. 13), and you can watch the action live.",
+      "date": "2026-10-12",
+      "link": "https://www.space.com/space-exploration/international-space-station/spacex-crs-35-cargo-launch-international-space-station"
     },
     {
       "sourceId": "spacecom",
-      "title": "The universe's most extreme dead stars can form from vampire white dwarfs — and scientists finally know how",
-      "summary": "Some vampire white dwarfs that feed on companion stars can transform into neutron stars, but like a cosmic Goldilocks, conditions must be \"just right\" for this extreme makeover.",
-      "date": "2026-09-16",
-      "link": "https://www.space.com/astronomy/stars/the-universes-most-extreme-dead-stars-can-form-from-vampire-white-dwarfs-and-scientists-finally-know-how"
+      "title": "Astronomers witness supermassive black hole gorge on a cosmic meal before 'burping' radio jets 300 days later",
+      "summary": "Using the NASA spacecraft Swift, astronomers observed a supermassive black hole burping radio jets 300 days after a heavy cosmic meal.",
+      "date": "2026-10-12",
+      "link": "https://www.space.com/astronomy/black-holes/nasa-spacecraft-sees-supermassive-black-hole-gorge-on-a-cosmic-meal-before-burping-radio-jets-300-days-later"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Sept. 16, 1949: A US launch of a V-2 rocket explodes, killing its monkey passenger Albert III",
-      "summary": "On Sept. 16, 1949, the U.S. launched a V-2 rocket with a monkey named Albert III on board. Here's how it happened and why it mattered.",
-      "date": "2026-09-16",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-16-2026"
+      "title": "The moon could turn astronauts into 'walking, high voltage capacitors' that accidentally zap spacecraft",
+      "summary": "NASA is asking for ideas to stop static electricity from zapping astronauts or critical hardware during moon missions.",
+      "date": "2026-10-12",
+      "link": "https://www.space.com/astronomy/moon/the-moon-could-turn-astronauts-into-walking-high-voltage-capacitors-that-accidentally-zap-spacecraft"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Lost in Space': Celebrity astrophysicist Neil deGrasse Tyson on his lavish new encyclopedia of the cosmos (interview)",
-      "summary": "Neil deGrasse Tyson discusses his latest book, \"Lost in Space,\" a gorgeously illustrated 400-page odyssey around the heavens.",
-      "date": "2026-09-16",
-      "link": "https://www.space.com/entertainment/space-books/lost-in-space-celebrity-astrophysicist-neil-degrasse-tyson-on-his-lavish-new-encyclopedia-of-the-cosmos-interview"
+      "title": "The 'Halloween Fireballs' are coming. Here's what to expect from the Taurids this year",
+      "summary": "The Southern and Northern Taurid meteor showers will produce occasional bright, slow-moving meteors worldwide during October and November, with moon-free peaks in 2026.",
+      "date": "2026-10-12",
+      "link": "https://www.space.com/stargazing/meteor-showers/the-halloween-fireballs-are-coming-heres-what-to-expect-from-the-taurids-this-year"
     },
     {
       "sourceId": "spacecom",
-      "title": "Colossal cosmic cloud revealed in insane new image from the James Webb Space Telescope | Space photo of the day for Sept. 16, 2026",
-      "summary": "James Webb Space Telescope spies colossal cosmic cloud | Space photo of the day for Sept. 16, 2026",
-      "date": "2026-09-16",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/colossal-cosmic-cloud-revealed-in-insane-new-image-from-the-james-webb-space-telescope-space-photo-of-the-day-for-sept-16-2026"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Steven Spielberg's alien conspiracy movie 'Disclosure Day' finally hits a streaming service in October",
-      "summary": "This summer's sci-fi mystery about alien conspiracies finally lands on the streamer next month.",
-      "date": "2026-09-16",
-      "link": "https://www.space.com/entertainment/space-movies-shows/steven-spielbergs-alien-conspiracy-movie-disclosure-day-finally-hits-streaming-service-in-october"
+      "title": "On this day in space! Oct. 12, 1964: The Soviet Union launches Voskhod 1, the 1st multi-person cosmonaut crew, into space",
+      "summary": "On Oct. 12, 1964, the Soviet Union launched Voskhod 1, a 24-hour crewed mission that achieved several \"firsts\" for human spaceflight. Here's why it mattered.",
+      "date": "2026-10-12",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-12-2026"
     },
     {
       "sourceId": "rspace",
-      "title": "Orion Nebula (M42) — Xiaomi 13 Ultra",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x3fbrr/orion_nebula_m42_xiaomi_13_ultra/\"> <img src=\"https://preview.redd.it/l4dgtysrqvuh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e4af93f5caef8732f310d5be803fc1b626013bd\" alt=\"Orion Nebula (M42) —…",
-      "date": "2026-10-11",
-      "link": "https://www.reddit.com/r/space/comments/1x3fbrr/orion_nebula_m42_xiaomi_13_ultra/"
+      "title": "Astronomers witness supermassive black hole gorge on a cosmic meal before 'burping' radio jets 300 days later",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x4dq4d/astronomers_witness_supermassive_black_hole_gorge/\"> <img src=\"https://external-preview.redd.it/glwqeBcS17SxYNnuuhcljvgIvfVbO2k5WDcDUaSsRxM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f409930da29d3f34…",
+      "date": "2026-10-12",
+      "link": "https://www.reddit.com/r/space/comments/1x4dq4d/astronomers_witness_supermassive_black_hole_gorge/"
     },
     {
       "sourceId": "rspace",
-      "title": "Abandoned under the cosmos | Southland, New Zealand",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x3fba0/abandoned_under_the_cosmos_southland_new_zealand/\"> <img src=\"https://preview.redd.it/u7cxa40sqvuh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=12e4ddcaced90fd57fd4a7707f17147a3a067d3f\"…",
-      "date": "2026-10-11",
-      "link": "https://www.reddit.com/r/space/comments/1x3fba0/abandoned_under_the_cosmos_southland_new_zealand/"
+      "title": "In terms of cosmic footprint, what will humanity be like in the future?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Will we expand to the stars and build an interstellar civilization? Or will we mostly remain on Earth and master the fundamental aspects of space-time?",
+      "date": "2026-10-12",
+      "link": "https://www.reddit.com/r/space/comments/1x4bqwj/in_terms_of_cosmic_footprint_what_will_humanity/"
     },
     {
       "sourceId": "rspace",
-      "title": "All Space Questions thread for week of October 11, 2026",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please sort comments by &#39;new&#39; to find questions that would otherwise be buried.</p> <p>In this thread you can ask any space related question that you may have.</p> <p>Two examples of potential questions could be; \"How do rockets work?\",…",
-      "date": "2026-10-11",
-      "link": "https://www.reddit.com/r/space/comments/1x3dcga/all_space_questions_thread_for_week_of_october_11/"
+      "title": "The dying sun could tear the solar system apart sooner than thought - shrinking the timeline from a quintillion years down to roughly 1 billion years, for some of the outer planets",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x4begf/the_dying_sun_could_tear_the_solar_system_apart/\"> <img src=\"https://external-preview.redd.it/pAeqelwwh7JjpqtT6sQRAOlSi7v41n7_ZNzlUU3I_qE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb7a5ffa21a185bdca…",
+      "date": "2026-10-12",
+      "link": "https://www.reddit.com/r/space/comments/1x4begf/the_dying_sun_could_tear_the_solar_system_apart/"
     },
     {
       "sourceId": "rspace",
-      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink: “These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.”",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x381ly/spacex_calls_for_better_coordination_in_orbit/\"> <img src=\"https://external-preview.redd.it/GJUtCm-o9mopaybcHR2MB6MPI2vDZBQIWIpCQdgXGlo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1af43d4eba9815e74d1…",
-      "date": "2026-10-11",
-      "link": "https://www.reddit.com/r/space/comments/1x381ly/spacex_calls_for_better_coordination_in_orbit/"
+      "title": "Question: best way to sell",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x49itj/question_best_way_to_sell/\"> <img src=\"https://preview.redd.it/rtgcty30w2vh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ba3ff7c1ebfe35dbc0498f86882e6f8b0b41f5e\" alt=\"Question: best way to sell\"…",
+      "date": "2026-10-12",
+      "link": "https://www.reddit.com/r/space/comments/1x49itj/question_best_way_to_sell/"
     },
     {
       "sourceId": "rspace",
-      "title": "Russia is preparing for a new space mission",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x2oivi/russia_is_preparing_for_a_new_space_mission/\"> <img src=\"https://external-preview.redd.it/ncv8VELlqAAQj932cngHBYj7zEAb48JWyfraZ2EiwJY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d4126cae9ed5527290181…",
-      "date": "2026-10-10",
-      "link": "https://www.reddit.com/r/space/comments/1x2oivi/russia_is_preparing_for_a_new_space_mission/"
+      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x48t5j/mars_may_be_a_hellhole_but_the_moon_is_not_far/\"> <img src=\"https://external-preview.redd.it/nm3plPIYYsknnwqYhpLdV-_29Z-dZRvLtceICdLLrcQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5cb270fe946d5f3921f…",
+      "date": "2026-10-12",
+      "link": "https://www.reddit.com/r/space/comments/1x48t5j/mars_may_be_a_hellhole_but_the_moon_is_not_far/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,27 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+      "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that…",
+      "date": "2026-10-12",
+      "link": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "APOD: 2026 October 12 – Jupiter and the Moons",
+      "summary": "APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-10-12",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+      "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
+      "date": "2026-10-12",
+      "link": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
       "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-10-11",
@@ -434,27 +455,6 @@
       "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11.",
       "date": "2026-10-10",
       "link": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 October 10 – Lunar Farside",
-      "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-10",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-      "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit.",
-      "date": "2026-10-09",
-      "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-      "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash.",
-      "date": "2026-10-09",
-      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/"
     }
   ]
 }
