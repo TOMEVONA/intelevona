@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T19:48:17.351Z",
+  "updated": "2026-10-13T20:00:26.749Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -178,6 +178,27 @@
     },
     {
       "sourceId": "ussf",
+      "title": "Space Force launches Guardian Spark outreach program to inspire students nationwide",
+      "summary": "The United States Space Force is launching Guardian Spark, a new annual outreach program that connects Guardians with students in grades 3 to 12 to share the mission, people and opportunities behind the nation’s newest military service.<br/> <img…",
+      "date": "2026-10-13",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4624333/space-force-launches-guardian-spark-outreach-program-to-inspire-students-nation/"
+    },
+    {
+      "sourceId": "ussf",
+      "title": "First Guardians complete Jungle Operations Training Course in Panama",
+      "summary": "Two U.S. Space Force officers became the first Guardians to complete the Jungle Operations Training Course-Panama at Aeronaval Base Cristóbal Colón.<br/> <img src='https://media.defense.gov/2026/Oct/08/2004013355/300/300/0/260912-A-WU359-9041.JPG' alt='Guardians graduate Panama…",
+      "date": "2026-10-08",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4622101/first-guardians-complete-jungle-operations-training-course-in-panama/"
+    },
+    {
+      "sourceId": "ussf",
+      "title": "DAF leaders, their spouses highlight families’ role in mission success",
+      "summary": "During a panel at the 2026 Air, Space & Cyber Conference, senior DAF leaders and their spouses discussed grassroots quality-of-life challenges alongside key initiatives, including the Global Military Spouse Connection pilot, DoD STARBASE STEM programs, and AFPAAS roster…",
+      "date": "2026-10-07",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4621304/daf-leaders-their-spouses-highlight-families-role-in-mission-success/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "AFAS offers childcare assistance to Air Force, Space Force families",
       "summary": "These targeted childcare relief programs assist families during high-stress periods, relocations, and educational pursuits.<br/> <img src='https://media.defense.gov/2026/Oct/01/2004010060/300/300/0/260611-F-TC518-1120.JPG' alt='U.S.",
       "date": "2026-10-01",
@@ -189,34 +210,6 @@
       "summary": "The visit provided an opportunity for Lohmeier to meet with command leaders and subject matter experts, who offered insights on current and future missions, challenges and opportunities.",
       "date": "2026-10-01",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4616154/usecaf-sees-ramstein-ab-airmen-guardian-readiness-firsthand/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "DAF to adopt standardized Religious Affiliation Codes: Action required in vMPF",
-      "summary": "Airmen and Guardians must take action to update their RAC in the Virtual Military Personnel Flight and certify their Record of Emergency Data is accurate.<br/> <img src='https://media.defense.gov/2026/Aug/21/2004007260/300/300/0/260819-F-AH757-1001.JPG' alt='A chaplain assigned…",
-      "date": "2026-09-25",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4611397/daf-to-adopt-standardized-religious-affiliation-codes-action-required-in-vmpf/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "Department of the Air Force pilot program expands to help more military spouses",
-      "summary": "Administered by the AFPC and AFCS, the initiative connects active-duty spouses undergoing a permanent change of station with direct hiring opportunities.",
-      "date": "2026-09-23",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4609375/department-of-the-air-force-pilot-program-expands-to-help-more-military-spouses/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "CMSSF Visits Vandenberg SFB",
-      "summary": "Chief Master Sgt. of the Space Force John F. Bentivegna visited Vandenberg Space Force Base Sept. 18, engaging with Guardians, Airmen and civilian personnel across multiple mission areas to reinforce the service's foundational priority to \"Forge the Guardian Ethos.\"<br/> <img…",
-      "date": "2026-09-21",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4608593/cmssf-visits-vandenberg-sfb/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Training Prepares Soldier to Save Lives During Accident",
-      "summary": "Army Sgt. 1st Class Jeff Hytower encountered the aftermath of a serious vehicle crash while commuting to Joint Base Lewis-McChord, Wash., recently.",
-      "date": "2026-10-13",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4624464/training-prepares-soldier-to-save-lives-during-accident/"
     },
     {
       "sourceId": "dod",
@@ -247,6 +240,27 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4623041/uss-lincoln-leadership-sets-record-straight-on-quality-of-life-concerns/"
     },
     {
+      "sourceId": "dod",
+      "title": "DPAA Identifies Record Number of Missing Service Members",
+      "summary": "The Defense POW/MIA Accounting Agency identified the remains of 250 service members missing from past conflicts in fiscal 2026, surpassing its previous record.",
+      "date": "2026-10-08",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4622813/dpaa-identifies-record-number-of-missing-service-members/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Gogo Wins BizJet Deal for Duncan Aviation",
+      "summary": "Duncan Aviation, one of the world’s largest privately-owned business jet service providers signed a deal with Gogo to acquire 40 Gogo Galileo HDX systems, marking Gogo’s largest single MRO (maintenance,",
+      "date": "2026-10-13",
+      "link": "https://www.satellitetoday.com/mobility/2026/10/13/gogo-wins-bizjet-deal-for-duncan-aviation/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "SES Taps Lyntris for PTS-G Satellite Payload",
+      "summary": "SES has selected Lyntris as the payload integrator for its work for the U.S. Space Force’s Protected Tactical Satellite-Global (PTS-G) program. Space Systems Command contracted both SES and Viasat in",
+      "date": "2026-10-13",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/13/ses-taps-lyntris-for-pts-g-satellite-payload/"
+    },
+    {
       "sourceId": "viasat",
       "title": "Turning Orbit into Infrastructure: Why Satellites Are Becoming Part of the Mobile Economy",
       "summary": "For decades, satellite communications operated separately from terrestrial networks, relying on proprietary infrastructure and vertically integrated architectures. That separation limited interoperability and scale. Today, those boundaries are beginning to dissolve.",
@@ -266,20 +280,6 @@
       "summary": "European industrial and defense group CSG is now the largest shareholder in Canadian satellite manufacturer MDA Space after making an investment to hold 9.5% equity in the company. The investment,",
       "date": "2026-10-13",
       "link": "https://www.satellitetoday.com/finance/2026/10/13/europes-csg-becomes-largest-shareholder-of-mda-space/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "ispace and ALTEC Partner for New Lunar Testing",
-      "summary": "ispace-Europe and Aerospace Logistics Technology Engineering Company (ALTEC) are set to collaborate on lunar rover testing, mission simulations, and operations training in a new pan-European partnership. ispace-Europe and ALTEC will",
-      "date": "2026-10-12",
-      "link": "https://www.satellitetoday.com/space-economy/2026/10/12/ispace-and-altec-combine-for-new-lunar-testing/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "York Space Systems to Support Interoperability Demonstration for Space Data Network",
-      "summary": "York Space Systems will support a multi-vendor interoperability demonstration as part of a recent U.S. Space Force award for the Space Data Network (SDN). York Space was one of five",
-      "date": "2026-10-12",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/12/york-space-systems-to-support-interoperability-demonstration-for-space-data-network/"
     },
     {
       "sourceId": "spacecom",
