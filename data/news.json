@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-13T20:00:26.749Z",
+  "updated": "2026-10-14T17:52:42.566Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
+      "summary": "When the European thermal-imagery company constellr began working with Space Inventor on its next generation of satellites, some of the most important details of the spacecraft had yet to be",
+      "date": "2026-10-14",
+      "link": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
@@ -28,13 +35,6 @@
       "summary": "Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for",
       "date": "2026-10-06",
       "link": "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Resource competition intensifies with surge in megaconstellations",
-      "summary": "Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering",
-      "date": "2026-10-05",
-      "link": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,20 @@
     },
     {
       "sourceId": "ussf",
+      "title": "CSO Notice to Guardians: Lines of Effort for the Force",
+      "summary": "The chief of space operations laid out the three Lines of Effort that will guide the Space Force under his watch, telling Guardians in a service-wide notice that the priorities will define his time as the military branch's top officer.<br/>",
+      "date": "2026-10-14",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4625150/cso-notice-to-guardians-lines-of-effort-for-the-force/"
+    },
+    {
+      "sourceId": "ussf",
+      "title": "Space Force activates SPACEFOR-SOC as service component command to Special Operations Command",
+      "summary": "Effective Oct. 7, SPACEFOR-SOC was activated as a component field command of the U.S. Space Force.<br/>",
+      "date": "2026-10-14",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4625108/space-force-activates-spacefor-soc-as-service-component-command-to-special-oper/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "Space Force launches Guardian Spark outreach program to inspire students nationwide",
       "summary": "The United States Space Force is launching Guardian Spark, a new annual outreach program that connects Guardians with students in grades 3 to 12 to share the mission, people and opportunities behind the nation’s newest military service.<br/> <img…",
       "date": "2026-10-13",
@@ -198,18 +212,11 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4621304/daf-leaders-their-spouses-highlight-families-role-in-mission-success/"
     },
     {
-      "sourceId": "ussf",
-      "title": "AFAS offers childcare assistance to Air Force, Space Force families",
-      "summary": "These targeted childcare relief programs assist families during high-stress periods, relocations, and educational pursuits.<br/> <img src='https://media.defense.gov/2026/Oct/01/2004010060/300/300/0/260611-F-TC518-1120.JPG' alt='U.S.",
-      "date": "2026-10-01",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4617168/afas-offers-childcare-assistance-to-air-force-space-force-families/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "USecAF sees Ramstein AB Airmen, Guardian readiness firsthand",
-      "summary": "The visit provided an opportunity for Lohmeier to meet with command leaders and subject matter experts, who offered insights on current and future missions, challenges and opportunities.",
-      "date": "2026-10-01",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4616154/usecaf-sees-ramstein-ab-airmen-guardian-readiness-firsthand/"
+      "sourceId": "dod",
+      "title": "Training Prepares Soldier to Save Lives During Accident",
+      "summary": "Army Sgt. 1st Class Jeff Hytower encountered the aftermath of a serious vehicle crash while commuting to Joint Base Lewis-McChord, Wash., recently.",
+      "date": "2026-10-13",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4624464/training-prepares-soldier-to-save-lives-during-accident/"
     },
     {
       "sourceId": "dod",
@@ -240,11 +247,18 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4623041/uss-lincoln-leadership-sets-record-straight-on-quality-of-life-concerns/"
     },
     {
-      "sourceId": "dod",
-      "title": "DPAA Identifies Record Number of Missing Service Members",
-      "summary": "The Defense POW/MIA Accounting Agency identified the remains of 250 service members missing from past conflicts in fiscal 2026, surpassing its previous record.",
-      "date": "2026-10-08",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4622813/dpaa-identifies-record-number-of-missing-service-members/"
+      "sourceId": "viasat",
+      "title": "Space Sector Faced More Than One Cyberattack Per Day in 2025",
+      "summary": "By crawling through hundreds of Telegram channels, cybercriminal forums, and other open sources, 407 cyber operations against the space sector were identified in 2025, accounting for more than one attack",
+      "date": "2026-10-14",
+      "link": "https://www.satellitetoday.com/opinion/2026/10/14/space-sector-faced-more-than-one-cyberattack-per-day-in-2025/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "CyberSat’s 10-Year Journey, Told by the Community That Built It",
+      "summary": "This year, CyberSat celebrates its 10-year anniversary, and over the 10 years it has cemented itself as the leading space and cybersecurity event. The event continues to blaze a trail",
+      "date": "2026-10-14",
+      "link": "https://www.satellitetoday.com/cybersecurity/2026/10/14/cybersats-10-year-journey-told-by-the-community-that-built-it/"
     },
     {
       "sourceId": "viasat",
@@ -268,53 +282,67 @@
       "link": "https://www.satellitetoday.com/opinion/2026/10/13/turning-orbit-into-infrastructure-why-satellites-are-becoming-part-of-the-mobile-economy/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Viasat Places Order for All.Space Hydra Max Terminals",
-      "summary": "Viasat has placed an order for multiple All.Space Hydra MAX satcom terminals which are designed to transmit multiple satellite links simultaneously. The Hydra Max terminal is now approved for operation",
-      "date": "2026-10-13",
-      "link": "https://www.satellitetoday.com/technology/2026/10/13/viasat-places-order-for-all-space-hydra-max-terminals/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Europe’s CSG Becomes Largest Shareholder of MDA Space",
-      "summary": "European industrial and defense group CSG is now the largest shareholder in Canadian satellite manufacturer MDA Space after making an investment to hold 9.5% equity in the company. The investment,",
-      "date": "2026-10-13",
-      "link": "https://www.satellitetoday.com/finance/2026/10/13/europes-csg-becomes-largest-shareholder-of-mda-space/"
+      "sourceId": "spacecom",
+      "title": "On this day in space! Oct. 14, 1947: Test pilot Chuck Yeager breaks the sound barrier in the Bell X-1, the first X-plane",
+      "summary": "On this day in space! Oct. 14, 1947: Test pilot Chuck Yeager breaks the sound barrier in the Bell X-1, the first X-plane",
+      "date": "2026-10-14",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-14-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
-      "summary": "The location of Earth's geographic poles has changed several times over the past 320 million years in a process known as true polar wander.",
-      "date": "2026-10-13",
-      "link": "https://www.space.com/astronomy/earth/earths-poles-shifted-surprisingly-fast-during-the-age-of-dinosaurs-ancient-sea-levels-reveal"
+      "title": "Life after the moon: Artemis II's Christina Koch steps down from active astronaut duty",
+      "summary": "Artemis II mission specialist Christina Koch will become NASA's acting deputy chief engineer on Nov. 1. All four Artemis II crewmates have now stepped away from active spaceflight duties.",
+      "date": "2026-10-14",
+      "link": "https://www.space.com/space-exploration/artemis/life-after-the-moon-artemis-iis-christina-koch-steps-down-from-active-astronaut-duty"
     },
     {
       "sourceId": "spacecom",
-      "title": "How to watch 'VisionQuest' online — stream the MCU's 'WandaVision' spinoff series from anywhere",
-      "summary": "How to watch \"VisionQuest\", the MCU spinoff starring Paul Bettany, James Spader and Todd Stashwick. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
-      "date": "2026-10-13",
-      "link": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-visionquest"
+      "title": "'The X-Files' is officially returning as Hulu picks up Ryan Coogler's 'reimagining' of the sci-fi icon",
+      "summary": "Trust no one.",
+      "date": "2026-10-14",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-x-files-is-officially-returning-as-hulu-picks-up-ryan-cooglers-reimagining-of-the-sci-fi-icon"
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX rocket launch creates incredible 'space jellyfish' visible throughout US East Coast (photos)",
-      "summary": "The SpaceX cargo launch to the International Space Station on Tuesday morning (Oct. 13) created a dazzling display seen up and down the US East Coast.",
-      "date": "2026-10-13",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-creates-incredible-space-jellyfish-visible-throughout-us-east-coast-photos"
+      "title": "Cosmic 'jellyfish' wows skywatchers after SpaceX launch | Space photo of the day for Oct. 14, 2026",
+      "summary": "A \"jellyfish\" in the early-morning sky created by SpaceX's launch of the CRS-35 cargo mission on Oct. 13, 2026.",
+      "date": "2026-10-14",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/cosmic-jellyfish-wows-skywatchers-after-spacex-launch-space-photo-of-the-day-for-oct-14-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "2 spacecraft in orbit and 8 more coming soon: Varda has big plans for in-space manufacturing",
-      "summary": "Reentry provider Varda Space Industries is currently flying two spacecraft in Earth orbit and has eight more missions planned in the next year.",
-      "date": "2026-10-13",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/2-spacecraft-in-orbit-and-8-more-coming-soon-varda-has-big-plans-for-in-space-manufacturing"
+      "title": "The 1st SpaceX Starship to survive a launch to space just came home to its launch site",
+      "summary": "After surviving its splashdown and a grueling journey at sea, SpaceX's Ship 40 has returned to Starbase, where engineers will study the first recovered Starship upper stage for clues to future reusability.",
+      "date": "2026-10-14",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-1st-spacex-starship-to-survive-a-launch-to-space-just-came-home-to-its-launch-site"
     },
     {
-      "sourceId": "spacecom",
-      "title": "'Space Gal' Emily Calandrelli launches into the Marvel Universe this week on Disney Jr.'s 'Iron Man' series (exclusive)",
-      "summary": "Real-life astronaut and science communicator Emily Calandrelli will make a guest appearance in the upcoming episode of Disney Jr.'s animated \"Marvel's Iron Man and his Awesome Friends\" on Oct. 14.",
-      "date": "2026-10-13",
-      "link": "https://www.space.com/entertainment/space-movies-shows/space-gal-emily-calandrelli-launches-into-the-marvel-universe-this-week-on-disney-jr-s-iron-man-series-exclusive"
+      "sourceId": "rspace",
+      "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x5txxc/nasa_to_discuss_artemis_acceleration_status_of/\"> <img src=\"https://external-preview.redd.it/KRJJTXwht19p2KuvLjGSw5PmE8IX7VC50uUh9G32rz8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f738b7381cd4f64c6f7…",
+      "date": "2026-10-14",
+      "link": "https://www.reddit.com/r/space/comments/1x5txxc/nasa_to_discuss_artemis_acceleration_status_of/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Japan's MMX is set to launch for Mars on Monday at 19:41 UTC, on the most powerful version of its H3 rocket",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x5nt9l/japans_mmx_is_set_to_launch_for_mars_on_monday_at/\"> <img src=\"https://external-preview.redd.it/4L3obD_Qi-WTP9lL0t1BOs9KxKfn7mIa11zE9DM41jE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dfad93025b4c5f64…",
+      "date": "2026-10-14",
+      "link": "https://www.reddit.com/r/space/comments/1x5nt9l/japans_mmx_is_set_to_launch_for_mars_on_monday_at/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Question About Sat/Unmanned Cameras",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey all, I&#39;ve been looking at some photos that NASA has been releasing (like ones from Discover) and noticing a lot of the cameras on probes/sats they use a triple overlay to creature fully colored (to us) images.</p> <p>Why is using three…",
+      "date": "2026-10-14",
+      "link": "https://www.reddit.com/r/space/comments/1x5i8j7/question_about_satunmanned_cameras/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Christina Koch Retiring From Flight Status",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x5d59g/christina_koch_retiring_from_flight_status/\"> <img src=\"https://external-preview.redd.it/313gZeDTg23A2TEIAR1SGKdM5gvBIr5FRWEvwa2oBbo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=545914c3c9793a112b2b874…",
+      "date": "2026-10-14",
+      "link": "https://www.reddit.com/r/space/comments/1x5d59g/christina_koch_retiring_from_flight_status/"
     },
     {
       "sourceId": "rspace",
@@ -322,34 +350,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x54ksg/spacex_launches_cargo_ship_to_space_station_in/\"> <img src=\"https://external-preview.redd.it/_0JFznPIl-ymx5nNNx8TSWlBKu0l9ooyg-kWb9h85A0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5771a2260c22042731e…",
       "date": "2026-10-13",
       "link": "https://www.reddit.com/r/space/comments/1x54ksg/spacex_launches_cargo_ship_to_space_station_in/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Mount Sinai scientists to send human tissue models into space to study brain, heart health, and aging in microgravity",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x52k62/mount_sinai_scientists_to_send_human_tissue/\"> <img src=\"https://external-preview.redd.it/GI2DVXLw8hwA3YB5YmtLOR77Xy3TU7wC6tR3haNTyOA.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=fd02e8524c81be4115b633…",
-      "date": "2026-10-13",
-      "link": "https://www.reddit.com/r/space/comments/1x52k62/mount_sinai_scientists_to_send_human_tissue/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Discovery marks the first detection of variable water clouds outside of our solar system",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x50xvd/discovery_marks_the_first_detection_of_variable/\"> <img src=\"https://external-preview.redd.it/zOWRuTjs8EO-mVeujLN-c10sECAbd3CQGj0H85lxHn4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=987b8c3872b2186699…",
-      "date": "2026-10-13",
-      "link": "https://www.reddit.com/r/space/comments/1x50xvd/discovery_marks_the_first_detection_of_variable/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Mars Perseverance Rover Distance Record: In just five years, Perseverance has passed Opportunity’s 45 km record",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x4z32o/mars_perseverance_rover_distance_record_in_just/\"> <img src=\"https://external-preview.redd.it/RlcmqHpcxgEQs0EhRqM1FjiV9U9Dvm_QNBBO5eSwixY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=624651752266a2805c…",
-      "date": "2026-10-13",
-      "link": "https://www.reddit.com/r/space/comments/1x4z32o/mars_perseverance_rover_distance_record_in_just/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Italy Explores Building an Artificial Gravity Research Platform in Orbit",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x4v2g3/italy_explores_building_an_artificial_gravity/\"> <img src=\"https://external-preview.redd.it/FwGf5XpI9qC60T4mMi3IRKOAp3obtJHISwKLxS7IjgM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9cec142ebd0f8ffd7b49…",
-      "date": "2026-10-13",
-      "link": "https://www.reddit.com/r/space/comments/1x4v2g3/italy_explores_building_an_artificial_gravity/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "Comparing Off-World Rover Driving Distances",
-      "summary": "Description This infographic illustrates the distances driven by various rovers on the surface of Earth’s Moon and Mars. Of the vehicles shown, the NASA Mars rovers Perseverance and Curiosity are still operational and moving across the surface; the figures shown for those two…",
-      "date": "2026-10-13",
-      "link": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/"
+      "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+      "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol.",
+      "date": "2026-10-14",
+      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Record-Setting Perseverance Rover Team",
-      "summary": "Description Members of NASA’s Perseverance Mars mission team gather in the Mars Yard at the agency’s Jet Propulsion Laboratory in Southern California with a certificate from Guinness World Records marking the rover distance record on the Red Planet.",
-      "date": "2026-10-13",
-      "link": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/"
+      "title": "NASA’s Space X CRS-35 Launch Jellyfish",
+      "summary": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated,…",
+      "date": "2026-10-14",
+      "link": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/"
     },
     {
       "sourceId": "nasa",
-      "title": "Perseverance Navcam Image Marks Record Drive",
-      "summary": "Description Rover tracks and a rocky Martian landscape are shown in this image captured by one of the navigation cameras (navcams) aboard NASA’s Perseverance Mars rover on Oct. 11, 2026, the 2,006th Martian day, or sol, of the mission.",
-      "date": "2026-10-13",
-      "link": "https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive/"
+      "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+      "summary": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold.",
+      "date": "2026-10-14",
+      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/"
     },
     {
       "sourceId": "nasa",
-      "title": "Transporter-18 SmallSats Encapsulation",
-      "summary": "Three NASA-supported small spacecraft, along with many commercial payloads, are shown before being encapsulated in a SpaceX Falcon 9 ahead of launch on Oct. 1, 2026.",
-      "date": "2026-10-13",
-      "link": "https://www.nasa.gov/image-article/transporter-18-smallsats-encapsulation/"
+      "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
+      "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida.",
+      "date": "2026-10-14",
+      "link": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
     },
     {
       "sourceId": "nasa",
-      "title": "JOB OPPORTUNITIES: NASA OFFICE OF THE GENERAL COUNSEL",
-      "summary": "",
-      "date": "2026-10-13",
-      "link": "https://www.nasa.gov/organizations/ogc/job-opportunities-nasa-office-of-the-general-counsel/"
+      "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
+      "summary": "What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.",
+      "date": "2026-10-14",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/"
     }
   ]
 }
