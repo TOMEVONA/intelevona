@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T17:41:09.453Z",
+  "updated": "2026-10-15T17:56:58.241Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "Vaonis unveils Atlas, the world's 1st modular smart telescope system",
+      "summary": "Pre-orders are now open for the Atlas, the new modular smart telescope from Vaonis which allows observation with two optical tubes.",
+      "date": "2026-10-15",
+      "link": "https://www.space.com/stargazing/skywatching-kit/modularity-is-here-vaonis-uveils-their-new-atlas-smart-telescope-system"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "NASA's SkyFall helicopters will 'show us parts of Mars we've never seen before', scientists say",
       "summary": "\"Just like here on Earth, Mars helicopters can cover distance quickly and can go places that might be impossible to reach by ground.\"",
       "date": "2026-10-15",
@@ -308,13 +315,6 @@
       "summary": "The discovery of surprising molecules of methanol and associated maser activity has expanded the inventory of the chemical starter kit that builds planets in young star systems.",
       "date": "2026-10-15",
       "link": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
-      "summary": "SpaceX has proposed increasing the number of allowed Starship launches from its Starbase site in South Texas from 25 per year to 456. The FAA is currently reviewing the request.",
-      "date": "2026-10-15",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas"
     },
     {
       "sourceId": "rspace",
