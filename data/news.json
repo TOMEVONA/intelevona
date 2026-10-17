@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T17:46:01.586Z",
+  "updated": "2026-10-17T16:13:59.132Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,20 @@
     },
     {
       "sourceId": "dod",
+      "title": "Army Task Force Partners With Acquisition Directorate to Accelerate Counter-Drone Tech in Africa",
+      "summary": "The Army is accelerating counter-drone technology testing in Africa to equip soldiers within 180 days. Initial testing is planned for spring 2027 in Morocco.",
+      "date": "2026-10-16",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4627652/army-task-force-partners-with-acquisition-directorate-to-accelerate-counter-dro/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Navy Accepts Next-Generation Aircraft to Modernize Strategic Communications",
+      "summary": "The Navy accepted a newly manufactured C-130J-30 Super Hercules aircraft from Lockheed Martin during a ceremony in Marietta, Georgia, marking the first step toward fielding the future E-130J Phoenix II.",
+      "date": "2026-10-16",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4627613/navy-accepts-next-generation-aircraft-to-modernize-strategic-communications/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Joint Interagency Task Force 401 Marks One Year of Accelerating Counter-UAS Capabilities",
       "summary": "The War Department marked its first year since establishing Joint Interagency Task Force 401, and has made rapid progress in delivering counter-unmanned aircraft systems capabilities to warfighters worldwide.",
       "date": "2026-10-15",
@@ -233,18 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4626344/hegseth-welcomes-uk-counterpart-to-pentagon/"
     },
     {
-      "sourceId": "dod",
-      "title": "New York National Guard Battalion Mobilizes for Southern Border Mission",
-      "summary": "New York Army National Guardsmen assigned to the 204th Engineer Battalion recently took part in mobilization ceremonies for a federal deployment to the southern border.",
-      "date": "2026-10-15",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4626254/new-york-national-guard-battalion-mobilizes-for-southern-border-mission/"
+      "sourceId": "viasat",
+      "title": "Arqiva Makes New Inroads into Middle East Satellite Market With GulfSat Deal",
+      "summary": "Arqiva is expanding its presence in the Middle East satellite market thanks to a new deal with Kuwaiti communications company Gulfsat. The three-year agreement will see Arqiva provide Gulfsat with",
+      "date": "2026-10-16",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/16/arqiva-makes-new-inroads-into-middle-east-satellite-market-with-gulfsat-deal/"
     },
     {
-      "sourceId": "dod",
-      "title": "Hegseth: Autonomous Warfare Command Has Always Been End State",
-      "summary": "Project Agincourt as a pathway to a four-star-led Autonomous Warfare Command has always been in the cards, Secretary of War Pete Hegseth said at the 2026 Association of the United States Army annual meeting and exposition.",
-      "date": "2026-10-14",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4625816/hegseth-autonomous-warfare-command-has-always-been-end-state/"
+      "sourceId": "viasat",
+      "title": "BAE to Build Software-Defined Radios for US Space Force Contract",
+      "summary": "The U.S. Space Force Space Systems Command awarded BAE Systems a contract to build radio frequency (RF) terminals for a space-based data layer. BAE Systems announced the award on Oct.",
+      "date": "2026-10-16",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/16/bae-to-build-software-defined-radios-for-us-space-force-contract/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "CesiumAstro to Add Manufacturing Facility in Melbourne, Florida",
+      "summary": "CesiumAstro plans to expand to Florida with an announcement this week to build an engineering and manufacturing facility in Melbourne on the Space Coast. The facility is expected to add",
+      "date": "2026-10-16",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/10/16/cesiumastro-to-add-manufacturing-facility-in-melbourne-florida/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "ESPI Calls for Stronger European Controls for MSS Spectrum",
+      "summary": "As Europe plans to reserve a portion of its mobile satellite services (MSS) spectrum authorization for European operators, a European think tank argues it should go further and maximize European",
+      "date": "2026-10-16",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/16/espi-calls-for-stronger-european-controls-for-mss-spectrum/"
     },
     {
       "sourceId": "viasat",
@@ -254,102 +282,74 @@
       "link": "https://www.satellitetoday.com/launch/2026/10/15/rocket-labs-neutron-debut-now-delayed-to-2027/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Comtech Expects Divestiture to Gilat to Close This Year",
-      "summary": "Comtech expects its satellite divestiture to Gilat Satellite Networks to close by the end of the calendar year, leadership confirmed this week. Comtech CEO Kenneth Traub gave investors a bit",
-      "date": "2026-10-15",
-      "link": "https://www.satellitetoday.com/finance/2026/10/15/comtech-expects-divestiture-to-gilat-to-close-this-year/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Oman’s Durri Space Orders 3 Optical Ground Terminals from Cailabs",
-      "summary": "Cailabs has secured an order from Omani space communications company Durri Space for three optical ground stations under a deal announced Thursday. Durri Space intends to operate an optical communications",
-      "date": "2026-10-15",
-      "link": "https://www.satellitetoday.com/technology/2026/10/15/omans-durri-space-orders-3-optical-ground-terminals-from-cailabs/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "ClearSpace Wins Major UK Debris Removal Contract",
-      "summary": "The UK Space Agency (UKSA) is tapping ClearSpace for a major debris removal mission. ClearSpace will be the prime contractor to deliver the U.K.’s first nationally commissioned active debris removal",
-      "date": "2026-10-15",
-      "link": "https://www.satellitetoday.com/technology/2026/10/15/clearspace-wins-major-uk-debris-removal-contract/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Nominations Open for Satellite Exec and Tech of the Year for 2026",
-      "summary": "Nominations are now open for Satellite Executive and Technology of the Year for 2026. Nominations are open through December 4 at 11:59 p.m. Submit your nomination today. The post Nominations Open for Satellite Exec and Tech of the Year for 2026 appeared first on Via Satellite .",
-      "date": "2026-10-14",
-      "link": "https://www.satellitetoday.com/awards/2026/10/14/nominations-open-for-satellite-exec-and-tech-of-the-year-for-2026/"
+      "sourceId": "spacecom",
+      "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
+      "summary": "On Oct. 17, 2016, the Antares rocket now built by Northrop Grumman Space Systems returned to flight to come back from a catastrophic explosion. Here's why it mattered.",
+      "date": "2026-10-17",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX thrusters just made a Tesla Roadster 'fly' (and Elon Musk's car is still out there in space)",
-      "summary": "Tesla just unveiled its new Roadster with a spectacular stunt, using SpaceX thrusters to make the sleek vehicle \"fly.\"",
-      "date": "2026-10-16",
-      "link": "https://www.space.com/technology/spacex-thrusters-just-made-a-tesla-roadster-fly-and-elon-musks-car-is-still-out-there-in-space"
+      "title": "This Week In Space podcast: Episode 232 — The Lunar Dump",
+      "summary": "On Episode 232 of This Week In Space, Rod Pyle and Tariq Malik are joined by Chelsea Gohd to talk about the recent large data dump from the Artemis II mission.",
+      "date": "2026-10-17",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Oct. 16, 1975: NASA launches the 1st-ever GOES weather satellite to watch Earth from space",
-      "summary": "On Oct. 16, 1975, NASA launched the first operational GOES weather satellite. Here's why it mattered.",
-      "date": "2026-10-16",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-16-2026"
+      "title": "6 scientifically accurate star projectors to turn any room into a home planetarium",
+      "summary": "These six realistic star projectors are much more than mood lighting. Their projections are scientifically accurate enough to serve as actual stargazing practice, perfect for budding astronomers, young and old.",
+      "date": "2026-10-17",
+      "link": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Dark Matter's' Joel Edgerton and Jennifer Connelly talk S2's marital disintegration and the humility of hanging on wires (interview)",
-      "summary": "'It makes you think about how you can be a better person in life. And there’s always room for improvement.'",
-      "date": "2026-10-16",
-      "link": "https://www.space.com/entertainment/space-movies-shows/dark-matters-joel-edgerton-and-jennifer-connelly-talk-s2s-marital-disintegration-and-the-humility-of-hanging-on-wires-interview"
+      "title": "'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2",
+      "summary": "John Stewart goes rogue in Sector 2814 and embraces fear hopefully leading into season 2",
+      "date": "2026-10-17",
+      "link": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Mission: 60s' event promises passport back to the Space Age",
-      "summary": "Your invitation to revisit the Space Age has arrived.Whether you miss the days when people got dressed up to fly or wish your other ride was a rocket, Mission: 60s has a *space* reserved for you.",
-      "date": "2026-10-16",
-      "link": "https://www.space.com/space-exploration/apollo/rocket-back-to-the-space-age-with-mission-60s-event-in-nyc-next-weekend"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Why can you see the moon during the day? This week is the perfect time to find out",
-      "summary": "You don't have to wait until dark to see the moon. Here's why it appears in broad daylight — and why this week is a particularly good time to spot it.",
-      "date": "2026-10-16",
-      "link": "https://www.space.com/stargazing/why-can-you-see-the-moon-during-the-day-this-week-is-the-perfect-time-to-find-out"
+      "title": "The Orionid meteor shower peaks next week! Here's what to expect",
+      "summary": "The Orionid meteor shower peaks overnight on Oct. 21-22, bringing a spectacular display of shooting stars to the autumn sky.",
+      "date": "2026-10-17",
+      "link": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect"
     },
     {
       "sourceId": "rspace",
-      "title": "A New Citizen Science Project: Overlap Zoo!",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x7iv12/a_new_citizen_science_project_overlap_zoo/\"> <img src=\"https://external-preview.redd.it/euVKeKmhc_WjEo9NXdIsEnnENEDEBsbnNGoOEmukF0I.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=66d4b642e1ff59a02ee80980…",
-      "date": "2026-10-16",
-      "link": "https://www.reddit.com/r/space/comments/1x7iv12/a_new_citizen_science_project_overlap_zoo/"
+      "title": "1yo obsessed with space and need space activity recs",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Our 1yo is the biggest fan of space and the planets. He can distinguish and name all the planets! We try to keep his interest going and reinforce it and he learns so much so everything space like books, videos, stickers.",
+      "date": "2026-10-17",
+      "link": "https://www.reddit.com/r/space/comments/1x8dvh8/1yo_obsessed_with_space_and_need_space_activity/"
     },
     {
       "sourceId": "rspace",
-      "title": "'We are getting a lot of pressure from the administrator himself': How NASA is racing to obey Trump's 'Super Intelligence' order",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x7ik3c/we_are_getting_a_lot_of_pressure_from_the/\"> <img src=\"https://external-preview.redd.it/wvYmBzmNebAQ_qF_ZhtHXU1pBrvtwlUs17SNvHZi1_M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e9ca4549a4fe6d5e27efbf0…",
-      "date": "2026-10-16",
-      "link": "https://www.reddit.com/r/space/comments/1x7ik3c/we_are_getting_a_lot_of_pressure_from_the/"
+      "title": "Rocket Report: FAA eyes more Starbase traffic; India’s Skyroot snares US customer",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x86its/rocket_report_faa_eyes_more_starbase_traffic/\"> <img src=\"https://external-preview.redd.it/L8hMTnaYjeCiYo_qP197NWyjfrDhPpmxHZyaUwDvPaU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=45a08ec5b67a986452c84…",
+      "date": "2026-10-17",
+      "link": "https://www.reddit.com/r/space/comments/1x86its/rocket_report_faa_eyes_more_starbase_traffic/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA Funding Delays Raise Alarms for Researchers",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x7e3sb/nasa_funding_delays_raise_alarms_for_researchers/\"> <img src=\"https://external-preview.redd.it/0Kv33SKTkkJl6yqdy7dEdoJwJ5agmUsG-vqZbUhZees.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65281b29664d7e6f2…",
-      "date": "2026-10-16",
-      "link": "https://www.reddit.com/r/space/comments/1x7e3sb/nasa_funding_delays_raise_alarms_for_researchers/"
+      "title": "UF study finds plants respond almost immediately to spaceflight",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x85j3p/uf_study_finds_plants_respond_almost_immediately/\"> <img src=\"https://external-preview.redd.it/epbE2Pj0nJl0f76X6QWYNAseKzPpzYYZe_4fH7wZ_84.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=67af59154d5c18b75…",
+      "date": "2026-10-17",
+      "link": "https://www.reddit.com/r/space/comments/1x85j3p/uf_study_finds_plants_respond_almost_immediately/"
     },
     {
       "sourceId": "rspace",
-      "title": "America’s troops must prepare now for warfare on moon, top general says",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x74vs2/americas_troops_must_prepare_now_for_warfare_on/\"> <img src=\"https://external-preview.redd.it/W2fSBfFq7VOoQcvtezHrEHWlnEjW8TTf0F-WpOHdHvE.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7b3d35b0ff5aaf3aca…",
-      "date": "2026-10-16",
-      "link": "https://www.reddit.com/r/space/comments/1x74vs2/americas_troops_must_prepare_now_for_warfare_on/"
+      "title": "I made a free site that shows what’s above us right now: ISS position, space debris, upcoming launches, solar activity, etc",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m a space nerd and got tired of jumping between a dozen sites to check this stuff, so I built one app that pulls it all together live: <a href=\"https://spacehud.com\">https://spacehud.com</a></p> <p>It&#39;s almost all visual rather than dry…",
+      "date": "2026-10-17",
+      "link": "https://www.reddit.com/r/space/comments/1x84803/i_made_a_free_site_that_shows_whats_above_us/"
     },
     {
       "sourceId": "rspace",
-      "title": "My friend wants to see a “jellyfish”",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So with the recent videos popping up of the launch that caused the cool jellyfish effect thing in the sky, I’m wondering how easy it is to predict these sorts of things.",
-      "date": "2026-10-16",
-      "link": "https://www.reddit.com/r/space/comments/1x71z4i/my_friend_wants_to_see_a_jellyfish/"
+      "title": "nuclear fission chemical solid rocket motor?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am envisioning (and being told hmmm impossible) a solid rocket motor that while chemically burning produces fission to increase thrust.",
+      "date": "2026-10-17",
+      "link": "https://www.reddit.com/r/space/comments/1x83kwn/nuclear_fission_chemical_solid_rocket_motor/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,20 @@
     },
     {
       "sourceId": "nasa",
+      "title": "APOD: 2026 October 17 – 3D 67P",
+      "summary": "APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-10-17",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19.",
+      "date": "2026-10-16",
+      "link": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "Artemis II Heat Shield After Splashdown",
       "summary": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.",
       "date": "2026-10-16",
@@ -441,20 +455,6 @@
       "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
       "date": "2026-10-16",
       "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 October 16 – Chasing the International Space Station",
-      "summary": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-16",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Isaias Dims the Gulf Coast",
-      "summary": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
-      "date": "2026-10-16",
-      "link": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/"
     }
   ]
 }
