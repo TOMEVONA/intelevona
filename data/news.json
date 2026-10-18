@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T16:47:09.177Z",
+  "updated": "2026-10-18T16:24:53.192Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Hegseth Thanks Young Americans in Knoxville Who Say 'Send Me'",
+      "summary": "On the University of Tennessee campus in Knoxville, Secretary of War Pete Hegseth met with two groups of young Americans who opted to defend the nation, falling in line behind generations of Americans who served the nation since the nation was founded.",
+      "date": "2026-10-17",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4628064/hegseth-thanks-young-americans-in-knoxville-who-say-send-me/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Army Task Force Partners With Acquisition Directorate to Accelerate Counter-Drone Tech in Africa",
       "summary": "The Army is accelerating counter-drone technology testing in Africa to equip soldiers within 180 days. Initial testing is planned for spring 2027 in Morocco.",
       "date": "2026-10-16",
@@ -238,13 +245,6 @@
       "summary": "The Navy recently demonstrated autonomous drone flight and shipboard landings without GPS or pilot input advancing unmanned operations where satellites are disrupted.",
       "date": "2026-10-15",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4626366/navy-demonstrates-successful-drone-ship-landing-without-gps/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Hegseth Welcomes U.K. Counterpart to Pentagon",
-      "summary": "Secretary of War Pete Hegseth hosted Wes Streeting, the United Kingdom's defense secretary, at the Pentagon, where the two leaders participated in a bilateral engagement.",
-      "date": "2026-10-15",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4626344/hegseth-welcomes-uk-counterpart-to-pentagon/"
     },
     {
       "sourceId": "viasat",
@@ -283,73 +283,73 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
-      "summary": "On Oct. 17, 2016, the Antares rocket now built by Northrop Grumman Space Systems returned to flight to come back from a catastrophic explosion. Here's why it mattered.",
-      "date": "2026-10-17",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026"
+      "title": "Computer scientist Margaret Hamilton was a problem-solver for the ages (op-ed)",
+      "summary": "The world will miss Margaret Hamilton, the pioneering programmer who helped NASA land Apollo astronauts on the moon. But we will always have her example to inspire us.",
+      "date": "2026-10-18",
+      "link": "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed"
     },
     {
       "sourceId": "spacecom",
-      "title": "This Week In Space podcast: Episode 232 — The Lunar Dump",
-      "summary": "On Episode 232 of This Week In Space, Rod Pyle and Tariq Malik are joined by Chelsea Gohd to talk about the recent large data dump from the Artemis II mission.",
-      "date": "2026-10-17",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump"
+      "title": "On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1st Cat in Space! >^..^<",
+      "summary": "On Oct. 18, 1963, a cat went to space! Félicette was a French \"catstronaut\" who became the first and only feline to fly to space. Here's why it mattered.",
+      "date": "2026-10-18",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "6 scientifically accurate star projectors to turn any room into a home planetarium",
-      "summary": "These six realistic star projectors are much more than mood lighting. Their projections are scientifically accurate enough to serve as actual stargazing practice, perfect for budding astronomers, young and old.",
-      "date": "2026-10-17",
-      "link": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium"
+      "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
+      "summary": "A citizen science project is seeking volunteers to comb through NASA telescope data for telltale signs of the galaxy's hidden black holes.",
+      "date": "2026-10-18",
+      "link": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2",
-      "summary": "John Stewart goes rogue in Sector 2814 and embraces fear hopefully leading into season 2",
-      "date": "2026-10-17",
-      "link": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2"
+      "title": "10 best places to see the 2027 total solar eclipse in Spain",
+      "summary": "From the Costa del Sol to whitewashed mountain villages, here are 10 of the best places in southern Spain to experience the Aug. 2, 2027 total solar eclipse.",
+      "date": "2026-10-18",
+      "link": "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain"
     },
     {
       "sourceId": "spacecom",
-      "title": "The Orionid meteor shower peaks next week! Here's what to expect",
-      "summary": "The Orionid meteor shower peaks overnight on Oct. 21-22, bringing a spectacular display of shooting stars to the autumn sky.",
-      "date": "2026-10-17",
-      "link": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect"
+      "title": "'Let's all choose to make tomorrow better', Artemis II astronauts honored with Stephen Hawking Medal at Starmus",
+      "summary": "The Artemis II crew have joined an impressive list of honourees, including Buzz Aldrin, Jane Goodall and David Attenborough.",
+      "date": "2026-10-18",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-ii-astronauts-honored-with-stephen-hawking-medal-at-starmus"
     },
     {
       "sourceId": "rspace",
-      "title": "1yo obsessed with space and need space activity recs",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Our 1yo is the biggest fan of space and the planets. He can distinguish and name all the planets! We try to keep his interest going and reinforce it and he learns so much so everything space like books, videos, stickers.",
-      "date": "2026-10-17",
-      "link": "https://www.reddit.com/r/space/comments/1x8dvh8/1yo_obsessed_with_space_and_need_space_activity/"
+      "title": "Sentinel-3C sends its first images of Earth two weeks after launch",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x96afo/sentinel3c_sends_its_first_images_of_earth_two/\"> <img src=\"https://external-preview.redd.it/-lLXGORXhEdq4hnqWrBRiAasZFwvPoTyEEkkUrZy9PU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af32dca4afddfa19c80…",
+      "date": "2026-10-18",
+      "link": "https://www.reddit.com/r/space/comments/1x96afo/sentinel3c_sends_its_first_images_of_earth_two/"
     },
     {
       "sourceId": "rspace",
-      "title": "Rocket Report: FAA eyes more Starbase traffic; India’s Skyroot snares US customer",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x86its/rocket_report_faa_eyes_more_starbase_traffic/\"> <img src=\"https://external-preview.redd.it/L8hMTnaYjeCiYo_qP197NWyjfrDhPpmxHZyaUwDvPaU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=45a08ec5b67a986452c84…",
-      "date": "2026-10-17",
-      "link": "https://www.reddit.com/r/space/comments/1x86its/rocket_report_faa_eyes_more_starbase_traffic/"
+      "title": "Hanwha's 'Korean SpaceX' ambitions grow as work begins on reusable rocket test vehicle",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x95hee/hanwhas_korean_spacex_ambitions_grow_as_work/\"> <img src=\"https://external-preview.redd.it/ekJZsmQgWUugHRsjFZoZkW3oIsgn9UrDVO5NgiglKeQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=95c7ec1c95148e3980562…",
+      "date": "2026-10-18",
+      "link": "https://www.reddit.com/r/space/comments/1x95hee/hanwhas_korean_spacex_ambitions_grow_as_work/"
     },
     {
       "sourceId": "rspace",
-      "title": "UF study finds plants respond almost immediately to spaceflight",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x85j3p/uf_study_finds_plants_respond_almost_immediately/\"> <img src=\"https://external-preview.redd.it/epbE2Pj0nJl0f76X6QWYNAseKzPpzYYZe_4fH7wZ_84.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=67af59154d5c18b75…",
-      "date": "2026-10-17",
-      "link": "https://www.reddit.com/r/space/comments/1x85j3p/uf_study_finds_plants_respond_almost_immediately/"
+      "title": "Japan’s MMX mission will swipe soil samples from Mars’ moon Phobos, and will be delivered to Earth",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x94e37/japans_mmx_mission_will_swipe_soil_samples_from/\"> <img src=\"https://external-preview.redd.it/Tk1IaQ2Lj4_TefwceRv9kUXaCKkFpDsAmEkcefMOTfI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=283d12ee17d9b533ae0…",
+      "date": "2026-10-18",
+      "link": "https://www.reddit.com/r/space/comments/1x94e37/japans_mmx_mission_will_swipe_soil_samples_from/"
     },
     {
       "sourceId": "rspace",
-      "title": "I made a free site that shows what’s above us right now: ISS position, space debris, upcoming launches, solar activity, etc",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m a space nerd and got tired of jumping between a dozen sites to check this stuff, so I built one app that pulls it all together live: <a href=\"https://spacehud.com\">https://spacehud.com</a></p> <p>It&#39;s almost all visual rather than dry…",
-      "date": "2026-10-17",
-      "link": "https://www.reddit.com/r/space/comments/1x84803/i_made_a_free_site_that_shows_whats_above_us/"
+      "title": "Distractions via the universe",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! </p> <p>Weird post, hoping that it&#39;s allowed.</p> <p>I just went through a pretty awful break up that I did not see coming, I have been struggling to sleep recently but the one thing that helps is thinking about the cosmos and…",
+      "date": "2026-10-18",
+      "link": "https://www.reddit.com/r/space/comments/1x9162v/distractions_via_the_universe/"
     },
     {
       "sourceId": "rspace",
-      "title": "nuclear fission chemical solid rocket motor?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am envisioning (and being told hmmm impossible) a solid rocket motor that while chemically burning produces fission to increase thrust.",
-      "date": "2026-10-17",
-      "link": "https://www.reddit.com/r/space/comments/1x83kwn/nuclear_fission_chemical_solid_rocket_motor/"
+      "title": "Empty Space Could Actually Be Superluminal Energy",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>You can call them also in general unknown fundamental \"vacuum quanta\" (although the model predicts that these must be a type spin-2 Bosons).",
+      "date": "2026-10-18",
+      "link": "https://www.reddit.com/r/space/comments/1x9137j/empty_space_could_actually_be_superluminal_energy/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+      "summary": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-10-18",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "APOD: 2026 October 17 – 3D 67P",
       "summary": "APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-10-17",
@@ -448,13 +455,6 @@
       "summary": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride.",
       "date": "2026-10-16",
       "link": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Hubble Spies Spiral’s Edge",
-      "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
-      "date": "2026-10-16",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/"
     }
   ]
 }
