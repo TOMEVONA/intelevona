@@ -1,12 +1,19 @@
 {
-  "updated": "2026-10-18T17:01:56.310Z",
+  "updated": "2026-10-19T19:10:00.256Z",
   "articles": [
     {
       "sourceId": "spacenews",
-      "title": "Oct. 29: Applying AI to the GEOINT Mission",
-      "summary": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets The post Oct. 29: Applying AI to the GEOINT Mission appeared first on SpaceNews .",
+      "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
+      "summary": "SAN FRANCISCO –Spanish startup UARX Space is remedying anomalies identified during the maiden flight of OSSIE-D, an orbital transfer vehicle (OTV) launched Oct. 1 aboard SpaceX’s Transporter-18 mission. At least",
+      "date": "2026-10-19",
+      "link": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
+      "summary": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets The post Oct. 29: Applying AI/SI to the GEOINT Mission appeared first on SpaceNews .",
       "date": "2026-10-15",
-      "link": "https://spacenews.com/applying-ai-to-the-geoint-mission-event/"
+      "link": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/"
     },
     {
       "sourceId": "spacenews",
@@ -28,13 +35,6 @@
       "summary": "When the European thermal-imagery company constellr began working with Space Inventor on its next generation of satellites, some of the most important details of the spacecraft had yet to be",
       "date": "2026-10-14",
       "link": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
-      "summary": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores",
-      "date": "2026-10-12",
-      "link": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/"
     },
     {
       "sourceId": "tectonic",
@@ -283,73 +283,73 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "Computer scientist Margaret Hamilton was a problem-solver for the ages (op-ed)",
-      "summary": "The world will miss Margaret Hamilton, the pioneering programmer who helped NASA land Apollo astronauts on the moon. But we will always have her example to inspire us.",
-      "date": "2026-10-18",
-      "link": "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed"
+      "title": "The moon is shrinking. 10,000 cracks on the lunar surface reveal by how much",
+      "summary": "One new study shows how much the moon has diminished over time.",
+      "date": "2026-10-19",
+      "link": "https://www.space.com/astronomy/moon/the-moon-is-shrinking-10-000-cracks-on-the-lunar-surface-reveal-by-how-much"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1st Cat in Space! >^..^<",
-      "summary": "On Oct. 18, 1963, a cat went to space! Félicette was a French \"catstronaut\" who became the first and only feline to fly to space. Here's why it mattered.",
-      "date": "2026-10-18",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026"
+      "title": "'They're kind of goth': NASA spacecraft gives mysterious brown dwarfs a close-up",
+      "summary": "Using NASA’s SPHEREx spacecraft, astronomers have studied a horde of mysterious \"failed stars,\" or brown dwarfs, not-so-stellar loners that wander the darkness of space alone.",
+      "date": "2026-10-19",
+      "link": "https://www.space.com/astronomy/stars/theyre-kind-of-goth-nasa-spacecraft-gives-mysterious-brown-dwarfs-a-close-up"
     },
     {
       "sourceId": "spacecom",
-      "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
-      "summary": "A citizen science project is seeking volunteers to comb through NASA telescope data for telltale signs of the galaxy's hidden black holes.",
-      "date": "2026-10-18",
-      "link": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way"
+      "title": "Elephant Island is an icy sight from orbit | Space photo of the day for Oct. 19, 2026",
+      "summary": "The European Space Agency's Copernicus Sentinel-3 satellite mission captured a close-up of West Antarctica from its perch high above Earth.",
+      "date": "2026-10-19",
+      "link": "https://www.space.com/astronomy/earth/elephant-island-is-an-icy-sight-from-orbit-space-photo-of-the-day-for-oct-19-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "10 best places to see the 2027 total solar eclipse in Spain",
-      "summary": "From the Costa del Sol to whitewashed mountain villages, here are 10 of the best places in southern Spain to experience the Aug. 2, 2027 total solar eclipse.",
-      "date": "2026-10-18",
-      "link": "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain"
+      "title": "Did a giant object collide with Earth to form the moon?",
+      "summary": "Known as the giant-impact hypothesis, this proposed event involves a collision between Earth and a hypothetical Mars-sized protoplanet astronomers call Theia.",
+      "date": "2026-10-19",
+      "link": "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Let's all choose to make tomorrow better', Artemis II astronauts honored with Stephen Hawking Medal at Starmus",
-      "summary": "The Artemis II crew have joined an impressive list of honourees, including Buzz Aldrin, Jane Goodall and David Attenborough.",
-      "date": "2026-10-18",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-ii-astronauts-honored-with-stephen-hawking-medal-at-starmus"
+      "title": "Watch Japan launch a bold sample-return mission to Mars moon Phobos today",
+      "summary": "Japan will launch its audacious MMX sample-return mission to Mars today (Oct. 19), and you can watch the historic action live.",
+      "date": "2026-10-19",
+      "link": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live"
     },
     {
       "sourceId": "rspace",
-      "title": "All Space Questions thread for week of October 18, 2026",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please sort comments by &#39;new&#39; to find questions that would otherwise be buried.</p> <p>In this thread you can ask any space related question that you may have.</p> <p>Two examples of potential questions could be; \"How do rockets work?\",…",
-      "date": "2026-10-18",
-      "link": "https://www.reddit.com/r/space/comments/1x9893f/all_space_questions_thread_for_week_of_october_18/"
+      "title": "Scientists Detect Rare Type of Wood Alcohol in Space",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xa597m/scientists_detect_rare_type_of_wood_alcohol_in/\"> <img src=\"https://external-preview.redd.it/jPIbNVrT_8xgG58g63oafq-G41jSKKvb3WO5JEyIo4A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e350140294660b430e6…",
+      "date": "2026-10-19",
+      "link": "https://www.reddit.com/r/space/comments/1xa597m/scientists_detect_rare_type_of_wood_alcohol_in/"
     },
     {
       "sourceId": "rspace",
-      "title": "Sentinel-3C sends its first images of Earth two weeks after launch",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x96afo/sentinel3c_sends_its_first_images_of_earth_two/\"> <img src=\"https://external-preview.redd.it/-lLXGORXhEdq4hnqWrBRiAasZFwvPoTyEEkkUrZy9PU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af32dca4afddfa19c80…",
-      "date": "2026-10-18",
-      "link": "https://www.reddit.com/r/space/comments/1x96afo/sentinel3c_sends_its_first_images_of_earth_two/"
+      "title": "The gas around Milky Way's central black hole is rich in metals, study finds. Research advances understanding of the processes that fuel our galaxy’s supermassive black hole...",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xa55bz/the_gas_around_milky_ways_central_black_hole_is/\"> <img src=\"https://external-preview.redd.it/PYv44Ha0rDcB4cw8SWusj_dR2xmyLZN3PARgHmfxu3c.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=80718073d1ea85a24a…",
+      "date": "2026-10-19",
+      "link": "https://www.reddit.com/r/space/comments/1xa55bz/the_gas_around_milky_ways_central_black_hole_is/"
     },
     {
       "sourceId": "rspace",
-      "title": "Hanwha's 'Korean SpaceX' ambitions grow as work begins on reusable rocket test vehicle",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x95hee/hanwhas_korean_spacex_ambitions_grow_as_work/\"> <img src=\"https://external-preview.redd.it/ekJZsmQgWUugHRsjFZoZkW3oIsgn9UrDVO5NgiglKeQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=95c7ec1c95148e3980562…",
-      "date": "2026-10-18",
-      "link": "https://www.reddit.com/r/space/comments/1x95hee/hanwhas_korean_spacex_ambitions_grow_as_work/"
+      "title": "Original Voyager team member talks to us about the astonishing scientific info the 50-year-old probe gathered",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>An interview with Dr. Garry Hunt on the Register podcast</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Much_Preparation_832\"> /u/Much_Preparation_832 </a> <br/> <span><a…",
+      "date": "2026-10-19",
+      "link": "https://www.reddit.com/r/space/comments/1xa4r62/original_voyager_team_member_talks_to_us_about/"
     },
     {
       "sourceId": "rspace",
-      "title": "Japan’s MMX mission will swipe soil samples from Mars’ moon Phobos, and will be delivered to Earth",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1x94e37/japans_mmx_mission_will_swipe_soil_samples_from/\"> <img src=\"https://external-preview.redd.it/Tk1IaQ2Lj4_TefwceRv9kUXaCKkFpDsAmEkcefMOTfI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=283d12ee17d9b533ae0…",
-      "date": "2026-10-18",
-      "link": "https://www.reddit.com/r/space/comments/1x94e37/japans_mmx_mission_will_swipe_soil_samples_from/"
+      "title": "'Phoenix planet': First-ever evidence of a second-generation planet detected around dead star | In a cosmic first, scientists say they have detected a planet that may have formed from the burned remains of its dead host star",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xa49t7/phoenix_planet_firstever_evidence_of_a/\"> <img src=\"https://external-preview.redd.it/EozDXLcJoPPje18JRsTswNBTYrca7nNCljOQgsiJavg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd0aa3c0baf22d201ff1dcd58b7…",
+      "date": "2026-10-19",
+      "link": "https://www.reddit.com/r/space/comments/1xa49t7/phoenix_planet_firstever_evidence_of_a/"
     },
     {
       "sourceId": "rspace",
-      "title": "Distractions via the universe",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! </p> <p>Weird post, hoping that it&#39;s allowed.</p> <p>I just went through a pretty awful break up that I did not see coming, I have been struggling to sleep recently but the one thing that helps is thinking about the cosmos and…",
-      "date": "2026-10-18",
-      "link": "https://www.reddit.com/r/space/comments/1x9162v/distractions_via_the_universe/"
+      "title": "The Russian satellite that flew 5 km behind an ICEYE radar satellite has manoeuvred away from it",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xa2gbx/the_russian_satellite_that_flew_5_km_behind_an/\"> <img src=\"https://external-preview.redd.it/fgZDP6BRnEhkNQm7m5qKR7-UmhQ0hOCR4caUJy88bog.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc68d1310ddc1d011efc…",
+      "date": "2026-10-19",
+      "link": "https://www.reddit.com/r/space/comments/1xa2gbx/the_russian_satellite_that_flew_5_km_behind_an/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
-      "summary": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-18",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/"
+      "title": "Software",
+      "summary": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems.",
+      "date": "2026-10-19",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 October 17 – 3D 67P",
-      "summary": "APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-17",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/"
+      "title": "Experimental Facilities",
+      "summary": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig…",
+      "date": "2026-10-19",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
-      "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19.",
-      "date": "2026-10-16",
-      "link": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/"
+      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+      "summary": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
+      "date": "2026-10-19",
+      "link": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/"
     },
     {
       "sourceId": "nasa",
-      "title": "Artemis II Heat Shield After Splashdown",
-      "summary": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.",
-      "date": "2026-10-16",
-      "link": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/"
+      "title": "Instrumentation",
+      "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes.",
+      "date": "2026-10-19",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/"
     },
     {
       "sourceId": "nasa",
-      "title": "I Am Artemis: Allison Mjoen",
-      "summary": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride.",
-      "date": "2026-10-16",
-      "link": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/"
+      "title": "Martian Dawn",
+      "summary": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026.",
+      "date": "2026-10-19",
+      "link": "https://www.nasa.gov/image-article/martian-dawn/"
     }
   ]
 }
