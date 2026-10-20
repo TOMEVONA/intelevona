@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T17:51:00.421Z",
+  "updated": "2026-10-20T18:13:42.939Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -283,17 +283,17 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "Jeff Bezos is playing the long game with Blue Origin (op-ed)",
+      "summary": "If Blue Origin goes public, it will have to meet the expectations of shareholders. Jeff Bezos may therefore want to establish a stronger business before committing to a listing.",
+      "date": "2026-10-20",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "A supercomputer is about to launch to the moon for the 1st time, aboard a rover named FLIP",
       "summary": "And yes, it has AI.",
       "date": "2026-10-20",
       "link": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026",
-      "summary": "If you were approaching the edge of a spiral galaxy, arriving from afar through the cosmos, it might look something like this.",
-      "date": "2026-10-20",
-      "link": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026"
     },
     {
       "sourceId": "spacecom",
@@ -304,17 +304,24 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026",
+      "summary": "If you were approaching the edge of a spiral galaxy, arriving from afar through the cosmos, it might look something like this.",
+      "date": "2026-10-20",
+      "link": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so",
       "summary": "The space around Earth is turning into a junkyard. Researchers think a refundable deposit scheme could force satellite operators to clean up their act before a tipping point is reached.",
       "date": "2026-10-20",
       "link": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster"
     },
     {
-      "sourceId": "spacecom",
-      "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
-      "summary": "SpaceX launched its Starfall return capsule for the second time ever this morning (Oct. 20), sending it up on the Bandwagon-5 rideshare mission.",
+      "sourceId": "rspace",
+      "title": "Mission Critical: Why Canada’s race to space is of national urgency",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xazd9v/mission_critical_why_canadas_race_to_space_is_of/\"> <img src=\"https://external-preview.redd.it/wGEqN7JQUrsHStrp3FJ54BvhhORC_B73-H0ri9hCYdY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb8842b62134fa6c0…",
       "date": "2026-10-20",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission"
+      "link": "https://www.reddit.com/r/space/comments/1xazd9v/mission_critical_why_canadas_race_to_space_is_of/"
     },
     {
       "sourceId": "rspace",
@@ -332,24 +339,17 @@
     },
     {
       "sourceId": "rspace",
+      "title": "Hadley Rille (Apollo 15 Landing Site) - 3D Lunar Flyover animated using a combined NASA LRO & Kaguya (SELENE) DEM dataset",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xawc2t/hadley_rille_apollo_15_landing_site_3d_lunar/\"> <img src=\"https://external-preview.redd.it/oaLSJWSsYmzmBSwKkZD2WE082NX_u_7TWb-bwCoGtY4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f77d8dd54fbee399d410a…",
+      "date": "2026-10-20",
+      "link": "https://www.reddit.com/r/space/comments/1xawc2t/hadley_rille_apollo_15_landing_site_3d_lunar/"
+    },
+    {
+      "sourceId": "rspace",
       "title": "Space Rider test model lost following failed drop test",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xavzhj/space_rider_test_model_lost_following_failed_drop/\"> <img src=\"https://external-preview.redd.it/40pNAMf1fEtLtrgZH4b018XRYtwTKPdfXqqm0h9szIg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=121e151138d579c3…",
       "date": "2026-10-20",
       "link": "https://www.reddit.com/r/space/comments/1xavzhj/space_rider_test_model_lost_following_failed_drop/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "[Official] NASA Moon Base: Rovers and Lunar Terrain Vehicles For Humanity's First Lunar Outpost (October 2026 Update)",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xavrgv/official_nasa_moon_base_rovers_and_lunar_terrain/\"> <img src=\"https://external-preview.redd.it/-2UrzH4Ls6tQS__NIDO0XI7p4HLPYzl2WRTsY9Fj0wc.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1d36c25bc821cbfc8…",
-      "date": "2026-10-20",
-      "link": "https://www.reddit.com/r/space/comments/1xavrgv/official_nasa_moon_base_rovers_and_lunar_terrain/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Japan launches Martian moon mission | NHK WORLD-JAPAN News",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xatjwk/japan_launches_martian_moon_mission_nhk/\"> <img src=\"https://external-preview.redd.it/wLh04g9GWXdIdgdzfkmEblhjtG9-EfnYs9UhM-qclu0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd1ee931edfa015b23f1d3f351…",
-      "date": "2026-10-20",
-      "link": "https://www.reddit.com/r/space/comments/1xatjwk/japan_launches_martian_moon_mission_nhk/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+      "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit.",
+      "date": "2026-10-20",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
       "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet.",
       "date": "2026-10-20",
@@ -448,13 +455,6 @@
       "summary": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration.",
       "date": "2026-10-20",
       "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
-      "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-20",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/"
     }
   ]
 }
