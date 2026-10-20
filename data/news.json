@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-19T19:35:45.476Z",
+  "updated": "2026-10-20T17:51:00.421Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+      "summary": "LOS ANGELES — October 20, 2026 AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital’s inaugural",
+      "date": "2026-10-20",
+      "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/"
+    },
     {
       "sourceId": "spacenews",
       "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
@@ -28,13 +35,6 @@
       "summary": "BELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new",
       "date": "2026-10-15",
       "link": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
-      "summary": "When the European thermal-imagery company constellr began working with Space Inventor on its next generation of satellites, some of the most important details of the spacecraft had yet to be",
-      "date": "2026-10-14",
-      "link": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/"
     },
     {
       "sourceId": "tectonic",
@@ -213,6 +213,27 @@
     },
     {
       "sourceId": "dod",
+      "title": "Arctic Experiment Explores Ways to Close Air Surveillance Gaps",
+      "summary": "U.S. military personnel, scientists and international partners conducted live-fly testing in Alaska during the final event of a three-year Arctic air domain awareness experiment series, collecting data to assess technology that could help close surveillance gaps across the state.",
+      "date": "2026-10-20",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4629316/arctic-experiment-explores-ways-to-close-air-surveillance-gaps/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Engineering Squadrons Fortify Pacific Airfields, Advance Agile Combat Employment",
+      "summary": "Air Force civil engineers revitalized historic runways and infrastructure abandoned after World War II on Tinian, Northern Mariana Islands, helping prepare the Pacific theater for future operational requirements.",
+      "date": "2026-10-19",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4628908/engineering-squadrons-fortify-pacific-airfields-advance-agile-combat-employment/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Marine Corps Battalion Redesignates as First Medium Missile Battalion",
+      "summary": "The 2nd Marine Division's 1st Battalion, 10th Marine Regiment, redesignated from an artillery battalion to a medium missile battalion during a ceremony at Camp Lejeune, N.C., creating a first-of-its-kind unit in the Marine Corps.",
+      "date": "2026-10-19",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4628693/marine-corps-battalion-redesignates-as-first-medium-missile-battalion/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Hegseth Thanks Young Americans in Knoxville Who Say 'Send Me'",
       "summary": "On the University of Tennessee campus in Knoxville, Secretary of War Pete Hegseth met with two groups of young Americans who opted to defend the nation, falling in line behind generations of Americans who served the nation since the nation was founded.",
       "date": "2026-10-17",
@@ -226,25 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4627652/army-task-force-partners-with-acquisition-directorate-to-accelerate-counter-dro/"
     },
     {
-      "sourceId": "dod",
-      "title": "Navy Accepts Next-Generation Aircraft to Modernize Strategic Communications",
-      "summary": "The Navy accepted a newly manufactured C-130J-30 Super Hercules aircraft from Lockheed Martin during a ceremony in Marietta, Georgia, marking the first step toward fielding the future E-130J Phoenix II.",
-      "date": "2026-10-16",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4627613/navy-accepts-next-generation-aircraft-to-modernize-strategic-communications/"
+      "sourceId": "viasat",
+      "title": "OHB Wins ESA Study Deal for Lunar Infrastructure",
+      "summary": "OHB has won a new lunar infrastructure deal from the European Space Agency (ESA). Its subsidiary, OHB System AG, has won a feasibility and preliminary design studies deal for OASIS",
+      "date": "2026-10-19",
+      "link": "https://www.satellitetoday.com/space-economy/2026/10/19/ohb-wins-esa-study-deal-for-lunar-infrastructure/"
     },
     {
-      "sourceId": "dod",
-      "title": "Joint Interagency Task Force 401 Marks One Year of Accelerating Counter-UAS Capabilities",
-      "summary": "The War Department marked its first year since establishing Joint Interagency Task Force 401, and has made rapid progress in delivering counter-unmanned aircraft systems capabilities to warfighters worldwide.",
-      "date": "2026-10-15",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4626931/joint-interagency-task-force-401-marks-one-year-of-accelerating-counter-uas-cap/"
+      "sourceId": "viasat",
+      "title": "FCC Authorizes Globalstar’s C-3 Constellation for Direct-to-Device",
+      "summary": "The FCC has granted Globalstar authority to operate its third-generation satellite constellation, referred to as the C-3 constellation. This constellation will operate in mobile satellite services (MSS) spectrum and provide",
+      "date": "2026-10-19",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/19/fcc-authorizes-globalstars-c-3-constellation-for-direct-to-device/"
     },
     {
-      "sourceId": "dod",
-      "title": "Navy Demonstrates Successful Drone Ship Landing Without GPS",
-      "summary": "The Navy recently demonstrated autonomous drone flight and shipboard landings without GPS or pilot input advancing unmanned operations where satellites are disrupted.",
-      "date": "2026-10-15",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4626366/navy-demonstrates-successful-drone-ship-landing-without-gps/"
+      "sourceId": "viasat",
+      "title": "Russian Satellite Maneuvered Within ‘Extreme Proximity’ of Iceye Satellite, LeoLabs Reports",
+      "summary": "Over the last few days, a Russian satellite deliberately maneuvered within “extreme proximity” of an Iceye satellite, according to space domain awareness data provider LeoLabs. Russia’s COSMOS 2612 began moving",
+      "date": "2026-10-19",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/19/russian-satellite-maneuvered-within-extreme-proximity-of-iceye-satellite-leolabs-reports/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "European MNOs Team Up for MSS D2D Spectrum in Europe",
+      "summary": "Four of Europe’s top mobile network operators confirmed they are working together on a plan for mobile satellite service (MSS) spectrum in Europe, announcing a letter of intent on Monday.",
+      "date": "2026-10-19",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/19/european-mnos-team-up-for-mss-d2d-spectrum-in-europe/"
     },
     {
       "sourceId": "viasat",
@@ -254,102 +282,74 @@
       "link": "https://www.satellitetoday.com/connectivity/2026/10/16/arqiva-makes-new-inroads-into-middle-east-satellite-market-with-gulfsat-deal/"
     },
     {
-      "sourceId": "viasat",
-      "title": "BAE to Build Software-Defined Radios for US Space Force Contract",
-      "summary": "The U.S. Space Force Space Systems Command awarded BAE Systems a contract to build radio frequency (RF) terminals for a space-based data layer. BAE Systems announced the award on Oct.",
-      "date": "2026-10-16",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/16/bae-to-build-software-defined-radios-for-us-space-force-contract/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "CesiumAstro to Add Manufacturing Facility in Melbourne, Florida",
-      "summary": "CesiumAstro plans to expand to Florida with an announcement this week to build an engineering and manufacturing facility in Melbourne on the Space Coast. The facility is expected to add",
-      "date": "2026-10-16",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/10/16/cesiumastro-to-add-manufacturing-facility-in-melbourne-florida/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "ESPI Calls for Stronger European Controls for MSS Spectrum",
-      "summary": "As Europe plans to reserve a portion of its mobile satellite services (MSS) spectrum authorization for European operators, a European think tank argues it should go further and maximize European",
-      "date": "2026-10-16",
-      "link": "https://www.satellitetoday.com/connectivity/2026/10/16/espi-calls-for-stronger-european-controls-for-mss-spectrum/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Rocket Lab’s Neutron Debut Now Delayed to 2027",
-      "summary": "Rocket Lab is further delaying the first launch of its Neutron rocket as it works through fixes after an issue with the first stage tank uncovered earlier this year. Rocket",
-      "date": "2026-10-15",
-      "link": "https://www.satellitetoday.com/launch/2026/10/15/rocket-labs-neutron-debut-now-delayed-to-2027/"
+      "sourceId": "spacecom",
+      "title": "A supercomputer is about to launch to the moon for the 1st time, aboard a rover named FLIP",
+      "summary": "And yes, it has AI.",
+      "date": "2026-10-20",
+      "link": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip"
     },
     {
       "sourceId": "spacecom",
-      "title": "The moon is shrinking. 10,000 cracks on the lunar surface reveal by how much",
-      "summary": "One new study shows how much the moon has diminished over time.",
-      "date": "2026-10-19",
-      "link": "https://www.space.com/astronomy/moon/the-moon-is-shrinking-10-000-cracks-on-the-lunar-surface-reveal-by-how-much"
+      "title": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026",
+      "summary": "If you were approaching the edge of a spiral galaxy, arriving from afar through the cosmos, it might look something like this.",
+      "date": "2026-10-20",
+      "link": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "'They're kind of goth': NASA spacecraft gives mysterious brown dwarfs a close-up",
-      "summary": "Using NASA’s SPHEREx spacecraft, astronomers have studied a horde of mysterious \"failed stars,\" or brown dwarfs, not-so-stellar loners that wander the darkness of space alone.",
-      "date": "2026-10-19",
-      "link": "https://www.space.com/astronomy/stars/theyre-kind-of-goth-nasa-spacecraft-gives-mysterious-brown-dwarfs-a-close-up"
+      "title": "Red light, white light: How to preserve your night vision while using stargazing apps",
+      "summary": "The right apps can take a lot of the work out of stargazing, but they can also stop your eyes from adjusting to the dark. Here's how to use them without ruining your skywatching.",
+      "date": "2026-10-20",
+      "link": "https://www.space.com/stargazing/skywatching-kit/red-light-white-light-how-to-preserve-your-night-vision-while-using-stargazing-apps"
     },
     {
       "sourceId": "spacecom",
-      "title": "Elephant Island is an icy sight from orbit | Space photo of the day for Oct. 19, 2026",
-      "summary": "The European Space Agency's Copernicus Sentinel-3 satellite mission captured a close-up of West Antarctica from its perch high above Earth.",
-      "date": "2026-10-19",
-      "link": "https://www.space.com/astronomy/earth/elephant-island-is-an-icy-sight-from-orbit-space-photo-of-the-day-for-oct-19-2026"
+      "title": "Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so",
+      "summary": "The space around Earth is turning into a junkyard. Researchers think a refundable deposit scheme could force satellite operators to clean up their act before a tipping point is reached.",
+      "date": "2026-10-20",
+      "link": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster"
     },
     {
       "sourceId": "spacecom",
-      "title": "Did a giant object collide with Earth to form the moon?",
-      "summary": "Known as the giant-impact hypothesis, this proposed event involves a collision between Earth and a hypothetical Mars-sized protoplanet astronomers call Theia.",
-      "date": "2026-10-19",
-      "link": "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Watch Japan launch a bold sample-return mission to Mars moon Phobos today",
-      "summary": "Japan will launch its audacious MMX sample-return mission to Mars today (Oct. 19), and you can watch the historic action live.",
-      "date": "2026-10-19",
-      "link": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live"
+      "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
+      "summary": "SpaceX launched its Starfall return capsule for the second time ever this morning (Oct. 20), sending it up on the Bandwagon-5 rideshare mission.",
+      "date": "2026-10-20",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission"
     },
     {
       "sourceId": "rspace",
-      "title": "Scientists Detect Rare Type of Wood Alcohol in Space",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xa597m/scientists_detect_rare_type_of_wood_alcohol_in/\"> <img src=\"https://external-preview.redd.it/jPIbNVrT_8xgG58g63oafq-G41jSKKvb3WO5JEyIo4A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e350140294660b430e6…",
-      "date": "2026-10-19",
-      "link": "https://www.reddit.com/r/space/comments/1xa597m/scientists_detect_rare_type_of_wood_alcohol_in/"
+      "title": "Decoupled heavy neutrino could have helped matter dominate over antimatter in the aftermath of the Big Bang, by taking over the energy density of the universe",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xaxy1r/decoupled_heavy_neutrino_could_have_helped_matter/\"> <img src=\"https://external-preview.redd.it/z7ombI6sInejxkg5ASLaDYWMLgWCsFAW33zB6ftIU_g.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5a5e494b5af62623…",
+      "date": "2026-10-20",
+      "link": "https://www.reddit.com/r/space/comments/1xaxy1r/decoupled_heavy_neutrino_could_have_helped_matter/"
     },
     {
       "sourceId": "rspace",
-      "title": "The gas around Milky Way's central black hole is rich in metals, study finds. Research advances understanding of the processes that fuel our galaxy’s supermassive black hole...",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xa55bz/the_gas_around_milky_ways_central_black_hole_is/\"> <img src=\"https://external-preview.redd.it/PYv44Ha0rDcB4cw8SWusj_dR2xmyLZN3PARgHmfxu3c.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=80718073d1ea85a24a…",
-      "date": "2026-10-19",
-      "link": "https://www.reddit.com/r/space/comments/1xa55bz/the_gas_around_milky_ways_central_black_hole_is/"
+      "title": "South Korea schedules 12 Nuri rocket launches by 2032, medium-lift methalox rocket by 2031, reusable rocket by 2035",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xaxacd/south_korea_schedules_12_nuri_rocket_launches_by/\"> <img src=\"https://external-preview.redd.it/TLBL2uz6y0lUwE1EKayNjuOxkatkm9BHHhJQnk4idSE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9bb8279d9701474b9…",
+      "date": "2026-10-20",
+      "link": "https://www.reddit.com/r/space/comments/1xaxacd/south_korea_schedules_12_nuri_rocket_launches_by/"
     },
     {
       "sourceId": "rspace",
-      "title": "Original Voyager team member talks to us about the astonishing scientific info the 50-year-old probe gathered",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>An interview with Dr. Garry Hunt on the Register podcast</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Much_Preparation_832\"> /u/Much_Preparation_832 </a> <br/> <span><a…",
-      "date": "2026-10-19",
-      "link": "https://www.reddit.com/r/space/comments/1xa4r62/original_voyager_team_member_talks_to_us_about/"
+      "title": "Space Rider test model lost following failed drop test",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xavzhj/space_rider_test_model_lost_following_failed_drop/\"> <img src=\"https://external-preview.redd.it/40pNAMf1fEtLtrgZH4b018XRYtwTKPdfXqqm0h9szIg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=121e151138d579c3…",
+      "date": "2026-10-20",
+      "link": "https://www.reddit.com/r/space/comments/1xavzhj/space_rider_test_model_lost_following_failed_drop/"
     },
     {
       "sourceId": "rspace",
-      "title": "'Phoenix planet': First-ever evidence of a second-generation planet detected around dead star | In a cosmic first, scientists say they have detected a planet that may have formed from the burned remains of its dead host star",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xa49t7/phoenix_planet_firstever_evidence_of_a/\"> <img src=\"https://external-preview.redd.it/EozDXLcJoPPje18JRsTswNBTYrca7nNCljOQgsiJavg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd0aa3c0baf22d201ff1dcd58b7…",
-      "date": "2026-10-19",
-      "link": "https://www.reddit.com/r/space/comments/1xa49t7/phoenix_planet_firstever_evidence_of_a/"
+      "title": "[Official] NASA Moon Base: Rovers and Lunar Terrain Vehicles For Humanity's First Lunar Outpost (October 2026 Update)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xavrgv/official_nasa_moon_base_rovers_and_lunar_terrain/\"> <img src=\"https://external-preview.redd.it/-2UrzH4Ls6tQS__NIDO0XI7p4HLPYzl2WRTsY9Fj0wc.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1d36c25bc821cbfc8…",
+      "date": "2026-10-20",
+      "link": "https://www.reddit.com/r/space/comments/1xavrgv/official_nasa_moon_base_rovers_and_lunar_terrain/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Russian satellite that flew 5 km behind an ICEYE radar satellite has manoeuvred away from it",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xa2gbx/the_russian_satellite_that_flew_5_km_behind_an/\"> <img src=\"https://external-preview.redd.it/fgZDP6BRnEhkNQm7m5qKR7-UmhQ0hOCR4caUJy88bog.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc68d1310ddc1d011efc…",
-      "date": "2026-10-19",
-      "link": "https://www.reddit.com/r/space/comments/1xa2gbx/the_russian_satellite_that_flew_5_km_behind_an/"
+      "title": "Japan launches Martian moon mission | NHK WORLD-JAPAN News",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xatjwk/japan_launches_martian_moon_mission_nhk/\"> <img src=\"https://external-preview.redd.it/wLh04g9GWXdIdgdzfkmEblhjtG9-EfnYs9UhM-qclu0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd1ee931edfa015b23f1d3f351…",
+      "date": "2026-10-20",
+      "link": "https://www.reddit.com/r/space/comments/1xatjwk/japan_launches_martian_moon_mission_nhk/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Improves Shock, Vibration Analysis",
-      "summary": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces.",
-      "date": "2026-10-19",
-      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/"
+      "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+      "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet.",
+      "date": "2026-10-20",
+      "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
     },
     {
       "sourceId": "nasa",
-      "title": "Software",
-      "summary": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems.",
-      "date": "2026-10-19",
-      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/"
+      "title": "NASA Provides Progress Update on Moon Base Rovers",
+      "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting.",
+      "date": "2026-10-20",
+      "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/"
     },
     {
       "sourceId": "nasa",
-      "title": "Experimental Facilities",
-      "summary": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig…",
-      "date": "2026-10-19",
-      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/"
+      "title": "Webb Captures Stellar Jets",
+      "summary": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth.",
+      "date": "2026-10-20",
+      "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
-      "summary": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
-      "date": "2026-10-19",
-      "link": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/"
+      "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
+      "summary": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration.",
+      "date": "2026-10-20",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/"
     },
     {
       "sourceId": "nasa",
-      "title": "Instrumentation",
-      "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes.",
-      "date": "2026-10-19",
-      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/"
+      "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+      "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-10-20",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/"
     }
   ]
 }
