@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T17:53:55.514Z",
+  "updated": "2026-10-22T18:13:42.704Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Air Force Research Lab Demonstrates Rocket Cargo Delivery",
+      "summary": "The Air Force Research Laboratory tested the Rocket Cargo project's point-to-point delivery capabilities during a commercial rideshare launch from Cape Canaveral Space Force Station, Florida.",
+      "date": "2026-10-22",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4631639/air-force-research-lab-demonstrates-rocket-cargo-delivery/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Hegseth, Guyanese President Establish Enhanced Military Partnership",
       "summary": "Secretary of War Pete Hegseth and Guyanese President Mohamed Irfaan Ali signed a landmark agreement at the Pentagon, creating an enhanced defense partnership between the two countries.",
       "date": "2026-10-21",
@@ -238,13 +245,6 @@
       "summary": "Multilateral Exercise Keen Sword 2027 began on Ishigaki Island, Japan, involving about 45,000 Japan Self-Defense Forces troops, 11,000 U.S. service members and forces from Australia, Canada, France, Germany, the Netherlands, New Zealand and the Philippines.",
       "date": "2026-10-20",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4629628/exercise-keen-sword-2027-begins-in-japan/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Arctic Experiment Explores Ways to Close Air Surveillance Gaps",
-      "summary": "U.S. military personnel, scientists and international partners conducted live-fly testing in Alaska during the final event of a three-year Arctic air domain awareness experiment series, collecting data to assess technology that could help close surveillance gaps across the state.",
-      "date": "2026-10-20",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4629316/arctic-experiment-explores-ways-to-close-air-surveillance-gaps/"
     },
     {
       "sourceId": "viasat",
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "Van Gogh's 'The Starry Night' depicts the sky on July 22, 1889, researchers find",
+      "summary": "Researchers think they might have pinpointed the exact night sky that we see depicted in Vincent van Gogh's iconic painting \"The Starry Night.\"",
+      "date": "2026-10-22",
+      "link": "https://www.space.com/astronomy/van-goghs-the-starry-night-depicts-the-sky-on-july-22-1889-researchers-find"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission",
       "summary": "Victor Glover recalls how a suspected cabin leak warning came just 15 minutes before a crucial engine burn — and why receiving it just five minutes later could have changed everything.",
       "date": "2026-10-22",
@@ -308,13 +315,6 @@
       "summary": "NASA will provide an update about its Artemis III mission and its plans to land astronauts on the moon during a press conference on Friday (Oct. 23). Here's how to watch it live.",
       "date": "2026-10-22",
       "link": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "On this day in space! Oct. 21, 2008: India launches its 1st mission to the moon with Chandrayaan-1",
-      "summary": "On Oct. 21, 2008, the Indian Space Research Organization launched its first mission to the moon. Here's why it mattered.",
-      "date": "2026-10-21",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-21-2026"
     },
     {
       "sourceId": "rspace",
