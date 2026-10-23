@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-22T18:13:42.704Z",
+  "updated": "2026-10-23T17:47:59.834Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
+      "summary": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability",
+      "date": "2026-10-22",
+      "link": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/"
+    },
     {
       "sourceId": "spacenews",
       "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
@@ -21,13 +28,6 @@
       "summary": "LOS ALAMOS, N.M. — October 21, 2026 — Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction",
       "date": "2026-10-21",
       "link": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
-      "summary": "SAN FRANCISCO – Wi-Fi technology from Solstar Space connected NASA’s R5-S10 cubesat with Momentus’ Vigoride-7 orbital service vehicle during proximity operations and relayed data to NASA’s Johnson Space Center, Solstar",
-      "date": "2026-10-21",
-      "link": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/"
     },
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "U.S., Australia, U.K. Launch Maritime Demonstration to Enhance Interoperability",
+      "summary": "The Maritime Big Play Pacific demonstration is underway off the coast of Southern California to advance interoperability among the U.S., Australia and the U.K., as part of the AUKUS trilateral partnership.",
+      "date": "2026-10-22",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4631837/us-australia-uk-launch-maritime-demonstration-to-enhance-interoperability/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Air Force Research Lab Demonstrates Rocket Cargo Delivery",
       "summary": "The Air Force Research Laboratory tested the Rocket Cargo project's point-to-point delivery capabilities during a commercial rideshare launch from Cape Canaveral Space Force Station, Florida.",
       "date": "2026-10-22",
@@ -240,11 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4629585/hegseth-praises-ohio-aerospace-workers-during-arsenal-of-freedom-tour/"
     },
     {
-      "sourceId": "dod",
-      "title": "Exercise Keen Sword 2027 Begins in Japan",
-      "summary": "Multilateral Exercise Keen Sword 2027 began on Ishigaki Island, Japan, involving about 45,000 Japan Self-Defense Forces troops, 11,000 U.S. service members and forces from Australia, Canada, France, Germany, the Netherlands, New Zealand and the Philippines.",
-      "date": "2026-10-20",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4629628/exercise-keen-sword-2027-begins-in-japan/"
+      "sourceId": "viasat",
+      "title": "Ukraine Joins NATO Support Partnership to Open New Doors for Space Companies",
+      "summary": "Ukrainian space companies will be able to participate in NATO contracts, and help shape its defense and industrial requirements thanks to a major new partnership. Ukraine has joined the NATO",
+      "date": "2026-10-22",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/22/ukraine-joins-nato-support-partnership-to-open-new-doors-for-space-companies/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "The Question Gulf Buyers Are Now Asking: Who Can Switch This Off?",
+      "summary": "On April 4, Planet Labs told customers it would withhold imagery of Iran and the surrounding conflict zone indefinitely, retroactive to March 9. The company said the U.S. government had",
+      "date": "2026-10-22",
+      "link": "https://www.satellitetoday.com/opinion/2026/10/22/the-question-gulf-buyers-are-now-asking-who-can-switch-this-off/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "PlanetiQ CEO Details Weather Data Expansion After Back-to-Back GNSS-RO Launches",
+      "summary": "PlanetiQ is expanding its GNSS-RO data collection with back-to-back rideshare launches in October, as CEO Ira Scharf says there is growing demand for this type of weather data from both",
+      "date": "2026-10-22",
+      "link": "https://www.satellitetoday.com/earth-observation/2026/10/22/planetiq-ceo-details-weather-data-expansion-after-back-to-back-gnss-ro-launches/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Iceye and Nokia Look to Develop Satcom Capability for Ukraine",
+      "summary": "Iceye and Nokia are looking to develop a satcom capability for Ukraine, under a new letter of intent with the Ministry of Defence of Ukraine, announced Thursday. Earlier this month,",
+      "date": "2026-10-22",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/22/iceye-and-nokia-look-to-develop-satcom-capability-for-ukraine/"
     },
     {
       "sourceId": "viasat",
@@ -254,102 +282,74 @@
       "link": "https://www.satellitetoday.com/government-military/2026/10/21/cgi-wins-new-uk-mod-contract/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Orbius CEO Halldor Sigurdsson Talks ‘New Era’ for Satellite in Thursday Morning Conversation",
-      "summary": "Internet connectivity alone is no longer enough for the problems that businesses are trying to solve. This week, Orbius CEO Halldor Sigurdsson joins Via Satellite for a Thursday Morning Conversation",
-      "date": "2026-10-21",
-      "link": "https://www.satellitetoday.com/partner-content/2026/10/21/thursday-morning-conversation-with-orbius-ceo-halldor-sigurdsson/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Atombeam Raises $18.3M for Networking Technology",
-      "summary": "AI networking technology startup Atombeam has raised $18.3 million to accelerate adoption of its software targeted for satellite, defense, and commercial links. Atombeam announced the round on Tuesday, increasing the",
-      "date": "2026-10-21",
-      "link": "https://www.satellitetoday.com/finance/2026/10/21/atombeam-raises-18-3m-for-networking-technology/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Starlink Growth Slows as AI Takes the Lead at SpaceX in Q3 Results",
-      "summary": "SpaceX’s AI business drove the story in its third quarter results as the AI segment, now renamed “Super Intelligence” (SI), surpassed Starlink connectivity revenue. The Starlink business continued growing, but",
-      "date": "2026-10-21",
-      "link": "https://www.satellitetoday.com/finance/2026/10/21/starlink-growth-slows-as-ai-takes-the-lead-at-spacex-in-q3-results/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Eutelsat Signs New German Critical Infrastructure Deal",
-      "summary": "Eutelsat has made an interesting deal in the European Critical Infrastructure (CI) space. It has signed an expanded capacity deal with EuroSkyPark, a German specialist in secure communications for critical",
-      "date": "2026-10-20",
-      "link": "https://www.satellitetoday.com/connectivity/2026/10/20/eutelsat-signs-new-german-critical-infrastructure-deal/"
+      "sourceId": "spacecom",
+      "title": "Never finishing the fight: Where did Xbox go wrong with Halo?",
+      "summary": "After a failed soft reboot and a remake of the original, the Halo universe is facing yet another major creative shift. But has Xbox learned any lessons this time?",
+      "date": "2026-10-23",
+      "link": "https://www.space.com/entertainment/space-games/never-finishing-the-fight-where-did-xbox-go-wrong-with-halo"
     },
     {
       "sourceId": "spacecom",
-      "title": "Van Gogh's 'The Starry Night' depicts the sky on July 22, 1889, researchers find",
-      "summary": "Researchers think they might have pinpointed the exact night sky that we see depicted in Vincent van Gogh's iconic painting \"The Starry Night.\"",
-      "date": "2026-10-22",
-      "link": "https://www.space.com/astronomy/van-goghs-the-starry-night-depicts-the-sky-on-july-22-1889-researchers-find"
+      "title": "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026",
+      "summary": "The robotic Griffin lunar lander has passed a host of critical tests ahead of its first-ever moon mission, which is scheduled to launch later this year.",
+      "date": "2026-10-23",
+      "link": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission",
-      "summary": "Victor Glover recalls how a suspected cabin leak warning came just 15 minutes before a crucial engine burn — and why receiving it just five minutes later could have changed everything.",
-      "date": "2026-10-22",
-      "link": "https://www.space.com/space-exploration/artemis/cabin-leak-suspected-artemis-ii-astronaut-reveals-how-a-warning-nearly-derailed-moon-mission"
+      "title": "'Stupendously large black holes' aren't a major component of dark matter, study finds",
+      "summary": "Black holes more massive than entire galaxies are not a major component of dark matter, the mysterious stuff that's thought to make up most of the matter in the cosmos, a new study finds.",
+      "date": "2026-10-23",
+      "link": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds"
     },
     {
       "sourceId": "spacecom",
-      "title": "Australia's bizarre 'Spider Crater' seen from orbit | Space photo of the day for Oct. 22, 2026",
-      "summary": "A satellite image of \"Spider Crater\" in Western Australia.",
-      "date": "2026-10-22",
-      "link": "https://www.space.com/astronomy/earth/australias-bizarre-spider-crater-seen-from-orbit-space-photo-of-the-day-for-oct-22-2026"
+      "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
+      "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
+      "date": "2026-10-23",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence"
     },
     {
       "sourceId": "spacecom",
-      "title": "Next Mass Effect game cancelled as EA shuts down legendary sci-fi RPG studio BioWare",
-      "summary": "The legendary RPG studio behind classics such as Star Wars: Knights of the Old Republic, Mass Effect, and Dragon Age is no more.",
-      "date": "2026-10-22",
-      "link": "https://www.space.com/entertainment/space-games/next-mass-effect-game-cancelled-as-ea-shuts-down-developer-bioware"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "NASA giving update about Artemis moon plans on Oct. 23: Watch it live",
-      "summary": "NASA will provide an update about its Artemis III mission and its plans to land astronauts on the moon during a press conference on Friday (Oct. 23). Here's how to watch it live.",
-      "date": "2026-10-22",
-      "link": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live"
+      "title": "Space debris: Are we on track for true sustainability? (op-ed)",
+      "summary": "Space is a critical infrastructure layer, underpinning nearly all systems that enable modern life as we know it. It’s therefore critical to maintain a safe and clean orbital environment.",
+      "date": "2026-10-23",
+      "link": "https://www.space.com/space-exploration/satellites/space-debris-are-we-on-track-for-true-sustainability-op-ed"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration - NASA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xcpiuf/nasa_jpl_looks_to_next_90_years_of_innovation/\"> <img src=\"https://external-preview.redd.it/v2t42iTMWksurw2PCX69bK99QM2Csp6sphVHzYRRVq0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4cb8396e898362e8e3c8…",
-      "date": "2026-10-22",
-      "link": "https://www.reddit.com/r/space/comments/1xcpiuf/nasa_jpl_looks_to_next_90_years_of_innovation/"
+      "title": "Penn Engineers turn everyday Mylar into a promising insulator for the moon. By stacking hundreds of sheets of Mylar, Penn Engineers have created a flexible, durable insulator that could help protect future lunar habitats...",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xdjt6a/penn_engineers_turn_everyday_mylar_into_a/\"> <img src=\"https://external-preview.redd.it/zfJn4EVlrDU1_7kgNx38MwGCaOMHmQAkH3cvFKhW9zs.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d05c845a36ca106046f8231f…",
+      "date": "2026-10-23",
+      "link": "https://www.reddit.com/r/space/comments/1xdjt6a/penn_engineers_turn_everyday_mylar_into_a/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA giving update about Artemis moon plans on Oct. 23: Watch it live",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xcooqe/nasa_giving_update_about_artemis_moon_plans_on/\"> <img src=\"https://external-preview.redd.it/65sGTZNqCmlTCDHsJHQEFEleVtTqSCY9-7yQIuUdAWw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1618e39768e1dac010c…",
-      "date": "2026-10-22",
-      "link": "https://www.reddit.com/r/space/comments/1xcooqe/nasa_giving_update_about_artemis_moon_plans_on/"
+      "title": "Why is Jodrell Bank, a window on the universe, at risk?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xdfjyh/why_is_jodrell_bank_a_window_on_the_universe_at/\"> <img src=\"https://external-preview.redd.it/WWOQeQhEt2jf9F6I6m34JCK5_7_W_QCIeoI8A4eLwDM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=45f2c33a963db0a3aa…",
+      "date": "2026-10-23",
+      "link": "https://www.reddit.com/r/space/comments/1xdfjyh/why_is_jodrell_bank_a_window_on_the_universe_at/"
     },
     {
       "sourceId": "rspace",
-      "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase - “We have had significant constructive engagement with the FAA.”",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xcf57s/spacex_to_attempt_starship_catch_on_next_flight/\"> <img src=\"https://external-preview.redd.it/WQfkKkXlTN2oVEdQIB-Wdf04HxPtKSRLWrnV6V_va4I.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=89acbad6d6a7659905…",
-      "date": "2026-10-22",
-      "link": "https://www.reddit.com/r/space/comments/1xcf57s/spacex_to_attempt_starship_catch_on_next_flight/"
+      "title": "How Berkeley shaped NASA’s newest space telescope",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xdfacb/how_berkeley_shaped_nasas_newest_space_telescope/\"> <img src=\"https://external-preview.redd.it/d2qyuA1FnJcxCvn60aJNJf29Q_YWjYNf74siFxv_dow.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=144ae4147237f8355…",
+      "date": "2026-10-23",
+      "link": "https://www.reddit.com/r/space/comments/1xdfacb/how_berkeley_shaped_nasas_newest_space_telescope/"
     },
     {
       "sourceId": "rspace",
-      "title": "What if we are not alone but will never know. (Long)",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Sometimes I think about the universe so much that I can&#39;t sleep. Tonight is one of those nights.</p> <p>It&#39;s 3:09 in the morning.",
-      "date": "2026-10-22",
-      "link": "https://www.reddit.com/r/space/comments/1xccx2c/what_if_we_are_not_alone_but_will_never_know_long/"
+      "title": "I made a 3D solar system where everything is real size and in its real place today",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I built this as a hobby project. It runs at 1 unit = 1 km, so sizes and distances are real. Planets use JPL Keplerian elements, solved with Newton iteration, so you can pick any date.",
+      "date": "2026-10-23",
+      "link": "https://www.reddit.com/r/space/comments/1xdew19/i_made_a_3d_solar_system_where_everything_is_real/"
     },
     {
       "sourceId": "rspace",
-      "title": "Orionid meteor shower peaks overnight on Oct. 21-22 —Here's the best time to spot shooting stars...",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xbwqym/orionid_meteor_shower_peaks_overnight_on_oct_2122/\"> <img src=\"https://external-preview.redd.it/jknmDIsWJNWIn6kBg4EwHsp0Wc-8vLV35-hUJwxZqVs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d35253a1e60a195…",
-      "date": "2026-10-21",
-      "link": "https://www.reddit.com/r/space/comments/1xbwqym/orionid_meteor_shower_peaks_overnight_on_oct_2122/"
+      "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready - “We believe Canada should be able to reach orbit on its own terms.”",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xdeb0w/rocket_report_spacex_says_no_thanks_to_military/\"> <img src=\"https://external-preview.redd.it/eTf_cDvpqc5rrjCouNjwyTzeSKZc5gK454a25XKlTjk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3772a35f97ffa6e4e6…",
+      "date": "2026-10-23",
+      "link": "https://www.reddit.com/r/space/comments/1xdeb0w/rocket_report_spacex_says_no_thanks_to_military/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
+      "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+      "summary": "APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-10-23",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "El Niño Then and Now",
+      "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
+      "date": "2026-10-23",
+      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville.",
+      "date": "2026-10-22",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Spiral’s Edge",
+      "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
+      "date": "2026-10-22",
+      "link": "https://www.nasa.gov/image-article/spirals-edge/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
       "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
       "date": "2026-10-22",
       "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
-      "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-22",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Fires Char New Guinea",
-      "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
-      "date": "2026-10-22",
-      "link": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Faster to Science: A Letter to the Science Community",
-      "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
-      "date": "2026-10-22",
-      "link": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
-      "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire…",
-      "date": "2026-10-21",
-      "link": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/"
     }
   ]
 }
