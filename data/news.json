@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T17:47:59.834Z",
+  "updated": "2026-10-23T18:02:43.940Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -248,6 +248,13 @@
     },
     {
       "sourceId": "viasat",
+      "title": "Space Systems Command Makes CASR Awards for Space Domain Awareness",
+      "summary": "Companies unnamed by U.S. Space Force Space Systems Command (SSC) have received six Commercial Augmentation Space Reserve (CASR) purchase agreements under the ACCESS contract for space domain awareness (SDA), the",
+      "date": "2026-10-23",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/23/space-systems-command-makes-casr-awards-for-space-domain-awareness/"
+    },
+    {
+      "sourceId": "viasat",
       "title": "Ukraine Joins NATO Support Partnership to Open New Doors for Space Companies",
       "summary": "Ukrainian space companies will be able to participate in NATO contracts, and help shape its defense and industrial requirements thanks to a major new partnership. Ukraine has joined the NATO",
       "date": "2026-10-22",
@@ -275,11 +282,11 @@
       "link": "https://www.satellitetoday.com/government-military/2026/10/22/iceye-and-nokia-look-to-develop-satcom-capability-for-ukraine/"
     },
     {
-      "sourceId": "viasat",
-      "title": "CGI Wins New UK MoD Contract",
-      "summary": "The UK’s Ministry of Defence (MoD) National Armaments Director Group (NAD) has tapped CGI to provide technical and project support services for the PICASSO programme. PICASSO is a strategic program",
-      "date": "2026-10-21",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/21/cgi-wins-new-uk-mod-contract/"
+      "sourceId": "spacecom",
+      "title": "Halley's Comet dazzles from afar in spectacular astrophoto of Orionid meteor shower",
+      "summary": "This incredible composite image of Orionid meteors was captured as Earth passed through the debris trail shed by Halley's Comet.",
+      "date": "2026-10-23",
+      "link": "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower"
     },
     {
       "sourceId": "spacecom",
@@ -308,13 +315,6 @@
       "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
       "date": "2026-10-23",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Space debris: Are we on track for true sustainability? (op-ed)",
-      "summary": "Space is a critical infrastructure layer, underpinning nearly all systems that enable modern life as we know it. It’s therefore critical to maintain a safe and clean orbital environment.",
-      "date": "2026-10-23",
-      "link": "https://www.space.com/space-exploration/satellites/space-debris-are-we-on-track-for-true-sustainability-op-ed"
     },
     {
       "sourceId": "rspace",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+      "summary": "NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar,…",
+      "date": "2026-10-23",
+      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
       "summary": "APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-10-23",
@@ -448,13 +455,6 @@
       "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
       "date": "2026-10-22",
       "link": "https://www.nasa.gov/image-article/spirals-edge/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
-      "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
-      "date": "2026-10-22",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/"
     }
   ]
 }
