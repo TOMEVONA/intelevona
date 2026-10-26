@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-25T17:21:23.858Z",
+  "updated": "2026-10-26T19:05:00.891Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+      "summary": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it",
+      "date": "2026-10-26",
+      "link": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Nov. 5: Satellite Mission Management at the Edge",
@@ -28,13 +35,6 @@
       "summary": "Paris, France | October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity",
       "date": "2026-10-21",
       "link": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
-      "summary": "LOS ALAMOS, N.M. — October 21, 2026 — Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction",
-      "date": "2026-10-21",
-      "link": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/"
     },
     {
       "sourceId": "tectonic",
@@ -248,13 +248,6 @@
     },
     {
       "sourceId": "viasat",
-      "title": "Trends in European Space Defense: A Strategic Shift in Space",
-      "summary": "Europe is rapidly redefining its approach to space security and defense. Join us for an in-depth webinar exploring the strategies, investments, and initiatives reshaping the European space defense landscape. Across",
-      "date": "2026-10-23",
-      "link": "https://www.satellitetoday.com/webinar/live-webinar-series/2026/10/23/trends-in-european-space-defense-a-strategic-shift-in-space/"
-    },
-    {
-      "sourceId": "viasat",
       "title": "Xona Prepares to Start Navigation Service in Beta With Recent Launch and $250M Raise",
       "summary": "Xona is preparing to start initial beta service for its commercial satellite navigation service in early 2027 after two major milestones this week — a six-satellite launch and a $250 million",
       "date": "2026-10-23",
@@ -282,74 +275,81 @@
       "link": "https://www.satellitetoday.com/government-military/2026/10/23/space-systems-command-makes-casr-awards-for-space-domain-awareness/"
     },
     {
-      "sourceId": "spacecom",
-      "title": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
-      "summary": "On Oct. 25, 1671, the Italian astronomer Giovanni Cassini discovered a new moon at Saturn! Here's why it mattered.",
-      "date": "2026-10-25",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon"
+      "sourceId": "viasat",
+      "title": "Ukraine Joins NATO Support Partnership to Open New Doors for Space Companies",
+      "summary": "Ukrainian space companies will be able to participate in NATO contracts, and help shape its defense and industrial requirements thanks to a major new partnership. Ukraine has joined the NATO",
+      "date": "2026-10-22",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/22/ukraine-joins-nato-support-partnership-to-open-new-doors-for-space-companies/"
     },
     {
       "sourceId": "spacecom",
-      "title": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
-      "summary": "The October full moon rises on Oct. 25. Here's how to see it, why it's called the \"Hunter's Moon\" and everything else you need to know about the lunar milestone.",
-      "date": "2026-10-25",
-      "link": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know"
+      "title": "Darth Vader wields the Infinity Gauntlet in the first-ever official 'Star Wars' & 'Marvel' crossover",
+      "summary": "If you only knew the power of the infinity stones!",
+      "date": "2026-10-26",
+      "link": "https://www.space.com/entertainment/space-books/darth-vader-wields-the-infinity-gauntlet-in-the-first-ever-official-star-wars-and-marvel-crossover"
     },
     {
       "sourceId": "spacecom",
-      "title": "This Week In Space podcast: Episode 233 — The Artemis Generation",
-      "summary": "On Episode 233 of This Week In Space, Tariq Malik and Rick Jenet are joined by Dr. Amanda Smith-Hackler, with the Universities Space Research Association, about entering the space workforce.",
-      "date": "2026-10-24",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-233-the-artemis-generation"
+      "title": "NASA ends Swift space telescope mission after failed rescue attempt",
+      "summary": "NASA has officially ended the mission of its Swift Observatory, after a private satellite failed to meet up with the aging spacecraft in orbit.",
+      "date": "2026-10-26",
+      "link": "https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space",
-      "summary": "On October 24, 1946, a V-2 rocket captured the first-ever photo of Earth from space. Here's why it mattered.",
-      "date": "2026-10-24",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026"
+      "title": "'Donnie Darko' at 25: How a giant rabbit, time loops, and teen angst became a sci-fi cult classic",
+      "summary": "\"28 days, 6 hours, 42 minutes, 12 seconds. That is when the world will end.\"",
+      "date": "2026-10-26",
+      "link": "https://www.space.com/entertainment/donnie-darko-at-25-how-a-giant-rabbit-time-loops-and-teen-angst-became-a-sci-fi-cult-classic"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Star Trek: Strange New Worlds' was afraid to say anything in season of gimmicks",
-      "summary": "The fourth season of \"Star Trek: Strange New Worlds\" was one giant gimmick: shoving \"Trek\" into as many genres as possible and often directly adapting classic films from those genres.",
-      "date": "2026-10-24",
-      "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-of-gimmicks-was-afraid-to-say-anything"
+      "title": "Stuck for a Halloween outfit? Set phasers to stunning with the best Star Trek costumes",
+      "summary": "Halloween is just round the corner, but if you hurry, you can beam down these superb Star Trek outfits, from old-school Star Trek through to The Next Generation and Discovery.",
+      "date": "2026-10-26",
+      "link": "https://www.space.com/entertainment/space-toys-lego/stuck-for-a-halloween-outfit-set-phasers-to-stunning-with-the-best-star-trek-costumes"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "Record breaker! Astronomers spot powerful cosmic explosion that lasted 27 days",
+      "summary": "Astronomers have spotted a remarkable gamma-ray burst that's a real Incredible Hulk compared to other cosmic explosions of the same type.",
+      "date": "2026-10-26",
+      "link": "https://www.space.com/science/astrophysics/record-breaker-astronomers-spot-powerful-cosmic-explosion-that-lasted-27-days"
     },
     {
       "sourceId": "rspace",
-      "title": "All Space Questions thread for week of October 25, 2026",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please sort comments by &#39;new&#39; to find questions that would otherwise be buried.</p> <p>In this thread you can ask any space related question that you may have.</p> <p>Two examples of potential questions could be; \"How do rockets work?\",…",
-      "date": "2026-10-25",
-      "link": "https://www.reddit.com/r/space/comments/1xf7meb/all_space_questions_thread_for_week_of_october_25/"
+      "title": "The massive (nearly 2000 tonnes) structure of the Extremely Large Telescope (ELT) was tilted for the first time recently!",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xg3zfn/the_massive_nearly_2000_tonnes_structure_of_the/\"> <img src=\"https://external-preview.redd.it/b6lP_H4qzox5QCTUYPtQatYfYiNxtZocXEFfLk5RcvA.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e722fe225c123c7397…",
+      "date": "2026-10-26",
+      "link": "https://www.reddit.com/r/space/comments/1xg3zfn/the_massive_nearly_2000_tonnes_structure_of_the/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Rosette Nebula-NGC2244",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xf67wm/the_rosette_nebulangc2244/\"> <img src=\"https://preview.redd.it/pg5r7gg10nxh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78efe4444f333ccf6162be5f5cf3b460257174c6\" alt=\"The Rosette Nebula-NGC2244\"…",
-      "date": "2026-10-25",
-      "link": "https://www.reddit.com/r/space/comments/1xf67wm/the_rosette_nebulangc2244/"
+      "title": "Black holes can merge. But can one black hole become two? Physicists have investigated when such an extraordinary event might be possible.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xfteap/black_holes_can_merge_but_can_one_black_hole/\"> <img src=\"https://external-preview.redd.it/KiXdcH8ISgB4LRvPVN-2g_Jn6pq922mt9ej3J73YCWI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8496757b7cba85f9ad03…",
+      "date": "2026-10-26",
+      "link": "https://www.reddit.com/r/space/comments/1xfteap/black_holes_can_merge_but_can_one_black_hole/"
     },
     {
       "sourceId": "rspace",
-      "title": "First time taking picture of Moon",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xf5im2/first_time_taking_picture_of_moon/\"> <img src=\"https://preview.redd.it/y2g8mxk4vmxh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b24d4c52ca73cfe3ebfe517135788333d6b8679\" alt=\"First time taking…",
-      "date": "2026-10-25",
-      "link": "https://www.reddit.com/r/space/comments/1xf5im2/first_time_taking_picture_of_moon/"
+      "title": "Scientists Create Most Detailed Simulation Yet of the Early Universe",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xfsz3k/scientists_create_most_detailed_simulation_yet_of/\"> <img src=\"https://external-preview.redd.it/d7qy1cvzsD-zY88CaSPapHY2AcHk3Mh9-_79BF3Y3QI.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=cf0098b6a167eb9b9…",
+      "date": "2026-10-26",
+      "link": "https://www.reddit.com/r/space/comments/1xfsz3k/scientists_create_most_detailed_simulation_yet_of/"
     },
     {
       "sourceId": "rspace",
-      "title": "3D map of the planets when you were born",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xf3pgs/3d_map_of_the_planets_when_you_were_born/\"> <img src=\"https://external-preview.redd.it/5mO6sEasBe5uNv_UajnYouM_nIUEvZQnE_Ryutc6oJQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b5cfae0dbb38b9e2b0360252a…",
-      "date": "2026-10-25",
-      "link": "https://www.reddit.com/r/space/comments/1xf3pgs/3d_map_of_the_planets_when_you_were_born/"
+      "title": "Last month's full Moon, captured from my rooftop",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xfoga6/last_months_full_moon_captured_from_my_rooftop/\"> <img src=\"https://preview.redd.it/zuks84z51rxh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=506c3c245adc60e58a926109bb92b70140681ed0\" alt=\"Last…",
+      "date": "2026-10-26",
+      "link": "https://www.reddit.com/r/space/comments/1xfoga6/last_months_full_moon_captured_from_my_rooftop/"
     },
     {
       "sourceId": "rspace",
-      "title": "[OC] Elephant’s Trunk Nebula",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xf1llt/oc_elephants_trunk_nebula/\"> <img src=\"https://preview.redd.it/brawcran1mxh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e1e0d504cbed9e175fef96fbac9c1c00505cabc\" alt=\"[OC] Elephant’s Trunk Nebula\"…",
-      "date": "2026-10-25",
-      "link": "https://www.reddit.com/r/space/comments/1xf1llt/oc_elephants_trunk_nebula/"
+      "title": "Hunter Moon 10/25",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xfm183/hunter_moon_1025/\"> <img src=\"https://preview.redd.it/4cdje4hwcqxh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b8aca4949809e5df4daeac07acbb46c50e3a3ae7\" alt=\"Hunter Moon 10/25\" title=\"Hunter Moon…",
+      "date": "2026-10-26",
+      "link": "https://www.reddit.com/r/space/comments/1xfm183/hunter_moon_1025/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-      "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-25",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/"
+      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
+      "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+      "date": "2026-10-26",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-      "summary": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-24",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/"
+      "title": "NASA’s X-59 Aircraft and Test Pilot",
+      "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026.",
+      "date": "2026-10-26",
+      "link": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-      "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future…",
-      "date": "2026-10-23",
-      "link": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/"
+      "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+      "summary": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture.",
+      "date": "2026-10-26",
+      "link": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-      "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.",
-      "date": "2026-10-23",
-      "link": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
+      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "summary": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-10-26",
+      "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-      "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface.",
-      "date": "2026-10-23",
-      "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
+      "title": "Hunting Red Leaves with Satellites",
+      "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
+      "date": "2026-10-26",
+      "link": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/"
     }
   ]
 }
