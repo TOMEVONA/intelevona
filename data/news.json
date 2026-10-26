@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T19:05:00.891Z",
+  "updated": "2026-10-26T19:40:53.234Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -423,6 +423,13 @@
     },
     {
       "sourceId": "nasa",
+      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+      "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and…",
+      "date": "2026-10-26",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
       "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
       "date": "2026-10-26",
@@ -448,13 +455,6 @@
       "summary": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
       "date": "2026-10-26",
       "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Hunting Red Leaves with Satellites",
-      "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
-      "date": "2026-10-26",
-      "link": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/"
     }
   ]
 }
