@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-26T19:40:53.234Z",
+  "updated": "2026-10-27T18:36:26.667Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+      "summary": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications",
+      "date": "2026-10-27",
+      "link": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
+      "summary": "– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews to supply",
+      "date": "2026-10-26",
+      "link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
@@ -21,20 +35,6 @@
       "summary": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability",
       "date": "2026-10-22",
       "link": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
-      "summary": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, has been named a 2026 Inc. Power Partner Awards winner, recognizing the company among the leading B2B",
-      "date": "2026-10-21",
-      "link": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
-      "summary": "Paris, France | October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity",
-      "date": "2026-10-21",
-      "link": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/"
     },
     {
       "sourceId": "tectonic",
@@ -213,6 +213,27 @@
     },
     {
       "sourceId": "dod",
+      "title": "Army Battery Sharpens Skills During Nighttime Reload Training",
+      "summary": "Soldiers assigned to Delta Battery, 1st Battalion, 62nd Air Defense Artillery Regiment, 69th Air Defense Artillery Brigade, recently conducted nighttime MIM-104 Patriot missile system reload training at Fort Hood, Texas, as part of the battalion's mission readiness exercise.",
+      "date": "2026-10-27",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4634460/army-battery-sharpens-skills-during-nighttime-reload-training/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "What's In a Name: 'War' Sends Clarifying Message to Adversaries About Departmental Mission",
+      "summary": "A little over a year after President Donald J. Trump rechristened the Department of Defense as the Department of War, the name change sends a clearer message to allies and adversaries alike about the department's mission, said Chief Pentagon Spokesman and Senior Advisor Sean…",
+      "date": "2026-10-26",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4634063/whats-in-a-name-war-sends-clarifying-message-to-adversaries-about-departmental/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Junior ROTC Cadets Test Teamwork, Endurance at National Raider Challenge",
+      "summary": "U.S. Army Cadet Command hosted the Junior ROTC National Raider Challenge at Fort Knox, Ky., bringing in approximately 4,000 cadets from across the country to compete for national titles.",
+      "date": "2026-10-26",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4633863/junior-rotc-cadets-test-teamwork-endurance-at-national-raider-challenge/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Project Agincourt Leaders Reach Out to Industry With Path Forward",
       "summary": "In an open letter to industry partners and the joint force this week, Project Agincourt leaders set the tone for how the Autonomous Warfare Command will develop.",
       "date": "2026-10-23",
@@ -226,25 +247,25 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4631837/us-australia-uk-launch-maritime-demonstration-to-enhance-interoperability/"
     },
     {
-      "sourceId": "dod",
-      "title": "Air Force Research Lab Demonstrates Rocket Cargo Delivery",
-      "summary": "The Air Force Research Laboratory tested the Rocket Cargo project's point-to-point delivery capabilities during a commercial rideshare launch from Cape Canaveral Space Force Station, Florida.",
-      "date": "2026-10-22",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4631639/air-force-research-lab-demonstrates-rocket-cargo-delivery/"
+      "sourceId": "viasat",
+      "title": "Astranis Plans Dedicated Falcon 9 to Launch 6 MicroGEO Satellites",
+      "summary": "Astranis has upgraded to a dedicated Falcon 9 to launch its fourth batch of satellites. It expects to launch six MicroGEO satellites on a dedicated mission in 2028, injected directly",
+      "date": "2026-10-26",
+      "link": "https://www.satellitetoday.com/launch/2026/10/26/astranis-plans-dedicated-falcon-9-to-launch-6-microgeo-satellites/"
     },
     {
-      "sourceId": "dod",
-      "title": "Hegseth, Guyanese President Establish Enhanced Military Partnership",
-      "summary": "Secretary of War Pete Hegseth and Guyanese President Mohamed Irfaan Ali signed a landmark agreement at the Pentagon, creating an enhanced defense partnership between the two countries.",
-      "date": "2026-10-21",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4630733/hegseth-guyanese-president-establish-enhanced-military-partnership/"
+      "sourceId": "viasat",
+      "title": "ST Engineering iDirect to Provide Ground Network for Oman’s MB Sat-1",
+      "summary": "ST Engineering iDirect will provide the ground network for the MB Sat-1 sovereign microGEO satellite built by Astranis under a new deal with MBSat, part of Mohammed Al Barwani Group.",
+      "date": "2026-10-26",
+      "link": "https://www.satellitetoday.com/technology/2026/10/26/st-engineering-idirect-to-provide-ground-network-for-omans-mb-sat-1/"
     },
     {
-      "sourceId": "dod",
-      "title": "Hegseth Lauds New American Golden Age During Arsenal of Freedom Tour Stop",
-      "summary": "During the second of two stops on his Arsenal of Freedom tour, Secretary of War Pete Hegseth praised the progress the U.S. and its defense industrial base have made over the past two years under President Donald J. Trump's administration.",
-      "date": "2026-10-20",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4629797/hegseth-lauds-new-american-golden-age-during-arsenal-of-freedom-tour-stop/"
+      "sourceId": "viasat",
+      "title": "EasyJet to Adopt IFC With Starlink Deal",
+      "summary": "British low-cost airline EasyJet is adopting in-flight connectivity (IFC) for the first time with a deal to roll out SpaceX‘s Starlink across its modern Airbus fleet. EasyJet announced Monday that",
+      "date": "2026-10-26",
+      "link": "https://www.satellitetoday.com/mobility/2026/10/26/easyjet-to-adopt-ifc-with-starlink-deal/"
     },
     {
       "sourceId": "viasat",
@@ -261,95 +282,74 @@
       "link": "https://www.satellitetoday.com/mobility/2026/10/23/speedcast-completes-connectivity-upgrade-for-maritime-customer/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Solstar Demonstrated Space Wi-Fi Technology in Recent RPO Mission With NASA",
-      "summary": "Solstar Space demonstrated in-space Wi-Fi technology with its Deke Space Communicator during a recent rendezvous and proximity (RPO) mission between a NASA cubesat and a Momentus spacecraft. The Solstar Deke",
-      "date": "2026-10-23",
-      "link": "https://www.satellitetoday.com/space-economy/2026/10/23/solstar-demonstrated-space-wi-fi-technology-in-recent-rpo-mission-with-nasa/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Space Systems Command Makes CASR Awards for Space Domain Awareness",
-      "summary": "Companies unnamed by U.S. Space Force Space Systems Command (SSC) have received six Commercial Augmentation Space Reserve (CASR) purchase agreements under the ACCESS contract for space domain awareness (SDA), the",
-      "date": "2026-10-23",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/23/space-systems-command-makes-casr-awards-for-space-domain-awareness/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Ukraine Joins NATO Support Partnership to Open New Doors for Space Companies",
-      "summary": "Ukrainian space companies will be able to participate in NATO contracts, and help shape its defense and industrial requirements thanks to a major new partnership. Ukraine has joined the NATO",
-      "date": "2026-10-22",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/22/ukraine-joins-nato-support-partnership-to-open-new-doors-for-space-companies/"
+      "sourceId": "spacecom",
+      "title": "November full moon 2026: When, where and how to see the Beaver Moon",
+      "summary": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
+      "date": "2026-10-27",
+      "link": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon"
     },
     {
       "sourceId": "spacecom",
-      "title": "Darth Vader wields the Infinity Gauntlet in the first-ever official 'Star Wars' & 'Marvel' crossover",
-      "summary": "If you only knew the power of the infinity stones!",
-      "date": "2026-10-26",
-      "link": "https://www.space.com/entertainment/space-books/darth-vader-wields-the-infinity-gauntlet-in-the-first-ever-official-star-wars-and-marvel-crossover"
+      "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
+      "summary": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
+      "date": "2026-10-27",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers"
     },
     {
       "sourceId": "spacecom",
-      "title": "NASA ends Swift space telescope mission after failed rescue attempt",
-      "summary": "NASA has officially ended the mission of its Swift Observatory, after a private satellite failed to meet up with the aging spacecraft in orbit.",
-      "date": "2026-10-26",
-      "link": "https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt"
+      "title": "'Dungeon Crawler Carl' is getting a killer new comic book series",
+      "summary": "'The fact that I get to work with some of the greatest creators and artists working today feels like a dream.'",
+      "date": "2026-10-27",
+      "link": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-is-getting-a-killer-new-comic-book-series"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Donnie Darko' at 25: How a giant rabbit, time loops, and teen angst became a sci-fi cult classic",
-      "summary": "\"28 days, 6 hours, 42 minutes, 12 seconds. That is when the world will end.\"",
-      "date": "2026-10-26",
-      "link": "https://www.space.com/entertainment/donnie-darko-at-25-how-a-giant-rabbit-time-loops-and-teen-angst-became-a-sci-fi-cult-classic"
+      "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
+      "summary": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
+      "date": "2026-10-27",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Stuck for a Halloween outfit? Set phasers to stunning with the best Star Trek costumes",
-      "summary": "Halloween is just round the corner, but if you hurry, you can beam down these superb Star Trek outfits, from old-school Star Trek through to The Next Generation and Discovery.",
-      "date": "2026-10-26",
-      "link": "https://www.space.com/entertainment/space-toys-lego/stuck-for-a-halloween-outfit-set-phasers-to-stunning-with-the-best-star-trek-costumes"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Record breaker! Astronomers spot powerful cosmic explosion that lasted 27 days",
-      "summary": "Astronomers have spotted a remarkable gamma-ray burst that's a real Incredible Hulk compared to other cosmic explosions of the same type.",
-      "date": "2026-10-26",
-      "link": "https://www.space.com/science/astrophysics/record-breaker-astronomers-spot-powerful-cosmic-explosion-that-lasted-27-days"
+      "title": "Mars rover tracks from a historic drive | Space photo of the day for Oct. 27, 2026",
+      "summary": "Rover tracks can be seen on the Martian surface, left behind by NASA's Perseverance Mars rover.",
+      "date": "2026-10-27",
+      "link": "https://www.space.com/space-exploration/mars-rovers/mars-rover-tracks-from-a-historic-drive-space-photo-of-the-day-for-oct-27-2026"
     },
     {
       "sourceId": "rspace",
-      "title": "The massive (nearly 2000 tonnes) structure of the Extremely Large Telescope (ELT) was tilted for the first time recently!",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xg3zfn/the_massive_nearly_2000_tonnes_structure_of_the/\"> <img src=\"https://external-preview.redd.it/b6lP_H4qzox5QCTUYPtQatYfYiNxtZocXEFfLk5RcvA.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e722fe225c123c7397…",
-      "date": "2026-10-26",
-      "link": "https://www.reddit.com/r/space/comments/1xg3zfn/the_massive_nearly_2000_tonnes_structure_of_the/"
+      "title": "NASA's Swift observatory is losing more than 3 km of height a day and is predicted to re-enter on 2 November",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xh092v/nasas_swift_observatory_is_losing_more_than_3_km/\"> <img src=\"https://external-preview.redd.it/WjK87rT0-jrd_5nATbPovJnI_Q0MbApl0BnkHY7KAOQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66c672da00c3205eb…",
+      "date": "2026-10-27",
+      "link": "https://www.reddit.com/r/space/comments/1xh092v/nasas_swift_observatory_is_losing_more_than_3_km/"
     },
     {
       "sourceId": "rspace",
-      "title": "Black holes can merge. But can one black hole become two? Physicists have investigated when such an extraordinary event might be possible.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xfteap/black_holes_can_merge_but_can_one_black_hole/\"> <img src=\"https://external-preview.redd.it/KiXdcH8ISgB4LRvPVN-2g_Jn6pq922mt9ej3J73YCWI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8496757b7cba85f9ad03…",
-      "date": "2026-10-26",
-      "link": "https://www.reddit.com/r/space/comments/1xfteap/black_holes_can_merge_but_can_one_black_hole/"
+      "title": "27 Exoplanet Targets for the World's First Private Space Telescope",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xh005s/27_exoplanet_targets_for_the_worlds_first_private/\"> <img src=\"https://external-preview.redd.it/a7Py_d7WFRqpAR9NdGM7XIC-kAaAlh2wojbAenVPbus.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6824873f1fb4bf1b…",
+      "date": "2026-10-27",
+      "link": "https://www.reddit.com/r/space/comments/1xh005s/27_exoplanet_targets_for_the_worlds_first_private/"
     },
     {
       "sourceId": "rspace",
-      "title": "Scientists Create Most Detailed Simulation Yet of the Early Universe",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xfsz3k/scientists_create_most_detailed_simulation_yet_of/\"> <img src=\"https://external-preview.redd.it/d7qy1cvzsD-zY88CaSPapHY2AcHk3Mh9-_79BF3Y3QI.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=cf0098b6a167eb9b9…",
-      "date": "2026-10-26",
-      "link": "https://www.reddit.com/r/space/comments/1xfsz3k/scientists_create_most_detailed_simulation_yet_of/"
+      "title": "Astronomers spot the first white dwarf with two distinct debris discs.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xgxpga/astronomers_spot_the_first_white_dwarf_with_two/\"> <img src=\"https://external-preview.redd.it/zYoBp9vlOlz2o1DDHugJJ3Ypo4H_sVgy2tzTDTcj1RE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9eeaf73349b085f7d1…",
+      "date": "2026-10-27",
+      "link": "https://www.reddit.com/r/space/comments/1xgxpga/astronomers_spot_the_first_white_dwarf_with_two/"
     },
     {
       "sourceId": "rspace",
-      "title": "Last month's full Moon, captured from my rooftop",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xfoga6/last_months_full_moon_captured_from_my_rooftop/\"> <img src=\"https://preview.redd.it/zuks84z51rxh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=506c3c245adc60e58a926109bb92b70140681ed0\" alt=\"Last…",
-      "date": "2026-10-26",
-      "link": "https://www.reddit.com/r/space/comments/1xfoga6/last_months_full_moon_captured_from_my_rooftop/"
+      "title": "Astronomer here! Big news- I am a winner this year for the Wendy and Eric Schmidt Awards for Excellence in Science Communications, in large part for my posts on Reddit!",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xgvnth/astronomer_here_big_news_i_am_a_winner_this_year/\"> <img src=\"https://preview.redd.it/orgepi6m31yh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c969e785853fa59152c648edf1710a6bd0f63411\"…",
+      "date": "2026-10-27",
+      "link": "https://www.reddit.com/r/space/comments/1xgvnth/astronomer_here_big_news_i_am_a_winner_this_year/"
     },
     {
       "sourceId": "rspace",
-      "title": "Hunter Moon 10/25",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xfm183/hunter_moon_1025/\"> <img src=\"https://preview.redd.it/4cdje4hwcqxh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b8aca4949809e5df4daeac07acbb46c50e3a3ae7\" alt=\"Hunter Moon 10/25\" title=\"Hunter Moon…",
-      "date": "2026-10-26",
-      "link": "https://www.reddit.com/r/space/comments/1xfm183/hunter_moon_1025/"
+      "title": "Astronomers say van Gogh’s ‘The Starry Night’ may have been inspired by real celestial arrangement | Researchers simulated the sky above that hilly site in the early hours of July 22, 1889 where van Gogh painted, and closely matched 5 stars in “The Starry Night” with the Hyades cluster arrangement",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xgt0tm/astronomers_say_van_goghs_the_starry_night_may/\"> <img src=\"https://external-preview.redd.it/nflNDHLG_ckro41PA0eeAH9YouEu1vU175o2a9w6rr0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d968813150fcb006f4f…",
+      "date": "2026-10-27",
+      "link": "https://www.reddit.com/r/space/comments/1xgt0tm/astronomers_say_van_goghs_the_starry_night_may/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-      "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and…",
-      "date": "2026-10-26",
-      "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/"
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space…",
+      "date": "2026-10-27",
+      "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
-      "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
-      "date": "2026-10-26",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/"
+      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+      "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.” In honor…",
+      "date": "2026-10-27",
+      "link": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s X-59 Aircraft and Test Pilot",
-      "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026.",
-      "date": "2026-10-26",
-      "link": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/"
+      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+      "summary": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-10-27",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
-      "summary": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture.",
-      "date": "2026-10-26",
-      "link": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/"
+      "title": "A-81 Reaches South Georgia",
+      "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
+      "date": "2026-10-27",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/"
     },
     {
       "sourceId": "nasa",
-      "title": "2026 October 26 – M42: The Great Nebula in Orion",
-      "summary": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+      "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission.",
       "date": "2026-10-26",
-      "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/"
+      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/"
     }
   ]
 }
