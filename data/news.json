@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-27T19:09:35.783Z",
+  "updated": "2026-10-28T18:42:39.902Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
+      "summary": "– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules",
+      "date": "2026-10-28",
+      "link": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Ukrainian startup, GomSpace test satellite for future communications network",
+      "summary": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network The post Ukrainian startup, GomSpace test satellite for future communications network appeared first on SpaceNews .",
+      "date": "2026-10-27",
+      "link": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
@@ -21,20 +35,6 @@
       "summary": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it",
       "date": "2026-10-26",
       "link": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Nov. 5: Satellite Mission Management at the Edge",
-      "summary": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews .",
-      "date": "2026-10-23",
-      "link": "https://spacenews.com/satellite-mission-management-at-the-edge-event/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
-      "summary": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability",
-      "date": "2026-10-22",
-      "link": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/"
     },
     {
       "sourceId": "tectonic",
@@ -213,38 +213,59 @@
     },
     {
       "sourceId": "dod",
-      "title": "Army Battery Sharpens Skills During Nighttime Reload Training",
-      "summary": "Soldiers assigned to Delta Battery, 1st Battalion, 62nd Air Defense Artillery Regiment, 69th Air Defense Artillery Brigade, recently conducted nighttime MIM-104 Patriot missile system reload training at Fort Hood, Texas, as part of the battalion's mission readiness exercise.",
+      "title": "Hegseth Outlines Cooperative Agenda for Regional Stability in Asia",
+      "summary": "Secretary of War Pete Hegseth outlined a defense cooperation agenda focused on practical collaboration and regional stability during remarks at the Association of Southeast Asian Nations Defense Ministers' Meeting in the Cebu province of the Philippines.",
+      "date": "2026-10-28",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4635722/hegseth-outlines-cooperative-agenda-for-regional-stability-in-asia/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Navy Submarine Arrives in Western Australia for Scheduled Maintenance Period",
+      "summary": "The submarine USS Colorado arrived at HMAS Stirling, Australia, to begin a scheduled, monthlong maintenance period. The visit marks the fourth submarine maintenance period in Western Australia since the establishment of the Australia, U.K., U.S. trilateral security partnership.",
+      "date": "2026-10-28",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4635507/navy-submarine-arrives-in-western-australia-for-scheduled-maintenance-period/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Assistant Secretary Says There's 'Exceptional Interest' in the Next Great American Base",
+      "summary": "Competition to host the Next Great American Base — a premier joint force installation project — has been met with \"exceptional\" nationwide interest, the assistant secretary of war for energy, installations and environment told governors and state adjutants general.",
       "date": "2026-10-27",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4634460/army-battery-sharpens-skills-during-nighttime-reload-training/"
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4635071/assistant-secretary-says-theres-exceptional-interest-in-the-next-great-american/"
     },
     {
       "sourceId": "dod",
-      "title": "What's In a Name: 'War' Sends Clarifying Message to Adversaries About Departmental Mission",
-      "summary": "A little over a year after President Donald J. Trump rechristened the Department of Defense as the Department of War, the name change sends a clearer message to allies and adversaries alike about the department's mission, said Chief Pentagon Spokesman and Senior Advisor Sean…",
-      "date": "2026-10-26",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4634063/whats-in-a-name-war-sends-clarifying-message-to-adversaries-about-departmental/"
+      "title": "Caine Says Super Intelligence Is a Strategic Priority",
+      "summary": "Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, said super intelligence is one of his strategic priorities during a fireside chat at the National Defense Transportation Association and U.S. Transportation Command's fall meeting.",
+      "date": "2026-10-27",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4635043/caine-says-super-intelligence-is-a-strategic-priority/"
     },
     {
       "sourceId": "dod",
-      "title": "Junior ROTC Cadets Test Teamwork, Endurance at National Raider Challenge",
-      "summary": "U.S. Army Cadet Command hosted the Junior ROTC National Raider Challenge at Fort Knox, Ky., bringing in approximately 4,000 cadets from across the country to compete for national titles.",
-      "date": "2026-10-26",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4633863/junior-rotc-cadets-test-teamwork-endurance-at-national-raider-challenge/"
+      "title": "Transcom Commander Draws Connection Between Hope, Lethality",
+      "summary": "During his keynote remarks at U.S. Transportation Command's fall meeting in Grapevine, Texas, Transcom's commander discussed how hope and lethality are tied together as they relate to the world of military logistics.",
+      "date": "2026-10-27",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4634683/transcom-commander-draws-connection-between-hope-lethality/"
     },
     {
-      "sourceId": "dod",
-      "title": "Project Agincourt Leaders Reach Out to Industry With Path Forward",
-      "summary": "In an open letter to industry partners and the joint force this week, Project Agincourt leaders set the tone for how the Autonomous Warfare Command will develop.",
-      "date": "2026-10-23",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4632827/project-agincourt-leaders-reach-out-to-industry-with-path-forward/"
+      "sourceId": "viasat",
+      "title": "Cowboy Space Names Rocket ‘Big Iron,’ Targets 2028 Debut",
+      "summary": "Cowboy Space set out bold development plans to develop its own rocket, targeting a 2028 debut. Cowboy Space announced the name “Big Iron” and more details about the rocket late",
+      "date": "2026-10-27",
+      "link": "https://www.satellitetoday.com/launch/2026/10/27/cowboy-space-names-rocket-big-iron-targets-2028-debut/"
     },
     {
-      "sourceId": "dod",
-      "title": "U.S., Australia, U.K. Launch Maritime Demonstration to Enhance Interoperability",
-      "summary": "The Maritime Big Play Pacific demonstration is underway off the coast of Southern California to advance interoperability among the U.S., Australia and the U.K., as part of the AUKUS trilateral partnership.",
-      "date": "2026-10-22",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4631837/us-australia-uk-launch-maritime-demonstration-to-enhance-interoperability/"
+      "sourceId": "viasat",
+      "title": "Airbus and Thales Contracted for 2 Galileo Satellites Each",
+      "summary": "The European Space Agency (ESA) awarded contracts this week to both Airbus and Thales Alenia Space contracts to build two additional Galileo satellites each to enhance the Galileo navigation system.",
+      "date": "2026-10-27",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/27/airbus-and-thales-contracted-for-2-galileo-satellites-each/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Amazon Secures FCC Approval for Globalstar Acquisition",
+      "summary": "The FCC granted Amazon approval for the Globalstar acquisition on Tuesday, arguing the transaction will serve the public interest with improved satellite services. Amazon moved in April to acquire Globalstar",
+      "date": "2026-10-27",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/27/amazon-secures-fcc-approval-for-globalstar-acquisition/"
     },
     {
       "sourceId": "viasat",
@@ -261,95 +282,74 @@
       "link": "https://www.satellitetoday.com/technology/2026/10/26/st-engineering-idirect-to-provide-ground-network-for-omans-mb-sat-1/"
     },
     {
-      "sourceId": "viasat",
-      "title": "EasyJet to Adopt IFC With Starlink Deal",
-      "summary": "British low-cost airline EasyJet is adopting in-flight connectivity (IFC) for the first time with a deal to roll out SpaceX‘s Starlink across its modern Airbus fleet. EasyJet announced Monday that",
-      "date": "2026-10-26",
-      "link": "https://www.satellitetoday.com/mobility/2026/10/26/easyjet-to-adopt-ifc-with-starlink-deal/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Xona Prepares to Start Navigation Service in Beta With Recent Launch and $250M Raise",
-      "summary": "Xona is preparing to start initial beta service for its commercial satellite navigation service in early 2027 after two major milestones this week — a six-satellite launch and a $250 million",
-      "date": "2026-10-23",
-      "link": "https://www.satellitetoday.com/technology/2026/10/23/xona-prepares-to-start-navigation-service-in-beta-with-recent-launch-and-250m-raise/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Speedcast Completes Connectivity Upgrade for Maritime Customer",
-      "summary": "Speedcast and Soya IT Marine Solutions completed the deployment of upgraded digital connectivity solutions on 41 roll-on/roll-off (RoRo) vessels for global shipping and logistics company, Wallenius Wilhelmsen. Soya IT Marine",
-      "date": "2026-10-23",
-      "link": "https://www.satellitetoday.com/mobility/2026/10/23/speedcast-completes-connectivity-upgrade-for-maritime-customer/"
+      "sourceId": "spacecom",
+      "title": "China's secretive space plane caught on camera in incredible new photo released by US military",
+      "summary": "A U.S. military intelligence agency has released an incredible new photograph of China's secretive space plane, showing it docked to another spacecraft in orbit.",
+      "date": "2026-10-28",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military"
     },
     {
       "sourceId": "spacecom",
-      "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
-      "summary": "Scientists are still learning about a cosmic 'string of pearls,' a unique celestial relic left by a supernova witnessed by humanity around 850 years ago, which has a zombie star at its heart.",
-      "date": "2026-10-27",
-      "link": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart"
+      "title": "The final ‘Dune: Part Three’ trailer reignites war on Arrakis and leaves us with more questions than answers",
+      "summary": "The spoilerific final look at Denis Villeneuve's third and final sci-fi epic is loaded with action and drama that set it apart from Dune: Messiah's pages.",
+      "date": "2026-10-28",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers"
     },
     {
       "sourceId": "spacecom",
-      "title": "November full moon 2026: When, where and how to see the Beaver Moon",
-      "summary": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
-      "date": "2026-10-27",
-      "link": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon"
+      "title": "Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026",
+      "summary": "Iceberg A-81 escaping the Weddell Sea and drifting near the edge of South Georgia's underwater shelf.",
+      "date": "2026-10-28",
+      "link": "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
-      "summary": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
-      "date": "2026-10-27",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers"
+      "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
+      "summary": "The Vera Rubin Observatory has discovered a suspected dwarf planet beyond Neptune's orbit. If confirmed, it would be the sixth known dwarf planet in our solar system.",
+      "date": "2026-10-28",
+      "link": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Dungeon Crawler Carl' is getting a killer new comic book series",
-      "summary": "'The fact that I get to work with some of the greatest creators and artists working today feels like a dream.'",
-      "date": "2026-10-27",
-      "link": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-is-getting-a-killer-new-comic-book-series"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
-      "summary": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
-      "date": "2026-10-27",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026"
+      "title": "Virgin Galactic is finally revealing its new Delta-class spaceship this week",
+      "summary": "Virgin Galactic will unveil its first Delta-class spaceship on Wednesday (Oct. 28), revealing a name chosen by public vote before transporting the spacecraft from Arizona to Spaceport America in New Mexico.",
+      "date": "2026-10-28",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA's Swift observatory is losing more than 3 km of height a day and is predicted to re-enter on 2 November",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xh092v/nasas_swift_observatory_is_losing_more_than_3_km/\"> <img src=\"https://external-preview.redd.it/WjK87rT0-jrd_5nATbPovJnI_Q0MbApl0BnkHY7KAOQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66c672da00c3205eb…",
-      "date": "2026-10-27",
-      "link": "https://www.reddit.com/r/space/comments/1xh092v/nasas_swift_observatory_is_losing_more_than_3_km/"
+      "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system; among the largest dwarf planet candidates ever discovered beyond Neptune",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Courtly-Chris\"> /u/Courtly-Chris </a> <br/> <span><a href=\"https://www.washington.edu/news/2026/10/27/rubin-observatory-new-dwarf-planet-candidate/\">[link]</a></span> &#32; <span><a…",
+      "date": "2026-10-28",
+      "link": "https://www.reddit.com/r/space/comments/1xhv3y3/rubin_observatory_reveals_its_first_dwarf_planet/"
     },
     {
       "sourceId": "rspace",
-      "title": "27 Exoplanet Targets for the World's First Private Space Telescope",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xh005s/27_exoplanet_targets_for_the_worlds_first_private/\"> <img src=\"https://external-preview.redd.it/a7Py_d7WFRqpAR9NdGM7XIC-kAaAlh2wojbAenVPbus.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6824873f1fb4bf1b…",
-      "date": "2026-10-27",
-      "link": "https://www.reddit.com/r/space/comments/1xh005s/27_exoplanet_targets_for_the_worlds_first_private/"
+      "title": "95 Terabyte Solar Timelapse",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xhudqy/95_terabyte_solar_timelapse/\"> <img src=\"https://external-preview.redd.it/V9SExBt8TaFQko4Am06psLgYIKzs7LAGiHPKoewdxDI.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0d99b1756b21a6e528202529dde2f6cb436c7a…",
+      "date": "2026-10-28",
+      "link": "https://www.reddit.com/r/space/comments/1xhudqy/95_terabyte_solar_timelapse/"
     },
     {
       "sourceId": "rspace",
-      "title": "Astronomers spot the first white dwarf with two distinct debris discs.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xgxpga/astronomers_spot_the_first_white_dwarf_with_two/\"> <img src=\"https://external-preview.redd.it/zYoBp9vlOlz2o1DDHugJJ3Ypo4H_sVgy2tzTDTcj1RE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9eeaf73349b085f7d1…",
-      "date": "2026-10-27",
-      "link": "https://www.reddit.com/r/space/comments/1xgxpga/astronomers_spot_the_first_white_dwarf_with_two/"
+      "title": "Special Report - Jupiter (1979)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xhkznj/special_report_jupiter_1979/\"> <img src=\"https://external-preview.redd.it/5YeR9ItCykG1zPm_743cZljKU0rDMhPM1w5MXgAytFQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2e8c4c9205e26e8f9fecbef7fef46c1f43c92d…",
+      "date": "2026-10-28",
+      "link": "https://www.reddit.com/r/space/comments/1xhkznj/special_report_jupiter_1979/"
     },
     {
       "sourceId": "rspace",
-      "title": "Astronomer here! Big news- I am a winner this year for the Wendy and Eric Schmidt Awards for Excellence in Science Communications, in large part for my posts on Reddit!",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xgvnth/astronomer_here_big_news_i_am_a_winner_this_year/\"> <img src=\"https://preview.redd.it/orgepi6m31yh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c969e785853fa59152c648edf1710a6bd0f63411\"…",
-      "date": "2026-10-27",
-      "link": "https://www.reddit.com/r/space/comments/1xgvnth/astronomer_here_big_news_i_am_a_winner_this_year/"
+      "title": "Two Radio Telescopes Uncover Possible Dark Galaxy 310 Million Light-Years Away",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A mysterious object 310 million light-years away contains 2 billion suns’ worth of hydrogen, yet astronomers cannot find its stars.</p> <p>Astronomers have identified a massive reservoir of hydrogen roughly 310 million light-years from Earth,…",
+      "date": "2026-10-28",
+      "link": "https://www.reddit.com/r/space/comments/1xhkrth/two_radio_telescopes_uncover_possible_dark_galaxy/"
     },
     {
       "sourceId": "rspace",
-      "title": "Astronomers say van Gogh’s ‘The Starry Night’ may have been inspired by real celestial arrangement | Researchers simulated the sky above that hilly site in the early hours of July 22, 1889 where van Gogh painted, and closely matched 5 stars in “The Starry Night” with the Hyades cluster arrangement",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xgt0tm/astronomers_say_van_goghs_the_starry_night_may/\"> <img src=\"https://external-preview.redd.it/nflNDHLG_ckro41PA0eeAH9YouEu1vU175o2a9w6rr0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d968813150fcb006f4f…",
-      "date": "2026-10-27",
-      "link": "https://www.reddit.com/r/space/comments/1xgt0tm/astronomers_say_van_goghs_the_starry_night_may/"
+      "title": "China’s top-secret spaceplane can’t hide in low-Earth orbit",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xhj4mq/chinas_topsecret_spaceplane_cant_hide_in_lowearth/\"> <img src=\"https://external-preview.redd.it/Qj5yUYCLx325c7qSEcu8ueoJ5b2DFKKkaiMMjQiGyTU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9c84f7d2b581b4a…",
+      "date": "2026-10-28",
+      "link": "https://www.reddit.com/r/space/comments/1xhj4mq/chinas_topsecret_spaceplane_cant_hide_in_lowearth/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Neo Surveyor Sunshade",
-      "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space…",
-      "date": "2026-10-27",
-      "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/"
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant.",
+      "date": "2026-10-28",
+      "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/"
     },
     {
       "sourceId": "nasa",
-      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-      "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.” In honor…",
-      "date": "2026-10-27",
-      "link": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/"
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative.",
+      "date": "2026-10-28",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-      "summary": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-27",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/"
+      "title": "Webb Sees Turbulent Star Nursery",
+      "summary": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way…",
+      "date": "2026-10-28",
+      "link": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/"
     },
     {
       "sourceId": "nasa",
-      "title": "A-81 Reaches South Georgia",
-      "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
-      "date": "2026-10-27",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/"
+      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+      "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill…",
+      "date": "2026-10-28",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission.",
-      "date": "2026-10-26",
-      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/"
+      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+      "summary": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-10-28",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/"
     }
   ]
 }
