@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T18:52:16.527Z",
+  "updated": "2026-10-29T19:22:14.843Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Army Mountain Division Takes on Panamanian Jungle",
+      "summary": "Soldiers assigned to the 10th Mountain Division tackled Panama's challenging jungle terrain during a 12-day training course designed to strengthen unit cohesion, develop leaders and sharpen combat skills.",
+      "date": "2026-10-29",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4636612/army-mountain-division-takes-on-panamanian-jungle/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Marines, Japanese Forces Sharpen Explosive Disposal Skills During Keen Sword 2027",
       "summary": "U.S. Marines assigned to the 3rd Explosive Ordnance Disposal Company, 9th Engineer Support Battalion, 3rd Marine Logistics Group, trained alongside Japan Ground Self-Defense Force members during bilateral live-fire ground response training in Okinawa, Japan.",
       "date": "2026-10-28",
@@ -238,13 +245,6 @@
       "summary": "Competition to host the Next Great American Base — a premier joint force installation project — has been met with \"exceptional\" nationwide interest, the assistant secretary of war for energy, installations and environment told governors and state adjutants general.",
       "date": "2026-10-27",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4635071/assistant-secretary-says-theres-exceptional-interest-in-the-next-great-american/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Caine Says Super Intelligence Is a Strategic Priority",
-      "summary": "Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, said super intelligence is one of his strategic priorities during a fireside chat at the National Defense Transportation Association and U.S. Transportation Command's fall meeting.",
-      "date": "2026-10-27",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4635043/caine-says-super-intelligence-is-a-strategic-priority/"
     },
     {
       "sourceId": "viasat",
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "See NASA's Artemis III astronauts meet Trump at the White House as they train for a critical 2027 moon lander test flight (photos)",
+      "summary": "The astronauts of NASA's Artemis III mission met with President Trump at the White House on Wednesday (Oct. 28), just as the Artemis II spaceflyers did six months ago.",
+      "date": "2026-10-29",
+      "link": "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "Cosmic graveyard of zombie planets offers a grisly warning about our own solar system's fate",
       "summary": "Two zombie exoplanets that rose from the grave to shuffle through the gory remains of their fellow planets may just agree with these immortal words from horror maestro Stephen King.",
       "date": "2026-10-29",
@@ -310,11 +317,11 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video"
     },
     {
-      "sourceId": "spacecom",
-      "title": "Stunning solar eclipse photos reveal giant hole and mysterious 'smoke rings' in the sun's atmosphere",
-      "summary": "Solar eclipse photography provides a unique vista into the processes taking place in the sun's upper atmosphere.",
+      "sourceId": "rspace",
+      "title": "UNM scientists help uncover 4.1 billion-year-old Martian meteorite revealing clues to planet's ancient past. Rare discovery provides new insights into conditions that may have supported life...",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xisxc0/unm_scientists_help_uncover_41_billionyearold/\"> <img src=\"https://external-preview.redd.it/0F0NOlmK1eJmQr6F5oWzgYCCfMWrLUE36tZ-zcyiDr8.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ca1b551186f09bcbdb17…",
       "date": "2026-10-29",
-      "link": "https://www.space.com/stargazing/solar-eclipses/stunning-solar-eclipse-photos-reveal-giant-hole-and-mysterious-smoke-rings-in-the-suns-atmosphere"
+      "link": "https://www.reddit.com/r/space/comments/1xisxc0/unm_scientists_help_uncover_41_billionyearold/"
     },
     {
       "sourceId": "rspace",
@@ -343,13 +350,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xincx5/after_flying_past_the_moon_artemis_ii_astronaut/\"> <img src=\"https://external-preview.redd.it/Q1uW5Uxs4udQ86UQ5zOlFe5hFekBxWc5jlRBeY_Eg88.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bbfb7608e1e940523b…",
       "date": "2026-10-29",
       "link": "https://www.reddit.com/r/space/comments/1xincx5/after_flying_past_the_moon_artemis_ii_astronaut/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xinaep/spacex_no_longer_needs_nasa_and_thats_a_problem/\"> <img src=\"https://external-preview.redd.it/jWdoZafyFGbzjr3nEZUFaVMOeeZx0jLG_07Yl4YqpxA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b21d6384089c177887…",
-      "date": "2026-10-29",
-      "link": "https://www.reddit.com/r/space/comments/1xinaep/spacex_no_longer_needs_nasa_and_thats_a_problem/"
     },
     {
       "sourceId": "nga",
