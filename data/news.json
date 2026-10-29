@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-28T19:14:11.371Z",
+  "updated": "2026-10-29T18:52:16.527Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Advice for optimizing the space industry with Laura Crabtree",
+      "summary": "In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize",
+      "date": "2026-10-29",
+      "link": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
@@ -28,13 +35,6 @@
       "summary": "– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews to supply",
       "date": "2026-10-26",
       "link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-      "summary": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it",
-      "date": "2026-10-26",
-      "link": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/"
     },
     {
       "sourceId": "tectonic",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Marines, Japanese Forces Sharpen Explosive Disposal Skills During Keen Sword 2027",
+      "summary": "U.S. Marines assigned to the 3rd Explosive Ordnance Disposal Company, 9th Engineer Support Battalion, 3rd Marine Logistics Group, trained alongside Japan Ground Self-Defense Force members during bilateral live-fire ground response training in Okinawa, Japan.",
+      "date": "2026-10-28",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4635804/marines-japanese-forces-sharpen-explosive-disposal-skills-during-keen-sword-2027/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Hegseth Outlines Cooperative Agenda for Regional Stability in Asia",
       "summary": "Secretary of War Pete Hegseth outlined a defense cooperation agenda focused on practical collaboration and regional stability during remarks at the Association of Southeast Asian Nations Defense Ministers' Meeting in the Cebu province of the Philippines.",
       "date": "2026-10-28",
@@ -240,11 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4635043/caine-says-super-intelligence-is-a-strategic-priority/"
     },
     {
-      "sourceId": "dod",
-      "title": "Transcom Commander Draws Connection Between Hope, Lethality",
-      "summary": "During his keynote remarks at U.S. Transportation Command's fall meeting in Grapevine, Texas, Transcom's commander discussed how hope and lethality are tied together as they relate to the world of military logistics.",
-      "date": "2026-10-27",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4634683/transcom-commander-draws-connection-between-hope-lethality/"
+      "sourceId": "viasat",
+      "title": "Risk, Reward, and Agility: The New Themes for European Nations in Space Defense",
+      "summary": "European nations are focusing on resilience, sovereignty, and assurance in developing their space capabilities, experts from commercial and government space said yesterday during the Defence in Space event in London.",
+      "date": "2026-10-28",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/28/risk-reward-and-agility-the-new-themes-for-european-nations-in-space-defense/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Canadian MSS Operator Terrestar Joins With Equatys for D2D",
+      "summary": "Canada’s mobile satellite services (MSS) operator Terrestar Solutions is joining Equatys shared infrastructure approach for direct-to-device (D2D) services under a new MoU announced Wednesday. Equatys is the D2D venture founded",
+      "date": "2026-10-28",
+      "link": "https://www.satellitetoday.com/connectivity/2026/10/28/canadian-mss-operator-terrestar-joins-with-equatys-for-d2d/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Rendezvous Robotics Shifts Focus to Spacecraft that Autonomously Build Themselves in Orbit",
+      "summary": "Rendezvous Robotics has shifted its focus to spacecraft that can autonomously build themselves in orbit. The company announced a $20 million seed round on Wednesday, staking a plan to demonstrate",
+      "date": "2026-10-28",
+      "link": "https://www.satellitetoday.com/finance/2026/10/28/rendezvous-robotics-shifts-focus-to-spacecraft-that-autonomously-build-themselves-in-orbit/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Astroscale Wins New UK MoD Contract Focused on Orbital Defense",
+      "summary": "The UK MoD has tapped Astroscale to be prime contractor for LEDA, a new defence program that builds on the company’s experience developing capabilities to understand, protect and operate in",
+      "date": "2026-10-28",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/28/astroscale-wins-new-uk-mod-contract-focused-on-orbital-defense/"
     },
     {
       "sourceId": "viasat",
@@ -254,102 +282,74 @@
       "link": "https://www.satellitetoday.com/launch/2026/10/27/cowboy-space-names-rocket-big-iron-targets-2028-debut/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Airbus and Thales Contracted for 2 Galileo Satellites Each",
-      "summary": "The European Space Agency (ESA) awarded contracts this week to both Airbus and Thales Alenia Space contracts to build two additional Galileo satellites each to enhance the Galileo navigation system.",
-      "date": "2026-10-27",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/27/airbus-and-thales-contracted-for-2-galileo-satellites-each/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Amazon Secures FCC Approval for Globalstar Acquisition",
-      "summary": "The FCC granted Amazon approval for the Globalstar acquisition on Tuesday, arguing the transaction will serve the public interest with improved satellite services. Amazon moved in April to acquire Globalstar",
-      "date": "2026-10-27",
-      "link": "https://www.satellitetoday.com/connectivity/2026/10/27/amazon-secures-fcc-approval-for-globalstar-acquisition/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Astranis Plans Dedicated Falcon 9 to Launch 6 MicroGEO Satellites",
-      "summary": "Astranis has upgraded to a dedicated Falcon 9 to launch its fourth batch of satellites. It expects to launch six MicroGEO satellites on a dedicated mission in 2028, injected directly",
-      "date": "2026-10-26",
-      "link": "https://www.satellitetoday.com/launch/2026/10/26/astranis-plans-dedicated-falcon-9-to-launch-6-microgeo-satellites/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "ST Engineering iDirect to Provide Ground Network for Oman’s MB Sat-1",
-      "summary": "ST Engineering iDirect will provide the ground network for the MB Sat-1 sovereign microGEO satellite built by Astranis under a new deal with MBSat, part of Mohammed Al Barwani Group.",
-      "date": "2026-10-26",
-      "link": "https://www.satellitetoday.com/technology/2026/10/26/st-engineering-idirect-to-provide-ground-network-for-omans-mb-sat-1/"
+      "sourceId": "spacecom",
+      "title": "Cosmic graveyard of zombie planets offers a grisly warning about our own solar system's fate",
+      "summary": "Two zombie exoplanets that rose from the grave to shuffle through the gory remains of their fellow planets may just agree with these immortal words from horror maestro Stephen King.",
+      "date": "2026-10-29",
+      "link": "https://www.space.com/astronomy/stars/cosmic-graveyard-of-zombie-planets-offers-a-grisly-warning-about-our-own-solar-systems-fate"
     },
     {
       "sourceId": "spacecom",
-      "title": "China's secretive space plane caught on camera in incredible new photo released by US military",
-      "summary": "A U.S. military intelligence agency has released an incredible new photograph of China's secretive space plane, showing it docked to another spacecraft in orbit.",
-      "date": "2026-10-28",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military"
+      "title": "Big cats, unexplained lights and a floodlit eclipse — 7 skywatching 'horror stories' to keep you entertained this Halloween",
+      "summary": "Stargazing doesn't always go to plan, and we have the stories to prove it.",
+      "date": "2026-10-29",
+      "link": "https://www.space.com/stargazing/big-cats-unexplained-lights-and-a-floodlit-eclipse-7-skywatching-horror-stories-to-keep-you-entertained-this-halloween"
     },
     {
       "sourceId": "spacecom",
-      "title": "The final ‘Dune: Part Three’ trailer reignites war on Arrakis and leaves us with more questions than answers",
-      "summary": "The spoilerific final look at Denis Villeneuve's third and final sci-fi epic is loaded with action and drama that set it apart from Dune: Messiah's pages.",
-      "date": "2026-10-28",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers"
+      "title": "The universe in the eye of a telescope | Space photo of the day for Oct. 29, 2026",
+      "summary": "The Swedish-ESO Submillimetre Telescope (SEST) keeps its eye on the cosmos decades after being decommissioned.",
+      "date": "2026-10-29",
+      "link": "https://www.space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026",
-      "summary": "Iceberg A-81 escaping the Weddell Sea and drifting near the edge of South Georgia's underwater shelf.",
-      "date": "2026-10-28",
-      "link": "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026"
+      "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
+      "summary": "SpaceX just fired up all six engines on the Starship upper stage that will conduct the vehicle's 15th test flight, potentially keeping everything on track for a launch next month.",
+      "date": "2026-10-29",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video"
     },
     {
       "sourceId": "spacecom",
-      "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
-      "summary": "The Vera Rubin Observatory has discovered a suspected dwarf planet beyond Neptune's orbit. If confirmed, it would be the sixth known dwarf planet in our solar system.",
-      "date": "2026-10-28",
-      "link": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Virgin Galactic is finally revealing its new Delta-class spaceship this week",
-      "summary": "Virgin Galactic will unveil its first Delta-class spaceship on Wednesday (Oct. 28), revealing a name chosen by public vote before transporting the spacecraft from Arizona to Spaceport America in New Mexico.",
-      "date": "2026-10-28",
-      "link": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week"
+      "title": "Stunning solar eclipse photos reveal giant hole and mysterious 'smoke rings' in the sun's atmosphere",
+      "summary": "Solar eclipse photography provides a unique vista into the processes taking place in the sun's upper atmosphere.",
+      "date": "2026-10-29",
+      "link": "https://www.space.com/stargazing/solar-eclipses/stunning-solar-eclipse-photos-reveal-giant-hole-and-mysterious-smoke-rings-in-the-suns-atmosphere"
     },
     {
       "sourceId": "rspace",
-      "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system; among the largest dwarf planet candidates ever discovered beyond Neptune",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Courtly-Chris\"> /u/Courtly-Chris </a> <br/> <span><a href=\"https://www.washington.edu/news/2026/10/27/rubin-observatory-new-dwarf-planet-candidate/\">[link]</a></span> &#32; <span><a…",
-      "date": "2026-10-28",
-      "link": "https://www.reddit.com/r/space/comments/1xhv3y3/rubin_observatory_reveals_its_first_dwarf_planet/"
+      "title": "Comets didn’t seed life on Earth after all, new study suggests",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>“It would really have to be a one-in-a-million occurrence, because not only would you need an impact at just the right speed and just the right angle, you would also need everything to happen after that point, in terms of the concentration and…",
+      "date": "2026-10-29",
+      "link": "https://www.reddit.com/r/space/comments/1xir9aa/comets_didnt_seed_life_on_earth_after_all_new/"
     },
     {
       "sourceId": "rspace",
-      "title": "95 Terabyte Solar Timelapse",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xhudqy/95_terabyte_solar_timelapse/\"> <img src=\"https://external-preview.redd.it/V9SExBt8TaFQko4Am06psLgYIKzs7LAGiHPKoewdxDI.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0d99b1756b21a6e528202529dde2f6cb436c7a…",
-      "date": "2026-10-28",
-      "link": "https://www.reddit.com/r/space/comments/1xhudqy/95_terabyte_solar_timelapse/"
+      "title": "Elon Musk:”We can only reliably get to around 230 t-F with Raptor 3”",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Does this mean Starship V3 can’t reliably get 100 tons to orbit? It is notable that 230 tons thrust is the same as the Raptor V2. So the question arises what is the <em>true</em> value of Starship V3 payload capacity to orbit?",
+      "date": "2026-10-29",
+      "link": "https://www.reddit.com/r/space/comments/1xir2w6/elon_muskwe_can_only_reliably_get_to_around_230/"
     },
     {
       "sourceId": "rspace",
-      "title": "Special Report - Jupiter (1979)",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xhkznj/special_report_jupiter_1979/\"> <img src=\"https://external-preview.redd.it/5YeR9ItCykG1zPm_743cZljKU0rDMhPM1w5MXgAytFQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2e8c4c9205e26e8f9fecbef7fef46c1f43c92d…",
-      "date": "2026-10-28",
-      "link": "https://www.reddit.com/r/space/comments/1xhkznj/special_report_jupiter_1979/"
+      "title": "How can I further develop myself in the field of space?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I want to conduct research in the field of space and contribute to developments in this area. I have started keeping a small notebook where I record physics-related theories and formulas.",
+      "date": "2026-10-29",
+      "link": "https://www.reddit.com/r/space/comments/1xiqc1d/how_can_i_further_develop_myself_in_the_field_of/"
     },
     {
       "sourceId": "rspace",
-      "title": "Two Radio Telescopes Uncover Possible Dark Galaxy 310 Million Light-Years Away",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A mysterious object 310 million light-years away contains 2 billion suns’ worth of hydrogen, yet astronomers cannot find its stars.</p> <p>Astronomers have identified a massive reservoir of hydrogen roughly 310 million light-years from Earth,…",
-      "date": "2026-10-28",
-      "link": "https://www.reddit.com/r/space/comments/1xhkrth/two_radio_telescopes_uncover_possible_dark_galaxy/"
+      "title": "After Flying Past the Moon, Artemis II Astronaut Reid Wiseman has Landed at a New Job in California — Deputy Director of the Jet Propulsion Laboratory, NASA’s Premier Center for Deep-Space Robotic Missions",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xincx5/after_flying_past_the_moon_artemis_ii_astronaut/\"> <img src=\"https://external-preview.redd.it/Q1uW5Uxs4udQ86UQ5zOlFe5hFekBxWc5jlRBeY_Eg88.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bbfb7608e1e940523b…",
+      "date": "2026-10-29",
+      "link": "https://www.reddit.com/r/space/comments/1xincx5/after_flying_past_the_moon_artemis_ii_astronaut/"
     },
     {
       "sourceId": "rspace",
-      "title": "China’s top-secret spaceplane can’t hide in low-Earth orbit",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xhj4mq/chinas_topsecret_spaceplane_cant_hide_in_lowearth/\"> <img src=\"https://external-preview.redd.it/Qj5yUYCLx325c7qSEcu8ueoJ5b2DFKKkaiMMjQiGyTU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9c84f7d2b581b4a…",
-      "date": "2026-10-28",
-      "link": "https://www.reddit.com/r/space/comments/1xhj4mq/chinas_topsecret_spaceplane_cant_hide_in_lowearth/"
+      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xinaep/spacex_no_longer_needs_nasa_and_thats_a_problem/\"> <img src=\"https://external-preview.redd.it/jWdoZafyFGbzjr3nEZUFaVMOeeZx0jLG_07Yl4YqpxA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b21d6384089c177887…",
+      "date": "2026-10-29",
+      "link": "https://www.reddit.com/r/space/comments/1xinaep/spacex_no_longer_needs_nasa_and_thats_a_problem/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
-      "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida.",
-      "date": "2026-10-28",
-      "link": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
+      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1…",
+      "date": "2026-10-29",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
-      "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant.",
-      "date": "2026-10-28",
-      "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/"
+      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+      "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s…",
+      "date": "2026-10-29",
+      "link": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
-      "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative.",
-      "date": "2026-10-28",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/"
+      "title": "NIH–NASA QuSAFE Challenge",
+      "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to…",
+      "date": "2026-10-29",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/"
     },
     {
       "sourceId": "nasa",
-      "title": "Webb Sees Turbulent Star Nursery",
-      "summary": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way…",
-      "date": "2026-10-28",
-      "link": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/"
+      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
+      "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo!",
+      "date": "2026-10-29",
+      "link": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/"
     },
     {
       "sourceId": "nasa",
-      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-      "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill…",
-      "date": "2026-10-28",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"
+      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+      "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another…",
+      "date": "2026-10-29",
+      "link": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/"
     }
   ]
 }
