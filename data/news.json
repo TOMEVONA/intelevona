@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T22:14:13.145Z",
+  "updated": "2026-11-02T22:32:44.960Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -304,17 +304,17 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
-      "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
-      "date": "2026-11-02",
-      "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026"
-    },
-    {
-      "sourceId": "spacecom",
       "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
       "summary": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
       "date": "2026-11-02",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
+      "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
+      "date": "2026-11-02",
+      "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026"
     },
     {
       "sourceId": "rspace",
