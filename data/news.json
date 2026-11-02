@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-01T18:42:19.721Z",
+  "updated": "2026-11-02T22:14:13.145Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "How to Expand Reliable, Flexible Access to Space",
+      "summary": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And",
+      "date": "2026-11-02",
+      "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/"
+    },
     {
       "sourceId": "spacenews",
       "title": "ESI supplying solar array components to missile defense programs",
@@ -28,13 +35,6 @@
       "summary": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network The post Ukrainian startup, GomSpace test satellite for future communications network appeared first on SpaceNews .",
       "date": "2026-10-27",
       "link": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
-      "summary": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications",
-      "date": "2026-10-27",
-      "link": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,20 @@
     },
     {
       "sourceId": "ussf",
+      "title": "USSF field command leaders appeal to commercial space industry at Space Industry Days",
+      "summary": "The leaders highlighted recent operational and launch milestones while outlining how commercial space partnerships, rapid acquisition and integrated training are vital to fielding a combat-credible Space Force.<br/> <img…",
+      "date": "2026-11-02",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4639732/ussf-field-command-leaders-appeal-to-commercial-space-industry-at-space-industr/"
+    },
+    {
+      "sourceId": "ussf",
+      "title": "DAF announces Spark Tank 2026 Top 5",
+      "summary": "The Department of the Air Force's Spark Tank program has concluded its final year, narrowing 350 total submissions down to the Top 5 ideas.<br/>",
+      "date": "2026-11-02",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4638883/daf-announces-spark-tank-2026-top-5/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "Space Forces-Northern changes command at Peterson SFB",
       "summary": "U.S. Space Forces-Northern held a change of command ceremony, transferring leadership from Brig. Gen. Robert J. Schreiner to Brig. Gen. Phillip A. Verroco.<br/> <img src='https://media.defense.gov/2026/Oct/15/2004015224/300/300/0/261013-F-TD082-1003.JPG' alt='Gen.",
       "date": "2026-10-15",
@@ -198,18 +212,18 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4625108/space-force-activates-spacefor-soc-as-service-component-command-to-special-oper/"
     },
     {
-      "sourceId": "ussf",
-      "title": "Space Force launches Guardian Spark outreach program to inspire students nationwide",
-      "summary": "The United States Space Force is launching Guardian Spark, a new annual outreach program that connects Guardians with students in grades 3 to 12 to share the mission, people and opportunities behind the nation’s newest military service.<br/> <img…",
-      "date": "2026-10-13",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4624333/space-force-launches-guardian-spark-outreach-program-to-inspire-students-nation/"
+      "sourceId": "dod",
+      "title": "USS George Washington Sailors Vote While Deployed",
+      "summary": "Sailors aboard the aircraft carrier USS George Washington, currently deployed to the U.S. 5th Fleet area of operations in the Middle East, recently voted during a voting rodeo event held in the ship's library.",
+      "date": "2026-11-02",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4639525/uss-george-washington-sailors-vote-while-deployed/"
     },
     {
-      "sourceId": "ussf",
-      "title": "First Guardians complete Jungle Operations Training Course in Panama",
-      "summary": "Two U.S. Space Force officers became the first Guardians to complete the Jungle Operations Training Course-Panama at Aeronaval Base Cristóbal Colón.<br/> <img src='https://media.defense.gov/2026/Oct/08/2004013355/300/300/0/260912-A-WU359-9041.JPG' alt='Guardians graduate Panama…",
-      "date": "2026-10-08",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4622101/first-guardians-complete-jungle-operations-training-course-in-panama/"
+      "sourceId": "dod",
+      "title": "Idaho Army National Guard Conducts Remote Rescue Mission",
+      "summary": "The Idaho Army National Guard assisted with a search and rescue mission near New Meadows, Idaho, marking the second time in as many months the team has supported local fire and emergency medical services in a remote part of the state.",
+      "date": "2026-11-02",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4639243/idaho-army-national-guard-conducts-remote-rescue-mission/"
     },
     {
       "sourceId": "dod",
@@ -233,18 +247,25 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4637154/assistant-secretary-says-new-infrastructure-initiatives-are-a-national-calling/"
     },
     {
-      "sourceId": "dod",
-      "title": "Marine Corps Base Hawaii Barracks Project Crosses Halfway Mark",
-      "summary": "Construction of two new barracks at Marine Corps Base Hawaii has passed the halfway mark, with structural work complete and crews installing building systems and finishing the interior.",
-      "date": "2026-10-29",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4637113/marine-corps-base-hawaii-barracks-project-crosses-halfway-mark/"
+      "sourceId": "viasat",
+      "title": "SES Wins Multi-Orbit IFC Deals for Finnair and Air Astana",
+      "summary": "SES landed two new customers for its multi-orbit in-flight connectivity service with Finnair and Air Astana. Finland’s flagship airline Finnair will adopt SES’s IFC solution on 18 new Embraer E195-E2",
+      "date": "2026-11-02",
+      "link": "https://www.satellitetoday.com/mobility/2026/11/02/ses-wins-multi-orbit-ifc-deals-for-finnair-and-air-astana/"
     },
     {
-      "sourceId": "dod",
-      "title": "Army Mountain Division Takes on Panamanian Jungle",
-      "summary": "Soldiers assigned to the 10th Mountain Division tackled Panama's challenging jungle terrain during a 12-day training course designed to strengthen unit cohesion, develop leaders and sharpen combat skills.",
-      "date": "2026-10-29",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4636612/army-mountain-division-takes-on-panamanian-jungle/"
+      "sourceId": "viasat",
+      "title": "Hydrosat Launches Thermal Imaging Capability for Tactical ISR",
+      "summary": "Hydrosat is launching a new thermal imaging product geared toward tactical intelligence, surveillance, and reconnaissance (ISR) use cases as it plans to expand its manufacturing capabilities in Europe to support",
+      "date": "2026-11-02",
+      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/11/02/hydrosat-launches-thermal-imaging-capability-for-tactical-isr/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Northwood Space to Scale Ground Network Build-Out With $375M Funding Raise",
+      "summary": "Northwood Space raised $375 million in a Series C round as it works to expand its ground network by accelerating antenna production and growing its team by 400 people over",
+      "date": "2026-11-02",
+      "link": "https://www.satellitetoday.com/finance/2026/11/02/northwood-space-to-scale-ground-network-build-out-with-375m-funding-raise/"
     },
     {
       "sourceId": "viasat",
@@ -261,95 +282,74 @@
       "link": "https://www.satellitetoday.com/technology/2026/10/30/mda-space-to-build-antenna-subsystems-for-66-iris%c2%b2-leo-satellites/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Eutelsat Sets 10B Target for OneWeb Revenue from 2032 to 2040",
-      "summary": "Eutelsat’s revenue from the OneWeb constellation grew by 30% year-over-year in the first quarter of its fiscal year, despite lower terminal sales during the quarter. The operator set a bold",
-      "date": "2026-10-30",
-      "link": "https://www.satellitetoday.com/connectivity/2026/10/30/eutelsat-sets-10b-target-for-oneweb-revenue-from-2032-to-2040/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Satellogic Secures 3-Year Agreement with HEO for Non-Earth Imaging",
-      "summary": "Satellogic has expanded its work with HEO through a new three-year agreement for non-Earth imaging worth at minimum, seven figures each year. Satellogic will use its imaging satellites to capture",
-      "date": "2026-10-30",
-      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/10/30/satellogic-secures-3-year-agreement-with-heo-for-non-earth-imaging/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "FCC Names Courtney Reinhard as New Space Bureau Chief",
-      "summary": "The FCC has named Courtney Reinhard as the new chief of the agency’s Space Bureau. Reinhard takes the helm after previous head Jay Schwarz left the position in August. Reinhard",
-      "date": "2026-10-30",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/30/fcc-names-courtney-reinhard-as-new-space-bureau-chief/"
+      "sourceId": "spacecom",
+      "title": "New 'Star Trek: The Original Voyages' book traces the stellar legacy of the bold sci-fi brand",
+      "summary": "Keep the 60th anniversary party going with this visual salute to the series that launched a legacy",
+      "date": "2026-11-02",
+      "link": "https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo",
-      "summary": "Nintendo's sci-fi shooter franchise is in dire straits, but we've got the solution to Samus's problems.",
+      "title": "Viltrox AF 35mm f/1.8 II EVO FE (APO) lens review — how good is this budget lens for astrophotography?",
+      "summary": "The Viltrox AF 35mm f/1.8 II FE (APO) is an inexpensive prime that works well for astrophotography thanks to its focal length and maximum aperture.",
+      "date": "2026-11-02",
+      "link": "https://www.space.com/stargazing/skywatching-kit/viltrox-af-35mm-f-1-8-ii-evo-fe-apo-lens-review-how-good-is-this-budget-lens-for-astrophotography"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
+      "summary": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
+      "date": "2026-11-02",
+      "link": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
+      "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
+      "date": "2026-11-02",
+      "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026"
+    },
+    {
+      "sourceId": "spacecom",
+      "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
+      "summary": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
+      "date": "2026-11-02",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "After seven years of leaks, the ISS's PrK tunnel is reportedly shut for good",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xmaa57/after_seven_years_of_leaks_the_isss_prk_tunnel_is/\"> <img src=\"https://external-preview.redd.it/JMUu8f86yuLR4DEMTJlmYREmrzbLhNJCrAfsP9YBt1M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8be79696b9844570…",
+      "date": "2026-11-02",
+      "link": "https://www.reddit.com/r/space/comments/1xmaa57/after_seven_years_of_leaks_the_isss_prk_tunnel_is/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "China publicly announces detailed plan to land astronauts on the Moon within the next three years | The lunar landings will involve a lunar-orbit rendezvous similar to what NASA did in the 1960s & 70s with the Apollo program — though the crew and lunar lander will launch separately to the Moon",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xm9j2p/china_publicly_announces_detailed_plan_to_land/\"> <img src=\"https://external-preview.redd.it/yZqLULkPvJd2rAqTfJ0OXKGRe_1Mp0fK8u9ZOia8Chs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8915837f7f476ec8c1…",
+      "date": "2026-11-02",
+      "link": "https://www.reddit.com/r/space/comments/1xm9j2p/china_publicly_announces_detailed_plan_to_land/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "26 years ago, three astronauts moved into the International Space Station, beginning humanity's continuous presence in space",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xlkmpf/26_years_ago_three_astronauts_moved_into_the/\"> <img src=\"https://external-preview.redd.it/3TPhYoPEE90G4TxTT3LxS0D2farHdkagyDYDeQwPqu4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=617f72c9f69fc92dfb001…",
+      "date": "2026-11-02",
+      "link": "https://www.reddit.com/r/space/comments/1xlkmpf/26_years_ago_three_astronauts_moved_into_the/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Halloween Aboard the International Space Station",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xlhwif/halloween_aboard_the_international_space_station/\"> <img src=\"https://external-preview.redd.it/J0nKLdIwv3okJxZUSvLNTi3ag0PSOushaKTW5GeE6_s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=75c61e5bc8e27ee42…",
       "date": "2026-11-01",
-      "link": "https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo"
+      "link": "https://www.reddit.com/r/space/comments/1xlhwif/halloween_aboard_the_international_space_station/"
     },
     {
-      "sourceId": "spacecom",
-      "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
-      "summary": "Satellites are watching fireballs blaze through Earth's atmosphere, strengthening planetary defense knowhow and helping scientists learn more about space debris impacts.",
-      "date": "2026-11-01",
-      "link": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
-      "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
-      "date": "2026-11-01",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026"
-    },
-    {
-      "sourceId": "spacecom",
+      "sourceId": "rspace",
       "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
-      "summary": "It's unclear at the moment exactly when and where the Swift observatory will plunge to Earth. But researchers definitely have their eyes peeled.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xldx4i/nasas_swift_space_telescope_is_about_to_crash_to/\"> <img src=\"https://external-preview.redd.it/6XXK55uU57C2_CuoRrxVOjq31lGoXXncgb47FVpDXn0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ebd77f8a57fdfb06…",
       "date": "2026-11-01",
-      "link": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "5 bright planets to spot in November — when and where to see them",
-      "summary": "From a close encounter between Mars and Jupiter to dazzling Venus and elusive Mercury, November offers plenty of planetary highlights. Here's when and where to look.",
-      "date": "2026-11-01",
-      "link": "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Did SpaceX really help Russia's Cosmos 2612 close on ICEYE-X36? The orbit records don't back it up",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xla0lc/did_spacex_really_help_russias_cosmos_2612_close/\"> <img src=\"https://external-preview.redd.it/2J47BP0Gh11d-FtYRMyMX68jwYCPUVa4IcVyHgUeFf4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c0b148112b3cf15b4…",
-      "date": "2026-11-01",
-      "link": "https://www.reddit.com/r/space/comments/1xla0lc/did_spacex_really_help_russias_cosmos_2612_close/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "JWST discovers mysterious object with one single emission line in the Hubble Ultra Deep Field within the constellation of Fornax — where there doesn't seem to be anything at all",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR (courtesy of aggregate article): In a tiny corner of the tiny field, JWST detected a strange signal – not once, but twice, in observations nearly three months apart. There&#39;s just one problem.",
-      "date": "2026-11-01",
-      "link": "https://www.reddit.com/r/space/comments/1xl8q5u/jwst_discovers_mysterious_object_with_one_single/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "All Space Questions thread for week of November 01, 2026",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please sort comments by &#39;new&#39; to find questions that would otherwise be buried.</p> <p>In this thread you can ask any space related question that you may have.</p> <p>Two examples of potential questions could be; \"How do rockets work?\",…",
-      "date": "2026-11-01",
-      "link": "https://www.reddit.com/r/space/comments/1xl876y/all_space_questions_thread_for_week_of_november/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Milky Way captured with Iphone 16Pro in the Swiss Alps",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xl4nbd/milky_way_captured_with_iphone_16pro_in_the_swiss/\"> <img src=\"https://preview.redd.it/p404w84ni0zh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d299864947217477455520e6f15010beba153dfd\" alt=\"Milky…",
-      "date": "2026-11-01",
-      "link": "https://www.reddit.com/r/space/comments/1xl4nbd/milky_way_captured_with_iphone_16pro_in_the_swiss/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "Neil Armstrong stands in front of the X-15 rocket plane in 1960, the North American X-15, an experimental hypersonic rocket-powered aircraft used to test speed and altitude limits at the edge of the atmosphere",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xl3r6i/neil_armstrong_stands_in_front_of_the_x15_rocket/\"> <img src=\"https://preview.redd.it/glu8yj0wb0zh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4b13d74a6707601488cf8742c7fe5081ff5f128d\" alt=\"Neil…",
-      "date": "2026-11-01",
-      "link": "https://www.reddit.com/r/space/comments/1xl3r6i/neil_armstrong_stands_in_front_of_the_x15_rocket/"
+      "link": "https://www.reddit.com/r/space/comments/1xldx4i/nasas_swift_space_telescope_is_about_to_crash_to/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 November 1 – Colors of the Moon",
-      "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-11-01",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/"
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis.",
+      "date": "2026-11-02",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-10-31",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/"
+      "title": "TB 26-09 Measured Hammer-Tap Inputs",
+      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform.",
+      "date": "2026-11-02",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-      "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida.",
-      "date": "2026-10-30",
-      "link": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
+      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+      "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026.",
+      "date": "2026-11-02",
+      "link": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-      "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026.",
-      "date": "2026-10-30",
-      "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
+      "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+      "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon.",
+      "date": "2026-11-02",
+      "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-      "date": "2026-10-30",
-      "link": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
+      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+      "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA.",
+      "date": "2026-11-02",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/"
     }
   ]
 }
