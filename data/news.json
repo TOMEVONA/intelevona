@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:00:00.075Z",
+  "updated": "2026-11-03T20:22:20.321Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,13 +213,6 @@
     },
     {
       "sourceId": "dod",
-      "title": "Army Medical Center Tests Emergency Readiness During Mass Casualty Exercise",
-      "summary": "Brooke Army Medical Center participated in an annual mass casualty exercise at Joint Base San Antonio-Fort Sam Houston, Texas, to test the hospital's emergency preparedness and response capabilities.",
-      "date": "2026-11-03",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4640590/army-medical-center-tests-emergency-readiness-during-mass-casualty-exercise/"
-    },
-    {
-      "sourceId": "dod",
       "title": "USS George Washington Sailors Vote While Deployed",
       "summary": "Sailors aboard the aircraft carrier USS George Washington, currently deployed to the U.S. 5th Fleet area of operations in the Middle East, recently voted during a voting rodeo event held in the ship's library.",
       "date": "2026-11-02",
@@ -245,6 +238,13 @@
       "summary": "Defense and security leaders from 19 Western Hemisphere nations worked on a campaign plan to dismantle transnational cartels and narco-terrorist networks during an Americas Counter Cartel Coalition forum in the Dominican Republic.",
       "date": "2026-10-29",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4637181/western-hemisphere-nations-meet-to-advance-anti-cartel-campaign-plan/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Assistant Secretary Says New Infrastructure Initiatives Are a 'National Calling'",
+      "summary": "The War Department embarked this year on new initiatives to strengthen the infrastructure of military installations and to build a new prototype American base, said Dale Marks, assistant secretary of war for energy, installations and environment.",
+      "date": "2026-10-29",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4637154/assistant-secretary-says-new-infrastructure-initiatives-are-a-national-calling/"
     },
     {
       "sourceId": "viasat",
@@ -283,6 +283,13 @@
     },
     {
       "sourceId": "spacecom",
+      "title": "'OGame' developers explain how the browser-based sci-fi game has lasted 24 years ahead of the huge Orion update",
+      "summary": "The OG sci-fi browser game is still going strong.",
+      "date": "2026-11-03",
+      "link": "https://www.space.com/entertainment/space-games/ogame-developers-explain-how-the-browser-based-sci-fi-game-has-lasted-24-years-ahead-of-the-huge-orion-update"
+    },
+    {
+      "sourceId": "spacecom",
       "title": "Dimorphos in sight: Europe's Hera probe gets its 1st look at battered space rock (photo)",
       "summary": "Europe's Hera planetary defense spacecraft is closing in on the binary asteroid system targeted by NASA's DART deflection test, and can now tell the two rocky bodies apart.",
       "date": "2026-11-03",
@@ -301,13 +308,6 @@
       "summary": "From Mos Eisley to Mos Espa and the Jundland Wastes, here's where to experience the Aug. 2, 2027 total solar eclipse from Tunisia's Star Wars filming locations.",
       "date": "2026-11-03",
       "link": "https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Robot cube explores the International Space Station | Space photo of the day for Nov. 3, 2026",
-      "summary": "An Astrobee, a tiny robot cube, is zipping around the International Space Station helping out the astronauts on board.",
-      "date": "2026-11-03",
-      "link": "https://www.space.com/space-exploration/international-space-station/robot-cube-explores-the-international-space-station-space-photo-of-the-day-for-nov-3-2026"
     },
     {
       "sourceId": "spacecom",
