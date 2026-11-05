@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-04T20:38:13.587Z",
+  "updated": "2026-11-05T20:30:34.751Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+      "summary": "Mozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight",
+      "date": "2026-11-05",
+      "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
+      "summary": "In this episode, SpaceNews’ Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that “catapults” small launch vehicles could cut down on",
+      "date": "2026-11-05",
+      "link": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
@@ -21,20 +35,6 @@
       "summary": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And",
       "date": "2026-11-02",
       "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "ESI supplying solar array components to missile defense programs",
-      "summary": "Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space",
-      "date": "2026-10-30",
-      "link": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Advice for optimizing the space industry with Laura Crabtree",
-      "summary": "In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize",
-      "date": "2026-10-29",
-      "link": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "DAF unveils enterprise blueprint to field operational SI across 15 mission domains",
+      "summary": "Department of the Air Force leaders outlined a new modernization strategy during the Military Flight Training USA Summit to transition super intelligence from experimental testing into operational use across 15 mission domains.<br/> <img…",
+      "date": "2026-11-05",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4642457/daf-unveils-enterprise-blueprint-to-field-operational-si-across-15-mission-doma/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "USSF field command leaders appeal to commercial space industry at Space Industry Days",
       "summary": "The leaders highlighted recent operational and launch milestones while outlining how commercial space partnerships, rapid acquisition and integrated training are vital to fielding a combat-credible Space Force.<br/> <img…",
       "date": "2026-11-02",
@@ -205,11 +212,18 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4625150/cso-notice-to-guardians-lines-of-effort-for-the-force/"
     },
     {
-      "sourceId": "ussf",
-      "title": "Space Force activates SPACEFOR-SOC as service component command to Special Operations Command",
-      "summary": "Effective Oct. 7, SPACEFOR-SOC was activated as a component field command of the U.S. Space Force.<br/>",
-      "date": "2026-10-14",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4625108/space-force-activates-spacefor-soc-as-service-component-command-to-special-oper/"
+      "sourceId": "dod",
+      "title": "New York National Guard Unveils $3.5 Million Housing Facility",
+      "summary": "Army Maj. Gen. Ray Shields, the adjutant general of New York, opened a $3.5 million modern housing facility at Camp Smith Training Site in Cortlandt Manor, N.Y., for senior enlisted leaders and officers training at the post.",
+      "date": "2026-11-05",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4642365/new-york-national-guard-unveils-35-million-housing-facility/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Centcom Benefits From Project Agincourt, Drone Dominance Efforts",
+      "summary": "Frontline troops in the U.S. Central Command area of responsibility have received more than 25,000 unmanned aerial systems and counter-UAS so far this year to help them better execute their mission.",
+      "date": "2026-11-04",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4641652/centcom-benefits-from-project-agincourt-drone-dominance-efforts/"
     },
     {
       "sourceId": "dod",
@@ -233,123 +247,109 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4640814/operation-unified-resolve-sees-70-drop-in-rio-grande-valley-crossings/"
     },
     {
-      "sourceId": "dod",
-      "title": "Army WCAP Women Wrestlers Help Team USA Capture World Title",
-      "summary": "Two women's freestyle wrestlers from the U.S. Army World Class Athlete Program helped Team USA secure its first world title since 1999 during the United World Wrestling Senior World Championships in Astana, Kazakhstan.",
-      "date": "2026-11-03",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4640708/army-wcap-women-wrestlers-help-team-usa-capture-world-title/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Army Medical Center Tests Emergency Readiness During Mass Casualty Exercise",
-      "summary": "Brooke Army Medical Center participated in an annual mass casualty exercise at Joint Base San Antonio-Fort Sam Houston, Texas, to test the hospital's emergency preparedness and response capabilities.",
-      "date": "2026-11-03",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4640590/army-medical-center-tests-emergency-readiness-during-mass-casualty-exercise/"
+      "sourceId": "viasat",
+      "title": "Former DoD Official Warns Golden Dome May Not Outlive Trump Presidency",
+      "summary": "Branding that associates the Golden Dome missile shield personally with President Trump, alongside its expected $1 trillion price tag, partisan disputes, and Democratic election victories on Capitol Hill may well",
+      "date": "2026-11-04",
+      "link": "https://www.satellitetoday.com/government-military/2026/11/04/former-dod-official-warns-that-golden-dome-may-not-outlive-trump-presidency/"
     },
     {
       "sourceId": "viasat",
-      "title": "NRO Official Details New Cyber Office With $250M Budget; White House Warns of AI-Speed Attacks",
-      "summary": "RESTON, Va. — The new Cyber Protection Office at the National Reconnaissance Office (NRO), the secretive agency that builds and operates the nation’s spy satellites, has a staff of 600-plus",
-      "date": "2026-11-03",
-      "link": "https://www.satellitetoday.com/cybersecurity/2026/11/03/nro-official-details-new-cyber-office-with-250m-budget-white-house-warns-of-ai-speed-attacks/"
+      "title": "Viasat, SES, and Astranis Win NASA Ka-band Relay Contracts",
+      "summary": "NASA awarded contracts to Viasat, SES, and Astranis for Ka-band space relay capability concepts, as part of the Space Communications and Navigation (SCaN) program’s Communications Services Project (CSP). Viasat received",
+      "date": "2026-11-04",
+      "link": "https://www.satellitetoday.com/government-military/2026/11/04/viasat-ses-and-astranis-win-nasa-ka-band-relay-contracts/"
     },
     {
       "sourceId": "viasat",
-      "title": "Globalstar Questions Supplier Relationship With Rocket Lab When Iridium Acquisition Closes",
-      "summary": "Globalstar asked the FCC to take a close look at how its relationship with supplier Rocket Lab could be impacted after Rocket Lab acquires Globalstar competitor Iridium. Globalstar submitted an",
-      "date": "2026-11-03",
-      "link": "https://www.satellitetoday.com/connectivity/2026/11/03/globalstar-questions-supplier-relationship-with-rocket-lab-when-iridium-acquisition-closes/"
+      "title": "SES Reports Optical Communications Demo on K2 Gravitas Mission",
+      "summary": "SES reports it has demonstrated bi-directional optical communications link between ground and space with its meoSphere pathfinder onboard the K2 Space Gravitas satellite. During the mission, SES sent video messages",
+      "date": "2026-11-04",
+      "link": "https://www.satellitetoday.com/technology/2026/11/04/ses-reports-optical-communications-demo-on-k2-gravitas-mission/"
     },
     {
       "sourceId": "viasat",
-      "title": "AT&T and AST SpaceMobile Demonstrate Handoff Between Cellular, D2D Networks",
-      "summary": "AT&T and AST SpaceMobile recently demonstrated a handoff between AT&T’s cellular network and AST SpaceMobile’s direct-to-device satellite network, calling it a first-of-its-kind demonstration. During the demonstration in late October, a",
-      "date": "2026-11-03",
-      "link": "https://www.satellitetoday.com/connectivity/2026/11/03/att-and-ast-spacemobile-demonstrate-handoff-between-cellular-d2d-networks/"
+      "title": "SpaceX Strikes Deal with Qualcomm for Terrestrial Component of Starlink Mobile Network",
+      "summary": "SpaceX has tapped Qualcomm Technologies to provide terrestrial base stations for the integrated satellite and terrestrial network it plans to build for Starlink Mobile. Under the deal announced Wednesday, Qualcomm",
+      "date": "2026-11-04",
+      "link": "https://www.satellitetoday.com/connectivity/2026/11/04/spacex-strikes-deal-with-qualcomm-for-terrestrial-component-of-starlink-mobile-network/"
     },
     {
       "sourceId": "viasat",
-      "title": "Space CISOs Sound Alarm on Starlink Disruption in Ukraine, Urge Clear Service Terms and Sovereign Control",
-      "summary": "RESTON, Va. — Space industry CISOs weighed in on the recent service disruption that left Ukrainian forces without connectivity to SpaceX’s Starlink and its military variant Starshield during combat operations",
-      "date": "2026-11-03",
-      "link": "https://www.satellitetoday.com/cybersecurity/2026/11/03/space-cisos-sound-alarm-on-starlink-disruption-in-ukraine-urge-clear-service-terms-and-sovereign-control/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "SatPort Acquires Speedcast’s Teleport Business",
-      "summary": "SatPort Infrastructure has completed the acquisition of Speedcast’s teleport business, including 12 teleports and related infrastructure. SatPort, which is backed by EQT Infrastructure, made the acquisition to become a carrier-neutral",
-      "date": "2026-11-03",
-      "link": "https://www.satellitetoday.com/technology/2026/11/03/satport-acquires-speedcasts-teleport-business/"
+      "title": "ULA To Bring Payload Fairing Manufacturing for Vulcan In-House",
+      "summary": "Elon Musk’s SpaceX has made payload fairings for its rockets, including Falcon 9, at SpaceX’s Hawthorne, California plant, and now competitor United Launch Alliance (ULA) is bringing its fairings build",
+      "date": "2026-11-04",
+      "link": "https://www.satellitetoday.com/launch/2026/11/04/ula-to-bring-payload-fairing-manufacturing-for-vulcan-in-house/"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Trials and Tribble-ations' at 30: The classic 'Star Trek: Deep Space Nine' episode that brought Captains Kirk and Sisko face-to-face",
-      "summary": "How \"Forrest Gump\", pizza, and a massive supporting cast of furballs came together to make one of \"Star Trek\"'s finest hours.",
-      "date": "2026-11-04",
-      "link": "https://www.space.com/entertainment/space-movies-shows/trials-and-tribble-ations-at-30-the-classic-star-trek-deep-space-nine-episode-that-brought-captains-kirk-and-sisko-face-to-face"
+      "title": "Earth has captured a new mini moon — but it won't stick around for long",
+      "summary": "Earth has caught itself a new mini-moon, and QQ8 is sticking around for Christmas.",
+      "date": "2026-11-05",
+      "link": "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long"
     },
     {
       "sourceId": "spacecom",
-      "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt",
-      "summary": "NASA's Swift space telescope crashed back to Earth today (Nov. 4), three months after a private spacecraft was supposed to boost the observatory to a higher orbit.",
-      "date": "2026-11-04",
-      "link": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth"
+      "title": "On this day in space! Nov. 5, 2002: NASA's Galileo spacecraft flies by Jupiter moon Almathea only to find it's a 'pile of icy rubble less dense than water'",
+      "summary": "On Nov. 5, 2002, NASA's old Galileo spacecraft flew by a small moon called Amalthea and made a surprising find. Here's why it mattered.",
+      "date": "2026-11-05",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Mars isn't dead — recent volcanic activity reveals it's just sleeping",
-      "summary": "Scientists have long suspected that Mars is geologically \"dead\" but new spacecraft observations suggests the Red Planet's volcanoes are merely sleeping.",
-      "date": "2026-11-04",
-      "link": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping"
+      "title": "You don't have to go to the moon to see Earth differently: Artemis II astronaut Victor Glover on what really matters",
+      "summary": "After a record-breaking journey around the moon, Artemis 2 astronaut Victor Glover explains why you don't need to travel into space to see Earth differently.",
+      "date": "2026-11-05",
+      "link": "https://www.space.com/space-exploration/artemis/the-greatest-reason-to-go-to-space-artemis-ii-astronaut-victor-glover-reveals-what-he-discovered-on-his-journey-to-the-moon"
     },
     {
       "sourceId": "spacecom",
-      "title": "NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals",
-      "summary": "\"It could have a strong impact not only on self-driving cars but also on drone positioning.\"",
-      "date": "2026-11-04",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals"
+      "title": "NASA's Voyager 1 probe bounces back from communications glitch in interstellar space",
+      "summary": "NASA's Voyager 1 probe is back in communication after the 49-year-old spacecraft briefly fell silent last month, during its interstellar-space mission.",
+      "date": "2026-11-05",
+      "link": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space"
     },
     {
       "sourceId": "spacecom",
-      "title": "Students gather to explore Hawaii's glorious night sky | Space photo of the day for Nov. 4, 2026",
-      "summary": "Over 1,400 students gathered in Hawaii recently to learn about astronomy as part of the annual Journey Through the Universe program.",
-      "date": "2026-11-04",
-      "link": "https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026"
+      "title": "Earth photobombs spacewalking Canadian astronaut | Space photo of the day for Nov. 5, 2026",
+      "summary": "Canadian astronaut Joshua Kutryk poses for a photo mid-spacewalk on Oct. 29, 2026.",
+      "date": "2026-11-05",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/earth-photobombs-spacewalking-canadian-astronaut-space-photo-of-the-day-for-nov-5-2026"
     },
     {
       "sourceId": "rspace",
-      "title": "If you had a vacuum decay event happen but within the event horizon of a black hole would the universe be saved by the black hole?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Basically the outer edge of the vacuum decay bubble travels outward at the speed of light, but thats not enough to escape from within the inside the event horizon of a black hole.",
-      "date": "2026-11-04",
-      "link": "https://www.reddit.com/r/space/comments/1xnyyo2/if_you_had_a_vacuum_decay_event_happen_but_within/"
+      "title": "Stranded scenario",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey fellas, I&#39;ve been rewatching Solar Opposites, and there&#39;s a scene where a blue guy and a green guy are fighting.",
+      "date": "2026-11-05",
+      "link": "https://www.reddit.com/r/space/comments/1xosa45/stranded_scenario/"
     },
     {
       "sourceId": "rspace",
-      "title": "OFFICIAL: NASA's Swift Observatory has today crash landed back on Earth, concluding a historic 22-year mission that provided significant discoveries about gamma-ray bursts, exploding stars and black-holes",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xnydnu/official_nasas_swift_observatory_has_today_crash/\"> <img src=\"https://preview.redd.it/6qvdxjh5jnzh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a58bb85ec7f2a596e8643df7791bd20b5c84d7b5\" alt=\"OFFICIAL:…",
-      "date": "2026-11-04",
-      "link": "https://www.reddit.com/r/space/comments/1xnydnu/official_nasas_swift_observatory_has_today_crash/"
+      "title": "Microbes can grow in Mars-like conditions. What that means for the search for life.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xorw5a/microbes_can_grow_in_marslike_conditions_what/\"> <img src=\"https://external-preview.redd.it/-sd4vESRTcDZAMrL0alduNO1-PWdRzxde9fWmh4u6xI.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5d5a8a630f0ee61097ca…",
+      "date": "2026-11-05",
+      "link": "https://www.reddit.com/r/space/comments/1xorw5a/microbes_can_grow_in_marslike_conditions_what/"
     },
     {
       "sourceId": "rspace",
-      "title": "Doubt on completeness of objects",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So I randomly stumbled upon this idea that when we day let’s say Ton 618 super black hole is x light years away from us and therefore the image or light that reaches us at this very instant(t=0) is x light years ago as it took light that much…",
-      "date": "2026-11-04",
-      "link": "https://www.reddit.com/r/space/comments/1xnxqpv/doubt_on_completeness_of_objects/"
+      "title": "If space is expanding everywhere, shouldn’t it be expanding within our Solar System?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Forgive me as I am just an idiot who likes space. If space is expanding everywhere, shouldn’t it be expanding within our Solar System? For example, wouldn’t the space between our planet and the sun be expanding?",
+      "date": "2026-11-05",
+      "link": "https://www.reddit.com/r/space/comments/1xoo8df/if_space_is_expanding_everywhere_shouldnt_it_be/"
     },
     {
       "sourceId": "rspace",
-      "title": "Martin Rees thinks we could have evidence of simple life on exoplanets within 10 to 20 years",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I recently had a conversation with Martin Rees, the Astronomer Royal, and one part I found particularly interesting was his view on how close we might be to detecting life beyond Earth.</p> <p>He suggested there could be around a billion planets…",
-      "date": "2026-11-04",
-      "link": "https://www.reddit.com/r/space/comments/1xnx9w0/martin_rees_thinks_we_could_have_evidence_of/"
+      "title": "The Leonids peak on Nov 17. Why a shower that once produced thousands of meteors per minute will give us about 10-15 an hour this year",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The Leonids come from debris left by comet 55P/Tempel-Tuttle. In 1966, observers saw rates of thousands of meteors per minute for about 15 minutes.",
+      "date": "2026-11-05",
+      "link": "https://www.reddit.com/r/space/comments/1xom3vc/the_leonids_peak_on_nov_17_why_a_shower_that_once/"
     },
     {
       "sourceId": "rspace",
-      "title": "What's behind the difference between Swift's predicted re-entry and its observed trajectory?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>US Space Force&#39;s earlier predictions had Swift&#39;s re-entry very early this morning (about 10 hours ago).",
-      "date": "2026-11-04",
-      "link": "https://www.reddit.com/r/space/comments/1xnw80b/whats_behind_the_difference_between_swifts/"
+      "title": "The European Space Agency’s Hera mission for planetary defence has acquired its first close-up of the Didymos binary asteroid system",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is the same asteroid that was targeted by DART mission. Hera&#39;s goal is to characterize the consequences of DART impact.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/adalhaidis\"> /u/adalhaidis…",
+      "date": "2026-11-05",
+      "link": "https://www.reddit.com/r/space/comments/1xokoea/the_european_space_agencys_hera_mission_for/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-      "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems.",
-      "date": "2026-11-04",
-      "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
+      "title": "Midwestern City Lights",
+      "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region.",
+      "date": "2026-11-05",
+      "link": "https://www.nasa.gov/image-article/midwestern-city-lights/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets.",
-      "date": "2026-11-04",
-      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/"
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov.",
+      "date": "2026-11-05",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-      "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space.",
-      "date": "2026-11-04",
-      "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
+      "title": "Hubble Learns Galactic History From Stars",
+      "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+      "date": "2026-11-05",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
     },
     {
       "sourceId": "nasa",
-      "title": "Hubble Reveals Cosmic Mystery",
-      "summary": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of…",
-      "date": "2026-11-04",
-      "link": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/"
+      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+      "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-11-05",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
-      "summary": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-11-04",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/"
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+      "date": "2026-11-05",
+      "link": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/"
     }
   ]
 }
