@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T20:30:34.751Z",
+  "updated": "2026-11-05T20:54:03.987Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Exercise Mountain Peak Tests Soldiers' Combat Readiness at Fort Drum",
+      "summary": "Soldiers assigned to the 10th Mountain Division's 1st Mobile Brigade Combat Team tested their combat readiness during Exercise Mountain Peak at Fort Drum, N.Y.",
+      "date": "2026-11-05",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4642632/exercise-mountain-peak-tests-soldiers-combat-readiness-at-fort-drum/"
+    },
+    {
+      "sourceId": "dod",
       "title": "New York National Guard Unveils $3.5 Million Housing Facility",
       "summary": "Army Maj. Gen. Ray Shields, the adjutant general of New York, opened a $3.5 million modern housing facility at Camp Smith Training Site in Cortlandt Manor, N.Y., for senior enlisted leaders and officers training at the post.",
       "date": "2026-11-05",
@@ -240,11 +247,25 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4641428/pentagon-official-discusses-forthcoming-review-of-military-legal-system/"
     },
     {
-      "sourceId": "dod",
-      "title": "Operation Unified Resolve Sees 70% Drop in Rio Grande Valley Crossings",
-      "summary": "Just 30 days after U.S. Northern Command and Joint Task Force Southern Border repositioned hundreds of service members to Texas' Rio Grande Valley, illegal crossings and suspicious activity in the sector have plummeted by about 70%.",
-      "date": "2026-11-03",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4640814/operation-unified-resolve-sees-70-drop-in-rio-grande-valley-crossings/"
+      "sourceId": "viasat",
+      "title": "SES Sees Aviation, Defense Momentum Drive Modest Q3 Revenue Growth",
+      "summary": "Growth in aviation and defense pushed SES’s Networks segment 6% revenue growth in the third quarter on a like-for-like (LFL) basis, as overall revenue grew by a modest 4.2% year-over-year.",
+      "date": "2026-11-05",
+      "link": "https://www.satellitetoday.com/connectivity/2026/11/05/ses-sees-aviation-defense-momentum-drive-modest-q3-revenue-growth/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "KT SAT to Lead South Korea Maritime Connectivity Project With ST Engineering iDirect",
+      "summary": "KT SAT will lead a secure maritime connectivity project for the government of South Korea, working with ST Engineering iDirect, tech company Waldo, and Intellian. Under the project, ST Engineering",
+      "date": "2026-11-05",
+      "link": "https://www.satellitetoday.com/government-military/2026/11/05/kt-sat-to-lead-south-korea-maritime-connectivity-project-with-st-engineering-idirect/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Redwire to Fly Second VLEO Test for DARPA Otter Program",
+      "summary": "DARPA awarded Redwire a $20 million contract to fly a second Very Low Earth Orbit (VLEO) test as part of its Otter program, Redwire announced Thursday. The new award funds",
+      "date": "2026-11-05",
+      "link": "https://www.satellitetoday.com/government-military/2026/11/05/redwire-to-fly-second-vleo-test-for-darpa-otter-program/"
     },
     {
       "sourceId": "viasat",
@@ -259,27 +280,6 @@
       "summary": "NASA awarded contracts to Viasat, SES, and Astranis for Ka-band space relay capability concepts, as part of the Space Communications and Navigation (SCaN) program’s Communications Services Project (CSP). Viasat received",
       "date": "2026-11-04",
       "link": "https://www.satellitetoday.com/government-military/2026/11/04/viasat-ses-and-astranis-win-nasa-ka-band-relay-contracts/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "SES Reports Optical Communications Demo on K2 Gravitas Mission",
-      "summary": "SES reports it has demonstrated bi-directional optical communications link between ground and space with its meoSphere pathfinder onboard the K2 Space Gravitas satellite. During the mission, SES sent video messages",
-      "date": "2026-11-04",
-      "link": "https://www.satellitetoday.com/technology/2026/11/04/ses-reports-optical-communications-demo-on-k2-gravitas-mission/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "SpaceX Strikes Deal with Qualcomm for Terrestrial Component of Starlink Mobile Network",
-      "summary": "SpaceX has tapped Qualcomm Technologies to provide terrestrial base stations for the integrated satellite and terrestrial network it plans to build for Starlink Mobile. Under the deal announced Wednesday, Qualcomm",
-      "date": "2026-11-04",
-      "link": "https://www.satellitetoday.com/connectivity/2026/11/04/spacex-strikes-deal-with-qualcomm-for-terrestrial-component-of-starlink-mobile-network/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "ULA To Bring Payload Fairing Manufacturing for Vulcan In-House",
-      "summary": "Elon Musk’s SpaceX has made payload fairings for its rockets, including Falcon 9, at SpaceX’s Hawthorne, California plant, and now competitor United Launch Alliance (ULA) is bringing its fairings build",
-      "date": "2026-11-04",
-      "link": "https://www.satellitetoday.com/launch/2026/11/04/ula-to-bring-payload-fairing-manufacturing-for-vulcan-in-house/"
     },
     {
       "sourceId": "spacecom",
@@ -318,6 +318,13 @@
     },
     {
       "sourceId": "rspace",
+      "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xotxy6/do_we_know_how_many_starship_launches_spacex_will/\"> <img src=\"https://external-preview.redd.it/7KdLRB7Aa77lIW3FqTpB-Y5xonnUqyRuxcXXkiWoQJI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c270772ea9c1c5d…",
+      "date": "2026-11-05",
+      "link": "https://www.reddit.com/r/space/comments/1xotxy6/do_we_know_how_many_starship_launches_spacex_will/"
+    },
+    {
+      "sourceId": "rspace",
       "title": "Stranded scenario",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey fellas, I&#39;ve been rewatching Solar Opposites, and there&#39;s a scene where a blue guy and a green guy are fighting.",
       "date": "2026-11-05",
@@ -343,13 +350,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>The Leonids come from debris left by comet 55P/Tempel-Tuttle. In 1966, observers saw rates of thousands of meteors per minute for about 15 minutes.",
       "date": "2026-11-05",
       "link": "https://www.reddit.com/r/space/comments/1xom3vc/the_leonids_peak_on_nov_17_why_a_shower_that_once/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "The European Space Agency’s Hera mission for planetary defence has acquired its first close-up of the Didymos binary asteroid system",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is the same asteroid that was targeted by DART mission. Hera&#39;s goal is to characterize the consequences of DART impact.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/adalhaidis\"> /u/adalhaidis…",
-      "date": "2026-11-05",
-      "link": "https://www.reddit.com/r/space/comments/1xokoea/the_european_space_agencys_hera_mission_for/"
     },
     {
       "sourceId": "nga",
