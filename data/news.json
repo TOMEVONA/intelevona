@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-05T20:54:03.987Z",
+  "updated": "2026-11-06T19:53:50.990Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+      "summary": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than",
+      "date": "2026-11-05",
+      "link": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
@@ -28,13 +35,6 @@
       "summary": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites",
       "date": "2026-11-03",
       "link": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "How to Expand Reliable, Flexible Access to Space",
-      "summary": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And",
-      "date": "2026-11-02",
-      "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "AFAS offers financial assistance for counseling, therapy",
+      "summary": "Eligible Airmen and Guardians can receive up to $600 for counseling or therapy, with the same amount available to each eligible family member, up to $2,400 per family per calendar year.",
+      "date": "2026-11-06",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4643542/afas-offers-financial-assistance-for-counseling-therapy/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "DAF unveils enterprise blueprint to field operational SI across 15 mission domains",
       "summary": "Department of the Air Force leaders outlined a new modernization strategy during the Military Flight Training USA Summit to transition super intelligence from experimental testing into operational use across 15 mission domains.<br/> <img…",
       "date": "2026-11-05",
@@ -205,11 +212,11 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4626378/space-forces-northern-changes-command-at-peterson-sfb/"
     },
     {
-      "sourceId": "ussf",
-      "title": "CSO Notice to Guardians: Lines of Effort for the Force",
-      "summary": "The chief of space operations laid out the three Lines of Effort that will guide the Space Force under his watch, telling Guardians in a service-wide notice that the priorities will define his time as the military branch's top officer.<br/>",
-      "date": "2026-10-14",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4625150/cso-notice-to-guardians-lines-of-effort-for-the-force/"
+      "sourceId": "dod",
+      "title": "Air Force, Secret Service Strengthen Counter-Drone Readiness",
+      "summary": "Joint Interagency Task Force 401 conducted counter-drone training with the Air Force's 6th Security Forces Squadron and U.S. Secret Service agents at MacDill Air Force Base, Florida, strengthening their ability to defend critical installations and infrastructure against evolving…",
+      "date": "2026-11-05",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4642910/air-force-secret-service-strengthen-counter-drone-readiness/"
     },
     {
       "sourceId": "dod",
@@ -240,11 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4641347/us-colombia-launch-joint-exercise-to-strengthen-readiness-regional-security/"
     },
     {
-      "sourceId": "dod",
-      "title": "Pentagon Official Discusses Forthcoming Review of Military Legal System",
-      "summary": "A special review panel will assess and recommend improvements to the War Department's military legal system while also honing the judge advocate general corps' warfighting skills, according to a Pentagon official.",
-      "date": "2026-11-04",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4641428/pentagon-official-discusses-forthcoming-review-of-military-legal-system/"
+      "sourceId": "viasat",
+      "title": "Rocket Lab’s Setback Shows Why Space Needs More Launch Providers",
+      "summary": "When Rocket Lab said that it would push back the first flight of its Neutron rocket until 2027, investors reacted as you might expect. The company’s shares fell by around",
+      "date": "2026-11-06",
+      "link": "https://www.satellitetoday.com/opinion/2026/11/06/rocket-labs-setback-shows-why-space-needs-more-launch-providers/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "CesiumAstro Raises $730M Series D to Fund Synchronicity Constellation",
+      "summary": "CesiumAstro raised its second round of capital this year to value the company at more than $4.5 billion as it plans to build its own satellite constellation called Synchronicity for",
+      "date": "2026-11-06",
+      "link": "https://www.satellitetoday.com/finance/2026/11/06/cesiumastro-raises-730m-series-d-to-fund-synchronicity-constellation/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "AST SpaceMobile to Build its Own Rocket to Deal With Launch Crunch",
+      "summary": "AST SpaceMobile is taking launch access into its own hands, with plans to build its own 20-ton rocket to deploy its direct-to-device constellation, using engines from Firefly Aerospace. The company",
+      "date": "2026-11-06",
+      "link": "https://www.satellitetoday.com/launch/2026/11/06/ast-spacemobile-to-build-its-own-rocket-to-deal-with-launch-crunch/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "DoD Must Embrace Autonomous On-Orbit Cyber Defense, DoD CIO Official Says",
+      "summary": "In the age of AI-powered hacking, keeping the U.S. military’s vital space-based capabilities functioning through enemy cyberattacks will require the Pentagon and its contractors to fully embrace autonomous on-orbit cyber",
+      "date": "2026-11-05",
+      "link": "https://www.satellitetoday.com/cybersecurity/2026/11/05/dod-must-embrace-autonomous-on-orbit-cyber-defense-dod-cio-official-says/"
     },
     {
       "sourceId": "viasat",
@@ -254,102 +282,74 @@
       "link": "https://www.satellitetoday.com/connectivity/2026/11/05/ses-sees-aviation-defense-momentum-drive-modest-q3-revenue-growth/"
     },
     {
-      "sourceId": "viasat",
-      "title": "KT SAT to Lead South Korea Maritime Connectivity Project With ST Engineering iDirect",
-      "summary": "KT SAT will lead a secure maritime connectivity project for the government of South Korea, working with ST Engineering iDirect, tech company Waldo, and Intellian. Under the project, ST Engineering",
-      "date": "2026-11-05",
-      "link": "https://www.satellitetoday.com/government-military/2026/11/05/kt-sat-to-lead-south-korea-maritime-connectivity-project-with-st-engineering-idirect/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Redwire to Fly Second VLEO Test for DARPA Otter Program",
-      "summary": "DARPA awarded Redwire a $20 million contract to fly a second Very Low Earth Orbit (VLEO) test as part of its Otter program, Redwire announced Thursday. The new award funds",
-      "date": "2026-11-05",
-      "link": "https://www.satellitetoday.com/government-military/2026/11/05/redwire-to-fly-second-vleo-test-for-darpa-otter-program/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Former DoD Official Warns Golden Dome May Not Outlive Trump Presidency",
-      "summary": "Branding that associates the Golden Dome missile shield personally with President Trump, alongside its expected $1 trillion price tag, partisan disputes, and Democratic election victories on Capitol Hill may well",
-      "date": "2026-11-04",
-      "link": "https://www.satellitetoday.com/government-military/2026/11/04/former-dod-official-warns-that-golden-dome-may-not-outlive-trump-presidency/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Viasat, SES, and Astranis Win NASA Ka-band Relay Contracts",
-      "summary": "NASA awarded contracts to Viasat, SES, and Astranis for Ka-band space relay capability concepts, as part of the Space Communications and Navigation (SCaN) program’s Communications Services Project (CSP). Viasat received",
-      "date": "2026-11-04",
-      "link": "https://www.satellitetoday.com/government-military/2026/11/04/viasat-ses-and-astranis-win-nasa-ka-band-relay-contracts/"
+      "sourceId": "spacecom",
+      "title": "See the space race like you’ve never seen it before in PBS’s new living documentary, ‘We Chose to Go to the Moon’",
+      "summary": "Hear Neil Armstrong's son and granddaughter sing a moving tribute to the legendary Apollo 11 astronaut",
+      "date": "2026-11-06",
+      "link": "https://www.space.com/entertainment/space-movies-shows/see-the-space-race-like-youve-never-seen-it-before-in-pbss-new-living-documentary-we-chose-to-go-to-the-moon"
     },
     {
       "sourceId": "spacecom",
-      "title": "Earth has captured a new mini moon — but it won't stick around for long",
-      "summary": "Earth has caught itself a new mini-moon, and QQ8 is sticking around for Christmas.",
-      "date": "2026-11-05",
-      "link": "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long"
+      "title": "You can see another galaxy with the naked eye — here's how to find it",
+      "summary": "The Andromeda galaxy is one of the most distant things you can see with the naked eye. The difficult part isn't finding it. It's believing that faint smudge really is another galaxy.",
+      "date": "2026-11-06",
+      "link": "https://www.space.com/stargazing/you-can-see-another-galaxy-with-the-naked-eye-heres-how-to-find-it"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Nov. 5, 2002: NASA's Galileo spacecraft flies by Jupiter moon Almathea only to find it's a 'pile of icy rubble less dense than water'",
-      "summary": "On Nov. 5, 2002, NASA's old Galileo spacecraft flew by a small moon called Amalthea and made a surprising find. Here's why it mattered.",
-      "date": "2026-11-05",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026"
+      "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
+      "summary": "Astronomers have filtered out starlight from James Webb Space Telescope observations to see a giant exoplanet emerge in the darkness.",
+      "date": "2026-11-06",
+      "link": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight"
     },
     {
       "sourceId": "spacecom",
-      "title": "You don't have to go to the moon to see Earth differently: Artemis II astronaut Victor Glover on what really matters",
-      "summary": "After a record-breaking journey around the moon, Artemis 2 astronaut Victor Glover explains why you don't need to travel into space to see Earth differently.",
-      "date": "2026-11-05",
-      "link": "https://www.space.com/space-exploration/artemis/the-greatest-reason-to-go-to-space-artemis-ii-astronaut-victor-glover-reveals-what-he-discovered-on-his-journey-to-the-moon"
+      "title": "Hera probe gets 1st good look at asteroid system clobbered by NASA's DART mission | Space photo of the day for Nov. 6, 2026",
+      "summary": "The European Space Agency's Hera spacecraft has gotten its first close-up look at the Didymos binary asteroid, the first space rock system \"punched\" by humanity.",
+      "date": "2026-11-06",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "NASA's Voyager 1 probe bounces back from communications glitch in interstellar space",
-      "summary": "NASA's Voyager 1 probe is back in communication after the 49-year-old spacecraft briefly fell silent last month, during its interstellar-space mission.",
-      "date": "2026-11-05",
-      "link": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Earth photobombs spacewalking Canadian astronaut | Space photo of the day for Nov. 5, 2026",
-      "summary": "Canadian astronaut Joshua Kutryk poses for a photo mid-spacewalk on Oct. 29, 2026.",
-      "date": "2026-11-05",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/earth-photobombs-spacewalking-canadian-astronaut-space-photo-of-the-day-for-nov-5-2026"
+      "title": "How to watch 'Musk' online — stream the SpaceX billionaire biography from anywhere",
+      "summary": "How to watch \"Musk\", the new documentary about the World's richest man and CEO of X, SpaceX and Tesla. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
+      "date": "2026-11-06",
+      "link": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-musk-online-stream-the-spacex-billionaire-biography-from-anywhere"
     },
     {
       "sourceId": "rspace",
-      "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xotxy6/do_we_know_how_many_starship_launches_spacex_will/\"> <img src=\"https://external-preview.redd.it/7KdLRB7Aa77lIW3FqTpB-Y5xonnUqyRuxcXXkiWoQJI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c270772ea9c1c5d…",
-      "date": "2026-11-05",
-      "link": "https://www.reddit.com/r/space/comments/1xotxy6/do_we_know_how_many_starship_launches_spacex_will/"
+      "title": "A robotic truss builder has successfully built a structure in space without the help of astronauts, for the first time",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xpkngy/a_robotic_truss_builder_has_successfully_built_a/\"> <img src=\"https://external-preview.redd.it/Ngbu6Q2cmOZBXcZlZnUasyPltRK8V1yQGMlj1tMiec0.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=eed238dbdc28a9928b…",
+      "date": "2026-11-06",
+      "link": "https://www.reddit.com/r/space/comments/1xpkngy/a_robotic_truss_builder_has_successfully_built_a/"
     },
     {
       "sourceId": "rspace",
-      "title": "Stranded scenario",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey fellas, I&#39;ve been rewatching Solar Opposites, and there&#39;s a scene where a blue guy and a green guy are fighting.",
-      "date": "2026-11-05",
-      "link": "https://www.reddit.com/r/space/comments/1xosa45/stranded_scenario/"
+      "title": "Is there any example at all of ANY known astronomical/physical/chemical phenomenon that’s been characterized, yet observed once and only once?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m thinking of the origin of life (abiogenesis), here. I don’t see how anyone can think something like that could happen in a place of such…well, astronomical size, no matter how rare it might be.",
+      "date": "2026-11-06",
+      "link": "https://www.reddit.com/r/space/comments/1xphxl3/is_there_any_example_at_all_of_any_known/"
     },
     {
       "sourceId": "rspace",
-      "title": "Microbes can grow in Mars-like conditions. What that means for the search for life.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xorw5a/microbes_can_grow_in_marslike_conditions_what/\"> <img src=\"https://external-preview.redd.it/-sd4vESRTcDZAMrL0alduNO1-PWdRzxde9fWmh4u6xI.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5d5a8a630f0ee61097ca…",
-      "date": "2026-11-05",
-      "link": "https://www.reddit.com/r/space/comments/1xorw5a/microbes_can_grow_in_marslike_conditions_what/"
+      "title": "NASA's Artemis II moon launch was so powerful it punched a hole in atmosphere, study finds",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/EricTheSpaceReporter\"> /u/EricTheSpaceReporter </a> <br/> <span><a href=\"https://www.usatoday.com/story/tech/space/2026/11/06/nasa-artemis-ii-sls-launch-tore-hole-earth-atmosphere/92640336007/\">[link]</a></span> &#32;…",
+      "date": "2026-11-06",
+      "link": "https://www.reddit.com/r/space/comments/1xphth1/nasas_artemis_ii_moon_launch_was_so_powerful_it/"
     },
     {
       "sourceId": "rspace",
-      "title": "If space is expanding everywhere, shouldn’t it be expanding within our Solar System?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Forgive me as I am just an idiot who likes space. If space is expanding everywhere, shouldn’t it be expanding within our Solar System? For example, wouldn’t the space between our planet and the sun be expanding?",
-      "date": "2026-11-05",
-      "link": "https://www.reddit.com/r/space/comments/1xoo8df/if_space_is_expanding_everywhere_shouldnt_it_be/"
+      "title": "I just got the MeerKAT radio telescope to point tomorrow to the closest Type Ia supernova in over a decade!!!",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fxb97l31di00i1.jpeg\">SN2026ahvu</a> <a href=\"https://www.wis-tns.org/astronotes/astronote/2026-310\">was discovered on Nov 2</a> in NGC 1433, a galaxy 9 Mpc (46 million light…",
+      "date": "2026-11-06",
+      "link": "https://www.reddit.com/r/space/comments/1xph3kl/i_just_got_the_meerkat_radio_telescope_to_point/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Leonids peak on Nov 17. Why a shower that once produced thousands of meteors per minute will give us about 10-15 an hour this year",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The Leonids come from debris left by comet 55P/Tempel-Tuttle. In 1966, observers saw rates of thousands of meteors per minute for about 15 minutes.",
-      "date": "2026-11-05",
-      "link": "https://www.reddit.com/r/space/comments/1xom3vc/the_leonids_peak_on_nov_17_why_a_shower_that_once/"
+      "title": "How space weather powers auroras in the sky and threatens power grids on the ground",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xpguis/how_space_weather_powers_auroras_in_the_sky_and/\"> <img src=\"https://external-preview.redd.it/vt9Y4R8khbaLZyQpN2Xxh8Pm3B3vNbMXzGgTFwdUwB4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=313a1c527635688acb…",
+      "date": "2026-11-06",
+      "link": "https://www.reddit.com/r/space/comments/1xpguis/how_space_weather_powers_auroras_in_the_sky_and/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
+      "title": "M30’s Sparkling Stars",
+      "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken…",
+      "date": "2026-11-06",
+      "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Supercomputing Tech Demo Schedule",
+      "summary": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe…",
+      "date": "2026-11-06",
+      "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "APOD: 2026 November 6 – A Farewell to Swift",
+      "summary": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-11-06",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Taking a Gander at Utah’s Goosenecks",
+      "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
+      "date": "2026-11-06",
+      "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "Midwestern City Lights",
       "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region.",
       "date": "2026-11-05",
       "link": "https://www.nasa.gov/image-article/midwestern-city-lights/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Astronauts to Answer Questions from Florida Students",
-      "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov.",
-      "date": "2026-11-05",
-      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Hubble Learns Galactic History From Stars",
-      "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
-      "date": "2026-11-05",
-      "link": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-      "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-11-05",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-      "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
-      "date": "2026-11-05",
-      "link": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/"
     }
   ]
 }
