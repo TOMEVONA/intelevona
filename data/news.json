@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T19:53:50.990Z",
+  "updated": "2026-11-06T20:11:56.344Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Army, Partner Forces Begin Simulated Combat in Hawaii",
+      "summary": "After days of preparation and staging across the Hawaiian archipelago, U.S. Army forces and their multinational partners began training against opposing forces during a Joint Pacific Multinational Readiness Center Rotation.",
+      "date": "2026-11-06",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4643631/army-partner-forces-begin-simulated-combat-in-hawaii/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Air Force, Secret Service Strengthen Counter-Drone Readiness",
       "summary": "Joint Interagency Task Force 401 conducted counter-drone training with the Air Force's 6th Security Forces Squadron and U.S. Secret Service agents at MacDill Air Force Base, Florida, strengthening their ability to defend critical installations and infrastructure against evolving…",
       "date": "2026-11-05",
@@ -240,11 +247,11 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4641652/centcom-benefits-from-project-agincourt-drone-dominance-efforts/"
     },
     {
-      "sourceId": "dod",
-      "title": "U.S., Colombia Launch Joint Exercise to Strengthen Readiness, Regional Security",
-      "summary": "The U.S. and Colombian armies officially launched Exercise Southern Vanguard 2027 during a ceremony in Tolemaida, Colombia, bringing together approximately 800 military personnel to strengthen interoperability, readiness and bilateral security cooperation.",
-      "date": "2026-11-04",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4641347/us-colombia-launch-joint-exercise-to-strengthen-readiness-regional-security/"
+      "sourceId": "viasat",
+      "title": "Viasat Q2: Defense Growth, Aviation Headwinds, and New Compensation Incentives",
+      "summary": "Viasat reported modest 3% revenue growth in its second fiscal quarter of 2027, as double-digit growth in the defense segment was largely offset by declines in communications revenue. Along with",
+      "date": "2026-11-06",
+      "link": "https://www.satellitetoday.com/connectivity/2026/11/06/viasat-q2-defense-growth-aviation-headwinds-and-new-compensation-incentives/"
     },
     {
       "sourceId": "viasat",
@@ -275,11 +282,11 @@
       "link": "https://www.satellitetoday.com/cybersecurity/2026/11/05/dod-must-embrace-autonomous-on-orbit-cyber-defense-dod-cio-official-says/"
     },
     {
-      "sourceId": "viasat",
-      "title": "SES Sees Aviation, Defense Momentum Drive Modest Q3 Revenue Growth",
-      "summary": "Growth in aviation and defense pushed SES’s Networks segment 6% revenue growth in the third quarter on a like-for-like (LFL) basis, as overall revenue grew by a modest 4.2% year-over-year.",
-      "date": "2026-11-05",
-      "link": "https://www.satellitetoday.com/connectivity/2026/11/05/ses-sees-aviation-defense-momentum-drive-modest-q3-revenue-growth/"
+      "sourceId": "spacecom",
+      "title": "I finally got my hands on the Unistellar Envision smart binoculars with augmented reality and I can’t wait to stargaze with them",
+      "summary": "The Unistellar Envision smart binoculars have an augmented reality (AR) overlay that provides smart functionality to 10x50 binoculars, enabling night sky and landmark identification.",
+      "date": "2026-11-06",
+      "link": "https://www.space.com/stargazing/skywatching-kit/i-finally-got-my-hands-on-the-unistellar-envision-smart-binoculars-with-augmented-reality-for-the-night-sky-heres-what-theyre-like"
     },
     {
       "sourceId": "spacecom",
@@ -308,13 +315,6 @@
       "summary": "The European Space Agency's Hera spacecraft has gotten its first close-up look at the Didymos binary asteroid, the first space rock system \"punched\" by humanity.",
       "date": "2026-11-06",
       "link": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "How to watch 'Musk' online — stream the SpaceX billionaire biography from anywhere",
-      "summary": "How to watch \"Musk\", the new documentary about the World's richest man and CEO of X, SpaceX and Tesla. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
-      "date": "2026-11-06",
-      "link": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-musk-online-stream-the-spacex-billionaire-biography-from-anywhere"
     },
     {
       "sourceId": "rspace",
