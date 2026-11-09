@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-08T18:36:30.267Z",
+  "updated": "2026-11-09T22:55:27.928Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
+      "summary": "Washington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet access,",
+      "date": "2026-11-09",
+      "link": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/"
+    },
     {
       "sourceId": "spacenews",
       "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
@@ -28,13 +35,6 @@
       "summary": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200",
       "date": "2026-11-03",
       "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
-      "summary": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites",
-      "date": "2026-11-03",
-      "link": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,20 @@
     },
     {
       "sourceId": "ussf",
+      "title": "Air Force JAG Corps rolls out military justice reforms, force development initiatives to cut pretrial delays, improve readiness",
+      "summary": "The Judge Advocate General of the Air Force, has implemented several initial reforms across the DAF military justice system and the JAG Corps.",
+      "date": "2026-11-09",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4644894/air-force-jag-corps-rolls-out-military-justice-reforms-force-development-initia/"
+    },
+    {
+      "sourceId": "ussf",
+      "title": "Space Force leaders advance shared commitments for allied space power at Global MILSATCOM",
+      "summary": "Conference discussions centered on expanding partnerships, co-investing in resilient satellite communications architectures and establishing pre-crisis agreements to strengthen deterrence and spectrum dominance.<br/> <img…",
+      "date": "2026-11-09",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4644592/space-force-leaders-advance-shared-commitments-for-allied-space-power-at-global/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "AFAS offers financial assistance for counseling, therapy",
       "summary": "Eligible Airmen and Guardians can receive up to $600 for counseling or therapy, with the same amount available to each eligible family member, up to $2,400 per family per calendar year.",
       "date": "2026-11-06",
@@ -198,18 +212,11 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4639732/ussf-field-command-leaders-appeal-to-commercial-space-industry-at-space-industr/"
     },
     {
-      "sourceId": "ussf",
-      "title": "DAF announces Spark Tank 2026 Top 5",
-      "summary": "The Department of the Air Force's Spark Tank program has concluded its final year, narrowing 350 total submissions down to the Top 5 ideas.<br/>",
-      "date": "2026-11-02",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4638883/daf-announces-spark-tank-2026-top-5/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "Space Forces-Northern changes command at Peterson SFB",
-      "summary": "U.S. Space Forces-Northern held a change of command ceremony, transferring leadership from Brig. Gen. Robert J. Schreiner to Brig. Gen. Phillip A. Verroco.<br/> <img src='https://media.defense.gov/2026/Oct/15/2004015224/300/300/0/261013-F-TD082-1003.JPG' alt='Gen.",
-      "date": "2026-10-15",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4626378/space-forces-northern-changes-command-at-peterson-sfb/"
+      "sourceId": "dod",
+      "title": "Hegseth Mandates Military Education Reform",
+      "summary": "Declaring that the fundamental duty of America's armed forces is to assure victory in war, Secretary of War Pete Hegseth said the nation's senior service colleges must have a curriculum that underpins that duty during a speech at the U.S. Naval War College.",
+      "date": "2026-11-09",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4645001/hegseth-mandates-military-education-reform/"
     },
     {
       "sourceId": "dod",
@@ -240,116 +247,109 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4642910/air-force-secret-service-strengthen-counter-drone-readiness/"
     },
     {
-      "sourceId": "dod",
-      "title": "Exercise Mountain Peak Tests Soldiers' Combat Readiness at Fort Drum",
-      "summary": "Soldiers assigned to the 10th Mountain Division's 1st Mobile Brigade Combat Team tested their combat readiness during Exercise Mountain Peak at Fort Drum, N.Y.",
-      "date": "2026-11-05",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4642632/exercise-mountain-peak-tests-soldiers-combat-readiness-at-fort-drum/"
+      "sourceId": "viasat",
+      "title": "What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty and the Path Forward",
+      "summary": "The recent Starlink and Starshield disruptions in Ukraine put satcom access in the center of international news. Ukrainian forces experienced a slowdown in access to Starlink and Starshield that impacted",
+      "date": "2026-11-09",
+      "link": "https://www.satellitetoday.com/podcast/2026/11/09/what-starlink-restrictions-in-ukraine-reveal-about-europes-space-sovereignty-and-the-path-forward/"
     },
     {
       "sourceId": "viasat",
-      "title": "Viasat Receives Up to $450 Million Contract for SDN-B Mission Operations Center",
-      "summary": "U.S. Space Force Space Systems Command (SSC) said on Thursday that it has awarded an up to $450 million contract to Viasat for a Space Data Network-Backbone (SDN-B) Mission Operations Center",
-      "date": "2026-11-06",
-      "link": "https://www.satellitetoday.com/government-military/2026/11/06/viasat-receives-up-to-450-million-contract-for-sdn-b-mission-operations-center/"
+      "title": "The Achilles Heel of Space-Based Systems: APIs are Easy to Hack",
+      "summary": "Application programming interfaces, or APIs, are the “Rosetta Stone” of IT, letting different software programs talk to each other and users to authenticate across different systems. APIs are also one",
+      "date": "2026-11-09",
+      "link": "https://www.satellitetoday.com/cybersecurity/2026/11/09/the-achilles-heel-of-space-based-systems-apis-are-easy-to-hack/"
     },
     {
       "sourceId": "viasat",
-      "title": "Colorado-Based Launcher Takes Scottish Leap of Faith",
-      "summary": "LEAP a Colorado-based company, has signed a deal as it looks to develop better international launch capabilities. It plans to develop recurring launch operations at a launch site in Sutherland,",
-      "date": "2026-11-06",
-      "link": "https://www.satellitetoday.com/launch/2026/11/06/colorado-based-launcher-takes-scottish-leap-of-faith/"
+      "title": "NASA Makes Major Contract Awards for Moon Base Development",
+      "summary": "NASA awarded a batch of contracts for developing a future Moon Base for lunar transportation services, a rover, and communications capabilities. NASA named eight companies to its Commercial Lunar Payload",
+      "date": "2026-11-09",
+      "link": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/"
     },
     {
       "sourceId": "viasat",
-      "title": "Viasat Q2: Defense Growth, Aviation Headwinds, and New Compensation Incentives",
-      "summary": "Viasat reported modest 3% revenue growth in its second fiscal quarter of 2027, as double-digit growth in the defense segment was largely offset by declines in communications revenue. Along with",
-      "date": "2026-11-06",
-      "link": "https://www.satellitetoday.com/connectivity/2026/11/06/viasat-q2-defense-growth-aviation-headwinds-and-new-compensation-incentives/"
+      "title": "Planet Taps Stoke Space for New Launch Deal",
+      "summary": "Planet Labs (Planet) has made a significant move in the launch services arena thanks to a new major multi-launch agreement with Stoke Space Technologies. Under a new, multi-launch agreement, Planet",
+      "date": "2026-11-09",
+      "link": "https://www.satellitetoday.com/launch/2026/11/09/planet-taps-stoke-space-for-new-launch-deal/"
     },
     {
       "sourceId": "viasat",
-      "title": "Rocket Lab’s Setback Shows Why Space Needs More Launch Providers",
-      "summary": "When Rocket Lab said that it would push back the first flight of its Neutron rocket until 2027, investors reacted as you might expect. The company’s shares fell by around",
-      "date": "2026-11-06",
-      "link": "https://www.satellitetoday.com/opinion/2026/11/06/rocket-labs-setback-shows-why-space-needs-more-launch-providers/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "CesiumAstro Raises $730M Series D to Fund Synchronicity Constellation",
-      "summary": "CesiumAstro raised its second round of capital this year to value the company at more than $4.5 billion as it plans to build its own satellite constellation called Synchronicity for",
-      "date": "2026-11-06",
-      "link": "https://www.satellitetoday.com/finance/2026/11/06/cesiumastro-raises-730m-series-d-to-fund-synchronicity-constellation/"
+      "title": "AST SpaceMobile Forms Joint Venture With Rakuten in Japan for J-LEO Project",
+      "summary": "AST SpaceMobile and Rakuten have formed a new joint venture to provide direct-to-device (D2D) services in Japan. This comes as the Japanese government selected a Rakuten proposal for the J-LEO",
+      "date": "2026-11-09",
+      "link": "https://www.satellitetoday.com/connectivity/2026/11/09/ast-spacemobile-forms-joint-venture-with-rakuten-in-japan-for-j-leo-project/"
     },
     {
       "sourceId": "spacecom",
-      "title": "Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary",
-      "summary": "Before the rise of online entertainment sites, this is where genre fans got their news",
-      "date": "2026-11-08",
-      "link": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary"
+      "title": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
+      "summary": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
+      "date": "2026-11-09",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus",
-      "summary": "On Nov. 8, 2005, Europe launched its first mission to Venus. Here's why Venus Express mattered.",
-      "date": "2026-11-08",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026"
+      "title": "Jupiter and Mars are set for a breathtaking close approach later this week: Here's how to see it",
+      "summary": "Jupiter and Mars will appear incredibly close as they shine in the constellation Leo on Nov. 15.",
+      "date": "2026-11-09",
+      "link": "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it"
     },
     {
       "sourceId": "spacecom",
-      "title": "Who is King Ghidorah? The cosmic connections of Godzilla Minus Zero's foe",
-      "summary": "Godzilla will go toe-to-toe with long-time foe King Ghidorah in Godzilla Minus Zero. This three-headed Kaiju's origins aren't just space-based; one of the largest structures in the universe shares its name.",
-      "date": "2026-11-08",
-      "link": "https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe"
+      "title": "Are the James Webb Space Telescope's mysterious Little Red Dots actually tiny black holes left over from the Big Bang era?",
+      "summary": "New research suggests that Little Red Dots, which have puzzled astronomers since the JWST began discovering them, could host primordial black holes born during the Big Bang.",
+      "date": "2026-11-09",
+      "link": "https://www.space.com/astronomy/black-holes/are-the-james-webb-space-telescopes-mysterious-little-red-dots-actually-tiny-black-holes-left-over-from-the-big-bang-era"
     },
     {
       "sourceId": "spacecom",
-      "title": "Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds",
-      "summary": "By modeling how a planet without life develops its atmosphere, astronomers hope to be able to better distinguish rocky planets without life from those that are inhabited.",
-      "date": "2026-11-08",
-      "link": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds"
+      "title": "NYT bestseller ‘Robopocalypse’ is getting a TV series with Oscar winners Ron Howard and Akiva Goldsman at the helm",
+      "summary": "Well, this should be a nice distraction from the real AI apocalypse.",
+      "date": "2026-11-09",
+      "link": "https://www.space.com/entertainment/space-movies-shows/nyt-bestseller-robopocalypse-is-getting-a-tv-series-with-oscar-winners-ron-howard-and-akiva-goldsman-at-the-helm"
     },
     {
       "sourceId": "spacecom",
-      "title": "This Week In Space podcast: Episode 235 — Robots in Dark and Scary Places",
-      "summary": "On Episode 235 of This Week In Space, Tariq Malik and Rod Pyle are joined by Dr. Jim Green to talk about the past, present, and future of planetary exploration.",
-      "date": "2026-11-07",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-235-robots-in-dark-and-scary-places"
+      "title": "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission",
+      "summary": "Starfish Space's first Otter servicing spacecraft suffered a glitch in orbit recently, ending its technology-demonstrating mission for NASA.",
+      "date": "2026-11-09",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission"
     },
     {
       "sourceId": "rspace",
-      "title": "Looking for feedback on site plumetail",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I don&#39;t get to go see the rockets take off, so i made a simulated one with all sorts of other goodies. </p> <p>Plumetail.com</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Grand_rooster\">…",
-      "date": "2026-11-08",
-      "link": "https://www.reddit.com/r/space/comments/1xr5c6d/looking_for_feedback_on_site_plumetail/"
+      "title": "NASA Advanced Mid-Power Electric Rocket Challenge - NASA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xs6cug/nasa_advanced_midpower_electric_rocket_challenge/\"> <img src=\"https://external-preview.redd.it/cQPFNTv-RCKOa9Zq1DqtIpsLccNctRNIhfh2pOIqxG8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e08bcc1e4478c78b…",
+      "date": "2026-11-09",
+      "link": "https://www.reddit.com/r/space/comments/1xs6cug/nasa_advanced_midpower_electric_rocket_challenge/"
     },
     {
       "sourceId": "rspace",
-      "title": "All Space Questions thread for week of November 08, 2026",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please sort comments by &#39;new&#39; to find questions that would otherwise be buried.</p> <p>In this thread you can ask any space related question that you may have.</p> <p>Two examples of potential questions could be; \"How do rockets work?\",…",
-      "date": "2026-11-08",
-      "link": "https://www.reddit.com/r/space/comments/1xr35ss/all_space_questions_thread_for_week_of_november/"
+      "title": "Interview With Jared Issacman",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Tim Dodd interviews Jared Issacman.</p> <p><a href=\"https://www.youtube.com/watch?v=ujfF_SnxvZQ\">https://www.youtube.com/watch?v=ujfF_SnxvZQ</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/msears101\">…",
+      "date": "2026-11-09",
+      "link": "https://www.reddit.com/r/space/comments/1xs50db/interview_with_jared_issacman/"
     },
     {
       "sourceId": "rspace",
-      "title": "UK Launches Titania Military Satellite to Test Laser Communications",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xr34e6/uk_launches_titania_military_satellite_to_test/\"> <img src=\"https://external-preview.redd.it/e8KhrCmaYZeAhOEdFkyUvLXBV-GtWeuepmEtu0zZKmI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4de67c4823d94c7275…",
-      "date": "2026-11-08",
-      "link": "https://www.reddit.com/r/space/comments/1xr34e6/uk_launches_titania_military_satellite_to_test/"
+      "title": "James Webb Space Telescope's \"Little Red Dots\" could hold key to primordial black holes — tiny theoretical objects from the Big Bang era that predate the existence of stars, galactic dust particles, and heavier elements",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ChiefLeef22\"> /u/ChiefLeef22 </a> <br/> <span><a href=\"https://hub.jhu.edu/2026/11/04/james-webb-little-red-dots-primordial-black-holes/\">[link]</a></span> &#32; <span><a…",
+      "date": "2026-11-09",
+      "link": "https://www.reddit.com/r/space/comments/1xs4hg4/james_webb_space_telescopes_little_red_dots_could/"
     },
     {
       "sourceId": "rspace",
-      "title": "APOD: 2026 November 8 - Major Fireball Meteor - NASA Science",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xqx8n8/apod_2026_november_8_major_fireball_meteor_nasa/\"> <img src=\"https://external-preview.redd.it/YTFAAFJg3B22h4UKysnrA_DBURt__94_SrcXnr4NqG0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80ea3e23dd8e67eea0…",
-      "date": "2026-11-08",
-      "link": "https://www.reddit.com/r/space/comments/1xqx8n8/apod_2026_november_8_major_fireball_meteor_nasa/"
+      "title": "Do you believe there is complex life out there?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I know planets need extremely specific conditions, and I&#39;m not talking human level life, I&#39;m talking like, mammals, reptiles, etc.",
+      "date": "2026-11-09",
+      "link": "https://www.reddit.com/r/space/comments/1xs3s12/do_you_believe_there_is_complex_life_out_there/"
     },
     {
       "sourceId": "rspace",
-      "title": "My HDR Total Solar Eclipse from Spain this year - details in the comments",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xqx8gv/my_hdr_total_solar_eclipse_from_spain_this_year/\"> <img src=\"https://preview.redd.it/sta5qrj3td0i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=69b92c41003d8626f86e2fb3eac0a9bec3c422ee\" alt=\"My HDR…",
-      "date": "2026-11-08",
-      "link": "https://www.reddit.com/r/space/comments/1xqx8gv/my_hdr_total_solar_eclipse_from_spain_this_year/"
+      "title": "The Apollo 11 crew’s customs declaration listed their cargo as “moon rock and moon dust samples”",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Came across this on the U.S. Customs website. It’s the declaration signed by Armstrong, Aldrin and Collins after Apollo 11.</p> <p>Apparently it was done as a joke, which makes the paperwork even better.</p> </div><!-- SC_ON --> &#32; submitted…",
+      "date": "2026-11-09",
+      "link": "https://www.reddit.com/r/space/comments/1xs1xhp/the_apollo_11_crews_customs_declaration_listed/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
-      "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S.",
-      "date": "2026-11-08",
-      "link": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+      "title": "Rubies on Mars?",
+      "summary": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected.",
+      "date": "2026-11-09",
+      "link": "https://science.nasa.gov/blog/rubies-on-mars/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
-      "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-11-08",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/"
+      "title": "Newest Sample, Oldest Rock?",
+      "summary": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence.",
+      "date": "2026-11-09",
+      "link": "https://science.nasa.gov/blog/newest-sample-oldest-rock/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-      "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities.",
-      "date": "2026-11-07",
-      "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+      "title": "La NASA busca a la próxima generación de astronautas",
+      "summary": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados.",
+      "date": "2026-11-09",
+      "link": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-      "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed…",
-      "date": "2026-11-07",
-      "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object…",
+      "date": "2026-11-09",
+      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
-      "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-11-07",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/"
+      "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+      "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions.",
+      "date": "2026-11-09",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/"
     }
   ]
 }
