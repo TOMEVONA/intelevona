@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-09T23:14:38.007Z",
+  "updated": "2026-11-10T20:20:41.967Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+      "summary": "SAN DIEGO, CA, November 10, 2026 – Kratos Defense & Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate",
+      "date": "2026-11-10",
+      "link": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "ESCAPADE on its way to Mars after Earth flybys",
+      "summary": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch. The post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews .",
+      "date": "2026-11-10",
+      "link": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/"
+    },
     {
       "sourceId": "spacenews",
       "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
@@ -21,20 +35,6 @@
       "summary": "Mozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight",
       "date": "2026-11-05",
       "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
-      "summary": "In this episode, SpaceNews’ Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that “catapults” small launch vehicles could cut down on",
-      "date": "2026-11-05",
-      "link": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-      "summary": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200",
-      "date": "2026-11-03",
-      "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/"
     },
     {
       "sourceId": "tectonic",
@@ -248,6 +248,20 @@
     },
     {
       "sourceId": "viasat",
+      "title": "Rocket Lab Secures Half a Billion in Neutron Launch Orders in Q3",
+      "summary": "Rocket Lab is seeing strong demand for its launch business, hitting a record backlog of 117 missions across Electron, Neutron, and HASTE hypersonic suborbital launches. During the third quarter, Rocket",
+      "date": "2026-11-10",
+      "link": "https://www.satellitetoday.com/launch/2026/11/10/rocket-lab-secures-half-a-billion-in-neutron-launch-orders-in-q3/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Synspective Orders 10 Launches on Firefly’s Alpha Rocket",
+      "summary": "Japanese synthetic aperture radar (SAR) provider Synspective ordered 10 launches on Firefly Aerospace’s Alpha rocket, planned through 2030. This is a new customer for Firefly, which plans to launch the",
+      "date": "2026-11-10",
+      "link": "https://www.satellitetoday.com/launch/2026/11/10/synspective-orders-10-launches-on-fireflys-alpha-rocket/"
+    },
+    {
+      "sourceId": "viasat",
       "title": "What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty and the Path Forward",
       "summary": "The recent Starlink and Starshield disruptions in Ukraine put satcom access in the center of international news. Ukrainian forces experienced a slowdown in access to Starlink and Starshield that impacted",
       "date": "2026-11-09",
@@ -268,88 +282,74 @@
       "link": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Planet Taps Stoke Space for New Launch Deal",
-      "summary": "Planet Labs (Planet) has made a significant move in the launch services arena thanks to a new major multi-launch agreement with Stoke Space Technologies. Under a new, multi-launch agreement, Planet",
-      "date": "2026-11-09",
-      "link": "https://www.satellitetoday.com/launch/2026/11/09/planet-taps-stoke-space-for-new-launch-deal/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "AST SpaceMobile Forms Joint Venture With Rakuten in Japan for J-LEO Project",
-      "summary": "AST SpaceMobile and Rakuten have formed a new joint venture to provide direct-to-device (D2D) services in Japan. This comes as the Japanese government selected a Rakuten proposal for the J-LEO",
-      "date": "2026-11-09",
-      "link": "https://www.satellitetoday.com/connectivity/2026/11/09/ast-spacemobile-forms-joint-venture-with-rakuten-in-japan-for-j-leo-project/"
+      "sourceId": "spacecom",
+      "title": "How to watch 'We Chose to Go to the Moon' online — stream space race stage show from anywhere",
+      "summary": "How to stream \"We Chose to Go to the Moon\", a live broadcast of the dazzling new stage retelling of the space race story.",
+      "date": "2026-11-10",
+      "link": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-we-chose-to-go-to-the-moon-online-stream-space-race-stage-show-from-anywhere"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
-      "summary": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
-      "date": "2026-11-09",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026"
+      "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
+      "summary": "Follow live updates as SpaceX attempts its Starship Flight 15 test flight with first double landings.",
+      "date": "2026-11-10",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt"
     },
     {
       "sourceId": "spacecom",
-      "title": "Jupiter and Mars are set for a breathtaking close approach later this week: Here's how to see it",
-      "summary": "Jupiter and Mars will appear incredibly close as they shine in the constellation Leo on Nov. 15.",
-      "date": "2026-11-09",
-      "link": "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it"
+      "title": "Uranus has a weird magnetic field that's stumped scientists for 40 years — we may finally know why",
+      "summary": "The lopsided magnetic fields of Uranus and Neptune could be the product of extreme conditions inside the planets, increasing the electrical conductivity that enhances the dynamo effect.",
+      "date": "2026-11-10",
+      "link": "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune"
     },
     {
       "sourceId": "spacecom",
-      "title": "Are the James Webb Space Telescope's mysterious Little Red Dots actually tiny black holes left over from the Big Bang era?",
-      "summary": "New research suggests that Little Red Dots, which have puzzled astronomers since the JWST began discovering them, could host primordial black holes born during the Big Bang.",
-      "date": "2026-11-09",
-      "link": "https://www.space.com/astronomy/black-holes/are-the-james-webb-space-telescopes-mysterious-little-red-dots-actually-tiny-black-holes-left-over-from-the-big-bang-era"
+      "title": "Were there 'lost cosmonauts' in the early Soviet space program?",
+      "summary": "At the height of the Cold War, two amateur radio operators alleged they intercepted signals from Soviet cosmonauts who perished during missions that remained secret.",
+      "date": "2026-11-10",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program"
     },
     {
       "sourceId": "spacecom",
-      "title": "NYT bestseller ‘Robopocalypse’ is getting a TV series with Oscar winners Ron Howard and Akiva Goldsman at the helm",
-      "summary": "Well, this should be a nice distraction from the real AI apocalypse.",
-      "date": "2026-11-09",
-      "link": "https://www.space.com/entertainment/space-movies-shows/nyt-bestseller-robopocalypse-is-getting-a-tv-series-with-oscar-winners-ron-howard-and-akiva-goldsman-at-the-helm"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission",
-      "summary": "Starfish Space's first Otter servicing spacecraft suffered a glitch in orbit recently, ending its technology-demonstrating mission for NASA.",
-      "date": "2026-11-09",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission"
+      "title": "A robot just built a structure autonomously in space for the 1st time ever",
+      "summary": "A robot built part of an antenna in orbit recently, showcasing skills that could potentially allow the assembly of space telescopes and other large structures off Earth.",
+      "date": "2026-11-10",
+      "link": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA Advanced Mid-Power Electric Rocket Challenge - NASA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xs6cug/nasa_advanced_midpower_electric_rocket_challenge/\"> <img src=\"https://external-preview.redd.it/cQPFNTv-RCKOa9Zq1DqtIpsLccNctRNIhfh2pOIqxG8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e08bcc1e4478c78b…",
-      "date": "2026-11-09",
-      "link": "https://www.reddit.com/r/space/comments/1xs6cug/nasa_advanced_midpower_electric_rocket_challenge/"
+      "title": "Scout 2 Project",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xsvckm/scout_2_project/\"> <img src=\"https://preview.redd.it/y40oxgmlzt0i1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=842f495370f63916016d1c7aa7d39718bdb56ed2\" alt=\"Scout 2 Project\" title=\"Scout 2 Project\"…",
+      "date": "2026-11-10",
+      "link": "https://www.reddit.com/r/space/comments/1xsvckm/scout_2_project/"
     },
     {
       "sourceId": "rspace",
-      "title": "Interview With Jared Issacman",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Tim Dodd interviews Jared Issacman.</p> <p><a href=\"https://www.youtube.com/watch?v=ujfF_SnxvZQ\">https://www.youtube.com/watch?v=ujfF_SnxvZQ</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/msears101\">…",
-      "date": "2026-11-09",
-      "link": "https://www.reddit.com/r/space/comments/1xs50db/interview_with_jared_issacman/"
+      "title": "Vast Space sued by Axiom for allegedly using Axiom’s proprietary mission integration plans in a Vast proposal to NASA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xstt47/vast_space_sued_by_axiom_for_allegedly_using/\"> <img src=\"https://external-preview.redd.it/TNqCk_i01Z7RpQQxr2pVNpz7Rq658X1aDDdfEqhCrGg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2f00d07b5e85b09ae0e9…",
+      "date": "2026-11-10",
+      "link": "https://www.reddit.com/r/space/comments/1xstt47/vast_space_sued_by_axiom_for_allegedly_using/"
     },
     {
       "sourceId": "rspace",
-      "title": "James Webb Space Telescope's \"Little Red Dots\" could hold key to primordial black holes — tiny theoretical objects from the Big Bang era that predate the existence of stars, galactic dust particles, and heavier elements",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ChiefLeef22\"> /u/ChiefLeef22 </a> <br/> <span><a href=\"https://hub.jhu.edu/2026/11/04/james-webb-little-red-dots-primordial-black-holes/\">[link]</a></span> &#32; <span><a…",
-      "date": "2026-11-09",
-      "link": "https://www.reddit.com/r/space/comments/1xs4hg4/james_webb_space_telescopes_little_red_dots_could/"
+      "title": "NASA officially planning to reopen inquiry to return samples collected by Perseverance Rover on Mars / One-year study begins Jan ‘27",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Reminder that the United States Congress had passed a NASA budget back in January that did not support the Mars Sample Return program, and NASA officials were sending signals that the MSR program was effectively dead.</p> <p>Well, seems like…",
+      "date": "2026-11-10",
+      "link": "https://www.reddit.com/r/space/comments/1xspun8/nasa_officially_planning_to_reopen_inquiry_to/"
     },
     {
       "sourceId": "rspace",
-      "title": "Do you believe there is complex life out there?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I know planets need extremely specific conditions, and I&#39;m not talking human level life, I&#39;m talking like, mammals, reptiles, etc.",
-      "date": "2026-11-09",
-      "link": "https://www.reddit.com/r/space/comments/1xs3s12/do_you_believe_there_is_complex_life_out_there/"
+      "title": "Spain Develops EO Master Platform for Automated Intelligence With Satellite Imagery",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xso2hx/spain_develops_eo_master_platform_for_automated/\"> <img src=\"https://external-preview.redd.it/i7TVlPywuZmULWnWelpL3OTvQJ0M0IdTsw0Lm8YAg9g.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8646b872adae36bfc3…",
+      "date": "2026-11-10",
+      "link": "https://www.reddit.com/r/space/comments/1xso2hx/spain_develops_eo_master_platform_for_automated/"
     },
     {
       "sourceId": "rspace",
-      "title": "The Apollo 11 crew’s customs declaration listed their cargo as “moon rock and moon dust samples”",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Came across this on the U.S. Customs website. It’s the declaration signed by Armstrong, Aldrin and Collins after Apollo 11.</p> <p>Apparently it was done as a joke, which makes the paperwork even better.</p> </div><!-- SC_ON --> &#32; submitted…",
-      "date": "2026-11-09",
-      "link": "https://www.reddit.com/r/space/comments/1xs1xhp/the_apollo_11_crews_customs_declaration_listed/"
+      "title": "First known disappearing planet has a neighbor that makes it wobble like a top",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xsixaj/first_known_disappearing_planet_has_a_neighbor/\"> <img src=\"https://external-preview.redd.it/RTjuTlbsSuFNnQ54xvIO2rGG_lm8wHUSHAHmPfZ2Kcg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8cadad6200cd2585091…",
+      "date": "2026-11-10",
+      "link": "https://www.reddit.com/r/space/comments/1xsixaj/first_known_disappearing_planet_has_a_neighbor/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "Rubies on Mars?",
-      "summary": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected.",
-      "date": "2026-11-09",
-      "link": "https://science.nasa.gov/blog/rubies-on-mars/"
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers).",
+      "date": "2026-11-10",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
     },
     {
       "sourceId": "nasa",
-      "title": "Newest Sample, Oldest Rock?",
-      "summary": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence.",
-      "date": "2026-11-09",
-      "link": "https://science.nasa.gov/blog/newest-sample-oldest-rock/"
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station.",
+      "date": "2026-11-10",
+      "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/"
     },
     {
       "sourceId": "nasa",
-      "title": "La NASA busca a la próxima generación de astronautas",
-      "summary": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados.",
-      "date": "2026-11-09",
-      "link": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/"
+      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses.",
+      "date": "2026-11-10",
+      "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
-      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object…",
-      "date": "2026-11-09",
-      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
+      "title": "CHAPEA Crew Leaves a Mark",
+      "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct.",
+      "date": "2026-11-10",
+      "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
-      "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions.",
-      "date": "2026-11-09",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/"
+      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+      "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-11-10",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/"
     }
   ]
 }
