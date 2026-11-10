@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T20:20:41.967Z",
+  "updated": "2026-11-10T20:40:27.789Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,20 @@
     },
     {
       "sourceId": "dod",
+      "title": "Hegseth, Polish Counterpart Announce Intent to Boost Military Cooperation",
+      "summary": "Secretary of War Pete Hegseth hosted Władysław Kosiniak-Kamysz, Poland's deputy prime minister and defense minister, during a bilateral engagement at the Pentagon.",
+      "date": "2026-11-10",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4646088/hegseth-polish-counterpart-announce-intent-to-boost-military-cooperation/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Hegseth: Impeachment Over Policy Disagreement Sends Wrong Signal to Adversaries",
+      "summary": "Secretary of War Pete Hegseth, facing the threat of impeachment, detailed a record of successful operations on his watch during a press briefing at the Pentagon.",
+      "date": "2026-11-10",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4645996/hegseth-impeachment-over-policy-disagreement-sends-wrong-signal-to-adversaries/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Navy Command Builds on Training Partnership During South Korean Visit",
       "summary": "U.S. Navy Rear Adm. Greg Huffman met with South Korean navy leaders and delivered remarks aboard the ROKS Hansando during the ship's first port call at Naval Air Station Pensacola, Fla. He emphasized the role of allied partnerships in naval education and training.",
       "date": "2026-11-09",
@@ -233,18 +247,11 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4643775/defense-logistics-agency-adds-2-billion-in-critical-material-support-to-nationa/"
     },
     {
-      "sourceId": "dod",
-      "title": "Acting Navy Secretary Visits Blount Island, Observes How It Equips Marines Worldwide",
-      "summary": "Acting Navy Secretary Hung Cao visited Blount Island, Fla., to see how its workforce and waterfront facilities prepare and position equipment for Marines worldwide. The visit highlighted the installation's role in sustaining deployed forces and supporting fleet readiness.",
-      "date": "2026-11-06",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4643614/acting-navy-secretary-visits-blount-island-observes-how-it-equips-marines-world/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Army, Partner Forces Begin Simulated Combat in Hawaii",
-      "summary": "After days of preparation and staging across the Hawaiian archipelago, U.S. Army forces and their multinational partners began training against opposing forces during a Joint Pacific Multinational Readiness Center Rotation.",
-      "date": "2026-11-06",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4643631/army-partner-forces-begin-simulated-combat-in-hawaii/"
+      "sourceId": "viasat",
+      "title": "Political Paralysis Cannot be Allowed to Undermine America’s Strategic Edge in Space",
+      "summary": "The U.S. midterms have dramatically shifted the balance of power in Washington. With Democrats taking control of Congress, President Trump now faces a legislature with both the power and appetite",
+      "date": "2026-11-10",
+      "link": "https://www.satellitetoday.com/opinion/2026/11/10/political-paralysis-cannot-be-allowed-to-undermine-americas-strategic-edge-in-space/"
     },
     {
       "sourceId": "viasat",
@@ -273,13 +280,6 @@
       "summary": "Application programming interfaces, or APIs, are the “Rosetta Stone” of IT, letting different software programs talk to each other and users to authenticate across different systems. APIs are also one",
       "date": "2026-11-09",
       "link": "https://www.satellitetoday.com/cybersecurity/2026/11/09/the-achilles-heel-of-space-based-systems-apis-are-easy-to-hack/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "NASA Makes Major Contract Awards for Moon Base Development",
-      "summary": "NASA awarded a batch of contracts for developing a future Moon Base for lunar transportation services, a rover, and communications capabilities. NASA named eight companies to its Commercial Lunar Payload",
-      "date": "2026-11-09",
-      "link": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/"
     },
     {
       "sourceId": "spacecom",
@@ -339,17 +339,17 @@
     },
     {
       "sourceId": "rspace",
-      "title": "Spain Develops EO Master Platform for Automated Intelligence With Satellite Imagery",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xso2hx/spain_develops_eo_master_platform_for_automated/\"> <img src=\"https://external-preview.redd.it/i7TVlPywuZmULWnWelpL3OTvQJ0M0IdTsw0Lm8YAg9g.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8646b872adae36bfc3…",
-      "date": "2026-11-10",
-      "link": "https://www.reddit.com/r/space/comments/1xso2hx/spain_develops_eo_master_platform_for_automated/"
-    },
-    {
-      "sourceId": "rspace",
       "title": "First known disappearing planet has a neighbor that makes it wobble like a top",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xsixaj/first_known_disappearing_planet_has_a_neighbor/\"> <img src=\"https://external-preview.redd.it/RTjuTlbsSuFNnQ54xvIO2rGG_lm8wHUSHAHmPfZ2Kcg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8cadad6200cd2585091…",
       "date": "2026-11-10",
       "link": "https://www.reddit.com/r/space/comments/1xsixaj/first_known_disappearing_planet_has_a_neighbor/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "Extremely low gravity, millions of kilometres away: Operating rover Idefix® on Phobos, a moon of Mars. AMA with it’s Operations manager!",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xsib9n/extremely_low_gravity_millions_of_kilometres_away/\"> <img src=\"https://external-preview.redd.it/VgDDg8_RS6bpwf4wONDS7D0dSZwQWBi0mvxgIGurteI.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=73e0433886ede02cc…",
+      "date": "2026-11-10",
+      "link": "https://www.reddit.com/r/space/comments/1xsib9n/extremely_low_gravity_millions_of_kilometres_away/"
     },
     {
       "sourceId": "nga",
