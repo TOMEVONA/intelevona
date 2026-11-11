@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-10T20:40:27.789Z",
+  "updated": "2026-11-11T20:04:26.688Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
+      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering",
+      "date": "2026-11-11",
+      "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
+      "summary": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection",
+      "date": "2026-11-11",
+      "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
@@ -21,20 +35,6 @@
       "summary": "Washington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet access,",
       "date": "2026-11-09",
       "link": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
-      "summary": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than",
-      "date": "2026-11-05",
-      "link": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
-      "summary": "Mozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight",
-      "date": "2026-11-05",
-      "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "CSO C-Note 3-3: Forging the Guardian Ethos",
+      "summary": "In the latest C-Note, the message outlines three core principles — a common warfighting philosophy in the space domain, combat-credible readiness to deter and defeat adversaries, and a steadfast commitment to the quality of life and service for Guardians and their families.<br/>",
+      "date": "2026-11-10",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4646432/cso-c-note-3-3-forging-the-guardian-ethos/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "Air Force JAG Corps rolls out military justice reforms, force development initiatives to cut pretrial delays, improve readiness",
       "summary": "The Judge Advocate General of the Air Force, has implemented several initial reforms across the DAF military justice system and the JAG Corps.",
       "date": "2026-11-09",
@@ -205,11 +212,11 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4642457/daf-unveils-enterprise-blueprint-to-field-operational-si-across-15-mission-doma/"
     },
     {
-      "sourceId": "ussf",
-      "title": "USSF field command leaders appeal to commercial space industry at Space Industry Days",
-      "summary": "The leaders highlighted recent operational and launch milestones while outlining how commercial space partnerships, rapid acquisition and integrated training are vital to fielding a combat-credible Space Force.<br/> <img…",
-      "date": "2026-11-02",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4639732/ussf-field-command-leaders-appeal-to-commercial-space-industry-at-space-industr/"
+      "sourceId": "dod",
+      "title": "USS Nimitz Trains New, Returning Naval Aviators",
+      "summary": "The aircraft carrier USS Nimitz completed its first east coast training underway in support of carrier qualifications for both new and experienced naval aviators.",
+      "date": "2026-11-10",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4646092/uss-nimitz-trains-new-returning-naval-aviators/"
     },
     {
       "sourceId": "dod",
@@ -240,15 +247,22 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4645001/hegseth-mandates-military-education-reform/"
     },
     {
-      "sourceId": "dod",
-      "title": "Defense Logistics Agency Adds $2 Billion in Critical Material Support to National Defense Stockpile",
-      "summary": "The Defense Logistics Agency strengthened domestic industrial capacity and supported national security priorities by committing $2 billion to acquire strategic and critical materials during fiscal year 2026.",
-      "date": "2026-11-06",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4643775/defense-logistics-agency-adds-2-billion-in-critical-material-support-to-nationa/"
+      "sourceId": "viasat",
+      "title": "Es’hailSat Makes Move to Boost AI Capabilities",
+      "summary": "Es’hailSat has made an interesting move in the area of artificial intelligence, signing an MoU with Qatar Mobility Innovations Center (QMIC), a national research and innovation center owned by Qatar",
+      "date": "2026-11-10",
+      "link": "https://www.satellitetoday.com/technology/2026/11/10/eshailsat-makes-move-to-boost-ai-capabilities/"
     },
     {
       "sourceId": "viasat",
-      "title": "Political Paralysis Cannot be Allowed to Undermine America’s Strategic Edge in Space",
+      "title": "First Anduril Satellite On Orbit is for Space Domain Awareness",
+      "summary": "Anduril Industries‘ first satellite on orbit, launched in July, is designed to demonstrate space domain awareness missions, the company said on Tuesday. “You can’t fight in space if you can’t",
+      "date": "2026-11-10",
+      "link": "https://www.satellitetoday.com/technology/2026/11/10/first-anduril-satellite-on-orbit-is-for-space-domain-awareness/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Political Paralysis Cannot Be Allowed to Undermine America’s Strategic Edge in Space",
       "summary": "The U.S. midterms have dramatically shifted the balance of power in Washington. With Democrats taking control of Congress, President Trump now faces a legislature with both the power and appetite",
       "date": "2026-11-10",
       "link": "https://www.satellitetoday.com/opinion/2026/11/10/political-paralysis-cannot-be-allowed-to-undermine-americas-strategic-edge-in-space/"
@@ -268,88 +282,74 @@
       "link": "https://www.satellitetoday.com/launch/2026/11/10/synspective-orders-10-launches-on-fireflys-alpha-rocket/"
     },
     {
-      "sourceId": "viasat",
-      "title": "What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty and the Path Forward",
-      "summary": "The recent Starlink and Starshield disruptions in Ukraine put satcom access in the center of international news. Ukrainian forces experienced a slowdown in access to Starlink and Starshield that impacted",
-      "date": "2026-11-09",
-      "link": "https://www.satellitetoday.com/podcast/2026/11/09/what-starlink-restrictions-in-ukraine-reveal-about-europes-space-sovereignty-and-the-path-forward/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "The Achilles Heel of Space-Based Systems: APIs are Easy to Hack",
-      "summary": "Application programming interfaces, or APIs, are the “Rosetta Stone” of IT, letting different software programs talk to each other and users to authenticate across different systems. APIs are also one",
-      "date": "2026-11-09",
-      "link": "https://www.satellitetoday.com/cybersecurity/2026/11/09/the-achilles-heel-of-space-based-systems-apis-are-easy-to-hack/"
+      "sourceId": "spacecom",
+      "title": "Andy Weir's 'Exoplanet' just landed on Audible, but what actually makes an exoplanet habitable?",
+      "summary": "How would the crew of the Wild Blue Yonder fare on a real exoplanet?",
+      "date": "2026-11-11",
+      "link": "https://www.space.com/astronomy/exoplanets/andy-weirs-exoplanet-just-hit-audible-but-what-actually-makes-an-exoplanet-habitable"
     },
     {
       "sourceId": "spacecom",
-      "title": "How to watch 'We Chose to Go to the Moon' online — stream space race stage show from anywhere",
-      "summary": "How to stream \"We Chose to Go to the Moon\", a live broadcast of the dazzling new stage retelling of the space race story.",
-      "date": "2026-11-10",
-      "link": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-we-chose-to-go-to-the-moon-online-stream-space-race-stage-show-from-anywhere"
+      "title": "Did comets bring building blocks of life to Earth? Scientists aren't so sure anymore",
+      "summary": "For over a century astronomers have speculated that comets could have delivered organic molecules necessary for life to Earth, but new modeling shows these molecules wouldn't have survived impact.",
+      "date": "2026-11-11",
+      "link": "https://www.space.com/astronomy/comets/did-comets-bring-building-blocks-of-life-to-earth-scientists-arent-so-sure-anymore"
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
-      "summary": "Follow live updates as SpaceX attempts its Starship Flight 15 test flight with first double landings.",
-      "date": "2026-11-10",
-      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt"
+      "title": "'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to $70 million",
+      "summary": "Rocket Lab has raised the launch cost of its next-gen Neutron rocket by more than 25%, an increase that reflects high demand amid a looming liftoff bottleneck.",
+      "date": "2026-11-11",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million"
     },
     {
       "sourceId": "spacecom",
-      "title": "Uranus has a weird magnetic field that's stumped scientists for 40 years — we may finally know why",
-      "summary": "The lopsided magnetic fields of Uranus and Neptune could be the product of extreme conditions inside the planets, increasing the electrical conductivity that enhances the dynamo effect.",
-      "date": "2026-11-10",
-      "link": "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune"
+      "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
+      "summary": "This dazzling collection of ancient stars could hold clues to the Milky Way's past.",
+      "date": "2026-11-11",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Were there 'lost cosmonauts' in the early Soviet space program?",
-      "summary": "At the height of the Cold War, two amateur radio operators alleged they intercepted signals from Soviet cosmonauts who perished during missions that remained secret.",
-      "date": "2026-11-10",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "A robot just built a structure autonomously in space for the 1st time ever",
-      "summary": "A robot built part of an antenna in orbit recently, showcasing skills that could potentially allow the assembly of space telescopes and other large structures off Earth.",
-      "date": "2026-11-10",
-      "link": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever"
+      "title": "NASA's new UVEX space telescope will peer deep into the universe's most violent events",
+      "summary": "NASA's new UVEX space telescope will study the universe in ultraviolet light to reveal the violent and turbulent events that bubble under what appears to be a cosmic sea of tranquility.",
+      "date": "2026-11-11",
+      "link": "https://www.space.com/science/astrophysics/nasas-new-uvex-space-telescope-will-peer-deep-into-the-universes-most-violent-events"
     },
     {
       "sourceId": "rspace",
-      "title": "Scout 2 Project",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xsvckm/scout_2_project/\"> <img src=\"https://preview.redd.it/y40oxgmlzt0i1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=842f495370f63916016d1c7aa7d39718bdb56ed2\" alt=\"Scout 2 Project\" title=\"Scout 2 Project\"…",
-      "date": "2026-11-10",
-      "link": "https://www.reddit.com/r/space/comments/1xsvckm/scout_2_project/"
+      "title": "Is Spaceship a proper term?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Usually we talk about launch vehicles, spacecraft, rockets (vessels ; ) ) but sometimes I see people more colloquially refer to all of them as Spaceships. Is that even a term that can be applied to any of the above?",
+      "date": "2026-11-11",
+      "link": "https://www.reddit.com/r/space/comments/1xtp67u/is_spaceship_a_proper_term/"
     },
     {
       "sourceId": "rspace",
-      "title": "Vast Space sued by Axiom for allegedly using Axiom’s proprietary mission integration plans in a Vast proposal to NASA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xstt47/vast_space_sued_by_axiom_for_allegedly_using/\"> <img src=\"https://external-preview.redd.it/TNqCk_i01Z7RpQQxr2pVNpz7Rq658X1aDDdfEqhCrGg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2f00d07b5e85b09ae0e9…",
-      "date": "2026-11-10",
-      "link": "https://www.reddit.com/r/space/comments/1xstt47/vast_space_sued_by_axiom_for_allegedly_using/"
+      "title": "Is Kessler syndrome already here? A satellite laser ranging founder thinks so",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I recently interviewed Hira Virdee, CEO and co-founder of Foundational, a London company building a commercial network of laser ranging stations to track objects in orbit.",
+      "date": "2026-11-11",
+      "link": "https://www.reddit.com/r/space/comments/1xtnvd9/is_kessler_syndrome_already_here_a_satellite/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA officially planning to reopen inquiry to return samples collected by Perseverance Rover on Mars / One-year study begins Jan ‘27",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Reminder that the United States Congress had passed a NASA budget back in January that did not support the Mars Sample Return program, and NASA officials were sending signals that the MSR program was effectively dead.</p> <p>Well, seems like…",
-      "date": "2026-11-10",
-      "link": "https://www.reddit.com/r/space/comments/1xspun8/nasa_officially_planning_to_reopen_inquiry_to/"
+      "title": "Images from NASA’s DART spacecraft showed fan-shaped streaks on the asteroid moon Dimorphos before impact. Researchers think they formed when particles from its larger companion, Didymos, struck the surface.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xtkfdb/images_from_nasas_dart_spacecraft_showed/\"> <img src=\"https://external-preview.redd.it/-0DJypyIK0Ff7XctxVvjO9SbuNpYlbISUjr4eXxNNU4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a3039799b61990a9ee0b54c0e…",
+      "date": "2026-11-11",
+      "link": "https://www.reddit.com/r/space/comments/1xtkfdb/images_from_nasas_dart_spacecraft_showed/"
     },
     {
       "sourceId": "rspace",
-      "title": "First known disappearing planet has a neighbor that makes it wobble like a top",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xsixaj/first_known_disappearing_planet_has_a_neighbor/\"> <img src=\"https://external-preview.redd.it/RTjuTlbsSuFNnQ54xvIO2rGG_lm8wHUSHAHmPfZ2Kcg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8cadad6200cd2585091…",
-      "date": "2026-11-10",
-      "link": "https://www.reddit.com/r/space/comments/1xsixaj/first_known_disappearing_planet_has_a_neighbor/"
+      "title": "Astronomers spot a white dwarf with two rings of planetary debris. The unusual structure may be shaped by surviving rocky bodies, but those bodies have not been directly observed",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Prior_One_7050\"> /u/Prior_One_7050 </a> <br/> <span><a href=\"https://www.reuters.com/science/astronomers-spot-white-dwarf-star-with-two-rings-planetary-debris-2026-11-07/\">[link]</a></span> &#32; <span><a…",
+      "date": "2026-11-11",
+      "link": "https://www.reddit.com/r/space/comments/1xtebk7/astronomers_spot_a_white_dwarf_with_two_rings_of/"
     },
     {
       "sourceId": "rspace",
-      "title": "Extremely low gravity, millions of kilometres away: Operating rover Idefix® on Phobos, a moon of Mars. AMA with it’s Operations manager!",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xsib9n/extremely_low_gravity_millions_of_kilometres_away/\"> <img src=\"https://external-preview.redd.it/VgDDg8_RS6bpwf4wONDS7D0dSZwQWBi0mvxgIGurteI.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=73e0433886ede02cc…",
-      "date": "2026-11-10",
-      "link": "https://www.reddit.com/r/space/comments/1xsib9n/extremely_low_gravity_millions_of_kilometres_away/"
+      "title": "Rocket Lab — Our spacecraft just made interplanetary history - twice. Blue & Gold flawlessly executed powered Earth gravity assists, two days apart, to slingshot our planet and shoot for Mars’ orbit. This is the first time the highly complex maneuver has been executed successfully by spacecraft.",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VolarRecords\"> /u/VolarRecords </a> <br/> <span><a href=\"https://x.com/rocketlab/status/2120366714374475968/video/1?a=_8PSpp_V5EWdjXL6JKY&amp;s=46\">[link]</a></span> &#32; <span><a…",
+      "date": "2026-11-11",
+      "link": "https://www.reddit.com/r/space/comments/1xtc0ft/rocket_lab_our_spacecraft_just_made/"
     },
     {
       "sourceId": "nga",
@@ -423,6 +423,20 @@
     },
     {
       "sourceId": "nasa",
+      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+      "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-11-11",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Water Surges Into Navajo Reservoir",
+      "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+      "date": "2026-11-11",
+      "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
       "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers).",
       "date": "2026-11-10",
@@ -441,20 +455,6 @@
       "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses.",
       "date": "2026-11-10",
       "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "CHAPEA Crew Leaves a Mark",
-      "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct.",
-      "date": "2026-11-10",
-      "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
-      "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-11-10",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/"
     }
   ]
 }
