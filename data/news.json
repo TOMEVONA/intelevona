@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T20:04:26.688Z",
+  "updated": "2026-11-11T21:00:09.899Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -248,6 +248,27 @@
     },
     {
       "sourceId": "viasat",
+      "title": "8 Globalstar Refresh Satellites Complete Initial Tests In-Orbit",
+      "summary": "All eight of the Globalstar satellites launched in August have completed initial functional tests and begin the process of orbit-raising, manufacturer MDA Space confirmed on Tuesday. Two of the satellites",
+      "date": "2026-11-11",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/11/11/8-globalstar-refresh-satellites-complete-initial-tests-in-orbit/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Skylo Lands Distribution in South Korea With KT SAT Deal",
+      "summary": "Skylo is set to enter the South Korean connectivity market through a new agreement with KT SAT to distribute its standards-based, satellite IoT services. Under the agreement announced Wednesday, KT",
+      "date": "2026-11-11",
+      "link": "https://www.satellitetoday.com/connectivity/2026/11/11/skylo-lands-distribution-in-south-korea-with-kt-sat-deal/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Launch Delays and Slow Rollouts Push Gilat to Downgrade 2026 Outlook",
+      "summary": "Gilat Satellite Networks lowered its annual outlook as delays to satellite launches and in-flight connectivity (IFC) deliveries impacted the company’s revenue in the third quarter. Gilat slashed its growth forecast",
+      "date": "2026-11-11",
+      "link": "https://www.satellitetoday.com/finance/2026/11/11/launch-delays-and-slow-rollouts-push-gilat-to-downgrade-2026-outlook/"
+    },
+    {
+      "sourceId": "viasat",
       "title": "Es’hailSat Makes Move to Boost AI Capabilities",
       "summary": "Es’hailSat has made an interesting move in the area of artificial intelligence, signing an MoU with Qatar Mobility Innovations Center (QMIC), a national research and innovation center owned by Qatar",
       "date": "2026-11-10",
@@ -261,25 +282,11 @@
       "link": "https://www.satellitetoday.com/technology/2026/11/10/first-anduril-satellite-on-orbit-is-for-space-domain-awareness/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Political Paralysis Cannot Be Allowed to Undermine America’s Strategic Edge in Space",
-      "summary": "The U.S. midterms have dramatically shifted the balance of power in Washington. With Democrats taking control of Congress, President Trump now faces a legislature with both the power and appetite",
-      "date": "2026-11-10",
-      "link": "https://www.satellitetoday.com/opinion/2026/11/10/political-paralysis-cannot-be-allowed-to-undermine-americas-strategic-edge-in-space/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Rocket Lab Secures Half a Billion in Neutron Launch Orders in Q3",
-      "summary": "Rocket Lab is seeing strong demand for its launch business, hitting a record backlog of 117 missions across Electron, Neutron, and HASTE hypersonic suborbital launches. During the third quarter, Rocket",
-      "date": "2026-11-10",
-      "link": "https://www.satellitetoday.com/launch/2026/11/10/rocket-lab-secures-half-a-billion-in-neutron-launch-orders-in-q3/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Synspective Orders 10 Launches on Firefly’s Alpha Rocket",
-      "summary": "Japanese synthetic aperture radar (SAR) provider Synspective ordered 10 launches on Firefly Aerospace’s Alpha rocket, planned through 2030. This is a new customer for Firefly, which plans to launch the",
-      "date": "2026-11-10",
-      "link": "https://www.satellitetoday.com/launch/2026/11/10/synspective-orders-10-launches-on-fireflys-alpha-rocket/"
+      "sourceId": "spacecom",
+      "title": "On this day in space! Nov. 11, 1966: NASA launches Gemini 12 mission with astronaut icons Buzz Aldrin and Jim Lovell aboard",
+      "summary": "On Nov. 11, 1966, the Gemini 12 mission launched an astronaut crew into orbit and set the stage for NASA's Apollo program. Here's why it mattered.",
+      "date": "2026-11-11",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-11-2026"
     },
     {
       "sourceId": "spacecom",
@@ -308,13 +315,6 @@
       "summary": "This dazzling collection of ancient stars could hold clues to the Milky Way's past.",
       "date": "2026-11-11",
       "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "NASA's new UVEX space telescope will peer deep into the universe's most violent events",
-      "summary": "NASA's new UVEX space telescope will study the universe in ultraviolet light to reveal the violent and turbulent events that bubble under what appears to be a cosmic sea of tranquility.",
-      "date": "2026-11-11",
-      "link": "https://www.space.com/science/astrophysics/nasas-new-uvex-space-telescope-will-peer-deep-into-the-universes-most-violent-events"
     },
     {
       "sourceId": "rspace",
