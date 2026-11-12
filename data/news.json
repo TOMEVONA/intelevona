@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-11T21:00:09.899Z",
+  "updated": "2026-11-12T20:42:31.255Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
+      "summary": "Nigrán, Spain | November 12 2026 – UARX Space has achieved a major milestone for Spain’s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and",
+      "date": "2026-11-12",
+      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "What role does industry play in Europe’s space sovereignty push?",
+      "summary": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role",
+      "date": "2026-11-12",
+      "link": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
+      "summary": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general. The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews .",
+      "date": "2026-11-12",
+      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/"
+    },
     {
       "sourceId": "spacenews",
       "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
@@ -14,27 +35,6 @@
       "summary": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection",
       "date": "2026-11-11",
       "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-      "summary": "SAN DIEGO, CA, November 10, 2026 – Kratos Defense & Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate",
-      "date": "2026-11-10",
-      "link": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "ESCAPADE on its way to Mars after Earth flybys",
-      "summary": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch. The post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews .",
-      "date": "2026-11-10",
-      "link": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
-      "summary": "Washington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet access,",
-      "date": "2026-11-09",
-      "link": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "Space Force activates special operations component command in Tampa",
+      "summary": "Headquartered at MacDill AFB, SPACEFOR-SOC organizes and presents specialized forces – known as SOF Guardians – to Theater Special Operations Commands and Joint Task Forces worldwide.<br/> <img…",
+      "date": "2026-11-11",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4646632/space-force-activates-special-operations-component-command-in-tampa/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "CSO C-Note 3-3: Forging the Guardian Ethos",
       "summary": "In the latest C-Note, the message outlines three core principles — a common warfighting philosophy in the space domain, combat-credible readiness to deter and defeat adversaries, and a steadfast commitment to the quality of life and service for Guardians and their families.<br/>",
       "date": "2026-11-10",
@@ -203,13 +210,6 @@
       "summary": "Eligible Airmen and Guardians can receive up to $600 for counseling or therapy, with the same amount available to each eligible family member, up to $2,400 per family per calendar year.",
       "date": "2026-11-06",
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4643542/afas-offers-financial-assistance-for-counseling-therapy/"
-    },
-    {
-      "sourceId": "ussf",
-      "title": "DAF unveils enterprise blueprint to field operational SI across 15 mission domains",
-      "summary": "Department of the Air Force leaders outlined a new modernization strategy during the Military Flight Training USA Summit to transition super intelligence from experimental testing into operational use across 15 mission domains.<br/> <img…",
-      "date": "2026-11-05",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4642457/daf-unveils-enterprise-blueprint-to-field-operational-si-across-15-mission-doma/"
     },
     {
       "sourceId": "dod",
@@ -248,6 +248,13 @@
     },
     {
       "sourceId": "viasat",
+      "title": "Kratos to Upgrade Gateway Antenna Systems for Thaicom-10 Satellite",
+      "summary": "Gulf Space Technology Public Company Limited (GST), formerly Thaicom, selected Kratos Defense & Security Solutions to upgrade its ground infrastructure ahead of the THAICOM-10 satellite launch. Kratos will deliver the",
+      "date": "2026-11-11",
+      "link": "https://www.satellitetoday.com/technology/2026/11/11/kratos-to-upgrade-gateway-antenna-systems-for-thaicom-10-satellite/"
+    },
+    {
+      "sourceId": "viasat",
       "title": "8 Globalstar Refresh Satellites Complete Initial Tests In-Orbit",
       "summary": "All eight of the Globalstar satellites launched in August have completed initial functional tests and begin the process of orbit-raising, manufacturer MDA Space confirmed on Tuesday. Two of the satellites",
       "date": "2026-11-11",
@@ -275,81 +282,74 @@
       "link": "https://www.satellitetoday.com/technology/2026/11/10/eshailsat-makes-move-to-boost-ai-capabilities/"
     },
     {
-      "sourceId": "viasat",
-      "title": "First Anduril Satellite On Orbit is for Space Domain Awareness",
-      "summary": "Anduril Industries‘ first satellite on orbit, launched in July, is designed to demonstrate space domain awareness missions, the company said on Tuesday. “You can’t fight in space if you can’t",
-      "date": "2026-11-10",
-      "link": "https://www.satellitetoday.com/technology/2026/11/10/first-anduril-satellite-on-orbit-is-for-space-domain-awareness/"
+      "sourceId": "spacecom",
+      "title": "On this day in space! Nov. 12, 2014: European Philae probe lands on Comet 67P, bounced twice and then got lost for nearly 2 years",
+      "summary": "On Nov. 12, 2014, a European spacecraft named Philae landed on Comet 67P, then bounced twice and got lost. Here's why it mattered.",
+      "date": "2026-11-12",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-12-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Nov. 11, 1966: NASA launches Gemini 12 mission with astronaut icons Buzz Aldrin and Jim Lovell aboard",
-      "summary": "On Nov. 11, 1966, the Gemini 12 mission launched an astronaut crew into orbit and set the stage for NASA's Apollo program. Here's why it mattered.",
-      "date": "2026-11-11",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-11-2026"
+      "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
+      "summary": "\"It should be very bright, considerably brighter than the Starlink satellites due to its size.\"",
+      "date": "2026-11-12",
+      "link": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky"
     },
     {
       "sourceId": "spacecom",
-      "title": "Andy Weir's 'Exoplanet' just landed on Audible, but what actually makes an exoplanet habitable?",
-      "summary": "How would the crew of the Wild Blue Yonder fare on a real exoplanet?",
-      "date": "2026-11-11",
-      "link": "https://www.space.com/astronomy/exoplanets/andy-weirs-exoplanet-just-hit-audible-but-what-actually-makes-an-exoplanet-habitable"
+      "title": "'Warhammer Survivors' is the perfect gateway into the 40K universe",
+      "summary": "This Vampire Survivors spin-off has a lot of love for the famous grimdark sci-fi universe, but without the intimidatingly dense lore and complex systems.",
+      "date": "2026-11-12",
+      "link": "https://www.space.com/entertainment/space-games/warhammer-survivors-is-the-perfect-gateway-into-the-40k-universe"
     },
     {
       "sourceId": "spacecom",
-      "title": "Did comets bring building blocks of life to Earth? Scientists aren't so sure anymore",
-      "summary": "For over a century astronomers have speculated that comets could have delivered organic molecules necessary for life to Earth, but new modeling shows these molecules wouldn't have survived impact.",
-      "date": "2026-11-11",
-      "link": "https://www.space.com/astronomy/comets/did-comets-bring-building-blocks-of-life-to-earth-scientists-arent-so-sure-anymore"
+      "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
+      "summary": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
+      "date": "2026-11-12",
+      "link": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video"
     },
     {
       "sourceId": "spacecom",
-      "title": "'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to $70 million",
-      "summary": "Rocket Lab has raised the launch cost of its next-gen Neutron rocket by more than 25%, an increase that reflects high demand amid a looming liftoff bottleneck.",
-      "date": "2026-11-11",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
-      "summary": "This dazzling collection of ancient stars could hold clues to the Milky Way's past.",
-      "date": "2026-11-11",
-      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026"
+      "title": "Pakistani astronaut set to become 1st international visitor to China's Tiangong space station this month",
+      "summary": "China will fly its first foreign astronaut on the Shenzhou 24 mission, with a Pakistani pilot set for a roughly week-long stay aboard the Tiangong space station.",
+      "date": "2026-11-12",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-set-to-become-1st-international-visitor-to-chinas-tiangong-space-station-this-month"
     },
     {
       "sourceId": "rspace",
-      "title": "Is Spaceship a proper term?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Usually we talk about launch vehicles, spacecraft, rockets (vessels ; ) ) but sometimes I see people more colloquially refer to all of them as Spaceships. Is that even a term that can be applied to any of the above?",
-      "date": "2026-11-11",
-      "link": "https://www.reddit.com/r/space/comments/1xtp67u/is_spaceship_a_proper_term/"
+      "title": "A robot has assembled a structure in space for the first time",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xumee9/a_robot_has_assembled_a_structure_in_space_for/\"> <img src=\"https://external-preview.redd.it/EYXbCur-N-FwTF1WmqBwaq3xt1qRR_n0TSHBz8p6QLI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2fcb9dd58eb1c2471d…",
+      "date": "2026-11-12",
+      "link": "https://www.reddit.com/r/space/comments/1xumee9/a_robot_has_assembled_a_structure_in_space_for/"
     },
     {
       "sourceId": "rspace",
-      "title": "Is Kessler syndrome already here? A satellite laser ranging founder thinks so",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I recently interviewed Hira Virdee, CEO and co-founder of Foundational, a London company building a commercial network of laser ranging stations to track objects in orbit.",
-      "date": "2026-11-11",
-      "link": "https://www.reddit.com/r/space/comments/1xtnvd9/is_kessler_syndrome_already_here_a_satellite/"
+      "title": "NASA's Parker Solar Probe finds a surprising magnetic reversal in the solar wind. Researchers discovered organized field rotations that flip direction between large and small plasma scales",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xuitmo/nasas_parker_solar_probe_finds_a_surprising/\"> <img src=\"https://external-preview.redd.it/GEipPyrZpJEauqKhS_nhg4rWk-Z5XPUf2npPf8OEwjI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99b0c5d265bd3b4d58974f…",
+      "date": "2026-11-12",
+      "link": "https://www.reddit.com/r/space/comments/1xuitmo/nasas_parker_solar_probe_finds_a_surprising/"
     },
     {
       "sourceId": "rspace",
-      "title": "Images from NASA’s DART spacecraft showed fan-shaped streaks on the asteroid moon Dimorphos before impact. Researchers think they formed when particles from its larger companion, Didymos, struck the surface.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xtkfdb/images_from_nasas_dart_spacecraft_showed/\"> <img src=\"https://external-preview.redd.it/-0DJypyIK0Ff7XctxVvjO9SbuNpYlbISUjr4eXxNNU4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a3039799b61990a9ee0b54c0e…",
-      "date": "2026-11-11",
-      "link": "https://www.reddit.com/r/space/comments/1xtkfdb/images_from_nasas_dart_spacecraft_showed/"
+      "title": "Pathfinder satellite enters orbit after successful launch",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xugr8k/pathfinder_satellite_enters_orbit_after/\"> <img src=\"https://external-preview.redd.it/QZLo88NhHUny5QszEC54HFjZU-lWeuYMlfuClm5SRQ8.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=615e1ec7ec31d2dbc9836233dd…",
+      "date": "2026-11-12",
+      "link": "https://www.reddit.com/r/space/comments/1xugr8k/pathfinder_satellite_enters_orbit_after/"
     },
     {
       "sourceId": "rspace",
-      "title": "Astronomers spot a white dwarf with two rings of planetary debris. The unusual structure may be shaped by surviving rocky bodies, but those bodies have not been directly observed",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Prior_One_7050\"> /u/Prior_One_7050 </a> <br/> <span><a href=\"https://www.reuters.com/science/astronomers-spot-white-dwarf-star-with-two-rings-planetary-debris-2026-11-07/\">[link]</a></span> &#32; <span><a…",
-      "date": "2026-11-11",
-      "link": "https://www.reddit.com/r/space/comments/1xtebk7/astronomers_spot_a_white_dwarf_with_two_rings_of/"
+      "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xufvlh/esa_to_support_industryled_reusable_booster/\"> <img src=\"https://external-preview.redd.it/ajDtw77aG0VyY0R7FeMLvC5pwkmNjX1lWSwN0mru6Jc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2bb29fd8a561ae229b1e69…",
+      "date": "2026-11-12",
+      "link": "https://www.reddit.com/r/space/comments/1xufvlh/esa_to_support_industryled_reusable_booster/"
     },
     {
       "sourceId": "rspace",
-      "title": "Rocket Lab — Our spacecraft just made interplanetary history - twice. Blue & Gold flawlessly executed powered Earth gravity assists, two days apart, to slingshot our planet and shoot for Mars’ orbit. This is the first time the highly complex maneuver has been executed successfully by spacecraft.",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VolarRecords\"> /u/VolarRecords </a> <br/> <span><a href=\"https://x.com/rocketlab/status/2120366714374475968/video/1?a=_8PSpp_V5EWdjXL6JKY&amp;s=46\">[link]</a></span> &#32; <span><a…",
-      "date": "2026-11-11",
-      "link": "https://www.reddit.com/r/space/comments/1xtc0ft/rocket_lab_our_spacecraft_just_made/"
+      "title": "RFA Confirms Inaugural RFA ONE Launch Has Slipped to 2027",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xuful7/rfa_confirms_inaugural_rfa_one_launch_has_slipped/\"> <img src=\"https://external-preview.redd.it/hqp2T_nF2W8HurGoeztpqFhvDXe0ZHiFESLS4Rwg1iI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1ac42452196ba2c…",
+      "date": "2026-11-12",
+      "link": "https://www.reddit.com/r/space/comments/1xuful7/rfa_confirms_inaugural_rfa_one_launch_has_slipped/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
-      "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-11-11",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/"
+      "title": "I Am Artemis Katie Spicer",
+      "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will…",
+      "date": "2026-11-12",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
     },
     {
       "sourceId": "nasa",
-      "title": "Water Surges Into Navajo Reservoir",
-      "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
-      "date": "2026-11-11",
-      "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+      "title": "Heart in the Sky at NASA Kennedy",
+      "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida.",
+      "date": "2026-11-12",
+      "link": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-      "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers).",
-      "date": "2026-11-10",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
+      "title": "NASA Ames Stars of the Month: November 2026",
+      "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc.",
+      "date": "2026-11-12",
+      "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-      "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station.",
-      "date": "2026-11-10",
-      "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/"
+      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
+      "date": "2026-11-12",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-      "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses.",
-      "date": "2026-11-10",
-      "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
+      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+      "summary": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept.",
+      "date": "2026-11-12",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
     }
   ]
 }
