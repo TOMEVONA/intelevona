@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T20:42:31.255Z",
+  "updated": "2026-11-12T21:15:56.365Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -248,6 +248,27 @@
     },
     {
       "sourceId": "viasat",
+      "title": "Avoiding the Starlink Trap: Why the Satellite Industry Must Think Smarter, Not Bigger",
+      "summary": "It’s undeniable that Elon Musk has radically shaken up the satellite industry. With thousands of satellites launched and thousands more planned, Starlink has managed to position itself as the dominant",
+      "date": "2026-11-12",
+      "link": "https://www.satellitetoday.com/opinion/2026/11/12/avoiding-the-starlink-trap-why-the-satellite-industry-must-think-smarter-not-bigger/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Gatehouse Satcom to Acquire Satlab to Build Integrated Radio for 5G NTN Solution",
+      "summary": "Gatehouse Satcom will acquire Satlab, a company that designs and manufactures radio for small satellites, under a new deal announced Thursday. Satlab, based in Aalborg, Denmark, develops S- and X-band",
+      "date": "2026-11-12",
+      "link": "https://www.satellitetoday.com/connectivity/2026/11/12/gatehouse-satcom-to-acquire-satlab-to-build-integrated-radio-for-5g-ntn-solution/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Ukraine Reports More Restrictions to Starshield Access",
+      "summary": "Ukrainian President Volodymyr Zelenskyy reported more restrictions to Ukraine’s Starshield access, telling European leaders that the service is limited on terminals in motion to 100 miles per hour. This slowdown",
+      "date": "2026-11-12",
+      "link": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/"
+    },
+    {
+      "sourceId": "viasat",
       "title": "Kratos to Upgrade Gateway Antenna Systems for Thaicom-10 Satellite",
       "summary": "Gulf Space Technology Public Company Limited (GST), formerly Thaicom, selected Kratos Defense & Security Solutions to upgrade its ground infrastructure ahead of the THAICOM-10 satellite launch. Kratos will deliver the",
       "date": "2026-11-11",
@@ -261,25 +282,11 @@
       "link": "https://www.satellitetoday.com/manufacturing/2026/11/11/8-globalstar-refresh-satellites-complete-initial-tests-in-orbit/"
     },
     {
-      "sourceId": "viasat",
-      "title": "Skylo Lands Distribution in South Korea With KT SAT Deal",
-      "summary": "Skylo is set to enter the South Korean connectivity market through a new agreement with KT SAT to distribute its standards-based, satellite IoT services. Under the agreement announced Wednesday, KT",
-      "date": "2026-11-11",
-      "link": "https://www.satellitetoday.com/connectivity/2026/11/11/skylo-lands-distribution-in-south-korea-with-kt-sat-deal/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Launch Delays and Slow Rollouts Push Gilat to Downgrade 2026 Outlook",
-      "summary": "Gilat Satellite Networks lowered its annual outlook as delays to satellite launches and in-flight connectivity (IFC) deliveries impacted the company’s revenue in the third quarter. Gilat slashed its growth forecast",
-      "date": "2026-11-11",
-      "link": "https://www.satellitetoday.com/finance/2026/11/11/launch-delays-and-slow-rollouts-push-gilat-to-downgrade-2026-outlook/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Es’hailSat Makes Move to Boost AI Capabilities",
-      "summary": "Es’hailSat has made an interesting move in the area of artificial intelligence, signing an MoU with Qatar Mobility Innovations Center (QMIC), a national research and innovation center owned by Qatar",
-      "date": "2026-11-10",
-      "link": "https://www.satellitetoday.com/technology/2026/11/10/eshailsat-makes-move-to-boost-ai-capabilities/"
+      "sourceId": "spacecom",
+      "title": "This supernova impostor baffled astronomers for 15 years — until they found a hidden black hole feeding on an unstable star",
+      "summary": "A hidden black hole or neutron star companion to an unstable massive star is causing the system to erupt in light that mimics a supernova explosion.",
+      "date": "2026-11-12",
+      "link": "https://www.space.com/astronomy/black-holes/this-supernova-impostor-baffled-astronomers-for-15-years-until-they-found-a-hidden-black-hole-feeding-on-an-unstable-star"
     },
     {
       "sourceId": "spacecom",
@@ -308,13 +315,6 @@
       "summary": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
       "date": "2026-11-12",
       "link": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "Pakistani astronaut set to become 1st international visitor to China's Tiangong space station this month",
-      "summary": "China will fly its first foreign astronaut on the Shenzhou 24 mission, with a Pakistani pilot set for a roughly week-long stay aboard the Tiangong space station.",
-      "date": "2026-11-12",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-set-to-become-1st-international-visitor-to-chinas-tiangong-space-station-this-month"
     },
     {
       "sourceId": "rspace",
