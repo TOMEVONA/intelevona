@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-12T21:15:56.365Z",
+  "updated": "2026-11-13T20:23:59.759Z",
   "articles": [
+    {
+      "sourceId": "spacenews",
+      "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
+      "summary": "November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and",
+      "date": "2026-11-13",
+      "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/"
+    },
+    {
+      "sourceId": "spacenews",
+      "title": "AST SpaceMobile presses case for developing own launch vehicle",
+      "summary": "AST SpaceMobile executives expressed confidence in the company’s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism. The post AST SpaceMobile presses case for developing own launch vehicle appeared first on SpaceNews .",
+      "date": "2026-11-13",
+      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/"
+    },
     {
       "sourceId": "spacenews",
       "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
@@ -21,20 +35,6 @@
       "summary": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general. The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews .",
       "date": "2026-11-12",
       "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
-      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering",
-      "date": "2026-11-11",
-      "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/"
-    },
-    {
-      "sourceId": "spacenews",
-      "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
-      "summary": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection",
-      "date": "2026-11-11",
-      "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"
     },
     {
       "sourceId": "tectonic",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "DAF Chaplain Corps designates new role to support Guardians",
+      "summary": "The DAF designated U.S. Air Force Chaplain (Brig. Gen.) David Kelley as the Chaplain of the Space Force to provide senior-level religious support advocacy for Guardians and their families.<br/> <img…",
+      "date": "2026-11-13",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4648106/daf-chaplain-corps-designates-new-role-to-support-guardians/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "Space Force activates special operations component command in Tampa",
       "summary": "Headquartered at MacDill AFB, SPACEFOR-SOC organizes and presents specialized forces – known as SOF Guardians – to Theater Special Operations Commands and Joint Task Forces worldwide.<br/> <img…",
       "date": "2026-11-11",
@@ -205,11 +212,25 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4644592/space-force-leaders-advance-shared-commitments-for-allied-space-power-at-global/"
     },
     {
-      "sourceId": "ussf",
-      "title": "AFAS offers financial assistance for counseling, therapy",
-      "summary": "Eligible Airmen and Guardians can receive up to $600 for counseling or therapy, with the same amount available to each eligible family member, up to $2,400 per family per calendar year.",
-      "date": "2026-11-06",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4643542/afas-offers-financial-assistance-for-counseling-therapy/"
+      "sourceId": "dod",
+      "title": "War Department Expands Childcare Assistance",
+      "summary": "The War Department announced a pilot program that will expand the range of community-based childcare providers eligible for military fee assistance across five states.",
+      "date": "2026-11-12",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4647456/war-department-expands-childcare-assistance/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Sentinel at Tomb of the Unknown Soldier Receives Award",
+      "summary": "A sentinel at the Tomb of the Unknown Soldier was commended for ordering a group to maintain respect following a Veterans Day ceremony.",
+      "date": "2026-11-12",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4647270/sentinel-at-tomb-of-the-unknown-soldier-receives-award/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Army, Allies Prepare for Long-Range Air Assault in Hawaii",
+      "summary": "Thousands of U.S. and multinational forces are taking part in Joint Pacific Multinational Readiness Center Rotation 27-01 across the Hawaiian Islands.",
+      "date": "2026-11-12",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4647175/army-allies-prepare-for-long-range-air-assault-in-hawaii/"
     },
     {
       "sourceId": "dod",
@@ -226,130 +247,109 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4646088/hegseth-polish-counterpart-announce-intent-to-boost-military-cooperation/"
     },
     {
-      "sourceId": "dod",
-      "title": "Hegseth: Impeachment Over Policy Disagreement Sends Wrong Signal to Adversaries",
-      "summary": "Secretary of War Pete Hegseth, facing the threat of impeachment, detailed a record of successful operations on his watch during a press briefing at the Pentagon.",
-      "date": "2026-11-10",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4645996/hegseth-impeachment-over-policy-disagreement-sends-wrong-signal-to-adversaries/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Navy Command Builds on Training Partnership During South Korean Visit",
-      "summary": "U.S. Navy Rear Adm. Greg Huffman met with South Korean navy leaders and delivered remarks aboard the ROKS Hansando during the ship's first port call at Naval Air Station Pensacola, Fla. He emphasized the role of allied partnerships in naval education and training.",
-      "date": "2026-11-09",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4645097/navy-command-builds-on-training-partnership-during-south-korean-visit/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Hegseth Mandates Military Education Reform",
-      "summary": "Declaring that the fundamental duty of America's armed forces is to assure victory in war, Secretary of War Pete Hegseth said the nation's senior service colleges must have a curriculum that underpins that duty during a speech at the U.S. Naval War College.",
-      "date": "2026-11-09",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4645001/hegseth-mandates-military-education-reform/"
+      "sourceId": "viasat",
+      "title": "Intellian CEO Unpacks Terminal Strategy for Aero and Military as Ground Tech Player Diversifies",
+      "summary": "Intellian Technologies has expanded its presence in the ground tech market from a maritime specialist into a diversified player, with a new upcoming launch for the aviation market and new",
+      "date": "2026-11-13",
+      "link": "https://www.satellitetoday.com/technology/2026/11/13/intellian-ceo-unpacks-terminal-strategy-for-aero-and-military-as-ground-tech-player-diversifies/"
     },
     {
       "sourceId": "viasat",
-      "title": "Avoiding the Starlink Trap: Why the Satellite Industry Must Think Smarter, Not Bigger",
-      "summary": "It’s undeniable that Elon Musk has radically shaken up the satellite industry. With thousands of satellites launched and thousands more planned, Starlink has managed to position itself as the dominant",
-      "date": "2026-11-12",
-      "link": "https://www.satellitetoday.com/opinion/2026/11/12/avoiding-the-starlink-trap-why-the-satellite-industry-must-think-smarter-not-bigger/"
+      "title": "ULA Set to Return Vulcan to Flight in First Amazon Leo Launch",
+      "summary": "United Launch Alliance is set to return its Vulcan rocket to flight this weekend in its first launch for the Amazon Leo constellation. The Vulcan rocket has been out of",
+      "date": "2026-11-13",
+      "link": "https://www.satellitetoday.com/launch/2026/11/13/ula-set-to-return-vulcan-to-flight-in-first-amazon-leo-launch/"
     },
     {
       "sourceId": "viasat",
-      "title": "Gatehouse Satcom to Acquire Satlab to Build Integrated Radio for 5G NTN Solution",
-      "summary": "Gatehouse Satcom will acquire Satlab, a company that designs and manufactures radio for small satellites, under a new deal announced Thursday. Satlab, based in Aalborg, Denmark, develops S- and X-band",
-      "date": "2026-11-12",
-      "link": "https://www.satellitetoday.com/connectivity/2026/11/12/gatehouse-satcom-to-acquire-satlab-to-build-integrated-radio-for-5g-ntn-solution/"
+      "title": "Office of Space Commerce Picks 4 Companies for Regulatory Pilot",
+      "summary": "The Office of Space Commerce (OSC) has selected Cowboy Space, Portal Space Systems, Redwire subsidiary SpaceMD, and Starcloud to participate in a pilot program to help the office improve licensing",
+      "date": "2026-11-13",
+      "link": "https://www.satellitetoday.com/government-military/2026/11/13/office-of-space-commerce-picks-4-companies-for-regulatory-pilot/"
     },
     {
       "sourceId": "viasat",
-      "title": "Ukraine Reports More Restrictions to Starshield Access",
-      "summary": "Ukrainian President Volodymyr Zelenskyy reported more restrictions to Ukraine’s Starshield access, telling European leaders that the service is limited on terminals in motion to 100 miles per hour. This slowdown",
+      "title": "York Space Entering Unmanned Systems Market With Deal For Australian UGV Developer",
+      "summary": "Satellite developer and operator York Space Systems on Thursday said it has agreed to acquire Australia’s Outlook Industries in a deal that would expand it into a new market area,",
       "date": "2026-11-12",
-      "link": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/"
+      "link": "https://www.satellitetoday.com/technology/2026/11/12/york-space-entering-unmanned-systems-market-with-deal-for-australian-ugv-developer/"
     },
     {
       "sourceId": "viasat",
-      "title": "Kratos to Upgrade Gateway Antenna Systems for Thaicom-10 Satellite",
-      "summary": "Gulf Space Technology Public Company Limited (GST), formerly Thaicom, selected Kratos Defense & Security Solutions to upgrade its ground infrastructure ahead of the THAICOM-10 satellite launch. Kratos will deliver the",
-      "date": "2026-11-11",
-      "link": "https://www.satellitetoday.com/technology/2026/11/11/kratos-to-upgrade-gateway-antenna-systems-for-thaicom-10-satellite/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "8 Globalstar Refresh Satellites Complete Initial Tests In-Orbit",
-      "summary": "All eight of the Globalstar satellites launched in August have completed initial functional tests and begin the process of orbit-raising, manufacturer MDA Space confirmed on Tuesday. Two of the satellites",
-      "date": "2026-11-11",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/11/11/8-globalstar-refresh-satellites-complete-initial-tests-in-orbit/"
+      "title": "Italy’s Revolv Space Closes Series A Funding Round",
+      "summary": "Revolv Space, a new Italian space company, has closed its Series A Funding round worth 5 million euros ($5.6 million). Revolv Space designs and manufactures motion and power generation systems",
+      "date": "2026-11-12",
+      "link": "https://www.satellitetoday.com/finance/2026/11/12/italys-revolv-space-closes-series-a-funding-round/"
     },
     {
       "sourceId": "spacecom",
-      "title": "This supernova impostor baffled astronomers for 15 years — until they found a hidden black hole feeding on an unstable star",
-      "summary": "A hidden black hole or neutron star companion to an unstable massive star is causing the system to erupt in light that mimics a supernova explosion.",
-      "date": "2026-11-12",
-      "link": "https://www.space.com/astronomy/black-holes/this-supernova-impostor-baffled-astronomers-for-15-years-until-they-found-a-hidden-black-hole-feeding-on-an-unstable-star"
+      "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
+      "summary": "How the 'Dune' director turned a little-known short story into one of the best sci-fi movies of the 21st century",
+      "date": "2026-11-13",
+      "link": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Nov. 12, 2014: European Philae probe lands on Comet 67P, bounced twice and then got lost for nearly 2 years",
-      "summary": "On Nov. 12, 2014, a European spacecraft named Philae landed on Comet 67P, then bounced twice and got lost. Here's why it mattered.",
-      "date": "2026-11-12",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-12-2026"
+      "title": "Rocket Lab launching 100th space mission early on Nov. 14: Watch it live",
+      "summary": "Rocket Lab will launch its 100th space mission shortly after midnight on Saturday (Nov. 14), and you can watch the milestone liftoff live.",
+      "date": "2026-11-13",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite"
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
-      "summary": "\"It should be very bright, considerably brighter than the Starlink satellites due to its size.\"",
-      "date": "2026-11-12",
-      "link": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky"
+      "title": "California's brand-new Air & Space Center, home of the space shuttle Endeavour, opens today",
+      "summary": "The California Science Center's brand-new Samuel Oschin Air & Space Center —the home of NASA's space shuttle Endeavour —officially opened to the public today (Nov. 13).",
+      "date": "2026-11-13",
+      "link": "https://www.space.com/space-exploration/californias-brand-new-air-and-space-center-home-of-the-space-shuttle-endeavour-opens-today"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Warhammer Survivors' is the perfect gateway into the 40K universe",
-      "summary": "This Vampire Survivors spin-off has a lot of love for the famous grimdark sci-fi universe, but without the intimidatingly dense lore and complex systems.",
-      "date": "2026-11-12",
-      "link": "https://www.space.com/entertainment/space-games/warhammer-survivors-is-the-perfect-gateway-into-the-40k-universe"
+      "title": "Think you have good eyesight? Try counting the stars in the Pleiades tonight",
+      "summary": "Every November, I give myself a completely unscientific eyesight test using one of my favorite sights in the night sky — the Pleiades. How many stars can you see?",
+      "date": "2026-11-13",
+      "link": "https://www.space.com/stargazing/think-you-have-good-eyesight-try-counting-the-stars-in-the-pleiades-tonight"
     },
     {
       "sourceId": "spacecom",
-      "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
-      "summary": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
-      "date": "2026-11-12",
-      "link": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video"
+      "title": "'Martian Isolation' is an upcoming sci-fi survival horror game that looks like 'The Martian' and 'Event Horizon' had a horrific child",
+      "summary": "It looks like 'The Martian,' but due to international copyright laws, it's not.",
+      "date": "2026-11-13",
+      "link": "https://www.space.com/entertainment/space-games/martian-isolation-is-an-upcoming-sci-fi-survival-horror-game-that-looks-like-the-martian-and-event-horizon-had-a-horrific-child"
     },
     {
       "sourceId": "rspace",
-      "title": "A robot has assembled a structure in space for the first time",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xumee9/a_robot_has_assembled_a_structure_in_space_for/\"> <img src=\"https://external-preview.redd.it/EYXbCur-N-FwTF1WmqBwaq3xt1qRR_n0TSHBz8p6QLI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2fcb9dd58eb1c2471d…",
-      "date": "2026-11-12",
-      "link": "https://www.reddit.com/r/space/comments/1xumee9/a_robot_has_assembled_a_structure_in_space_for/"
+      "title": "Something to share",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My mom sent this to me this morning, I love that she sends me all the space related stuff she finds lol</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/still_thoughts_019\"> /u/still_thoughts_019 </a> <br/>…",
+      "date": "2026-11-13",
+      "link": "https://www.reddit.com/r/space/comments/1xvhfb0/something_to_share/"
     },
     {
       "sourceId": "rspace",
-      "title": "NASA's Parker Solar Probe finds a surprising magnetic reversal in the solar wind. Researchers discovered organized field rotations that flip direction between large and small plasma scales",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xuitmo/nasas_parker_solar_probe_finds_a_surprising/\"> <img src=\"https://external-preview.redd.it/GEipPyrZpJEauqKhS_nhg4rWk-Z5XPUf2npPf8OEwjI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99b0c5d265bd3b4d58974f…",
-      "date": "2026-11-12",
-      "link": "https://www.reddit.com/r/space/comments/1xuitmo/nasas_parker_solar_probe_finds_a_surprising/"
+      "title": "A new theory on dark matter looks like a quantum property of gravity",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xvh60d/a_new_theory_on_dark_matter_looks_like_a_quantum/\"> <img src=\"https://external-preview.redd.it/Xzx3I35I1sS8mSGMOZ48IurgqmBWiLsfY1TwWhIE3NA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcc059dc065d2fae26…",
+      "date": "2026-11-13",
+      "link": "https://www.reddit.com/r/space/comments/1xvh60d/a_new_theory_on_dark_matter_looks_like_a_quantum/"
     },
     {
       "sourceId": "rspace",
-      "title": "Pathfinder satellite enters orbit after successful launch",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xugr8k/pathfinder_satellite_enters_orbit_after/\"> <img src=\"https://external-preview.redd.it/QZLo88NhHUny5QszEC54HFjZU-lWeuYMlfuClm5SRQ8.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=615e1ec7ec31d2dbc9836233dd…",
-      "date": "2026-11-12",
-      "link": "https://www.reddit.com/r/space/comments/1xugr8k/pathfinder_satellite_enters_orbit_after/"
+      "title": "Why is there so much talk about commercial space stations for research and so little for manufacturing?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I feel like space stations get talked about a ton, as part of this grand idea of a \"space economy\", but the idea of having large infrastructure in orbit for manufacturing is barely talked about.",
+      "date": "2026-11-13",
+      "link": "https://www.reddit.com/r/space/comments/1xve6l3/why_is_there_so_much_talk_about_commercial_space/"
     },
     {
       "sourceId": "rspace",
-      "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xufvlh/esa_to_support_industryled_reusable_booster/\"> <img src=\"https://external-preview.redd.it/ajDtw77aG0VyY0R7FeMLvC5pwkmNjX1lWSwN0mru6Jc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2bb29fd8a561ae229b1e69…",
-      "date": "2026-11-12",
-      "link": "https://www.reddit.com/r/space/comments/1xufvlh/esa_to_support_industryled_reusable_booster/"
+      "title": "New exhibit featuring the full-sized Space Shuttle Endeavour opens TODAY, 11/13/2026 - at California Science Center!",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xvce4g/new_exhibit_featuring_the_fullsized_space_shuttle/\"> <img src=\"https://external-preview.redd.it/Vg2K4R5whLHbQjhAFYEjRsVAYivlwZPjN4J-4iQUwuw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=88f2696dc103f172…",
+      "date": "2026-11-13",
+      "link": "https://www.reddit.com/r/space/comments/1xvce4g/new_exhibit_featuring_the_fullsized_space_shuttle/"
     },
     {
       "sourceId": "rspace",
-      "title": "RFA Confirms Inaugural RFA ONE Launch Has Slipped to 2027",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xuful7/rfa_confirms_inaugural_rfa_one_launch_has_slipped/\"> <img src=\"https://external-preview.redd.it/hqp2T_nF2W8HurGoeztpqFhvDXe0ZHiFESLS4Rwg1iI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1ac42452196ba2c…",
-      "date": "2026-11-12",
-      "link": "https://www.reddit.com/r/space/comments/1xuful7/rfa_confirms_inaugural_rfa_one_launch_has_slipped/"
+      "title": "Why are most Gas Giants in fictions green, when no real giants in our solar system is green?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xvaf5e/why_are_most_gas_giants_in_fictions_green_when_no/\"> <img src=\"https://preview.redd.it/5bzabwblbe1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=480e59a77f56c81f80844f683e80fa6ef447fb82\" alt=\"Why are…",
+      "date": "2026-11-13",
+      "link": "https://www.reddit.com/r/space/comments/1xvaf5e/why_are_most_gas_giants_in_fictions_green_when_no/"
     },
     {
       "sourceId": "nga",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
+      "title": "Outbursts from a Massive Star",
+      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026.",
+      "date": "2026-11-13",
+      "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program.",
+      "date": "2026-11-13",
+      "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+      "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-11-13",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "A Global Rebound for Mangroves",
+      "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+      "date": "2026-11-13",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "I Am Artemis Katie Spicer",
       "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will…",
       "date": "2026-11-12",
       "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Heart in the Sky at NASA Kennedy",
-      "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida.",
-      "date": "2026-11-12",
-      "link": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA Ames Stars of the Month: November 2026",
-      "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc.",
-      "date": "2026-11-12",
-      "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
-      "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
-      "date": "2026-11-12",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-      "summary": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept.",
-      "date": "2026-11-12",
-      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
     }
   ]
 }
