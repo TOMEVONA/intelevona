@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T20:43:09.961Z",
+  "updated": "2026-11-14T18:40:42.355Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,27 @@
     },
     {
       "sourceId": "dod",
+      "title": "Task Force Senior Advisor Promises Service Members Clean, Comfortable Housing",
+      "summary": "After three weeks of leading the Barracks Task Force and visiting several military bases, Dakota Meyer, Medal of Honor recipient, understands the housing challenges service members are facing.",
+      "date": "2026-11-14",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4648538/task-force-senior-advisor-promises-service-members-clean-comfortable-housing/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Naval Academy Honors Marine Aviators With Harrier Display",
+      "summary": "The U.S. Naval Academy and the Marine Corps dedicated a retired AV-8B Harrier II as a permanent display at Navy-Marine Corps Memorial Stadium in Annapolis, Md., The display honors more than a century of Naval Academy graduates who served as Marine aviators.",
+      "date": "2026-11-13",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4648058/naval-academy-honors-marine-aviators-with-harrier-display/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "U.S., Colombian Armies Expand Cooperation",
+      "summary": "U.S. Army and Colombian army senior leaders met in Bogotá, Colombia, for the 17th round of staff talks between the two countries, where they expanded plans to work together against regional threats.",
+      "date": "2026-11-13",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4648217/us-colombian-armies-expand-cooperation/"
+    },
+    {
+      "sourceId": "dod",
       "title": "War Department Expands Childcare Assistance",
       "summary": "The War Department announced a pilot program that will expand the range of community-based childcare providers eligible for military fee assistance across five states.",
       "date": "2026-11-12",
@@ -224,27 +245,6 @@
       "summary": "A sentinel at the Tomb of the Unknown Soldier was commended for ordering a group to maintain respect following a Veterans Day ceremony.",
       "date": "2026-11-12",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4647270/sentinel-at-tomb-of-the-unknown-soldier-receives-award/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Army, Allies Prepare for Long-Range Air Assault in Hawaii",
-      "summary": "Thousands of U.S. and multinational forces are taking part in Joint Pacific Multinational Readiness Center Rotation 27-01 across the Hawaiian Islands.",
-      "date": "2026-11-12",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4647175/army-allies-prepare-for-long-range-air-assault-in-hawaii/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "USS Nimitz Trains New, Returning Naval Aviators",
-      "summary": "The aircraft carrier USS Nimitz completed its first east coast training underway in support of carrier qualifications for both new and experienced naval aviators.",
-      "date": "2026-11-10",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4646092/uss-nimitz-trains-new-returning-naval-aviators/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Hegseth, Polish Counterpart Announce Intent to Boost Military Cooperation",
-      "summary": "Secretary of War Pete Hegseth hosted Władysław Kosiniak-Kamysz, Poland's deputy prime minister and defense minister, during a bilateral engagement at the Pentagon.",
-      "date": "2026-11-10",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4646088/hegseth-polish-counterpart-announce-intent-to-boost-military-cooperation/"
     },
     {
       "sourceId": "viasat",
@@ -283,52 +283,45 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
-      "summary": "How the 'Dune' director turned a little-known short story into one of the best sci-fi movies of the 21st century",
-      "date": "2026-11-13",
-      "link": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk"
+      "title": "This Week In Space podcast: Episode 236 — Alienspotting",
+      "summary": "On Episode 236 of This Week In Space, Tariq Malik and Rod Pyle are joined by Mikhail Tikhonov to talk about how life can take more unusual forms, ones we might not even recognize.",
+      "date": "2026-11-14",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting"
     },
     {
       "sourceId": "spacecom",
-      "title": "Rocket Lab launching 100th space mission early on Nov. 14: Watch it live",
-      "summary": "Rocket Lab will launch its 100th space mission shortly after midnight on Saturday (Nov. 14), and you can watch the milestone liftoff live.",
-      "date": "2026-11-13",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite"
+      "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
+      "summary": "We're scared of the Xenomorphs again, but Aliens: Fireteam Elite 2 knows old-fashioned bug hunts shouldn't be a thing of the past.",
+      "date": "2026-11-14",
+      "link": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs"
     },
     {
       "sourceId": "spacecom",
-      "title": "California's brand-new Air & Space Center, home of the space shuttle Endeavour, opens today",
-      "summary": "The California Science Center's brand-new Samuel Oschin Air & Space Center —the home of NASA's space shuttle Endeavour —officially opened to the public today (Nov. 13).",
-      "date": "2026-11-13",
-      "link": "https://www.space.com/space-exploration/californias-brand-new-air-and-space-center-home-of-the-space-shuttle-endeavour-opens-today"
+      "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
+      "summary": "SpaceX is looking into why its latest Starship megarocket test flight missed the first of two planned landings on Friday (Nov. 13) during the Starship Flight 15 test.",
+      "date": "2026-11-14",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video"
     },
     {
       "sourceId": "spacecom",
-      "title": "Think you have good eyesight? Try counting the stars in the Pleiades tonight",
-      "summary": "Every November, I give myself a completely unscientific eyesight test using one of my favorite sights in the night sky — the Pleiades. How many stars can you see?",
-      "date": "2026-11-13",
-      "link": "https://www.space.com/stargazing/think-you-have-good-eyesight-try-counting-the-stars-in-the-pleiades-tonight"
+      "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
+      "summary": "On Nov. 14, 1969, the Apollo 12 astronauts launched to the moon. Here's why it mattered.",
+      "date": "2026-11-14",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Martian Isolation' is an upcoming sci-fi survival horror game that looks like 'The Martian' and 'Event Horizon' had a horrific child",
-      "summary": "It looks like 'The Martian,' but due to international copyright laws, it's not.",
-      "date": "2026-11-13",
-      "link": "https://www.space.com/entertainment/space-games/martian-isolation-is-an-upcoming-sci-fi-survival-horror-game-that-looks-like-the-martian-and-event-horizon-had-a-horrific-child"
+      "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
+      "summary": "SpaceX plans to catch the upper stage of its Starship megarocket at the launch pad today (Nov. 14), and you can watch the unprecedented action live.",
+      "date": "2026-11-14",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14"
     },
     {
       "sourceId": "rspace",
-      "title": "Something to share",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My mom sent this to me this morning, I love that she sends me all the space related stuff she finds lol</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/still_thoughts_019\"> /u/still_thoughts_019 </a> <br/>…",
+      "title": "[MEGATHREAD] SpaceX Starship Flight 15",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Today, SpaceX will launch what might be its most ambitious test flight yet of the company&#39;s massive Starship megarocket, the largest launch vehicle ever built.",
       "date": "2026-11-13",
-      "link": "https://www.reddit.com/r/space/comments/1xvhfb0/something_to_share/"
-    },
-    {
-      "sourceId": "rspace",
-      "title": "A new theory on dark matter looks like a quantum property of gravity",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xvh60d/a_new_theory_on_dark_matter_looks_like_a_quantum/\"> <img src=\"https://external-preview.redd.it/Xzx3I35I1sS8mSGMOZ48IurgqmBWiLsfY1TwWhIE3NA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcc059dc065d2fae26…",
-      "date": "2026-11-13",
-      "link": "https://www.reddit.com/r/space/comments/1xvh60d/a_new_theory_on_dark_matter_looks_like_a_quantum/"
+      "link": "https://www.reddit.com/r/space/comments/1xvjmd8/megathread_spacex_starship_flight_15/"
     },
     {
       "sourceId": "rspace",
@@ -346,10 +339,17 @@
     },
     {
       "sourceId": "rspace",
-      "title": "Why are most Gas Giants in fictions green, when no real giants in our solar system is green?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xvaf5e/why_are_most_gas_giants_in_fictions_green_when_no/\"> <img src=\"https://preview.redd.it/5bzabwblbe1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=480e59a77f56c81f80844f683e80fa6ef447fb82\" alt=\"Why are…",
+      "title": "China’s Tianwen-4 Jupiter mission to attempt Callisto moon landing",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xv6f11/chinas_tianwen4_jupiter_mission_to_attempt/\"> <img src=\"https://external-preview.redd.it/3-rCmp1vW0RBkWNCfd5b5MD2WmAGgRTELSrNvnSHYmQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac0f4a9ce8c3c41ae6ae86e…",
       "date": "2026-11-13",
-      "link": "https://www.reddit.com/r/space/comments/1xvaf5e/why_are_most_gas_giants_in_fictions_green_when_no/"
+      "link": "https://www.reddit.com/r/space/comments/1xv6f11/chinas_tianwen4_jupiter_mission_to_attempt/"
+    },
+    {
+      "sourceId": "rspace",
+      "title": "The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/space/comments/1xv4fm6/the_hubble_space_telescope_is_sinking_nasa_is/\"> <img src=\"https://external-preview.redd.it/WAI6JfIBop6LRz_Fm8U_lkHVBB_IL0ZMa2dz3ndWcjU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=00c7610812d73911177d…",
+      "date": "2026-11-13",
+      "link": "https://www.reddit.com/r/space/comments/1xv4fm6/the_hubble_space_telescope_is_sinking_nasa_is/"
     },
     {
       "sourceId": "nga",
