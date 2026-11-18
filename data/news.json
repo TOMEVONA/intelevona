@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T21:13:28.010Z",
+  "updated": "2026-11-18T21:40:39.587Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,20 @@
     },
     {
       "sourceId": "dod",
+      "title": "3,000 Miles, No Stops: Army Airborne Division Tests New Operational Guidance",
+      "summary": "Paratroopers assigned to the 11th Airborne Division parachuted into Hawaii in a joint forcible entry exercise as part of Joint Pacific Multinational Readiness Center Rotation 27-01.",
+      "date": "2026-11-18",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4652602/3000-miles-no-stops-army-airborne-division-tests-new-operational-guidance/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Report Shows Progress Toward DOW 2028 'Clean Audit' Goal",
+      "summary": "The War Department has made significant progress toward its 2028 clean-audit goal, according to an annual audit report. \"This is a really big deal for us,\" said Jules W. Hurst III, comptroller of the department.",
+      "date": "2026-11-18",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4652542/report-shows-progress-toward-dow-2028-clean-audit-goal/"
+    },
+    {
+      "sourceId": "dod",
       "title": "National Guard Airlift Wing Begins Operation Deep Freeze Support",
       "summary": "The New York Air National Guard's 109th Airlift Wing deployed 75 airmen and five ski-equipped aircraft to support Antarctic research during Operation Deep Freeze.",
       "date": "2026-11-18",
@@ -233,18 +247,11 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4649602/dow-looks-for-next-great-american-base-challenges-states-to-think-futuristically/"
     },
     {
-      "sourceId": "dod",
-      "title": "America's Corps of Cadets Will Build Patriotic, Honorable Leaders of Character",
-      "summary": "America's Corps of Cadets, an initiative Secretary of War Pete Hegseth outlined in his State of the Force address, aims to be a living laboratory of leadership, producing patriotic, honorable leaders of character for the nation.",
-      "date": "2026-11-17",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4649570/americas-corps-of-cadets-will-build-patriotic-honorable-leaders-of-character/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "NSA Warns About Potential Malware Hijacking CAC-Enabled Computers",
-      "summary": "There is a new threat from malware that targets personal computers when users have their common access cards installed in a card reader connected to the computer, according to a National Security Agency official.",
-      "date": "2026-11-16",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4649563/nsa-warns-about-potential-malware-hijacking-cac-enabled-computers/"
+      "sourceId": "viasat",
+      "title": "ESA, OHB and ClearSpace Move Forward on Active Debris Removal Mission",
+      "summary": "The European Space Agency awarded OHB a 102 million euro ($112 million) contract to serve as the prime contractor for the ClearSpace-1 (CS-1) active debris removal mission. In addition, OHB",
+      "date": "2026-11-18",
+      "link": "https://www.satellitetoday.com/technology/2026/11/18/esa-ohb-and-clearspace-move-forward-on-active-debris-removal-mission/"
     },
     {
       "sourceId": "viasat",
@@ -273,13 +280,6 @@
       "summary": "BREMEN, Germany — The CEO and Chief Digital Officer of Rheinmetall Electronics Timo Haas said that while the company has a lot of work to do to become a space player,",
       "date": "2026-11-17",
       "link": "https://www.satellitetoday.com/technology/2026/11/17/rheinmetall-eager-to-scale-in-space-and-develop-joint-venture-with-ohb/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "UK Startup Foundational.Space Launches Laser Retroreflector for Space Domain Awareness",
-      "summary": "BREMEN, Germany –Foundational.Space has developed an in-orbit optical satellite tracking technology, the Retro-2 laser retroreflector, reporting the tech recently demonstrated laser ranging signals in space. London startup Foundational.Space emerged from",
-      "date": "2026-11-17",
-      "link": "https://www.satellitetoday.com/technology/2026/11/17/uk-startup-foundational-space-launches-laser-retroreflector-for-space-domain-awareness/"
     },
     {
       "sourceId": "spacecom",
