@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:38:48.145Z",
+  "updated": "2026-11-21T19:59:21.401Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -178,6 +178,13 @@
     },
     {
       "sourceId": "ussf",
+      "title": "DAF fast-tracks Space Data Network to secure Joint Force connectivity",
+      "summary": "Scheduled to deliver regional capability this year and global coverage next year, the government-owned system will provide persistent, high-speed mesh network connectivity for U.S.",
+      "date": "2026-11-21",
+      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4657839/daf-fast-tracks-space-data-network-to-secure-joint-force-connectivity/"
+    },
+    {
+      "sourceId": "ussf",
       "title": "Vice Chief of Space Operations visits Thomas Jefferson High School for Guardian Spark outreach",
       "summary": "Guardian Spark is a U.S. Space Force outreach program that connects Guardians with students in grades 3 through 12 and introduces them to the service’s mission, personnel and career opportunities.<br/> <img…",
       "date": "2026-11-20",
@@ -205,11 +212,11 @@
       "link": "https://www.spaceforce.mil/News/Article-Display/Article/4646632/space-force-activates-special-operations-component-command-in-tampa/"
     },
     {
-      "sourceId": "ussf",
-      "title": "CSO C-Note 3-3: Forging the Guardian Ethos",
-      "summary": "In the latest C-Note, the message outlines three core principles — a common warfighting philosophy in the space domain, combat-credible readiness to deter and defeat adversaries, and a steadfast commitment to the quality of life and service for Guardians and their families.<br/>",
-      "date": "2026-11-10",
-      "link": "https://www.spaceforce.mil/News/Article-Display/Article/4646432/cso-c-note-3-3-forging-the-guardian-ethos/"
+      "sourceId": "dod",
+      "title": "Trump, UFC President Gift Half-Million Dollars to Marine Corps Band",
+      "summary": "President Donald J. Trump and Dana White, president of the mixed martial arts organization Ultimate Fighting Championship, presented the United States Marine Band with a $500,000 appreciation gift.",
+      "date": "2026-11-20",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4657727/trump-ufc-president-gift-half-million-dollars-to-marine-corps-band/"
     },
     {
       "sourceId": "dod",
@@ -238,13 +245,6 @@
       "summary": "Soldiers assigned to the 101st Airborne Division's 2nd Mobile Brigade have been testing a newly enhanced model of tactical field care currently known as the Advanced Resuscitation and Medical Skills for Operational Readiness training program.",
       "date": "2026-11-19",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4655268/soldiers-test-new-medical-training-program/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Expeditionary Wing Sharpens Counter-Small UAS Skills",
-      "summary": "Security forces airmen assigned to the 346th Air Expeditionary Wing in Ceiba, Puerto Rico, are training to counter threats from small drones. The hands-on training helps protect personnel, aircraft and infrastructure and keep air operations running across the U.S.",
-      "date": "2026-11-19",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4654857/expeditionary-wing-sharpens-counter-small-uas-skills/"
     },
     {
       "sourceId": "viasat",
@@ -283,38 +283,38 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Nov. 20, 1998: Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
-      "summary": "On Nov. 20, 1998, the first piece of the International Space Station launched into orbit. It was just one piece, but the foundation of something much larger.",
-      "date": "2026-11-20",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026"
+      "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
+      "summary": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic moon Io. Here's why it mattered.",
+      "date": "2026-11-21",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "Don't turn the moon into the Wild West, scientists warn",
-      "summary": "Researchers are calling for a moratorium on industrial exploitation of the moon, fearing the lunar environment may suffer irreversible damage if things move too fast.",
-      "date": "2026-11-20",
-      "link": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn"
+      "title": "This Week In Space podcast: Episode 237 — A Fond Farewell",
+      "summary": "On Episode 237 of This Week In Space, Tariq Malik and Rod Pyle sign off — temporarily — with a look at space news, a bushel of space jokes, and a recap of some of our funniest moments.",
+      "date": "2026-11-21",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell"
     },
     {
       "sourceId": "spacecom",
-      "title": "GTA hasn't gone to space (yet), but these sci-fi games can offer you a life of crime among the stars",
-      "summary": "Grand Theft Auto 6 is finally out, but if you're a sci-fi aficionado looking for similar experiences set in outer space, there are several alternatives.",
-      "date": "2026-11-20",
-      "link": "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars"
+      "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
+      "summary": "Assimilate this! How cyber-zombies and the \"birth of 'Star Trek'\" gave Jean-Luc Picard one of his finest hours.",
+      "date": "2026-11-21",
+      "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure"
     },
     {
       "sourceId": "spacecom",
-      "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
-      "summary": "Perseverance has been sidelined by an antenna issue, and the venerable Odyssey orbiter is dealing with a balky reaction wheel. NASA hopes both can get back to work by the end of November.",
-      "date": "2026-11-20",
-      "link": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches"
+      "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
+      "summary": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. Rather, it will go on display as a museum piece, according to company founder and CEO Elon Musk.",
+      "date": "2026-11-21",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says"
     },
     {
       "sourceId": "spacecom",
-      "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
-      "summary": "Aldebaran looks for all the world like the brightest member of the Hyades star cluster. It isn't — and discovering why changes the way you look at constellations.",
-      "date": "2026-11-20",
-      "link": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it"
+      "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+      "summary": "The BepiColombo spacecraft will finally arrive in orbit around Mercury today (Nov. 21), more than eight years after leaving its home planet.",
+      "date": "2026-11-21",
+      "link": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival"
     },
     {
       "sourceId": "rspace",
@@ -423,6 +423,20 @@
     },
     {
       "sourceId": "nasa",
+      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+      "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos!",
+      "date": "2026-11-21",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/"
+    },
+    {
+      "sourceId": "nasa",
+      "title": "Curiosity Spots Drifting Twilight Clouds",
+      "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall…",
+      "date": "2026-11-20",
+      "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/"
+    },
+    {
+      "sourceId": "nasa",
       "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
       "summary": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy.",
       "date": "2026-11-20",
@@ -441,20 +455,6 @@
       "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into…",
       "date": "2026-11-20",
       "link": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "APOD: 2026 November 20 – V-G-R",
-      "summary": "APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos!",
-      "date": "2026-11-20",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/"
-    },
-    {
-      "sourceId": "nasa",
-      "title": "The Stormy Southwest Pacific",
-      "summary": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
-      "date": "2026-11-20",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/"
     }
   ]
 }
