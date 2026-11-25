@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T22:15:35.643Z",
+  "updated": "2026-11-25T22:53:13.921Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,20 @@
     },
     {
       "sourceId": "dod",
+      "title": "U.S., Mexican Army Leaders Strengthen Bilateral Partnership",
+      "summary": "U.S. and Mexican army leaders met in Mexico City and finalized a plan to expand joint training, improve information sharing and strengthen border security cooperation through fiscal year 2027.",
+      "date": "2026-11-25",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4660227/us-mexican-army-leaders-strengthen-bilateral-partnership/"
+    },
+    {
+      "sourceId": "dod",
+      "title": "Hegseth Directs Military Pay System Modernization Prioritizing Warfighters",
+      "summary": "Secretary of War Pete Hegseth announced a Warrior Pay Modernization initiative that will serve as a comprehensive transformation of military pay systems to ensure warfighters are paid first and errors are reduced.",
+      "date": "2026-11-25",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4660118/hegseth-directs-military-pay-system-modernization-prioritizing-warfighters/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Fort Buchanan Brings Military Community Together for Thanksgiving",
       "summary": "Military leaders at Fort Buchanan, Puerto Rico, served Thanksgiving lunch to service members and civilians, bringing the military community together and recognizing the sacrifices of those who serve and their families.",
       "date": "2026-11-25",
@@ -231,20 +245,6 @@
       "summary": "The amphibious assault ship USS Kearsarge participated in surface warfare advanced tactical training, designed to increase force interoperability and combat capability by providing multiship, multiplatform and multiwarfare area training to surface units.",
       "date": "2026-11-24",
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4659197/kearsarge-conducts-surface-warfare-advanced-tactical-training/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "DOW Launches Automated SI Solution for Classification Management",
-      "summary": "The Automated Classification Management Environment aims to leverage super intelligence and automated workflows to classify and declassify millions of documents.",
-      "date": "2026-11-23",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4658620/dow-launches-automated-si-solution-for-classification-management/"
-    },
-    {
-      "sourceId": "dod",
-      "title": "Navy Family Takes Oath of Enlistment Together",
-      "summary": "A Long Island family took the Navy's oath of enlistment together aboard the USS San Antonio in New York City as Rachal and Cole Sweetser reenlisted and their son, Vito Steimaitis, took the oath for the first time.",
-      "date": "2026-11-23",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4658236/navy-family-takes-oath-of-enlistment-together/"
     },
     {
       "sourceId": "viasat",
@@ -311,10 +311,10 @@
     },
     {
       "sourceId": "spacecom",
-      "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
-      "summary": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
+      "title": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)",
+      "summary": "'Throwing myself into that, especially after how well Silka crafted the story and script, was something I was totally ready for.'",
       "date": "2026-11-25",
-      "link": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off"
+      "link": "https://www.space.com/entertainment/space-movies-shows/blade-runner-2099-cast-praise-the-incredible-set-designs-that-brought-the-sci-fi-universe-to-life-it-was-all-so-well-realized-interview"
     },
     {
       "sourceId": "rspace",
