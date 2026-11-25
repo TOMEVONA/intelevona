@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T23:20:47.955Z",
+  "updated": "2026-11-25T22:15:35.643Z",
   "articles": [
     {
       "sourceId": "spacenews",
@@ -213,6 +213,13 @@
     },
     {
       "sourceId": "dod",
+      "title": "Fort Buchanan Brings Military Community Together for Thanksgiving",
+      "summary": "Military leaders at Fort Buchanan, Puerto Rico, served Thanksgiving lunch to service members and civilians, bringing the military community together and recognizing the sacrifices of those who serve and their families.",
+      "date": "2026-11-25",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4659988/fort-buchanan-brings-military-community-together-for-thanksgiving/"
+    },
+    {
+      "sourceId": "dod",
       "title": "Corps of Engineers Navigates Historic Archaeological Discoveries in Hungary",
       "summary": "The U.S. Army Corps of Engineers, Europe District, began construction to increase the capacity of Kecskemét Air Base in Hungary, only to stumble upon archaeological sites across the footprint of the planned construction project.",
       "date": "2026-11-24",
@@ -240,11 +247,32 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4658236/navy-family-takes-oath-of-enlistment-together/"
     },
     {
-      "sourceId": "dod",
-      "title": "Florida National Guard Help Protect Hospital, Community Members During Severe Flooding",
-      "summary": "Florida National Guardsmen worked with local crews to build a temporary flood barrier around a hospital in Sanford, Florida, helping keep it accessible to patients, staff and emergency vehicles as floodwaters rose.",
-      "date": "2026-11-23",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4658207/florida-national-guard-help-protect-hospital-community-members-during-severe-fl/"
+      "sourceId": "viasat",
+      "title": "At NATO Edge, Alliance Leaders Say Speed of Tech Adoption is the New Measure of Power",
+      "summary": "IZMIR, Turky — Warfare in the present and future will be about who best uses and weaponizes AI and data as NATO nations gear up to a new reality. This",
+      "date": "2026-11-25",
+      "link": "https://www.satellitetoday.com/government-military/2026/11/25/at-nato-edge-alliance-leaders-say-speed-of-tech-adoption-is-the-new-measure-of-power/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "Northwood Space Demonstrates Full-Duplex Contacts With Government Satellite For Space Force",
+      "summary": "Northwood Space said it has demonstrated full-duplex contacts with a government satellite in Geosynchronous Orbit (GEO) using a company-developed ground-based antenna, a key milestone for the company’s technology that showcased",
+      "date": "2026-11-25",
+      "link": "https://www.satellitetoday.com/technology/2026/11/25/northwood-space-demonstrates-full-duplex-contacts-with-government-satellite-for-space-force/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "EnduroSat Buys 2 Dedicated Launches from Blue Origin",
+      "summary": "Bulgarian satellite manufacturer EnduroSat signed a launch deal with Blue Origin for two dedicated launches on New Glenn, with the first mission targeted for 2029. EnduroSat said the missions will",
+      "date": "2026-11-25",
+      "link": "https://www.satellitetoday.com/launch/2026/11/25/endurosat-buys-2-dedicated-launches-from-blue-origin/"
+    },
+    {
+      "sourceId": "viasat",
+      "title": "FCC Approves SpaceX’s 1-Million Satellite Orbital Data Center Constellation",
+      "summary": "The FCC granted SpaceX a sweeping approval for 1 million satellites to form an orbital data center constellation. Granting the approval on Nov. 25, the FCC said it enables SpaceX",
+      "date": "2026-11-25",
+      "link": "https://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-million-satellite-orbital-data-center-constellation/"
     },
     {
       "sourceId": "viasat",
@@ -254,67 +282,39 @@
       "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/11/24/blacksky-acquires-data-fusion-company-epochgeo-to-enhance-solutions/"
     },
     {
-      "sourceId": "viasat",
-      "title": "NATO Ready to Spend Billions on Defense",
-      "summary": "IZMIR, Turkey — NATO is ready to invest billions new capabilities and this will have some key long-term ramifications for the space industry. Dylan Browne, general manager of NATO Communications",
-      "date": "2026-11-24",
-      "link": "https://www.satellitetoday.com/government-military/2026/11/24/nato-ready-to-spend-billions-on-defense/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Cerberus Capital Management Acquires Satellite Manufacturing Business from Airbus U.S. Space & Defense",
-      "summary": "Private equity firm Cerberus Capital Management is acquiring the satellite manufacturing business of Airbus U.S. Space & Defense. The U.S. Space Systems business has built more than 650 satellites including",
-      "date": "2026-11-24",
-      "link": "https://www.satellitetoday.com/finance/2026/11/24/cerberus-capital-management-acquires-satellite-manufacturing-business-from-airbus-u-s-space-defense/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "Arianespace Mission Takes Amazon Leo to More than 400 Satellites",
-      "summary": "Amazon Leo now has more than 400 satellites in orbit after a Tuesday morning launch by Arianespace. The French launcher deployed 36 satellites in the mission, just over a week",
-      "date": "2026-11-24",
-      "link": "https://www.satellitetoday.com/launch/2026/11/24/arianespace-mission-takes-amazon-leo-to-more-than-400-satellites/"
-    },
-    {
-      "sourceId": "viasat",
-      "title": "‘Spectrum is Power,’ Europe Eyes Place in D2D Race",
-      "summary": "Debates around spectrum allocation in Europe are heating up as regulators approach big decisions on the topic at upcoming summits. After a spate of spectrum deals around the world in",
-      "date": "2026-11-23",
-      "link": "https://www.satellitetoday.com/connectivity/2026/11/23/spectrum-is-power-europe-eyes-place-in-d2d-race/"
+      "sourceId": "spacecom",
+      "title": "December full moon 2026: When, where and how to see the Cold Moon",
+      "summary": "Your guide to December's full Cold Moon, from peak times to skywatching highlights.",
+      "date": "2026-11-25",
+      "link": "https://www.space.com/stargazing/december-full-moon-2026-when-where-and-how-to-see-the-cold-moon"
     },
     {
       "sourceId": "spacecom",
-      "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-      "summary": "SpaceX launched its fifth classified mission for U.S. national security this month today (Nov. 24), from Vandenberg Space Force Base in California.",
-      "date": "2026-11-24",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video"
+      "title": "On this day in space! Nov. 25, 1970: NASA's 'wingless' M2-F3 'lifting body' aircraft makes its 1st powered flight ahead of supersonic tests",
+      "summary": "On Nov. 25, 1970, an experimental aircraft called the Northrop M2-F3 made its first powered flight. Here's why it mattered.",
+      "date": "2026-11-25",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026"
     },
     {
       "sourceId": "spacecom",
-      "title": "On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn't reach space",
-      "summary": "On Nov. 24, 1947, the U.S. Navy launched the first Aerobee rocket into the sky, but it never reached space. Here's why it mattered.",
-      "date": "2026-11-24",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026"
+      "title": "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos)",
+      "summary": "Explore Ashley Zelinskie's 'The Weight of Space' Monuments in marble, Ejecta prints, Launch Sequence sculptures and interactive Crowded Sky at Heft Gallery in New York City.",
+      "date": "2026-11-25",
+      "link": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos"
     },
     {
       "sourceId": "spacecom",
-      "title": "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)",
-      "summary": "'Today, sitting here in November of 2026, the world is catching up quicker to the world of 'Blade Runner.''",
-      "date": "2026-11-24",
-      "link": "https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview"
+      "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites",
+      "summary": "The FCC has given SpaceX approval to deploy one million of its Starmind AI data-center satellites in orbit, a move that could transform the landscape of the final frontier.",
+      "date": "2026-11-25",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites"
     },
     {
       "sourceId": "spacecom",
-      "title": "1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death",
-      "summary": "Astronomers have caught a rare transitional phase at the end of a star's life, a fossilized remnant of stellar death throes, that could change our picture of the sun's final days.",
-      "date": "2026-11-24",
-      "link": "https://www.space.com/astronomy/stars/1st-ever-detection-of-a-dying-stars-final-nuclear-heartbeat-challenges-what-we-know-about-our-suns-eventual-death"
-    },
-    {
-      "sourceId": "spacecom",
-      "title": "YunLone Galaxy star projector review — a sub-$30 customizable night light",
-      "summary": "The YunLone Galaxy Projector is inexpensive but competent and offers a surprising amount of customization.",
-      "date": "2026-11-24",
-      "link": "https://www.space.com/technology/yunlone-galaxy-star-projector-review"
+      "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
+      "summary": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
+      "date": "2026-11-25",
+      "link": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off"
     },
     {
       "sourceId": "rspace",
@@ -423,38 +423,38 @@
     },
     {
       "sourceId": "nasa",
-      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
-      "summary": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home.",
-      "date": "2026-11-24",
-      "link": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/"
+      "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "summary": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program.",
+      "date": "2026-11-25",
+      "link": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/"
     },
     {
       "sourceId": "nasa",
-      "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
-      "summary": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time. Experts from across the agency, the U.S.",
-      "date": "2026-11-24",
-      "link": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/"
+      "title": "NASA Eyes Crop Candidates for Future Menus",
+      "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth.",
+      "date": "2026-11-25",
+      "link": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
     },
     {
       "sourceId": "nasa",
-      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
-      "summary": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements.",
-      "date": "2026-11-24",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/"
+      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+      "summary": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office.",
+      "date": "2026-11-25",
+      "link": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/"
     },
     {
       "sourceId": "nasa",
-      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
-      "summary": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station.",
-      "date": "2026-11-24",
-      "link": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/"
+      "title": "Eye of the Sahara",
+      "summary": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania.",
+      "date": "2026-11-25",
+      "link": "https://www.nasa.gov/image-article/eye-of-the-sahara/"
     },
     {
       "sourceId": "nasa",
-      "title": "AGU Hyperwall Schedule",
-      "summary": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below.",
-      "date": "2026-11-24",
-      "link": "https://science.nasa.gov/earth/agu-hyperwall-schedule/"
+      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+      "summary": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+      "date": "2026-11-25",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/"
     }
   ]
 }
